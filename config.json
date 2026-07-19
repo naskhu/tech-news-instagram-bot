@@ -16,6 +16,11 @@
     {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
     {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/"},
     {"name": "Google Blog", "url": "https://blog.google/rss/"},
-    {"name": "Microsoft Blog", "url": "https://blogs.microsoft.com/feed/"}
+    {"name": "Microsoft Blog", "url": "https://blogs.microsoft.com/feed/"},
+    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
+    {"name": "Lifehacker", "url": "https://lifehacker.com/feed/rss"},
+    {"name": "Gizmodo", "url": "https://gizmodo.com/feed"},
+    {"name": "The Information", "url": "https://www.theinformation.com/feed"},
+    {"name": "The Next Web", "url": "https://thenextweb.com/feed"}
   ]
 }
