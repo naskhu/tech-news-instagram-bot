@@ -38,8 +38,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate post-ready files
-        run: python bot.py
+      - name: Generate posts with verified news photos only
+        run: python strict_runner.py
 
       - name: Upload generated posts
         uses: actions/upload-artifact@v4
@@ -57,11 +57,11 @@ jobs:
           git add output state.json
 
           if git diff --cached --quiet; then
-            echo "No new posts to commit."
+            echo "No new photo-based posts to commit."
             exit 0
           fi
 
-          git commit -m "Generate tech news Instagram posts"
+          git commit -m "Generate photo-based tech news Instagram posts"
 
           for attempt in 1 2 3 4 5; do
             git fetch origin main
