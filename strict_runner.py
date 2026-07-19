@@ -76,7 +76,11 @@ def main() -> None:
         print(f"No unprocessed news from the latest {freshness_hours} hours.")
         return
 
-    limit = max(1, int(config.get("posts_per_run", 1)))
+    configured_limit = config.get("posts_per_run", 1)
+    process_all = isinstance(configured_limit, str) and configured_limit.strip().lower() == "all"
+    limit = None if process_all else max(1, int(configured_limit))
+    print("Post limit: all eligible new articles." if process_all else f"Post limit: {limit}.")
+
     max_words = min(34, max(20, int(config.get("summary_max_words", 34))))
     generated = 0
     skipped_without_photo = 0
@@ -155,7 +159,7 @@ def main() -> None:
         )
         print(f"Generated fresh news post: {image_path.relative_to(bot.ROOT)}")
 
-        if generated >= limit:
+        if limit is not None and generated >= limit:
             break
 
     state["processed"] = list(processed)[-5000:]
@@ -171,6 +175,7 @@ def main() -> None:
             "generated_count": generated,
             "skipped_without_photo_count": skipped_without_photo,
             "maximum_news_age_hours": freshness_hours,
+            "posts_per_run": "all" if process_all else limit,
         }
     )
     print(
