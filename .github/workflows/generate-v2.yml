@@ -48,7 +48,7 @@ jobs:
           if find run-output -type f -print -quit 2>/dev/null | grep -q .; then
             echo "has_files=true" >> "$GITHUB_OUTPUT"
             echo "Files generated in this run:"
-            find run-output -type f -sort
+            find run-output -type f -print | sort
           else
             echo "has_files=false" >> "$GITHUB_OUTPUT"
             echo "::notice title=No new images::No fresh article with a valid news photo was generated. Check history/news-log.jsonl for the run log."
