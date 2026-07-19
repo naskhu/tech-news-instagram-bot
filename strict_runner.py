@@ -6,6 +6,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import bot
+import direct_sources
 
 RUN_OUTPUT_DIR = bot.ROOT / "run-output"
 HISTORY_DIR = bot.ROOT / "history"
@@ -56,8 +57,23 @@ def main() -> None:
     freshness_hours = max(1, int(config.get("news_max_age_hours", 24)))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=freshness_hours)
 
-    all_stories = bot.collect_stories(config, processed)
+    rss_config = dict(config)
+    rss_config["feeds"] = [feed for feed in config.get("feeds", []) if feed.get("type", "rss") == "rss"]
+    rss_stories = bot.collect_stories(rss_config, processed)
+    direct_stories = direct_sources.collect_direct_stories(config, processed)
+    all_stories = rss_stories + direct_stories
+
+    # Remove duplicate URLs discovered through more than one source.
+    unique_stories: dict[str, dict] = {}
+    for story in all_stories:
+        unique_stories.setdefault(story["id"], story)
+    all_stories = sorted(unique_stories.values(), key=lambda item: item["published"], reverse=True)
+
     stories = [story for story in all_stories if story["published"] >= cutoff]
+    print(
+        f"Source check complete: {len(rss_stories)} RSS candidate(s), "
+        f"{len(direct_stories)} direct-page candidate(s), {len(stories)} eligible new article(s)."
+    )
 
     skipped_old = len(all_stories) - len(stories)
     if skipped_old:
