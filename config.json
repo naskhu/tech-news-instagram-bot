@@ -3,6 +3,7 @@
   "instagram_handle": "@naskhu",
   "posts_per_run": "all",
   "summary_max_words": 42,
+  "news_max_age_hours": 24,
   "hashtags": [
     "#TechNews",
     "#Technology",
@@ -22,6 +23,20 @@
     {"name": "Gizmodo", "url": "https://gizmodo.com/feed"},
     {"name": "The Information", "url": "https://www.theinformation.com/feed"},
     {"name": "The Next Web", "url": "https://thenextweb.com/feed"},
-    {"name": "Reuters Technology", "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Ftechnology&hl=en-US&gl=US&ceid=US%3Aen"}
+    {"name": "TechRadar", "url": "https://www.techradar.com/rss"},
+    {
+      "name": "Reuters Technology",
+      "type": "html",
+      "url": "https://www.reuters.com/technology/",
+      "include_paths": ["/technology/"],
+      "max_articles": 20
+    },
+    {
+      "name": "PCMag News",
+      "type": "html",
+      "url": "https://www.pcmag.com/news",
+      "include_paths": ["/news/"],
+      "max_articles": 20
+    }
   ]
 }
