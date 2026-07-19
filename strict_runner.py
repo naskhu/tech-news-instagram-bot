@@ -8,6 +8,8 @@ from pathlib import Path
 import bot
 
 RUN_OUTPUT_DIR = bot.ROOT / "run-output"
+HISTORY_DIR = bot.ROOT / "history"
+HISTORY_PATH = HISTORY_DIR / "news-log.jsonl"
 
 
 def copy_for_download(*paths: Path) -> None:
@@ -18,14 +20,38 @@ def copy_for_download(*paths: Path) -> None:
         shutil.copy2(path, destination)
 
 
+def append_history(record: dict) -> None:
+    HISTORY_DIR.mkdir(parents=True, exist_ok=True)
+    with HISTORY_PATH.open("a", encoding="utf-8") as history_file:
+        history_file.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+
+def story_record(story: dict, status: str, run_utc: str, **extra: object) -> dict:
+    record = {
+        "logged_utc": datetime.now(timezone.utc).isoformat(),
+        "run_utc": run_utc,
+        "status": status,
+        "story_id": story["id"],
+        "title": story["title"],
+        "source": story["source"],
+        "url": story["url"],
+        "published_utc": story["published"].isoformat(),
+    }
+    record.update(extra)
+    return record
+
+
 def main() -> None:
     config = bot.load_json(bot.CONFIG_PATH, {})
     state = bot.load_json(bot.STATE_PATH, {"processed": []})
     processed = set(state.get("processed", []))
+    run_utc = datetime.now(timezone.utc).isoformat()
 
-    # The downloadable artifact must contain files from this run only.
+    # Generated media is temporary: every run starts with clean folders.
     shutil.rmtree(RUN_OUTPUT_DIR, ignore_errors=True)
+    shutil.rmtree(bot.OUTPUT_DIR, ignore_errors=True)
     RUN_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    bot.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     freshness_hours = max(1, int(config.get("news_max_age_hours", 24)))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=freshness_hours)
@@ -38,6 +64,15 @@ def main() -> None:
         print(f"Skipped {skipped_old} article(s) older than {freshness_hours} hours.")
 
     if not stories:
+        append_history(
+            {
+                "logged_utc": datetime.now(timezone.utc).isoformat(),
+                "run_utc": run_utc,
+                "status": "no_new_unprocessed_news",
+                "maximum_news_age_hours": freshness_hours,
+                "generated_count": 0,
+            }
+        )
         print(f"No unprocessed news from the latest {freshness_hours} hours.")
         return
 
@@ -52,15 +87,23 @@ def main() -> None:
         )
         hero, hero_url = bot.download_best_image(image_candidates)
 
-        # Strict mode: never generate a fallback graphic.
         if hero is None or not hero_url:
             skipped_without_photo += 1
+            append_history(
+                story_record(
+                    story,
+                    "skipped_no_valid_photo",
+                    run_utc,
+                    image_candidates_checked=min(len(image_candidates), 12),
+                )
+            )
             print(f"Skipped (no valid news photo): {story['title']}")
             continue
 
         source_text = article_text or story["rss_text"] or story["title"]
         summary = bot.summarize(source_text, max_words=max_words)
         if not summary:
+            append_history(story_record(story, "skipped_no_usable_summary", run_utc))
             print(f"Skipped (no usable summary): {story['title']}")
             continue
 
@@ -96,19 +139,40 @@ def main() -> None:
             json.dumps(metadata, indent=2, ensure_ascii=False), encoding="utf-8"
         )
 
-        # Only these newly generated files are placed in the downloadable artifact.
         copy_for_download(image_path, caption_path, metadata_path)
 
         processed.add(story["id"])
         generated += 1
+        append_history(
+            story_record(
+                story,
+                "generated",
+                run_utc,
+                hero_image_url=hero_url,
+                image=str(image_path.relative_to(bot.ROOT)),
+                caption=str(caption_path.relative_to(bot.ROOT)),
+            )
+        )
         print(f"Generated fresh news post: {image_path.relative_to(bot.ROOT)}")
 
         if generated >= limit:
             break
 
-    # Only successfully generated stories are marked processed.
-    state["processed"] = list(processed)[-1000:]
+    state["processed"] = list(processed)[-5000:]
+    state["last_run_utc"] = run_utc
+    state["last_run_generated"] = generated
     bot.STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
+
+    append_history(
+        {
+            "logged_utc": datetime.now(timezone.utc).isoformat(),
+            "run_utc": run_utc,
+            "status": "run_complete",
+            "generated_count": generated,
+            "skipped_without_photo_count": skipped_without_photo,
+            "maximum_news_age_hours": freshness_hours,
+        }
+    )
     print(
         f"Created {generated} fresh post(s). "
         f"Skipped {skipped_without_photo} fresh article(s) without a valid news photo."
