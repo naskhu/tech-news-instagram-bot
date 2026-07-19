@@ -1,0 +1,21 @@
+{
+  "title": "'The bypass is still six lines of JavaScript': Security experts warn that Claude for Chrome browser extension could be hijacked, despite it alerting Anthropic several times that something was wrong",
+  "summary": "Security researchers at Manifold Security have claimed Anthropic's Claude for Chrome browser extension contains two unpatched vulnerabilities in version 1.0.80, released July 7, 2026.",
+  "source": "TechRadar",
+  "url": "https://www.techradar.com/pro/the-bypass-is-still-six-lines-of-javascript-security-experts-warn-that-claude-for-chrome-browser-extension-could-be-hijacked-despite-it-alerting-anthropic-several-times-that-something-was-wrong",
+  "published_utc": "2026-07-19T18:05:00+00:00",
+  "generated_utc": "2026-07-19T19:22:40.837605+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.mos.cms.futurecdn.net/hkechUkk5KHAbcMTCNVxG4-1280-80.png",
+  "hero_image_used": true,
+  "strict_news_photo_only": true,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-19/the-bypass-is-still-six-lines-of-javascript-security-experts-warn-that.png",
+  "caption": "output/2026-07-19/the-bypass-is-still-six-lines-of-javascript-security-experts-warn-that.txt"
+}
