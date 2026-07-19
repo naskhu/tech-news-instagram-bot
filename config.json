@@ -1,7 +1,7 @@
 {
   "brand_name": "TECH NEWS DAILY",
   "instagram_handle": "@naskhu",
-  "posts_per_run": 2,
+  "posts_per_run": "all",
   "summary_max_words": 42,
   "hashtags": [
     "#TechNews",
