@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: tech-news-generator
+  group: tech-news-generator-main
   cancel-in-progress: false
 
 jobs:
@@ -18,13 +18,16 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: Check out repository
+      - name: Check out latest main branch
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
-      - name: Sync latest main branch
-        run: git pull --ff-only origin main
+      - name: Synchronize repository
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -46,9 +49,11 @@ jobs:
           if-no-files-found: warn
           retention-days: 30
 
-      - name: Commit and push new posts
+      - name: Commit and safely push new posts
+        shell: bash
         run: |
-          set -e
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output state.json
@@ -60,18 +65,27 @@ jobs:
 
           git commit -m "Generate tech news Instagram posts"
 
-          for attempt in 1 2 3; do
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt} of 5"
             git fetch origin main
-            git rebase origin/main
+
+            # Replay this generated-post commit on top of the newest main.
+            # For generated output/state conflicts, retain this run's version.
+            if ! git rebase -X theirs origin/main; then
+              git rebase --abort || true
+              echo "Rebase failed. Retrying from the latest remote state."
+              sleep $((attempt * 4))
+              continue
+            fi
 
             if git push origin HEAD:main; then
               echo "Generated posts pushed successfully."
               exit 0
             fi
 
-            echo "Push attempt ${attempt} failed; retrying."
-            sleep $((attempt * 5))
+            echo "Remote changed again; retrying."
+            sleep $((attempt * 4))
           done
 
-          echo "Unable to push after three attempts."
+          echo "Unable to push generated posts after five attempts."
           exit 1
