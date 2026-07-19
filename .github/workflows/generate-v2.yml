@@ -38,14 +38,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate posts with verified news photos only
+      - name: Generate fresh posts with verified news photos only
         run: python strict_runner.py
 
-      - name: Upload generated posts
+      - name: Upload only posts created in this run
         uses: actions/upload-artifact@v4
         with:
-          name: instagram-posts-v2-${{ github.run_number }}
-          path: output/
+          name: new-instagram-posts-${{ github.run_number }}
+          path: run-output/
           if-no-files-found: warn
           retention-days: 30
 
@@ -57,11 +57,11 @@ jobs:
           git add output state.json
 
           if git diff --cached --quiet; then
-            echo "No new photo-based posts to commit."
+            echo "No new fresh photo-based posts to commit."
             exit 0
           fi
 
-          git commit -m "Generate photo-based tech news Instagram posts"
+          git commit -m "Generate fresh photo-based tech news Instagram posts"
 
           for attempt in 1 2 3 4 5; do
             git fetch origin main
