@@ -41,12 +41,26 @@ jobs:
       - name: Generate fresh posts with verified news photos only
         run: python strict_runner.py
 
+      - name: Check files created in this run
+        id: new_posts
+        shell: bash
+        run: |
+          if find run-output -type f -print -quit 2>/dev/null | grep -q .; then
+            echo "has_files=true" >> "$GITHUB_OUTPUT"
+            echo "Files generated in this run:"
+            find run-output -type f -sort
+          else
+            echo "has_files=false" >> "$GITHUB_OUTPUT"
+            echo "No new posts were generated. No download artifact will be created."
+          fi
+
       - name: Upload only posts created in this run
+        if: steps.new_posts.outputs.has_files == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: new-instagram-posts-${{ github.run_number }}
           path: run-output/
-          if-no-files-found: warn
+          if-no-files-found: error
           retention-days: 30
 
       - name: Commit and safely push generated posts
