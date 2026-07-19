@@ -51,7 +51,7 @@ jobs:
             find run-output -type f -sort
           else
             echo "has_files=false" >> "$GITHUB_OUTPUT"
-            echo "::notice title=No new images::No fresh article with a valid news photo was generated in this run."
+            echo "::notice title=No new images::No fresh article with a valid news photo was generated. Check history/news-log.jsonl for the run log."
           fi
 
       - name: Upload only posts created in this run
@@ -63,37 +63,28 @@ jobs:
           if-no-files-found: error
           retention-days: 30
 
-      - name: Commit and safely push generated posts
+      - name: Commit latest posts and permanent news history
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # state.json always exists; output/ may not exist after a clean reset.
-          git add state.json
-          if [ -d output ]; then
-            git add -A -- output
-          fi
+          # -A records newly generated files, history updates, and deletion of old output files.
+          git add -A -- state.json output history
 
           if git diff --cached --quiet; then
-            echo "No new fresh photo-based posts to commit."
+            echo "No state, history, or generated-file changes to commit."
             exit 0
           fi
 
-          git commit -m "Generate fresh photo-based tech news Instagram posts"
+          git commit -m "Update fresh tech news posts and history"
 
           for attempt in 1 2 3 4 5; do
             git fetch origin main
 
             if ! git rebase origin/main; then
-              git checkout --theirs state.json || true
-              if [ -d output ]; then
-                git checkout --theirs output || true
-              fi
-              git add state.json
-              if [ -d output ]; then
-                git add -A -- output
-              fi
+              git checkout --theirs state.json output history || true
+              git add -A -- state.json output history
               GIT_EDITOR=true git rebase --continue || {
                 git rebase --abort
                 echo "Rebase conflict could not be resolved."
@@ -102,7 +93,7 @@ jobs:
             fi
 
             if git push origin HEAD:main; then
-              echo "Generated posts pushed successfully."
+              echo "Latest posts and news history pushed successfully."
               exit 0
             fi
 
