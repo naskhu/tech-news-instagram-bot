@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.3
 feedparser==6.0.11
 Pillow==11.1.0
-pillow-avif-plugin==1.5.2
+pillow-avif-plugin==1.5.5
 requests==2.32.3
