@@ -1,9 +1,9 @@
-name: Generate Tech News Post
+name: Generate Tech News Posts
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 0,6,12,18 * * *"
+    - cron: "15 * * * *"
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     steps:
       - name: Check out latest main branch
@@ -38,39 +38,40 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate post-ready files
-        run: python bot.py
+      - name: Audit all sources and generate new posts
+        run: python strict_runner.py
 
-      - name: Upload generated posts
+      - name: Upload current-run posts and source audit
         uses: actions/upload-artifact@v4
         with:
           name: instagram-posts-${{ github.run_number }}
-          path: output/
+          path: |
+            run-output/
+            history/source-audit.json
+            history/news-log.jsonl
           if-no-files-found: warn
           retention-days: 30
 
-      - name: Commit and safely push new posts
+      - name: Commit and safely push state, history and posts
         shell: bash
         run: |
           set -euo pipefail
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output state.json
+          git add -A output state.json history/news-log.jsonl history/source-audit.json
 
           if git diff --cached --quiet; then
-            echo "No new posts to commit."
+            echo "No repository changes to commit."
             exit 0
           fi
 
-          git commit -m "Generate tech news Instagram posts"
+          git commit -m "Audit sources and generate tech news posts"
 
           for attempt in 1 2 3 4 5; do
             echo "Push attempt ${attempt} of 5"
             git fetch origin main
 
-            # Replay this generated-post commit on top of the newest main.
-            # For generated output/state conflicts, retain this run's version.
             if ! git rebase -X theirs origin/main; then
               git rebase --abort || true
               echo "Rebase failed. Retrying from the latest remote state."
@@ -79,7 +80,7 @@ jobs:
             fi
 
             if git push origin HEAD:main; then
-              echo "Generated posts pushed successfully."
+              echo "Generated posts and audit pushed successfully."
               exit 0
             fi
 
