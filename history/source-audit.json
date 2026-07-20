@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-07-20T08:08:36.457418+00:00",
+  "run_utc": "2026-07-20T08:11:01.449909+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-17T08:08:36.457506+00:00",
+  "cutoff_utc": "2026-07-17T08:11:01.450093+00:00",
   "eligible_story_count": 204,
   "sources": [
     {
@@ -26,13 +26,11 @@
       ],
       "rss_candidates": 20,
       "page_links": 26,
-      "page_articles": 25,
+      "page_articles": 26,
       "eligible_new": 20,
       "already_processed": 0,
-      "older_than_window": 6,
-      "metadata_errors": {
-        "http_403": 1
-      }
+      "older_than_window": 7,
+      "metadata_errors": {}
     },
     {
       "source": "The Verge",
@@ -396,8 +394,8 @@
       "already_processed": 0,
       "older_than_window": 10,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 5
       }
     },
     {
