@@ -2,6 +2,15 @@ name: Generate Tech News Posts
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - config.json
+      - feed_sources.py
+      - strict_runner.py
+      - requirements.txt
+      - .github/workflows/generate.yml
   schedule:
     - cron: "15 * * * *"
 
