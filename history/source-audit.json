@@ -1,0 +1,442 @@
+{
+  "run_utc": "2026-07-20T08:08:36.457418+00:00",
+  "freshness_hours": 72,
+  "cutoff_utc": "2026-07-17T08:08:36.457506+00:00",
+  "eligible_story_count": 204,
+  "sources": [
+    {
+      "source": "TechCrunch",
+      "rss_attempts": [
+        {
+          "url": "https://techcrunch.com/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "entries": 20,
+          "error": "",
+          "redirected_to": "https://techcrunch.com/feed/"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://techcrunch.com/latest/",
+          "status": 200,
+          "links": 26,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 20,
+      "page_links": 26,
+      "page_articles": 25,
+      "eligible_new": 20,
+      "already_processed": 0,
+      "older_than_window": 6,
+      "metadata_errors": {
+        "http_403": 1
+      }
+    },
+    {
+      "source": "The Verge",
+      "rss_attempts": [
+        {
+          "url": "https://www.theverge.com/rss/index.xml",
+          "status": 200,
+          "content_type": "application/xml; charset=UTF-8",
+          "entries": 10,
+          "error": "",
+          "redirected_to": "https://www.theverge.com/rss/index.xml"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://www.theverge.com/",
+          "status": 200,
+          "links": 30,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 9,
+      "page_links": 30,
+      "page_articles": 30,
+      "eligible_new": 15,
+      "already_processed": 0,
+      "older_than_window": 17,
+      "metadata_errors": {}
+    },
+    {
+      "source": "Ars Technica",
+      "rss_attempts": [
+        {
+          "url": "https://feeds.arstechnica.com/arstechnica/index",
+          "status": 200,
+          "content_type": "text/xml; charset=utf-8",
+          "entries": 20,
+          "error": "",
+          "redirected_to": "https://feeds.arstechnica.com/arstechnica/index"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://arstechnica.com/",
+          "status": 200,
+          "links": 30,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 20,
+      "page_links": 30,
+      "page_articles": 30,
+      "eligible_new": 16,
+      "already_processed": 0,
+      "older_than_window": 14,
+      "metadata_errors": {}
+    },
+    {
+      "source": "MIT Technology Review",
+      "rss_attempts": [
+        {
+          "url": "https://www.technologyreview.com/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "entries": 10,
+          "error": "",
+          "redirected_to": "https://www.technologyreview.com/feed/"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://www.technologyreview.com/",
+          "status": 200,
+          "links": 30,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 10,
+      "page_links": 30,
+      "page_articles": 30,
+      "eligible_new": 3,
+      "already_processed": 0,
+      "older_than_window": 31,
+      "metadata_errors": {}
+    },
+    {
+      "source": "Google Blog",
+      "rss_attempts": [
+        {
+          "url": "https://blog.google/rss/",
+          "status": 200,
+          "content_type": "application/xml; charset=utf-8",
+          "entries": 20,
+          "error": "",
+          "redirected_to": "https://blog.google/rss/"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://blog.google/",
+          "status": 200,
+          "links": 10,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 18,
+      "page_links": 10,
+      "page_articles": 0,
+      "eligible_new": 1,
+      "already_processed": 0,
+      "older_than_window": 17,
+      "metadata_errors": {
+        "no_article_metadata": 1,
+        "missing_title": 9
+      }
+    },
+    {
+      "source": "Microsoft Blog",
+      "rss_attempts": [
+        {
+          "url": "https://blogs.microsoft.com/?feed=rss2",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "entries": 10,
+          "error": "",
+          "redirected_to": "https://blogs.microsoft.com/feed/"
+        },
+        {
+          "url": "https://blogs.microsoft.com/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "entries": 10,
+          "error": "",
+          "redirected_to": "https://blogs.microsoft.com/feed/"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://blogs.microsoft.com/",
+          "status": 200,
+          "links": 14,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 20,
+      "page_links": 14,
+      "page_articles": 14,
+      "eligible_new": 0,
+      "already_processed": 0,
+      "older_than_window": 14,
+      "metadata_errors": {}
+    },
+    {
+      "source": "Engadget",
+      "rss_attempts": [
+        {
+          "url": "https://www.engadget.com/rss.xml",
+          "status": 200,
+          "content_type": "text/xml; charset=UTF-8",
+          "entries": 20,
+          "error": "",
+          "redirected_to": "https://www.engadget.com/rss.xml"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://www.engadget.com/",
+          "status": 200,
+          "links": 32,
+          "error": ""
+        },
+        {
+          "url": "https://www.engadget.com/latest/",
+          "status": 200,
+          "links": 0,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 20,
+      "page_links": 32,
+      "page_articles": 32,
+      "eligible_new": 30,
+      "already_processed": 0,
+      "older_than_window": 2,
+      "metadata_errors": {}
+    },
+    {
+      "source": "Lifehacker",
+      "rss_attempts": [
+        {
+          "url": "https://lifehacker.com/feed/rss",
+          "status": 200,
+          "content_type": "application/xml;charset=UTF-8",
+          "entries": 100,
+          "error": "",
+          "redirected_to": "https://lifehacker.com/feed/rss"
+        },
+        {
+          "url": "https://lifehacker.com/feed",
+          "status": 200,
+          "content_type": "application/xml;charset=UTF-8",
+          "entries": 100,
+          "error": "",
+          "redirected_to": "https://lifehacker.com/feed/rss"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://lifehacker.com/",
+          "status": 200,
+          "links": 40,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 200,
+      "page_links": 40,
+      "page_articles": 40,
+      "eligible_new": 14,
+      "already_processed": 0,
+      "older_than_window": 99,
+      "metadata_errors": {}
+    },
+    {
+      "source": "Gizmodo",
+      "rss_attempts": [
+        {
+          "url": "https://gizmodo.com/feed",
+          "status": 403,
+          "content_type": "text/html; charset=UTF-8",
+          "entries": 0,
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://gizmodo.com/feed",
+          "redirected_to": "https://gizmodo.com/feed"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://gizmodo.com/",
+          "status": 403,
+          "links": 0,
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://gizmodo.com/"
+        },
+        {
+          "url": "https://gizmodo.com/latest",
+          "status": 403,
+          "links": 0,
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://gizmodo.com/latest"
+        }
+      ],
+      "rss_candidates": 0,
+      "page_links": 0,
+      "page_articles": 0,
+      "eligible_new": 0,
+      "already_processed": 0,
+      "older_than_window": 0,
+      "metadata_errors": {}
+    },
+    {
+      "source": "The Information",
+      "rss_attempts": [
+        {
+          "url": "https://www.theinformation.com/feed",
+          "status": 200,
+          "content_type": "application/atom+xml; charset=utf-8",
+          "entries": 20,
+          "error": "",
+          "redirected_to": "https://www.theinformation.com/feed"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://www.theinformation.com/",
+          "status": 200,
+          "links": 18,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 10,
+      "page_links": 18,
+      "page_articles": 12,
+      "eligible_new": 8,
+      "already_processed": 0,
+      "older_than_window": 8,
+      "metadata_errors": {
+        "not_article_path": 6
+      }
+    },
+    {
+      "source": "The Next Web",
+      "rss_attempts": [
+        {
+          "url": "https://thenextweb.com/latest/feed",
+          "status": 200,
+          "content_type": "application/xml",
+          "entries": 10,
+          "error": "",
+          "redirected_to": "https://thenextweb.com/latest/feed"
+        },
+        {
+          "url": "https://thenextweb.com/feed",
+          "status": 200,
+          "content_type": "application/xml",
+          "entries": 10,
+          "error": "",
+          "redirected_to": "https://thenextweb.com/feed"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://thenextweb.com/latest",
+          "status": 200,
+          "links": 10,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 20,
+      "page_links": 10,
+      "page_articles": 10,
+      "eligible_new": 4,
+      "already_processed": 7,
+      "older_than_window": 0,
+      "metadata_errors": {}
+    },
+    {
+      "source": "TechRadar",
+      "rss_attempts": [
+        {
+          "url": "https://www.techradar.com/feeds.xml",
+          "status": 200,
+          "content_type": "application/xml",
+          "entries": 50,
+          "error": "",
+          "redirected_to": "https://www.techradar.com/feeds.xml"
+        },
+        {
+          "url": "https://www.techradar.com/feeds/articletype/news",
+          "status": 200,
+          "content_type": "application/xml",
+          "entries": 50,
+          "error": "",
+          "redirected_to": "https://www.techradar.com/feeds/articletype/news"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://www.techradar.com/news",
+          "status": 200,
+          "links": 18,
+          "error": ""
+        },
+        {
+          "url": "https://www.techradar.com/",
+          "status": 200,
+          "links": 32,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 100,
+      "page_links": 50,
+      "page_articles": 44,
+      "eligible_new": 79,
+      "already_processed": 0,
+      "older_than_window": 10,
+      "metadata_errors": {
+        "no_article_metadata": 5,
+        "missing_title": 1
+      }
+    },
+    {
+      "source": "Reuters Technology",
+      "rss_attempts": [],
+      "page_attempts": [
+        {
+          "url": "https://www.reuters.com/technology/",
+          "status": 401,
+          "links": 0,
+          "error": "HTTPError:401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/"
+        }
+      ],
+      "rss_candidates": 0,
+      "page_links": 0,
+      "page_articles": 0,
+      "eligible_new": 0,
+      "already_processed": 0,
+      "older_than_window": 0,
+      "metadata_errors": {}
+    },
+    {
+      "source": "PCMag News",
+      "rss_attempts": [],
+      "page_attempts": [
+        {
+          "url": "https://www.pcmag.com/news",
+          "status": 200,
+          "links": 21,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 0,
+      "page_links": 21,
+      "page_articles": 21,
+      "eligible_new": 14,
+      "already_processed": 0,
+      "older_than_window": 7,
+      "metadata_errors": {}
+    }
+  ]
+}
