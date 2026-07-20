@@ -1,0 +1,22 @@
+{
+  "title": "A Korean AI model scores every possible driving path for safety before the car moves. CVPR called it a highlight.",
+  "summary": "Seoul National University’s SafeDrive model scores multiple driving paths for safety before choosing one. First Korean end-to-end autonomous driving paper to earn a CVPR highlight.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/safedrive-korea-self-driving-ai-cvpr-2026",
+  "published_utc": "2026-07-20T20:30:38+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-20T22:13:49.564337+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.thenextweb.com/2026/07/safedrive-korea-self-driving-ai-cvpr-2026.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-20/a-korean-ai-model-scores-every-possible-driving-path-for-safety-before.png",
+  "caption": "output/2026-07-20/a-korean-ai-model-scores-every-possible-driving-path-for-safety-before.txt"
+}

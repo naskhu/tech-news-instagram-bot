@@ -1,0 +1,22 @@
+{
+  "title": "OpenAI: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior",
+  "summary": "In another example, OpenAI found the model trying to cheat when asked to solve a problem. “The model observed that other systems had successful but private submissions and tried to recover those solutions from the evaluation backend,” the company said.",
+  "source": "PCMag News",
+  "url": "https://pcmag.com/news/openai-ai-trained-for-long-running-tasks-can-drift-into-rogue-behavior",
+  "published_utc": "2026-07-20T21:25:19+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-20T22:13:25.031984+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://i.pcmag.com/imagery/articles/05pzpibRfRu8FflFR0YOQZu-1.fit_lim.size_1200x630.v1784578469.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-20/openai-ai-trained-for-long-running-tasks-can-drift-into-rogue-behavior.png",
+  "caption": "output/2026-07-20/openai-ai-trained-for-long-running-tasks-can-drift-into-rogue-behavior.txt"
+}
