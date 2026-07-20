@@ -22,7 +22,8 @@
     {
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
-      "fallback_url": "https://www.engadget.com/latest/",
+      "fallback_url": "https://www.engadget.com/",
+      "fallback_include_paths": ["/ai/", "/news/", "/gaming/", "/mobile/", "/computing/", "/entertainment/", "/big-tech/", "/science/", "/space/", "/transportation/", "/cybersecurity/", "/wearables/"],
       "max_entries": 50
     },
     {"name": "Lifehacker", "url": "https://lifehacker.com/feed/rss"},
