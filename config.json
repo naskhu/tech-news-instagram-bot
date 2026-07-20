@@ -3,8 +3,9 @@
   "instagram_handle": "@naskhu",
   "posts_per_run": "all",
   "summary_max_words": 42,
-  "news_max_age_hours": 24,
-  "feed_max_entries": 50,
+  "news_max_age_hours": 72,
+  "feed_max_entries": 100,
+  "metadata_workers": 8,
   "hashtags": [
     "#TechNews",
     "#Technology",
@@ -13,47 +14,219 @@
     "#Digital"
   ],
   "feeds": [
-    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
-    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
-    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
-    {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/"},
-    {"name": "Google Blog", "url": "https://blog.google/rss/"},
-    {"name": "Microsoft Blog", "url": "https://blogs.microsoft.com/feed/"},
+    {
+      "name": "TechCrunch",
+      "rss_urls": [
+        "https://techcrunch.com/feed/"
+      ],
+      "page_urls": [
+        "https://techcrunch.com/latest/"
+      ],
+      "allowed_hosts": [
+        "techcrunch.com"
+      ],
+      "include_paths": [
+        "/202"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 30
+    },
+    {
+      "name": "The Verge",
+      "rss_urls": [
+        "https://www.theverge.com/rss/index.xml"
+      ],
+      "page_urls": [
+        "https://www.theverge.com/"
+      ],
+      "allowed_hosts": [
+        "theverge.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 30
+    },
+    {
+      "name": "Ars Technica",
+      "rss_urls": [
+        "https://feeds.arstechnica.com/arstechnica/index"
+      ],
+      "page_urls": [
+        "https://arstechnica.com/"
+      ],
+      "allowed_hosts": [
+        "arstechnica.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 30
+    },
+    {
+      "name": "MIT Technology Review",
+      "rss_urls": [
+        "https://www.technologyreview.com/feed/"
+      ],
+      "page_urls": [
+        "https://www.technologyreview.com/"
+      ],
+      "allowed_hosts": [
+        "technologyreview.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 30
+    },
+    {
+      "name": "Google Blog",
+      "rss_urls": [
+        "https://blog.google/rss/"
+      ],
+      "page_urls": [
+        "https://blog.google/"
+      ],
+      "allowed_hosts": [
+        "blog.google"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 30
+    },
+    {
+      "name": "Microsoft Blog",
+      "rss_urls": [
+        "https://blogs.microsoft.com/?feed=rss2",
+        "https://blogs.microsoft.com/feed/"
+      ],
+      "page_urls": [
+        "https://blogs.microsoft.com/"
+      ],
+      "allowed_hosts": [
+        "blogs.microsoft.com",
+        "news.microsoft.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 30
+    },
     {
       "name": "Engadget",
-      "url": "https://www.engadget.com/rss.xml",
-      "fallback_url": "https://www.engadget.com/",
-      "fallback_include_paths": ["/ai/", "/news/", "/gaming/", "/mobile/", "/computing/", "/entertainment/", "/big-tech/", "/science/", "/space/", "/transportation/", "/cybersecurity/", "/wearables/"],
-      "max_entries": 50
+      "rss_urls": [
+        "https://www.engadget.com/rss.xml"
+      ],
+      "page_urls": [
+        "https://www.engadget.com/",
+        "https://www.engadget.com/latest/"
+      ],
+      "allowed_hosts": [
+        "engadget.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
     },
-    {"name": "Lifehacker", "url": "https://lifehacker.com/feed/rss"},
+    {
+      "name": "Lifehacker",
+      "rss_urls": [
+        "https://lifehacker.com/feed/rss",
+        "https://lifehacker.com/feed"
+      ],
+      "page_urls": [
+        "https://lifehacker.com/",
+        "https://lifehacker.com/latest"
+      ],
+      "allowed_hosts": [
+        "lifehacker.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
     {
       "name": "Gizmodo",
-      "url": "https://gizmodo.com/feed",
-      "fallback_url": "https://gizmodo.com/latest",
-      "max_entries": 50
+      "rss_urls": [
+        "https://gizmodo.com/feed"
+      ],
+      "page_urls": [
+        "https://gizmodo.com/",
+        "https://gizmodo.com/latest"
+      ],
+      "allowed_hosts": [
+        "gizmodo.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
     },
-    {"name": "The Information", "url": "https://www.theinformation.com/feed"},
-    {"name": "The Next Web", "url": "https://thenextweb.com/feed", "max_entries": 50},
+    {
+      "name": "The Information",
+      "rss_urls": [
+        "https://www.theinformation.com/feed"
+      ],
+      "page_urls": [
+        "https://www.theinformation.com/"
+      ],
+      "allowed_hosts": [
+        "theinformation.com"
+      ],
+      "include_paths": [
+        "/articles/"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 30
+    },
+    {
+      "name": "The Next Web",
+      "rss_urls": [
+        "https://thenextweb.com/latest/feed",
+        "https://thenextweb.com/feed"
+      ],
+      "page_urls": [
+        "https://thenextweb.com/latest"
+      ],
+      "allowed_hosts": [
+        "thenextweb.com"
+      ],
+      "include_paths": [
+        "/news/"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
     {
       "name": "TechRadar",
-      "url": "https://www.techradar.com/rss",
-      "fallback_url": "https://www.techradar.com/news",
-      "max_entries": 50
+      "rss_urls": [
+        "https://www.techradar.com/feeds.xml",
+        "https://www.techradar.com/feeds/articletype/news"
+      ],
+      "page_urls": [
+        "https://www.techradar.com/news",
+        "https://www.techradar.com/"
+      ],
+      "allowed_hosts": [
+        "techradar.com"
+      ],
+      "max_entries": 150,
+      "max_page_articles": 50
     },
     {
       "name": "Reuters Technology",
-      "type": "html",
-      "url": "https://www.reuters.com/technology/",
-      "include_paths": ["/technology/"],
-      "max_articles": 20
+      "rss_urls": [],
+      "page_urls": [
+        "https://www.reuters.com/technology/"
+      ],
+      "allowed_hosts": [
+        "reuters.com"
+      ],
+      "include_paths": [
+        "/technology/"
+      ],
+      "max_page_articles": 40
     },
     {
       "name": "PCMag News",
-      "type": "html",
-      "url": "https://www.pcmag.com/news",
-      "include_paths": ["/news/"],
-      "max_articles": 20
+      "rss_urls": [],
+      "page_urls": [
+        "https://www.pcmag.com/news"
+      ],
+      "allowed_hosts": [
+        "pcmag.com"
+      ],
+      "include_paths": [
+        "/news/"
+      ],
+      "max_page_articles": 40
     }
   ]
 }
