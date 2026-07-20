@@ -4,6 +4,7 @@
   "posts_per_run": "all",
   "summary_max_words": 42,
   "news_max_age_hours": 24,
+  "feed_max_entries": 50,
   "hashtags": [
     "#TechNews",
     "#Technology",
@@ -18,12 +19,27 @@
     {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/"},
     {"name": "Google Blog", "url": "https://blog.google/rss/"},
     {"name": "Microsoft Blog", "url": "https://blogs.microsoft.com/feed/"},
-    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml",
+      "fallback_url": "https://www.engadget.com/latest/",
+      "max_entries": 50
+    },
     {"name": "Lifehacker", "url": "https://lifehacker.com/feed/rss"},
-    {"name": "Gizmodo", "url": "https://gizmodo.com/feed"},
+    {
+      "name": "Gizmodo",
+      "url": "https://gizmodo.com/feed",
+      "fallback_url": "https://gizmodo.com/latest",
+      "max_entries": 50
+    },
     {"name": "The Information", "url": "https://www.theinformation.com/feed"},
-    {"name": "The Next Web", "url": "https://thenextweb.com/feed"},
-    {"name": "TechRadar", "url": "https://www.techradar.com/rss"},
+    {"name": "The Next Web", "url": "https://thenextweb.com/feed", "max_entries": 50},
+    {
+      "name": "TechRadar",
+      "url": "https://www.techradar.com/rss",
+      "fallback_url": "https://www.techradar.com/news",
+      "max_entries": 50
+    },
     {
       "name": "Reuters Technology",
       "type": "html",
