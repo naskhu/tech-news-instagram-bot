@@ -1,0 +1,22 @@
+{
+  "title": "AI is more likely than humans to form biases when hiring",
+  "summary": "As companies increasingly deploy LLMs to screen résumés and even conduct interviews , the finding that models can form biases from their hiring experience “is a really serious implication that they should grapple with,” says Wang.",
+  "source": "MIT Technology Review",
+  "url": "https://technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
+  "published_utc": "2026-07-20T08:39:01+00:00",
+  "date_source": "json_ld",
+  "generated_utc": "2026-07-20T09:09:14.818321+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    225,
+    45,
+    54
+  ],
+  "image": "output/2026-07-20/ai-is-more-likely-than-humans-to-form-biases-when-hiring.png",
+  "caption": "output/2026-07-20/ai-is-more-likely-than-humans-to-form-biases-when-hiring.txt"
+}
