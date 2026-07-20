@@ -9,6 +9,7 @@ from PIL import Image, ImageDraw
 
 import bot
 import direct_sources
+import feed_sources
 
 RUN_OUTPUT_DIR = bot.ROOT / "run-output"
 HISTORY_DIR = bot.ROOT / "history"
@@ -86,7 +87,7 @@ def main() -> None:
         feed for feed in config.get("feeds", [])
         if feed.get("type", "rss") == "rss"
     ]
-    rss_stories = bot.collect_stories(rss_config, processed)
+    rss_stories = feed_sources.collect_rss_stories(rss_config, processed)
     direct_stories = direct_sources.collect_direct_stories(config, processed)
 
     unique_stories: dict[str, dict] = {}
@@ -101,7 +102,7 @@ def main() -> None:
     stories = [story for story in all_stories if story["published"] >= cutoff]
 
     print(
-        f"Source check complete: {len(rss_stories)} RSS candidate(s), "
+        f"Source check complete: {len(rss_stories)} RSS/fallback candidate(s), "
         f"{len(direct_stories)} direct-page candidate(s), "
         f"{len(stories)} eligible new article(s)."
     )
