@@ -5,15 +5,20 @@ import shutil
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+try:
+    import pillow_avif  # noqa: F401
+except ImportError:
+    pass
+
 from PIL import Image, ImageDraw
 
 import bot
-import direct_sources
 import feed_sources
 
 RUN_OUTPUT_DIR = bot.ROOT / "run-output"
 HISTORY_DIR = bot.ROOT / "history"
 HISTORY_PATH = HISTORY_DIR / "news-log.jsonl"
+SOURCE_AUDIT_PATH = HISTORY_DIR / "source-audit.json"
 
 
 def copy_for_download(*paths: Path) -> None:
@@ -40,6 +45,7 @@ def story_record(story: dict, status: str, run_utc: str, **extra: object) -> dic
         "source": story["source"],
         "url": story["url"],
         "published_utc": story["published"].isoformat(),
+        "date_source": story.get("date_source", ""),
     }
     record.update(extra)
     return record
@@ -68,61 +74,70 @@ def create_fallback_hero(story: dict) -> Image.Image:
     return image
 
 
+def save_state(state: dict, processed_order: list[str], run_utc: str, generated: int) -> None:
+    state["processed"] = list(dict.fromkeys(processed_order))[-10000:]
+    state["last_run_utc"] = run_utc
+    state["last_run_generated"] = generated
+    bot.STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
+
+
 def main() -> None:
     config = bot.load_json(bot.CONFIG_PATH, {})
     state = bot.load_json(bot.STATE_PATH, {"processed": []})
-    processed = set(state.get("processed", []))
+    processed_order = list(dict.fromkeys(state.get("processed", [])))
+    processed = set(processed_order)
     run_utc = datetime.now(timezone.utc).isoformat()
 
     shutil.rmtree(RUN_OUTPUT_DIR, ignore_errors=True)
     shutil.rmtree(bot.OUTPUT_DIR, ignore_errors=True)
     RUN_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     bot.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    HISTORY_DIR.mkdir(parents=True, exist_ok=True)
 
-    freshness_hours = max(1, int(config.get("news_max_age_hours", 24)))
+    freshness_hours = max(1, int(config.get("news_max_age_hours", 72)))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=freshness_hours)
 
-    rss_config = dict(config)
-    rss_config["feeds"] = [
-        feed for feed in config.get("feeds", [])
-        if feed.get("type", "rss") == "rss"
-    ]
-    rss_stories = feed_sources.collect_rss_stories(rss_config, processed)
-    direct_stories = direct_sources.collect_direct_stories(config, processed)
+    stories, source_audit = feed_sources.collect_stories(config, processed, cutoff)
 
-    unique_stories: dict[str, dict] = {}
-    for story in rss_stories + direct_stories:
-        unique_stories.setdefault(story["id"], story)
-
-    all_stories = sorted(
-        unique_stories.values(),
-        key=lambda item: item["published"],
-        reverse=True,
+    SOURCE_AUDIT_PATH.write_text(
+        json.dumps(
+            {
+                "run_utc": run_utc,
+                "freshness_hours": freshness_hours,
+                "cutoff_utc": cutoff.isoformat(),
+                "eligible_story_count": len(stories),
+                "sources": source_audit,
+            },
+            indent=2,
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
     )
-    stories = [story for story in all_stories if story["published"] >= cutoff]
 
     print(
-        f"Source check complete: {len(rss_stories)} RSS/fallback candidate(s), "
-        f"{len(direct_stories)} direct-page candidate(s), "
-        f"{len(stories)} eligible new article(s)."
+        f"Source audit complete: {len(source_audit)} source(s), "
+        f"{len(stories)} eligible unprocessed article(s)."
     )
 
-    skipped_old = len(all_stories) - len(stories)
-    if skipped_old:
-        print(f"Skipped {skipped_old} article(s) older than {freshness_hours} hours.")
-
     if not stories:
-        append_history({
-            "logged_utc": datetime.now(timezone.utc).isoformat(),
-            "run_utc": run_utc,
-            "status": "no_new_unprocessed_news",
-            "maximum_news_age_hours": freshness_hours,
-            "generated_count": 0,
-        })
-        print(f"No unprocessed news from the latest {freshness_hours} hours.")
+        save_state(state, processed_order, run_utc, 0)
+        append_history(
+            {
+                "logged_utc": datetime.now(timezone.utc).isoformat(),
+                "run_utc": run_utc,
+                "status": "no_new_unprocessed_news",
+                "maximum_news_age_hours": freshness_hours,
+                "generated_count": 0,
+                "source_audit": str(SOURCE_AUDIT_PATH.relative_to(bot.ROOT)),
+            }
+        )
+        print(
+            f"No unprocessed news from the latest {freshness_hours} hours. "
+            f"See {SOURCE_AUDIT_PATH.relative_to(bot.ROOT)} for per-source reasons."
+        )
         return
 
-    configured_limit = config.get("posts_per_run", 1)
+    configured_limit = config.get("posts_per_run", "all")
     process_all = (
         isinstance(configured_limit, str)
         and configured_limit.strip().lower() == "all"
@@ -133,7 +148,7 @@ def main() -> None:
         if process_all else f"Post limit: {limit}."
     )
 
-    max_words = min(34, max(20, int(config.get("summary_max_words", 34))))
+    max_words = min(42, max(20, int(config.get("summary_max_words", 34))))
     generated = 0
     fallback_generated = 0
 
@@ -175,14 +190,14 @@ def main() -> None:
             "source": story["source"],
             "url": story["url"],
             "published_utc": story["published"].isoformat(),
+            "date_source": story.get("date_source", ""),
             "generated_utc": datetime.now(timezone.utc).isoformat(),
             "maximum_news_age_hours": freshness_hours,
             "hero_image_url": hero_url,
             "hero_image_used": not used_fallback,
             "fallback_image_used": used_fallback,
-            "strict_news_photo_only": False,
             "current_run_download_only": True,
-            "image_candidates_checked": min(len(image_candidates), 12),
+            "image_candidates_checked": min(len(image_candidates), 20),
             "theme_accent_rgb": list(bot.theme_for(story["source"])),
             "image": str(image_path.relative_to(bot.ROOT)),
             "caption": str(caption_path.relative_to(bot.ROOT)),
@@ -193,7 +208,10 @@ def main() -> None:
         )
 
         copy_for_download(image_path, caption_path, metadata_path)
-        processed.add(story["id"])
+
+        if story["id"] not in processed:
+            processed.add(story["id"])
+            processed_order.append(story["id"])
         generated += 1
 
         append_history(
@@ -212,20 +230,20 @@ def main() -> None:
         if limit is not None and generated >= limit:
             break
 
-    state["processed"] = list(processed)[-5000:]
-    state["last_run_utc"] = run_utc
-    state["last_run_generated"] = generated
-    bot.STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
+    save_state(state, processed_order, run_utc, generated)
 
-    append_history({
-        "logged_utc": datetime.now(timezone.utc).isoformat(),
-        "run_utc": run_utc,
-        "status": "run_complete",
-        "generated_count": generated,
-        "fallback_generated_count": fallback_generated,
-        "maximum_news_age_hours": freshness_hours,
-        "posts_per_run": "all" if process_all else limit,
-    })
+    append_history(
+        {
+            "logged_utc": datetime.now(timezone.utc).isoformat(),
+            "run_utc": run_utc,
+            "status": "run_complete",
+            "generated_count": generated,
+            "fallback_generated_count": fallback_generated,
+            "maximum_news_age_hours": freshness_hours,
+            "posts_per_run": "all" if process_all else limit,
+            "source_audit": str(SOURCE_AUDIT_PATH.relative_to(bot.ROOT)),
+        }
+    )
     print(
         f"Created {generated} fresh post(s). "
         f"Used branded fallback images for {fallback_generated} article(s)."
