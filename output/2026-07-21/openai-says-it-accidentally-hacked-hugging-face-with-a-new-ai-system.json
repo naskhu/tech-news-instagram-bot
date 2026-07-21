@@ -1,0 +1,22 @@
+{
+  "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+  "summary": "On July 16th, Hugging Face disclosed a security incident that it says was driven by “an autonomous AI agent system.” Hugging Face’s AI agents detected and stopped the breach, which OpenAI has now admitted occurred during an evaluation of its models’ cybersecurity…",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+  "published_utc": "2026-07-21T21:48:54+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-21T22:12:17.625166+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&strip=all&crop=0%2C4.2558898069678%2C100%2C78.524215886627&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-07-21/openai-says-it-accidentally-hacked-hugging-face-with-a-new-ai-system.png",
+  "caption": "output/2026-07-21/openai-says-it-accidentally-hacked-hugging-face-with-a-new-ai-system.txt"
+}
