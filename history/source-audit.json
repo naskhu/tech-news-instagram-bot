@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-22T00:04:57.610281+00:00",
+  "run_utc": "2026-07-22T03:40:33.569556+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-19T00:04:57.611277+00:00",
-  "eligible_story_count": 4,
+  "cutoff_utc": "2026-07-19T03:40:33.570258+00:00",
+  "eligible_story_count": 6,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 1,
-      "already_processed": 23,
+      "eligible_new": 3,
+      "already_processed": 21,
       "older_than_window": 4,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 0,
-      "already_processed": 21,
+      "eligible_new": 1,
+      "already_processed": 19,
       "older_than_window": 16,
       "metadata_errors": {}
     },
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
-      "already_processed": 38,
-      "older_than_window": 72,
+      "eligible_new": 1,
+      "already_processed": 39,
+      "older_than_window": 73,
       "metadata_errors": {}
     },
     {
@@ -303,15 +303,15 @@
         {
           "url": "https://www.theinformation.com/",
           "status": 200,
-          "links": 20,
+          "links": 21,
           "error": ""
         }
       ],
-      "rss_candidates": 9,
-      "page_links": 20,
-      "page_articles": 13,
-      "eligible_new": 2,
-      "already_processed": 11,
+      "rss_candidates": 8,
+      "page_links": 21,
+      "page_articles": 14,
+      "eligible_new": 0,
+      "already_processed": 13,
       "older_than_window": 5,
       "metadata_errors": {
         "not_article_path": 7
@@ -424,15 +424,15 @@
         {
           "url": "https://www.pcmag.com/news",
           "status": 200,
-          "links": 24,
+          "links": 23,
           "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 24,
-      "page_articles": 24,
+      "page_links": 23,
+      "page_articles": 23,
       "eligible_new": 0,
-      "already_processed": 23,
+      "already_processed": 22,
       "older_than_window": 1,
       "metadata_errors": {}
     }
