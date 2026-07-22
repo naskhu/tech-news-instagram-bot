@@ -1,0 +1,22 @@
+{
+  "title": "University of Tennessee sues Anthropic over neural network patents",
+  "summary": "According to Bloomberg Law ’s reading of the complaint, the foundation alleges that Anthropic’s products implement patented methods for constructing neuromorphic networks, including a background execution scheduling system and a memory consolidation engine tied to one of the two patents.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/university-tennessee-sues-anthropic-neural-network-patents",
+  "published_utc": "2026-07-22T08:25:13+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-22T08:43:01.017676+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.thenextweb.com/2026/04/Anthropic.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-22/university-of-tennessee-sues-anthropic-over-neural-network-patents.png",
+  "caption": "output/2026-07-22/university-of-tennessee-sues-anthropic-over-neural-network-patents.txt"
+}
