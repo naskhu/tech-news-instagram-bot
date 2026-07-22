@@ -1,0 +1,22 @@
+{
+  "title": "Databricks’ cofounder just raised $20M to be the Switzerland of AI compute",
+  "summary": "So every AI team now calls five or ten providers on day one just to scrape together chips, as SiliconAngle explains. SkyPilot is a control plane that pools it all into one interface, across 20-plus clouds, neoclouds, Kubernetes, and Slurm.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/skypilot-20m-seed-ai-compute-stoica",
+  "published_utc": "2026-07-22T10:53:23+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-22T12:03:53.892841+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.thenextweb.com/2026/07/skypilot-the-company.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-22/databricks-cofounder-just-raised-20m-to-be-the-switzerland-of-ai-compu.png",
+  "caption": "output/2026-07-22/databricks-cofounder-just-raised-20m-to-be-the-switzerland-of-ai-compu.txt"
+}
