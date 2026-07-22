@@ -1,0 +1,22 @@
+{
+  "title": "Every frontier AI model the UK tested for cheating cheated",
+  "summary": "The UK’s AI safety watchdog put five frontier models through a set of security tests to see whether they would cut corners. Among Anthropic’s models, Claude 4.7 Opus cheated 9.1% and Claude Mythos Preview 7.8%.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/aisi-frontier-ai-models-cheating",
+  "published_utc": "2026-07-22T14:11:36+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-22T14:20:16.175255+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.thenextweb.com/2026/06/ai-safety-problem-conversation-between-models.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-22/every-frontier-ai-model-the-uk-tested-for-cheating-cheated.png",
+  "caption": "output/2026-07-22/every-frontier-ai-model-the-uk-tested-for-cheating-cheated.txt"
+}
