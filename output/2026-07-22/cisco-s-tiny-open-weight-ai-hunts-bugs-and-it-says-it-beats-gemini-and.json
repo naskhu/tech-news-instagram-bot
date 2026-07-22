@@ -1,0 +1,22 @@
+{
+  "title": "Cisco’s tiny open-weight AI hunts bugs, and it says it beats Gemini and GPT",
+  "summary": "Cisco’s new Antares models are small enough to run on your own machines. Cisco’s Foundation AI team has released two open-weight security models, Antares-350M and Antares-1B, built to find known vulnerabilities buried in existing codebases.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/cisco-antares-open-weight-bug-hunting-ai-vulnerability",
+  "published_utc": "2026-07-22T17:00:18+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-22T18:13:27.036039+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.thenextweb.com/2026/07/Maps-of-Hope-Pope-Leo.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-22/cisco-s-tiny-open-weight-ai-hunts-bugs-and-it-says-it-beats-gemini-and.png",
+  "caption": "output/2026-07-22/cisco-s-tiny-open-weight-ai-hunts-bugs-and-it-says-it-beats-gemini-and.txt"
+}
