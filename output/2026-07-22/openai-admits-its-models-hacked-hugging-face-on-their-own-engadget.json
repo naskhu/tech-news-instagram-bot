@@ -1,0 +1,22 @@
+{
+  "title": "OpenAI admits its models hacked Hugging Face on their own - Engadget",
+  "summary": "They escaped an isolated environment for testing and infiltrated Hugging Face without human input. The models deduced that Hugging Face could be hosting datasets or solutions for its evaluation problem, so they, well, used multiple attack vectors to infiltrate its systems.",
+  "source": "Engadget",
+  "url": "https://engadget.com/2220436/openai-admits-models-hacked-hugging-face-on-their-own",
+  "published_utc": "2026-07-22T03:47:34+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-22T06:42:12.606606+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.engadget.com/img/gallery/openai-admits-its-models-hacked-hugging-face-on-their-own/l-intro-1784691822.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-22/openai-admits-its-models-hacked-hugging-face-on-their-own-engadget.png",
+  "caption": "output/2026-07-22/openai-admits-its-models-hacked-hugging-face-on-their-own-engadget.txt"
+}
