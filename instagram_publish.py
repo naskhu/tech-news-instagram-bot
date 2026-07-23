@@ -9,6 +9,7 @@ import random
 import subprocess
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
@@ -23,6 +24,8 @@ MAX_POSTS = max(1, int(os.getenv("MAX_POSTS_PER_RUN", "1")))
 PUBLISH_MODE = os.getenv("PUBLISH_MODE", "batch").strip().lower() or "batch"
 DRAIN_WITHIN_SECONDS = max(0, int(os.getenv("DRAIN_WITHIN_SECONDS", "0")))
 COMMIT_STATE_EACH_POST = os.getenv("COMMIT_STATE_EACH_POST", "").strip() == "1"
+# Buffer's documented Instagram posts/reels/stories limit per rolling 24 hours.
+DAILY_LIMIT = max(1, int(os.getenv("INSTAGRAM_DAILY_LIMIT", "50")))
 BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 
 CREATE_POST_MUTATION = """
@@ -95,6 +98,44 @@ def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | Non
 
 def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
     return list_unpublished(state)[:MAX_POSTS]
+
+
+def parse_published_at(value: object) -> float | None:
+    if not isinstance(value, str) or not value.strip():
+        return None
+    text = value.strip().replace("Z", "+00:00")
+    try:
+        return datetime.fromisoformat(text).timestamp()
+    except ValueError:
+        return None
+
+
+def count_posted_last_24h(state: dict[str, Any]) -> int:
+    cutoff = time.time() - 24 * 60 * 60
+    posted = state.get("posted", {})
+    if not isinstance(posted, dict):
+        return 0
+    count = 0
+    for entry in posted.values():
+        if not isinstance(entry, dict):
+            continue
+        publisher = str(entry.get("publisher", "buffer")).lower()
+        if publisher not in {"buffer", "meta", ""}:
+            continue
+        ts = parse_published_at(entry.get("published_at_utc"))
+        if ts is not None and ts >= cutoff:
+            count += 1
+    return count
+
+
+def assert_daily_quota(state: dict[str, Any]) -> None:
+    used = count_posted_last_24h(state)
+    if used >= DAILY_LIMIT:
+        raise DailyLimitReached(
+            f"Rolling 24h Instagram cap reached ({used}/{DAILY_LIMIT}). "
+            "Resume after older posts age out of the window."
+        )
+    print(f"Rolling 24h Buffer usage: {used}/{DAILY_LIMIT}")
 
 
 def public_image_url(image: Path) -> str:
@@ -212,7 +253,13 @@ def publish_post(
         raise RuntimeError(f"Unexpected Buffer createPost response: {json.dumps(result)}")
 
     post_id = str(result["post"]["id"])
-    print(f"Buffer post created: id={post_id} status={result['post'].get('status')}")
+    status = str(result["post"].get("status") or "").strip().lower()
+    print(f"Buffer post created: id={post_id} status={status or 'unknown'}")
+    if status in {"error", "failed", "rejected"}:
+        raise RuntimeError(
+            f"Buffer created post {post_id} but status={status}. "
+            "Check Buffer → Instagram channel (reconnect Instagram / plan limits)."
+        )
     return post_id
 
 
@@ -300,6 +347,7 @@ def publish_one(
     caption: Path,
     metadata: Path | None,
 ) -> None:
+    assert_daily_quota(state)
     post_id = publish_post(access_token, channel_id, image, caption)
     record_post(state, channel_id, image, caption, metadata, post_id)
     print(f"Published {image.as_posix()} as Buffer post {post_id}")
@@ -308,17 +356,28 @@ def publish_one(
 
 def drain_queue(access_token: str, channel_id: str) -> int:
     deadline = time.time() + DRAIN_WITHIN_SECONDS
-    initial_delay = random.randint(0, min(300, max(0, DRAIN_WITHIN_SECONDS // 12)))
+    target = MAX_POSTS
+    initial_delay = random.randint(0, min(180, max(0, DRAIN_WITHIN_SECONDS // 10)))
     print(
-        f"Drain mode: publish all pending posts randomly within {DRAIN_WITHIN_SECONDS}s "
-        f"(initial delay {initial_delay}s)"
+        f"Drain mode: publish up to {target} post(s) randomly within {DRAIN_WITHIN_SECONDS}s "
+        f"(initial delay {initial_delay}s, daily cap {DAILY_LIMIT}/24h)"
     )
     if initial_delay:
         time.sleep(initial_delay)
 
     published = 0
-    while time.time() < deadline:
+    while published < target and time.time() < deadline:
         state = load_state()
+        try:
+            assert_daily_quota(state)
+        except DailyLimitReached as exc:
+            leftover = len(list_unpublished(state))
+            print(
+                f"Daily cap reached after {published} post(s) this run: {exc}. "
+                f"Leaving {leftover} queued for the next day."
+            )
+            return published
+
         pending = list_unpublished(state)
         if not pending:
             print("Queue empty; drain complete.")
@@ -336,16 +395,19 @@ def drain_queue(access_token: str, channel_id: str) -> int:
             return published
 
         published += 1
-
-        remaining = len(pending) - 1
-        if remaining <= 0:
-            print("Queue empty after this post; drain complete.")
+        remaining_this_run = target - published
+        remaining_queue = len(pending) - 1
+        if remaining_this_run <= 0 or remaining_queue <= 0:
+            print(
+                f"Finished this tick ({published} posted). "
+                f"Queue remaining: {max(0, remaining_queue)}."
+            )
             break
 
         seconds_left = deadline - time.time()
-        delay = inter_post_delay_seconds(remaining, seconds_left)
+        delay = inter_post_delay_seconds(remaining_this_run, seconds_left)
         print(
-            f"Remaining unpublished: {remaining}. "
+            f"Remaining this tick: {remaining_this_run}. "
             f"Sleeping {delay}s before next random publish."
         )
         if delay > 0:
@@ -354,8 +416,8 @@ def drain_queue(access_token: str, channel_id: str) -> int:
     leftover = len(list_unpublished(load_state()))
     if leftover:
         print(
-            f"Drain window ended with {leftover} post(s) still queued; "
-            "the next automatic run will continue."
+            f"Tick complete with {leftover} post(s) still queued; "
+            "later automatic runs continue under the 50/24h cap."
         )
     return published
 
