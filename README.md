@@ -57,6 +57,7 @@ The **Publish to Instagram** workflow runs fully automatically:
 3. A backup timer runs **every 10 minutes** and continues draining anything still queued.
 4. Each image uses its matching `.txt` caption and a public git image URL for Buffer.
 5. Progress is saved to `instagram-posted.json` after each successful post.
+6. If Instagram's daily post limit (50) is hit, the run stops cleanly and retries automatically later.
 
 So new daily news is queued briefly, then automatically posted within about an hour — not left sitting for days. Manual runs still work (`max_posts=all` drains within an hour).
 
