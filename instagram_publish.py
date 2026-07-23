@@ -68,8 +68,36 @@ def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]
 
 
 def public_image_url(image: Path) -> str:
+    """Build the public raw.githubusercontent.com URL Meta will download from git."""
     encoded_path = "/".join(quote(part) for part in image.as_posix().split("/"))
     return f"https://raw.githubusercontent.com/{REPOSITORY}/{quote(BRANCH)}/{encoded_path}"
+
+
+def wait_for_public_image(image_url: str, attempts: int = 12, delay_seconds: float = 5.0) -> None:
+    """Wait until the committed image is publicly reachable for Meta."""
+    last_error: Exception | None = None
+    for attempt in range(1, attempts + 1):
+        try:
+            response = requests.get(image_url, timeout=30, stream=True)
+            if response.ok and int(response.headers.get("Content-Length", "1")) > 0:
+                response.close()
+                print(f"Public git image URL is ready: {image_url}")
+                return
+            last_error = RuntimeError(
+                f"HTTP {response.status_code} for {image_url}"
+            )
+            response.close()
+        except requests.RequestException as exc:
+            last_error = exc
+
+        print(
+            f"Waiting for git-hosted image (attempt {attempt}/{attempts}): {last_error}"
+        )
+        time.sleep(delay_seconds)
+
+    raise RuntimeError(
+        f"Image is not publicly available from git yet: {image_url} ({last_error})"
+    )
 
 
 def graph_post(endpoint: str, payload: dict[str, str], retries: int = 4) -> dict[str, Any]:
@@ -101,6 +129,7 @@ def publish_post(ig_user_id: str, access_token: str, image: Path, caption_file: 
         raise RuntimeError(f"Caption is empty: {caption_file}")
 
     image_url = public_image_url(image)
+    wait_for_public_image(image_url)
     print(f"Creating Instagram media container for {image.as_posix()}")
     container = graph_post(
         f"{ig_user_id}/media",
