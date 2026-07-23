@@ -13,7 +13,7 @@ A fully automated, no-API-key pipeline that collects technology news from RSS fe
 - Runs automatically with GitHub Actions
 - Commits generated posts to `output/`
 - Uploads each run as a downloadable GitHub Actions artifact
-- Publishes generated posts to Instagram through Meta Graph API when available, or via the local worker when Meta Content Publishing is unavailable
+- Publishes generated posts to Instagram through **Buffer** (recommended), or Meta Graph API / local worker as fallbacks
 - Records published files in `instagram-posted.json` (Actions) or `.local-instagram-posted.json` (local worker)
 
 ## Run it
@@ -27,33 +27,33 @@ The generation workflow also runs automatically four times per day and pushes ne
 
 ## Publishing options
 
-### A) Meta Graph API (preferred when available)
+### A) Buffer (recommended)
 
-Use this only if Meta Content Publishing works for your app. If Meta shows **“You don’t have access / This feature isn't available to you yet”**, use option B.
+Uses GitHub Actions + Buffer so Instagram sees normal Buffer publishing (lower automation risk than unofficial local login).
+
+Secrets required:
+
+- `BUFFER_ACCESS_TOKEN`
+- `BUFFER_CHANNEL_ID` (Instagram channel in Buffer)
+
+Requires an active Buffer plan that can post to Instagram.
+
+### B) Meta Graph API
+
+Only if Meta Content Publishing is available for your app.
 
 Secrets required:
 
 - `INSTAGRAM_IG_USER_ID`
 - `INSTAGRAM_ACCESS_TOKEN`
 
-### B) Local Instagram worker (recommended fallback now)
+### C) Local Instagram worker (last resort)
 
-See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**.
+See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**. Instagram often flags unofficial API posting — keep the Mac schedule off unless Buffer/Meta are unavailable.
 
-GitHub Actions keeps generating posts into git. On your Mac:
+### Publishing behavior (Actions)
 
-```bash
-cd ~/tech-news-instagram-bot
-source .venv/bin/activate
-python local_instagram_worker.py --store-password   # once; saves to Keychain (not .env)
-python local_instagram_worker.py
-```
-
-That pulls new files and posts queued images + captions to Instagram automatically (spread randomly within about an hour). Schedule it every 30 minutes with launchd/cron.
-
-### Publishing behavior (Meta Actions path)
-
-When Meta secrets are configured, **Publish to Instagram** runs automatically after Generate and on a backup schedule, using public git image URLs. If Meta secrets are missing, the Actions publish job skips cleanly and generation continues.
+**Publish to Instagram** runs after Generate and on a backup schedule, using public git image URLs for Buffer. If Buffer secrets are missing, the job skips cleanly and generation continues.
 
 ## Customize
 
@@ -69,4 +69,4 @@ Each generated story produces:
 
 ## Important
 
-Automatic publishing uses files committed to this public repository so Meta can download each image from a public URL. Review facts, wording, source attribution, and image rights before publishing. Sponsored or compensated content may require Instagram's paid-partnership disclosure.
+Automatic publishing uses files committed to this public repository so Buffer can download each image from a public URL. Review facts, wording, source attribution, and image rights before publishing. Sponsored or compensated content may require Instagram's paid-partnership disclosure.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish generated Tech News posts to Instagram through Meta Graph API."""
+"""Publish generated Tech News posts to Instagram through Buffer's GraphQL API."""
 
 from __future__ import annotations
 
@@ -23,12 +23,29 @@ MAX_POSTS = max(1, int(os.getenv("MAX_POSTS_PER_RUN", "1")))
 PUBLISH_MODE = os.getenv("PUBLISH_MODE", "batch").strip().lower() or "batch"
 DRAIN_WITHIN_SECONDS = max(0, int(os.getenv("DRAIN_WITHIN_SECONDS", "0")))
 COMMIT_STATE_EACH_POST = os.getenv("COMMIT_STATE_EACH_POST", "").strip() == "1"
-GRAPH_API_VERSION = os.getenv("META_GRAPH_API_VERSION", "v23.0")
-GRAPH_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
+BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
+
+CREATE_POST_MUTATION = """
+mutation CreatePost($input: CreatePostInput!) {
+  createPost(input: $input) {
+    __typename
+    ... on PostActionSuccess {
+      post {
+        id
+        status
+        text
+      }
+    }
+    ... on MutationError {
+      message
+    }
+  }
+}
+"""
 
 
 class DailyLimitReached(RuntimeError):
-    """Instagram API publishing limit was hit; retry later."""
+    """Instagram/Buffer daily scheduling limit was hit; retry later."""
 
 
 def required_env(name: str) -> str:
@@ -81,13 +98,13 @@ def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]
 
 
 def public_image_url(image: Path) -> str:
-    """Build the public raw.githubusercontent.com URL Meta will download from git."""
+    """Build the public raw.githubusercontent.com URL Buffer will download from git."""
     encoded_path = "/".join(quote(part) for part in image.as_posix().split("/"))
     return f"https://raw.githubusercontent.com/{REPOSITORY}/{quote(BRANCH)}/{encoded_path}"
 
 
 def wait_for_public_image(image_url: str, attempts: int = 12, delay_seconds: float = 5.0) -> None:
-    """Wait until the committed image is publicly reachable for Meta."""
+    """Wait until the committed image is publicly reachable for Buffer."""
     last_error: Exception | None = None
     for attempt in range(1, attempts + 1):
         try:
@@ -115,85 +132,44 @@ def is_daily_limit_error(message: object) -> bool:
     text = str(message or "").lower()
     return (
         "maximum number of posts" in text
-        or "instagram allows in a day" in text
-        or "rate limit" in text
-        or "publish limit" in text
-        or "daily" in text and "limit" in text
-        or '"code": 4' in text
-        or '"code": 17' in text
-        or '"code": 32' in text
-        or '"code": 613' in text
+        or ("instagram allows in a day" in text)
+        or ("daily" in text and "limit" in text and "instagram" in text)
     )
 
 
-def graph_request(
-    method: str,
-    endpoint: str,
-    *,
-    params: dict[str, str] | None = None,
-    data: dict[str, str] | None = None,
-    retries: int = 4,
-) -> dict[str, Any]:
-    last_error: Exception | None = None
-    url = f"{GRAPH_BASE}/{endpoint.lstrip('/')}"
+def buffer_graphql(access_token: str, query: str, variables: dict[str, Any] | None = None) -> dict[str, Any]:
+    response = requests.post(
+        BUFFER_API_URL,
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {access_token}",
+        },
+        json={"query": query, "variables": variables or {}},
+        timeout=90,
+    )
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        raise RuntimeError(
+            f"Buffer API returned non-JSON HTTP {response.status_code}: {response.text[:300]}"
+        ) from exc
 
-    for attempt in range(1, retries + 1):
-        try:
-            response = requests.request(
-                method,
-                url,
-                params=params,
-                data=data,
-                timeout=90,
-            )
-            try:
-                payload = response.json()
-            except ValueError as exc:
-                raise RuntimeError(
-                    f"Meta API returned non-JSON HTTP {response.status_code}: "
-                    f"{response.text[:300]}"
-                ) from exc
-
-            body = json.dumps(payload)
-            if is_daily_limit_error(body):
-                raise DailyLimitReached(body)
-            if response.ok and "error" not in payload:
-                return payload
-            raise RuntimeError(f"Meta API HTTP {response.status_code}: {body}")
-        except DailyLimitReached:
-            raise
-        except (requests.RequestException, ValueError, RuntimeError) as exc:
-            last_error = exc
-            if attempt == retries:
-                break
-            delay = 10 * attempt
-            print(f"Meta API attempt {attempt} failed; retrying in {delay}s: {exc}")
-            time.sleep(delay)
-
-    raise RuntimeError(f"Meta API request failed: {last_error}")
-
-
-def wait_for_container(access_token: str, creation_id: str) -> None:
-    """Poll container status until FINISHED (or fail)."""
-    for attempt in range(1, 21):
-        payload = graph_request(
-            "GET",
-            creation_id,
-            params={"fields": "status_code", "access_token": access_token},
-        )
-        status = str(payload.get("status_code", "")).upper()
-        print(f"Container {creation_id} status: {status}")
-        if status in {"FINISHED", "PUBLISHED"}:
-            return
-        if status in {"ERROR", "EXPIRED"}:
-            raise RuntimeError(f"Media container {creation_id} failed with status {status}")
-        time.sleep(min(3 * attempt, 15))
-    raise RuntimeError(f"Media container {creation_id} did not become FINISHED in time")
+    if not response.ok:
+        body = json.dumps(payload)
+        if is_daily_limit_error(body):
+            raise DailyLimitReached(body)
+        raise RuntimeError(f"Buffer API HTTP {response.status_code}: {body}")
+    if payload.get("errors"):
+        body = json.dumps(payload["errors"])
+        if is_daily_limit_error(body):
+            raise DailyLimitReached(body)
+        raise RuntimeError(f"Buffer GraphQL errors: {body}")
+    return payload
 
 
 def publish_post(
-    ig_user_id: str,
     access_token: str,
+    channel_id: str,
     image: Path,
     caption_file: Path,
 ) -> str:
@@ -204,45 +180,54 @@ def publish_post(
     image_url = public_image_url(image)
     wait_for_public_image(image_url)
 
-    print(f"Creating Instagram media container for {image.as_posix()}")
-    container = graph_request(
-        "POST",
-        f"{ig_user_id}/media",
-        data={
-            "image_url": image_url,
-            "caption": caption,
-            "access_token": access_token,
+    print(f"Creating Buffer Instagram post for {image.as_posix()}")
+    payload = buffer_graphql(
+        access_token,
+        CREATE_POST_MUTATION,
+        {
+            "input": {
+                "text": caption,
+                "channelId": channel_id,
+                "schedulingType": "automatic",
+                "mode": "shareNow",
+                "assets": [{"image": {"url": image_url}}],
+                "metadata": {
+                    "instagram": {
+                        "type": "post",
+                        "shouldShareToFeed": True,
+                    }
+                },
+            }
         },
     )
-    creation_id = str(container["id"])
-    wait_for_container(access_token, creation_id)
 
-    print(f"Publishing Instagram media container {creation_id}")
-    published = graph_request(
-        "POST",
-        f"{ig_user_id}/media_publish",
-        data={
-            "creation_id": creation_id,
-            "access_token": access_token,
-        },
-    )
-    media_id = str(published["id"])
-    print(f"Instagram media published: id={media_id}")
-    return media_id
+    result = (payload.get("data") or {}).get("createPost") or {}
+    typename = result.get("__typename")
+    if typename == "MutationError" or result.get("message"):
+        message = result.get("message") or result
+        if is_daily_limit_error(message):
+            raise DailyLimitReached(str(message))
+        raise RuntimeError(f"Buffer rejected post: {message}")
+    if typename != "PostActionSuccess" or not result.get("post", {}).get("id"):
+        raise RuntimeError(f"Unexpected Buffer createPost response: {json.dumps(result)}")
+
+    post_id = str(result["post"]["id"])
+    print(f"Buffer post created: id={post_id} status={result['post'].get('status')}")
+    return post_id
 
 
 def record_post(
     state: dict[str, Any],
-    ig_user_id: str,
+    channel_id: str,
     image: Path,
     caption: Path,
     metadata: Path | None,
-    media_id: str,
+    post_id: str,
 ) -> None:
     state["posted"][image.as_posix()] = {
-        "instagram_media_id": media_id,
-        "ig_user_id": ig_user_id,
-        "publisher": "meta",
+        "buffer_post_id": post_id,
+        "channel_id": channel_id,
+        "publisher": "buffer",
         "caption_file": caption.as_posix(),
         "metadata_file": metadata.as_posix() if metadata else None,
         "image_url": public_image_url(image),
@@ -308,20 +293,20 @@ def inter_post_delay_seconds(remaining_after: int, seconds_left: float) -> int:
 
 
 def publish_one(
-    ig_user_id: str,
     access_token: str,
+    channel_id: str,
     state: dict[str, Any],
     image: Path,
     caption: Path,
     metadata: Path | None,
 ) -> None:
-    media_id = publish_post(ig_user_id, access_token, image, caption)
-    record_post(state, ig_user_id, image, caption, metadata, media_id)
-    print(f"Published {image.as_posix()} as Instagram media {media_id}")
+    post_id = publish_post(access_token, channel_id, image, caption)
+    record_post(state, channel_id, image, caption, metadata, post_id)
+    print(f"Published {image.as_posix()} as Buffer post {post_id}")
     commit_state_to_git()
 
 
-def drain_queue(ig_user_id: str, access_token: str) -> int:
+def drain_queue(access_token: str, channel_id: str) -> int:
     deadline = time.time() + DRAIN_WITHIN_SECONDS
     initial_delay = random.randint(0, min(300, max(0, DRAIN_WITHIN_SECONDS // 12)))
     print(
@@ -341,11 +326,11 @@ def drain_queue(ig_user_id: str, access_token: str) -> int:
 
         image, caption, metadata = pending[0]
         try:
-            publish_one(ig_user_id, access_token, state, image, caption, metadata)
+            publish_one(access_token, channel_id, state, image, caption, metadata)
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
-                f"Instagram publish limit reached after {published} post(s) this run: {exc}. "
+                f"Instagram daily limit reached after {published} post(s) this run: {exc}. "
                 f"Leaving {leftover} queued for later automatic runs."
             )
             return published
@@ -375,7 +360,7 @@ def drain_queue(ig_user_id: str, access_token: str) -> int:
     return published
 
 
-def publish_batch(ig_user_id: str, access_token: str) -> int:
+def publish_batch(access_token: str, channel_id: str) -> int:
     state = load_state()
     posts = discover_posts(state)
     if not posts:
@@ -385,11 +370,11 @@ def publish_batch(ig_user_id: str, access_token: str) -> int:
     published = 0
     for image, caption, metadata in posts:
         try:
-            publish_one(ig_user_id, access_token, state, image, caption, metadata)
+            publish_one(access_token, channel_id, state, image, caption, metadata)
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
-                f"Instagram publish limit reached after {published} post(s) this run: {exc}. "
+                f"Instagram daily limit reached after {published} post(s) this run: {exc}. "
                 f"Leaving {leftover} queued for later automatic runs."
             )
             return published
@@ -398,13 +383,13 @@ def publish_batch(ig_user_id: str, access_token: str) -> int:
 
 
 def main() -> int:
-    ig_user_id = required_env("INSTAGRAM_IG_USER_ID")
-    access_token = required_env("INSTAGRAM_ACCESS_TOKEN")
+    access_token = required_env("BUFFER_ACCESS_TOKEN")
+    channel_id = required_env("BUFFER_CHANNEL_ID")
 
     if PUBLISH_MODE == "drain" and DRAIN_WITHIN_SECONDS > 0:
-        published = drain_queue(ig_user_id, access_token)
+        published = drain_queue(access_token, channel_id)
     else:
-        published = publish_batch(ig_user_id, access_token)
+        published = publish_batch(access_token, channel_id)
 
     print(f"Finished publish run. Posted {published} item(s).")
     return 0
@@ -414,8 +399,9 @@ if __name__ == "__main__":
     try:
         raise SystemExit(main())
     except DailyLimitReached as exc:
+        # Safety net if raised outside drain/batch handlers.
         print(
-            f"Instagram publish limit reached: {exc}. "
+            f"Instagram daily limit reached: {exc}. "
             "Queued posts will retry on later automatic runs.",
             file=sys.stderr,
         )
