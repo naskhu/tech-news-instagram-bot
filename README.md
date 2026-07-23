@@ -13,7 +13,7 @@ A fully automated, no-API-key pipeline that collects technology news from RSS fe
 - Runs automatically with GitHub Actions
 - Commits generated posts to `output/`
 - Uploads each run as a downloadable GitHub Actions artifact
-- Publishes generated posts to Instagram through Buffer using git-hosted image URLs
+- Publishes generated posts to Instagram through Meta Graph API using git-hosted image URLs
 - Records published files in `instagram-posted.json` to prevent duplicate posts
 
 ## Run it
@@ -25,28 +25,44 @@ A fully automated, no-API-key pipeline that collects technology news from RSS fe
 
 The generation workflow also runs automatically four times per day and pushes new files to git.
 
-## Enable automatic Instagram publishing through git + Buffer
+## Enable automatic Instagram publishing through git + Meta
 
-Publishing does **not** upload files from the Actions runner disk. Buffer must download each image from a public git URL (`raw.githubusercontent.com`), so the flow is:
+Publishing does **not** upload files from the Actions runner disk. Meta must download each image from a public git URL (`raw.githubusercontent.com`), so the flow is:
 
 1. **Generate Tech News Post V2** creates `output/...png` + `.txt` caption and commits them to `main`.
 2. **Publish to Instagram** starts after that successful run (or on schedule / manual dispatch).
-3. It reads the oldest unpublished PNG + matching caption from the git checkout.
-4. It tells Buffer to fetch the image from the public raw GitHub URL and share it now to the connected Instagram channel.
+3. It reads unpublished PNG + matching caption files from the git checkout.
+4. It creates an Instagram media container from the public raw GitHub image URL, then publishes it.
 5. It commits `instagram-posted.json` back to git so the same post is never sent twice.
 
 ### Account requirements
 
-- A Buffer account with Instagram connected (Business or Creator)
-- A Buffer API key from **Buffer → Settings → API**
-- The Buffer channel ID for the Instagram account (from the Buffer channels API / dashboard)
+- An Instagram **Business** or **Creator** account (`news.world.tech`)
+- A Facebook Page linked to that Instagram account
+- A Meta app with Instagram content publishing permissions
+- A long-lived access token with publishing permission
 
 ### GitHub repository secrets
 
 Open **Settings → Secrets and variables → Actions → New repository secret**, then add:
 
-- `BUFFER_ACCESS_TOKEN` — Buffer API key / bearer token; never commit this value into the repository
-- `BUFFER_CHANNEL_ID` — Buffer channel ID for the Instagram account (for example `news.world.tech`)
+- `INSTAGRAM_IG_USER_ID` — numeric Instagram Professional account ID
+- `INSTAGRAM_ACCESS_TOKEN` — Meta long-lived access token; never commit this value
+
+Optional repository variable:
+
+- `META_GRAPH_API_VERSION` — Graph API version, such as `v23.0`
+
+### How to get the Meta values
+
+1. Convert `news.world.tech` to a Professional account and link it to a Facebook Page.
+2. Create a Meta app at [developers.facebook.com](https://developers.facebook.com/).
+3. Add Instagram Graph / content publishing permissions.
+4. Generate a Page/User token, then exchange it for a long-lived token.
+5. Find the Instagram Business Account ID (IG user id) from the linked Page.
+6. Put both values into GitHub Actions secrets.
+
+If Meta setup is blocked, see `LOCAL_INSTAGRAM_WORKER.md` for a local-machine fallback (unofficial API; higher risk).
 
 ### Publishing behavior
 
@@ -55,9 +71,9 @@ The **Publish to Instagram** workflow runs fully automatically:
 1. After every successful **Generate Tech News Post V2** run, it drains the unpublished queue.
 2. It spreads those posts randomly across about **one hour** (random start delay + random gaps).
 3. A backup timer runs about **every 30 minutes** and drains leftovers for up to ~50 minutes.
-4. Each image uses its matching `.txt` caption and a public git image URL for Buffer.
+4. Each image uses its matching `.txt` caption and a public git image URL for Meta.
 5. Progress is saved to `instagram-posted.json` after each successful post.
-6. If Instagram's daily post limit (50) is hit, the run stops cleanly and retries automatically later.
+6. If Instagram's API publish limit is hit, the run stops cleanly and retries automatically later.
 
 So new daily news is queued briefly, then automatically posted within about an hour — not left sitting for days. Manual runs still work (`max_posts=all` drains within an hour).
 
@@ -75,4 +91,4 @@ Each generated story produces:
 
 ## Important
 
-Automatic publishing uses files committed to this public repository so Buffer can download each image from a public URL. Review facts, wording, source attribution, and image rights before publishing. Sponsored or compensated content may require Instagram's paid-partnership disclosure.
+Automatic publishing uses files committed to this public repository so Meta can download each image from a public URL. Review facts, wording, source attribution, and image rights before publishing. Sponsored or compensated content may require Instagram's paid-partnership disclosure.
