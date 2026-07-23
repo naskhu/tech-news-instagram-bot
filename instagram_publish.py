@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish generated Tech News posts to Instagram through Meta Graph API."""
+"""Publish generated Tech News posts to Instagram through Buffer's GraphQL API."""
 
 from __future__ import annotations
 
@@ -18,8 +18,25 @@ STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
 REPOSITORY = os.getenv("GITHUB_REPOSITORY", "naskhu/tech-news-instagram-bot")
 BRANCH = os.getenv("GITHUB_REF_NAME", "main") or "main"
 MAX_POSTS = max(1, int(os.getenv("MAX_POSTS_PER_RUN", "1")))
-GRAPH_API_VERSION = os.getenv("META_GRAPH_API_VERSION", "v23.0")
-GRAPH_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
+BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
+
+CREATE_POST_MUTATION = """
+mutation CreatePost($input: CreatePostInput!) {
+  createPost(input: $input) {
+    __typename
+    ... on PostActionSuccess {
+      post {
+        id
+        status
+        text
+      }
+    }
+    ... on MutationError {
+      message
+    }
+  }
+}
+"""
 
 
 def required_env(name: str) -> str:
@@ -68,13 +85,13 @@ def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]
 
 
 def public_image_url(image: Path) -> str:
-    """Build the public raw.githubusercontent.com URL Meta will download from git."""
+    """Build the public raw.githubusercontent.com URL Buffer will download from git."""
     encoded_path = "/".join(quote(part) for part in image.as_posix().split("/"))
     return f"https://raw.githubusercontent.com/{REPOSITORY}/{quote(BRANCH)}/{encoded_path}"
 
 
 def wait_for_public_image(image_url: str, attempts: int = 12, delay_seconds: float = 5.0) -> None:
-    """Wait until the committed image is publicly reachable for Meta."""
+    """Wait until the committed image is publicly reachable for Buffer."""
     last_error: Exception | None = None
     for attempt in range(1, attempts + 1):
         try:
@@ -83,9 +100,7 @@ def wait_for_public_image(image_url: str, attempts: int = 12, delay_seconds: flo
                 response.close()
                 print(f"Public git image URL is ready: {image_url}")
                 return
-            last_error = RuntimeError(
-                f"HTTP {response.status_code} for {image_url}"
-            )
+            last_error = RuntimeError(f"HTTP {response.status_code} for {image_url}")
             response.close()
         except requests.RequestException as exc:
             last_error = exc
@@ -100,61 +115,73 @@ def wait_for_public_image(image_url: str, attempts: int = 12, delay_seconds: flo
     )
 
 
-def graph_post(endpoint: str, payload: dict[str, str], retries: int = 4) -> dict[str, Any]:
-    last_error: Exception | None = None
-    for attempt in range(1, retries + 1):
-        try:
-            response = requests.post(
-                f"{GRAPH_BASE}/{endpoint}",
-                data=payload,
-                timeout=90,
-            )
-            data = response.json()
-            if response.ok and "error" not in data:
-                return data
-            raise RuntimeError(f"Meta API HTTP {response.status_code}: {json.dumps(data)}")
-        except (requests.RequestException, ValueError, RuntimeError) as exc:
-            last_error = exc
-            if attempt == retries:
-                break
-            delay = 15 * attempt
-            print(f"Meta API attempt {attempt} failed; retrying in {delay}s: {exc}")
-            time.sleep(delay)
-    raise RuntimeError(f"Meta API request failed: {last_error}")
+def buffer_graphql(access_token: str, query: str, variables: dict[str, Any] | None = None) -> dict[str, Any]:
+    response = requests.post(
+        BUFFER_API_URL,
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {access_token}",
+        },
+        json={"query": query, "variables": variables or {}},
+        timeout=90,
+    )
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        raise RuntimeError(
+            f"Buffer API returned non-JSON HTTP {response.status_code}: {response.text[:300]}"
+        ) from exc
+
+    if not response.ok:
+        raise RuntimeError(f"Buffer API HTTP {response.status_code}: {json.dumps(payload)}")
+    if payload.get("errors"):
+        raise RuntimeError(f"Buffer GraphQL errors: {json.dumps(payload['errors'])}")
+    return payload
 
 
-def publish_post(ig_user_id: str, access_token: str, image: Path, caption_file: Path) -> str:
+def publish_post(
+    access_token: str,
+    channel_id: str,
+    image: Path,
+    caption_file: Path,
+) -> str:
     caption = caption_file.read_text(encoding="utf-8").strip()
     if not caption:
         raise RuntimeError(f"Caption is empty: {caption_file}")
 
     image_url = public_image_url(image)
     wait_for_public_image(image_url)
-    print(f"Creating Instagram media container for {image.as_posix()}")
-    container = graph_post(
-        f"{ig_user_id}/media",
-        {
-            "image_url": image_url,
-            "caption": caption,
-            "access_token": access_token,
-        },
-    )
-    creation_id = str(container["id"])
 
-    print(f"Publishing Instagram media container {creation_id}")
-    published = graph_post(
-        f"{ig_user_id}/media_publish",
+    print(f"Creating Buffer Instagram post for {image.as_posix()}")
+    payload = buffer_graphql(
+        access_token,
+        CREATE_POST_MUTATION,
         {
-            "creation_id": creation_id,
-            "access_token": access_token,
+            "input": {
+                "text": caption,
+                "channelId": channel_id,
+                "schedulingType": "automatic",
+                "mode": "shareNow",
+                "assets": [{"image": {"url": image_url}}],
+            }
         },
     )
-    return str(published["id"])
+
+    result = (payload.get("data") or {}).get("createPost") or {}
+    typename = result.get("__typename")
+    if typename == "MutationError" or result.get("message"):
+        raise RuntimeError(f"Buffer rejected post: {result.get('message') or result}")
+    if typename != "PostActionSuccess" or not result.get("post", {}).get("id"):
+        raise RuntimeError(f"Unexpected Buffer createPost response: {json.dumps(result)}")
+
+    post_id = str(result["post"]["id"])
+    print(f"Buffer post created: id={post_id} status={result['post'].get('status')}")
+    return post_id
 
 
 def main() -> int:
-    ig_user_id = required_env("INSTAGRAM_IG_USER_ID")
-    access_token = required_env("INSTAGRAM_ACCESS_TOKEN")
+    access_token = required_env("BUFFER_ACCESS_TOKEN")
+    channel_id = required_env("BUFFER_CHANNEL_ID")
     state = load_state()
     posts = discover_posts(state)
 
@@ -163,16 +190,18 @@ def main() -> int:
         return 0
 
     for image, caption, metadata in posts:
-        media_id = publish_post(ig_user_id, access_token, image, caption)
+        post_id = publish_post(access_token, channel_id, image, caption)
         state["posted"][image.as_posix()] = {
-            "instagram_media_id": media_id,
+            "buffer_post_id": post_id,
+            "channel_id": channel_id,
+            "publisher": "buffer",
             "caption_file": caption.as_posix(),
             "metadata_file": metadata.as_posix() if metadata else None,
             "image_url": public_image_url(image),
             "published_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         }
         save_state(state)
-        print(f"Published {image.as_posix()} as Instagram media {media_id}")
+        print(f"Published {image.as_posix()} as Buffer post {post_id}")
 
     return 0
 
