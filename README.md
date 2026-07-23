@@ -54,7 +54,7 @@ The **Publish to Instagram** workflow runs fully automatically:
 
 1. After every successful **Generate Tech News Post V2** run, it drains the unpublished queue.
 2. It spreads those posts randomly across about **one hour** (random start delay + random gaps).
-3. A backup timer runs **every 10 minutes** and continues draining anything still queued.
+3. A backup timer runs about **every 30 minutes** and drains leftovers for up to ~50 minutes.
 4. Each image uses its matching `.txt` caption and a public git image URL for Buffer.
 5. Progress is saved to `instagram-posted.json` after each successful post.
 6. If Instagram's daily post limit (50) is hit, the run stops cleanly and retries automatically later.

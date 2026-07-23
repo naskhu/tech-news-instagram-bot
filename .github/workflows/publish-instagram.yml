@@ -13,9 +13,9 @@ on:
         required: false
         default: "all"
   schedule:
-    # Automatic backup every 10 minutes so leftovers never sit long.
-    # Minute offset keeps it off exact clock boundaries.
-    - cron: "7-59/10 * * * *"
+    # Automatic backup about every 30 minutes so leftovers keep clearing.
+    # Longer drain windows mean we don't need a tick every 10 minutes.
+    - cron: "11,41 * * * *"
 
 permissions:
   contents: write
