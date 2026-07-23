@@ -9,13 +9,13 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish
+        description: Maximum unpublished posts to publish (use all to drain within an hour)
         required: false
-        default: "1"
+        default: "all"
   schedule:
-    # Random daytime publisher: every hour 09:00–23:00 Maldives time (UTC+5).
-    # Minute 23 keeps it off the top of the hour; choose_publish_plan.py may skip.
-    - cron: "23 4-18 * * *"
+    # Automatic backup every 10 minutes so leftovers never sit long.
+    # Minute offset keeps it off exact clock boundaries.
+    - cron: "7-59/10 * * * *"
 
 permissions:
   contents: write
@@ -30,7 +30,7 @@ jobs:
       github.event_name != 'workflow_run' ||
       github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 75
 
     steps:
       - name: Check out latest generated content from git
@@ -47,11 +47,11 @@ jobs:
           echo "Queued PNGs under output/:"
           find output -type f -name '*.png' 2>/dev/null | sort || true
 
-      - name: Choose random schedule plan and publish limit
+      - name: Choose automatic publish plan
         id: plan
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-          MANUAL_MAX_POSTS: ${{ inputs.max_posts || '1' }}
+          MANUAL_MAX_POSTS: ${{ inputs.max_posts || 'all' }}
         run: python3 choose_publish_plan.py
 
       - name: Set up Python
@@ -65,17 +65,22 @@ jobs:
         if: steps.plan.outputs.should_publish == 'true'
         run: python -m pip install --disable-pip-version-check requests==2.32.4
 
-      - name: Publish unpublished git-committed posts via Buffer
+      - name: Publish queued posts via Buffer
         if: steps.plan.outputs.should_publish == 'true'
         env:
           BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
           BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
           MAX_POSTS_PER_RUN: ${{ steps.plan.outputs.max_posts }}
+          PUBLISH_MODE: ${{ steps.plan.outputs.mode }}
+          DRAIN_WITHIN_SECONDS: ${{ steps.plan.outputs.drain_seconds }}
+          COMMIT_STATE_EACH_POST: "1"
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: main
         run: |
           echo "Pending unpublished posts: ${{ steps.plan.outputs.pending }}"
-          echo "Publishing up to ${{ steps.plan.outputs.max_posts }} post(s)"
+          echo "Mode: ${{ steps.plan.outputs.mode }}"
+          echo "Drain window seconds: ${{ steps.plan.outputs.drain_seconds }}"
+          echo "Max posts: ${{ steps.plan.outputs.max_posts }}"
           echo "Plan reason: ${{ steps.plan.outputs.reason }}"
           python instagram_publish.py
 
@@ -99,7 +104,6 @@ jobs:
             git fetch origin main
 
             if ! git rebase origin/main; then
-              # Keep the newly written local publish state on conflict.
               git checkout --ours instagram-posted.json || true
               git add instagram-posted.json
               GIT_EDITOR=true git rebase --continue || {

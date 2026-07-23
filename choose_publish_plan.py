@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Decide whether a scheduled publish should run, and with what post limit."""
+"""Decide publish mode: drain queue within an hour, or a small batch."""
 
 from __future__ import annotations
 
@@ -7,7 +7,6 @@ import json
 import os
 import random
 import sys
-import time
 from pathlib import Path
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
@@ -36,44 +35,9 @@ def count_pending() -> int:
     return pending
 
 
-def recommended_limit(pending: int, event_name: str) -> int:
-    """Pick a safe publish batch size for the trigger type."""
-    if pending <= 0:
-        return 0
-    if event_name == "schedule":
-        # One post per chosen daytime slot keeps Instagram pacing natural.
-        return 1
-    if event_name == "workflow_run":
-        return 1
-    # Manual runs may clear a larger backlog intentionally.
-    if pending <= 20:
-        return 1
-    if pending <= 40:
-        return 2
-    return 3
-
-
-def schedule_probability(pending: int) -> float:
-    """Higher backlog => more likely to publish this hourly slot."""
-    if pending <= 0:
-        return 0.0
-    if pending <= 5:
-        return 0.20
-    if pending <= 15:
-        return 0.35
-    if pending <= 30:
-        return 0.50
-    return 0.70
-
-
-def write_output(should_publish: bool, max_posts: int, pending: int, reason: str) -> None:
+def write_output(**values: object) -> None:
     github_output = os.getenv("GITHUB_OUTPUT")
-    lines = [
-        f"should_publish={'true' if should_publish else 'false'}",
-        f"max_posts={max_posts}",
-        f"pending={pending}",
-        f"reason={reason}",
-    ]
+    lines = [f"{key}={value}" for key, value in values.items()]
     text = "\n".join(lines) + "\n"
     if github_output:
         with open(github_output, "a", encoding="utf-8") as handle:
@@ -85,45 +49,63 @@ def main() -> int:
     event_name = os.getenv("GITHUB_EVENT_NAME", "workflow_dispatch")
     manual_max = os.getenv("MANUAL_MAX_POSTS", "").strip()
     pending = count_pending()
-    limit = recommended_limit(pending, event_name)
 
     if pending <= 0:
-        write_output(False, 0, pending, "queue_empty")
-        return 0
-
-    if event_name == "workflow_dispatch":
-        max_posts = max(1, int(manual_max or str(limit)))
-        max_posts = min(max_posts, pending)
-        write_output(True, max_posts, pending, "manual_dispatch")
-        return 0
-
-    if event_name == "workflow_run":
-        write_output(True, 1, pending, "after_generate")
-        return 0
-
-    # schedule: randomly decide whether this daytime hour posts.
-    probability = schedule_probability(pending)
-    roll = random.random()
-    if roll > probability:
         write_output(
-            False,
-            0,
-            pending,
-            f"random_skip roll={roll:.3f} p={probability:.3f} limit_would_be={limit}",
+            should_publish="false",
+            mode="none",
+            max_posts=0,
+            drain_seconds=0,
+            pending=pending,
+            reason="queue_empty",
         )
         return 0
 
-    # Small jitter so posts don't always fire at :23 exactly.
-    delay = random.randint(0, 240)
-    print(f"Random delay before publish: {delay}s")
-    if delay:
-        time.sleep(delay)
+    # After Generate: clear the whole queue randomly within ~1 hour.
+    if event_name == "workflow_run":
+        write_output(
+            should_publish="true",
+            mode="drain",
+            max_posts=pending,
+            drain_seconds=3300,
+            pending=pending,
+            reason="after_generate_drain_within_hour",
+        )
+        return 0
 
+    # Frequent schedule backup: keep draining leftovers automatically.
+    if event_name == "schedule":
+        write_output(
+            should_publish="true",
+            mode="drain",
+            max_posts=pending,
+            drain_seconds=480,
+            pending=pending,
+            reason="schedule_drain_burst",
+        )
+        return 0
+
+    # Manual: "all" or a high number drains; otherwise publish a batch.
+    if manual_max.lower() == "all":
+        write_output(
+            should_publish="true",
+            mode="drain",
+            max_posts=pending,
+            drain_seconds=3300,
+            pending=pending,
+            reason="manual_drain_all",
+        )
+        return 0
+
+    max_posts = max(1, int(manual_max or "1"))
+    max_posts = min(max_posts, pending)
     write_output(
-        True,
-        limit,
-        pending,
-        f"random_publish roll={roll:.3f} p={probability:.3f}",
+        should_publish="true",
+        mode="batch",
+        max_posts=max_posts,
+        drain_seconds=0,
+        pending=pending,
+        reason="manual_batch",
     )
     return 0
 
