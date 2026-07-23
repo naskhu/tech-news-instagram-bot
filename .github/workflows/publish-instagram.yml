@@ -13,8 +13,8 @@ on:
         required: false
         default: "all"
   schedule:
-    # Automatic backup about every 30 minutes so leftovers keep clearing.
-    # Longer drain windows mean we don't need a tick every 10 minutes.
+    # About every 30 minutes. Each tick posts a few items under a rolling
+    # 50-post / 24h Instagram cap (Buffer's documented limit).
     - cron: "11,41 * * * *"
 
 permissions:
@@ -95,6 +95,8 @@ jobs:
           echo "Mode: ${{ steps.plan.outputs.mode }}"
           echo "Drain window seconds: ${{ steps.plan.outputs.drain_seconds }}"
           echo "Max posts: ${{ steps.plan.outputs.max_posts }}"
+          echo "Used last 24h: ${{ steps.plan.outputs.used_24h }}"
+          echo "Quota left today: ${{ steps.plan.outputs.quota_left }}"
           echo "Plan reason: ${{ steps.plan.outputs.reason }}"
           python instagram_publish.py
 
