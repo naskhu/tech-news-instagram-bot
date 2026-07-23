@@ -5,6 +5,8 @@ from __future__ import annotations
 
 import json
 import os
+import random
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -18,6 +20,9 @@ STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
 REPOSITORY = os.getenv("GITHUB_REPOSITORY", "naskhu/tech-news-instagram-bot")
 BRANCH = os.getenv("GITHUB_REF_NAME", "main") or "main"
 MAX_POSTS = max(1, int(os.getenv("MAX_POSTS_PER_RUN", "1")))
+PUBLISH_MODE = os.getenv("PUBLISH_MODE", "batch").strip().lower() or "batch"
+DRAIN_WITHIN_SECONDS = max(0, int(os.getenv("DRAIN_WITHIN_SECONDS", "0")))
+COMMIT_STATE_EACH_POST = os.getenv("COMMIT_STATE_EACH_POST", "").strip() == "1"
 BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 
 CREATE_POST_MUTATION = """
@@ -64,7 +69,7 @@ def save_state(state: dict[str, Any]) -> None:
     )
 
 
-def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
+def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
     posted = state.get("posted", {})
     candidates: list[tuple[Path, Path, Path | None]] = []
 
@@ -81,7 +86,11 @@ def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]
 
         candidates.append((image, caption, metadata if metadata.exists() else None))
 
-    return candidates[:MAX_POSTS]
+    return candidates
+
+
+def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
+    return list_unpublished(state)[:MAX_POSTS]
 
 
 def public_image_url(image: Path) -> str:
@@ -185,30 +194,163 @@ def publish_post(
     return post_id
 
 
-def main() -> int:
-    access_token = required_env("BUFFER_ACCESS_TOKEN")
-    channel_id = required_env("BUFFER_CHANNEL_ID")
+def record_post(
+    state: dict[str, Any],
+    channel_id: str,
+    image: Path,
+    caption: Path,
+    metadata: Path | None,
+    post_id: str,
+) -> None:
+    state["posted"][image.as_posix()] = {
+        "buffer_post_id": post_id,
+        "channel_id": channel_id,
+        "publisher": "buffer",
+        "caption_file": caption.as_posix(),
+        "metadata_file": metadata.as_posix() if metadata else None,
+        "image_url": public_image_url(image),
+        "published_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+    }
+    save_state(state)
+
+
+def commit_state_to_git() -> None:
+    """Persist publish progress after each post during long drain runs."""
+    if not COMMIT_STATE_EACH_POST:
+        return
+
+    subprocess.run(
+        ["git", "config", "user.name", "github-actions[bot]"],
+        check=False,
+    )
+    subprocess.run(
+        [
+            "git",
+            "config",
+            "user.email",
+            "41898282+github-actions[bot]@users.noreply.github.com",
+        ],
+        check=False,
+    )
+    subprocess.run(["git", "add", str(STATE_FILE)], check=False)
+    diff = subprocess.run(["git", "diff", "--cached", "--quiet"], check=False)
+    if diff.returncode == 0:
+        return
+
+    subprocess.run(
+        ["git", "commit", "-m", "Record published Instagram post"],
+        check=False,
+    )
+    for attempt in range(1, 4):
+        subprocess.run(["git", "fetch", "origin", "main"], check=False)
+        rebase = subprocess.run(["git", "rebase", "origin/main"], check=False)
+        if rebase.returncode != 0:
+            subprocess.run(["git", "checkout", "--ours", str(STATE_FILE)], check=False)
+            subprocess.run(["git", "add", str(STATE_FILE)], check=False)
+            subprocess.run(
+                ["git", "rebase", "--continue"],
+                check=False,
+                env={**os.environ, "GIT_EDITOR": "true"},
+            )
+        push = subprocess.run(["git", "push", "origin", "HEAD:main"], check=False)
+        if push.returncode == 0:
+            print("Publishing state pushed to git.")
+            return
+        time.sleep(attempt * 3)
+    print("WARNING: could not push publishing state after this post", file=sys.stderr)
+
+
+def inter_post_delay_seconds(remaining_after: int, seconds_left: float) -> int:
+    """Spread remaining posts across the leftover time window with jitter."""
+    if remaining_after <= 0 or seconds_left <= 30:
+        return 0
+    average = max(45, int((seconds_left * 0.9) / remaining_after))
+    low = max(30, int(average * 0.45))
+    high = max(low + 1, min(int(average * 1.35), 600))
+    return random.randint(low, high)
+
+
+def publish_one(
+    access_token: str,
+    channel_id: str,
+    state: dict[str, Any],
+    image: Path,
+    caption: Path,
+    metadata: Path | None,
+) -> None:
+    post_id = publish_post(access_token, channel_id, image, caption)
+    record_post(state, channel_id, image, caption, metadata, post_id)
+    print(f"Published {image.as_posix()} as Buffer post {post_id}")
+    commit_state_to_git()
+
+
+def drain_queue(access_token: str, channel_id: str) -> int:
+    deadline = time.time() + DRAIN_WITHIN_SECONDS
+    initial_delay = random.randint(0, min(300, max(0, DRAIN_WITHIN_SECONDS // 12)))
+    print(
+        f"Drain mode: publish all pending posts randomly within {DRAIN_WITHIN_SECONDS}s "
+        f"(initial delay {initial_delay}s)"
+    )
+    if initial_delay:
+        time.sleep(initial_delay)
+
+    published = 0
+    while time.time() < deadline:
+        state = load_state()
+        pending = list_unpublished(state)
+        if not pending:
+            print("Queue empty; drain complete.")
+            break
+
+        image, caption, metadata = pending[0]
+        publish_one(access_token, channel_id, state, image, caption, metadata)
+        published += 1
+
+        remaining = len(pending) - 1
+        if remaining <= 0:
+            print("Queue empty after this post; drain complete.")
+            break
+
+        seconds_left = deadline - time.time()
+        delay = inter_post_delay_seconds(remaining, seconds_left)
+        print(
+            f"Remaining unpublished: {remaining}. "
+            f"Sleeping {delay}s before next random publish."
+        )
+        if delay > 0:
+            time.sleep(delay)
+
+    leftover = len(list_unpublished(load_state()))
+    if leftover:
+        print(
+            f"Drain window ended with {leftover} post(s) still queued; "
+            "the next automatic run will continue."
+        )
+    return published
+
+
+def publish_batch(access_token: str, channel_id: str) -> int:
     state = load_state()
     posts = discover_posts(state)
-
     if not posts:
         print("No unpublished generated posts found.")
         return 0
 
     for image, caption, metadata in posts:
-        post_id = publish_post(access_token, channel_id, image, caption)
-        state["posted"][image.as_posix()] = {
-            "buffer_post_id": post_id,
-            "channel_id": channel_id,
-            "publisher": "buffer",
-            "caption_file": caption.as_posix(),
-            "metadata_file": metadata.as_posix() if metadata else None,
-            "image_url": public_image_url(image),
-            "published_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-        }
-        save_state(state)
-        print(f"Published {image.as_posix()} as Buffer post {post_id}")
+        publish_one(access_token, channel_id, state, image, caption, metadata)
+    return len(posts)
 
+
+def main() -> int:
+    access_token = required_env("BUFFER_ACCESS_TOKEN")
+    channel_id = required_env("BUFFER_CHANNEL_ID")
+
+    if PUBLISH_MODE == "drain" and DRAIN_WITHIN_SECONDS > 0:
+        published = drain_queue(access_token, channel_id)
+    else:
+        published = publish_batch(access_token, channel_id)
+
+    print(f"Finished publish run. Posted {published} item(s).")
     return 0
 
 

@@ -50,20 +50,15 @@ Open **Settings → Secrets and variables → Actions → New repository secret*
 
 ### Publishing behavior
 
-The **Publish to Instagram** workflow:
+The **Publish to Instagram** workflow runs fully automatically:
 
-1. Starts after a successful **Generate Tech News Post V2** (or **Generate Tech News Posts**) workflow.
-2. Syncs the latest `main` commit that contains generated files under `output/`.
-3. Counts unpublished posts and chooses a publish limit:
-   - after generate: 1 post
-   - scheduled daytime hours: random chance based on queue size, always 1 post when chosen
-   - manual run: uses the `max_posts` input (defaults scale with backlog)
-4. Finds the oldest generated PNG files that are not listed in `instagram-posted.json`.
-5. Uses each matching `.txt` file as the Instagram caption.
-6. Waits until the git-hosted image URL is publicly reachable, then creates Buffer posts with `mode: shareNow`.
-7. Commits the resulting Buffer post IDs to `instagram-posted.json`.
+1. After every successful **Generate Tech News Post V2** run, it drains the unpublished queue.
+2. It spreads those posts randomly across about **one hour** (random start delay + random gaps).
+3. A backup timer runs **every 10 minutes** and continues draining anything still queued.
+4. Each image uses its matching `.txt` caption and a public git image URL for Buffer.
+5. Progress is saved to `instagram-posted.json` after each successful post.
 
-Scheduled publishing runs **every hour from 09:00–23:00 Maldives time**. If the queue is large, those hourly slots are more likely to publish one post (with a short random delay). If the queue is small, many slots randomly skip so posting looks less robotic. You can still publish manually from **Actions → Publish to Instagram → Run workflow**.
+So new daily news is queued briefly, then automatically posted within about an hour — not left sitting for days. Manual runs still work (`max_posts=all` drains within an hour).
 
 ## Customize
 
