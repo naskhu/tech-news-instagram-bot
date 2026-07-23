@@ -44,6 +44,10 @@ mutation CreatePost($input: CreatePostInput!) {
 """
 
 
+class DailyLimitReached(RuntimeError):
+    """Instagram/Buffer daily scheduling limit was hit; retry later."""
+
+
 def required_env(name: str) -> str:
     value = os.getenv(name, "").strip()
     if not value:
@@ -124,6 +128,15 @@ def wait_for_public_image(image_url: str, attempts: int = 12, delay_seconds: flo
     )
 
 
+def is_daily_limit_error(message: object) -> bool:
+    text = str(message or "").lower()
+    return (
+        "maximum number of posts" in text
+        or ("instagram allows in a day" in text)
+        or ("daily" in text and "limit" in text and "instagram" in text)
+    )
+
+
 def buffer_graphql(access_token: str, query: str, variables: dict[str, Any] | None = None) -> dict[str, Any]:
     response = requests.post(
         BUFFER_API_URL,
@@ -142,9 +155,15 @@ def buffer_graphql(access_token: str, query: str, variables: dict[str, Any] | No
         ) from exc
 
     if not response.ok:
-        raise RuntimeError(f"Buffer API HTTP {response.status_code}: {json.dumps(payload)}")
+        body = json.dumps(payload)
+        if is_daily_limit_error(body):
+            raise DailyLimitReached(body)
+        raise RuntimeError(f"Buffer API HTTP {response.status_code}: {body}")
     if payload.get("errors"):
-        raise RuntimeError(f"Buffer GraphQL errors: {json.dumps(payload['errors'])}")
+        body = json.dumps(payload["errors"])
+        if is_daily_limit_error(body):
+            raise DailyLimitReached(body)
+        raise RuntimeError(f"Buffer GraphQL errors: {body}")
     return payload
 
 
@@ -185,7 +204,10 @@ def publish_post(
     result = (payload.get("data") or {}).get("createPost") or {}
     typename = result.get("__typename")
     if typename == "MutationError" or result.get("message"):
-        raise RuntimeError(f"Buffer rejected post: {result.get('message') or result}")
+        message = result.get("message") or result
+        if is_daily_limit_error(message):
+            raise DailyLimitReached(str(message))
+        raise RuntimeError(f"Buffer rejected post: {message}")
     if typename != "PostActionSuccess" or not result.get("post", {}).get("id"):
         raise RuntimeError(f"Unexpected Buffer createPost response: {json.dumps(result)}")
 
@@ -303,7 +325,16 @@ def drain_queue(access_token: str, channel_id: str) -> int:
             break
 
         image, caption, metadata = pending[0]
-        publish_one(access_token, channel_id, state, image, caption, metadata)
+        try:
+            publish_one(access_token, channel_id, state, image, caption, metadata)
+        except DailyLimitReached as exc:
+            leftover = len(list_unpublished(load_state()))
+            print(
+                f"Instagram daily limit reached after {published} post(s) this run: {exc}. "
+                f"Leaving {leftover} queued for later automatic runs."
+            )
+            return published
+
         published += 1
 
         remaining = len(pending) - 1
@@ -336,9 +367,19 @@ def publish_batch(access_token: str, channel_id: str) -> int:
         print("No unpublished generated posts found.")
         return 0
 
+    published = 0
     for image, caption, metadata in posts:
-        publish_one(access_token, channel_id, state, image, caption, metadata)
-    return len(posts)
+        try:
+            publish_one(access_token, channel_id, state, image, caption, metadata)
+        except DailyLimitReached as exc:
+            leftover = len(list_unpublished(load_state()))
+            print(
+                f"Instagram daily limit reached after {published} post(s) this run: {exc}. "
+                f"Leaving {leftover} queued for later automatic runs."
+            )
+            return published
+        published += 1
+    return published
 
 
 def main() -> int:
@@ -357,6 +398,14 @@ def main() -> int:
 if __name__ == "__main__":
     try:
         raise SystemExit(main())
+    except DailyLimitReached as exc:
+        # Safety net if raised outside drain/batch handlers.
+        print(
+            f"Instagram daily limit reached: {exc}. "
+            "Queued posts will retry on later automatic runs.",
+            file=sys.stderr,
+        )
+        raise SystemExit(0)
     except Exception as exc:  # Keep Actions logs concise and actionable.
         print(f"ERROR: {exc}", file=sys.stderr)
         raise SystemExit(1)
