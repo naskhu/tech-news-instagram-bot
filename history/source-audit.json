@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-23T12:01:54.617371+00:00",
+  "run_utc": "2026-07-23T14:27:43.904656+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-20T12:01:54.624169+00:00",
-  "eligible_story_count": 23,
+  "cutoff_utc": "2026-07-20T14:27:43.907691+00:00",
+  "eligible_story_count": 50,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 19,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 1,
-      "already_processed": 26,
+      "eligible_new": 2,
+      "already_processed": 27,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -52,12 +52,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 10,
+      "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 3,
-      "already_processed": 22,
-      "older_than_window": 10,
+      "eligible_new": 6,
+      "already_processed": 20,
+      "older_than_window": 9,
       "metadata_errors": {}
     },
     {
@@ -83,8 +83,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 2,
-      "already_processed": 28,
+      "eligible_new": 0,
+      "already_processed": 30,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -111,8 +111,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 0,
-      "already_processed": 11,
+      "eligible_new": 2,
+      "already_processed": 10,
       "older_than_window": 24,
       "metadata_errors": {}
     },
@@ -212,8 +212,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 3,
-      "already_processed": 29,
+      "eligible_new": 4,
+      "already_processed": 28,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
+      "eligible_new": 1,
       "already_processed": 55,
-      "older_than_window": 57,
+      "older_than_window": 54,
       "metadata_errors": {}
     },
     {
@@ -310,8 +310,8 @@
       "rss_candidates": 8,
       "page_links": 20,
       "page_articles": 13,
-      "eligible_new": 0,
-      "already_processed": 12,
+      "eligible_new": 2,
+      "already_processed": 10,
       "older_than_window": 5,
       "metadata_errors": {
         "not_article_path": 7
@@ -348,8 +348,8 @@
       "rss_candidates": 20,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 3,
-      "already_processed": 9,
+      "eligible_new": 14,
+      "already_processed": 1,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -377,25 +377,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 21,
+          "links": 20,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 29,
+          "links": 30,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
-      "eligible_new": 9,
-      "already_processed": 78,
-      "older_than_window": 6,
+      "page_articles": 45,
+      "eligible_new": 18,
+      "already_processed": 75,
+      "older_than_window": 4,
       "metadata_errors": {
-        "no_article_metadata": 4,
-        "missing_title": 2
+        "missing_title": 1,
+        "no_article_metadata": 4
       }
     },
     {
@@ -424,14 +424,14 @@
         {
           "url": "https://www.pcmag.com/news",
           "status": 200,
-          "links": 25,
+          "links": 24,
           "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 25,
-      "page_articles": 25,
-      "eligible_new": 2,
+      "page_links": 24,
+      "page_articles": 24,
+      "eligible_new": 1,
       "already_processed": 22,
       "older_than_window": 1,
       "metadata_errors": {}
