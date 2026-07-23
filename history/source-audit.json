@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-23T19:42:20.656918+00:00",
+  "run_utc": "2026-07-23T20:19:35.455883+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-20T19:42:20.661605+00:00",
-  "eligible_story_count": 17,
+  "cutoff_utc": "2026-07-20T20:19:35.458013+00:00",
+  "eligible_story_count": 8,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 26,
       "page_articles": 26,
-      "eligible_new": 3,
-      "already_processed": 24,
+      "eligible_new": 2,
+      "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -54,13 +54,11 @@
       ],
       "rss_candidates": 10,
       "page_links": 30,
-      "page_articles": 29,
-      "eligible_new": 2,
-      "already_processed": 26,
-      "older_than_window": 6,
-      "metadata_errors": {
-        "no_article_metadata": 1
-      }
+      "page_articles": 30,
+      "eligible_new": 3,
+      "already_processed": 25,
+      "older_than_window": 7,
+      "metadata_errors": {}
     },
     {
       "source": "Ars Technica",
@@ -85,8 +83,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 3,
-      "already_processed": 27,
+      "eligible_new": 0,
+      "already_processed": 30,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -214,8 +212,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 5,
-      "already_processed": 27,
+      "eligible_new": 0,
+      "already_processed": 32,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -252,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 60,
-      "older_than_window": 50,
+      "older_than_window": 49,
       "metadata_errors": {}
     },
     {
@@ -311,12 +309,12 @@
       ],
       "rss_candidates": 10,
       "page_links": 22,
-      "page_articles": 13,
+      "page_articles": 12,
       "eligible_new": 0,
       "already_processed": 14,
-      "older_than_window": 3,
+      "older_than_window": 2,
       "metadata_errors": {
-        "not_article_path": 7,
+        "not_article_path": 8,
         "http_429": 2
       }
     },
@@ -351,7 +349,7 @@
       "rss_candidates": 20,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 0,
+      "eligible_new": 1,
       "already_processed": 10,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -434,8 +432,8 @@
       "rss_candidates": 0,
       "page_links": 23,
       "page_articles": 23,
-      "eligible_new": 2,
-      "already_processed": 20,
+      "eligible_new": 0,
+      "already_processed": 22,
       "older_than_window": 1,
       "metadata_errors": {}
     }
