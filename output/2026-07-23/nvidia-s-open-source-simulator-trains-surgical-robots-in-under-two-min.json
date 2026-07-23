@@ -1,0 +1,22 @@
+{
+  "title": "Nvidia’s open-source simulator trains surgical robots in under two minutes",
+  "summary": "By running 8,192 training environments in parallel on GPUs, Nvidia claims a startling speed-up. Surgical-robotics firms including Medtronic, Johnson & Johnson MedTech, and CMR Surgical are using the framework for surgical digital twins and endovascular training.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/nvidia-isaac-medical-physics-simulation-surgical-robots",
+  "published_utc": "2026-07-23T15:25:57+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-23T16:45:57.949807+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.thenextweb.com/2025/02/Untitled-design-4-1.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-23/nvidia-s-open-source-simulator-trains-surgical-robots-in-under-two-min.png",
+  "caption": "output/2026-07-23/nvidia-s-open-source-simulator-trains-surgical-robots-in-under-two-min.txt"
+}

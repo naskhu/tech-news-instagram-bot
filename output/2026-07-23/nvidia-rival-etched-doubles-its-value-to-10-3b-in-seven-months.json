@@ -1,0 +1,22 @@
+{
+  "title": "Nvidia rival Etched doubles its value to $10.3B in seven months",
+  "summary": "Etched builds chips that do one thing, inference, and claims to do it far better. Etched built a shared memory pool that spans a whole cluster of chips, stitched together by a proprietary high-speed interconnect.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/etched-300m-series-c-10-3b-valuation-sequoia-sk-hynix",
+  "published_utc": "2026-07-23T16:37:19+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-23T16:45:02.510560+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.thenextweb.com/2026/07/etched-team.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-23/nvidia-rival-etched-doubles-its-value-to-10-3b-in-seven-months.png",
+  "caption": "output/2026-07-23/nvidia-rival-etched-doubles-its-value-to-10-3b-in-seven-months.txt"
+}
