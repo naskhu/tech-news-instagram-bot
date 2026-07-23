@@ -197,6 +197,15 @@
       "metadata_file": "output/2026-07-23/getlink-warns-unstable-eu-software-could-delay-channel-tunnel-biometri.json",
       "published_at_utc": "2026-07-23T11:07:33Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-23/google-adds-selfie-video-as-a-log-in-option-engadget.png": {
+      "buffer_post_id": "6a61f625cb77e36342e45d34",
+      "caption_file": "output/2026-07-23/google-adds-selfie-video-as-a-log-in-option-engadget.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-23/google-adds-selfie-video-as-a-log-in-option-engadget.png",
+      "metadata_file": "output/2026-07-23/google-adds-selfie-video-as-a-log-in-option-engadget.json",
+      "published_at_utc": "2026-07-23T11:08:29Z",
+      "publisher": "buffer"
     }
   }
 }
