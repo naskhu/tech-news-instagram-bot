@@ -68,21 +68,23 @@ jobs:
         run: |
           set -euo pipefail
 
-          if git diff --quiet -- instagram-posted.json; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add instagram-posted.json
+
+          if git diff --cached --quiet; then
             echo "No publishing-state change to commit."
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add instagram-posted.json
           git commit -m "Record published Instagram post"
 
           for attempt in 1 2 3 4 5; do
             git fetch origin main
 
             if ! git rebase origin/main; then
-              git checkout --theirs instagram-posted.json || true
+              # Keep the newly written local publish state on conflict.
+              git checkout --ours instagram-posted.json || true
               git add instagram-posted.json
               GIT_EDITOR=true git rebase --continue || {
                 git rebase --abort
