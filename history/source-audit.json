@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-23T03:44:20.208292+00:00",
+  "run_utc": "2026-07-23T06:39:08.769063+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-20T03:44:20.209426+00:00",
-  "eligible_story_count": 0,
+  "cutoff_utc": "2026-07-20T06:39:08.769269+00:00",
+  "eligible_story_count": 6,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 19,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 0,
-      "already_processed": 27,
+      "eligible_new": 1,
+      "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -54,11 +54,13 @@
       ],
       "rss_candidates": 10,
       "page_links": 30,
-      "page_articles": 30,
+      "page_articles": 29,
       "eligible_new": 0,
-      "already_processed": 27,
+      "already_processed": 26,
       "older_than_window": 10,
-      "metadata_errors": {}
+      "metadata_errors": {
+        "no_article_metadata": 1
+      }
     },
     {
       "source": "Ars Technica",
@@ -83,8 +85,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 0,
-      "already_processed": 30,
+      "eligible_new": 1,
+      "already_processed": 29,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -248,9 +250,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
-      "already_processed": 56,
-      "older_than_window": 55,
+      "eligible_new": 1,
+      "already_processed": 54,
+      "older_than_window": 56,
       "metadata_errors": {}
     },
     {
@@ -390,12 +392,12 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 0,
-      "already_processed": 78,
+      "eligible_new": 3,
+      "already_processed": 76,
       "older_than_window": 4,
       "metadata_errors": {
-        "missing_title": 1,
-        "no_article_metadata": 5
+        "no_article_metadata": 5,
+        "missing_title": 1
       }
     },
     {
