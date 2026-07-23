@@ -54,16 +54,16 @@ jobs:
           MANUAL_MAX_POSTS: ${{ inputs.max_posts || 'all' }}
         run: python3 choose_publish_plan.py
 
-      - name: Require Meta Instagram secrets
+      - name: Require Buffer secrets
         id: secrets
         if: steps.plan.outputs.should_publish == 'true'
         env:
-          INSTAGRAM_IG_USER_ID: ${{ secrets.INSTAGRAM_IG_USER_ID }}
-          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
         run: |
-          if [ -z "$INSTAGRAM_IG_USER_ID" ] || [ -z "$INSTAGRAM_ACCESS_TOKEN" ]; then
+          if [ -z "$BUFFER_ACCESS_TOKEN" ] || [ -z "$BUFFER_CHANNEL_ID" ]; then
             echo "has_secrets=false" >> "$GITHUB_OUTPUT"
-            echo "::notice title=Meta publishing unavailable::INSTAGRAM_IG_USER_ID / INSTAGRAM_ACCESS_TOKEN are not set (or Meta Content Publishing is unavailable). Use local_instagram_worker.py instead. See LOCAL_INSTAGRAM_WORKER.md"
+            echo "::notice title=Buffer secrets missing::Set BUFFER_ACCESS_TOKEN and BUFFER_CHANNEL_ID to publish via Buffer."
             exit 0
           fi
           echo "has_secrets=true" >> "$GITHUB_OUTPUT"
@@ -79,12 +79,11 @@ jobs:
         if: steps.plan.outputs.should_publish == 'true' && steps.secrets.outputs.has_secrets == 'true'
         run: python -m pip install --disable-pip-version-check requests==2.32.4
 
-      - name: Publish queued posts via Meta Instagram API
+      - name: Publish queued posts via Buffer
         if: steps.plan.outputs.should_publish == 'true' && steps.secrets.outputs.has_secrets == 'true'
         env:
-          INSTAGRAM_IG_USER_ID: ${{ secrets.INSTAGRAM_IG_USER_ID }}
-          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          META_GRAPH_API_VERSION: ${{ vars.META_GRAPH_API_VERSION || 'v23.0' }}
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
           MAX_POSTS_PER_RUN: ${{ steps.plan.outputs.max_posts }}
           PUBLISH_MODE: ${{ steps.plan.outputs.mode }}
           DRAIN_WITHIN_SECONDS: ${{ steps.plan.outputs.drain_seconds }}
