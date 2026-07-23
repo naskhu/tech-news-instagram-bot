@@ -40,11 +40,12 @@ Secrets required:
 
 See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**.
 
-GitHub Actions keeps generating posts into git. On your Mac/PC/VPS:
+GitHub Actions keeps generating posts into git. On your Mac:
 
 ```bash
 cd ~/tech-news-instagram-bot
 source .venv/bin/activate
+python local_instagram_worker.py --store-password   # once; saves to Keychain (not .env)
 python local_instagram_worker.py
 ```
 

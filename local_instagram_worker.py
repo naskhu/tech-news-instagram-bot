@@ -11,6 +11,7 @@ Use this when Meta Content Publishing is unavailable and Buffer is not an option
 from __future__ import annotations
 
 import argparse
+import getpass
 import json
 import logging
 import os
@@ -30,6 +31,7 @@ OUTPUT_DIR = ROOT / "output"
 STATE_FILE = ROOT / ".local-instagram-posted.json"
 REMOTE_STATE_FILE = ROOT / "instagram-posted.json"
 SESSION_FILE = ROOT / ".instagram-session.json"
+KEYCHAIN_SERVICE = "com.news.world.tech.instagram-worker"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -96,6 +98,131 @@ def list_unpublished(posted: set[str]) -> list[tuple[Path, Path]]:
     return candidates
 
 
+def harden_env_file(path: Path) -> None:
+    """Restrict .env to the current user only (owner read/write)."""
+    if path.exists():
+        os.chmod(path, 0o600)
+
+
+def keychain_get_password(username: str) -> str | None:
+    """Read the Instagram password from the macOS login Keychain."""
+    if sys.platform != "darwin":
+        return None
+    result = subprocess.run(
+        [
+            "security",
+            "find-generic-password",
+            "-a",
+            username,
+            "-s",
+            KEYCHAIN_SERVICE,
+            "-w",
+        ],
+        text=True,
+        capture_output=True,
+        check=False,
+    )
+    if result.returncode != 0:
+        return None
+    password = result.stdout.rstrip("\n")
+    return password or None
+
+
+def keychain_store_password(username: str, password: str) -> None:
+    """Store/update the Instagram password in the macOS login Keychain."""
+    if sys.platform != "darwin":
+        raise RuntimeError("Keychain storage is only supported on macOS.")
+    result = subprocess.run(
+        [
+            "security",
+            "add-generic-password",
+            "-a",
+            username,
+            "-s",
+            KEYCHAIN_SERVICE,
+            "-w",
+            password,
+            "-U",
+        ],
+        text=True,
+        capture_output=True,
+        check=False,
+    )
+    if result.returncode != 0:
+        detail = (result.stderr or result.stdout or "unknown error").strip()
+        raise RuntimeError(f"Could not store password in Keychain: {detail}")
+
+
+def resolve_credentials() -> tuple[str, str, str | None]:
+    """Prefer Keychain for the password; keep username in local .env."""
+    env_path = ROOT / ".env"
+    load_dotenv(env_path)
+    harden_env_file(env_path)
+
+    username = os.getenv("INSTAGRAM_USERNAME", "").strip()
+    verification_code = os.getenv("INSTAGRAM_VERIFICATION_CODE", "").strip() or None
+    if not username:
+        raise RuntimeError("Set INSTAGRAM_USERNAME in a local .env file.")
+
+    password = keychain_get_password(username)
+    source = "macOS Keychain"
+    if not password:
+        password = os.getenv("INSTAGRAM_PASSWORD", "")
+        source = ".env (INSTAGRAM_PASSWORD)"
+    if not password:
+        raise RuntimeError(
+            "No Instagram password found. On macOS run:\n"
+            "  python local_instagram_worker.py --store-password\n"
+            "Or set INSTAGRAM_PASSWORD temporarily in .env (not recommended)."
+        )
+
+    LOGGER.info("Loaded credentials for %s from %s", username, source)
+    if source.startswith(".env"):
+        LOGGER.warning(
+            "Password is in .env. Prefer Keychain so other users cannot read it: "
+            "python local_instagram_worker.py --store-password"
+        )
+    return username, password, verification_code
+
+
+def store_password_interactively() -> int:
+    env_path = ROOT / ".env"
+    load_dotenv(env_path)
+    harden_env_file(env_path)
+
+    username = os.getenv("INSTAGRAM_USERNAME", "").strip()
+    if not username:
+        username = input("Instagram username: ").strip()
+    if not username:
+        raise RuntimeError("Username is required.")
+
+    password = getpass.getpass("Instagram password (hidden): ")
+    confirm = getpass.getpass("Confirm password (hidden): ")
+    if not password:
+        raise RuntimeError("Password cannot be empty.")
+    if password != confirm:
+        raise RuntimeError("Passwords do not match.")
+
+    keychain_store_password(username, password)
+
+    # Keep only non-secret identity settings in .env.
+    lines = [
+        f"INSTAGRAM_USERNAME={username}",
+        "INSTAGRAM_VERIFICATION_CODE=",
+        "# Password is stored in macOS Keychain (not in this file).",
+        "",
+    ]
+    env_path.write_text("\n".join(lines), encoding="utf-8")
+    harden_env_file(env_path)
+    LOGGER.info(
+        "Password stored in Keychain service %s for account %s",
+        KEYCHAIN_SERVICE,
+        username,
+    )
+    LOGGER.info("Updated %s without a password field", env_path.name)
+    return 0
+
+
 def login(username: str, password: str, verification_code: str | None) -> Client:
     client = Client()
     client.delay_range = [2, 5]
@@ -134,16 +261,7 @@ def publish_posts(
     max_posts: int | None,
     drain_within_seconds: int,
 ) -> int:
-    load_dotenv(ROOT / ".env")
-
-    username = os.getenv("INSTAGRAM_USERNAME", "").strip()
-    password = os.getenv("INSTAGRAM_PASSWORD", "")
-    verification_code = os.getenv("INSTAGRAM_VERIFICATION_CODE", "").strip() or None
-
-    if not username or not password:
-        raise RuntimeError(
-            "Set INSTAGRAM_USERNAME and INSTAGRAM_PASSWORD in a local .env file."
-        )
+    username, password, verification_code = resolve_credentials()
 
     if pull:
         git_pull()
@@ -228,6 +346,11 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Publish generated Instagram posts from the local git queue"
     )
+    parser.add_argument(
+        "--store-password",
+        action="store_true",
+        help="Prompt for the Instagram password and store it in macOS Keychain",
+    )
     parser.add_argument("--dry-run", action="store_true", help="Do not upload")
     parser.add_argument(
         "--no-pull",
@@ -252,6 +375,8 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     try:
+        if args.store_password:
+            return store_password_interactively()
         drain_seconds = max(0, int(args.drain_within_minutes)) * 60
         return publish_posts(
             dry_run=args.dry_run,
