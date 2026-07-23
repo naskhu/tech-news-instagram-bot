@@ -13,8 +13,8 @@ A fully automated, no-API-key pipeline that collects technology news from RSS fe
 - Runs automatically with GitHub Actions
 - Commits generated posts to `output/`
 - Uploads each run as a downloadable GitHub Actions artifact
-- Publishes generated posts to Instagram through Meta Graph API using git-hosted image URLs
-- Records published files in `instagram-posted.json` to prevent duplicate posts
+- Publishes generated posts to Instagram through Meta Graph API when available, or via the local worker when Meta Content Publishing is unavailable
+- Records published files in `instagram-posted.json` (Actions) or `.local-instagram-posted.json` (local worker)
 
 ## Run it
 
@@ -25,57 +25,34 @@ A fully automated, no-API-key pipeline that collects technology news from RSS fe
 
 The generation workflow also runs automatically four times per day and pushes new files to git.
 
-## Enable automatic Instagram publishing through git + Meta
+## Publishing options
 
-Publishing does **not** upload files from the Actions runner disk. Meta must download each image from a public git URL (`raw.githubusercontent.com`), so the flow is:
+### A) Meta Graph API (preferred when available)
 
-1. **Generate Tech News Post V2** creates `output/...png` + `.txt` caption and commits them to `main`.
-2. **Publish to Instagram** starts after that successful run (or on schedule / manual dispatch).
-3. It reads unpublished PNG + matching caption files from the git checkout.
-4. It creates an Instagram media container from the public raw GitHub image URL, then publishes it.
-5. It commits `instagram-posted.json` back to git so the same post is never sent twice.
+Use this only if Meta Content Publishing works for your app. If Meta shows **“You don’t have access / This feature isn't available to you yet”**, use option B.
 
-### Account requirements
+Secrets required:
 
-- An Instagram **Business** or **Creator** account (`news.world.tech`)
-- A Facebook Page linked to that Instagram account
-- A Meta app with Instagram content publishing permissions
-- A long-lived access token with publishing permission
+- `INSTAGRAM_IG_USER_ID`
+- `INSTAGRAM_ACCESS_TOKEN`
 
-### GitHub repository secrets
+### B) Local Instagram worker (recommended fallback now)
 
-Open **Settings → Secrets and variables → Actions → New repository secret**, then add:
+See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**.
 
-- `INSTAGRAM_IG_USER_ID` — numeric Instagram Professional account ID
-- `INSTAGRAM_ACCESS_TOKEN` — Meta long-lived access token; never commit this value
+GitHub Actions keeps generating posts into git. On your Mac/PC/VPS:
 
-Optional repository variable:
+```bash
+cd ~/tech-news-instagram-bot
+source .venv/bin/activate
+python local_instagram_worker.py
+```
 
-- `META_GRAPH_API_VERSION` — Graph API version, such as `v23.0`
+That pulls new files and posts queued images + captions to Instagram automatically (spread randomly within about an hour). Schedule it every 30 minutes with launchd/cron.
 
-### How to get the Meta values
+### Publishing behavior (Meta Actions path)
 
-1. Convert `news.world.tech` to a Professional account and link it to a Facebook Page.
-2. Create a Meta app at [developers.facebook.com](https://developers.facebook.com/).
-3. Add Instagram Graph / content publishing permissions.
-4. Generate a Page/User token, then exchange it for a long-lived token.
-5. Find the Instagram Business Account ID (IG user id) from the linked Page.
-6. Put both values into GitHub Actions secrets.
-
-If Meta setup is blocked, see `LOCAL_INSTAGRAM_WORKER.md` for a local-machine fallback (unofficial API; higher risk).
-
-### Publishing behavior
-
-The **Publish to Instagram** workflow runs fully automatically:
-
-1. After every successful **Generate Tech News Post V2** run, it drains the unpublished queue.
-2. It spreads those posts randomly across about **one hour** (random start delay + random gaps).
-3. A backup timer runs about **every 30 minutes** and drains leftovers for up to ~50 minutes.
-4. Each image uses its matching `.txt` caption and a public git image URL for Meta.
-5. Progress is saved to `instagram-posted.json` after each successful post.
-6. If Instagram's API publish limit is hit, the run stops cleanly and retries automatically later.
-
-So new daily news is queued briefly, then automatically posted within about an hour — not left sitting for days. Manual runs still work (`max_posts=all` drains within an hour).
+When Meta secrets are configured, **Publish to Instagram** runs automatically after Generate and on a backup schedule, using public git image URLs. If Meta secrets are missing, the Actions publish job skips cleanly and generation continues.
 
 ## Customize
 
