@@ -54,12 +54,16 @@ The **Publish to Instagram** workflow:
 
 1. Starts after a successful **Generate Tech News Post V2** (or **Generate Tech News Posts**) workflow.
 2. Syncs the latest `main` commit that contains generated files under `output/`.
-3. Finds the oldest generated PNG that is not listed in `instagram-posted.json`.
-4. Uses the matching `.txt` file as its Instagram caption.
-5. Waits until the git-hosted image URL is publicly reachable, then creates a Buffer post with `mode: shareNow`.
-6. Commits the resulting Buffer post ID to `instagram-posted.json`.
+3. Counts unpublished posts and chooses a publish limit:
+   - after generate: 1 post
+   - scheduled daytime hours: random chance based on queue size, always 1 post when chosen
+   - manual run: uses the `max_posts` input (defaults scale with backlog)
+4. Finds the oldest generated PNG files that are not listed in `instagram-posted.json`.
+5. Uses each matching `.txt` file as the Instagram caption.
+6. Waits until the git-hosted image URL is publicly reachable, then creates Buffer posts with `mode: shareNow`.
+7. Commits the resulting Buffer post IDs to `instagram-posted.json`.
 
-A backup schedule also checks for an unpublished post at **09:17, 15:17, and 21:17 Maldives time**. You can manually publish from **Actions → Publish to Instagram → Run workflow** and choose how many queued posts to publish.
+Scheduled publishing runs **every hour from 09:00–23:00 Maldives time**. If the queue is large, those hourly slots are more likely to publish one post (with a short random delay). If the queue is small, many slots randomly skip so posting looks less robotic. You can still publish manually from **Actions → Publish to Instagram → Run workflow**.
 
 ## Customize
 
