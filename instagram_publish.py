@@ -163,6 +163,12 @@ def publish_post(
                 "schedulingType": "automatic",
                 "mode": "shareNow",
                 "assets": [{"image": {"url": image_url}}],
+                "metadata": {
+                    "instagram": {
+                        "type": "post",
+                        "shouldShareToFeed": True,
+                    }
+                },
             }
         },
     )
