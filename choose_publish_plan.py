@@ -73,15 +73,16 @@ def main() -> int:
         )
         return 0
 
-    # Frequent schedule backup: keep draining leftovers automatically.
+    # Frequent schedule backup: drain leftovers in a long window so a new
+    # day / backlog clears quickly instead of only ~8 minutes per tick.
     if event_name == "schedule":
         write_output(
             should_publish="true",
             mode="drain",
             max_posts=pending,
-            drain_seconds=480,
+            drain_seconds=3000,
             pending=pending,
-            reason="schedule_drain_burst",
+            reason="schedule_drain_within_hour",
         )
         return 0
 
