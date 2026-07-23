@@ -4,6 +4,8 @@ This worker uses the unofficial ``instagrapi`` client. It does not run inside
 GitHub Actions. Run it only on a trusted always-on computer, Raspberry Pi, VPS,
 or Android/Termux device. Instagram may request login verification or restrict
 accounts that use unofficial automation.
+
+Use this when Meta Content Publishing is unavailable and Buffer is not an option.
 """
 
 from __future__ import annotations
@@ -12,8 +14,10 @@ import argparse
 import json
 import logging
 import os
+import random
 import subprocess
 import sys
+import time
 from pathlib import Path
 from typing import Any
 
@@ -24,6 +28,7 @@ from instagrapi.exceptions import ChallengeRequired, LoginRequired
 ROOT = Path(__file__).resolve().parent
 OUTPUT_DIR = ROOT / "output"
 STATE_FILE = ROOT / ".local-instagram-posted.json"
+REMOTE_STATE_FILE = ROOT / "instagram-posted.json"
 SESSION_FILE = ROOT / ".instagram-session.json"
 
 logging.basicConfig(
@@ -48,7 +53,7 @@ def git_pull() -> None:
         LOGGER.info(result.stdout.strip())
 
 
-def load_state() -> dict[str, Any]:
+def load_local_state() -> dict[str, Any]:
     if not STATE_FILE.exists():
         return {"posted": []}
     try:
@@ -61,22 +66,34 @@ def load_state() -> dict[str, Any]:
     return data
 
 
-def save_state(state: dict[str, Any]) -> None:
+def save_local_state(state: dict[str, Any]) -> None:
     temporary = STATE_FILE.with_suffix(".tmp")
     temporary.write_text(json.dumps(state, indent=2), encoding="utf-8")
     temporary.replace(STATE_FILE)
 
 
-def find_next_post(posted: set[str]) -> tuple[Path, Path] | None:
-    if not OUTPUT_DIR.exists():
-        return None
+def load_remote_posted() -> set[str]:
+    """Skip posts already published by Buffer/Meta via GitHub Actions."""
+    if not REMOTE_STATE_FILE.exists():
+        return set()
+    try:
+        data = json.loads(REMOTE_STATE_FILE.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return set()
+    posted = data.get("posted", {})
+    return set(posted.keys()) if isinstance(posted, dict) else set()
 
+
+def list_unpublished(posted: set[str]) -> list[tuple[Path, Path]]:
+    if not OUTPUT_DIR.exists():
+        return []
+    candidates: list[tuple[Path, Path]] = []
     for image in sorted(OUTPUT_DIR.glob("**/*.png")):
         relative = image.relative_to(ROOT).as_posix()
         caption = image.with_suffix(".txt")
         if relative not in posted and caption.exists():
-            return image, caption
-    return None
+            candidates.append((image, caption))
+    return candidates
 
 
 def login(username: str, password: str, verification_code: str | None) -> Client:
@@ -101,7 +118,22 @@ def login(username: str, password: str, verification_code: str | None) -> Client
     return client
 
 
-def publish_one(*, dry_run: bool, pull: bool) -> int:
+def inter_post_delay_seconds(remaining_after: int, seconds_left: float) -> int:
+    if remaining_after <= 0 or seconds_left <= 30:
+        return 0
+    average = max(60, int((seconds_left * 0.9) / remaining_after))
+    low = max(45, int(average * 0.45))
+    high = max(low + 1, min(int(average * 1.35), 600))
+    return random.randint(low, high)
+
+
+def publish_posts(
+    *,
+    dry_run: bool,
+    pull: bool,
+    max_posts: int | None,
+    drain_within_seconds: int,
+) -> int:
     load_dotenv(ROOT / ".env")
 
     username = os.getenv("INSTAGRAM_USERNAME", "").strip()
@@ -116,47 +148,103 @@ def publish_one(*, dry_run: bool, pull: bool) -> int:
     if pull:
         git_pull()
 
-    state = load_state()
-    posted = set(state["posted"])
-    queued = find_next_post(posted)
-    if queued is None:
+    state = load_local_state()
+    posted = set(state["posted"]) | load_remote_posted()
+    pending = list_unpublished(posted)
+    if not pending:
         LOGGER.info("No unpublished image/caption pair found")
         return 0
 
-    image, caption_file = queued
-    caption = caption_file.read_text(encoding="utf-8").strip()
-    if not caption:
-        raise RuntimeError(f"Caption is empty: {caption_file}")
+    if max_posts is not None:
+        pending = pending[: max(1, max_posts)]
 
-    LOGGER.info("Next post: %s", image.relative_to(ROOT))
+    LOGGER.info("Queued unpublished posts: %s", len(pending))
     if dry_run:
+        for image, _caption in pending:
+            LOGGER.info("Dry run next: %s", image.relative_to(ROOT))
         LOGGER.info("Dry run enabled; nothing was uploaded")
         return 0
 
-    try:
-        client = login(username, password, verification_code)
-        media = client.photo_upload(image, caption)
-    except ChallengeRequired as exc:
-        raise RuntimeError(
-            "Instagram requested a security challenge. Open Instagram, approve the "
-            "login, then run the worker again."
-        ) from exc
+    client = login(username, password, verification_code)
+    deadline = time.time() + drain_within_seconds if drain_within_seconds > 0 else None
+    if drain_within_seconds > 0:
+        initial_delay = random.randint(0, min(180, max(0, drain_within_seconds // 12)))
+        LOGGER.info(
+            "Drain mode for %ss with initial delay %ss",
+            drain_within_seconds,
+            initial_delay,
+        )
+        if initial_delay:
+            time.sleep(initial_delay)
 
-    relative = image.relative_to(ROOT).as_posix()
-    state["posted"].append(relative)
-    state["last_media_pk"] = str(media.pk)
-    save_state(state)
-    LOGGER.info("Published successfully: %s", relative)
+    published = 0
+    for index, (image, caption_file) in enumerate(pending):
+        if deadline is not None and time.time() >= deadline:
+            LOGGER.info(
+                "Drain window ended after %s post(s); %s remain for later runs",
+                published,
+                len(pending) - index,
+            )
+            break
+
+        caption = caption_file.read_text(encoding="utf-8").strip()
+        if not caption:
+            raise RuntimeError(f"Caption is empty: {caption_file}")
+
+        relative = image.relative_to(ROOT).as_posix()
+        LOGGER.info("Publishing: %s", relative)
+        try:
+            media = client.photo_upload(image, caption)
+        except ChallengeRequired as exc:
+            raise RuntimeError(
+                "Instagram requested a security challenge. Open Instagram, approve the "
+                "login, then run the worker again."
+            ) from exc
+
+        state["posted"].append(relative)
+        state["last_media_pk"] = str(media.pk)
+        save_local_state(state)
+        posted.add(relative)
+        published += 1
+        LOGGER.info("Published successfully: %s", relative)
+
+        remaining = len(pending) - index - 1
+        if remaining <= 0:
+            break
+        if deadline is None:
+            # Single-batch mode: short random pause between posts.
+            delay = random.randint(45, 180)
+        else:
+            delay = inter_post_delay_seconds(remaining, deadline - time.time())
+        LOGGER.info("Sleeping %ss before next random publish (%s remaining)", delay, remaining)
+        if delay > 0:
+            time.sleep(delay)
+
+    LOGGER.info("Finished local publish run. Posted %s item(s).", published)
     return 0
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Publish the next generated post")
+    parser = argparse.ArgumentParser(
+        description="Publish generated Instagram posts from the local git queue"
+    )
     parser.add_argument("--dry-run", action="store_true", help="Do not upload")
     parser.add_argument(
         "--no-pull",
         action="store_true",
         help="Do not run git pull before checking the queue",
+    )
+    parser.add_argument(
+        "--max-posts",
+        type=int,
+        default=None,
+        help="Maximum posts to publish this run (default: all queued)",
+    )
+    parser.add_argument(
+        "--drain-within-minutes",
+        type=int,
+        default=55,
+        help="Spread posts randomly across this many minutes (0 disables drain timing)",
     )
     return parser.parse_args()
 
@@ -164,7 +252,13 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     try:
-        return publish_one(dry_run=args.dry_run, pull=not args.no_pull)
+        drain_seconds = max(0, int(args.drain_within_minutes)) * 60
+        return publish_posts(
+            dry_run=args.dry_run,
+            pull=not args.no_pull,
+            max_posts=args.max_posts,
+            drain_within_seconds=drain_seconds,
+        )
     except Exception as exc:
         LOGGER.error("Worker failed: %s", exc)
         return 1
