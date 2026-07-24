@@ -38,6 +38,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # After local midnight, drop previous YYYY-MM-DD folders so the next day
+      # builds a fresh queue (published history stays in instagram-posted.json).
+      - name: Clear previous calendar-day output folders
+        env:
+          PUBLISH_TIMEZONE: Indian/Maldives
+        run: python3 cleanup_old_output.py --clear-old-days
+
       - name: Generate fresh posts with verified news photos only
         run: python strict_runner.py
 

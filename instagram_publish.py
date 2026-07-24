@@ -9,12 +9,20 @@ import random
 import subprocess
 import sys
 import time
-from datetime import datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
 
 import requests
+
+from publish_limits import (
+    DAILY_LIMIT,
+    before_posting_window,
+    cooldown_active,
+    count_posted_today,
+    quota_left_today,
+    today_local,
+)
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
@@ -24,8 +32,6 @@ MAX_POSTS = max(1, int(os.getenv("MAX_POSTS_PER_RUN", "1")))
 PUBLISH_MODE = os.getenv("PUBLISH_MODE", "batch").strip().lower() or "batch"
 DRAIN_WITHIN_SECONDS = max(0, int(os.getenv("DRAIN_WITHIN_SECONDS", "0")))
 COMMIT_STATE_EACH_POST = os.getenv("COMMIT_STATE_EACH_POST", "").strip() == "1"
-# Buffer's documented Instagram posts/reels/stories limit per rolling 24 hours.
-DAILY_LIMIT = max(1, int(os.getenv("INSTAGRAM_DAILY_LIMIT", "50")))
 BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 
 CREATE_POST_MUTATION = """
@@ -100,42 +106,23 @@ def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]
     return list_unpublished(state)[:MAX_POSTS]
 
 
-def parse_published_at(value: object) -> float | None:
-    if not isinstance(value, str) or not value.strip():
-        return None
-    text = value.strip().replace("Z", "+00:00")
-    try:
-        return datetime.fromisoformat(text).timestamp()
-    except ValueError:
-        return None
-
-
-def count_posted_last_24h(state: dict[str, Any]) -> int:
-    cutoff = time.time() - 24 * 60 * 60
-    posted = state.get("posted", {})
-    if not isinstance(posted, dict):
-        return 0
-    count = 0
-    for entry in posted.values():
-        if not isinstance(entry, dict):
-            continue
-        publisher = str(entry.get("publisher", "buffer")).lower()
-        if publisher not in {"buffer", "meta", ""}:
-            continue
-        ts = parse_published_at(entry.get("published_at_utc"))
-        if ts is not None and ts >= cutoff:
-            count += 1
-    return count
-
-
 def assert_daily_quota(state: dict[str, Any]) -> None:
-    used = count_posted_last_24h(state)
-    if used >= DAILY_LIMIT:
+    paused, pause_reason = cooldown_active()
+    if paused:
+        raise DailyLimitReached(pause_reason)
+
+    too_early, early_reason = before_posting_window()
+    if too_early:
+        raise DailyLimitReached(early_reason)
+
+    used = count_posted_today(state)
+    left = quota_left_today(state)
+    if left <= 0:
         raise DailyLimitReached(
-            f"Rolling 24h Instagram cap reached ({used}/{DAILY_LIMIT}). "
-            "Resume after older posts age out of the window."
+            f"Calendar-day Instagram cap reached ({used}/{DAILY_LIMIT} on "
+            f"{today_local().isoformat()}). Resume after local midnight."
         )
-    print(f"Rolling 24h Buffer usage: {used}/{DAILY_LIMIT}")
+    print(f"Calendar-day Buffer usage: {used}/{DAILY_LIMIT} ({left} left today)")
 
 
 def public_image_url(image: Path) -> str:
@@ -360,7 +347,7 @@ def drain_queue(access_token: str, channel_id: str) -> int:
     initial_delay = random.randint(0, min(180, max(0, DRAIN_WITHIN_SECONDS // 10)))
     print(
         f"Drain mode: publish up to {target} post(s) randomly within {DRAIN_WITHIN_SECONDS}s "
-        f"(initial delay {initial_delay}s, daily cap {DAILY_LIMIT}/24h)"
+        f"(initial delay {initial_delay}s, calendar-day cap {DAILY_LIMIT})"
     )
     if initial_delay:
         time.sleep(initial_delay)
@@ -417,7 +404,7 @@ def drain_queue(access_token: str, channel_id: str) -> int:
     if leftover:
         print(
             f"Tick complete with {leftover} post(s) still queued; "
-            "later automatic runs continue under the 50/24h cap."
+            "later automatic runs continue under the calendar-day cap."
         )
     return published
 
