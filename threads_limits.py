@@ -7,8 +7,8 @@ import os
 import time
 from datetime import datetime, timezone
 
-# Buffer's documented Threads limit: 250 posts per rolling 24 hours.
-DAILY_LIMIT = max(1, min(250, int(os.getenv("THREADS_DAILY_LIMIT", "250"))))
+# Soft cap under Buffer's documented Threads limit (250 / rolling 24h).
+DAILY_LIMIT = max(1, min(240, int(os.getenv("THREADS_DAILY_LIMIT", "240"))))
 
 
 def parse_published_at(value: object) -> float | None:

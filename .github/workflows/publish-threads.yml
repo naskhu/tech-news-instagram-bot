@@ -9,11 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish to Threads (use all to drain under 250/24h)
+        description: Maximum unpublished posts to publish to Threads (use all to drain under 240/24h)
         required: false
         default: "4"
   schedule:
-    # Every ~30 minutes. Gentle ticks under Buffer's Threads 250 / 24h limit.
+    # Every ~30 minutes: pick up new queued images and post a small paced batch.
+    # Soft cap 240 / rolling 24h (under Buffer's Threads 250 hard limit).
     - cron: "17,47 * * * *"
 
 permissions:
@@ -51,7 +52,7 @@ jobs:
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           MANUAL_MAX_POSTS: ${{ inputs.max_posts || '4' }}
-          THREADS_DAILY_LIMIT: "250"
+          THREADS_DAILY_LIMIT: "240"
           THREADS_MAX_PER_SCHEDULE_TICK: "4"
           THREADS_MAX_PER_GENERATE_TICK: "4"
         run: python3 choose_threads_publish_plan.py
@@ -92,7 +93,7 @@ jobs:
           COMMIT_STATE_EACH_POST: "1"
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: main
-          THREADS_DAILY_LIMIT: "250"
+          THREADS_DAILY_LIMIT: "240"
           THREADS_TOPIC: TechNews
         run: |
           echo "Pending unpublished posts: ${{ steps.plan.outputs.pending }}"

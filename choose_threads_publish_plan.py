@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Decide Buffer Threads publish plan (rolling 250 / 24h soft cap)."""
+"""Decide Buffer Threads publish plan (rolling 240 / 24h soft cap)."""
 
 from __future__ import annotations
 

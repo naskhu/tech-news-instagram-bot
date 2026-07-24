@@ -364,11 +364,12 @@ def commit_state_to_git() -> None:
 
 
 def inter_post_delay_seconds(remaining_after: int, seconds_left: float) -> int:
-    if remaining_after <= 0 or seconds_left <= 45:
+    """Random gaps between Buffer sends so ticks don't look like a burst."""
+    if remaining_after <= 0 or seconds_left <= 60:
         return 0
-    average = max(90, int((seconds_left * 0.9) / remaining_after))
-    low = max(60, int(average * 0.5))
-    high = max(low + 1, min(int(average * 1.4), 900))
+    average = max(120, int((seconds_left * 0.85) / remaining_after))
+    low = max(90, int(average * 0.45))
+    high = max(low + 1, min(int(average * 1.55), 1200))
     return random.randint(low, high)
 
 
@@ -450,7 +451,7 @@ def drain_queue(access_token: str, channel_id: str) -> int:
     if leftover:
         print(
             f"Threads tick complete with {leftover} post(s) still queued; "
-            "later automatic runs continue under the 250/24h cap."
+            "later automatic runs continue under the 240/24h soft cap."
         )
     return published
 
