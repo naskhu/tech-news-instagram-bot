@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish (use all to drain within an hour)
+        description: Maximum unpublished posts to publish (use all to drain within day cap)
         required: false
-        default: "all"
+        default: "2"
   schedule:
-    # About every 30 minutes. Each tick posts a few items under a rolling
-    # 50-post / 24h Instagram cap (Buffer's documented limit).
+    # About every 30 minutes after the cool-down. Each tick posts a few items
+    # under a calendar-day 50-post cap (Indian/Maldives midnight reset).
     - cron: "11,41 * * * *"
 
 permissions:
@@ -51,7 +51,14 @@ jobs:
         id: plan
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-          MANUAL_MAX_POSTS: ${{ inputs.max_posts || 'all' }}
+          MANUAL_MAX_POSTS: ${{ inputs.max_posts || '2' }}
+          # Maldives local day. Pause until this local date (Instagram action-block cool-down).
+          PUBLISH_TIMEZONE: Indian/Maldives
+          PUBLISH_RESUME_DATE: "2026-07-26"
+          POSTING_START_HOUR: "8"
+          INSTAGRAM_DAILY_LIMIT: "50"
+          MAX_PER_SCHEDULE_TICK: "2"
+          MAX_PER_GENERATE_TICK: "2"
         run: python3 choose_publish_plan.py
 
       - name: Require Buffer secrets
@@ -90,12 +97,17 @@ jobs:
           COMMIT_STATE_EACH_POST: "1"
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: main
+          PUBLISH_TIMEZONE: Indian/Maldives
+          PUBLISH_RESUME_DATE: "2026-07-26"
+          POSTING_START_HOUR: "8"
+          INSTAGRAM_DAILY_LIMIT: "50"
         run: |
           echo "Pending unpublished posts: ${{ steps.plan.outputs.pending }}"
           echo "Mode: ${{ steps.plan.outputs.mode }}"
           echo "Drain window seconds: ${{ steps.plan.outputs.drain_seconds }}"
           echo "Max posts: ${{ steps.plan.outputs.max_posts }}"
-          echo "Used last 24h: ${{ steps.plan.outputs.used_24h }}"
+          echo "Local date: ${{ steps.plan.outputs.local_date }}"
+          echo "Used today: ${{ steps.plan.outputs.used_today }}"
           echo "Quota left today: ${{ steps.plan.outputs.quota_left }}"
           echo "Plan reason: ${{ steps.plan.outputs.reason }}"
           python instagram_publish.py

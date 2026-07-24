@@ -1,22 +1,27 @@
 #!/usr/bin/env python3
-"""Decide Buffer publish mode with a rolling 50-post / 24h Instagram cap."""
+"""Decide Buffer publish mode with a calendar-day Instagram cap."""
 
 from __future__ import annotations
 
 import json
 import os
 import sys
-import time
-from datetime import datetime, timezone
 from pathlib import Path
+
+from publish_limits import (
+    DAILY_LIMIT,
+    before_posting_window,
+    cooldown_active,
+    count_posted_today,
+    quota_left_today,
+    today_local,
+)
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
-# Buffer's documented Instagram limit (posts + reels + stories per 24h).
-DAILY_LIMIT = max(1, int(os.getenv("INSTAGRAM_DAILY_LIMIT", "50")))
-# Keep each Actions tick gentle so we don't burst inside the day.
+# Gentle ticks so we don't burst inside the day (≈50 across ~15 waking hours).
 MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("MAX_PER_SCHEDULE_TICK", "2")))
-MAX_PER_GENERATE_TICK = max(1, int(os.getenv("MAX_PER_GENERATE_TICK", "3")))
+MAX_PER_GENERATE_TICK = max(1, int(os.getenv("MAX_PER_GENERATE_TICK", "2")))
 
 
 def load_state() -> dict:
@@ -30,35 +35,6 @@ def load_state() -> dict:
         return {"posted": {}}
     data.setdefault("posted", {})
     return data
-
-
-def parse_published_at(value: object) -> float | None:
-    if not isinstance(value, str) or not value.strip():
-        return None
-    text = value.strip().replace("Z", "+00:00")
-    try:
-        return datetime.fromisoformat(text).timestamp()
-    except ValueError:
-        return None
-
-
-def count_posted_last_24h(state: dict) -> int:
-    cutoff = time.time() - 24 * 60 * 60
-    posted = state.get("posted", {})
-    if not isinstance(posted, dict):
-        return 0
-    count = 0
-    for entry in posted.values():
-        if not isinstance(entry, dict):
-            continue
-        # Only count Buffer/Meta Actions publishes toward the Buffer daily cap.
-        publisher = str(entry.get("publisher", "buffer")).lower()
-        if publisher not in {"buffer", "meta", ""}:
-            continue
-        ts = parse_published_at(entry.get("published_at_utc"))
-        if ts is not None and ts >= cutoff:
-            count += 1
-    return count
 
 
 def count_pending(state: dict) -> int:
@@ -83,53 +59,61 @@ def write_output(**values: object) -> None:
     print(text, end="")
 
 
+def skip(reason: str, pending: int, used_today: int, quota_left: int) -> int:
+    write_output(
+        should_publish="false",
+        mode="none",
+        max_posts=0,
+        drain_seconds=0,
+        pending=pending,
+        used_today=used_today,
+        quota_left=quota_left,
+        local_date=today_local().isoformat(),
+        reason=reason,
+    )
+    return 0
+
+
 def main() -> int:
     event_name = os.getenv("GITHUB_EVENT_NAME", "workflow_dispatch")
     manual_max = os.getenv("MANUAL_MAX_POSTS", "").strip()
     state = load_state()
     pending = count_pending(state)
-    used_24h = count_posted_last_24h(state)
-    quota_left = max(0, DAILY_LIMIT - used_24h)
+    used_today = count_posted_today(state)
+    quota_left = quota_left_today(state)
+
+    paused, pause_reason = cooldown_active()
+    if paused:
+        return skip(pause_reason, pending, used_today, quota_left)
+
+    too_early, early_reason = before_posting_window()
+    if too_early and event_name != "workflow_dispatch":
+        # Manual runs can still test; automatic runs wait for the start hour.
+        return skip(early_reason, pending, used_today, quota_left)
 
     if pending <= 0:
-        write_output(
-            should_publish="false",
-            mode="none",
-            max_posts=0,
-            drain_seconds=0,
-            pending=pending,
-            used_24h=used_24h,
-            quota_left=quota_left,
-            reason="queue_empty",
-        )
-        return 0
+        return skip("queue_empty", pending, used_today, quota_left)
 
     if quota_left <= 0:
-        write_output(
-            should_publish="false",
-            mode="none",
-            max_posts=0,
-            drain_seconds=0,
-            pending=pending,
-            used_24h=used_24h,
-            quota_left=0,
-            reason="daily_limit_50_reached",
+        return skip(
+            f"calendar_day_limit_{DAILY_LIMIT}_reached",
+            pending,
+            used_today,
+            0,
         )
-        return 0
 
-    # Spread across the day: each tick only ships a few posts with spacing.
-    # ~2 posts / 30 min ≈ up to ~50 over 24h when the queue is full.
     if event_name == "workflow_run":
         max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
             mode="drain",
             max_posts=max_posts,
-            drain_seconds=max(900, max_posts * 900),
+            drain_seconds=max(1200, max_posts * 1200),
             pending=pending,
-            used_24h=used_24h,
+            used_today=used_today,
             quota_left=quota_left,
-            reason="after_generate_paced_daily_cap",
+            local_date=today_local().isoformat(),
+            reason="after_generate_calendar_day_cap",
         )
         return 0
 
@@ -139,11 +123,12 @@ def main() -> int:
             should_publish="true",
             mode="drain",
             max_posts=max_posts,
-            drain_seconds=max(600, max_posts * 800),
+            drain_seconds=max(900, max_posts * 1000),
             pending=pending,
-            used_24h=used_24h,
+            used_today=used_today,
             quota_left=quota_left,
-            reason="schedule_paced_daily_cap",
+            local_date=today_local().isoformat(),
+            reason="schedule_calendar_day_cap",
         )
         return 0
 
@@ -155,9 +140,10 @@ def main() -> int:
             max_posts=max_posts,
             drain_seconds=max(1200, max_posts * 600),
             pending=pending,
-            used_24h=used_24h,
+            used_today=used_today,
             quota_left=quota_left,
-            reason="manual_drain_up_to_daily_cap",
+            local_date=today_local().isoformat(),
+            reason="manual_drain_up_to_day_cap",
         )
         return 0
 
@@ -169,9 +155,10 @@ def main() -> int:
         max_posts=max_posts,
         drain_seconds=0,
         pending=pending,
-        used_24h=used_24h,
+        used_today=used_today,
         quota_left=quota_left,
-        reason="manual_batch_daily_cap",
+        local_date=today_local().isoformat(),
+        reason="manual_batch_day_cap",
     )
     return 0
 
@@ -179,6 +166,6 @@ def main() -> int:
 if __name__ == "__main__":
     try:
         raise SystemExit(main())
-    except Exception as exc:  # Keep Actions logs concise.
+    except Exception as exc:
         print(f"ERROR: {exc}", file=sys.stderr)
         raise SystemExit(1)

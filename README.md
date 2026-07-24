@@ -53,7 +53,16 @@ See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**. Instagram often 
 
 ### Publishing behavior (Actions)
 
-**Publish to Instagram** runs after Generate and on a backup schedule, using public git image URLs for Buffer. If Buffer secrets are missing, the job skips cleanly and generation continues.
+**Publish to Instagram** runs after Generate and on a backup schedule (~every 30 minutes), using public git image URLs for Buffer. If Buffer secrets are missing, the job skips cleanly and generation continues.
+
+Limits (Maldives local time, `Indian/Maldives`):
+
+- **Calendar-day cap:** at most **50** posts between local midnight and next midnight
+- **Start hour:** automatic posting starts at **08:00** local (configurable via `POSTING_START_HOUR`)
+- **Cool-down:** publishing stays paused until `PUBLISH_RESUME_DATE` (currently `2026-07-26`) while Instagram action-blocks cool down
+- **Fresh daily queue:** generate workflows delete previous `output/YYYY-MM-DD/` folders after local midnight so the next day builds new images
+
+Keep the local Mac `instagrapi` worker **off** while Instagram shows “Try Again Later”.
 
 ## Customize
 
