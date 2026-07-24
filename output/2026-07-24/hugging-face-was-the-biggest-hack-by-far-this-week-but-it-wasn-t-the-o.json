@@ -1,0 +1,22 @@
+{
+  "title": "Hugging Face Was the Biggest Hack by Far This Week, But It Wasn't the Only One",
+  "summary": "Even if you don’t grant Gemini that access but still allow it to send lock screen alerts, a specific button combination can bypass the lock screen entirely, allowing anyone to send messages via Gemini.",
+  "source": "PCMag News",
+  "url": "https://pcmag.com/news/hugging-face-was-the-biggest-hack-by-far-this-week-but-it-wasnt-the-only",
+  "published_utc": "2026-07-24T13:56:26+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-24T14:10:09.467318+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://i.pcmag.com/imagery/articles/051uofuCDEbwIoeGcJOHxHO-1.fit_lim.size_1200x630.v1784825878.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 5,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-24/hugging-face-was-the-biggest-hack-by-far-this-week-but-it-wasn-t-the-o.png",
+  "caption": "output/2026-07-24/hugging-face-was-the-biggest-hack-by-far-this-week-but-it-wasn-t-the-o.txt"
+}
