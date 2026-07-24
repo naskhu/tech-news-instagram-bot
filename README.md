@@ -77,7 +77,7 @@ Keep the local Mac `instagrapi` worker **off** while Instagram shows “Try Agai
 **Publish to Threads** is a separate workflow (`publish-threads.yml`) that posts the same `output/` images through Buffer’s Threads channel. It does **not** use the Instagram cool-down.
 
 - **Rolling 24h soft cap:** at most **240** posts (under Buffer’s Threads hard limit of 250)
-- **Pacing:** every ~30 minutes, about **4 posts** with **random gaps** between sends (Buffer official API — safer than unofficial bots; still don’t blast)
+- **Pacing:** every **hour**, up to about **8 posts** with **random gaps** between Buffer sends (also runs right after Generate when new images appear)
 - **Captions:** trimmed to Threads’ **500** character limit with a single topic (`#TechNews`)
 - **State:** `threads-posted.json` (independent from `instagram-posted.json`)
 

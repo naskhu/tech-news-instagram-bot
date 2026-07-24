@@ -12,9 +12,9 @@ from threads_limits import DAILY_LIMIT, count_posted_last_24h, quota_left_24h
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
-# Gentle ticks via Buffer so posts look like normal scheduled traffic.
-MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "4")))
-MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "4")))
+# Gentle hourly ticks via Buffer (≈240 across the day under the soft cap).
+MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "8")))
+MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "8")))
 
 
 def load_state() -> dict:
