@@ -29,14 +29,22 @@ The generation workflow also runs automatically four times per day and pushes ne
 
 ### A) Buffer (recommended)
 
-Uses GitHub Actions + Buffer so Instagram sees normal Buffer publishing (lower automation risk than unofficial local login).
+Uses GitHub Actions + Buffer so Instagram/Threads see normal Buffer publishing (lower automation risk than unofficial local login).
 
 Secrets required:
 
 - `BUFFER_ACCESS_TOKEN`
 - `BUFFER_CHANNEL_ID` (Instagram channel in Buffer)
+- `BUFFER_THREADS_CHANNEL_ID` (Threads channel in Buffer — for the Threads workflow)
 
-Requires an active Buffer plan that can post to Instagram.
+Requires an active Buffer plan that can post to Instagram and/or Threads. Connect Threads in Buffer first (Threads must be linked to Instagram and public).
+
+To find the Threads channel id:
+
+```bash
+export BUFFER_ACCESS_TOKEN=...
+python3 list_buffer_channels.py
+```
 
 ### B) Meta Graph API
 
@@ -63,6 +71,15 @@ Limits (Maldives local time, `Indian/Maldives`):
 - **Fresh daily queue:** generate workflows delete previous `output/YYYY-MM-DD/` folders after local midnight so the next day builds new images
 
 Keep the local Mac `instagrapi` worker **off** while Instagram shows “Try Again Later”.
+
+### Threads publishing (Actions)
+
+**Publish to Threads** is a separate workflow (`publish-threads.yml`) that posts the same `output/` images through Buffer’s Threads channel. It does **not** use the Instagram cool-down.
+
+- **Rolling 24h cap:** at most **250** posts (Buffer’s Threads limit)
+- **Pacing:** about **4 posts** per ~30-minute tick with random gaps (not a dump)
+- **Captions:** trimmed to Threads’ **500** character limit with a single topic (`#TechNews`)
+- **State:** `threads-posted.json` (independent from `instagram-posted.json`)
 
 ## Customize
 
