@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-23T23:11:54.128997+00:00",
+  "run_utc": "2026-07-24T00:10:35.939754+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-20T23:11:54.131430+00:00",
-  "eligible_story_count": 8,
+  "cutoff_utc": "2026-07-21T00:10:35.940497+00:00",
+  "eligible_story_count": 4,
   "sources": [
     {
       "source": "TechCrunch",
@@ -26,13 +26,11 @@
       ],
       "rss_candidates": 20,
       "page_links": 26,
-      "page_articles": 25,
+      "page_articles": 26,
       "eligible_new": 1,
       "already_processed": 26,
       "older_than_window": 0,
-      "metadata_errors": {
-        "http_403": 1
-      }
+      "metadata_errors": {}
     },
     {
       "source": "The Verge",
@@ -59,7 +57,7 @@
       "page_articles": 30,
       "eligible_new": 1,
       "already_processed": 29,
-      "older_than_window": 7,
+      "older_than_window": 8,
       "metadata_errors": {}
     },
     {
@@ -214,8 +212,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 1,
-      "already_processed": 31,
+      "eligible_new": 0,
+      "already_processed": 32,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -251,7 +249,7 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 0,
-      "already_processed": 63,
+      "already_processed": 62,
       "older_than_window": 46,
       "metadata_errors": {}
     },
@@ -309,11 +307,11 @@
           "error": ""
         }
       ],
-      "rss_candidates": 9,
+      "rss_candidates": 10,
       "page_links": 20,
       "page_articles": 13,
       "eligible_new": 1,
-      "already_processed": 11,
+      "already_processed": 12,
       "older_than_window": 4,
       "metadata_errors": {
         "not_article_path": 7
@@ -379,25 +377,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 17,
+          "links": 18,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 33,
+          "links": 32,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 4,
-      "already_processed": 84,
+      "eligible_new": 1,
+      "already_processed": 86,
       "older_than_window": 4,
       "metadata_errors": {
-        "missing_title": 1,
-        "no_article_metadata": 4
+        "no_article_metadata": 4,
+        "missing_title": 1
       }
     },
     {
