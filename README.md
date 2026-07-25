@@ -35,7 +35,7 @@ Secrets required:
 
 - `BUFFER_ACCESS_TOKEN`
 - `BUFFER_CHANNEL_ID` (Instagram channel in Buffer)
-- `BUFFER_THREADS_CHANNEL_ID` (Threads channel in Buffer — for the Threads workflow)
+- `BUFFER_THREADS_CHANNEL_ID` (Threads channel id(s) in Buffer — comma-separated for multiple profiles, e.g. `naskhu,news.world.tech`)
 
 Requires an active Buffer plan that can post to Instagram and/or Threads. Connect Threads in Buffer first (Threads must be linked to Instagram and public).
 
