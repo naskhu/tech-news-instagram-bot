@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Remove old output day folders and optional unpublished leftovers.
 
-After local midnight, previous calendar-day image folders are deleted so the
-generator builds a fresh daily queue. Published history stays in
-instagram-posted.json.
+Keeps recent calendar-day folders so Buffer can still fetch public git image
+URLs for customScheduled Threads/Instagram posts. Published history stays in
+instagram-posted.json / threads-posted.json.
 """
 
 from __future__ import annotations
@@ -13,27 +13,35 @@ import json
 import os
 import shutil
 import sys
+from datetime import timedelta
 from pathlib import Path
 
 from publish_limits import today_local
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
+THREADS_STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
+# Keep today + previous days so Buffer retries still find raw GitHub images.
+KEEP_OUTPUT_DAYS = max(1, min(14, int(os.getenv("KEEP_OUTPUT_DAYS", "3"))))
 
 
-def load_posted_keys() -> set[str]:
-    if not STATE_FILE.exists():
-        return set()
-    try:
-        data = json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return set()
-    posted = data.get("posted", {})
-    return set(posted.keys()) if isinstance(posted, dict) else set()
+def load_posted_keys(*paths: Path) -> set[str]:
+    keys: set[str] = set()
+    for path in paths:
+        if not path.exists():
+            continue
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        posted = data.get("posted", {})
+        if isinstance(posted, dict):
+            keys.update(str(key) for key in posted.keys())
+    return keys
 
 
 def clear_unpublished() -> int:
-    posted = load_posted_keys()
+    posted = load_posted_keys(STATE_FILE, THREADS_STATE_FILE)
     removed = 0
     for image in list(OUTPUT_DIR.glob("**/*.png")):
         rel = image.as_posix()
@@ -47,8 +55,10 @@ def clear_unpublished() -> int:
     return removed
 
 
-def clear_old_day_folders(*, keep_today: bool = True) -> int:
-    today = today_local().isoformat()
+def clear_old_day_folders(*, keep_days: int = KEEP_OUTPUT_DAYS) -> int:
+    today = today_local()
+    cutoff = (today - timedelta(days=max(0, keep_days - 1))).isoformat()
+    protected = load_posted_keys(STATE_FILE, THREADS_STATE_FILE)
     removed_dirs = 0
     if not OUTPUT_DIR.exists():
         return 0
@@ -59,11 +69,31 @@ def clear_old_day_folders(*, keep_today: bool = True) -> int:
         # Expect YYYY-MM-DD folders.
         if len(name) != 10 or name[4] != "-" or name[7] != "-":
             continue
-        if keep_today and name >= today:
+        if name >= cutoff:
             continue
-        shutil.rmtree(day_dir)
-        removed_dirs += 1
-        print(f"Removed old output day folder: {day_dir.as_posix()}")
+
+        # Prefer deleting whole day folders, but keep any file Buffer may still need.
+        kept = 0
+        for image in list(day_dir.glob("**/*.png")):
+            rel = image.as_posix()
+            if rel not in protected:
+                for path in (image, image.with_suffix(".txt"), image.with_suffix(".json")):
+                    if path.exists():
+                        path.unlink()
+                continue
+            kept += 1
+
+        # Remove empty leftovers, otherwise leave the day folder with protected files.
+        remaining = [path for path in day_dir.rglob("*") if path.is_file()]
+        if not remaining:
+            shutil.rmtree(day_dir)
+            removed_dirs += 1
+            print(f"Removed old output day folder: {day_dir.as_posix()}")
+        elif kept:
+            print(
+                f"Kept {kept} published/scheduled file(s) in {day_dir.as_posix()} "
+                f"(Buffer may still fetch them)."
+            )
     return removed_dirs
 
 
@@ -72,12 +102,15 @@ def main() -> int:
     parser.add_argument(
         "--clear-unpublished",
         action="store_true",
-        help="Delete queued image/caption/json files not yet in instagram-posted.json",
+        help="Delete queued image/caption/json files not yet in posted state files",
     )
     parser.add_argument(
         "--clear-old-days",
         action="store_true",
-        help="Delete output/YYYY-MM-DD folders before today's local date",
+        help=(
+            f"Delete output/YYYY-MM-DD folders older than the last {KEEP_OUTPUT_DAYS} "
+            "local calendar days (keeps files still referenced by posted state)"
+        ),
     )
     args = parser.parse_args()
     if not args.clear_unpublished and not args.clear_old_days:
@@ -87,7 +120,7 @@ def main() -> int:
     if args.clear_unpublished:
         total += clear_unpublished()
     if args.clear_old_days:
-        total += clear_old_day_folders(keep_today=True)
+        total += clear_old_day_folders(keep_days=KEEP_OUTPUT_DAYS)
     print(f"Cleanup finished. Items/folders touched: {total}")
     return 0
 

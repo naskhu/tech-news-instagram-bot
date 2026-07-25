@@ -89,7 +89,8 @@ def main() -> None:
     run_utc = datetime.now(timezone.utc).isoformat()
 
     shutil.rmtree(RUN_OUTPUT_DIR, ignore_errors=True)
-    shutil.rmtree(bot.OUTPUT_DIR, ignore_errors=True)
+    # Keep existing output/ images. Buffer customScheduled posts fetch the public
+    # raw.githubusercontent.com URL later; wiping here makes those URLs 404.
     RUN_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     bot.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)

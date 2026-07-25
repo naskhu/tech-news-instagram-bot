@@ -51,6 +51,7 @@ jobs:
       - name: Clear previous calendar-day output folders
         env:
           PUBLISH_TIMEZONE: Indian/Maldives
+          KEEP_OUTPUT_DAYS: "3"
         run: python3 cleanup_old_output.py --clear-old-days
 
       - name: Audit all sources and generate new posts
