@@ -721,6 +721,25 @@
       "published_at_utc": "2026-07-25T20:35:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/how-to-watch-liverpool-vs-sunderland-for-free-pre-season-friendly-live.png": {
+      "buffer_due_at_utc": "2026-07-25T20:43:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a651e1312fafbaf49d7c061",
+      "caption_file": "output/2026-07-25/how-to-watch-liverpool-vs-sunderland-for-free-pre-season-friendly-live.txt",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
+      "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-25T20:43:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a651e1312fafbaf49d7c061",
+          "published_at_utc": "2026-07-25T20:35:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/how-to-watch-liverpool-vs-sunderland-for-free-pre-season-friendly-live.png",
+      "metadata_file": "output/2026-07-25/how-to-watch-liverpool-vs-sunderland-for-free-pre-season-friendly-live.json",
+      "published_at_utc": "2026-07-25T20:35:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/icymi-the-7-biggest-tech-stories-of-the-week-from-the-samsung-galaxy-z.png": {
       "buffer_due_at_utc": "2026-07-25T09:22:32.000Z",
       "buffer_mode": "customScheduled",
