@@ -981,12 +981,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/nyt-strands-hints-and-answers-for-sunday-july-26-game-875.png": {
-      "buffer_due_at_utc": "2026-07-25T23:32:28.000Z",
+      "buffer_due_at_utc": "2026-07-25T23:34:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6543c322bc282b8872d6a7",
+      "buffer_post_id": "6a6543c812fafbaf49d91cf7",
       "caption_file": "output/2026-07-25/nyt-strands-hints-and-answers-for-sunday-july-26-game-875.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-25T23:34:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6543c812fafbaf49d91cf7",
+          "published_at_utc": "2026-07-25T23:16:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-25T23:32:28.000Z",
           "buffer_mode": "customScheduled",
@@ -996,7 +1002,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/nyt-strands-hints-and-answers-for-sunday-july-26-game-875.png",
       "metadata_file": "output/2026-07-25/nyt-strands-hints-and-answers-for-sunday-july-26-game-875.json",
-      "published_at_utc": "2026-07-25T23:16:19Z",
+      "published_at_utc": "2026-07-25T23:16:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here-s-.png": {
