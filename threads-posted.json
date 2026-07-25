@@ -888,6 +888,25 @@
       "published_at_utc": "2026-07-25T17:28:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.png": {
+      "buffer_due_at_utc": "2026-07-25T22:17:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a65337fb7f6717db5987cf2",
+      "caption_file": "output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-25T22:17:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65337fb7f6717db5987cf2",
+          "published_at_utc": "2026-07-25T22:06:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.png",
+      "metadata_file": "output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.json",
+      "published_at_utc": "2026-07-25T22:06:55Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/roku-is-increasing-prices-across-its-hardware-range-engadget.png": {
       "buffer_due_at_utc": "2026-07-25T10:07:56.000Z",
       "buffer_mode": "customScheduled",
