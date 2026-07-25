@@ -605,12 +605,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/dyson-supersonic-travel-vs-supersonic-nural-i-tested-the-two-premium-h.png": {
-      "buffer_due_at_utc": "2026-07-25T22:16:02.000Z",
+      "buffer_due_at_utc": "2026-07-25T22:18:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a65342d22bc282b88723489",
+      "buffer_post_id": "6a65343222bc282b887234ad",
       "caption_file": "output/2026-07-25/dyson-supersonic-travel-vs-supersonic-nural-i-tested-the-two-premium-h.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-25T22:18:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65343222bc282b887234ad",
+          "published_at_utc": "2026-07-25T22:09:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-25T22:16:02.000Z",
           "buffer_mode": "customScheduled",
@@ -620,7 +626,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/dyson-supersonic-travel-vs-supersonic-nural-i-tested-the-two-premium-h.png",
       "metadata_file": "output/2026-07-25/dyson-supersonic-travel-vs-supersonic-nural-i-tested-the-two-premium-h.json",
-      "published_at_utc": "2026-07-25T22:09:49Z",
+      "published_at_utc": "2026-07-25T22:09:54Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/eu-says-tiktok-hasn-t-done-enough-to-ensure-minors-safety-engadget.png": {
