@@ -779,6 +779,17 @@
       "published_at_utc": "2026-07-25T11:57:50Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/will-we-really-want-100-corgi-cafes.png": {
+      "buffer_due_at_utc": "2026-07-25T15:23:14.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a64d38612fafbaf49d4f36a",
+      "caption_file": "output/2026-07-25/will-we-really-want-100-corgi-cafes.txt",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/will-we-really-want-100-corgi-cafes.png",
+      "metadata_file": "output/2026-07-25/will-we-really-want-100-corgi-cafes.json",
+      "published_at_utc": "2026-07-25T15:17:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/with-help-from-data-art-museums-are-reframing-the-visitor-experience.png": {
       "buffer_due_at_utc": "2026-07-25T11:45:28.000Z",
       "buffer_mode": "customScheduled",
