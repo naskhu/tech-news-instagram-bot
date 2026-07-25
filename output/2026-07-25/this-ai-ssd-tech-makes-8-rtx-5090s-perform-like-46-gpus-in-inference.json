@@ -1,0 +1,22 @@
+{
+  "title": "This AI SSD tech makes 8 RTX 5090s perform like 46 GPUs in inference",
+  "summary": "AI90 combines HBM, system DRAM, and SSD into a unified three-tier memory structure for handling inference workloads. By transparently offloading KV Cache data onto SSDs, the platform reduces pressure on GPU memory while supporting significantly larger workloads and longer context windows.",
+  "source": "TechRadar",
+  "url": "https://techradar.com/pro/this-ai-ssd-tech-makes-8-rtx-5090s-perform-like-46-gpus-in-inference",
+  "published_utc": "2026-07-25T18:15:00+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-25T22:13:22.125120+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://cdn.mos.cms.futurecdn.net/XvSQGhRtTGEfJ9TvnASgdZ-1280-80.png",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-25/this-ai-ssd-tech-makes-8-rtx-5090s-perform-like-46-gpus-in-inference.png",
+  "caption": "output/2026-07-25/this-ai-ssd-tech-makes-8-rtx-5090s-perform-like-46-gpus-in-inference.txt"
+}
