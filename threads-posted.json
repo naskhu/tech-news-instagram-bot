@@ -730,6 +730,17 @@
       "published_at_utc": "2026-07-25T11:33:24Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/paramount-warner-bros-delay-their-merger-until-2027.png": {
+      "buffer_due_at_utc": "2026-07-25T17:41:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a64f22b22bc282b886ffcee",
+      "caption_file": "output/2026-07-25/paramount-warner-bros-delay-their-merger-until-2027.txt",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/paramount-warner-bros-delay-their-merger-until-2027.png",
+      "metadata_file": "output/2026-07-25/paramount-warner-bros-delay-their-merger-until-2027.json",
+      "published_at_utc": "2026-07-25T17:28:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/roku-is-increasing-prices-across-its-hardware-range-engadget.png": {
       "buffer_due_at_utc": "2026-07-25T10:07:56.000Z",
       "buffer_mode": "customScheduled",
