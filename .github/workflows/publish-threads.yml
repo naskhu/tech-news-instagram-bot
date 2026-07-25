@@ -66,10 +66,11 @@ jobs:
         run: |
           if [ -z "$BUFFER_ACCESS_TOKEN" ] || [ -z "$BUFFER_THREADS_CHANNEL_ID" ]; then
             echo "has_secrets=false" >> "$GITHUB_OUTPUT"
-            echo "::notice title=Threads secrets missing::Set BUFFER_ACCESS_TOKEN and BUFFER_THREADS_CHANNEL_ID (Buffer Threads channel). Connect Threads in Buffer first."
+            echo "::notice title=Threads secrets missing::Set BUFFER_ACCESS_TOKEN and BUFFER_THREADS_CHANNEL_ID (comma-separated Buffer Threads channel ids for dual profiles)."
             exit 0
           fi
           echo "has_secrets=true" >> "$GITHUB_OUTPUT"
+          echo "Threads channel id(s): $BUFFER_THREADS_CHANNEL_ID"
 
       - name: Set up Python
         if: steps.plan.outputs.should_publish == 'true' && steps.secrets.outputs.has_secrets == 'true'

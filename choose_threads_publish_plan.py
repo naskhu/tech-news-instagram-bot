@@ -8,7 +8,13 @@ import os
 import sys
 from pathlib import Path
 
-from threads_limits import DAILY_LIMIT, count_posted_last_24h, quota_left_24h
+from threads_limits import (
+    DAILY_LIMIT,
+    count_posted_last_24h,
+    needs_publish,
+    parse_channel_ids,
+    quota_left_24h,
+)
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
@@ -32,10 +38,12 @@ def load_state() -> dict:
 
 def count_pending(state: dict) -> int:
     posted = state.get("posted", {})
-    keys = set(posted.keys()) if isinstance(posted, dict) else set()
+    needed = parse_channel_ids()
     pending = 0
     for image in OUTPUT_DIR.glob("**/*.png"):
-        if image.as_posix() in keys:
+        relative = image.as_posix()
+        existing = posted.get(relative) if isinstance(posted, dict) else None
+        if not needs_publish(existing, needed):
             continue
         if image.with_suffix(".txt").exists():
             pending += 1

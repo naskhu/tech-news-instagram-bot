@@ -21,7 +21,14 @@ from urllib.parse import quote
 
 import requests
 
-from threads_limits import DAILY_LIMIT, count_posted_last_24h, quota_left_24h
+from threads_limits import (
+    DAILY_LIMIT,
+    count_posted_last_24h,
+    missing_channel_ids,
+    needs_publish,
+    parse_channel_ids,
+    quota_left_24h,
+)
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
@@ -96,11 +103,13 @@ def save_state(state: dict[str, Any]) -> None:
 
 def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
     posted = state.get("posted", {})
+    needed = parse_channel_ids()
     candidates: list[tuple[Path, Path, Path | None]] = []
 
     for image in sorted(OUTPUT_DIR.glob("**/*.png")):
         relative = image.as_posix()
-        if relative in posted:
+        existing = posted.get(relative)
+        if not needs_publish(existing, needed):
             continue
 
         caption = image.with_suffix(".txt")
@@ -365,21 +374,60 @@ def record_post(
     *,
     due_at: str | None = None,
 ) -> None:
-    entry: dict[str, Any] = {
+    relative = image.as_posix()
+    existing = state["posted"].get(relative)
+    entry: dict[str, Any]
+    if isinstance(existing, dict):
+        entry = dict(existing)
+    else:
+        entry = {}
+
+    channels = entry.get("channels")
+    if not isinstance(channels, dict):
+        channels = {}
+        # Migrate legacy single-channel records into the channels map.
+        old_id = str(entry.get("channel_id") or "").strip()
+        old_post_id = str(entry.get("buffer_post_id") or "").strip()
+        if old_id and old_post_id:
+            legacy: dict[str, Any] = {
+                "buffer_post_id": old_post_id,
+                "published_at_utc": entry.get("published_at_utc"),
+                "buffer_mode": entry.get("buffer_mode"),
+            }
+            if entry.get("buffer_due_at_utc"):
+                legacy["buffer_due_at_utc"] = entry.get("buffer_due_at_utc")
+            channels[old_id] = legacy
+
+    channel_entry: dict[str, Any] = {
         "buffer_post_id": post_id,
-        "channel_id": channel_id,
-        "publisher": "buffer_threads",
-        "caption_file": caption.as_posix(),
-        "metadata_file": metadata.as_posix() if metadata else None,
-        "image_url": public_image_url(image),
         "published_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
     }
     if due_at:
-        entry["buffer_due_at_utc"] = due_at
-        entry["buffer_mode"] = "customScheduled"
+        channel_entry["buffer_due_at_utc"] = due_at
+        channel_entry["buffer_mode"] = "customScheduled"
     else:
-        entry["buffer_mode"] = "shareNow"
-    state["posted"][image.as_posix()] = entry
+        channel_entry["buffer_mode"] = "shareNow"
+    channels[channel_id] = channel_entry
+
+    entry.update(
+        {
+            "channels": channels,
+            "channel_id": channel_id,
+            "buffer_post_id": post_id,
+            "publisher": "buffer_threads",
+            "caption_file": caption.as_posix(),
+            "metadata_file": metadata.as_posix() if metadata else None,
+            "image_url": public_image_url(image),
+            "published_at_utc": channel_entry["published_at_utc"],
+            "buffer_mode": channel_entry["buffer_mode"],
+        }
+    )
+    if due_at:
+        entry["buffer_due_at_utc"] = due_at
+    elif "buffer_due_at_utc" in entry:
+        entry.pop("buffer_due_at_utc", None)
+
+    state["posted"][relative] = entry
     save_state(state)
 
 
@@ -425,7 +473,7 @@ def commit_state_to_git() -> None:
     print("WARNING: could not push Threads publishing state after this post", file=sys.stderr)
 
 
-def publish_one(
+def publish_one_channel(
     access_token: str,
     channel_id: str,
     state: dict[str, Any],
@@ -435,7 +483,6 @@ def publish_one(
     *,
     due_at: str | None = None,
 ) -> None:
-    assert_daily_quota(state)
     ensure_post_files(image, caption)
     if metadata is not None and not metadata.exists():
         metadata = None
@@ -447,7 +494,6 @@ def publish_one(
         metadata,
         due_at=due_at,
     )
-    # Rebase during commit may refresh the working tree; reload state afterward.
     record_post(
         state,
         channel_id,
@@ -457,23 +503,59 @@ def publish_one(
         post_id,
         due_at=scheduled_due_at,
     )
-    print(f"Published {image.as_posix()} as Buffer Threads post {post_id}")
+    print(
+        f"Published {image.as_posix()} to Threads channel {channel_id} "
+        f"as Buffer post {post_id}"
+    )
     commit_state_to_git()
-    # Keep in-memory state aligned after possible rebase of threads-posted.json.
     refreshed = load_state()
     state.clear()
     state.update(refreshed)
 
 
-def publish_batch(access_token: str, channel_id: str) -> int:
+def publish_one(
+    access_token: str,
+    channel_ids: list[str],
+    state: dict[str, Any],
+    image: Path,
+    caption: Path,
+    metadata: Path | None,
+    *,
+    due_at: str | None = None,
+) -> None:
+    assert_daily_quota(state)
+    relative = image.as_posix()
+    existing = state.get("posted", {}).get(relative)
+    pending_channels = missing_channel_ids(existing, channel_ids)
+    if not pending_channels:
+        print(f"Already fully posted on all Threads channels: {relative}")
+        return
+
+    for index, channel_id in enumerate(pending_channels):
+        publish_one_channel(
+            access_token,
+            channel_id,
+            state,
+            image,
+            caption,
+            metadata,
+            due_at=due_at,
+        )
+        if index + 1 < len(pending_channels) and API_GAP_SECONDS:
+            time.sleep(API_GAP_SECONDS)
+
+
+def publish_batch(access_token: str, channel_ids: list[str]) -> int:
     """Enqueue up to MAX_POSTS into Buffer with random dueAt times in the next window."""
     published = 0
     skipped_missing = 0
     target = MAX_POSTS
     due_ats = allocate_due_ats(target)
+    channels_label = ", ".join(channel_ids)
     print(
-        f"Scheduling up to {target} Threads post(s) randomly within "
-        f"{SCHEDULE_WINDOW_SECONDS}s via Buffer customScheduled."
+        f"Scheduling up to {target} Threads post(s) across channel(s) "
+        f"[{channels_label}] randomly within {SCHEDULE_WINDOW_SECONDS}s "
+        "via Buffer customScheduled."
     )
 
     while published < target:
@@ -489,7 +571,7 @@ def publish_batch(access_token: str, channel_id: str) -> int:
         try:
             publish_one(
                 access_token,
-                channel_id,
+                channel_ids,
                 state,
                 image,
                 caption,
@@ -520,19 +602,21 @@ def publish_batch(access_token: str, channel_id: str) -> int:
     return published
 
 
-def drain_queue(access_token: str, channel_id: str) -> int:
+def drain_queue(access_token: str, channel_ids: list[str]) -> int:
     # Prefer Buffer-side random scheduling; keep drain as a thin wrapper.
-    return publish_batch(access_token, channel_id)
+    return publish_batch(access_token, channel_ids)
 
 
 def main() -> int:
     access_token = required_env("BUFFER_ACCESS_TOKEN")
-    channel_id = required_env("BUFFER_THREADS_CHANNEL_ID")
+    channel_ids = parse_channel_ids(required_env("BUFFER_THREADS_CHANNEL_ID"))
+    if not channel_ids:
+        raise RuntimeError("BUFFER_THREADS_CHANNEL_ID has no channel ids")
 
     if PUBLISH_MODE == "drain" and DRAIN_WITHIN_SECONDS > 0:
-        published = drain_queue(access_token, channel_id)
+        published = drain_queue(access_token, channel_ids)
     else:
-        published = publish_batch(access_token, channel_id)
+        published = publish_batch(access_token, channel_ids)
 
     print(f"Finished Threads publish run. Posted {published} item(s).")
     return 0
