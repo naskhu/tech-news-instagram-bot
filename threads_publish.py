@@ -58,6 +58,10 @@ class DailyLimitReached(RuntimeError):
     """Threads/Buffer daily scheduling limit was hit; retry later."""
 
 
+class MissingPostFiles(RuntimeError):
+    """Queued image/caption disappeared (usually overnight cleanup or generate rebase)."""
+
+
 def required_env(name: str) -> str:
     value = os.getenv(name, "").strip()
     if not value:
@@ -94,13 +98,25 @@ def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | Non
 
         caption = image.with_suffix(".txt")
         metadata = image.with_suffix(".json")
-        if not caption.exists():
-            print(f"Skipping {relative}: matching caption file is missing", file=sys.stderr)
+        if not image.exists() or not caption.exists():
+            print(
+                f"Skipping {relative}: image or caption missing on disk",
+                file=sys.stderr,
+            )
             continue
 
         candidates.append((image, caption, metadata if metadata.exists() else None))
 
     return candidates
+
+
+def ensure_post_files(image: Path, caption: Path) -> None:
+    missing = [path for path in (image, caption) if not path.exists()]
+    if missing:
+        raise MissingPostFiles(
+            "Missing after queue refresh (generate cleanup/rebase?): "
+            + ", ".join(path.as_posix() for path in missing)
+        )
 
 
 def discover_posts(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
@@ -166,7 +182,10 @@ def truncate_text(text: str, limit: int) -> str:
 
 def build_threads_caption(caption_file: Path, metadata: Path | None) -> str:
     """Fit Instagram caption content into Threads' 500-char / one-topic rules."""
-    raw = caption_file.read_text(encoding="utf-8").strip()
+    try:
+        raw = caption_file.read_text(encoding="utf-8").strip()
+    except FileNotFoundError as exc:
+        raise MissingPostFiles(f"Caption disappeared: {caption_file.as_posix()}") from exc
     meta: dict[str, Any] = {}
     if metadata and metadata.exists():
         try:
@@ -252,6 +271,9 @@ def publish_post(
     caption_file: Path,
     metadata: Path | None,
 ) -> str:
+    ensure_post_files(image, caption_file)
+    if metadata is not None and not metadata.exists():
+        metadata = None
     caption = build_threads_caption(caption_file, metadata)
     if not caption:
         raise RuntimeError(f"Caption is empty after Threads formatting: {caption_file}")
@@ -364,12 +386,12 @@ def commit_state_to_git() -> None:
 
 
 def inter_post_delay_seconds(remaining_after: int, seconds_left: float) -> int:
-    """Random gaps between Buffer sends so ticks don't look like a burst."""
-    if remaining_after <= 0 or seconds_left <= 60:
+    """Random gaps between Buffer sends — faster than before, still not a burst."""
+    if remaining_after <= 0 or seconds_left <= 30:
         return 0
-    average = max(120, int((seconds_left * 0.85) / remaining_after))
-    low = max(90, int(average * 0.45))
-    high = max(low + 1, min(int(average * 1.55), 1200))
+    average = max(60, int((seconds_left * 0.85) / remaining_after))
+    low = max(45, int(average * 0.55))
+    high = max(low + 1, min(int(average * 1.35), 180))
     return random.randint(low, high)
 
 
@@ -382,16 +404,24 @@ def publish_one(
     metadata: Path | None,
 ) -> None:
     assert_daily_quota(state)
+    ensure_post_files(image, caption)
+    if metadata is not None and not metadata.exists():
+        metadata = None
     post_id = publish_post(access_token, channel_id, image, caption, metadata)
+    # Rebase during commit may refresh the working tree; reload state afterward.
     record_post(state, channel_id, image, caption, metadata, post_id)
     print(f"Published {image.as_posix()} as Buffer Threads post {post_id}")
     commit_state_to_git()
+    # Keep in-memory state aligned after possible rebase of threads-posted.json.
+    refreshed = load_state()
+    state.clear()
+    state.update(refreshed)
 
 
 def drain_queue(access_token: str, channel_id: str) -> int:
     deadline = time.time() + DRAIN_WITHIN_SECONDS
     target = MAX_POSTS
-    initial_delay = random.randint(0, min(240, max(0, DRAIN_WITHIN_SECONDS // 12)))
+    initial_delay = random.randint(0, min(60, max(0, DRAIN_WITHIN_SECONDS // 20)))
     print(
         f"Threads drain: up to {target} post(s) within {DRAIN_WITHIN_SECONDS}s "
         f"(initial delay {initial_delay}s, rolling cap {DAILY_LIMIT}/24h)"
@@ -400,6 +430,7 @@ def drain_queue(access_token: str, channel_id: str) -> int:
         time.sleep(initial_delay)
 
     published = 0
+    skipped_missing = 0
     while published < target and time.time() < deadline:
         state = load_state()
         try:
@@ -420,6 +451,12 @@ def drain_queue(access_token: str, channel_id: str) -> int:
         image, caption, metadata = pending[0]
         try:
             publish_one(access_token, channel_id, state, image, caption, metadata)
+        except MissingPostFiles as exc:
+            skipped_missing += 1
+            print(f"Skipping vanished queue item: {exc}", file=sys.stderr)
+            # Avoid tight-looping on the same missing path if glob somehow still sees it.
+            time.sleep(1)
+            continue
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
@@ -427,6 +464,10 @@ def drain_queue(access_token: str, channel_id: str) -> int:
                 f"Leaving {leftover} queued."
             )
             return published
+        except FileNotFoundError as exc:
+            skipped_missing += 1
+            print(f"Skipping vanished queue item: {exc}", file=sys.stderr)
+            continue
 
         published += 1
         remaining_this_run = target - published
@@ -448,6 +489,8 @@ def drain_queue(access_token: str, channel_id: str) -> int:
             time.sleep(delay)
 
     leftover = len(list_unpublished(load_state()))
+    if skipped_missing:
+        print(f"Skipped {skipped_missing} vanished queue item(s) this run.")
     if leftover:
         print(
             f"Threads tick complete with {leftover} post(s) still queued; "
@@ -457,16 +500,30 @@ def drain_queue(access_token: str, channel_id: str) -> int:
 
 
 def publish_batch(access_token: str, channel_id: str) -> int:
-    state = load_state()
-    posts = discover_posts(state)
-    if not posts:
-        print("No unpublished generated posts found for Threads.")
-        return 0
-
+    """Publish up to MAX_POSTS, re-scanning the queue each time (files can vanish mid-run)."""
     published = 0
-    for image, caption, metadata in posts:
+    skipped_missing = 0
+    target = MAX_POSTS
+
+    while published < target:
+        state = load_state()
+        pending = list_unpublished(state)
+        if not pending:
+            if published == 0:
+                print("No unpublished generated posts found for Threads.")
+            break
+
+        image, caption, metadata = pending[0]
         try:
             publish_one(access_token, channel_id, state, image, caption, metadata)
+        except MissingPostFiles as exc:
+            skipped_missing += 1
+            print(f"Skipping vanished queue item: {exc}", file=sys.stderr)
+            continue
+        except FileNotFoundError as exc:
+            skipped_missing += 1
+            print(f"Skipping vanished queue item: {exc}", file=sys.stderr)
+            continue
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
@@ -475,6 +532,9 @@ def publish_batch(access_token: str, channel_id: str) -> int:
             )
             return published
         published += 1
+
+    if skipped_missing:
+        print(f"Skipped {skipped_missing} vanished queue item(s) this run.")
     return published
 
 
