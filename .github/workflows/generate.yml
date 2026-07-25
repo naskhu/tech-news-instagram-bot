@@ -12,6 +12,7 @@ on:
       - requirements.txt
       - .github/workflows/generate.yml
   schedule:
+    # Keep the older generator hourly so it doesn't collide with V2's 15-minute runs.
     - cron: "15 * * * *"
 
 permissions:

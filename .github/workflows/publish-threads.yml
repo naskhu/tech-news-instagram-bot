@@ -11,7 +11,7 @@ on:
       max_posts:
         description: Maximum unpublished posts to publish to Threads (use all to drain under 240/24h)
         required: false
-        default: "8"
+        default: "4"
   schedule:
     # Every 15 minutes: check output/ for new queued images and post via Buffer.
     # Soft cap 240 / rolling 24h (under Buffer's Threads 250 hard limit).
@@ -51,10 +51,10 @@ jobs:
         id: plan
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-          MANUAL_MAX_POSTS: ${{ inputs.max_posts || '8' }}
+          MANUAL_MAX_POSTS: ${{ inputs.max_posts || '4' }}
           THREADS_DAILY_LIMIT: "240"
-          THREADS_MAX_PER_SCHEDULE_TICK: "8"
-          THREADS_MAX_PER_GENERATE_TICK: "8"
+          THREADS_MAX_PER_SCHEDULE_TICK: "4"
+          THREADS_MAX_PER_GENERATE_TICK: "4"
         run: python3 choose_threads_publish_plan.py
 
       - name: Require Buffer Threads secrets
@@ -95,6 +95,7 @@ jobs:
           GITHUB_REF_NAME: main
           THREADS_DAILY_LIMIT: "240"
           THREADS_TOPIC: TechNews
+          THREADS_SCHEDULE_WINDOW_SECONDS: "900"
         run: |
           echo "Pending unpublished posts: ${{ steps.plan.outputs.pending }}"
           echo "Mode: ${{ steps.plan.outputs.mode }}"

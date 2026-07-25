@@ -14,6 +14,7 @@ import re
 import subprocess
 import sys
 import time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
@@ -34,6 +35,11 @@ BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 THREADS_TOPIC = os.getenv("THREADS_TOPIC", "TechNews").strip() or "TechNews"
 # Threads hard limit is 500 characters per message.
 THREADS_MAX_CHARS = max(80, min(500, int(os.getenv("THREADS_MAX_CHARS", "500"))))
+# Spread Buffer customScheduled times randomly across this window (default 15 minutes).
+SCHEDULE_WINDOW_SECONDS = max(120, min(900, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "900"))))
+SCHEDULE_MIN_OFFSET_SECONDS = max(20, int(os.getenv("THREADS_SCHEDULE_MIN_OFFSET_SECONDS", "45")))
+# Small pause between Buffer API create calls (scheduling is handled by dueAt).
+API_GAP_SECONDS = max(1, int(os.getenv("THREADS_API_GAP_SECONDS", "3")))
 
 CREATE_POST_MUTATION = """
 mutation CreatePost($input: CreatePostInput!) {
@@ -44,6 +50,7 @@ mutation CreatePost($input: CreatePostInput!) {
         id
         status
         text
+        dueAt
       }
     }
     ... on MutationError {
@@ -264,13 +271,33 @@ def buffer_graphql(
     return payload
 
 
+def allocate_due_ats(count: int) -> list[str]:
+    """Pick unique random UTC dueAt times inside the next schedule window."""
+    if count <= 0:
+        return []
+    now = datetime.now(timezone.utc)
+    lo = SCHEDULE_MIN_OFFSET_SECONDS
+    hi = max(lo + 1, SCHEDULE_WINDOW_SECONDS - 30)
+    span = hi - lo + 1
+    if span >= count:
+        offsets = sorted(random.sample(range(lo, hi + 1), count))
+    else:
+        offsets = sorted(random.randint(lo, hi) for _ in range(count))
+    return [
+        (now + timedelta(seconds=offset)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+        for offset in offsets
+    ]
+
+
 def publish_post(
     access_token: str,
     channel_id: str,
     image: Path,
     caption_file: Path,
     metadata: Path | None,
-) -> str:
+    *,
+    due_at: str | None = None,
+) -> tuple[str, str | None]:
     ensure_post_files(image, caption_file)
     if metadata is not None and not metadata.exists():
         metadata = None
@@ -281,25 +308,30 @@ def publish_post(
     image_url = public_image_url(image)
     wait_for_public_image(image_url)
 
-    print(f"Creating Buffer Threads post for {image.as_posix()}")
+    post_input: dict[str, Any] = {
+        "text": caption,
+        "channelId": channel_id,
+        "schedulingType": "automatic",
+        "assets": [{"image": {"url": image_url}}],
+        "metadata": {
+            "threads": {
+                "type": "post",
+                "topic": THREADS_TOPIC.lstrip("#"),
+            }
+        },
+    }
+    if due_at:
+        post_input["mode"] = "customScheduled"
+        post_input["dueAt"] = due_at
+        print(f"Creating Buffer Threads post for {image.as_posix()} dueAt={due_at}")
+    else:
+        post_input["mode"] = "shareNow"
+        print(f"Creating Buffer Threads post for {image.as_posix()} (shareNow)")
+
     payload = buffer_graphql(
         access_token,
         CREATE_POST_MUTATION,
-        {
-            "input": {
-                "text": caption,
-                "channelId": channel_id,
-                "schedulingType": "automatic",
-                "mode": "shareNow",
-                "assets": [{"image": {"url": image_url}}],
-                "metadata": {
-                    "threads": {
-                        "type": "post",
-                        "topic": THREADS_TOPIC.lstrip("#"),
-                    }
-                },
-            }
-        },
+        {"input": post_input},
     )
 
     result = (payload.get("data") or {}).get("createPost") or {}
@@ -320,7 +352,7 @@ def publish_post(
             f"Buffer created Threads post {post_id} but status={status}. "
             "Check Buffer → Threads channel (connect Threads / plan limits)."
         )
-    return post_id
+    return post_id, due_at
 
 
 def record_post(
@@ -330,8 +362,10 @@ def record_post(
     caption: Path,
     metadata: Path | None,
     post_id: str,
+    *,
+    due_at: str | None = None,
 ) -> None:
-    state["posted"][image.as_posix()] = {
+    entry: dict[str, Any] = {
         "buffer_post_id": post_id,
         "channel_id": channel_id,
         "publisher": "buffer_threads",
@@ -340,6 +374,12 @@ def record_post(
         "image_url": public_image_url(image),
         "published_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
     }
+    if due_at:
+        entry["buffer_due_at_utc"] = due_at
+        entry["buffer_mode"] = "customScheduled"
+    else:
+        entry["buffer_mode"] = "shareNow"
+    state["posted"][image.as_posix()] = entry
     save_state(state)
 
 
@@ -385,16 +425,6 @@ def commit_state_to_git() -> None:
     print("WARNING: could not push Threads publishing state after this post", file=sys.stderr)
 
 
-def inter_post_delay_seconds(remaining_after: int, seconds_left: float) -> int:
-    """Random gaps between Buffer sends — faster than before, still not a burst."""
-    if remaining_after <= 0 or seconds_left <= 30:
-        return 0
-    average = max(60, int((seconds_left * 0.85) / remaining_after))
-    low = max(45, int(average * 0.55))
-    high = max(low + 1, min(int(average * 1.35), 180))
-    return random.randint(low, high)
-
-
 def publish_one(
     access_token: str,
     channel_id: str,
@@ -402,14 +432,31 @@ def publish_one(
     image: Path,
     caption: Path,
     metadata: Path | None,
+    *,
+    due_at: str | None = None,
 ) -> None:
     assert_daily_quota(state)
     ensure_post_files(image, caption)
     if metadata is not None and not metadata.exists():
         metadata = None
-    post_id = publish_post(access_token, channel_id, image, caption, metadata)
+    post_id, scheduled_due_at = publish_post(
+        access_token,
+        channel_id,
+        image,
+        caption,
+        metadata,
+        due_at=due_at,
+    )
     # Rebase during commit may refresh the working tree; reload state afterward.
-    record_post(state, channel_id, image, caption, metadata, post_id)
+    record_post(
+        state,
+        channel_id,
+        image,
+        caption,
+        metadata,
+        post_id,
+        due_at=scheduled_due_at,
+    )
     print(f"Published {image.as_posix()} as Buffer Threads post {post_id}")
     commit_state_to_git()
     # Keep in-memory state aligned after possible rebase of threads-posted.json.
@@ -418,92 +465,16 @@ def publish_one(
     state.update(refreshed)
 
 
-def drain_queue(access_token: str, channel_id: str) -> int:
-    deadline = time.time() + DRAIN_WITHIN_SECONDS
-    target = MAX_POSTS
-    initial_delay = random.randint(0, min(60, max(0, DRAIN_WITHIN_SECONDS // 20)))
-    print(
-        f"Threads drain: up to {target} post(s) within {DRAIN_WITHIN_SECONDS}s "
-        f"(initial delay {initial_delay}s, rolling cap {DAILY_LIMIT}/24h)"
-    )
-    if initial_delay:
-        time.sleep(initial_delay)
-
-    published = 0
-    skipped_missing = 0
-    while published < target and time.time() < deadline:
-        state = load_state()
-        try:
-            assert_daily_quota(state)
-        except DailyLimitReached as exc:
-            leftover = len(list_unpublished(state))
-            print(
-                f"Threads daily cap reached after {published} post(s) this run: {exc}. "
-                f"Leaving {leftover} queued."
-            )
-            return published
-
-        pending = list_unpublished(state)
-        if not pending:
-            print("Threads queue empty; drain complete.")
-            break
-
-        image, caption, metadata = pending[0]
-        try:
-            publish_one(access_token, channel_id, state, image, caption, metadata)
-        except MissingPostFiles as exc:
-            skipped_missing += 1
-            print(f"Skipping vanished queue item: {exc}", file=sys.stderr)
-            # Avoid tight-looping on the same missing path if glob somehow still sees it.
-            time.sleep(1)
-            continue
-        except DailyLimitReached as exc:
-            leftover = len(list_unpublished(load_state()))
-            print(
-                f"Threads daily limit reached after {published} post(s): {exc}. "
-                f"Leaving {leftover} queued."
-            )
-            return published
-        except FileNotFoundError as exc:
-            skipped_missing += 1
-            print(f"Skipping vanished queue item: {exc}", file=sys.stderr)
-            continue
-
-        published += 1
-        remaining_this_run = target - published
-        remaining_queue = len(list_unpublished(load_state()))
-        if remaining_this_run <= 0 or time.time() >= deadline:
-            print(
-                f"Finished Threads tick ({published} posted). "
-                f"Queue remaining: {max(0, remaining_queue)}."
-            )
-            break
-
-        seconds_left = deadline - time.time()
-        delay = inter_post_delay_seconds(remaining_this_run, seconds_left)
-        print(
-            f"Remaining this tick: {remaining_this_run}. "
-            f"Sleeping {delay}s before next Threads publish."
-        )
-        if delay > 0:
-            time.sleep(delay)
-
-    leftover = len(list_unpublished(load_state()))
-    if skipped_missing:
-        print(f"Skipped {skipped_missing} vanished queue item(s) this run.")
-    if leftover:
-        print(
-            f"Threads tick complete with {leftover} post(s) still queued; "
-            "later automatic runs continue under the 240/24h soft cap."
-        )
-    return published
-
-
 def publish_batch(access_token: str, channel_id: str) -> int:
-    """Publish up to MAX_POSTS, re-scanning the queue each time (files can vanish mid-run)."""
+    """Enqueue up to MAX_POSTS into Buffer with random dueAt times in the next window."""
     published = 0
     skipped_missing = 0
     target = MAX_POSTS
+    due_ats = allocate_due_ats(target)
+    print(
+        f"Scheduling up to {target} Threads post(s) randomly within "
+        f"{SCHEDULE_WINDOW_SECONDS}s via Buffer customScheduled."
+    )
 
     while published < target:
         state = load_state()
@@ -514,8 +485,17 @@ def publish_batch(access_token: str, channel_id: str) -> int:
             break
 
         image, caption, metadata = pending[0]
+        due_at = due_ats[published] if published < len(due_ats) else allocate_due_ats(1)[0]
         try:
-            publish_one(access_token, channel_id, state, image, caption, metadata)
+            publish_one(
+                access_token,
+                channel_id,
+                state,
+                image,
+                caption,
+                metadata,
+                due_at=due_at,
+            )
         except MissingPostFiles as exc:
             skipped_missing += 1
             print(f"Skipping vanished queue item: {exc}", file=sys.stderr)
@@ -532,10 +512,17 @@ def publish_batch(access_token: str, channel_id: str) -> int:
             )
             return published
         published += 1
+        if published < target and API_GAP_SECONDS:
+            time.sleep(API_GAP_SECONDS)
 
     if skipped_missing:
         print(f"Skipped {skipped_missing} vanished queue item(s) this run.")
     return published
+
+
+def drain_queue(access_token: str, channel_id: str) -> int:
+    # Prefer Buffer-side random scheduling; keep drain as a thin wrapper.
+    return publish_batch(access_token, channel_id)
 
 
 def main() -> int:
