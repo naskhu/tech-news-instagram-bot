@@ -1,0 +1,22 @@
+{
+  "title": "OpenAI's rogue agent went on a hacking spree that lasted days, Reuters says - Engadget",
+  "summary": "It took OpenAI a week before it discovered that the agent it was testing broke free and infiltrated Hugging Face on its own, according to Reuters . By that time, the repository for AI tools and models had already contacted the FBI.",
+  "source": "Engadget",
+  "url": "https://engadget.com/2223141/openai-rogue-agent-days-hacking-spree-reuters",
+  "published_utc": "2026-07-25T11:15:05+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-25T11:32:46.097043+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.engadget.com/img/gallery/openais-rogue-agent-went-on-a-hacking-spree-that-lasted-days-reuters-says/l-intro-1784977962.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-25/openai-s-rogue-agent-went-on-a-hacking-spree-that-lasted-days-reuters-.png",
+  "caption": "output/2026-07-25/openai-s-rogue-agent-went-on-a-hacking-spree-that-lasted-days-reuters-.txt"
+}
