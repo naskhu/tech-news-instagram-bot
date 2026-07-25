@@ -42,9 +42,11 @@ BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 THREADS_TOPIC = os.getenv("THREADS_TOPIC", "TechNews").strip() or "TechNews"
 # Threads hard limit is 500 characters per message.
 THREADS_MAX_CHARS = max(80, min(500, int(os.getenv("THREADS_MAX_CHARS", "500"))))
-# Spread Buffer customScheduled times randomly across this window (default 15 minutes).
-SCHEDULE_WINDOW_SECONDS = max(120, min(900, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "900"))))
+# Spread Buffer customScheduled times randomly across this window (default 20 minutes).
+SCHEDULE_WINDOW_SECONDS = max(120, min(1800, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "1200"))))
 SCHEDULE_MIN_OFFSET_SECONDS = max(20, int(os.getenv("THREADS_SCHEDULE_MIN_OFFSET_SECONDS", "45")))
+# Delay secondary profiles (e.g. naskhu) after primary (news.world.tech) dueAt.
+SECONDARY_DELAY_SECONDS = max(0, min(600, int(os.getenv("THREADS_SECONDARY_DELAY_SECONDS", "120"))))
 # Small pause between Buffer API create calls (scheduling is handled by dueAt).
 API_GAP_SECONDS = max(1, int(os.getenv("THREADS_API_GAP_SECONDS", "3")))
 
@@ -286,7 +288,9 @@ def allocate_due_ats(count: int) -> list[str]:
         return []
     now = datetime.now(timezone.utc)
     lo = SCHEDULE_MIN_OFFSET_SECONDS
-    hi = max(lo + 1, SCHEDULE_WINDOW_SECONDS - 30)
+    # Leave room for secondary-channel delay after the primary dueAt.
+    usable_window = max(lo + 1, SCHEDULE_WINDOW_SECONDS - SECONDARY_DELAY_SECONDS - 30)
+    hi = max(lo + 1, usable_window)
     span = hi - lo + 1
     if span >= count:
         offsets = sorted(random.sample(range(lo, hi + 1), count))
@@ -296,6 +300,20 @@ def allocate_due_ats(count: int) -> list[str]:
         (now + timedelta(seconds=offset)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
         for offset in offsets
     ]
+
+
+def shift_due_at(due_at: str | None, delay_seconds: int) -> str | None:
+    """Return due_at shifted forward by delay_seconds (UTC ISO)."""
+    if not due_at or delay_seconds <= 0:
+        return due_at
+    text = due_at.strip().replace("Z", "+00:00")
+    try:
+        dt = datetime.fromisoformat(text)
+    except ValueError:
+        return due_at
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return (dt + timedelta(seconds=delay_seconds)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
 
 
 def publish_post(
@@ -531,7 +549,21 @@ def publish_one(
         print(f"Already fully posted on all Threads channels: {relative}")
         return
 
+    # channel_ids are primary-first; secondary profiles get a later dueAt.
+    primary_id = channel_ids[0] if channel_ids else ""
     for index, channel_id in enumerate(pending_channels):
+        channel_due_at = due_at
+        if (
+            due_at
+            and primary_id
+            and channel_id != primary_id
+            and SECONDARY_DELAY_SECONDS > 0
+        ):
+            channel_due_at = shift_due_at(due_at, SECONDARY_DELAY_SECONDS)
+            print(
+                f"Secondary channel {channel_id}: dueAt delayed "
+                f"+{SECONDARY_DELAY_SECONDS}s after primary {primary_id}"
+            )
         publish_one_channel(
             access_token,
             channel_id,
@@ -539,7 +571,7 @@ def publish_one(
             image,
             caption,
             metadata,
-            due_at=due_at,
+            due_at=channel_due_at,
         )
         if index + 1 < len(pending_channels) and API_GAP_SECONDS:
             time.sleep(API_GAP_SECONDS)
@@ -553,9 +585,9 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
     due_ats = allocate_due_ats(target)
     channels_label = ", ".join(channel_ids)
     print(
-        f"Scheduling up to {target} Threads post(s) across channel(s) "
+        f"Scheduling up to {target} Threads post(s); primary-first channel(s) "
         f"[{channels_label}] randomly within {SCHEDULE_WINDOW_SECONDS}s "
-        "via Buffer customScheduled."
+        f"(secondary +{SECONDARY_DELAY_SECONDS}s) via Buffer customScheduled."
     )
 
     while published < target:

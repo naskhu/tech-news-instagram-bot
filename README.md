@@ -23,7 +23,7 @@ A fully automated, no-API-key pipeline that collects technology news from RSS fe
 3. Select **Run workflow**.
 4. After the run, open `output/` to find the PNG, caption and metadata committed on `main`.
 
-The generation workflow also runs automatically about every **15 minutes** (Generate V2) and pushes new files to git.
+The generation workflow also runs automatically about every **20 minutes** (Generate V2) and pushes new files to git.
 
 ## Publishing options
 
@@ -35,7 +35,7 @@ Secrets required:
 
 - `BUFFER_ACCESS_TOKEN`
 - `BUFFER_CHANNEL_ID` (Instagram channel in Buffer)
-- `BUFFER_THREADS_CHANNEL_ID` (Threads channel id(s) in Buffer — comma-separated for multiple profiles, e.g. `naskhu,news.world.tech`)
+- `BUFFER_THREADS_CHANNEL_ID` (Threads channel id(s) in Buffer — comma-separated; **news.world.tech first**, then `naskhu`)
 
 Requires an active Buffer plan that can post to Instagram and/or Threads. Connect Threads in Buffer first (Threads must be linked to Instagram and public).
 
@@ -77,9 +77,10 @@ Keep the local Mac `instagrapi` worker **off** while Instagram shows “Try Agai
 **Publish to Threads** is a separate workflow (`publish-threads.yml`) that posts the same `output/` images through Buffer’s Threads channel. It does **not** use the Instagram cool-down.
 
 - **Rolling 24h soft cap:** at most **240** posts (under Buffer’s Threads hard limit of 250)
-- **Generate:** every **15 minutes** (V2) creates up to **2** new posts when fresh news exists
-- **Threads check:** every **15 minutes** (and right after Generate) enqueues up to **4** posts
-- **Random Buffer schedule:** each post gets a random `dueAt` inside the next **15 minutes** (`customScheduled`), so they appear in Buffer’s queue and go out at staggered times
+- **Generate:** every **20 minutes** (V2) creates up to **2** new posts when fresh news exists
+- **Threads check:** every **20 minutes** (and right after Generate) enqueues up to **4** posts
+- **Primary release:** same story posts to **news.world.tech** first, then **naskhu** (~2 minutes later)
+- **Random Buffer schedule:** each post gets a random `dueAt` inside the next **20 minutes** (`customScheduled`), so they appear in Buffer’s queue and go out at staggered times
 - **Captions:** trimmed to Threads’ **500** character limit with a single topic (`#TechNews`)
 - **State:** `threads-posted.json` (independent from `instagram-posted.json`)
 
