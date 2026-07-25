@@ -889,6 +889,17 @@
       "published_at_utc": "2026-07-25T16:16:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/watch-daft-punk-s-thomas-bangalter-give-a-rare-helmet-off-interview.png": {
+      "buffer_due_at_utc": "2026-07-25T18:38:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6501a6c1076a9906706762",
+      "caption_file": "output/2026-07-25/watch-daft-punk-s-thomas-bangalter-give-a-rare-helmet-off-interview.txt",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/watch-daft-punk-s-thomas-bangalter-give-a-rare-helmet-off-interview.png",
+      "metadata_file": "output/2026-07-25/watch-daft-punk-s-thomas-bangalter-give-a-rare-helmet-off-interview.json",
+      "published_at_utc": "2026-07-25T18:34:15Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/waymo-to-end-uber-exclusivity-in-austin-and-atlanta-launching-its-own-.png": {
       "buffer_due_at_utc": "2026-07-25T12:11:37.000Z",
       "buffer_mode": "customScheduled",
