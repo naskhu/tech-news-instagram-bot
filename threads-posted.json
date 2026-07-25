@@ -549,6 +549,25 @@
       "published_at_utc": "2026-07-25T08:54:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/a-usb-plug-for-humans-electricity-outlet-test-delivers-microwatts-of-p.png": {
+      "buffer_due_at_utc": "2026-07-25T23:27:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6543b9bbdc943104f48ed4",
+      "caption_file": "output/2026-07-25/a-usb-plug-for-humans-electricity-outlet-test-delivers-microwatts-of-p.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-25T23:27:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6543b9bbdc943104f48ed4",
+          "published_at_utc": "2026-07-25T23:16:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/a-usb-plug-for-humans-electricity-outlet-test-delivers-microwatts-of-p.png",
+      "metadata_file": "output/2026-07-25/a-usb-plug-for-humans-electricity-outlet-test-delivers-microwatts-of-p.json",
+      "published_at_utc": "2026-07-25T23:16:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/anthropic-s-newest-ai-model-opus-5-is-now-available.png": {
       "buffer_due_at_utc": "2026-07-25T15:22:13.000Z",
       "buffer_mode": "customScheduled",
