@@ -778,12 +778,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/leeds-vs-wrexham-live-streams-how-to-watch-pre-season-friendly-from-an.png": {
-      "buffer_due_at_utc": "2026-07-25T21:16:24.000Z",
+      "buffer_due_at_utc": "2026-07-25T21:18:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6525f9bbdc943104f371cd",
+      "buffer_post_id": "6a6525fd2df0a0f1fdca0228",
       "caption_file": "output/2026-07-25/leeds-vs-wrexham-live-streams-how-to-watch-pre-season-friendly-from-an.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-25T21:18:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6525fd2df0a0f1fdca0228",
+          "published_at_utc": "2026-07-25T21:09:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-25T21:16:24.000Z",
           "buffer_mode": "customScheduled",
@@ -793,7 +799,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/leeds-vs-wrexham-live-streams-how-to-watch-pre-season-friendly-from-an.png",
       "metadata_file": "output/2026-07-25/leeds-vs-wrexham-live-streams-how-to-watch-pre-season-friendly-from-an.json",
-      "published_at_utc": "2026-07-25T21:09:13Z",
+      "published_at_utc": "2026-07-25T21:09:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/living-with-the-lenovo-thinkpad-x1-carbon-gen-14-aura-edition-a-fantas.png": {
