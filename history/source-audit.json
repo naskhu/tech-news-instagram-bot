@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-25T04:27:00.017990+00:00",
+  "run_utc": "2026-07-25T07:28:01.912405+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-22T04:27:00.018732+00:00",
-  "eligible_story_count": 99,
+  "cutoff_utc": "2026-07-22T07:28:01.912727+00:00",
+  "eligible_story_count": 95,
   "sources": [
     {
       "source": "TechCrunch",
@@ -55,8 +55,8 @@
       "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 8,
-      "already_processed": 15,
+      "eligible_new": 7,
+      "already_processed": 16,
       "older_than_window": 13,
       "metadata_errors": {}
     },
@@ -307,7 +307,7 @@
           "error": ""
         }
       ],
-      "rss_candidates": 11,
+      "rss_candidates": 10,
       "page_links": 19,
       "page_articles": 13,
       "eligible_new": 2,
@@ -348,8 +348,8 @@
       "rss_candidates": 20,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 5,
-      "already_processed": 5,
+      "eligible_new": 3,
+      "already_processed": 7,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -377,13 +377,13 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 20,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 30,
           "error": ""
         }
       ],
@@ -391,11 +391,11 @@
       "page_links": 50,
       "page_articles": 44,
       "eligible_new": 37,
-      "already_processed": 51,
+      "already_processed": 52,
       "older_than_window": 5,
       "metadata_errors": {
-        "no_article_metadata": 4,
-        "missing_title": 2
+        "no_article_metadata": 5,
+        "missing_title": 1
       }
     },
     {
@@ -431,8 +431,8 @@
       "rss_candidates": 0,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 13,
-      "already_processed": 13,
+      "eligible_new": 12,
+      "already_processed": 14,
       "older_than_window": 1,
       "metadata_errors": {}
     }
