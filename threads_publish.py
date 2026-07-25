@@ -386,12 +386,12 @@ def commit_state_to_git() -> None:
 
 
 def inter_post_delay_seconds(remaining_after: int, seconds_left: float) -> int:
-    """Random gaps between Buffer sends so ticks don't look like a burst."""
-    if remaining_after <= 0 or seconds_left <= 60:
+    """Random gaps between Buffer sends — faster than before, still not a burst."""
+    if remaining_after <= 0 or seconds_left <= 30:
         return 0
-    average = max(120, int((seconds_left * 0.85) / remaining_after))
-    low = max(90, int(average * 0.45))
-    high = max(low + 1, min(int(average * 1.55), 1200))
+    average = max(60, int((seconds_left * 0.85) / remaining_after))
+    low = max(45, int(average * 0.55))
+    high = max(low + 1, min(int(average * 1.35), 180))
     return random.randint(low, high)
 
 
@@ -421,7 +421,7 @@ def publish_one(
 def drain_queue(access_token: str, channel_id: str) -> int:
     deadline = time.time() + DRAIN_WITHIN_SECONDS
     target = MAX_POSTS
-    initial_delay = random.randint(0, min(240, max(0, DRAIN_WITHIN_SECONDS // 12)))
+    initial_delay = random.randint(0, min(60, max(0, DRAIN_WITHIN_SECONDS // 20)))
     print(
         f"Threads drain: up to {target} post(s) within {DRAIN_WITHIN_SECONDS}s "
         f"(initial delay {initial_delay}s, rolling cap {DAILY_LIMIT}/24h)"
