@@ -587,6 +587,17 @@
       "published_at_utc": "2026-07-25T08:06:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/roku-is-increasing-prices-across-its-hardware-range-engadget.png": {
+      "buffer_due_at_utc": "2026-07-25T10:07:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a64894422bc282b886c044b",
+      "caption_file": "output/2026-07-25/roku-is-increasing-prices-across-its-hardware-range-engadget.txt",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/roku-is-increasing-prices-across-its-hardware-range-engadget.png",
+      "metadata_file": "output/2026-07-25/roku-is-increasing-prices-across-its-hardware-range-engadget.json",
+      "published_at_utc": "2026-07-25T10:00:37Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/starship-s-13th-test-flight-ends-with-a-lucky-splashdown.png": {
       "buffer_post_id": "6a644fdb3db68e775eeece51",
       "caption_file": "output/2026-07-25/starship-s-13th-test-flight-ends-with-a-lucky-splashdown.txt",
