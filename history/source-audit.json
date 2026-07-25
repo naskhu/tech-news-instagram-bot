@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-25T07:28:01.912405+00:00",
+  "run_utc": "2026-07-25T08:20:23.838294+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-22T07:28:01.912727+00:00",
-  "eligible_story_count": 95,
+  "cutoff_utc": "2026-07-22T08:20:23.839228+00:00",
+  "eligible_story_count": 87,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 19,
       "page_links": 25,
       "page_articles": 25,
-      "eligible_new": 11,
-      "already_processed": 14,
+      "eligible_new": 10,
+      "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,9 +55,9 @@
       "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 7,
-      "already_processed": 16,
-      "older_than_window": 13,
+      "eligible_new": 6,
+      "already_processed": 17,
+      "older_than_window": 12,
       "metadata_errors": {}
     },
     {
@@ -143,8 +143,8 @@
       "already_processed": 15,
       "older_than_window": 5,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -248,8 +248,8 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 9,
-      "already_processed": 66,
+      "eligible_new": 7,
+      "already_processed": 68,
       "older_than_window": 38,
       "metadata_errors": {}
     },
@@ -348,8 +348,8 @@
       "rss_candidates": 20,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 3,
-      "already_processed": 7,
+      "eligible_new": 2,
+      "already_processed": 8,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -390,12 +390,12 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 37,
-      "already_processed": 52,
-      "older_than_window": 5,
+      "eligible_new": 34,
+      "already_processed": 55,
+      "older_than_window": 6,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 5
       }
     },
     {
