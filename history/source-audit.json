@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-25T15:18:17.113655+00:00",
+  "run_utc": "2026-07-25T16:15:23.359652+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-22T15:18:17.113994+00:00",
-  "eligible_story_count": 83,
+  "cutoff_utc": "2026-07-22T16:15:23.360223+00:00",
+  "eligible_story_count": 88,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,7 +27,7 @@
       "rss_candidates": 19,
       "page_links": 25,
       "page_articles": 25,
-      "eligible_new": 8,
+      "eligible_new": 9,
       "already_processed": 17,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -55,9 +55,9 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 8,
-      "already_processed": 14,
-      "older_than_window": 11,
+      "eligible_new": 7,
+      "already_processed": 17,
+      "older_than_window": 7,
       "metadata_errors": {}
     },
     {
@@ -143,8 +143,8 @@
       "already_processed": 15,
       "older_than_window": 5,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -212,8 +212,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 11,
-      "already_processed": 21,
+      "eligible_new": 13,
+      "already_processed": 19,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -348,8 +348,8 @@
       "rss_candidates": 20,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 2,
-      "already_processed": 8,
+      "eligible_new": 4,
+      "already_processed": 7,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -390,8 +390,8 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 35,
-      "already_processed": 53,
+      "eligible_new": 37,
+      "already_processed": 52,
       "older_than_window": 6,
       "metadata_errors": {
         "no_article_metadata": 5,
@@ -431,8 +431,8 @@
       "rss_candidates": 0,
       "page_links": 25,
       "page_articles": 25,
-      "eligible_new": 7,
-      "already_processed": 17,
+      "eligible_new": 6,
+      "already_processed": 18,
       "older_than_window": 1,
       "metadata_errors": {}
     }
