@@ -156,7 +156,7 @@ def wait_for_public_image(image_url: str, attempts: int = 12, delay_seconds: flo
         print(f"Waiting for git-hosted image (attempt {attempt}/{attempts}): {last_error}")
         time.sleep(delay_seconds)
 
-    raise RuntimeError(
+    raise MissingPostFiles(
         f"Image is not publicly available from git yet: {image_url} ({last_error})"
     )
 
