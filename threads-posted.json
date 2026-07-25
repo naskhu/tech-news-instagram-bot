@@ -549,6 +549,17 @@
       "published_at_utc": "2026-07-25T08:54:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/anthropic-s-newest-ai-model-opus-5-is-now-available.png": {
+      "buffer_due_at_utc": "2026-07-25T15:22:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a64d3fe3db68e775ef40782",
+      "caption_file": "output/2026-07-25/anthropic-s-newest-ai-model-opus-5-is-now-available.txt",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/anthropic-s-newest-ai-model-opus-5-is-now-available.png",
+      "metadata_file": "output/2026-07-25/anthropic-s-newest-ai-model-opus-5-is-now-available.json",
+      "published_at_utc": "2026-07-25T15:19:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/best-buy-s-massive-chromebook-sale-has-some-excellent-back-to-school-l.png": {
       "buffer_due_at_utc": "2026-07-25T13:52:01.000Z",
       "buffer_mode": "customScheduled",
