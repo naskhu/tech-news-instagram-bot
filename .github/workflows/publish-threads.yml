@@ -13,9 +13,9 @@ on:
         required: false
         default: "8"
   schedule:
-    # Every 20 minutes: check output/ for new queued images and post via Buffer.
+    # Every 15 minutes: check output/ for new queued images and post via Buffer.
     # Soft cap 240 / rolling 24h (under Buffer's Threads 250 hard limit).
-    - cron: "7,27,47 * * * *"
+    - cron: "2,17,32,47 * * * *"
 
 permissions:
   contents: write
