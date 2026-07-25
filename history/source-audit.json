@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-25T21:08:01.022222+00:00",
+  "run_utc": "2026-07-25T22:05:41.692157+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-22T21:08:01.022374+00:00",
-  "eligible_story_count": 86,
+  "cutoff_utc": "2026-07-22T22:05:41.692305+00:00",
+  "eligible_story_count": 85,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,7 +27,7 @@
       "rss_candidates": 19,
       "page_links": 24,
       "page_articles": 24,
-      "eligible_new": 9,
+      "eligible_new": 8,
       "already_processed": 16,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -390,8 +390,8 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 36,
-      "already_processed": 52,
+      "eligible_new": 35,
+      "already_processed": 54,
       "older_than_window": 5,
       "metadata_errors": {
         "no_article_metadata": 4,
@@ -404,15 +404,15 @@
       "page_attempts": [
         {
           "url": "https://www.reuters.com/technology/",
-          "status": 401,
-          "links": 0,
-          "error": "HTTPError:401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/"
+          "status": 200,
+          "links": 1,
+          "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 0,
-      "page_articles": 0,
-      "eligible_new": 0,
+      "page_links": 1,
+      "page_articles": 1,
+      "eligible_new": 1,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
