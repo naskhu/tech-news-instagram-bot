@@ -802,6 +802,25 @@
       "published_at_utc": "2026-07-25T13:59:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/july-was-a-disappointing-month-for-new-horror-releases-but-this-one-ne.png": {
+      "buffer_due_at_utc": "2026-07-25T22:25:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a65343622bc282b887234f7",
+      "caption_file": "output/2026-07-25/july-was-a-disappointing-month-for-new-horror-releases-but-this-one-ne.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-25T22:25:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65343622bc282b887234f7",
+          "published_at_utc": "2026-07-25T22:09:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/july-was-a-disappointing-month-for-new-horror-releases-but-this-one-ne.png",
+      "metadata_file": "output/2026-07-25/july-was-a-disappointing-month-for-new-horror-releases-but-this-one-ne.json",
+      "published_at_utc": "2026-07-25T22:09:58Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/leeds-vs-wrexham-live-streams-how-to-watch-pre-season-friendly-from-an.png": {
       "buffer_due_at_utc": "2026-07-25T21:18:24.000Z",
       "buffer_mode": "customScheduled",
