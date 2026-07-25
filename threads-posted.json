@@ -512,6 +512,15 @@
       "metadata_file": "output/2026-07-25/the-government-has-all-but-forgotten-that-most-data-centres-require-wa.json",
       "published_at_utc": "2026-07-25T08:06:24Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-07-25/today-s-nyt-strands-hints-and-answer-for-saturday-july-25-2026.png": {
+      "buffer_post_id": "6a646e8212fafbaf49d0f4d7",
+      "caption_file": "output/2026-07-25/today-s-nyt-strands-hints-and-answer-for-saturday-july-25-2026.txt",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/today-s-nyt-strands-hints-and-answer-for-saturday-july-25-2026.png",
+      "metadata_file": "output/2026-07-25/today-s-nyt-strands-hints-and-answer-for-saturday-july-25-2026.json",
+      "published_at_utc": "2026-07-25T08:06:36Z",
+      "publisher": "buffer_threads"
     }
   }
 }
