@@ -3,7 +3,8 @@ name: Generate Tech News Post V2
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 0,6,12,18 * * *"
+    # Every 15 minutes: fetch fresh news and generate Instagram/Threads images.
+    - cron: "5,20,35,50 * * * *"
 
 permissions:
   contents: write

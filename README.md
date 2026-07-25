@@ -23,7 +23,7 @@ A fully automated, no-API-key pipeline that collects technology news from RSS fe
 3. Select **Run workflow**.
 4. After the run, open `output/` to find the PNG, caption and metadata committed on `main`.
 
-The generation workflow also runs automatically four times per day and pushes new files to git.
+The generation workflow also runs automatically about every **15 minutes** (Generate V2) and pushes new files to git.
 
 ## Publishing options
 
@@ -77,8 +77,9 @@ Keep the local Mac `instagrapi` worker **off** while Instagram shows “Try Agai
 **Publish to Threads** is a separate workflow (`publish-threads.yml`) that posts the same `output/` images through Buffer’s Threads channel. It does **not** use the Instagram cool-down.
 
 - **Rolling 24h soft cap:** at most **240** posts (under Buffer’s Threads hard limit of 250)
-- **Pacing:** every **15 minutes**, up to about **8 posts** with **~45–180s random gaps** between Buffer sends (also runs right after Generate)
-- **Buffer mode:** `shareNow` — posts go out immediately, so Buffer’s **queue list stays empty** (that is expected)
+- **Generate:** every **15 minutes** (V2) creates up to **2** new posts when fresh news exists
+- **Threads check:** every **15 minutes** (and right after Generate) enqueues up to **4** posts
+- **Random Buffer schedule:** each post gets a random `dueAt` inside the next **15 minutes** (`customScheduled`), so they appear in Buffer’s queue and go out at staggered times
 - **Captions:** trimmed to Threads’ **500** character limit with a single topic (`#TechNews`)
 - **State:** `threads-posted.json` (independent from `instagram-posted.json`)
 

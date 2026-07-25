@@ -12,9 +12,9 @@ from threads_limits import DAILY_LIMIT, count_posted_last_24h, quota_left_24h
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
-# Gentle hourly ticks via Buffer (≈240 across the day under the soft cap).
-MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "8")))
-MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "8")))
+# Gentle ticks via Buffer custom schedule (≈240 soft cap / 24h).
+MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "4")))
+MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "4")))
 
 
 def load_state() -> dict:
@@ -89,10 +89,10 @@ def main() -> int:
         max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
-            mode="drain",
+            mode="batch",
             max_posts=max_posts,
-            # ~2–3 min average spacing for up to 8 posts (~15–20 min/tick).
-            drain_seconds=max(900, max_posts * 150),
+            # Buffer customScheduled handles timing; Actions just enqueues quickly.
+            drain_seconds=0,
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
@@ -104,9 +104,9 @@ def main() -> int:
         max_posts = min(pending, quota_left, MAX_PER_SCHEDULE_TICK)
         write_output(
             should_publish="true",
-            mode="drain",
+            mode="batch",
             max_posts=max_posts,
-            drain_seconds=max(900, max_posts * 150),
+            drain_seconds=0,
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
@@ -118,9 +118,9 @@ def main() -> int:
         max_posts = min(pending, quota_left)
         write_output(
             should_publish="true",
-            mode="drain",
+            mode="batch",
             max_posts=max_posts,
-            drain_seconds=max(900, max_posts * 120),
+            drain_seconds=0,
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
