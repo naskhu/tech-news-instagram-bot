@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-25T03:34:08.914696+00:00",
+  "run_utc": "2026-07-25T04:27:00.017990+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-22T03:34:08.915165+00:00",
-  "eligible_story_count": 107,
+  "cutoff_utc": "2026-07-22T04:27:00.018732+00:00",
+  "eligible_story_count": 99,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 19,
       "page_links": 25,
       "page_articles": 25,
-      "eligible_new": 12,
-      "already_processed": 13,
+      "eligible_new": 11,
+      "already_processed": 14,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,9 +55,9 @@
       "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 11,
-      "already_processed": 13,
-      "older_than_window": 12,
+      "eligible_new": 8,
+      "already_processed": 15,
+      "older_than_window": 13,
       "metadata_errors": {}
     },
     {
@@ -83,8 +83,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 3,
-      "already_processed": 27,
+      "eligible_new": 2,
+      "already_processed": 28,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 10,
-      "already_processed": 65,
-      "older_than_window": 37,
+      "eligible_new": 9,
+      "already_processed": 66,
+      "older_than_window": 38,
       "metadata_errors": {}
     },
     {
@@ -348,8 +348,8 @@
       "rss_candidates": 20,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 6,
-      "already_processed": 4,
+      "eligible_new": 5,
+      "already_processed": 5,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -390,8 +390,8 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 38,
-      "already_processed": 50,
+      "eligible_new": 37,
+      "already_processed": 51,
       "older_than_window": 5,
       "metadata_errors": {
         "no_article_metadata": 4,
