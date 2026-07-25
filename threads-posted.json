@@ -1015,12 +1015,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives.png": {
-      "buffer_due_at_utc": "2026-07-25T21:17:10.000Z",
+      "buffer_due_at_utc": "2026-07-25T21:19:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a652592b7f6717db59807ab",
+      "buffer_post_id": "6a6525972df0a0f1fdc9fe6e",
       "caption_file": "output/2026-07-25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-25T21:19:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6525972df0a0f1fdc9fe6e",
+          "published_at_utc": "2026-07-25T21:07:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-25T21:17:10.000Z",
           "buffer_mode": "customScheduled",
@@ -1030,7 +1036,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives.png",
       "metadata_file": "output/2026-07-25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives.json",
-      "published_at_utc": "2026-07-25T21:07:30Z",
+      "published_at_utc": "2026-07-25T21:07:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/watch-daft-punk-s-thomas-bangalter-give-a-rare-helmet-off-interview.png": {
