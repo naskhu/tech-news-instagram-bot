@@ -989,12 +989,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/quordle-hints-and-answers-for-sunday-july-26-game-1644.png": {
-      "buffer_due_at_utc": "2026-07-25T23:19:25.000Z",
+      "buffer_due_at_utc": "2026-07-25T23:21:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6542c0351863828cebfd12",
+      "buffer_post_id": "6a6542c522bc282b8872cfbe",
       "caption_file": "output/2026-07-25/quordle-hints-and-answers-for-sunday-july-26-game-1644.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-25T23:21:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6542c522bc282b8872cfbe",
+          "published_at_utc": "2026-07-25T23:12:05Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-25T23:19:25.000Z",
           "buffer_mode": "customScheduled",
@@ -1004,7 +1010,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/quordle-hints-and-answers-for-sunday-july-26-game-1644.png",
       "metadata_file": "output/2026-07-25/quordle-hints-and-answers-for-sunday-july-26-game-1644.json",
-      "published_at_utc": "2026-07-25T23:12:00Z",
+      "published_at_utc": "2026-07-25T23:12:05Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.png": {
