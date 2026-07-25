@@ -10,16 +10,29 @@ from datetime import datetime, timezone
 # Soft cap under Buffer's documented Threads limit (250 / rolling 24h) per channel.
 # Count unique images (not per-channel fan-out) so dual profiles still land under ~240/day.
 DAILY_LIMIT = max(1, min(240, int(os.getenv("THREADS_DAILY_LIMIT", "240"))))
+# news.world.tech Threads channel — always published first when present.
+DEFAULT_PRIMARY_CHANNEL_ID = "6a64c576e2638b94d7d25d01"
 
 
 def parse_channel_ids(raw: str | None = None) -> list[str]:
-    """Parse comma/semicolon-separated Buffer Threads channel ids."""
+    """Parse comma/semicolon-separated Buffer Threads channel ids.
+
+    Primary channel (news.world.tech by default) is always ordered first so the
+    same story releases there before secondary profiles like naskhu.
+    """
     text = (raw if raw is not None else os.getenv("BUFFER_THREADS_CHANNEL_ID", "")).strip()
     ids: list[str] = []
     for part in text.replace(";", ",").split(","):
         channel_id = part.strip()
         if channel_id and channel_id not in ids:
             ids.append(channel_id)
+
+    primary = (
+        os.getenv("BUFFER_THREADS_PRIMARY_CHANNEL_ID", DEFAULT_PRIMARY_CHANNEL_ID).strip()
+        or DEFAULT_PRIMARY_CHANNEL_ID
+    )
+    if primary and primary in ids:
+        ids = [primary] + [channel_id for channel_id in ids if channel_id != primary]
     return ids
 
 
