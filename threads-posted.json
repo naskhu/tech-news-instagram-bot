@@ -1023,12 +1023,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught-techcrun.png": {
-      "buffer_due_at_utc": "2026-07-25T22:23:07.000Z",
+      "buffer_due_at_utc": "2026-07-25T22:25:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a653388b7f6717db5987d48",
+      "buffer_post_id": "6a65338cbbdc943104f3e50b",
       "caption_file": "output/2026-07-25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught-techcrun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-25T22:25:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65338cbbdc943104f3e50b",
+          "published_at_utc": "2026-07-25T22:07:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-25T22:23:07.000Z",
           "buffer_mode": "customScheduled",
@@ -1038,7 +1044,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught-techcrun.png",
       "metadata_file": "output/2026-07-25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught-techcrun.json",
-      "published_at_utc": "2026-07-25T22:07:04Z",
+      "published_at_utc": "2026-07-25T22:07:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/this-cozy-tidying-sim-wracked-up-millions-of-views-on-tiktok-here-s-wh.png": {
