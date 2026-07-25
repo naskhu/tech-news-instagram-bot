@@ -696,6 +696,25 @@
       "published_at_utc": "2026-07-25T13:41:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/how-to-watch-anthony-joshua-vs-kristian-prenga-live-stream-boxing-onli.png": {
+      "buffer_due_at_utc": "2026-07-25T20:38:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a651e09bbdc943104f3074f",
+      "caption_file": "output/2026-07-25/how-to-watch-anthony-joshua-vs-kristian-prenga-live-stream-boxing-onli.txt",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
+      "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-25T20:38:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a651e09bbdc943104f3074f",
+          "published_at_utc": "2026-07-25T20:35:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/how-to-watch-anthony-joshua-vs-kristian-prenga-live-stream-boxing-onli.png",
+      "metadata_file": "output/2026-07-25/how-to-watch-anthony-joshua-vs-kristian-prenga-live-stream-boxing-onli.json",
+      "published_at_utc": "2026-07-25T20:35:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/icymi-the-7-biggest-tech-stories-of-the-week-from-the-samsung-galaxy-z.png": {
       "buffer_due_at_utc": "2026-07-25T09:22:32.000Z",
       "buffer_mode": "customScheduled",
