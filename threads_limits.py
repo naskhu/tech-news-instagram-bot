@@ -49,7 +49,8 @@ def needs_publish(entry: object, needed: list[str] | None = None) -> bool:
     """True when this image should still be sent to one or more Threads channels."""
     required = needed if needed is not None else parse_channel_ids()
     if not required:
-        return False
+        # Without configured channel ids, only brand-new images count as pending.
+        return entry is None
     if entry is None:
         return True
     if is_fully_posted(entry, required):

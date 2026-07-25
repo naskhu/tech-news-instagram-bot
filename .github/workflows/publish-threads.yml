@@ -52,6 +52,8 @@ jobs:
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           MANUAL_MAX_POSTS: ${{ inputs.max_posts || '4' }}
+          # Needed so pending count knows about dual-channel fan-out.
+          BUFFER_THREADS_CHANNEL_ID: ${{ secrets.BUFFER_THREADS_CHANNEL_ID }}
           THREADS_DAILY_LIMIT: "240"
           THREADS_MAX_PER_SCHEDULE_TICK: "4"
           THREADS_MAX_PER_GENERATE_TICK: "4"
