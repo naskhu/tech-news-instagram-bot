@@ -559,6 +559,25 @@
       "published_at_utc": "2026-07-25T05:49:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/the-2026-el-ni-o-is-on-track-to-be-the-strongest-on-record.png": {
+      "buffer_due_at_utc": "2026-07-26T21:27:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a667861351863828cf90556",
+      "caption_file": "output/2026-07-24/the-2026-el-ni-o-is-on-track-to-be-the-strongest-on-record.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T21:27:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a667861351863828cf90556",
+          "published_at_utc": "2026-07-26T21:13:05Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/the-2026-el-ni-o-is-on-track-to-be-the-strongest-on-record.png",
+      "metadata_file": "output/2026-07-24/the-2026-el-ni-o-is-on-track-to-be-the-strongest-on-record.json",
+      "published_at_utc": "2026-07-26T21:13:05Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/the-voice-actors-behind-anakin-skywalker-and-the-clone-troopers-in-the.png": {
       "buffer_post_id": "6a63d6eb22bc282b8864a8d2",
       "caption_file": "output/2026-07-24/the-voice-actors-behind-anakin-skywalker-and-the-clone-troopers-in-the.txt",
