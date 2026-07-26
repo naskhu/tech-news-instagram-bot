@@ -2184,12 +2184,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/techcrunch-mobility-uber-bets-on-its-former-ceo-techcrunch.png": {
-      "buffer_due_at_utc": "2026-07-26T18:26:27.000Z",
+      "buffer_due_at_utc": "2026-07-26T18:28:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a664df52df0a0f1fdd69abb",
+      "buffer_post_id": "6a664dfa351863828cf75251",
       "caption_file": "output/2026-07-26/techcrunch-mobility-uber-bets-on-its-former-ceo-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T18:28:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a664dfa351863828cf75251",
+          "published_at_utc": "2026-07-26T18:12:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T18:26:27.000Z",
           "buffer_mode": "customScheduled",
@@ -2199,7 +2205,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/techcrunch-mobility-uber-bets-on-its-former-ceo-techcrunch.png",
       "metadata_file": "output/2026-07-26/techcrunch-mobility-uber-bets-on-its-former-ceo-techcrunch.json",
-      "published_at_utc": "2026-07-26T18:12:06Z",
+      "published_at_utc": "2026-07-26T18:12:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.png": {
