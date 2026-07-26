@@ -2259,12 +2259,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/can-apple-make-smart-glasses-that-aren-t-a-constant-privacy-threat.png": {
-      "buffer_due_at_utc": "2026-07-26T21:29:38.000Z",
+      "buffer_due_at_utc": "2026-07-26T21:31:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66786cecad4329a916c5f0",
+      "buffer_post_id": "6a66787379ae388ebdadd7a3",
       "caption_file": "output/2026-07-26/can-apple-make-smart-glasses-that-aren-t-a-constant-privacy-threat.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T21:31:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66787379ae388ebdadd7a3",
+          "published_at_utc": "2026-07-26T21:13:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T21:29:38.000Z",
           "buffer_mode": "customScheduled",
@@ -2274,7 +2280,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/can-apple-make-smart-glasses-that-aren-t-a-constant-privacy-threat.png",
       "metadata_file": "output/2026-07-26/can-apple-make-smart-glasses-that-aren-t-a-constant-privacy-threat.json",
-      "published_at_utc": "2026-07-26T21:13:16Z",
+      "published_at_utc": "2026-07-26T21:13:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.png": {
