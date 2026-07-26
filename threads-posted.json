@@ -2508,6 +2508,25 @@
       "published_at_utc": "2026-07-26T13:55:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/the-solution-to-the-power-grid-s-woes-might-just-be-sitting-in-your-dr.png": {
+      "buffer_due_at_utc": "2026-07-26T18:46:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a66557e79ae388ebdac5df8",
+      "caption_file": "output/2026-07-26/the-solution-to-the-power-grid-s-woes-might-just-be-sitting-in-your-dr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T18:46:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66557e79ae388ebdac5df8",
+          "published_at_utc": "2026-07-26T18:44:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/the-solution-to-the-power-grid-s-woes-might-just-be-sitting-in-your-dr.png",
+      "metadata_file": "output/2026-07-26/the-solution-to-the-power-grid-s-woes-might-just-be-sitting-in-your-dr.json",
+      "published_at_utc": "2026-07-26T18:44:14Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/the-vertical-video-takeover-is-here.png": {
       "buffer_due_at_utc": "2026-07-26T18:29:47.000Z",
       "buffer_mode": "customScheduled",
