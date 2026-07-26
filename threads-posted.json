@@ -234,12 +234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/european-researchers-say-big-tech-is-blocking-access-to-their-data.png": {
-      "buffer_due_at_utc": "2026-07-26T22:51:21.000Z",
+      "buffer_due_at_utc": "2026-07-26T22:53:21.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a668caa591fec01843ffdc4",
+      "buffer_post_id": "6a668caf2df0a0f1fdd94cca",
       "caption_file": "output/2026-07-24/european-researchers-say-big-tech-is-blocking-access-to-their-data.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T22:53:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a668caf2df0a0f1fdd94cca",
+          "published_at_utc": "2026-07-26T22:39:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T22:51:21.000Z",
           "buffer_mode": "customScheduled",
@@ -249,7 +255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/european-researchers-say-big-tech-is-blocking-access-to-their-data.png",
       "metadata_file": "output/2026-07-24/european-researchers-say-big-tech-is-blocking-access-to-their-data.json",
-      "published_at_utc": "2026-07-26T22:39:38Z",
+      "published_at_utc": "2026-07-26T22:39:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/european-union-grants-us-request-to-restrict-satellite-images-of-iran-.png": {
