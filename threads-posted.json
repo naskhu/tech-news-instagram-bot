@@ -1508,6 +1508,25 @@
       "published_at_utc": "2026-07-26T03:56:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/reddit-s-4k-blu-ray-fans-were-polled-to-ask-which-are-players-are-the-.png": {
+      "buffer_due_at_utc": "2026-07-26T04:16:15.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a65863c351863828cee7730",
+      "caption_file": "output/2026-07-26/reddit-s-4k-blu-ray-fans-were-polled-to-ask-which-are-players-are-the-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T04:16:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65863c351863828cee7730",
+          "published_at_utc": "2026-07-26T03:59:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/reddit-s-4k-blu-ray-fans-were-polled-to-ask-which-are-players-are-the-.png",
+      "metadata_file": "output/2026-07-26/reddit-s-4k-blu-ray-fans-were-polled-to-ask-which-are-players-are-the-.json",
+      "published_at_utc": "2026-07-26T03:59:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.png": {
       "buffer_due_at_utc": "2026-07-26T00:28:19.000Z",
       "buffer_mode": "customScheduled",
