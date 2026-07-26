@@ -948,12 +948,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/meta-pauses-plan-to-cap-free-ai-glasses-feature-at-3-hours-per-month.png": {
-      "buffer_due_at_utc": "2026-07-26T09:26:48.000Z",
+      "buffer_due_at_utc": "2026-07-26T09:28:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a65d23a351863828cf1e830",
+      "buffer_post_id": "6a65d23e2df0a0f1fdd11b44",
       "caption_file": "output/2026-07-25/meta-pauses-plan-to-cap-free-ai-glasses-feature-at-3-hours-per-month.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T09:28:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65d23e2df0a0f1fdd11b44",
+          "published_at_utc": "2026-07-26T09:24:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T09:26:48.000Z",
           "buffer_mode": "customScheduled",
@@ -963,7 +969,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/meta-pauses-plan-to-cap-free-ai-glasses-feature-at-3-hours-per-month.png",
       "metadata_file": "output/2026-07-25/meta-pauses-plan-to-cap-free-ai-glasses-feature-at-3-hours-per-month.json",
-      "published_at_utc": "2026-07-26T09:24:10Z",
+      "published_at_utc": "2026-07-26T09:24:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/meta-walks-back-limits-for-its-smart-glasses-conversation-focus-featur.png": {
