@@ -1397,6 +1397,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-26T17:35:33Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.png": {
+      "buffer_post_id": "6a6645ef79ae388ebdabcf8f",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.png",
+      "metadata_file": "output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.json",
+      "published_at_utc": "2026-07-26T17:38:02Z",
+      "publisher": "buffer"
     }
   }
 }
