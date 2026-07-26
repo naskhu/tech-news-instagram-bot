@@ -555,6 +555,25 @@
       "published_at_utc": "2026-07-25T08:54:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/satellite-images-reveal-how-suspected-scam-compounds-appear-out-of-now.png": {
+      "buffer_due_at_utc": "2026-07-26T22:14:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a66868e351863828cf9befb",
+      "caption_file": "output/2026-07-24/satellite-images-reveal-how-suspected-scam-compounds-appear-out-of-now.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T22:14:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66868e351863828cf9befb",
+          "published_at_utc": "2026-07-26T22:13:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/satellite-images-reveal-how-suspected-scam-compounds-appear-out-of-now.png",
+      "metadata_file": "output/2026-07-24/satellite-images-reveal-how-suspected-scam-compounds-appear-out-of-now.json",
+      "published_at_utc": "2026-07-26T22:13:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/silicon-valley-is-completely-divided-over-chinese-ai.png": {
       "buffer_due_at_utc": "2026-07-26T21:44:24.000Z",
       "buffer_mode": "customScheduled",
