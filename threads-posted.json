@@ -1263,6 +1263,25 @@
       "published_at_utc": "2026-07-25T08:05:54Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/galaxy-watch-9-vs-apple-watch-series-11-fitness-flagships-compared.png": {
+      "buffer_due_at_utc": "2026-07-26T23:55:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a669aa879ae388ebdaf768f",
+      "caption_file": "output/2026-07-25/galaxy-watch-9-vs-apple-watch-series-11-fitness-flagships-compared.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T23:55:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a669aa879ae388ebdaf768f",
+          "published_at_utc": "2026-07-26T23:39:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/galaxy-watch-9-vs-apple-watch-series-11-fitness-flagships-compared.png",
+      "metadata_file": "output/2026-07-25/galaxy-watch-9-vs-apple-watch-series-11-fitness-flagships-compared.json",
+      "published_at_utc": "2026-07-26T23:39:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/google-basically-confirms-the-pixel-11-is-getting-a-price-hike.png": {
       "buffer_due_at_utc": "2026-07-25T22:22:17.000Z",
       "buffer_mode": "customScheduled",
