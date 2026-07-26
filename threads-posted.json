@@ -1590,12 +1590,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/warner-bros-is-suing-amazon-for-poaching-employees.png": {
-      "buffer_due_at_utc": "2026-07-26T18:21:04.000Z",
+      "buffer_due_at_utc": "2026-07-26T18:23:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a664f36351863828cf75c80",
+      "buffer_post_id": "6a664f3b351863828cf75cef",
       "caption_file": "output/2026-07-25/warner-bros-is-suing-amazon-for-poaching-employees.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T18:23:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a664f3b351863828cf75cef",
+          "published_at_utc": "2026-07-26T18:17:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T18:21:04.000Z",
           "buffer_mode": "customScheduled",
@@ -1605,7 +1611,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/warner-bros-is-suing-amazon-for-poaching-employees.png",
       "metadata_file": "output/2026-07-25/warner-bros-is-suing-amazon-for-poaching-employees.json",
-      "published_at_utc": "2026-07-26T18:17:26Z",
+      "published_at_utc": "2026-07-26T18:17:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives.png": {
