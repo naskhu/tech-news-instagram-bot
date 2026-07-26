@@ -505,12 +505,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-passw.png": {
-      "buffer_due_at_utc": "2026-07-26T18:18:10.000Z",
+      "buffer_due_at_utc": "2026-07-26T18:20:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a664e6d2df0a0f1fdd6a087",
+      "buffer_post_id": "6a664e7279ae388ebdac27af",
       "caption_file": "output/2026-07-24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-passw.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T18:20:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a664e7279ae388ebdac27af",
+          "published_at_utc": "2026-07-26T18:14:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T18:18:10.000Z",
           "buffer_mode": "customScheduled",
@@ -520,7 +526,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-passw.png",
       "metadata_file": "output/2026-07-24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-passw.json",
-      "published_at_utc": "2026-07-26T18:14:05Z",
+      "published_at_utc": "2026-07-26T18:14:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/vietnam-is-looking-to-restrict-social-media-for-kids-here-s-a-look-at-.png": {
