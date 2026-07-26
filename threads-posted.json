@@ -1010,6 +1010,25 @@
       "published_at_utc": "2026-07-25T20:35:16Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many.png": {
+      "buffer_due_at_utc": "2026-07-26T20:45:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a666fc5351863828cf8a9dd",
+      "caption_file": "output/2026-07-25/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T20:45:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a666fc5351863828cf8a9dd",
+          "published_at_utc": "2026-07-26T20:36:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many.png",
+      "metadata_file": "output/2026-07-25/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many.json",
+      "published_at_utc": "2026-07-26T20:36:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/how-to-program-your-roku-remote-to-voice-control-your-non-roku-tv-enga.png": {
       "buffer_due_at_utc": "2026-07-25T13:55:08.000Z",
       "buffer_mode": "customScheduled",
