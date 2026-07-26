@@ -80,12 +80,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/best-window-air-conditioners-of-2026-midea-zafro-ge.png": {
-      "buffer_due_at_utc": "2026-07-26T21:41:28.000Z",
+      "buffer_due_at_utc": "2026-07-26T21:43:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a667d78591fec01843f4040",
+      "buffer_post_id": "6a667d7d591fec01843f408a",
       "caption_file": "output/2026-07-24/best-window-air-conditioners-of-2026-midea-zafro-ge.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T21:43:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a667d7d591fec01843f408a",
+          "published_at_utc": "2026-07-26T21:34:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T21:41:28.000Z",
           "buffer_mode": "customScheduled",
@@ -95,7 +101,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/best-window-air-conditioners-of-2026-midea-zafro-ge.png",
       "metadata_file": "output/2026-07-24/best-window-air-conditioners-of-2026-midea-zafro-ge.json",
-      "published_at_utc": "2026-07-26T21:34:48Z",
+      "published_at_utc": "2026-07-26T21:34:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/blade-runner-2099-s-moody-dystopia-streams-on-amazon-in-november.png": {
