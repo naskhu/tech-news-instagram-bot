@@ -2659,12 +2659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/everything-new-marvel-announced-at-comic-con-2026-cnet.png": {
-      "buffer_due_at_utc": "2026-07-26T23:19:46.000Z",
+      "buffer_due_at_utc": "2026-07-26T23:21:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66949f79ae388ebdaf3802",
+      "buffer_post_id": "6a6694a42df0a0f1fdd9b685",
       "caption_file": "output/2026-07-26/everything-new-marvel-announced-at-comic-con-2026-cnet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T23:21:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6694a42df0a0f1fdd9b685",
+          "published_at_utc": "2026-07-26T23:13:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T23:19:46.000Z",
           "buffer_mode": "customScheduled",
@@ -2674,7 +2680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/everything-new-marvel-announced-at-comic-con-2026-cnet.png",
       "metadata_file": "output/2026-07-26/everything-new-marvel-announced-at-comic-con-2026-cnet.json",
-      "published_at_utc": "2026-07-26T23:13:35Z",
+      "published_at_utc": "2026-07-26T23:13:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/exclusive-samsung-s-vp-of-mobile-experience-reveals-more-about-samsung.png": {
