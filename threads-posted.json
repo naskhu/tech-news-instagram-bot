@@ -2183,6 +2183,25 @@
       "published_at_utc": "2026-07-26T13:55:45Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/why-yes-your-modular-synth-can-run-doom.png": {
+      "buffer_due_at_utc": "2026-07-26T16:15:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a662eb72df0a0f1fdd51654",
+      "caption_file": "output/2026-07-26/why-yes-your-modular-synth-can-run-doom.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T16:15:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a662eb72df0a0f1fdd51654",
+          "published_at_utc": "2026-07-26T15:58:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/why-yes-your-modular-synth-can-run-doom.png",
+      "metadata_file": "output/2026-07-26/why-yes-your-modular-synth-can-run-doom.json",
+      "published_at_utc": "2026-07-26T15:58:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact-engad.png": {
       "buffer_due_at_utc": "2026-07-26T14:59:10.000Z",
       "buffer_mode": "customScheduled",
