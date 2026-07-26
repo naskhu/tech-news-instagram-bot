@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-26T22:37:36.790797+00:00",
+  "run_utc": "2026-07-26T23:11:22.562920+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-23T22:37:36.790943+00:00",
-  "eligible_story_count": 225,
+  "cutoff_utc": "2026-07-23T23:11:22.563043+00:00",
+  "eligible_story_count": 218,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 15,
       "older_than_window": 5,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 5,
       "already_processed": 70,
-      "older_than_window": 36,
+      "older_than_window": 38,
       "metadata_errors": {}
     },
     {
@@ -389,12 +389,12 @@
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
+      "page_articles": 45,
       "eligible_new": 26,
-      "already_processed": 61,
-      "older_than_window": 4,
+      "already_processed": 60,
+      "older_than_window": 5,
       "metadata_errors": {
-        "no_article_metadata": 5,
+        "no_article_metadata": 4,
         "missing_title": 1
       }
     },
@@ -459,8 +459,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 4,
-      "already_processed": 21,
+      "eligible_new": 0,
+      "already_processed": 25,
       "older_than_window": 35,
       "metadata_errors": {}
     },
@@ -501,9 +501,9 @@
       "rss_candidates": 28,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 20,
+      "eligible_new": 19,
       "already_processed": 0,
-      "older_than_window": 34,
+      "older_than_window": 35,
       "metadata_errors": {}
     },
     {
@@ -556,25 +556,25 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 23,
+          "links": 22,
           "error": ""
         },
         {
           "url": "https://www.bleepingcomputer.com/news/",
           "status": 200,
-          "links": 1,
+          "links": 2,
           "error": ""
         }
       ],
       "rss_candidates": 15,
       "page_links": 24,
-      "page_articles": 4,
+      "page_articles": 1,
       "eligible_new": 14,
       "already_processed": 0,
-      "older_than_window": 2,
+      "older_than_window": 1,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 19
+        "http_429": 22
       }
     },
     {
