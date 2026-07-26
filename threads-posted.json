@@ -1558,6 +1558,25 @@
       "published_at_utc": "2026-07-26T06:40:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/a-new-look-for-the-apple-watch-may-still-be-at-least-a-year-away-engad.png": {
+      "buffer_due_at_utc": "2026-07-26T17:02:02.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a663d247d8129a6190dec72",
+      "caption_file": "output/2026-07-26/a-new-look-for-the-apple-watch-may-still-be-at-least-a-year-away-engad.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T17:02:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a663d247d8129a6190dec72",
+          "published_at_utc": "2026-07-26T17:00:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/a-new-look-for-the-apple-watch-may-still-be-at-least-a-year-away-engad.png",
+      "metadata_file": "output/2026-07-26/a-new-look-for-the-apple-watch-may-still-be-at-least-a-year-away-engad.json",
+      "published_at_utc": "2026-07-26T17:00:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/ai-chatbots-are-quietly-becoming-the-uninvited-third-person-in-people-.png": {
       "buffer_due_at_utc": "2026-07-26T12:15:24.000Z",
       "buffer_mode": "customScheduled",
