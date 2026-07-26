@@ -22,6 +22,9 @@
     "VentureBeat",
     "BleepingComputer",
     "MIT Technology Review",
+    "9to5Mac",
+    "9to5Google",
+    "Tom's Hardware",
     "Engadget",
     "Reuters Technology",
     "The Next Web",
@@ -314,6 +317,51 @@
       ],
       "include_paths": [
         "/news/"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
+    {
+      "name": "9to5Mac",
+      "rss_urls": [
+        "https://9to5mac.com/feed/"
+      ],
+      "page_urls": [
+        "https://9to5mac.com/",
+        "https://9to5mac.com/guides/news/"
+      ],
+      "allowed_hosts": [
+        "9to5mac.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
+    {
+      "name": "9to5Google",
+      "rss_urls": [
+        "https://9to5google.com/feed/"
+      ],
+      "page_urls": [
+        "https://9to5google.com/",
+        "https://9to5google.com/guides/news/"
+      ],
+      "allowed_hosts": [
+        "9to5google.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
+    {
+      "name": "Tom's Hardware",
+      "rss_urls": [
+        "https://www.tomshardware.com/feeds/all"
+      ],
+      "page_urls": [
+        "https://www.tomshardware.com/news",
+        "https://www.tomshardware.com/"
+      ],
+      "allowed_hosts": [
+        "tomshardware.com"
       ],
       "max_entries": 100,
       "max_page_articles": 40

@@ -55,6 +55,9 @@ SOURCE_THEMES: dict[str, tuple[int, int, int]] = {
     "CNET": (229, 25, 55),
     "VentureBeat": (30, 136, 229),
     "BleepingComputer": (232, 93, 4),
+    "9to5Mac": (255, 59, 48),
+    "9to5Google": (52, 168, 83),
+    "Tom's Hardware": (0, 102, 204),
 }
 
 BAD_IMAGE_TERMS = {
