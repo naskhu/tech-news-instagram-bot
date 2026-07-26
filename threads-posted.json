@@ -1458,6 +1458,25 @@
       "published_at_utc": "2026-07-25T11:33:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are.png": {
+      "buffer_due_at_utc": "2026-07-26T04:02:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a65854c12fafbaf49db5b64",
+      "caption_file": "output/2026-07-26/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T04:02:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65854c12fafbaf49db5b64",
+          "published_at_utc": "2026-07-26T03:55:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are.png",
+      "metadata_file": "output/2026-07-26/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are.json",
+      "published_at_utc": "2026-07-26T03:55:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.png": {
       "buffer_due_at_utc": "2026-07-26T00:28:19.000Z",
       "buffer_mode": "customScheduled",
