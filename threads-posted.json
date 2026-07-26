@@ -304,12 +304,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.png": {
-      "buffer_due_at_utc": "2026-07-26T22:52:28.000Z",
+      "buffer_due_at_utc": "2026-07-26T22:54:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a668cb3591fec01843ffdfa",
+      "buffer_post_id": "6a668cb8ecad4329a917a8bc",
       "caption_file": "output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T22:54:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a668cb8ecad4329a917a8bc",
+          "published_at_utc": "2026-07-26T22:39:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T22:52:28.000Z",
           "buffer_mode": "customScheduled",
@@ -319,7 +325,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.png",
       "metadata_file": "output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.json",
-      "published_at_utc": "2026-07-26T22:39:47Z",
+      "published_at_utc": "2026-07-26T22:39:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/looks-like-streams-are-back-on-the-menu-boys.png": {
