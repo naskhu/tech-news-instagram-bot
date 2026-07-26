@@ -1235,6 +1235,17 @@
       "published_at_utc": "2026-07-26T14:54:23Z",
       "publisher": "buffer"
     },
+    "output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.png": {
+      "buffer_post_id": "6a663ff07d8129a6190e1bfb",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.png",
+      "metadata_file": "output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-26T17:12:23Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.png": {
       "buffer_post_id": "6a65fab37d8129a6190ac7fd",
       "caption_file": "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.txt",
