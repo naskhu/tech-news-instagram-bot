@@ -57,7 +57,7 @@ Secrets required:
 
 ### C) Local Instagram worker (last resort)
 
-See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**. Instagram often flags unofficial API posting — keep the Mac schedule off unless Buffer/Meta are unavailable.
+See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**. Instagram often flags unofficial API posting — keep the Mac LaunchAgent **disabled** while Buffer Actions is publishing (running both causes duplicate Instagram posts).
 
 ### Publishing behavior (Actions)
 
@@ -70,7 +70,7 @@ Limits (Maldives local time, `Indian/Maldives`):
 - **Cool-down:** publishing stays paused until `PUBLISH_RESUME_DATE` (currently `2026-07-26`) while Instagram action-blocks cool down
 - **Fresh daily queue:** generate workflows delete previous `output/YYYY-MM-DD/` folders after local midnight so the next day builds new images
 
-Keep the local Mac `instagrapi` worker **off** while Instagram shows “Try Again Later”.
+Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and while Instagram shows “Try Again Later”).
 
 ### Threads publishing (Actions)
 
