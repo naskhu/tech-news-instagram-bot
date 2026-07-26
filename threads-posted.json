@@ -1227,6 +1227,25 @@
       "published_at_utc": "2026-07-25T15:19:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/the-20-percent-rule-for-solar-panels-can-help-you-save-money-in-the-lo.png": {
+      "buffer_due_at_utc": "2026-07-26T09:13:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a65cd107d8129a61908c1cc",
+      "caption_file": "output/2026-07-25/the-20-percent-rule-for-solar-panels-can-help-you-save-money-in-the-lo.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T09:13:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65cd107d8129a61908c1cc",
+          "published_at_utc": "2026-07-26T09:02:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/the-20-percent-rule-for-solar-panels-can-help-you-save-money-in-the-lo.png",
+      "metadata_file": "output/2026-07-25/the-20-percent-rule-for-solar-panels-can-help-you-save-money-in-the-lo.json",
+      "published_at_utc": "2026-07-26T09:02:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/the-crow-girl-season-2-is-the-unhinged-wild-and-deadly-crime-drama-you.png": {
       "buffer_due_at_utc": "2026-07-25T09:23:26.000Z",
       "buffer_mode": "customScheduled",
