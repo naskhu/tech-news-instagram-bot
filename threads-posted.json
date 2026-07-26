@@ -303,6 +303,25 @@
       "published_at_utc": "2026-07-25T08:53:44Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.png": {
+      "buffer_due_at_utc": "2026-07-26T22:52:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a668cb3591fec01843ffdfa",
+      "caption_file": "output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T22:52:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a668cb3591fec01843ffdfa",
+          "published_at_utc": "2026-07-26T22:39:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.png",
+      "metadata_file": "output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.json",
+      "published_at_utc": "2026-07-26T22:39:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/looks-like-streams-are-back-on-the-menu-boys.png": {
       "buffer_post_id": "6a63c643351863828cdd00d1",
       "caption_file": "output/2026-07-24/looks-like-streams-are-back-on-the-menu-boys.txt",
