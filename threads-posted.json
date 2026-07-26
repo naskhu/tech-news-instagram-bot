@@ -1909,12 +1909,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/the-reason-why-the-macbook-air-doesn-t-need-a-fan-engadget.png": {
-      "buffer_due_at_utc": "2026-07-26T13:57:01.000Z",
+      "buffer_due_at_utc": "2026-07-26T13:59:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6611cd12fafbaf49e13fe5",
+      "buffer_post_id": "6a6611d27d8129a6190bb449",
       "caption_file": "output/2026-07-26/the-reason-why-the-macbook-air-doesn-t-need-a-fan-engadget.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T13:59:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6611d27d8129a6190bb449",
+          "published_at_utc": "2026-07-26T13:55:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T13:57:01.000Z",
           "buffer_mode": "customScheduled",
@@ -1924,7 +1930,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/the-reason-why-the-macbook-air-doesn-t-need-a-fan-engadget.png",
       "metadata_file": "output/2026-07-26/the-reason-why-the-macbook-air-doesn-t-need-a-fan-engadget.json",
-      "published_at_utc": "2026-07-26T13:55:25Z",
+      "published_at_utc": "2026-07-26T13:55:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.png": {
