@@ -1573,12 +1573,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/the-openai-models-that-hacked-hugging-face-were-active-on-the-internet.png": {
-      "buffer_due_at_utc": "2026-07-26T19:53:06.000Z",
+      "buffer_due_at_utc": "2026-07-26T19:55:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6661f72df0a0f1fdd78301",
+      "buffer_post_id": "6a6661fc351863828cf8290c",
       "caption_file": "output/2026-07-25/the-openai-models-that-hacked-hugging-face-were-active-on-the-internet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T19:55:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6661fc351863828cf8290c",
+          "published_at_utc": "2026-07-26T19:37:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T19:53:06.000Z",
           "buffer_mode": "customScheduled",
@@ -1588,7 +1594,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/the-openai-models-that-hacked-hugging-face-were-active-on-the-internet.png",
       "metadata_file": "output/2026-07-25/the-openai-models-that-hacked-hugging-face-were-active-on-the-internet.json",
-      "published_at_utc": "2026-07-26T19:37:27Z",
+      "published_at_utc": "2026-07-26T19:37:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/this-ai-ssd-tech-makes-8-rtx-5090s-perform-like-46-gpus-in-inference.png": {
