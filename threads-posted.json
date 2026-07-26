@@ -1609,12 +1609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.png": {
-      "buffer_due_at_utc": "2026-07-26T08:12:41.000Z",
+      "buffer_due_at_utc": "2026-07-26T08:14:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a65c0cb12fafbaf49ddd534",
+      "buffer_post_id": "6a65c0cf7d8129a6190823e9",
       "caption_file": "output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T08:14:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65c0cf7d8129a6190823e9",
+          "published_at_utc": "2026-07-26T08:09:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T08:12:41.000Z",
           "buffer_mode": "customScheduled",
@@ -1624,7 +1630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.png",
       "metadata_file": "output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.json",
-      "published_at_utc": "2026-07-26T08:09:47Z",
+      "published_at_utc": "2026-07-26T08:09:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.png": {
