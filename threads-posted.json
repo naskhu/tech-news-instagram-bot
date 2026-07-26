@@ -1958,6 +1958,25 @@
       "published_at_utc": "2026-07-26T09:02:24Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-op.png": {
+      "buffer_due_at_utc": "2026-07-26T18:18:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a664dec2df0a0f1fdd69a4a",
+      "caption_file": "output/2026-07-26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-op.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T18:18:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a664dec2df0a0f1fdd69a4a",
+          "published_at_utc": "2026-07-26T18:11:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-op.png",
+      "metadata_file": "output/2026-07-26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-op.json",
+      "published_at_utc": "2026-07-26T18:11:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/i-ve-hunted-out-the-best-samsung-galaxy-z-flip-8-cases-to-keep-your-ne.png": {
       "buffer_due_at_utc": "2026-07-26T04:06:13.000Z",
       "buffer_mode": "customScheduled",
