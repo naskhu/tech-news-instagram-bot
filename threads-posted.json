@@ -90,6 +90,25 @@
       "published_at_utc": "2026-07-25T03:38:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/china-us-ai-race-escalates-openai-models-break-free-and-why-you-should.png": {
+      "buffer_due_at_utc": "2026-07-26T21:18:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6678497d8129a619106cf6",
+      "caption_file": "output/2026-07-24/china-us-ai-race-escalates-openai-models-break-free-and-why-you-should.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T21:18:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6678497d8129a619106cf6",
+          "published_at_utc": "2026-07-26T21:12:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/china-us-ai-race-escalates-openai-models-break-free-and-why-you-should.png",
+      "metadata_file": "output/2026-07-24/china-us-ai-race-escalates-openai-models-break-free-and-why-you-should.json",
+      "published_at_utc": "2026-07-26T21:12:42Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/claude-opus-5-matches-fable-on-coding-at-half-the-price-and-anthropic-.png": {
       "buffer_post_id": "6a6442133db68e775eee3ca6",
       "caption_file": "output/2026-07-24/claude-opus-5-matches-fable-on-coding-at-half-the-price-and-anthropic-.txt",
