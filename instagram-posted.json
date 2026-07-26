@@ -1386,6 +1386,17 @@
       "metadata_file": "output/2026-07-26/only-murders-in-the-building-season-6-casting-olivia-colman-is-nothing.json",
       "published_at_utc": "2026-07-26T15:09:44Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-26/reddit-s-4k-blu-ray-fans-were-polled-to-ask-which-are-players-are-the-.png": {
+      "buffer_post_id": "6a66455e7d8129a6190e5814",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-26/reddit-s-4k-blu-ray-fans-were-polled-to-ask-which-are-players-are-the-.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/reddit-s-4k-blu-ray-fans-were-polled-to-ask-which-are-players-are-the-.png",
+      "metadata_file": "output/2026-07-26/reddit-s-4k-blu-ray-fans-were-polled-to-ask-which-are-players-are-the-.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-26T17:35:33Z",
+      "publisher": "buffer"
     }
   }
 }
