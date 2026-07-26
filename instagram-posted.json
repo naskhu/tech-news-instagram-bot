@@ -1001,6 +1001,17 @@
       "published_at_utc": "2026-07-26T03:56:04Z",
       "publisher": "buffer"
     },
+    "output/2026-07-25/big-tech-accused-of-stonewalling-european-social-media-researchers.png": {
+      "buffer_post_id": "6a6650247d8129a6190ec28d",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-25/big-tech-accused-of-stonewalling-european-social-media-researchers.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/big-tech-accused-of-stonewalling-european-social-media-researchers.png",
+      "metadata_file": "output/2026-07-25/big-tech-accused-of-stonewalling-european-social-media-researchers.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-26T18:21:30Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-25/cyberpunk-season-is-upon-us.png": {
       "buffer_post_id": "6a65891a7d8129a61905c94c",
       "caption_file": "output/2026-07-25/cyberpunk-season-is-upon-us.txt",
