@@ -1609,12 +1609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.png": {
-      "buffer_due_at_utc": "2026-07-26T16:14:38.000Z",
+      "buffer_due_at_utc": "2026-07-26T16:16:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a662eacecad4329a9139e23",
+      "buffer_post_id": "6a662eb2ecad4329a9139e73",
       "caption_file": "output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T16:16:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a662eb2ecad4329a9139e73",
+          "published_at_utc": "2026-07-26T15:58:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T16:14:38.000Z",
           "buffer_mode": "customScheduled",
@@ -1624,7 +1630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.png",
       "metadata_file": "output/2026-07-26/carrie-is-just-trying-to-make-a-friend-in-the-new-trailer.json",
-      "published_at_utc": "2026-07-26T15:58:37Z",
+      "published_at_utc": "2026-07-26T15:58:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.png": {
