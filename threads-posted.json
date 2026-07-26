@@ -2108,6 +2108,25 @@
       "published_at_utc": "2026-07-26T17:00:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/marvel-announces-ryan-gosling-as-ghost-rider-a-new-black-panther-and-m.png": {
+      "buffer_due_at_utc": "2026-07-26T18:23:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a664e7679ae388ebdac27d3",
+      "caption_file": "output/2026-07-26/marvel-announces-ryan-gosling-as-ghost-rider-a-new-black-panther-and-m.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T18:23:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a664e7679ae388ebdac27d3",
+          "published_at_utc": "2026-07-26T18:14:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/marvel-announces-ryan-gosling-as-ghost-rider-a-new-black-panther-and-m.png",
+      "metadata_file": "output/2026-07-26/marvel-announces-ryan-gosling-as-ghost-rider-a-new-black-panther-and-m.json",
+      "published_at_utc": "2026-07-26T18:14:15Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are.png": {
       "buffer_due_at_utc": "2026-07-26T04:04:05.000Z",
       "buffer_mode": "customScheduled",
