@@ -1657,6 +1657,25 @@
       "metadata_file": "output/2026-07-26/today-s-wordle-hints-and-answer-for-sunday-july-26-2026.json",
       "published_at_utc": "2026-07-26T03:56:11Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-07-26/ukraine-s-new-marichka-ai-targets-the-one-layer-of-its-war-stack-that-.png": {
+      "buffer_due_at_utc": "2026-07-26T07:05:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a65ade17d8129a6190762b1",
+      "caption_file": "output/2026-07-26/ukraine-s-new-marichka-ai-targets-the-one-layer-of-its-war-stack-that-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T07:05:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65ade17d8129a6190762b1",
+          "published_at_utc": "2026-07-26T06:49:05Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/ukraine-s-new-marichka-ai-targets-the-one-layer-of-its-war-stack-that-.png",
+      "metadata_file": "output/2026-07-26/ukraine-s-new-marichka-ai-targets-the-one-layer-of-its-war-stack-that-.json",
+      "published_at_utc": "2026-07-26T06:49:05Z",
+      "publisher": "buffer_threads"
     }
   }
 }
