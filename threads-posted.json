@@ -2384,12 +2384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies.png": {
-      "buffer_due_at_utc": "2026-07-26T21:49:35.000Z",
+      "buffer_due_at_utc": "2026-07-26T21:51:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a667d8c7d8129a61910a19a",
+      "buffer_post_id": "6a667d91591fec01843f414e",
       "caption_file": "output/2026-07-26/champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T21:51:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a667d91591fec01843f414e",
+          "published_at_utc": "2026-07-26T21:35:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T21:49:35.000Z",
           "buffer_mode": "customScheduled",
@@ -2399,7 +2405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies.png",
       "metadata_file": "output/2026-07-26/champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies.json",
-      "published_at_utc": "2026-07-26T21:35:08Z",
+      "published_at_utc": "2026-07-26T21:35:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.png": {
