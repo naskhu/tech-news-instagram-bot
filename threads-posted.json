@@ -600,12 +600,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/3-clever-things-you-can-do-with-an-old-amazon-kindle.png": {
-      "buffer_due_at_utc": "2026-07-26T19:42:07.000Z",
+      "buffer_due_at_utc": "2026-07-26T19:44:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6661e3353caf726926c149",
+      "buffer_post_id": "6a6661e8351863828cf82842",
       "caption_file": "output/2026-07-25/3-clever-things-you-can-do-with-an-old-amazon-kindle.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T19:44:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6661e8351863828cf82842",
+          "published_at_utc": "2026-07-26T19:37:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T19:42:07.000Z",
           "buffer_mode": "customScheduled",
@@ -615,7 +621,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/3-clever-things-you-can-do-with-an-old-amazon-kindle.png",
       "metadata_file": "output/2026-07-25/3-clever-things-you-can-do-with-an-old-amazon-kindle.json",
-      "published_at_utc": "2026-07-26T19:37:07Z",
+      "published_at_utc": "2026-07-26T19:37:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/a-usb-plug-for-humans-electricity-outlet-test-delivers-microwatts-of-p.png": {
