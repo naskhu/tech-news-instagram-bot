@@ -1859,12 +1859,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/all-the-ways-you-can-make-reading-on-your-phone-easier.png": {
-      "buffer_due_at_utc": "2026-07-26T18:40:00.000Z",
+      "buffer_due_at_utc": "2026-07-26T18:42:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66509cecad4329a9152dbf",
+      "buffer_post_id": "6a6650a1353caf7269260c50",
       "caption_file": "output/2026-07-26/all-the-ways-you-can-make-reading-on-your-phone-easier.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T18:42:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6650a1353caf7269260c50",
+          "published_at_utc": "2026-07-26T18:23:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T18:40:00.000Z",
           "buffer_mode": "customScheduled",
@@ -1874,7 +1880,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/all-the-ways-you-can-make-reading-on-your-phone-easier.png",
       "metadata_file": "output/2026-07-26/all-the-ways-you-can-make-reading-on-your-phone-easier.json",
-      "published_at_utc": "2026-07-26T18:23:25Z",
+      "published_at_utc": "2026-07-26T18:23:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/anthropic-s-claude-cowork-could-escape-its-local-vm-and-read-credentia.png": {
