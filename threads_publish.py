@@ -199,7 +199,7 @@ def truncate_text(text: str, limit: int) -> str:
 
 
 def build_threads_caption(caption_file: Path, metadata: Path | None) -> str:
-    """Fit Instagram caption content into Threads' 500-char / one-topic rules."""
+    """Short hook-first Threads caption: title, one beat, source, link."""
     try:
         raw = caption_file.read_text(encoding="utf-8").strip()
     except FileNotFoundError as exc:
@@ -230,18 +230,23 @@ def build_threads_caption(caption_file: Path, metadata: Path | None) -> str:
         if match:
             url = match.group(0).rstrip(").,]")
 
+    # First line is the scroll-stopping hook.
+    hook = truncate_text(title, 160) if title else ""
+    beat = ""
+    if summary and summary.lower() not in (title or "").lower():
+        beat = truncate_text(summary, 140)
+
     parts: list[str] = []
-    if title:
-        parts.append(title)
-    if summary and summary.lower() not in title.lower():
-        parts.append(summary)
+    if hook:
+        parts.append(hook)
+    if beat:
+        parts.append(beat)
     if source:
-        parts.append(f"Source: {source}")
+        parts.append(f"Via {source}")
     if url:
         parts.append(url)
 
     body = "\n\n".join(parts).strip() or raw
-    # Reserve room for a single Threads topic line.
     topic_line = f"#{THREADS_TOPIC.lstrip('#')}"
     room = THREADS_MAX_CHARS - len(topic_line) - 2
     body = truncate_text(body, max(40, room))

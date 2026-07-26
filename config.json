@@ -1,7 +1,7 @@
 {
   "brand_name": "TECH NEWS DAILY",
   "instagram_handle": "@news.world.tech",
-  "posts_per_run": 2,
+  "posts_per_run": 4,
   "summary_max_words": 42,
   "news_max_age_hours": 72,
   "feed_max_entries": 100,
@@ -12,6 +12,28 @@
     "#AI",
     "#Innovation",
     "#Digital"
+  ],
+  "priority_sources": [
+    "TechCrunch",
+    "The Verge",
+    "Ars Technica",
+    "Wired",
+    "CNET",
+    "VentureBeat",
+    "BleepingComputer",
+    "MIT Technology Review",
+    "Engadget",
+    "Reuters Technology",
+    "The Next Web",
+    "The Information",
+    "Google Blog",
+    "Microsoft Blog",
+    "PCMag News"
+  ],
+  "low_priority_sources": [
+    "Lifehacker",
+    "TechRadar",
+    "Gizmodo"
   ],
   "feeds": [
     {
@@ -226,6 +248,74 @@
       "include_paths": [
         "/news/"
       ],
+      "max_page_articles": 40
+    },
+    {
+      "name": "Wired",
+      "rss_urls": [
+        "https://www.wired.com/feed/rss"
+      ],
+      "page_urls": [
+        "https://www.wired.com/",
+        "https://www.wired.com/category/business/"
+      ],
+      "allowed_hosts": [
+        "wired.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
+    {
+      "name": "CNET",
+      "rss_urls": [
+        "https://www.cnet.com/rss/news/",
+        "https://www.cnet.com/rss/all/"
+      ],
+      "page_urls": [
+        "https://www.cnet.com/news/",
+        "https://www.cnet.com/"
+      ],
+      "allowed_hosts": [
+        "cnet.com"
+      ],
+      "include_paths": [
+        "/news/",
+        "/tech/"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
+    {
+      "name": "VentureBeat",
+      "rss_urls": [
+        "https://venturebeat.com/feed/"
+      ],
+      "page_urls": [
+        "https://venturebeat.com/",
+        "https://venturebeat.com/ai/"
+      ],
+      "allowed_hosts": [
+        "venturebeat.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
+    {
+      "name": "BleepingComputer",
+      "rss_urls": [
+        "https://www.bleepingcomputer.com/feed/"
+      ],
+      "page_urls": [
+        "https://www.bleepingcomputer.com/",
+        "https://www.bleepingcomputer.com/news/"
+      ],
+      "allowed_hosts": [
+        "bleepingcomputer.com"
+      ],
+      "include_paths": [
+        "/news/"
+      ],
+      "max_entries": 100,
       "max_page_articles": 40
     }
   ]
