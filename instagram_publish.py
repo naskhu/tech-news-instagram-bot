@@ -195,12 +195,65 @@ def buffer_graphql(access_token: str, query: str, variables: dict[str, Any] | No
     return payload
 
 
+def sync_state_from_origin() -> dict[str, Any]:
+    """Refresh instagram-posted.json from origin/main before choosing the next item.
+
+    Prevents a long drain (or a failed mid-run push) from republishing an image
+    that another Actions tick already sent via Buffer shareNow.
+    """
+    if not COMMIT_STATE_EACH_POST:
+        return load_state()
+
+    subprocess.run(["git", "fetch", "origin", "main"], check=False)
+    # Keep local uncommitted state if present; otherwise take remote file.
+    if STATE_FILE.exists():
+        local = load_state()
+    else:
+        local = {"posted": {}}
+
+    show = subprocess.run(
+        ["git", "show", f"origin/main:{STATE_FILE.as_posix()}"],
+        check=False,
+        capture_output=True,
+        text=True,
+    )
+    if show.returncode != 0 or not show.stdout.strip():
+        return local
+
+    try:
+        remote = json.loads(show.stdout)
+    except json.JSONDecodeError:
+        return local
+    if not isinstance(remote, dict):
+        return local
+    remote.setdefault("posted", {})
+    if not isinstance(remote["posted"], dict):
+        remote["posted"] = {}
+
+    # Merge: remote wins on conflicts (already on main), then keep any newer local keys.
+    merged_posted = dict(remote["posted"])
+    for key, entry in local.get("posted", {}).items():
+        if key not in merged_posted:
+            merged_posted[key] = entry
+    local["posted"] = merged_posted
+    save_state(local)
+    return local
+
+
+def is_successful_buffer_status(status: object) -> bool:
+    text = str(status or "").strip().lower()
+    if not text:
+        # Legacy records with no status field count as successful publishes.
+        return True
+    return text not in {"error", "failed", "rejected"}
+
+
 def publish_post(
     access_token: str,
     channel_id: str,
     image: Path,
     caption_file: Path,
-) -> str:
+) -> tuple[str, str]:
     caption = caption_file.read_text(encoding="utf-8").strip()
     if not caption:
         raise RuntimeError(f"Caption is empty: {caption_file}")
@@ -240,14 +293,9 @@ def publish_post(
         raise RuntimeError(f"Unexpected Buffer createPost response: {json.dumps(result)}")
 
     post_id = str(result["post"]["id"])
-    status = str(result["post"].get("status") or "").strip().lower()
-    print(f"Buffer post created: id={post_id} status={status or 'unknown'}")
-    if status in {"error", "failed", "rejected"}:
-        raise RuntimeError(
-            f"Buffer created post {post_id} but status={status}. "
-            "Check Buffer → Instagram channel (reconnect Instagram / plan limits)."
-        )
-    return post_id
+    status = str(result["post"].get("status") or "").strip().lower() or "unknown"
+    print(f"Buffer post created: id={post_id} status={status}")
+    return post_id, status
 
 
 def record_post(
@@ -257,9 +305,12 @@ def record_post(
     caption: Path,
     metadata: Path | None,
     post_id: str,
+    *,
+    buffer_status: str = "sent",
 ) -> None:
-    state["posted"][image.as_posix()] = {
+    entry: dict[str, Any] = {
         "buffer_post_id": post_id,
+        "buffer_status": buffer_status,
         "channel_id": channel_id,
         "publisher": "buffer",
         "caption_file": caption.as_posix(),
@@ -267,6 +318,10 @@ def record_post(
         "image_url": public_image_url(image),
         "published_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
     }
+    if not is_successful_buffer_status(buffer_status):
+        # Still mark as handled so drain/schedule ticks do not create a second IG post.
+        entry["publish_result"] = "buffer_error_not_retried"
+    state["posted"][image.as_posix()] = entry
     save_state(state)
 
 
@@ -297,7 +352,7 @@ def commit_state_to_git() -> None:
         ["git", "commit", "-m", "Record published Instagram post"],
         check=False,
     )
-    for attempt in range(1, 4):
+    for attempt in range(1, 5):
         subprocess.run(["git", "fetch", "origin", "main"], check=False)
         rebase = subprocess.run(["git", "rebase", "origin/main"], check=False)
         if rebase.returncode != 0:
@@ -313,7 +368,10 @@ def commit_state_to_git() -> None:
             print("Publishing state pushed to git.")
             return
         time.sleep(attempt * 3)
-    print("WARNING: could not push publishing state after this post", file=sys.stderr)
+    raise RuntimeError(
+        "Could not push Instagram publishing state after Buffer create. "
+        "Stopping this run to avoid double-posting the same image."
+    )
 
 
 def inter_post_delay_seconds(remaining_after: int, seconds_left: float) -> int:
@@ -333,12 +391,31 @@ def publish_one(
     image: Path,
     caption: Path,
     metadata: Path | None,
-) -> None:
+) -> str:
     assert_daily_quota(state)
-    post_id = publish_post(access_token, channel_id, image, caption)
-    record_post(state, channel_id, image, caption, metadata, post_id)
-    print(f"Published {image.as_posix()} as Buffer post {post_id}")
+    post_id, buffer_status = publish_post(access_token, channel_id, image, caption)
+    record_post(
+        state,
+        channel_id,
+        image,
+        caption,
+        metadata,
+        post_id,
+        buffer_status=buffer_status,
+    )
+    if is_successful_buffer_status(buffer_status):
+        print(f"Published {image.as_posix()} as Buffer post {post_id}")
+    else:
+        print(
+            f"Buffer returned status={buffer_status} for {image.as_posix()} "
+            f"(post {post_id}); marking handled so it will not be resent.",
+            file=sys.stderr,
+        )
     commit_state_to_git()
+    refreshed = load_state()
+    state.clear()
+    state.update(refreshed)
+    return buffer_status
 
 
 def drain_queue(access_token: str, channel_id: str) -> int:
@@ -354,7 +431,7 @@ def drain_queue(access_token: str, channel_id: str) -> int:
 
     published = 0
     while published < target and time.time() < deadline:
-        state = load_state()
+        state = sync_state_from_origin()
         try:
             assert_daily_quota(state)
         except DailyLimitReached as exc:
@@ -372,7 +449,7 @@ def drain_queue(access_token: str, channel_id: str) -> int:
 
         image, caption, metadata = pending[0]
         try:
-            publish_one(access_token, channel_id, state, image, caption, metadata)
+            status = publish_one(access_token, channel_id, state, image, caption, metadata)
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
@@ -381,9 +458,10 @@ def drain_queue(access_token: str, channel_id: str) -> int:
             )
             return published
 
-        published += 1
+        if is_successful_buffer_status(status):
+            published += 1
         remaining_this_run = target - published
-        remaining_queue = len(pending) - 1
+        remaining_queue = len(list_unpublished(load_state()))
         if remaining_this_run <= 0 or remaining_queue <= 0:
             print(
                 f"Finished this tick ({published} posted). "
@@ -410,7 +488,7 @@ def drain_queue(access_token: str, channel_id: str) -> int:
 
 
 def publish_batch(access_token: str, channel_id: str) -> int:
-    state = load_state()
+    state = sync_state_from_origin()
     posts = discover_posts(state)
     if not posts:
         print("No unpublished generated posts found.")
@@ -418,8 +496,12 @@ def publish_batch(access_token: str, channel_id: str) -> int:
 
     published = 0
     for image, caption, metadata in posts:
+        state = sync_state_from_origin()
+        if image.as_posix() in state.get("posted", {}):
+            print(f"Skipping {image.as_posix()}: already recorded after state sync")
+            continue
         try:
-            publish_one(access_token, channel_id, state, image, caption, metadata)
+            status = publish_one(access_token, channel_id, state, image, caption, metadata)
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
@@ -427,7 +509,8 @@ def publish_batch(access_token: str, channel_id: str) -> int:
                 f"Leaving {leftover} queued for later automatic runs."
             )
             return published
-        published += 1
+        if is_successful_buffer_status(status):
+            published += 1
     return published
 
 
