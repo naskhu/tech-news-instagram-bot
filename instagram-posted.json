@@ -1284,6 +1284,17 @@
       "published_at_utc": "2026-07-26T11:28:26Z",
       "publisher": "buffer"
     },
+    "output/2026-07-25/what-surrounds-us-will-make-you-think-a-lot-about-circles.png": {
+      "buffer_post_id": "6a66583f2df0a0f1fdd718fb",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-25/what-surrounds-us-will-make-you-think-a-lot-about-circles.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/what-surrounds-us-will-make-you-think-a-lot-about-circles.png",
+      "metadata_file": "output/2026-07-25/what-surrounds-us-will-make-you-think-a-lot-about-circles.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-26T18:56:07Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-26/4-delicious-high-protein-recipes-for-your-ninja-creami-with-absolutely.png": {
       "buffer_post_id": "6a65f1e82df0a0f1fdd26ec1",
       "caption_file": "output/2026-07-26/4-delicious-high-protein-recipes-for-your-ninja-creami-with-absolutely.txt",
