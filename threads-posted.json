@@ -1622,6 +1622,25 @@
       "published_at_utc": "2026-07-25T22:07:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-25/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way.png": {
+      "buffer_due_at_utc": "2026-07-26T19:49:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a66626b79ae388ebdacfbe0",
+      "caption_file": "output/2026-07-25/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T19:49:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66626b79ae388ebdacfbe0",
+          "published_at_utc": "2026-07-26T19:39:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way.png",
+      "metadata_file": "output/2026-07-25/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way.json",
+      "published_at_utc": "2026-07-26T19:39:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-25/the-openai-models-that-hacked-hugging-face-were-active-on-the-internet.png": {
       "buffer_due_at_utc": "2026-07-26T19:55:06.000Z",
       "buffer_mode": "customScheduled",
