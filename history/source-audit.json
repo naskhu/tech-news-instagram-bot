@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-26T18:02:58.190140+00:00",
+  "run_utc": "2026-07-26T18:10:09.775872+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-23T18:02:58.190312+00:00",
-  "eligible_story_count": 69,
+  "cutoff_utc": "2026-07-23T18:10:09.776028+00:00",
+  "eligible_story_count": 131,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,7 +27,7 @@
       "rss_candidates": 20,
       "page_links": 24,
       "page_articles": 24,
-      "eligible_new": 5,
+      "eligible_new": 6,
       "already_processed": 19,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -212,8 +212,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 11,
-      "already_processed": 21,
+      "eligible_new": 10,
+      "already_processed": 22,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -310,8 +310,8 @@
       "rss_candidates": 8,
       "page_links": 17,
       "page_articles": 12,
-      "eligible_new": 4,
-      "already_processed": 6,
+      "eligible_new": 3,
+      "already_processed": 7,
       "older_than_window": 4,
       "metadata_errors": {
         "not_article_path": 5
@@ -348,7 +348,7 @@
       "rss_candidates": 20,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 5,
+      "eligible_new": 6,
       "already_processed": 5,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -394,8 +394,8 @@
       "already_processed": 64,
       "older_than_window": 4,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 5
       }
     },
     {
@@ -435,6 +435,147 @@
       "already_processed": 18,
       "older_than_window": 1,
       "metadata_errors": {}
+    },
+    {
+      "source": "Wired",
+      "rss_attempts": [
+        {
+          "url": "https://www.wired.com/feed/rss",
+          "status": 200,
+          "content_type": "application/xml",
+          "entries": 50,
+          "error": "",
+          "redirected_to": "https://www.wired.com/feed/rss"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://www.wired.com/",
+          "status": 200,
+          "links": 40,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 50,
+      "page_links": 40,
+      "page_articles": 40,
+      "eligible_new": 27,
+      "already_processed": 0,
+      "older_than_window": 33,
+      "metadata_errors": {}
+    },
+    {
+      "source": "CNET",
+      "rss_attempts": [
+        {
+          "url": "https://www.cnet.com/rss/news/",
+          "status": 200,
+          "content_type": "application/atom+xml; charset=UTF-8",
+          "entries": 25,
+          "error": "",
+          "redirected_to": "https://www.cnet.com/rss/news/"
+        },
+        {
+          "url": "https://www.cnet.com/rss/all/",
+          "status": 200,
+          "content_type": "application/atom+xml; charset=UTF-8",
+          "entries": 25,
+          "error": "",
+          "redirected_to": "https://www.cnet.com/rss/all/"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://www.cnet.com/news/",
+          "status": 200,
+          "links": 36,
+          "error": ""
+        },
+        {
+          "url": "https://www.cnet.com/",
+          "status": 200,
+          "links": 4,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 27,
+      "page_links": 40,
+      "page_articles": 40,
+      "eligible_new": 20,
+      "already_processed": 0,
+      "older_than_window": 33,
+      "metadata_errors": {}
+    },
+    {
+      "source": "VentureBeat",
+      "rss_attempts": [
+        {
+          "url": "https://venturebeat.com/feed/",
+          "status": 200,
+          "content_type": "text/xml",
+          "entries": 7,
+          "error": "",
+          "redirected_to": "https://venturebeat.com/feed"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://venturebeat.com/",
+          "status": 429,
+          "links": 0,
+          "error": "HTTPError:429 Client Error: Too Many Requests for url: https://venturebeat.com/"
+        },
+        {
+          "url": "https://venturebeat.com/ai/",
+          "status": 429,
+          "links": 0,
+          "error": "HTTPError:429 Client Error: Too Many Requests for url: https://venturebeat.com/ai/"
+        }
+      ],
+      "rss_candidates": 7,
+      "page_links": 0,
+      "page_articles": 0,
+      "eligible_new": 4,
+      "already_processed": 0,
+      "older_than_window": 3,
+      "metadata_errors": {}
+    },
+    {
+      "source": "BleepingComputer",
+      "rss_attempts": [
+        {
+          "url": "https://www.bleepingcomputer.com/feed/",
+          "status": 200,
+          "content_type": "text/xml; charset=utf-8",
+          "entries": 15,
+          "error": "",
+          "redirected_to": "https://www.bleepingcomputer.com/feed/"
+        }
+      ],
+      "page_attempts": [
+        {
+          "url": "https://www.bleepingcomputer.com/",
+          "status": 200,
+          "links": 23,
+          "error": ""
+        },
+        {
+          "url": "https://www.bleepingcomputer.com/news/",
+          "status": 200,
+          "links": 1,
+          "error": ""
+        }
+      ],
+      "rss_candidates": 15,
+      "page_links": 24,
+      "page_articles": 6,
+      "eligible_new": 15,
+      "already_processed": 0,
+      "older_than_window": 1,
+      "metadata_errors": {
+        "no_article_metadata": 1,
+        "http_429": 17
+      }
     }
   ]
 }
