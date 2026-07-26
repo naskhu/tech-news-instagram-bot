@@ -694,12 +694,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/cricut-explore-5-vs-siser-romeo-choosing-the-right-smart-cutting-machi.png": {
-      "buffer_due_at_utc": "2026-07-26T18:35:14.000Z",
+      "buffer_due_at_utc": "2026-07-26T18:37:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66508b353caf7269260bfd",
+      "buffer_post_id": "6a66509179ae388ebdac3811",
       "caption_file": "output/2026-07-25/cricut-explore-5-vs-siser-romeo-choosing-the-right-smart-cutting-machi.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T18:37:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66509179ae388ebdac3811",
+          "published_at_utc": "2026-07-26T18:23:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T18:35:14.000Z",
           "buffer_mode": "customScheduled",
@@ -709,7 +715,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/cricut-explore-5-vs-siser-romeo-choosing-the-right-smart-cutting-machi.png",
       "metadata_file": "output/2026-07-25/cricut-explore-5-vs-siser-romeo-choosing-the-right-smart-cutting-machi.json",
-      "published_at_utc": "2026-07-26T18:23:07Z",
+      "published_at_utc": "2026-07-26T18:23:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/cyberpunk-season-is-upon-us.png": {
