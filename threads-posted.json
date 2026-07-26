@@ -3109,12 +3109,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head.png": {
-      "buffer_due_at_utc": "2026-07-26T23:23:04.000Z",
+      "buffer_due_at_utc": "2026-07-26T23:25:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6694aaac3719fcf9fd4c03",
+      "buffer_post_id": "6a6694af79ae388ebdaf3869",
       "caption_file": "output/2026-07-26/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T23:25:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6694af79ae388ebdaf3869",
+          "published_at_utc": "2026-07-26T23:13:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T23:23:04.000Z",
           "buffer_mode": "customScheduled",
@@ -3124,7 +3130,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head.png",
       "metadata_file": "output/2026-07-26/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head.json",
-      "published_at_utc": "2026-07-26T23:13:46Z",
+      "published_at_utc": "2026-07-26T23:13:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/techcrunch-mobility-uber-bets-on-its-former-ceo-techcrunch.png": {
