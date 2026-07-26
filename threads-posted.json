@@ -1558,6 +1558,25 @@
       "published_at_utc": "2026-07-26T06:40:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/eu-s-huawei-purge-could-cost-taxpayers-a-staggering-40-billion-four-ti.png": {
+      "buffer_due_at_utc": "2026-07-26T11:03:19.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a65e7e42df0a0f1fdd1ff42",
+      "caption_file": "output/2026-07-26/eu-s-huawei-purge-could-cost-taxpayers-a-staggering-40-billion-four-ti.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T11:03:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65e7e42df0a0f1fdd1ff42",
+          "published_at_utc": "2026-07-26T10:56:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/eu-s-huawei-purge-could-cost-taxpayers-a-staggering-40-billion-four-ti.png",
+      "metadata_file": "output/2026-07-26/eu-s-huawei-purge-could-cost-taxpayers-a-staggering-40-billion-four-ti.json",
+      "published_at_utc": "2026-07-26T10:56:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/exclusive-samsung-s-vp-of-mobile-experience-reveals-more-about-samsung.png": {
       "buffer_due_at_utc": "2026-07-26T07:06:51.000Z",
       "buffer_mode": "customScheduled",
