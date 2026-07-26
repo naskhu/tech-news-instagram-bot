@@ -234,6 +234,25 @@
       "published_at_utc": "2026-07-24T23:46:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/one-of-nasa-s-most-important-deep-space-observatories-hit-by-spanish-w.png": {
+      "buffer_due_at_utc": "2026-07-26T20:42:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a666fbaecad4329a9166dc3",
+      "caption_file": "output/2026-07-24/one-of-nasa-s-most-important-deep-space-observatories-hit-by-spanish-w.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T20:42:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a666fbaecad4329a9166dc3",
+          "published_at_utc": "2026-07-26T20:36:10Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/one-of-nasa-s-most-important-deep-space-observatories-hit-by-spanish-w.png",
+      "metadata_file": "output/2026-07-24/one-of-nasa-s-most-important-deep-space-observatories-hit-by-spanish-w.json",
+      "published_at_utc": "2026-07-26T20:36:10Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/oracle-awarded-10-year-7-billion-pentagon-deal-to-supply-department-of.png": {
       "buffer_post_id": "6a6449045e684934985f8ee8",
       "caption_file": "output/2026-07-24/oracle-awarded-10-year-7-billion-pentagon-deal-to-supply-department-of.txt",
