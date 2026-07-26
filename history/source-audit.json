@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-07-26T13:54:06.819228+00:00",
+  "run_utc": "2026-07-26T14:50:28.381634+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-23T13:54:06.819428+00:00",
+  "cutoff_utc": "2026-07-23T14:50:28.381808+00:00",
   "eligible_story_count": 65,
   "sources": [
     {
@@ -143,8 +143,8 @@
       "already_processed": 15,
       "older_than_window": 5,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -212,8 +212,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 12,
-      "already_processed": 20,
+      "eligible_new": 11,
+      "already_processed": 21,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 5,
       "already_processed": 70,
-      "older_than_window": 36,
+      "older_than_window": 38,
       "metadata_errors": {}
     },
     {
@@ -348,8 +348,8 @@
       "rss_candidates": 20,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 6,
-      "already_processed": 4,
+      "eligible_new": 7,
+      "already_processed": 5,
       "older_than_window": 0,
       "metadata_errors": {}
     },
