@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-26T00:15:49.701694+00:00",
+  "run_utc": "2026-07-26T03:54:42.289589+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-23T00:15:49.701848+00:00",
-  "eligible_story_count": 72,
+  "cutoff_utc": "2026-07-23T03:54:42.289765+00:00",
+  "eligible_story_count": 73,
   "sources": [
     {
       "source": "TechCrunch",
@@ -24,7 +24,7 @@
           "error": ""
         }
       ],
-      "rss_candidates": 19,
+      "rss_candidates": 20,
       "page_links": 24,
       "page_articles": 24,
       "eligible_new": 7,
@@ -55,7 +55,7 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 5,
+      "eligible_new": 4,
       "already_processed": 21,
       "older_than_window": 7,
       "metadata_errors": {}
@@ -83,8 +83,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 3,
-      "already_processed": 27,
+      "eligible_new": 2,
+      "already_processed": 28,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -248,8 +248,8 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 5,
-      "already_processed": 70,
+      "eligible_new": 6,
+      "already_processed": 69,
       "older_than_window": 38,
       "metadata_errors": {}
     },
@@ -383,19 +383,19 @@
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 1,
+          "links": 32,
           "error": ""
         }
       ],
       "rss_candidates": 100,
-      "page_links": 19,
-      "page_articles": 14,
-      "eligible_new": 25,
-      "already_processed": 43,
-      "older_than_window": 3,
+      "page_links": 50,
+      "page_articles": 45,
+      "eligible_new": 27,
+      "already_processed": 61,
+      "older_than_window": 5,
       "metadata_errors": {
-        "no_article_metadata": 4,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 4
       }
     },
     {
