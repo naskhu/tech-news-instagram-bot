@@ -755,12 +755,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/folding-and-flipping-phones-are-getting-seriously-good.png": {
-      "buffer_due_at_utc": "2026-07-26T18:20:57.000Z",
+      "buffer_due_at_utc": "2026-07-26T18:22:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a664f2cecad4329a9152487",
+      "buffer_post_id": "6a664f31ecad4329a91524b6",
       "caption_file": "output/2026-07-25/folding-and-flipping-phones-are-getting-seriously-good.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T18:22:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a664f31ecad4329a91524b6",
+          "published_at_utc": "2026-07-26T18:17:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T18:20:57.000Z",
           "buffer_mode": "customScheduled",
@@ -770,7 +776,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/folding-and-flipping-phones-are-getting-seriously-good.png",
       "metadata_file": "output/2026-07-25/folding-and-flipping-phones-are-getting-seriously-good.json",
-      "published_at_utc": "2026-07-26T18:17:16Z",
+      "published_at_utc": "2026-07-26T18:17:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/forget-expensive-sleepbuds-buy-this-pillow-instead.png": {
