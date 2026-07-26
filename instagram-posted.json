@@ -1039,6 +1039,17 @@
       "published_at_utc": "2026-07-26T04:30:43Z",
       "publisher": "buffer"
     },
+    "output/2026-07-25/folding-and-flipping-phones-are-getting-seriously-good.png": {
+      "buffer_post_id": "6a66502d351863828cf7626c",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-25/folding-and-flipping-phones-are-getting-seriously-good.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/folding-and-flipping-phones-are-getting-seriously-good.png",
+      "metadata_file": "output/2026-07-25/folding-and-flipping-phones-are-getting-seriously-good.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-26T18:21:42Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-25/google-basically-confirms-the-pixel-11-is-getting-a-price-hike.png": {
       "buffer_post_id": "6a658e3c22bc282b887583eb",
       "caption_file": "output/2026-07-25/google-basically-confirms-the-pixel-11-is-getting-a-price-hike.txt",
