@@ -370,12 +370,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/rocket-report-lightning-strikes-in-china-starship-launch-on-deck.png": {
-      "buffer_due_at_utc": "2026-07-26T18:29:02.000Z",
+      "buffer_due_at_utc": "2026-07-26T18:31:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6650807d8129a6190ec479",
+      "buffer_post_id": "6a665086351863828cf76474",
       "caption_file": "output/2026-07-24/rocket-report-lightning-strikes-in-china-starship-launch-on-deck.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T18:31:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a665086351863828cf76474",
+          "published_at_utc": "2026-07-26T18:23:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T18:29:02.000Z",
           "buffer_mode": "customScheduled",
@@ -385,7 +391,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/rocket-report-lightning-strikes-in-china-starship-launch-on-deck.png",
       "metadata_file": "output/2026-07-24/rocket-report-lightning-strikes-in-china-starship-launch-on-deck.json",
-      "published_at_utc": "2026-07-26T18:22:56Z",
+      "published_at_utc": "2026-07-26T18:23:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/roku-raises-streaming-hardware-prices-by-up-to-50.png": {
