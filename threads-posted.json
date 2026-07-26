@@ -2533,6 +2533,25 @@
       "published_at_utc": "2026-07-26T15:58:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/you-can-get-three-months-of-xbox-game-pass-ultimate-for-almost-half-of.png": {
+      "buffer_due_at_utc": "2026-07-26T18:29:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a664e89ecad4329a9151dbe",
+      "caption_file": "output/2026-07-26/you-can-get-three-months-of-xbox-game-pass-ultimate-for-almost-half-of.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T18:29:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a664e89ecad4329a9151dbe",
+          "published_at_utc": "2026-07-26T18:14:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/you-can-get-three-months-of-xbox-game-pass-ultimate-for-almost-half-of.png",
+      "metadata_file": "output/2026-07-26/you-can-get-three-months-of-xbox-game-pass-ultimate-for-almost-half-of.json",
+      "published_at_utc": "2026-07-26T18:14:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact-engad.png": {
       "buffer_due_at_utc": "2026-07-26T14:59:10.000Z",
       "buffer_mode": "customScheduled",
