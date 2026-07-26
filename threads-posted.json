@@ -2609,12 +2609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/the-us-is-charging-an-american-citizen-for-wiping-his-phone-at-the-bor.png": {
-      "buffer_due_at_utc": "2026-07-26T19:53:39.000Z",
+      "buffer_due_at_utc": "2026-07-26T19:55:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a666201351863828cf8295d",
+      "buffer_post_id": "6a666206353caf726926c2cb",
       "caption_file": "output/2026-07-26/the-us-is-charging-an-american-citizen-for-wiping-his-phone-at-the-bor.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T19:55:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a666206353caf726926c2cb",
+          "published_at_utc": "2026-07-26T19:37:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T19:53:39.000Z",
           "buffer_mode": "customScheduled",
@@ -2624,7 +2630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/the-us-is-charging-an-american-citizen-for-wiping-his-phone-at-the-bor.png",
       "metadata_file": "output/2026-07-26/the-us-is-charging-an-american-citizen-for-wiping-his-phone-at-the-bor.json",
-      "published_at_utc": "2026-07-26T19:37:37Z",
+      "published_at_utc": "2026-07-26T19:37:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/the-vertical-video-takeover-is-here.png": {
