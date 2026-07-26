@@ -1584,12 +1584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.png": {
-      "buffer_due_at_utc": "2026-07-26T12:14:16.000Z",
+      "buffer_due_at_utc": "2026-07-26T12:16:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a65f686351863828cf354af",
+      "buffer_post_id": "6a65f68b7d8129a6190a89e0",
       "caption_file": "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T12:16:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65f68b7d8129a6190a89e0",
+          "published_at_utc": "2026-07-26T11:59:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T12:14:16.000Z",
           "buffer_mode": "customScheduled",
@@ -1599,7 +1605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.png",
       "metadata_file": "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.json",
-      "published_at_utc": "2026-07-26T11:59:03Z",
+      "published_at_utc": "2026-07-26T11:59:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/eu-s-huawei-purge-could-cost-taxpayers-a-staggering-40-billion-four-ti.png": {
