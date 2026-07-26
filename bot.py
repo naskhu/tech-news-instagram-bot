@@ -58,6 +58,7 @@ SOURCE_THEMES: dict[str, tuple[int, int, int]] = {
     "9to5Mac": (255, 59, 48),
     "9to5Google": (52, 168, 83),
     "Tom's Hardware": (0, 102, 204),
+    "BGR": (230, 57, 70),
 }
 
 BAD_IMAGE_TERMS = {

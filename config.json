@@ -25,6 +25,7 @@
     "9to5Mac",
     "9to5Google",
     "Tom's Hardware",
+    "BGR",
     "Engadget",
     "Reuters Technology",
     "The Next Web",
@@ -362,6 +363,21 @@
       ],
       "allowed_hosts": [
         "tomshardware.com"
+      ],
+      "max_entries": 100,
+      "max_page_articles": 40
+    },
+    {
+      "name": "BGR",
+      "rss_urls": [
+        "https://bgr.com/feed/"
+      ],
+      "page_urls": [
+        "https://bgr.com/",
+        "https://bgr.com/tech/"
+      ],
+      "allowed_hosts": [
+        "bgr.com"
       ],
       "max_entries": 100,
       "max_page_articles": 40

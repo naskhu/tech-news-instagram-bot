@@ -19,6 +19,7 @@ DEFAULT_PRIORITY_SOURCES = (
     "9to5Mac",
     "9to5Google",
     "Tom's Hardware",
+    "BGR",
     "Engadget",
     "Reuters Technology",
     "The Next Web",
