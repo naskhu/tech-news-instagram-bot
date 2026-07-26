@@ -1429,6 +1429,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-26T17:40:24Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.png": {
+      "buffer_post_id": "6a664759351863828cf7138e",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.png",
+      "metadata_file": "output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-26T17:44:00Z",
+      "publisher": "buffer"
     }
   }
 }
