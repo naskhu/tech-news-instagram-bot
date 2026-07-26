@@ -1959,12 +1959,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-op.png": {
-      "buffer_due_at_utc": "2026-07-26T18:18:48.000Z",
+      "buffer_due_at_utc": "2026-07-26T18:20:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a664dec2df0a0f1fdd69a4a",
+      "buffer_post_id": "6a664df0353caf726925f79a",
       "caption_file": "output/2026-07-26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-op.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T18:20:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a664df0353caf726925f79a",
+          "published_at_utc": "2026-07-26T18:12:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T18:18:48.000Z",
           "buffer_mode": "customScheduled",
@@ -1974,7 +1980,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-op.png",
       "metadata_file": "output/2026-07-26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-op.json",
-      "published_at_utc": "2026-07-26T18:11:56Z",
+      "published_at_utc": "2026-07-26T18:12:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/i-ve-hunted-out-the-best-samsung-galaxy-z-flip-8-cases-to-keep-your-ne.png": {
