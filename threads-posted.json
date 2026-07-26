@@ -1584,12 +1584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/apple-targets-wwdc-2027-for-smart-glasses-but-is-still-deciding-on-the.png": {
-      "buffer_due_at_utc": "2026-07-26T14:56:12.000Z",
+      "buffer_due_at_utc": "2026-07-26T14:58:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a661f1179ae388ebda9f493",
+      "buffer_post_id": "6a661f1579ae388ebda9f4cb",
       "caption_file": "output/2026-07-26/apple-targets-wwdc-2027-for-smart-glasses-but-is-still-deciding-on-the.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T14:58:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a661f1579ae388ebda9f4cb",
+          "published_at_utc": "2026-07-26T14:52:05Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T14:56:12.000Z",
           "buffer_mode": "customScheduled",
@@ -1599,7 +1605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/apple-targets-wwdc-2027-for-smart-glasses-but-is-still-deciding-on-the.png",
       "metadata_file": "output/2026-07-26/apple-targets-wwdc-2027-for-smart-glasses-but-is-still-deciding-on-the.json",
-      "published_at_utc": "2026-07-26T14:52:01Z",
+      "published_at_utc": "2026-07-26T14:52:05Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.png": {
