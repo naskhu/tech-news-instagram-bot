@@ -1097,6 +1097,15 @@
       "metadata_file": "output/2026-07-25/quordle-hints-and-answers-for-sunday-july-26-game-1644.json",
       "published_at_utc": "2026-07-26T08:10:30Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.png": {
+      "buffer_post_id": "6a65c4af7d8129a619084d76",
+      "caption_file": "output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.png",
+      "metadata_file": "output/2026-07-25/quote-of-the-day-by-vladimir-putin-on-ai-whoever-becomes-the-leader-in.json",
+      "published_at_utc": "2026-07-26T08:26:33Z",
+      "publisher": "buffer"
     }
   }
 }
