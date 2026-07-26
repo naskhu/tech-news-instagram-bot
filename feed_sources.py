@@ -15,6 +15,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 import bot
+from story_quality import filter_and_rank_stories
 
 BROWSER_HEADERS = {
     "User-Agent": (
@@ -637,5 +638,8 @@ def collect_stories(
         )
         audits.append(audit)
 
-    stories = sorted(all_stories.values(), key=lambda item: item["published"], reverse=True)
+    stories = list(all_stories.values())
+    stories, skipped_low_quality = filter_and_rank_stories(stories, config)
+    if skipped_low_quality:
+        print(f"Skipped {skipped_low_quality} low-quality title(s) (puzzles/recipes/streams).")
     return stories, audits

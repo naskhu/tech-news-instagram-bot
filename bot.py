@@ -49,6 +49,12 @@ SOURCE_THEMES: dict[str, tuple[int, int, int]] = {
     "MIT Technology Review": (225, 45, 54),
     "Google Blog": (66, 133, 244),
     "Microsoft Blog": (0, 164, 239),
+    "Engadget": (104, 159, 56),
+    "Gizmodo": (156, 39, 176),
+    "Wired": (0, 0, 0),
+    "CNET": (229, 25, 55),
+    "VentureBeat": (30, 136, 229),
+    "BleepingComputer": (232, 93, 4),
 }
 
 BAD_IMAGE_TERMS = {
