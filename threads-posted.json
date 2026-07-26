@@ -1759,12 +1759,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/it-s-not-just-openai-models-escaping-and-running-riot-experts-show-how.png": {
-      "buffer_due_at_utc": "2026-07-26T13:28:12.000Z",
+      "buffer_due_at_utc": "2026-07-26T13:30:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6609fe351863828cf43dd5",
+      "buffer_post_id": "6a660a047d8129a6190b6e46",
       "caption_file": "output/2026-07-26/it-s-not-just-openai-models-escaping-and-running-riot-experts-show-how.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T13:30:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a660a047d8129a6190b6e46",
+          "published_at_utc": "2026-07-26T13:22:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T13:28:12.000Z",
           "buffer_mode": "customScheduled",
@@ -1774,7 +1780,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/it-s-not-just-openai-models-escaping-and-running-riot-experts-show-how.png",
       "metadata_file": "output/2026-07-26/it-s-not-just-openai-models-escaping-and-running-riot-experts-show-how.json",
-      "published_at_utc": "2026-07-26T13:22:06Z",
+      "published_at_utc": "2026-07-26T13:22:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are.png": {
