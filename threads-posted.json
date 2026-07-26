@@ -54,6 +54,25 @@
       "published_at_utc": "2026-07-25T08:22:47Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/benq-tk705sti-4k-projector-review-a-midrange-pick-for-gamers.png": {
+      "buffer_due_at_utc": "2026-07-26T21:38:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a667d6c79ae388ebdae10de",
+      "caption_file": "output/2026-07-24/benq-tk705sti-4k-projector-review-a-midrange-pick-for-gamers.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T21:38:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a667d6c79ae388ebdae10de",
+          "published_at_utc": "2026-07-26T21:34:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/benq-tk705sti-4k-projector-review-a-midrange-pick-for-gamers.png",
+      "metadata_file": "output/2026-07-24/benq-tk705sti-4k-projector-review-a-midrange-pick-for-gamers.json",
+      "published_at_utc": "2026-07-26T21:34:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/blade-runner-2099-s-moody-dystopia-streams-on-amazon-in-november.png": {
       "buffer_post_id": "6a63b2172f95f1108a0dbcea",
       "caption_file": "output/2026-07-24/blade-runner-2099-s-moody-dystopia-streams-on-amazon-in-november.txt",
