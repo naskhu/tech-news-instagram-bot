@@ -2059,12 +2059,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/apple-is-banking-on-privacy-to-set-its-smart-glasses-apart.png": {
-      "buffer_due_at_utc": "2026-07-26T19:51:04.000Z",
+      "buffer_due_at_utc": "2026-07-26T19:53:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a666274351863828cf82d77",
+      "buffer_post_id": "6a6662782df0a0f1fdd78858",
       "caption_file": "output/2026-07-26/apple-is-banking-on-privacy-to-set-its-smart-glasses-apart.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T19:53:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6662782df0a0f1fdd78858",
+          "published_at_utc": "2026-07-26T19:39:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T19:51:04.000Z",
           "buffer_mode": "customScheduled",
@@ -2074,7 +2080,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/apple-is-banking-on-privacy-to-set-its-smart-glasses-apart.png",
       "metadata_file": "output/2026-07-26/apple-is-banking-on-privacy-to-set-its-smart-glasses-apart.json",
-      "published_at_utc": "2026-07-26T19:39:32Z",
+      "published_at_utc": "2026-07-26T19:39:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/apple-s-smart-glasses-delay-reportedly-stems-in-part-from-major-privac.png": {
