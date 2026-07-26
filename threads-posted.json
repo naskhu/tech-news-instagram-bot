@@ -1558,6 +1558,25 @@
       "published_at_utc": "2026-07-26T06:40:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/ai-chatbots-are-quietly-becoming-the-uninvited-third-person-in-people-.png": {
+      "buffer_due_at_utc": "2026-07-26T12:13:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a65f67e12fafbaf49e0199f",
+      "caption_file": "output/2026-07-26/ai-chatbots-are-quietly-becoming-the-uninvited-third-person-in-people-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-26T12:13:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65f67e12fafbaf49e0199f",
+          "published_at_utc": "2026-07-26T11:58:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/ai-chatbots-are-quietly-becoming-the-uninvited-third-person-in-people-.png",
+      "metadata_file": "output/2026-07-26/ai-chatbots-are-quietly-becoming-the-uninvited-third-person-in-people-.json",
+      "published_at_utc": "2026-07-26T11:58:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/eu-s-huawei-purge-could-cost-taxpayers-a-staggering-40-billion-four-ti.png": {
       "buffer_due_at_utc": "2026-07-26T11:05:19.000Z",
       "buffer_mode": "customScheduled",
