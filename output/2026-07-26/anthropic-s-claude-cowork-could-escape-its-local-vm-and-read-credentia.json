@@ -1,0 +1,22 @@
+{
+  "title": "Anthropic’s Claude Cowork could escape its local VM and read credentials on a Mac",
+  "summary": "Researchers showed Claude Cowork could escape its local VM sandbox via a Linux kernel flaw and read files across the host Mac Security researchers at Accomplish AI demonstrated that Anthropic’s Claude Cowork could break out of its local virtual machine sandbox and…",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/claude-cowork-sandbox-escape-mac-files-sharedroot",
+  "published_utc": "2026-07-26T17:06:27+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-26T17:14:46.148358+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-07-26/anthropic-s-claude-cowork-could-escape-its-local-vm-and-read-credentia.png",
+  "caption": "output/2026-07-26/anthropic-s-claude-cowork-could-escape-its-local-vm-and-read-credentia.txt"
+}
