@@ -1259,12 +1259,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/time-for-a-super-sized-raspberry-pi-new-10-1-inch-touch-display-2-give.png": {
-      "buffer_due_at_utc": "2026-07-26T00:17:18.000Z",
+      "buffer_due_at_utc": "2026-07-26T00:19:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a655123351863828cec7f48",
+      "buffer_post_id": "6a65512722bc282b88735377",
       "caption_file": "output/2026-07-25/time-for-a-super-sized-raspberry-pi-new-10-1-inch-touch-display-2-give.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-26T00:19:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a65512722bc282b88735377",
+          "published_at_utc": "2026-07-26T00:13:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-26T00:17:18.000Z",
           "buffer_mode": "customScheduled",
@@ -1274,7 +1280,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/time-for-a-super-sized-raspberry-pi-new-10-1-inch-touch-display-2-give.png",
       "metadata_file": "output/2026-07-25/time-for-a-super-sized-raspberry-pi-new-10-1-inch-touch-display-2-give.json",
-      "published_at_utc": "2026-07-26T00:13:23Z",
+      "published_at_utc": "2026-07-26T00:13:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/today-s-nyt-strands-hints-and-answer-for-saturday-july-25-2026.png": {
