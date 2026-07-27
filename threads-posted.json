@@ -5459,12 +5459,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/verizon-touts-1b-dark-fiber-deal-for-google-data-centers-as-first-of-m.png": {
-      "buffer_due_at_utc": "2026-07-27T23:14:14.000Z",
+      "buffer_due_at_utc": "2026-07-27T23:16:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67da4e92114c83a88e08c3",
+      "buffer_post_id": "6a67da53e2cb6435dcc64517",
       "caption_file": "output/2026-07-27/verizon-touts-1b-dark-fiber-deal-for-google-data-centers-as-first-of-m.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T23:16:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67da53e2cb6435dcc64517",
+          "published_at_utc": "2026-07-27T22:23:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T23:14:14.000Z",
           "buffer_mode": "customScheduled",
@@ -5474,7 +5480,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/verizon-touts-1b-dark-fiber-deal-for-google-data-centers-as-first-of-m.png",
       "metadata_file": "output/2026-07-27/verizon-touts-1b-dark-fiber-deal-for-google-data-centers-as-first-of-m.json",
-      "published_at_utc": "2026-07-27T22:23:11Z",
+      "published_at_utc": "2026-07-27T22:23:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/why-china-is-giving-away-its-best-ai-models.png": {
