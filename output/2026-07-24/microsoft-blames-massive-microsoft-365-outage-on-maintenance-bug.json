@@ -1,0 +1,22 @@
+{
+  "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+  "summary": "Microsoft tracked the Microsoft 365 outage under incident ID MO1437424 and confirmed that multiple Microsoft 365 services were impacted: Other affected services included Fabric and Power BI, Power Apps, Copilot Studio, Windows 365, and Microsoft Defender.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug",
+  "published_utc": "2026-07-24T15:41:44+00:00",
+  "date_source": "rss",
+  "generated_utc": "2026-07-27T08:26:31.092594+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-07-24/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug.png",
+  "caption": "output/2026-07-24/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug.txt"
+}
