@@ -62,12 +62,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/anne-rice-s-vampire-series-is-renewed-as-queen-of-the-damned-for-seaso.png": {
-      "buffer_due_at_utc": "2026-07-27T00:20:35.000Z",
+      "buffer_due_at_utc": "2026-07-27T00:22:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66a2beac3719fcf9fded50",
+      "buffer_post_id": "6a66a2c3351863828cfb0375",
       "caption_file": "output/2026-07-24/anne-rice-s-vampire-series-is-renewed-as-queen-of-the-damned-for-seaso.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T00:22:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66a2c3351863828cfb0375",
+          "published_at_utc": "2026-07-27T00:13:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T00:20:35.000Z",
           "buffer_mode": "customScheduled",
@@ -77,7 +83,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/anne-rice-s-vampire-series-is-renewed-as-queen-of-the-damned-for-seaso.png",
       "metadata_file": "output/2026-07-24/anne-rice-s-vampire-series-is-renewed-as-queen-of-the-damned-for-seaso.json",
-      "published_at_utc": "2026-07-27T00:13:50Z",
+      "published_at_utc": "2026-07-27T00:13:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/anthropic-s-opus-5-is-about-token-efficiency-not-a-capability-leap.png": {
