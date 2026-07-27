@@ -4359,12 +4359,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.png": {
-      "buffer_due_at_utc": "2026-07-27T12:09:17.000Z",
+      "buffer_due_at_utc": "2026-07-27T12:11:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6747c6d7f3f2bdc9b13757",
+      "buffer_post_id": "6a6747cad39815280bb897f9",
       "caption_file": "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T12:11:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6747cad39815280bb897f9",
+          "published_at_utc": "2026-07-27T11:58:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T12:09:17.000Z",
           "buffer_mode": "customScheduled",
@@ -4374,7 +4380,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.png",
       "metadata_file": "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.json",
-      "published_at_utc": "2026-07-27T11:57:58Z",
+      "published_at_utc": "2026-07-27T11:58:03Z",
       "publisher": "buffer_threads"
     }
   }
