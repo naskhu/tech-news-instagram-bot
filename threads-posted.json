@@ -4884,12 +4884,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/snapchat-now-lets-you-share-what-you-re-listening-to-in-real-time-tech.png": {
-      "buffer_due_at_utc": "2026-07-27T19:28:47.000Z",
+      "buffer_due_at_utc": "2026-07-27T19:30:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67a82e92114c83a88b7acb",
+      "buffer_post_id": "6a67a8324229805eb70caab5",
       "caption_file": "output/2026-07-27/snapchat-now-lets-you-share-what-you-re-listening-to-in-real-time-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T19:30:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67a8324229805eb70caab5",
+          "published_at_utc": "2026-07-27T18:49:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T19:28:47.000Z",
           "buffer_mode": "customScheduled",
@@ -4899,7 +4905,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/snapchat-now-lets-you-share-what-you-re-listening-to-in-real-time-tech.png",
       "metadata_file": "output/2026-07-27/snapchat-now-lets-you-share-what-you-re-listening-to-in-real-time-tech.json",
-      "published_at_utc": "2026-07-27T18:49:18Z",
+      "published_at_utc": "2026-07-27T18:49:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.png": {
