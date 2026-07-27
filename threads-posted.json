@@ -4609,12 +4609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/framework-laptop-13-pro-review-much-better-battery-much-worse-price.png": {
-      "buffer_due_at_utc": "2026-07-28T00:05:40.000Z",
+      "buffer_due_at_utc": "2026-07-28T00:07:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67eaa6ae149d82603150f3",
+      "buffer_post_id": "6a67eaab3b7bd016b40d7b3c",
       "caption_file": "output/2026-07-27/framework-laptop-13-pro-review-much-better-battery-much-worse-price.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T00:07:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67eaab3b7bd016b40d7b3c",
+          "published_at_utc": "2026-07-27T23:32:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T00:05:40.000Z",
           "buffer_mode": "customScheduled",
@@ -4624,7 +4630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/framework-laptop-13-pro-review-much-better-battery-much-worse-price.png",
       "metadata_file": "output/2026-07-27/framework-laptop-13-pro-review-much-better-battery-much-worse-price.json",
-      "published_at_utc": "2026-07-27T23:32:54Z",
+      "published_at_utc": "2026-07-27T23:32:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/google-and-reddit-do-not-own-the-internet-web-scraper-says-after-court.png": {
