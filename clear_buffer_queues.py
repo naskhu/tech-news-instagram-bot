@@ -23,6 +23,13 @@ import requests
 
 BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 DEFAULT_CLEAR_STATUSES = ("buffer", "error", "draft")
+# Known org for this project; used when account discovery is unavailable.
+DEFAULT_ORGANIZATION_ID = "6a61ca7301d13814db599d28"
+
+
+class RateLimitReached(RuntimeError):
+    """Buffer API rate limit was hit; retry after the window resets."""
+
 
 DELETE_MUTATION = """
 mutation DeletePost($input: DeletePostInput!) {
@@ -82,9 +89,15 @@ def graphql(token: str, query: str, variables: dict[str, Any] | None = None) -> 
             f"Buffer API non-JSON HTTP {response.status_code}: {response.text[:300]}"
         ) from exc
     if not response.ok:
-        raise RuntimeError(f"Buffer API HTTP {response.status_code}: {json.dumps(payload)[:2000]}")
+        body = json.dumps(payload)[:2000]
+        if response.status_code == 429 or "rate_limit" in body.lower() or "too many requests" in body.lower():
+            raise RateLimitReached(body)
+        raise RuntimeError(f"Buffer API HTTP {response.status_code}: {body}")
     if payload.get("errors"):
-        raise RuntimeError(f"Buffer GraphQL errors: {json.dumps(payload['errors'])[:2000]}")
+        body = json.dumps(payload["errors"])[:2000]
+        if "rate_limit" in body.lower() or "too many requests" in body.lower():
+            raise RateLimitReached(body)
+        raise RuntimeError(f"Buffer GraphQL errors: {body}")
     return payload.get("data") or {}
 
 
@@ -143,6 +156,9 @@ def discover_org_id(token: str, channel_ids: list[str] | None = None) -> str:
             orgs = data["organizations"]
         if orgs and isinstance(orgs[0], dict) and orgs[0].get("id"):
             return str(orgs[0]["id"])
+    if DEFAULT_ORGANIZATION_ID:
+        print(f"Falling back to default organization id {DEFAULT_ORGANIZATION_ID}")
+        return DEFAULT_ORGANIZATION_ID
     raise RuntimeError("Could not discover BUFFER_ORGANIZATION_ID")
 
 
@@ -215,41 +231,54 @@ def main() -> int:
         print("Set BUFFER_ACCESS_TOKEN first.", file=sys.stderr)
         return 1
 
-    channel_ids = parse_channel_ids()
-    statuses = parse_statuses()
-    org_id = discover_org_id(token, channel_ids)
-    print(f"Organization: {org_id}")
-    print(f"Statuses to clear: {', '.join(statuses)}")
-    if channel_ids:
-        print(f"Channels: {', '.join(channel_ids)}")
-    else:
-        print("Channels: all organization channels")
+    try:
+        channel_ids = parse_channel_ids()
+        statuses = parse_statuses()
+        org_id = discover_org_id(token, channel_ids)
+        print(f"Organization: {org_id}")
+        print(f"Statuses to clear: {', '.join(statuses)}")
+        if channel_ids:
+            print(f"Channels: {', '.join(channel_ids)}")
+        else:
+            print("Channels: all organization channels")
 
-    posts = list_queue_posts(token, org_id, statuses, channel_ids)
-    print(f"Found {len(posts)} queued post(s) to delete.")
-    if not posts:
+        posts = list_queue_posts(token, org_id, statuses, channel_ids)
+        print(f"Found {len(posts)} queued post(s) to delete.")
+        if not posts:
+            return 0
+
+        deleted = 0
+        failed = 0
+        for index, post in enumerate(posts, start=1):
+            post_id = str(post["id"])
+            channel = post.get("channel") or {}
+            label = channel.get("displayName") or channel.get("name") or channel.get("id") or "?"
+            status = post.get("status")
+            preview = " ".join(str(post.get("text") or "").split())[:80]
+            try:
+                delete_post(token, post_id)
+                deleted += 1
+                print(
+                    f"[{index}/{len(posts)}] deleted {post_id} "
+                    f"status={status} channel={label!r} {preview!r}"
+                )
+            except RateLimitReached:
+                raise
+            except RuntimeError as exc:
+                failed += 1
+                print(f"[{index}/{len(posts)}] FAILED {post_id}: {exc}", file=sys.stderr)
+            if index < len(posts):
+                time.sleep(0.25)
+
+        print(f"Done. deleted={deleted} failed={failed}")
+        return 1 if failed else 0
+    except RateLimitReached as exc:
+        print(
+            f"Buffer rate limit reached: {exc}. "
+            "Retry after the API window resets (often ~24h).",
+            file=sys.stderr,
+        )
         return 0
-
-    deleted = 0
-    failed = 0
-    for index, post in enumerate(posts, start=1):
-        post_id = str(post["id"])
-        channel = post.get("channel") or {}
-        label = channel.get("displayName") or channel.get("name") or channel.get("id") or "?"
-        status = post.get("status")
-        preview = " ".join(str(post.get("text") or "").split())[:80]
-        try:
-            delete_post(token, post_id)
-            deleted += 1
-            print(f"[{index}/{len(posts)}] deleted {post_id} status={status} channel={label!r} {preview!r}")
-        except RuntimeError as exc:
-            failed += 1
-            print(f"[{index}/{len(posts)}] FAILED {post_id}: {exc}", file=sys.stderr)
-        if index < len(posts):
-            time.sleep(0.25)
-
-    print(f"Done. deleted={deleted} failed={failed}")
-    return 1 if failed else 0
 
 
 if __name__ == "__main__":

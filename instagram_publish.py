@@ -57,6 +57,10 @@ class DailyLimitReached(RuntimeError):
     """Instagram/Buffer daily scheduling limit was hit; retry later."""
 
 
+class RateLimitReached(RuntimeError):
+    """Buffer API rate limit was hit; retry after the window resets."""
+
+
 def required_env(name: str) -> str:
     value = os.getenv(name, "").strip()
     if not value:
@@ -165,6 +169,16 @@ def is_daily_limit_error(message: object) -> bool:
     )
 
 
+def is_rate_limit_error(message: object) -> bool:
+    text = str(message or "").lower()
+    return (
+        "rate_limit_exceeded" in text
+        or "too many requests" in text
+        or '"code": "rate_limit' in text
+        or "http 429" in text
+    )
+
+
 def buffer_graphql(access_token: str, query: str, variables: dict[str, Any] | None = None) -> dict[str, Any]:
     response = requests.post(
         BUFFER_API_URL,
@@ -186,11 +200,15 @@ def buffer_graphql(access_token: str, query: str, variables: dict[str, Any] | No
         body = json.dumps(payload)
         if is_daily_limit_error(body):
             raise DailyLimitReached(body)
+        if response.status_code == 429 or is_rate_limit_error(body):
+            raise RateLimitReached(body)
         raise RuntimeError(f"Buffer API HTTP {response.status_code}: {body}")
     if payload.get("errors"):
         body = json.dumps(payload["errors"])
         if is_daily_limit_error(body):
             raise DailyLimitReached(body)
+        if is_rate_limit_error(body):
+            raise RateLimitReached(body)
         raise RuntimeError(f"Buffer GraphQL errors: {body}")
     return payload
 
@@ -288,6 +306,8 @@ def publish_post(
         message = result.get("message") or result
         if is_daily_limit_error(message):
             raise DailyLimitReached(str(message))
+        if is_rate_limit_error(message):
+            raise RateLimitReached(str(message))
         raise RuntimeError(f"Buffer rejected post: {message}")
     if typename != "PostActionSuccess" or not result.get("post", {}).get("id"):
         raise RuntimeError(f"Unexpected Buffer createPost response: {json.dumps(result)}")
@@ -457,6 +477,13 @@ def drain_queue(access_token: str, channel_id: str) -> int:
                 f"Leaving {leftover} queued for later automatic runs."
             )
             return published
+        except RateLimitReached as exc:
+            leftover = len(list_unpublished(load_state()))
+            print(
+                f"Buffer rate limit hit after {published} post(s): {exc}. "
+                f"Leaving {leftover} queued for later automatic runs."
+            )
+            return published
 
         if is_successful_buffer_status(status):
             published += 1
@@ -509,6 +536,13 @@ def publish_batch(access_token: str, channel_id: str) -> int:
                 f"Leaving {leftover} queued for later automatic runs."
             )
             return published
+        except RateLimitReached as exc:
+            leftover = len(list_unpublished(load_state()))
+            print(
+                f"Buffer rate limit hit after {published} post(s): {exc}. "
+                f"Leaving {leftover} queued for later automatic runs."
+            )
+            return published
         if is_successful_buffer_status(status):
             published += 1
     return published
@@ -535,6 +569,13 @@ if __name__ == "__main__":
         print(
             f"Instagram daily limit reached: {exc}. "
             "Queued posts will retry on later automatic runs.",
+            file=sys.stderr,
+        )
+        raise SystemExit(0)
+    except RateLimitReached as exc:
+        print(
+            f"Buffer rate limit reached: {exc}. "
+            "Queued posts will retry after the API window resets.",
             file=sys.stderr,
         )
         raise SystemExit(0)
