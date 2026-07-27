@@ -1911,12 +1911,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/samsung-s-galaxy-z-flip-8-gets-the-cover-screen-right-for-a-price-cnet.png": {
-      "buffer_due_at_utc": "2026-07-27T00:14:36.000Z",
+      "buffer_due_at_utc": "2026-07-27T00:16:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66a21079ae388ebdafe72e",
+      "buffer_post_id": "6a66a215351863828cfafedb",
       "caption_file": "output/2026-07-25/samsung-s-galaxy-z-flip-8-gets-the-cover-screen-right-for-a-price-cnet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T00:16:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66a215351863828cfafedb",
+          "published_at_utc": "2026-07-27T00:11:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T00:14:36.000Z",
           "buffer_mode": "customScheduled",
@@ -1926,7 +1932,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/samsung-s-galaxy-z-flip-8-gets-the-cover-screen-right-for-a-price-cnet.png",
       "metadata_file": "output/2026-07-25/samsung-s-galaxy-z-flip-8-gets-the-cover-screen-right-for-a-price-cnet.json",
-      "published_at_utc": "2026-07-27T00:10:56Z",
+      "published_at_utc": "2026-07-27T00:11:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/samsung-signs-a-200-billion-chip-deal-with-broadcom-covering-memory-fo.png": {
