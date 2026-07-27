@@ -517,12 +517,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/nyc-mayor-takes-aim-at-ai-slop-housefishing-in-real-estate-listings-cn.png": {
-      "buffer_due_at_utc": "2026-07-27T04:13:48.000Z",
+      "buffer_due_at_utc": "2026-07-27T04:15:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66da8bac3719fcf9003bd6",
+      "buffer_post_id": "6a66da8f79ae388ebdb20809",
       "caption_file": "output/2026-07-24/nyc-mayor-takes-aim-at-ai-slop-housefishing-in-real-estate-listings-cn.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T04:15:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66da8f79ae388ebdb20809",
+          "published_at_utc": "2026-07-27T04:11:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T04:13:48.000Z",
           "buffer_mode": "customScheduled",
@@ -532,7 +538,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/nyc-mayor-takes-aim-at-ai-slop-housefishing-in-real-estate-listings-cn.png",
       "metadata_file": "output/2026-07-24/nyc-mayor-takes-aim-at-ai-slop-housefishing-in-real-estate-listings-cn.json",
-      "published_at_utc": "2026-07-27T04:11:55Z",
+      "published_at_utc": "2026-07-27T04:11:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/nyt-connections-hints-and-answers-for-saturday-july-25-game-1140.png": {
