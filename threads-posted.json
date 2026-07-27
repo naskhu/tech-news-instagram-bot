@@ -3183,6 +3183,25 @@
       "published_at_utc": "2026-07-26T20:36:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.png": {
+      "buffer_due_at_utc": "2026-07-27T08:03:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a670de7d409808b35dfebf8",
+      "caption_file": "output/2026-07-26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T08:03:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a670de7d409808b35dfebf8",
+          "published_at_utc": "2026-07-27T07:51:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.png",
+      "metadata_file": "output/2026-07-26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.json",
+      "published_at_utc": "2026-07-27T07:51:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-26/how-google-is-using-wall-street-financing-techniques-to-expand-chip-sa.png": {
       "buffer_due_at_utc": "2026-07-26T15:33:21.000Z",
       "buffer_mode": "customScheduled",
