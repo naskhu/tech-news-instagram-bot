@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish to Threads (use all to drain under 250/24h)
+        description: Maximum unpublished posts to publish to Threads (all = drain under 250/24h into next hour)
         required: false
-        default: "4"
+        default: "all"
   schedule:
-    # Every 20 minutes (offset from Generate): enqueue Threads posts via Buffer.
-    # Cap 250 / rolling 24h (Buffer Threads hard limit).
+    # Every 20 minutes (offset from Generate): enqueue leftover Threads posts via Buffer.
+    # Cap 250 / rolling 24h (Buffer Threads hard limit). Random dueAt within 1 hour.
     - cron: "10,30,50 * * * *"
 
 permissions:
@@ -51,12 +51,12 @@ jobs:
         id: plan
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-          MANUAL_MAX_POSTS: ${{ inputs.max_posts || '4' }}
+          MANUAL_MAX_POSTS: ${{ inputs.max_posts || 'all' }}
           # Needed so pending count knows about dual-channel fan-out.
           BUFFER_THREADS_CHANNEL_ID: ${{ secrets.BUFFER_THREADS_CHANNEL_ID }}
           THREADS_DAILY_LIMIT: "250"
-          THREADS_MAX_PER_SCHEDULE_TICK: "4"
-          THREADS_MAX_PER_GENERATE_TICK: "4"
+          THREADS_MAX_PER_SCHEDULE_TICK: "250"
+          THREADS_MAX_PER_GENERATE_TICK: "250"
         run: python3 choose_threads_publish_plan.py
 
       - name: Require Buffer Threads secrets
@@ -98,8 +98,9 @@ jobs:
           GITHUB_REF_NAME: main
           THREADS_DAILY_LIMIT: "250"
           THREADS_TOPIC: TechNews
-          THREADS_SCHEDULE_WINDOW_SECONDS: "1200"
-          # Primary release: news.world.tech, then naskhu a couple minutes later.
+          # Random Buffer dueAt within the next hour for the full batch.
+          THREADS_SCHEDULE_WINDOW_SECONDS: "3600"
+          # Primary release: news.world.tech, then naskhu ~2 minutes later.
           BUFFER_THREADS_PRIMARY_CHANNEL_ID: "6a64c576e2638b94d7d25d01"
           THREADS_SECONDARY_DELAY_SECONDS: "120"
         run: |

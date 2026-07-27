@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Decide Buffer Threads publish plan (rolling 250 / 24h cap)."""
+"""Decide Buffer Threads publish plan (rolling 250 / 24h cap).
+
+After Generate (and on schedule backups), enqueue all pending posts so Buffer
+can release them at random times within the next hour.
+"""
 
 from __future__ import annotations
 
@@ -18,9 +22,9 @@ from threads_limits import (
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
-# Gentle ticks via Buffer custom schedule (≈250 cap / 24h).
-MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "4")))
-MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "4")))
+# Safety ceiling only; normal runs drain all pending under the 24h quota.
+MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "250")))
+MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "250")))
 
 
 def load_state() -> dict:
@@ -93,21 +97,22 @@ def main() -> int:
             0,
         )
 
+    # After Generate: schedule every pending story randomly inside the next hour.
     if event_name == "workflow_run":
         max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
             mode="batch",
             max_posts=max_posts,
-            # Buffer customScheduled handles timing; Actions just enqueues quickly.
             drain_seconds=0,
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="after_generate_threads_cap",
+            reason="after_generate_drain_all_1h",
         )
         return 0
 
+    # Backup schedule: keep draining leftovers under the rolling cap.
     if event_name == "schedule":
         max_posts = min(pending, quota_left, MAX_PER_SCHEDULE_TICK)
         write_output(
@@ -118,12 +123,12 @@ def main() -> int:
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="schedule_threads_cap",
+            reason="schedule_drain_all_1h",
         )
         return 0
 
-    if manual_max.lower() == "all":
-        max_posts = min(pending, quota_left)
+    if manual_max.lower() == "all" or manual_max == "":
+        max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
             mode="batch",
@@ -132,7 +137,7 @@ def main() -> int:
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="manual_drain_up_to_threads_cap",
+            reason="manual_drain_all_1h",
         )
         return 0
 
