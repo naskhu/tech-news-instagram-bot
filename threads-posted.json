@@ -87,12 +87,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/anthropic-releases-claude-opus-5-to-be-your-new-everyday-assistant.png": {
-      "buffer_due_at_utc": "2026-07-27T01:25:16.000Z",
+      "buffer_due_at_utc": "2026-07-27T01:27:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66b197ecad4329a9194420",
+      "buffer_post_id": "6a66b19c7d8129a61912d743",
       "caption_file": "output/2026-07-24/anthropic-releases-claude-opus-5-to-be-your-new-everyday-assistant.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T01:27:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66b19c7d8129a61912d743",
+          "published_at_utc": "2026-07-27T01:17:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T01:25:16.000Z",
           "buffer_mode": "customScheduled",
@@ -102,7 +108,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/anthropic-releases-claude-opus-5-to-be-your-new-everyday-assistant.png",
       "metadata_file": "output/2026-07-24/anthropic-releases-claude-opus-5-to-be-your-new-everyday-assistant.json",
-      "published_at_utc": "2026-07-27T01:17:11Z",
+      "published_at_utc": "2026-07-27T01:17:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/anthropic-s-opus-5-is-about-token-efficiency-not-a-capability-leap.png": {
