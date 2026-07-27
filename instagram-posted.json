@@ -1133,6 +1133,17 @@
       "published_at_utc": "2026-07-27T05:13:19Z",
       "publisher": "buffer"
     },
+    "output/2026-07-24/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug.png": {
+      "buffer_post_id": "6a6719efd04f1e3b8fe8fb32",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-24/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug.png",
+      "metadata_file": "output/2026-07-24/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T08:42:30Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.png": {
       "buffer_post_id": "6a66eb487d8129a619153b20",
       "buffer_status": "error",
