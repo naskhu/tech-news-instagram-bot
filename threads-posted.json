@@ -4159,12 +4159,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/amazon-s-trying-to-launch-a-global-satellite-cellphone-network-in-2028.png": {
-      "buffer_due_at_utc": "2026-07-27T18:14:44.000Z",
+      "buffer_due_at_utc": "2026-07-27T18:16:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a679f8eeab91150491494a1",
+      "buffer_post_id": "6a679f93752a6180e4687bd0",
       "caption_file": "output/2026-07-27/amazon-s-trying-to-launch-a-global-satellite-cellphone-network-in-2028.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T18:16:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a679f93752a6180e4687bd0",
+          "published_at_utc": "2026-07-27T18:12:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T18:14:44.000Z",
           "buffer_mode": "customScheduled",
@@ -4174,7 +4180,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/amazon-s-trying-to-launch-a-global-satellite-cellphone-network-in-2028.png",
       "metadata_file": "output/2026-07-27/amazon-s-trying-to-launch-a-global-satellite-cellphone-network-in-2028.json",
-      "published_at_utc": "2026-07-27T18:12:30Z",
+      "published_at_utc": "2026-07-27T18:12:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/amazon-wants-to-launch-5-105-new-direct-to-device-satellites.png": {
