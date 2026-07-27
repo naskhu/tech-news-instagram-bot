@@ -4734,12 +4734,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/nvidia-microsoft-launch-open-ai-security-alliance-without-openai-googl.png": {
-      "buffer_due_at_utc": "2026-07-27T18:26:21.000Z",
+      "buffer_due_at_utc": "2026-07-27T19:08:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67a00d8114fe4b0de259a9",
+      "buffer_post_id": "6a67a8034229805eb70ca920",
       "caption_file": "output/2026-07-27/nvidia-microsoft-launch-open-ai-security-alliance-without-openai-googl.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T19:08:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67a8034229805eb70ca920",
+          "published_at_utc": "2026-07-27T18:48:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T18:26:21.000Z",
           "buffer_mode": "customScheduled",
@@ -4749,7 +4755,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/nvidia-microsoft-launch-open-ai-security-alliance-without-openai-googl.png",
       "metadata_file": "output/2026-07-27/nvidia-microsoft-launch-open-ai-security-alliance-without-openai-googl.json",
-      "published_at_utc": "2026-07-27T18:14:37Z",
+      "published_at_utc": "2026-07-27T18:48:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/playstation-users-are-going-dark-to-protest-sony-ditching-discs.png": {
