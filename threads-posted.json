@@ -4834,12 +4834,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/samsung-s-27-inch-qd-oled-gaming-monitor-is-priced-right-at-299-99.png": {
-      "buffer_due_at_utc": "2026-07-27T19:12:30.000Z",
+      "buffer_due_at_utc": "2026-07-27T19:14:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67a81b4229805eb70ca98a",
+      "buffer_post_id": "6a67a81f92114c83a88b7a67",
       "caption_file": "output/2026-07-27/samsung-s-27-inch-qd-oled-gaming-monitor-is-priced-right-at-299-99.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T19:14:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67a81f92114c83a88b7a67",
+          "published_at_utc": "2026-07-27T18:49:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T19:12:30.000Z",
           "buffer_mode": "customScheduled",
@@ -4849,7 +4855,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/samsung-s-27-inch-qd-oled-gaming-monitor-is-priced-right-at-299-99.png",
       "metadata_file": "output/2026-07-27/samsung-s-27-inch-qd-oled-gaming-monitor-is-priced-right-at-299-99.json",
-      "published_at_utc": "2026-07-27T18:48:59Z",
+      "published_at_utc": "2026-07-27T18:49:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.png": {
