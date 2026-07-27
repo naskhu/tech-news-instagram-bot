@@ -1,0 +1,22 @@
+{
+  "title": "OpenAI confirms ChatGPT is down worldwide",
+  "summary": "ChatGPT is experiencing a major outage, and users are unable to load chats, including previous conversations. The outage also affects the OpenAI API, with as many as 12 API endpoints listed as having issues on the company's status page.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide",
+  "published_utc": "2026-07-25T09:31:09+00:00",
+  "date_source": "rss",
+  "generated_utc": "2026-07-27T07:49:41.565838+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2022/11/30/Red_robot.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-07-25/openai-confirms-chatgpt-is-down-worldwide.png",
+  "caption": "output/2026-07-25/openai-confirms-chatgpt-is-down-worldwide.txt"
+}
