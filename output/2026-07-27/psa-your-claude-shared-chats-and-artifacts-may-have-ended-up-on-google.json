@@ -1,0 +1,22 @@
+{
+  "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google | TechCrunch",
+  "summary": "An untold number of Claude chats and Artifacts — the interactive mini apps and documents users can build inside Claude — were found publicly searchable on Google over the weekend, after Reddit users discovered that typing search operators like “site:claude.ai/share” into Google…",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
+  "published_utc": "2026-07-27T20:19:42+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-27T20:43:00.661308+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/facepalm-statue.jpg?resize=1200,688",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-07-27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google.png",
+  "caption": "output/2026-07-27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google.txt"
+}
