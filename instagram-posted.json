@@ -2342,6 +2342,17 @@
       "metadata_file": "output/2026-07-27/an-xbox-outage-has-been-preventing-some-games-from-launching-since-las.json",
       "published_at_utc": "2026-07-27T18:39:58Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military-tec.png": {
+      "buffer_post_id": "6a67a7e6e2cb6435dcc3dff0",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military-tec.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military-tec.png",
+      "metadata_file": "output/2026-07-27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military-tec.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T18:48:15Z",
+      "publisher": "buffer"
     }
   }
 }
