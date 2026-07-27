@@ -4234,12 +4234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/google-is-working-on-a-live-translation-widget.png": {
-      "buffer_due_at_utc": "2026-07-27T11:49:30.000Z",
+      "buffer_due_at_utc": "2026-07-27T11:51:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67436ef4ca3c14266bdb34",
+      "buffer_post_id": "6a674373c6f632666652e5f4",
       "caption_file": "output/2026-07-27/google-is-working-on-a-live-translation-widget.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T11:51:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a674373c6f632666652e5f4",
+          "published_at_utc": "2026-07-27T11:39:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T11:49:30.000Z",
           "buffer_mode": "customScheduled",
@@ -4249,7 +4255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/google-is-working-on-a-live-translation-widget.png",
       "metadata_file": "output/2026-07-27/google-is-working-on-a-live-translation-widget.json",
-      "published_at_utc": "2026-07-27T11:39:26Z",
+      "published_at_utc": "2026-07-27T11:39:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/here-comes-the-chinese-ram.png": {
