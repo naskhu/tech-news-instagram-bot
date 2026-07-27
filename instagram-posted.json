@@ -2258,6 +2258,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-27T12:57:44Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-26/why-businesses-are-bracing-for-more-economic-volatility-in-2026.png": {
+      "buffer_post_id": "6a6756b4a3713b34b2f1c72a",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-26/why-businesses-are-bracing-for-more-economic-volatility-in-2026.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/why-businesses-are-bracing-for-more-economic-volatility-in-2026.png",
+      "metadata_file": "output/2026-07-26/why-businesses-are-bracing-for-more-economic-volatility-in-2026.json",
+      "published_at_utc": "2026-07-27T13:01:50Z",
+      "publisher": "buffer"
     }
   }
 }
