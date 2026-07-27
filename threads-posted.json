@@ -343,12 +343,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/facebook-has-a-new-marketplace-app-and-verification-checks-for-everyon.png": {
-      "buffer_due_at_utc": "2026-07-27T04:10:06.000Z",
+      "buffer_due_at_utc": "2026-07-27T04:12:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66d87f7d8129a6191463ff",
+      "buffer_post_id": "6a66d88479ae388ebdb1f4e1",
       "caption_file": "output/2026-07-24/facebook-has-a-new-marketplace-app-and-verification-checks-for-everyon.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T04:12:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66d88479ae388ebdb1f4e1",
+          "published_at_utc": "2026-07-27T04:03:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T04:10:06.000Z",
           "buffer_mode": "customScheduled",
@@ -358,7 +364,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/facebook-has-a-new-marketplace-app-and-verification-checks-for-everyon.png",
       "metadata_file": "output/2026-07-24/facebook-has-a-new-marketplace-app-and-verification-checks-for-everyon.json",
-      "published_at_utc": "2026-07-27T04:03:12Z",
+      "published_at_utc": "2026-07-27T04:03:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/i-wanted-great-filter-coffee-and-espresso-without-buying-two-appliance.png": {
