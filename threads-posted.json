@@ -4234,12 +4234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the.png": {
-      "buffer_due_at_utc": "2026-07-27T14:28:56.000Z",
+      "buffer_due_at_utc": "2026-07-27T14:30:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67696836f7f546b18500a6",
+      "buffer_post_id": "6a67696ededcb29b490860a6",
       "caption_file": "output/2026-07-27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T14:30:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67696ededcb29b490860a6",
+          "published_at_utc": "2026-07-27T14:21:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T14:28:56.000Z",
           "buffer_mode": "customScheduled",
@@ -4249,7 +4255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the.png",
       "metadata_file": "output/2026-07-27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the.json",
-      "published_at_utc": "2026-07-27T14:21:29Z",
+      "published_at_utc": "2026-07-27T14:21:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/europe-got-its-own-tbpn-style-live-show-and-everyone-s-angling-for-a-g.png": {
