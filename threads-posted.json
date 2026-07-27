@@ -417,6 +417,25 @@
       "published_at_utc": "2026-07-27T08:27:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry.png": {
+      "buffer_due_at_utc": "2026-07-27T08:33:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67166ed04f1e3b8fe8c763",
+      "caption_file": "output/2026-07-24/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T08:33:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67166ed04f1e3b8fe8c763",
+          "published_at_utc": "2026-07-27T08:27:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry.png",
+      "metadata_file": "output/2026-07-24/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry.json",
+      "published_at_utc": "2026-07-27T08:27:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/i-wanted-great-filter-coffee-and-espresso-without-buying-two-appliance.png": {
       "buffer_post_id": "6a6446a19d853f398780b648",
       "caption_file": "output/2026-07-24/i-wanted-great-filter-coffee-and-espresso-without-buying-two-appliance.txt",
