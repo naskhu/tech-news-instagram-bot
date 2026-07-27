@@ -5134,12 +5134,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/xbox-s-huge-outage-even-blocked-games-on-disc.png": {
-      "buffer_due_at_utc": "2026-07-27T20:50:41.000Z",
+      "buffer_due_at_utc": "2026-07-27T20:52:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67b8ff92114c83a88c52dc",
+      "buffer_post_id": "6a67b905e2cb6435dcc4b622",
       "caption_file": "output/2026-07-27/xbox-s-huge-outage-even-blocked-games-on-disc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T20:52:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67b905e2cb6435dcc4b622",
+          "published_at_utc": "2026-07-27T20:01:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T20:50:41.000Z",
           "buffer_mode": "customScheduled",
@@ -5149,7 +5155,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/xbox-s-huge-outage-even-blocked-games-on-disc.png",
       "metadata_file": "output/2026-07-27/xbox-s-huge-outage-even-blocked-games-on-disc.json",
-      "published_at_utc": "2026-07-27T20:01:03Z",
+      "published_at_utc": "2026-07-27T20:01:10Z",
       "publisher": "buffer_threads"
     }
   }
