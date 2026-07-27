@@ -2194,6 +2194,17 @@
       "published_at_utc": "2026-07-27T12:42:22Z",
       "publisher": "buffer"
     },
+    "output/2026-07-26/the-vertical-video-takeover-is-here.png": {
+      "buffer_post_id": "6a6753d778b372bff4648c6c",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-26/the-vertical-video-takeover-is-here.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/the-vertical-video-takeover-is-here.png",
+      "metadata_file": "output/2026-07-26/the-vertical-video-takeover-is-here.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T12:49:35Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-26/this-is-one-of-the-most-interesting-and-comfortable-gaming-keyboards-i.png": {
       "buffer_post_id": "6a664759351863828cf7138e",
       "buffer_status": "error",
