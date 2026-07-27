@@ -1129,6 +1129,25 @@
       "published_at_utc": "2026-07-26T18:14:10Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/venturebeat-research-where-enterprise-ai-agent-governance-hasn-t-caugh.png": {
+      "buffer_due_at_utc": "2026-07-27T05:03:34.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a66e504ac3719fcf9008b48",
+      "caption_file": "output/2026-07-24/venturebeat-research-where-enterprise-ai-agent-governance-hasn-t-caugh.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T05:03:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66e504ac3719fcf9008b48",
+          "published_at_utc": "2026-07-27T04:56:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/venturebeat-research-where-enterprise-ai-agent-governance-hasn-t-caugh.png",
+      "metadata_file": "output/2026-07-24/venturebeat-research-where-enterprise-ai-agent-governance-hasn-t-caugh.json",
+      "published_at_utc": "2026-07-27T04:56:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/vietnam-is-looking-to-restrict-social-media-for-kids-here-s-a-look-at-.png": {
       "buffer_post_id": "6a63ebce351863828cde5c84",
       "caption_file": "output/2026-07-24/vietnam-is-looking-to-restrict-social-media-for-kids-here-s-a-look-at-.txt",
