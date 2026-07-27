@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import json
 import os
-import random
 import re
 import subprocess
 import sys
@@ -42,13 +41,15 @@ BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 THREADS_TOPIC = os.getenv("THREADS_TOPIC", "TechNews").strip() or "TechNews"
 # Threads hard limit is 500 characters per message.
 THREADS_MAX_CHARS = max(80, min(500, int(os.getenv("THREADS_MAX_CHARS", "500"))))
-# Spread Buffer customScheduled times randomly across this window (default 20 minutes).
+# Spread Buffer customScheduled times in FIFO order across this window (default 20 minutes).
 SCHEDULE_WINDOW_SECONDS = max(120, min(1800, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "1200"))))
 SCHEDULE_MIN_OFFSET_SECONDS = max(20, int(os.getenv("THREADS_SCHEDULE_MIN_OFFSET_SECONDS", "45")))
 # Delay secondary profiles (e.g. naskhu) after primary (news.world.tech) dueAt.
 SECONDARY_DELAY_SECONDS = max(0, min(600, int(os.getenv("THREADS_SECONDARY_DELAY_SECONDS", "120"))))
 # Small pause between Buffer API create calls (scheduling is handled by dueAt).
 API_GAP_SECONDS = max(1, int(os.getenv("THREADS_API_GAP_SECONDS", "3")))
+# Minimum gap between consecutive FIFO dueAt slots.
+SCHEDULE_GAP_SECONDS = max(15, int(os.getenv("THREADS_SCHEDULE_GAP_SECONDS", "60")))
 
 CREATE_POST_MUTATION = """
 mutation CreatePost($input: CreatePostInput!) {
@@ -108,7 +109,12 @@ def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | Non
     needed = parse_channel_ids()
     candidates: list[tuple[Path, Path, Path | None]] = []
 
-    for image in sorted(OUTPUT_DIR.glob("**/*.png")):
+    # Oldest generated files first so Buffer scheduling stays FIFO.
+    images = sorted(
+        OUTPUT_DIR.glob("**/*.png"),
+        key=lambda path: (path.stat().st_mtime, path.as_posix()),
+    )
+    for image in images:
         relative = image.as_posix()
         existing = posted.get(relative)
         if not needs_publish(existing, needed):
@@ -288,7 +294,7 @@ def buffer_graphql(
 
 
 def allocate_due_ats(count: int) -> list[str]:
-    """Pick unique random UTC dueAt times inside the next schedule window."""
+    """Assign sequential UTC dueAt times (FIFO) inside the next schedule window."""
     if count <= 0:
         return []
     now = datetime.now(timezone.utc)
@@ -296,11 +302,22 @@ def allocate_due_ats(count: int) -> list[str]:
     # Leave room for secondary-channel delay after the primary dueAt.
     usable_window = max(lo + 1, SCHEDULE_WINDOW_SECONDS - SECONDARY_DELAY_SECONDS - 30)
     hi = max(lo + 1, usable_window)
-    span = hi - lo + 1
-    if span >= count:
-        offsets = sorted(random.sample(range(lo, hi + 1), count))
+
+    if count == 1:
+        offsets = [lo]
     else:
-        offsets = sorted(random.randint(lo, hi) for _ in range(count))
+        # Prefer fixed gap; compress evenly if the batch won't fit in the window.
+        max_gap = max(1, (hi - lo) // (count - 1))
+        gap = min(SCHEDULE_GAP_SECONDS, max_gap)
+        offsets = [lo + (i * gap) for i in range(count)]
+        # Keep everything inside the usable window.
+        overflow = offsets[-1] - hi
+        if overflow > 0:
+            offsets = [max(lo, offset - overflow) for offset in offsets]
+            for i in range(1, len(offsets)):
+                if offsets[i] <= offsets[i - 1]:
+                    offsets[i] = min(hi, offsets[i - 1] + 1)
+
     return [
         (now + timedelta(seconds=offset)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
         for offset in offsets
@@ -583,7 +600,7 @@ def publish_one(
 
 
 def publish_batch(access_token: str, channel_ids: list[str]) -> int:
-    """Enqueue up to MAX_POSTS into Buffer with random dueAt times in the next window."""
+    """Enqueue up to MAX_POSTS into Buffer with FIFO dueAt times in the next window."""
     published = 0
     skipped_missing = 0
     target = MAX_POSTS
@@ -591,8 +608,9 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
     channels_label = ", ".join(channel_ids)
     print(
         f"Scheduling up to {target} Threads post(s); primary-first channel(s) "
-        f"[{channels_label}] randomly within {SCHEDULE_WINDOW_SECONDS}s "
-        f"(secondary +{SECONDARY_DELAY_SECONDS}s) via Buffer customScheduled."
+        f"[{channels_label}] FIFO within {SCHEDULE_WINDOW_SECONDS}s "
+        f"(gap>={SCHEDULE_GAP_SECONDS}s, secondary +{SECONDARY_DELAY_SECONDS}s) "
+        "via Buffer customScheduled."
     )
 
     while published < target:
@@ -640,7 +658,7 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
 
 
 def drain_queue(access_token: str, channel_ids: list[str]) -> int:
-    # Prefer Buffer-side random scheduling; keep drain as a thin wrapper.
+    # Prefer Buffer-side FIFO scheduling; keep drain as a thin wrapper.
     return publish_batch(access_token, channel_ids)
 
 
