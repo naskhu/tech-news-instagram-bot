@@ -1111,6 +1111,17 @@
       "published_at_utc": "2026-07-27T05:13:19Z",
       "publisher": "buffer"
     },
+    "output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.png": {
+      "buffer_post_id": "6a66eb487d8129a619153b20",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.png",
+      "metadata_file": "output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T05:23:28Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-24/rocket-report-lightning-strikes-in-china-starship-launch-on-deck.png": {
       "buffer_post_id": "6a6652d62df0a0f1fdd6c53b",
       "buffer_status": "error",
