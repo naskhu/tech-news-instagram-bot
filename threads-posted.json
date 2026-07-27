@@ -4133,6 +4133,25 @@
       "published_at_utc": "2026-07-26T14:52:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/amazon-wants-to-launch-5-105-new-direct-to-device-satellites.png": {
+      "buffer_due_at_utc": "2026-07-27T11:41:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67434fc6f632666652e337",
+      "caption_file": "output/2026-07-27/amazon-wants-to-launch-5-105-new-direct-to-device-satellites.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T11:41:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67434fc6f632666652e337",
+          "published_at_utc": "2026-07-27T11:38:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/amazon-wants-to-launch-5-105-new-direct-to-device-satellites.png",
+      "metadata_file": "output/2026-07-27/amazon-wants-to-launch-5-105-new-direct-to-device-satellites.json",
+      "published_at_utc": "2026-07-27T11:38:55Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/are-brain-waves-the-next-unlock-for-physical-ai-techcrunch.png": {
       "buffer_due_at_utc": "2026-07-27T04:17:57.000Z",
       "buffer_mode": "customScheduled",
