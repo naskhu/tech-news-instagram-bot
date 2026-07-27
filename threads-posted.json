@@ -669,6 +669,25 @@
       "published_at_utc": "2026-07-26T18:23:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/roku-hikes-hardware-prices-by-up-to-60.png": {
+      "buffer_due_at_utc": "2026-07-27T01:26:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a66b1abecad4329a9194522",
+      "caption_file": "output/2026-07-24/roku-hikes-hardware-prices-by-up-to-60.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T01:26:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66b1abecad4329a9194522",
+          "published_at_utc": "2026-07-27T01:17:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/roku-hikes-hardware-prices-by-up-to-60.png",
+      "metadata_file": "output/2026-07-24/roku-hikes-hardware-prices-by-up-to-60.json",
+      "published_at_utc": "2026-07-27T01:17:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/roku-raises-streaming-hardware-prices-by-up-to-50.png": {
       "buffer_post_id": "6a6479b29d853f398782de87",
       "caption_file": "output/2026-07-24/roku-raises-streaming-hardware-prices-by-up-to-50.txt",
