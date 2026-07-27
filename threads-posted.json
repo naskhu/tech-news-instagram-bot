@@ -484,6 +484,25 @@
       "published_at_utc": "2026-07-26T20:36:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wea.png": {
+      "buffer_due_at_utc": "2026-07-27T01:26:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a66b1a17d8129a61912d767",
+      "caption_file": "output/2026-07-24/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wea.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T01:26:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66b1a17d8129a61912d767",
+          "published_at_utc": "2026-07-27T01:17:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wea.png",
+      "metadata_file": "output/2026-07-24/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wea.json",
+      "published_at_utc": "2026-07-27T01:17:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/oracle-awarded-10-year-7-billion-pentagon-deal-to-supply-department-of.png": {
       "buffer_post_id": "6a6449045e684934985f8ee8",
       "caption_file": "output/2026-07-24/oracle-awarded-10-year-7-billion-pentagon-deal-to-supply-department-of.txt",
