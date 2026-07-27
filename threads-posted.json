@@ -4383,6 +4383,25 @@
       "published_at_utc": "2026-07-27T18:13:04Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-t.png": {
+      "buffer_due_at_utc": "2026-07-27T19:04:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67a7f04229805eb70ca7dd",
+      "caption_file": "output/2026-07-27/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T19:04:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67a7f04229805eb70ca7dd",
+          "published_at_utc": "2026-07-27T18:48:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-t.png",
+      "metadata_file": "output/2026-07-27/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-t.json",
+      "published_at_utc": "2026-07-27T18:48:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/don-t-let-ai-do-the-talking-for-you.png": {
       "buffer_due_at_utc": "2026-07-27T11:45:24.000Z",
       "buffer_mode": "customScheduled",
