@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-27T22:20:39.140132+00:00",
+  "run_utc": "2026-07-27T23:30:51.127529+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-24T22:20:39.140280+00:00",
-  "eligible_story_count": 293,
+  "cutoff_utc": "2026-07-24T23:30:51.127664+00:00",
+  "eligible_story_count": 292,
   "sources": [
     {
       "source": "TechCrunch",
@@ -26,11 +26,13 @@
       ],
       "rss_candidates": 20,
       "page_links": 27,
-      "page_articles": 27,
+      "page_articles": 26,
       "eligible_new": 0,
       "already_processed": 27,
       "older_than_window": 0,
-      "metadata_errors": {}
+      "metadata_errors": {
+        "http_403": 1
+      }
     },
     {
       "source": "The Verge",
@@ -83,8 +85,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 7,
-      "already_processed": 23,
+      "eligible_new": 3,
+      "already_processed": 27,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -143,8 +145,8 @@
       "already_processed": 15,
       "older_than_window": 4,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -377,22 +379,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 21,
+          "links": 18,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 29,
+          "links": 32,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 56,
-      "already_processed": 44,
-      "older_than_window": 6,
+      "eligible_new": 59,
+      "already_processed": 38,
+      "older_than_window": 7,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -431,8 +433,8 @@
       "rss_candidates": 0,
       "page_links": 25,
       "page_articles": 25,
-      "eligible_new": 19,
-      "already_processed": 5,
+      "eligible_new": 20,
+      "already_processed": 4,
       "older_than_window": 1,
       "metadata_errors": {}
     },
@@ -459,9 +461,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 8,
+      "eligible_new": 9,
       "already_processed": 27,
-      "older_than_window": 25,
+      "older_than_window": 24,
       "metadata_errors": {}
     },
     {
@@ -498,7 +500,7 @@
           "error": ""
         }
       ],
-      "rss_candidates": 28,
+      "rss_candidates": 27,
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 8,
@@ -562,18 +564,19 @@
         {
           "url": "https://www.bleepingcomputer.com/news/",
           "status": 200,
-          "links": 2,
+          "links": 3,
           "error": ""
         }
       ],
       "rss_candidates": 15,
-      "page_links": 25,
-      "page_articles": 6,
-      "eligible_new": 6,
-      "already_processed": 9,
+      "page_links": 26,
+      "page_articles": 1,
+      "eligible_new": 7,
+      "already_processed": 8,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 19
+        "http_429": 24,
+        "no_article_metadata": 1
       }
     },
     {
