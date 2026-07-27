@@ -4184,12 +4184,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/activist-charged-with-felony-after-giving-border-agent-duress-code-tha.png": {
-      "buffer_due_at_utc": "2026-07-27T23:48:40.000Z",
+      "buffer_due_at_utc": "2026-07-27T23:50:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67ea9dae149d82603150c6",
+      "buffer_post_id": "6a67eaa14229805eb70ff5a2",
       "caption_file": "output/2026-07-27/activist-charged-with-felony-after-giving-border-agent-duress-code-tha.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T23:50:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67eaa14229805eb70ff5a2",
+          "published_at_utc": "2026-07-27T23:32:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T23:48:40.000Z",
           "buffer_mode": "customScheduled",
@@ -4199,7 +4205,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/activist-charged-with-felony-after-giving-border-agent-duress-code-tha.png",
       "metadata_file": "output/2026-07-27/activist-charged-with-felony-after-giving-border-agent-duress-code-tha.json",
-      "published_at_utc": "2026-07-27T23:32:45Z",
+      "published_at_utc": "2026-07-27T23:32:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/amazon-s-new-satellite-network-for-mobile-phones-could-turn-up-the-hea.png": {
