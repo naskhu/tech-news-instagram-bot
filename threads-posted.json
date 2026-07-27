@@ -4808,6 +4808,25 @@
       "published_at_utc": "2026-07-27T11:57:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stag.png": {
+      "buffer_due_at_utc": "2026-07-27T19:10:44.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67a811cc2efa263e279e67",
+      "caption_file": "output/2026-07-27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stag.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T19:10:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67a811cc2efa263e279e67",
+          "published_at_utc": "2026-07-27T18:48:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stag.png",
+      "metadata_file": "output/2026-07-27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stag.json",
+      "published_at_utc": "2026-07-27T18:48:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.png": {
       "buffer_due_at_utc": "2026-07-27T12:11:17.000Z",
       "buffer_mode": "customScheduled",
