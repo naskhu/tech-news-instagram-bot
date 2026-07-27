@@ -1579,6 +1579,17 @@
       "published_at_utc": "2026-07-26T07:33:06Z",
       "publisher": "buffer"
     },
+    "output/2026-07-25/openai-confirms-chatgpt-is-down-worldwide.png": {
+      "buffer_post_id": "6a672023e2afffd3ba0bcca1",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-25/openai-confirms-chatgpt-is-down-worldwide.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/openai-confirms-chatgpt-is-down-worldwide.png",
+      "metadata_file": "output/2026-07-25/openai-confirms-chatgpt-is-down-worldwide.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T09:08:59Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-25/quordle-hints-and-answers-for-sunday-july-26-game-1644.png": {
       "buffer_post_id": "6a65c0ee2df0a0f1fdd022d5",
       "caption_file": "output/2026-07-25/quordle-hints-and-answers-for-sunday-july-26-game-1644.txt",
