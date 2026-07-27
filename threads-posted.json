@@ -5009,12 +5009,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/this-is-my-new-favorite-laptop-but-thanks-to-ramageddon-it-already-wen.png": {
-      "buffer_due_at_utc": "2026-07-27T20:24:37.000Z",
+      "buffer_due_at_utc": "2026-07-27T20:26:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67b8c3e2cb6435dcc4ac90",
+      "buffer_post_id": "6a67b8c83b7bd016b40b2324",
       "caption_file": "output/2026-07-27/this-is-my-new-favorite-laptop-but-thanks-to-ramageddon-it-already-wen.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T20:26:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67b8c83b7bd016b40b2324",
+          "published_at_utc": "2026-07-27T20:00:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T20:24:37.000Z",
           "buffer_mode": "customScheduled",
@@ -5024,7 +5030,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/this-is-my-new-favorite-laptop-but-thanks-to-ramageddon-it-already-wen.png",
       "metadata_file": "output/2026-07-27/this-is-my-new-favorite-laptop-but-thanks-to-ramageddon-it-already-wen.json",
-      "published_at_utc": "2026-07-27T20:00:03Z",
+      "published_at_utc": "2026-07-27T20:00:08Z",
       "publisher": "buffer_threads"
     }
   }
