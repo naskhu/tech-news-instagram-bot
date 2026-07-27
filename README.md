@@ -65,7 +65,7 @@ See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**. Instagram often 
 
 Limits (Maldives local time, `Indian/Maldives`):
 
-- **Calendar-day cap:** at most **50** posts between local midnight and next midnight
+- **Calendar-day cap:** at most **49** posts between local midnight and next midnight
 - **Start hour:** automatic posting starts at **08:00** local (configurable via `POSTING_START_HOUR`)
 - **Cool-down:** publishing stays paused until `PUBLISH_RESUME_DATE` (currently `2026-07-26`) while Instagram action-blocks cool down
 - **Fresh daily queue:** generate workflows delete previous `output/YYYY-MM-DD/` folders after local midnight so the next day builds new images
@@ -76,8 +76,8 @@ Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and
 
 **Publish to Threads** is a separate workflow (`publish-threads.yml`) that posts the same `output/` images through Buffer’s Threads channel. It does **not** use the Instagram cool-down.
 
-- **Rolling 24h soft cap:** at most **240** posts (under Buffer’s Threads hard limit of 250)
-- **Generate:** every **20 minutes** (V2) creates up to **2** new posts when fresh news exists
+- **Rolling 24h cap:** at most **250** posts (Buffer Threads hard limit)
+- **Generate:** every **20 minutes** (V2) creates up to **4** new posts when fresh news exists
 - **Threads check:** every **20 minutes** (and right after Generate) enqueues up to **4** posts
 - **FIFO Buffer schedule:** oldest unpublished posts first; each gets the next `dueAt` slot inside the next **20 minutes** (`customScheduled`), spaced ~60s apart
 - **Primary release:** same story posts to **news.world.tech** first, then **naskhu** (~2 minutes later)

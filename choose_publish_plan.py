@@ -19,7 +19,7 @@ from publish_limits import (
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
-# Gentle ticks so we don't burst inside the day (≈50 across ~15 waking hours).
+# Gentle ticks so we don't burst inside the day (≈49 across ~15 waking hours).
 MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("MAX_PER_SCHEDULE_TICK", "2")))
 MAX_PER_GENERATE_TICK = max(1, int(os.getenv("MAX_PER_GENERATE_TICK", "2")))
 
