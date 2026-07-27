@@ -3359,12 +3359,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/the-top-end-galaxy-z-fold-8-ultra-has-me-aghast-it-costs-nearly-as-muc.png": {
-      "buffer_due_at_utc": "2026-07-27T00:18:07.000Z",
+      "buffer_due_at_utc": "2026-07-27T00:20:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66a21a79ae388ebdafe797",
+      "buffer_post_id": "6a66a21f351863828cfaff33",
       "caption_file": "output/2026-07-26/the-top-end-galaxy-z-fold-8-ultra-has-me-aghast-it-costs-nearly-as-muc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T00:20:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66a21f351863828cfaff33",
+          "published_at_utc": "2026-07-27T00:11:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T00:18:07.000Z",
           "buffer_mode": "customScheduled",
@@ -3374,7 +3380,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/the-top-end-galaxy-z-fold-8-ultra-has-me-aghast-it-costs-nearly-as-muc.png",
       "metadata_file": "output/2026-07-26/the-top-end-galaxy-z-fold-8-ultra-has-me-aghast-it-costs-nearly-as-muc.json",
-      "published_at_utc": "2026-07-27T00:11:06Z",
+      "published_at_utc": "2026-07-27T00:11:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-26/the-us-is-charging-an-american-citizen-for-wiping-his-phone-at-the-bor.png": {
