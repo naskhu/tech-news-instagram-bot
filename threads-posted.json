@@ -87,12 +87,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-.png": {
-      "buffer_due_at_utc": "2026-07-27T05:01:44.000Z",
+      "buffer_due_at_utc": "2026-07-27T05:03:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66e4fbac3719fcf9008b0a",
+      "buffer_post_id": "6a66e4ff7d8129a61914d411",
       "caption_file": "output/2026-07-24/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T05:03:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66e4ff7d8129a61914d411",
+          "published_at_utc": "2026-07-27T04:56:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T05:01:44.000Z",
           "buffer_mode": "customScheduled",
@@ -102,7 +108,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-.png",
       "metadata_file": "output/2026-07-24/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-.json",
-      "published_at_utc": "2026-07-27T04:56:27Z",
+      "published_at_utc": "2026-07-27T04:56:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/anthropic-releases-claude-opus-5-to-be-your-new-everyday-assistant.png": {
