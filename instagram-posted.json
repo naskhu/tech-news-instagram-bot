@@ -2311,6 +2311,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-27T18:14:11Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/amazon-s-trying-to-launch-a-global-satellite-cellphone-network-in-2028.png": {
+      "buffer_post_id": "6a67a247752a6180e4689cfb",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/amazon-s-trying-to-launch-a-global-satellite-cellphone-network-in-2028.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/amazon-s-trying-to-launch-a-global-satellite-cellphone-network-in-2028.png",
+      "metadata_file": "output/2026-07-27/amazon-s-trying-to-launch-a-global-satellite-cellphone-network-in-2028.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T18:24:14Z",
+      "publisher": "buffer"
     }
   }
 }
