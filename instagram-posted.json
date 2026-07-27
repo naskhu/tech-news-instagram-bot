@@ -1880,6 +1880,17 @@
       "published_at_utc": "2026-07-26T17:12:23Z",
       "publisher": "buffer"
     },
+    "output/2026-07-26/champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies.png": {
+      "buffer_post_id": "6a67284e543c28064cb83974",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-26/champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies.png",
+      "metadata_file": "output/2026-07-26/champagne-and-bullets-belongs-on-the-mount-rushmore-of-bad-movies.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T09:43:50Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.png": {
       "buffer_post_id": "6a65fab37d8129a6190ac7fd",
       "caption_file": "output/2026-07-26/deepseek-pauses-its-second-fundraising-round-after-founder-s-leaked-in.txt",
