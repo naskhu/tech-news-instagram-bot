@@ -2049,6 +2049,17 @@
       "published_at_utc": "2026-07-26T17:21:46Z",
       "publisher": "buffer"
     },
+    "output/2026-07-26/making-sense-of-the-panic-over-chinese-ai-techcrunch.png": {
+      "buffer_post_id": "6a6745f59b5340b0294ac8aa",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-26/making-sense-of-the-panic-over-chinese-ai-techcrunch.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/making-sense-of-the-panic-over-chinese-ai-techcrunch.png",
+      "metadata_file": "output/2026-07-26/making-sense-of-the-panic-over-chinese-ai-techcrunch.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T11:50:21Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-26/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are.png": {
       "buffer_post_id": "6a66163f351863828cf4d867",
       "caption_file": "output/2026-07-26/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are.txt",
