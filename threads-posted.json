@@ -4333,6 +4333,25 @@
       "published_at_utc": "2026-07-27T11:57:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-dea.png": {
+      "buffer_due_at_utc": "2026-07-27T21:03:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67c302ae149d82602fa12b",
+      "caption_file": "output/2026-07-27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-dea.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T21:03:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67c302ae149d82602fa12b",
+          "published_at_utc": "2026-07-27T20:43:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-dea.png",
+      "metadata_file": "output/2026-07-27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-dea.json",
+      "published_at_utc": "2026-07-27T20:43:46Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/chatgpt-starts-blocking-direct-requests-to-copy-an-author-s-style.png": {
       "buffer_due_at_utc": "2026-07-27T19:03:09.000Z",
       "buffer_mode": "customScheduled",
