@@ -4183,6 +4183,25 @@
       "published_at_utc": "2026-07-27T04:12:09Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-.png": {
+      "buffer_due_at_utc": "2026-07-27T12:01:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6747aad39815280bb89756",
+      "caption_file": "output/2026-07-27/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T12:01:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6747aad39815280bb89756",
+          "published_at_utc": "2026-07-27T11:57:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-.png",
+      "metadata_file": "output/2026-07-27/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-.json",
+      "published_at_utc": "2026-07-27T11:57:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/don-t-let-ai-do-the-talking-for-you.png": {
       "buffer_due_at_utc": "2026-07-27T11:45:24.000Z",
       "buffer_mode": "customScheduled",
