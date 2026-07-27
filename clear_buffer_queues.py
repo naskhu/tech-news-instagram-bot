@@ -88,17 +88,53 @@ def graphql(token: str, query: str, variables: dict[str, Any] | None = None) -> 
     return payload.get("data") or {}
 
 
-def discover_org_id(token: str) -> str:
+def discover_org_id(token: str, channel_ids: list[str] | None = None) -> str:
     configured = os.getenv("BUFFER_ORGANIZATION_ID", "").strip()
     if configured:
         return configured
+
+    # Preferred: resolve org from a known channel id (works with publish secrets).
+    candidates = list(channel_ids or [])
+    for key in ("BUFFER_CHANNEL_ID", "BUFFER_THREADS_CHANNEL_ID"):
+        value = os.getenv(key, "").strip()
+        if not value:
+            continue
+        candidates.extend(part.strip() for part in value.split(",") if part.strip())
+    seen: set[str] = set()
+    for channel_id in candidates:
+        if not channel_id or channel_id in seen:
+            continue
+        seen.add(channel_id)
+        try:
+            data = graphql(
+                token,
+                """
+                query($input: ChannelInput!) {
+                  channel(input: $input) {
+                    id
+                    organizationId
+                  }
+                }
+                """,
+                {"input": {"id": channel_id}},
+            )
+        except RuntimeError as exc:
+            print(f"channel org lookup failed for {channel_id}: {exc}", file=sys.stderr)
+            continue
+        channel = data.get("channel") or {}
+        org_id = str(channel.get("organizationId") or "").strip()
+        if org_id:
+            return org_id
+
+    # Fallback: account organizations list.
     for query in (
         "query { account { id organizations { id name } } }",
         "query { organizations { id name } }",
     ):
         try:
             data = graphql(token, query)
-        except RuntimeError:
+        except RuntimeError as exc:
+            print(f"Org discovery query failed: {exc}", file=sys.stderr)
             continue
         orgs: list[Any] = []
         if isinstance(data.get("account"), dict):
@@ -179,9 +215,9 @@ def main() -> int:
         print("Set BUFFER_ACCESS_TOKEN first.", file=sys.stderr)
         return 1
 
-    org_id = discover_org_id(token)
-    statuses = parse_statuses()
     channel_ids = parse_channel_ids()
+    statuses = parse_statuses()
+    org_id = discover_org_id(token, channel_ids)
     print(f"Organization: {org_id}")
     print(f"Statuses to clear: {', '.join(statuses)}")
     if channel_ids:
