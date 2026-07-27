@@ -5084,12 +5084,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/update-your-iphone-now-to-get-these-security-fixes.png": {
-      "buffer_due_at_utc": "2026-07-27T20:39:31.000Z",
+      "buffer_due_at_utc": "2026-07-27T20:41:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67b8e8e2cb6435dcc4b243",
+      "buffer_post_id": "6a67b8eecc2efa263e287704",
       "caption_file": "output/2026-07-27/update-your-iphone-now-to-get-these-security-fixes.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T20:41:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67b8eecc2efa263e287704",
+          "published_at_utc": "2026-07-27T20:00:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T20:39:31.000Z",
           "buffer_mode": "customScheduled",
@@ -5099,7 +5105,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/update-your-iphone-now-to-get-these-security-fixes.png",
       "metadata_file": "output/2026-07-27/update-your-iphone-now-to-get-these-security-fixes.json",
-      "published_at_utc": "2026-07-27T20:00:41Z",
+      "published_at_utc": "2026-07-27T20:00:47Z",
       "publisher": "buffer_threads"
     }
   }
