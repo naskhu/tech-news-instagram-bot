@@ -4583,6 +4583,25 @@
       "published_at_utc": "2026-07-27T18:13:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/nike-s-new-slides-have-built-in-heat-and-vibration.png": {
+      "buffer_due_at_utc": "2026-07-27T18:35:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a679fd3686bf34969b295c9",
+      "caption_file": "output/2026-07-27/nike-s-new-slides-have-built-in-heat-and-vibration.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T18:35:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a679fd3686bf34969b295c9",
+          "published_at_utc": "2026-07-27T18:13:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/nike-s-new-slides-have-built-in-heat-and-vibration.png",
+      "metadata_file": "output/2026-07-27/nike-s-new-slides-have-built-in-heat-and-vibration.json",
+      "published_at_utc": "2026-07-27T18:13:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/playstation-users-are-going-dark-to-protest-sony-ditching-discs.png": {
       "buffer_due_at_utc": "2026-07-27T12:10:27.000Z",
       "buffer_mode": "customScheduled",
