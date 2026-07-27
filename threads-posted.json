@@ -4484,12 +4484,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/ilya-sutskever-s-safe-superintelligence-partners-with-nvidia-to-scale-.png": {
-      "buffer_due_at_utc": "2026-07-27T18:27:48.000Z",
+      "buffer_due_at_utc": "2026-07-27T18:29:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a679fbe8114fe4b0de253ed",
+      "buffer_post_id": "6a679fc4686bf34969b294d6",
       "caption_file": "output/2026-07-27/ilya-sutskever-s-safe-superintelligence-partners-with-nvidia-to-scale-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T18:29:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a679fc4686bf34969b294d6",
+          "published_at_utc": "2026-07-27T18:13:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T18:27:48.000Z",
           "buffer_mode": "customScheduled",
@@ -4499,7 +4505,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/ilya-sutskever-s-safe-superintelligence-partners-with-nvidia-to-scale-.png",
       "metadata_file": "output/2026-07-27/ilya-sutskever-s-safe-superintelligence-partners-with-nvidia-to-scale-.json",
-      "published_at_utc": "2026-07-27T18:13:18Z",
+      "published_at_utc": "2026-07-27T18:13:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/measles-is-becoming-so-common-that-treatments-may-soon-be-needed.png": {
