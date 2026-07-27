@@ -4559,12 +4559,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.png": {
-      "buffer_due_at_utc": "2026-07-27T18:31:20.000Z",
+      "buffer_due_at_utc": "2026-07-27T18:33:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a679fc9686bf34969b2953e",
+      "buffer_post_id": "6a679fceeab91150491497c3",
       "caption_file": "output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T18:33:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a679fceeab91150491497c3",
+          "published_at_utc": "2026-07-27T18:13:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T18:31:20.000Z",
           "buffer_mode": "customScheduled",
@@ -4574,7 +4580,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.png",
       "metadata_file": "output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.json",
-      "published_at_utc": "2026-07-27T18:13:29Z",
+      "published_at_utc": "2026-07-27T18:13:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/playstation-users-are-going-dark-to-protest-sony-ditching-discs.png": {
