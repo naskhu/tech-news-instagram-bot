@@ -4584,12 +4584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/google-and-reddit-do-not-own-the-internet-web-scraper-says-after-court.png": {
-      "buffer_due_at_utc": "2026-07-27T22:35:17.000Z",
+      "buffer_due_at_utc": "2026-07-27T22:37:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67da3b4229805eb70f34c0",
+      "buffer_post_id": "6a67da40cc2efa263e2a0662",
       "caption_file": "output/2026-07-27/google-and-reddit-do-not-own-the-internet-web-scraper-says-after-court.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T22:37:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67da40cc2efa263e2a0662",
+          "published_at_utc": "2026-07-27T22:22:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T22:35:17.000Z",
           "buffer_mode": "customScheduled",
@@ -4599,7 +4605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/google-and-reddit-do-not-own-the-internet-web-scraper-says-after-court.png",
       "metadata_file": "output/2026-07-27/google-and-reddit-do-not-own-the-internet-web-scraper-says-after-court.json",
-      "published_at_utc": "2026-07-27T22:22:52Z",
+      "published_at_utc": "2026-07-27T22:22:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/google-is-working-on-a-live-translation-widget.png": {
