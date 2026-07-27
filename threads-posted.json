@@ -4708,6 +4708,25 @@
       "published_at_utc": "2026-07-27T18:13:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/nanoleaf-s-colorful-pegboard-and-shelf-kit-is-half-off.png": {
+      "buffer_due_at_utc": "2026-07-27T20:15:17.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67b8b3e2cb6435dcc4a48c",
+      "caption_file": "output/2026-07-27/nanoleaf-s-colorful-pegboard-and-shelf-kit-is-half-off.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T20:15:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67b8b3e2cb6435dcc4a48c",
+          "published_at_utc": "2026-07-27T19:59:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/nanoleaf-s-colorful-pegboard-and-shelf-kit-is-half-off.png",
+      "metadata_file": "output/2026-07-27/nanoleaf-s-colorful-pegboard-and-shelf-kit-is-half-off.json",
+      "published_at_utc": "2026-07-27T19:59:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/nike-s-new-slides-have-built-in-heat-and-vibration.png": {
       "buffer_due_at_utc": "2026-07-27T18:37:06.000Z",
       "buffer_mode": "customScheduled",
