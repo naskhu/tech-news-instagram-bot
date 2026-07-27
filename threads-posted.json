@@ -155,12 +155,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/best-live-tv-streaming-services-of-2026-cnet.png": {
-      "buffer_due_at_utc": "2026-07-27T04:04:16.000Z",
+      "buffer_due_at_utc": "2026-07-27T04:06:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66d8762df0a0f1fddc79de",
+      "buffer_post_id": "6a66d87becad4329a91ac02d",
       "caption_file": "output/2026-07-24/best-live-tv-streaming-services-of-2026-cnet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T04:06:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66d87becad4329a91ac02d",
+          "published_at_utc": "2026-07-27T04:03:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T04:04:16.000Z",
           "buffer_mode": "customScheduled",
@@ -170,7 +176,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/best-live-tv-streaming-services-of-2026-cnet.png",
       "metadata_file": "output/2026-07-24/best-live-tv-streaming-services-of-2026-cnet.json",
-      "published_at_utc": "2026-07-27T04:03:02Z",
+      "published_at_utc": "2026-07-27T04:03:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/best-window-air-conditioners-of-2026-midea-zafro-ge.png": {
