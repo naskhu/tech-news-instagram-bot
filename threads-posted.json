@@ -685,12 +685,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/ontrac-notifies-customers-of-data-breach-after-network-hack.png": {
-      "buffer_due_at_utc": "2026-07-27T08:44:35.000Z",
+      "buffer_due_at_utc": "2026-07-27T08:46:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67168dd409808b35e05497",
+      "buffer_post_id": "6a671692d409808b35e054bb",
       "caption_file": "output/2026-07-24/ontrac-notifies-customers-of-data-breach-after-network-hack.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T08:46:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a671692d409808b35e054bb",
+          "published_at_utc": "2026-07-27T08:28:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T08:44:35.000Z",
           "buffer_mode": "customScheduled",
@@ -700,7 +706,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/ontrac-notifies-customers-of-data-breach-after-network-hack.png",
       "metadata_file": "output/2026-07-24/ontrac-notifies-customers-of-data-breach-after-network-hack.json",
-      "published_at_utc": "2026-07-27T08:27:57Z",
+      "published_at_utc": "2026-07-27T08:28:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-24/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wea.png": {
