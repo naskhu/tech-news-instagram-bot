@@ -473,6 +473,25 @@
       "published_at_utc": "2026-07-24T19:45:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.png": {
+      "buffer_due_at_utc": "2026-07-27T04:11:26.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a66d8897d8129a6191464b8",
+      "caption_file": "output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T04:11:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66d8897d8129a6191464b8",
+          "published_at_utc": "2026-07-27T04:03:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.png",
+      "metadata_file": "output/2026-07-24/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-co.json",
+      "published_at_utc": "2026-07-27T04:03:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-24/nothing-confirms-layoffs-but-calls-market-exit-rumors-fake-news.png": {
       "buffer_post_id": "6a6479993db68e775ef09071",
       "caption_file": "output/2026-07-24/nothing-confirms-layoffs-but-calls-market-exit-rumors-fake-news.txt",
