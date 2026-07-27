@@ -1232,6 +1232,17 @@
       "published_at_utc": "2026-07-27T06:10:38Z",
       "publisher": "buffer"
     },
+    "output/2026-07-24/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-is.png": {
+      "buffer_post_id": "6a66f660ac3719fcf9017a21",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-24/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-is.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-is.png",
+      "metadata_file": "output/2026-07-24/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-is.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T06:10:48Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-passw.png": {
       "buffer_post_id": "6a66501d7d8129a6190ec23f",
       "buffer_status": "error",
