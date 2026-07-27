@@ -4133,6 +4133,25 @@
       "published_at_utc": "2026-07-26T14:52:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/amazon-s-new-satellite-network-for-mobile-phones-could-turn-up-the-hea.png": {
+      "buffer_due_at_utc": "2026-07-27T18:14:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a679f84686bf34969b291c7",
+      "caption_file": "output/2026-07-27/amazon-s-new-satellite-network-for-mobile-phones-could-turn-up-the-hea.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T18:14:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a679f84686bf34969b291c7",
+          "published_at_utc": "2026-07-27T18:12:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/amazon-s-new-satellite-network-for-mobile-phones-could-turn-up-the-hea.png",
+      "metadata_file": "output/2026-07-27/amazon-s-new-satellite-network-for-mobile-phones-could-turn-up-the-hea.json",
+      "published_at_utc": "2026-07-27T18:12:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/amazon-wants-to-launch-5-105-new-direct-to-device-satellites.png": {
       "buffer_due_at_utc": "2026-07-27T11:43:43.000Z",
       "buffer_mode": "customScheduled",
