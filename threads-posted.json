@@ -4433,6 +4433,25 @@
       "published_at_utc": "2026-07-27T11:39:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/google-s-ai-search-is-rapidly-becoming-the-default-new-data-shows-tech.png": {
+      "buffer_due_at_utc": "2026-07-27T18:27:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a679fb463a44c942ba78807",
+      "caption_file": "output/2026-07-27/google-s-ai-search-is-rapidly-becoming-the-default-new-data-shows-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T18:27:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a679fb463a44c942ba78807",
+          "published_at_utc": "2026-07-27T18:13:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/google-s-ai-search-is-rapidly-becoming-the-default-new-data-shows-tech.png",
+      "metadata_file": "output/2026-07-27/google-s-ai-search-is-rapidly-becoming-the-default-new-data-shows-tech.json",
+      "published_at_utc": "2026-07-27T18:13:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/here-comes-the-chinese-ram.png": {
       "buffer_due_at_utc": "2026-07-27T08:15:30.000Z",
       "buffer_mode": "customScheduled",
