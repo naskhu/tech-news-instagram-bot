@@ -2332,6 +2332,16 @@
       "metadata_file": "output/2026-07-27/amazon-wants-to-launch-5-105-new-direct-to-device-satellites.json",
       "published_at_utc": "2026-07-27T18:30:22Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/an-xbox-outage-has-been-preventing-some-games-from-launching-since-las.png": {
+      "buffer_post_id": "6a67a5f43b7bd016b40a2db5",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-27/an-xbox-outage-has-been-preventing-some-games-from-launching-since-las.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/an-xbox-outage-has-been-preventing-some-games-from-launching-since-las.png",
+      "metadata_file": "output/2026-07-27/an-xbox-outage-has-been-preventing-some-games-from-launching-since-las.json",
+      "published_at_utc": "2026-07-27T18:39:58Z",
+      "publisher": "buffer"
     }
   }
 }
