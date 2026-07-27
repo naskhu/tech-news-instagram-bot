@@ -2256,12 +2256,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers.png": {
-      "buffer_due_at_utc": "2026-07-27T05:06:36.000Z",
+      "buffer_due_at_utc": "2026-07-27T05:08:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a66e50eecad4329a91b25cf",
+      "buffer_post_id": "6a66e5122df0a0f1fddce1cc",
       "caption_file": "output/2026-07-25/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T05:08:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a66e5122df0a0f1fddce1cc",
+          "published_at_utc": "2026-07-27T04:56:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T05:06:36.000Z",
           "buffer_mode": "customScheduled",
@@ -2271,7 +2277,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers.png",
       "metadata_file": "output/2026-07-25/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers.json",
-      "published_at_utc": "2026-07-27T04:56:46Z",
+      "published_at_utc": "2026-07-27T04:56:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/synth-historian-oli-freke-will-spend-big-on-a-good-bicycle.png": {
