@@ -2290,6 +2290,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-27T13:24:22Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-26/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact-engad.png": {
+      "buffer_post_id": "6a675da236f7f546b1845536",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-26/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact-engad.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact-engad.png",
+      "metadata_file": "output/2026-07-26/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact-engad.json",
+      "published_at_utc": "2026-07-27T13:31:24Z",
+      "publisher": "buffer"
     }
   }
 }
