@@ -4633,6 +4633,25 @@
       "published_at_utc": "2026-07-27T14:21:45Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cy.png": {
+      "buffer_due_at_utc": "2026-07-27T19:05:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67a7f93b7bd016b40a411f",
+      "caption_file": "output/2026-07-27/microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cy.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T19:05:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67a7f93b7bd016b40a411f",
+          "published_at_utc": "2026-07-27T18:48:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cy.png",
+      "metadata_file": "output/2026-07-27/microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cy.json",
+      "published_at_utc": "2026-07-27T18:48:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.png": {
       "buffer_due_at_utc": "2026-07-27T18:33:20.000Z",
       "buffer_mode": "customScheduled",
