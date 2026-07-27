@@ -1,0 +1,22 @@
+{
+  "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+  "summary": "GitHub announces npm security changes to tackle supply-chain attacks New Shai-Hulud attack trojanizes 19 science-focused PyPI packages Hackers backdoor Jscrambler npm package with infostealer malware Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts Microsoft blames massive Microsoft 365 outage on…",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks",
+  "published_utc": "2026-07-26T14:13:39+00:00",
+  "date_source": "json_ld",
+  "generated_utc": "2026-07-27T04:55:48.130444+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/05/21/GitHub_headpic.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-07-26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.png",
+  "caption": "output/2026-07-26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.txt"
+}
