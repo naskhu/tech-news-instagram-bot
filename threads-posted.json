@@ -4508,6 +4508,25 @@
       "published_at_utc": "2026-07-27T14:21:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies.png": {
+      "buffer_due_at_utc": "2026-07-27T21:33:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67c9ebe2cb6435dcc58b89",
+      "caption_file": "output/2026-07-27/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-27T21:33:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67c9ebe2cb6435dcc58b89",
+          "published_at_utc": "2026-07-27T21:13:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies.png",
+      "metadata_file": "output/2026-07-27/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies.json",
+      "published_at_utc": "2026-07-27T21:13:15Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/europe-got-its-own-tbpn-style-live-show-and-everyone-s-angling-for-a-g.png": {
       "buffer_due_at_utc": "2026-07-27T11:47:29.000Z",
       "buffer_mode": "customScheduled",
