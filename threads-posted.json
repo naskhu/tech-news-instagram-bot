@@ -4633,6 +4633,25 @@
       "published_at_utc": "2026-07-27T23:32:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/france-records-its-first-ever-pyrocumulonimbus-cloud-amid-record-smash.png": {
+      "buffer_due_at_utc": "2026-07-28T00:10:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67eab0e2cb6435dcc6e726",
+      "caption_file": "output/2026-07-27/france-records-its-first-ever-pyrocumulonimbus-cloud-amid-record-smash.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T00:10:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67eab0e2cb6435dcc6e726",
+          "published_at_utc": "2026-07-27T23:33:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/france-records-its-first-ever-pyrocumulonimbus-cloud-amid-record-smash.png",
+      "metadata_file": "output/2026-07-27/france-records-its-first-ever-pyrocumulonimbus-cloud-amid-record-smash.json",
+      "published_at_utc": "2026-07-27T23:33:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/google-and-reddit-do-not-own-the-internet-web-scraper-says-after-court.png": {
       "buffer_due_at_utc": "2026-07-27T22:37:17.000Z",
       "buffer_mode": "customScheduled",
