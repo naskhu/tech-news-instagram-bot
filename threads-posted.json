@@ -5034,12 +5034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-re.png": {
-      "buffer_due_at_utc": "2026-07-27T21:33:44.000Z",
+      "buffer_due_at_utc": "2026-07-27T21:35:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67c3223b7bd016b40bad96",
+      "buffer_post_id": "6a67c327e2cb6435dcc52b25",
       "caption_file": "output/2026-07-27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-re.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-27T21:35:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67c327e2cb6435dcc52b25",
+          "published_at_utc": "2026-07-27T20:44:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-27T21:33:44.000Z",
           "buffer_mode": "customScheduled",
@@ -5049,7 +5055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-re.png",
       "metadata_file": "output/2026-07-27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-re.json",
-      "published_at_utc": "2026-07-27T20:44:18Z",
+      "published_at_utc": "2026-07-27T20:44:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/this-9-key-physically-locks-your-most-addictive-apps-techcrunch.png": {
