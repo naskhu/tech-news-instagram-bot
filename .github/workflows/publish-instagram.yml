@@ -14,7 +14,7 @@ on:
         default: "2"
   schedule:
     # About every 30 minutes after the cool-down. Each tick posts a few items
-    # under a calendar-day 50-post cap (Indian/Maldives midnight reset).
+    # under a calendar-day 49-post cap (Indian/Maldives midnight reset).
     - cron: "11,41 * * * *"
 
 permissions:
@@ -56,7 +56,7 @@ jobs:
           PUBLISH_TIMEZONE: Indian/Maldives
           PUBLISH_RESUME_DATE: "2026-07-26"
           POSTING_START_HOUR: "8"
-          INSTAGRAM_DAILY_LIMIT: "50"
+          INSTAGRAM_DAILY_LIMIT: "49"
           MAX_PER_SCHEDULE_TICK: "2"
           MAX_PER_GENERATE_TICK: "2"
         run: python3 choose_publish_plan.py
@@ -100,7 +100,7 @@ jobs:
           PUBLISH_TIMEZONE: Indian/Maldives
           PUBLISH_RESUME_DATE: "2026-07-26"
           POSTING_START_HOUR: "8"
-          INSTAGRAM_DAILY_LIMIT: "50"
+          INSTAGRAM_DAILY_LIMIT: "49"
         run: |
           echo "Pending unpublished posts: ${{ steps.plan.outputs.pending }}"
           echo "Mode: ${{ steps.plan.outputs.mode }}"

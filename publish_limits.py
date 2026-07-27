@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 
 # Maldives local day (user timezone). Override with PUBLISH_TIMEZONE if needed.
 DEFAULT_TZ = "Indian/Maldives"
-DAILY_LIMIT = max(1, min(50, int(os.getenv("INSTAGRAM_DAILY_LIMIT", "50"))))
+DAILY_LIMIT = max(1, min(49, int(os.getenv("INSTAGRAM_DAILY_LIMIT", "49"))))
 # Do not post before this local hour (0-23). Default 8:00 local.
 POSTING_START_HOUR = max(0, min(23, int(os.getenv("POSTING_START_HOUR", "8"))))
 # Optional hard pause while Instagram action-blocks the account (ISO date YYYY-MM-DD local).

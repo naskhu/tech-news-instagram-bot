@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Decide Buffer Threads publish plan (rolling 240 / 24h soft cap)."""
+"""Decide Buffer Threads publish plan (rolling 250 / 24h cap)."""
 
 from __future__ import annotations
 
@@ -18,7 +18,7 @@ from threads_limits import (
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
-# Gentle ticks via Buffer custom schedule (≈240 soft cap / 24h).
+# Gentle ticks via Buffer custom schedule (≈250 cap / 24h).
 MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "4")))
 MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "4")))
 

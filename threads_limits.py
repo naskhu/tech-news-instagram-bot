@@ -7,9 +7,9 @@ import os
 import time
 from datetime import datetime, timezone
 
-# Soft cap under Buffer's documented Threads limit (250 / rolling 24h) per channel.
-# Count unique images (not per-channel fan-out) so dual profiles still land under ~240/day.
-DAILY_LIMIT = max(1, min(240, int(os.getenv("THREADS_DAILY_LIMIT", "240"))))
+# Buffer Threads hard limit is 250 / rolling 24h. Count unique images (not
+# per-channel fan-out) so dual profiles stay within the channel limit.
+DAILY_LIMIT = max(1, min(250, int(os.getenv("THREADS_DAILY_LIMIT", "250"))))
 # news.world.tech Threads channel — always published first when present.
 DEFAULT_PRIMARY_CHANNEL_ID = "6a64c576e2638b94d7d25d01"
 

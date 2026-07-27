@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish to Threads (use all to drain under 240/24h)
+        description: Maximum unpublished posts to publish to Threads (use all to drain under 250/24h)
         required: false
         default: "4"
   schedule:
     # Every 20 minutes (offset from Generate): enqueue Threads posts via Buffer.
-    # Soft cap 240 / rolling 24h (under Buffer's Threads 250 hard limit).
+    # Cap 250 / rolling 24h (Buffer Threads hard limit).
     - cron: "10,30,50 * * * *"
 
 permissions:
@@ -54,7 +54,7 @@ jobs:
           MANUAL_MAX_POSTS: ${{ inputs.max_posts || '4' }}
           # Needed so pending count knows about dual-channel fan-out.
           BUFFER_THREADS_CHANNEL_ID: ${{ secrets.BUFFER_THREADS_CHANNEL_ID }}
-          THREADS_DAILY_LIMIT: "240"
+          THREADS_DAILY_LIMIT: "250"
           THREADS_MAX_PER_SCHEDULE_TICK: "4"
           THREADS_MAX_PER_GENERATE_TICK: "4"
         run: python3 choose_threads_publish_plan.py
@@ -96,7 +96,7 @@ jobs:
           COMMIT_STATE_EACH_POST: "1"
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: main
-          THREADS_DAILY_LIMIT: "240"
+          THREADS_DAILY_LIMIT: "250"
           THREADS_TOPIC: TechNews
           THREADS_SCHEDULE_WINDOW_SECONDS: "1200"
           # Primary release: news.world.tech, then naskhu a couple minutes later.
