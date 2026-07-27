@@ -1101,6 +1101,17 @@
       "published_at_utc": "2026-07-27T05:06:57Z",
       "publisher": "buffer"
     },
+    "output/2026-07-24/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts.png": {
+      "buffer_post_id": "6a6716f71013b53e4490cdf9",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-24/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-24/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts.png",
+      "metadata_file": "output/2026-07-24/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T08:29:49Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-24/kagi-brings-back-old-school-search-one-human-made-website-at-a-time.png": {
       "buffer_post_id": "6a66e8e52df0a0f1fddd1440",
       "buffer_status": "sending",
