@@ -2108,6 +2108,17 @@
       "published_at_utc": "2026-07-26T17:35:33Z",
       "publisher": "buffer"
     },
+    "output/2026-07-26/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head.png": {
+      "buffer_post_id": "6a674a53d39815280bb8d7f0",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-26/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-26/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head.png",
+      "metadata_file": "output/2026-07-26/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-27T12:08:58Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-26/that-is-the-wrong-model-for-the-ai-era-employers-now-expect-basic-ai-s.png": {
       "buffer_post_id": "6a6645ef79ae388ebdabcf8f",
       "buffer_status": "sending",
