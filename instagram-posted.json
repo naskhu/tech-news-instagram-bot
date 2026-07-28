@@ -2452,6 +2452,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T04:13:07Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/chatgpt-starts-blocking-direct-requests-to-copy-an-author-s-style.png": {
+      "buffer_post_id": "6a682c7f0a4862b8acab48fa",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/chatgpt-starts-blocking-direct-requests-to-copy-an-author-s-style.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/chatgpt-starts-blocking-direct-requests-to-copy-an-author-s-style.png",
+      "metadata_file": "output/2026-07-27/chatgpt-starts-blocking-direct-requests-to-copy-an-author-s-style.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T04:13:59Z",
+      "publisher": "buffer"
     }
   }
 }
