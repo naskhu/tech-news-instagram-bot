@@ -6609,12 +6609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/ebay-s-bizarre-cyberstalking-saga-ends-with-a-56-million-settlement.png": {
-      "buffer_due_at_utc": "2026-07-28T21:40:55.000Z",
+      "buffer_due_at_utc": "2026-07-28T21:42:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6920e0384b4cdabfd2cdf6",
+      "buffer_post_id": "6a6920e55e133411ca8ad7bc",
       "caption_file": "output/2026-07-28/ebay-s-bizarre-cyberstalking-saga-ends-with-a-56-million-settlement.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T21:42:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6920e55e133411ca8ad7bc",
+          "published_at_utc": "2026-07-28T21:36:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T21:40:55.000Z",
           "buffer_mode": "customScheduled",
@@ -6624,7 +6630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/ebay-s-bizarre-cyberstalking-saga-ends-with-a-56-million-settlement.png",
       "metadata_file": "output/2026-07-28/ebay-s-bizarre-cyberstalking-saga-ends-with-a-56-million-settlement.json",
-      "published_at_utc": "2026-07-28T21:36:32Z",
+      "published_at_utc": "2026-07-28T21:36:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/elon-musk-s-x-money-app-is-rolling-out-in-the-u-s-techcrunch.png": {
