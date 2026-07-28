@@ -2430,6 +2430,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T04:09:29Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-.png": {
+      "buffer_post_id": "6a682bce36205497cb85f677",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-.png",
+      "metadata_file": "output/2026-07-27/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T04:11:01Z",
+      "publisher": "buffer"
     }
   }
 }
