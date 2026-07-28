@@ -5409,12 +5409,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/t-mobile-is-actively-working-to-resolve-a-major-outage.png": {
-      "buffer_due_at_utc": "2026-07-28T00:58:15.000Z",
+      "buffer_due_at_utc": "2026-07-28T01:00:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67f41336205497cb837974",
+      "buffer_post_id": "6a67f418fbdf65da54119379",
       "caption_file": "output/2026-07-27/t-mobile-is-actively-working-to-resolve-a-major-outage.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T01:00:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67f418fbdf65da54119379",
+          "published_at_utc": "2026-07-28T00:13:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T00:58:15.000Z",
           "buffer_mode": "customScheduled",
@@ -5424,7 +5430,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/t-mobile-is-actively-working-to-resolve-a-major-outage.png",
       "metadata_file": "output/2026-07-27/t-mobile-is-actively-working-to-resolve-a-major-outage.json",
-      "published_at_utc": "2026-07-28T00:13:07Z",
+      "published_at_utc": "2026-07-28T00:13:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-re.png": {
