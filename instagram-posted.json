@@ -2975,6 +2975,17 @@
       "metadata_file": "output/2026-07-27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-re.json",
       "published_at_utc": "2026-07-28T10:14:03Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/this-9-key-physically-locks-your-most-addictive-apps-techcrunch.png": {
+      "buffer_post_id": "6a6880ed836a12294a371776",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/this-9-key-physically-locks-your-most-addictive-apps-techcrunch.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/this-9-key-physically-locks-your-most-addictive-apps-techcrunch.png",
+      "metadata_file": "output/2026-07-27/this-9-key-physically-locks-your-most-addictive-apps-techcrunch.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T10:14:14Z",
+      "publisher": "buffer"
     }
   }
 }
