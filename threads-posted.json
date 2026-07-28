@@ -7059,12 +7059,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/logitech-will-pull-a-nintendo-only-european-mice-will-come-with-replac.png": {
-      "buffer_due_at_utc": "2026-07-28T22:59:00.000Z",
+      "buffer_due_at_utc": "2026-07-28T23:01:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a693012a0627aa9301d305f",
+      "buffer_post_id": "6a693017a0627aa9301d3088",
       "caption_file": "output/2026-07-28/logitech-will-pull-a-nintendo-only-european-mice-will-come-with-replac.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T23:01:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a693017a0627aa9301d3088",
+          "published_at_utc": "2026-07-28T22:41:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T22:59:00.000Z",
           "buffer_mode": "customScheduled",
@@ -7074,7 +7080,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/logitech-will-pull-a-nintendo-only-european-mice-will-come-with-replac.png",
       "metadata_file": "output/2026-07-28/logitech-will-pull-a-nintendo-only-european-mice-will-come-with-replac.json",
-      "published_at_utc": "2026-07-28T22:41:22Z",
+      "published_at_utc": "2026-07-28T22:41:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/lyft-and-baidu-enter-london-s-robotaxi-battleground-as-testing-begins-.png": {
