@@ -6833,6 +6833,25 @@
       "published_at_utc": "2026-07-28T09:34:28Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.png": {
+      "buffer_due_at_utc": "2026-07-28T20:22:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a690db43f1f0f1e50fef974",
+      "caption_file": "output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T20:22:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a690db43f1f0f1e50fef974",
+          "published_at_utc": "2026-07-28T20:14:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.png",
+      "metadata_file": "output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.json",
+      "published_at_utc": "2026-07-28T20:14:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/lyft-and-baidu-enter-london-s-robotaxi-battleground-as-testing-begins-.png": {
       "buffer_due_at_utc": "2026-07-28T09:55:39.000Z",
       "buffer_mode": "customScheduled",
