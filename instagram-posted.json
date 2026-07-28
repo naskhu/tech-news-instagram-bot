@@ -3030,6 +3030,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T10:36:36Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/uag-s-new-bags-can-help-your-devices-recover-from-an-unexpected-dunkin.png": {
+      "buffer_post_id": "6a688706d75f7b9c2678c817",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/uag-s-new-bags-can-help-your-devices-recover-from-an-unexpected-dunkin.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/uag-s-new-bags-can-help-your-devices-recover-from-an-unexpected-dunkin.png",
+      "metadata_file": "output/2026-07-27/uag-s-new-bags-can-help-your-devices-recover-from-an-unexpected-dunkin.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T10:40:16Z",
+      "publisher": "buffer"
     }
   }
 }
