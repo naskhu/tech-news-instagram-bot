@@ -6058,6 +6058,25 @@
       "published_at_utc": "2026-07-28T09:48:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-.png": {
+      "buffer_due_at_utc": "2026-07-28T18:51:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a68f8db4b27115cfd1a6f14",
+      "caption_file": "output/2026-07-28/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T18:51:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a68f8db4b27115cfd1a6f14",
+          "published_at_utc": "2026-07-28T18:45:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-.png",
+      "metadata_file": "output/2026-07-28/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-.json",
+      "published_at_utc": "2026-07-28T18:45:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/ai-is-coming-for-call-center-jobs.png": {
       "buffer_due_at_utc": "2026-07-28T11:59:03.000Z",
       "buffer_mode": "customScheduled",
