@@ -2670,6 +2670,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T06:57:06Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/measles-is-becoming-so-common-that-treatments-may-soon-be-needed.png": {
+      "buffer_post_id": "6a6854eafbdf65da5415edcb",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/measles-is-becoming-so-common-that-treatments-may-soon-be-needed.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/measles-is-becoming-so-common-that-treatments-may-soon-be-needed.png",
+      "metadata_file": "output/2026-07-27/measles-is-becoming-so-common-that-treatments-may-soon-be-needed.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T07:06:25Z",
+      "publisher": "buffer"
     }
   }
 }
