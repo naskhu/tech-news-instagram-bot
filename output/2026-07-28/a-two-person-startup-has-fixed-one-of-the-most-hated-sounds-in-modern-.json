@@ -1,0 +1,22 @@
+{
+  "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
+  "summary": "The challenge Corelitz and Coogan set themselves was this: better microwave sound, sound with some personality; but no new hardware, so using existing chips and existing buzzers. Starling’s test rig is an Arduino linked to three piezo buzzers for sound comparison.",
+  "source": "Wired",
+  "url": "https://wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life",
+  "published_utc": "2026-07-28T11:00:00+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-28T12:12:38.121638+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.wired.com/photos/6a633f9337c1de99d55a84c8/master/pass/MicrowaveBeep.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-07-28/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-.png",
+  "caption": "output/2026-07-28/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-.txt"
+}
