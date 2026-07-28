@@ -2899,6 +2899,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T09:45:48Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-.png": {
+      "buffer_post_id": "6a687c249db6d32dfcccfada",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-.png",
+      "metadata_file": "output/2026-07-27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T09:53:48Z",
+      "publisher": "buffer"
     }
   }
 }
