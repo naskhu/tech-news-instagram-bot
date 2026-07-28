@@ -6708,6 +6708,25 @@
       "published_at_utc": "2026-07-28T20:14:10Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed-techcrunch.png": {
+      "buffer_due_at_utc": "2026-07-28T20:17:02.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a690d96fa1472dcafe7fe48",
+      "caption_file": "output/2026-07-28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T20:17:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a690d96fa1472dcafe7fe48",
+          "published_at_utc": "2026-07-28T20:14:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed-techcrunch.png",
+      "metadata_file": "output/2026-07-28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed-techcrunch.json",
+      "published_at_utc": "2026-07-28T20:14:14Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/hugging-face-has-a-deepfake-nudes-problem.png": {
       "buffer_due_at_utc": "2026-07-28T07:22:30.000Z",
       "buffer_mode": "customScheduled",
