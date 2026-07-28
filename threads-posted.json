@@ -7009,12 +7009,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earni.png": {
-      "buffer_due_at_utc": "2026-07-28T20:28:24.000Z",
+      "buffer_due_at_utc": "2026-07-28T20:32:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a690dddc0dfc0043f5dc74e",
+      "buffer_post_id": "6a690f8cc0dfc0043f5dd37e",
       "caption_file": "output/2026-07-28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earni.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T20:32:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a690f8cc0dfc0043f5dd37e",
+          "published_at_utc": "2026-07-28T20:22:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T20:28:24.000Z",
           "buffer_mode": "customScheduled",
@@ -7024,7 +7030,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earni.png",
       "metadata_file": "output/2026-07-28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earni.json",
-      "published_at_utc": "2026-07-28T20:15:25Z",
+      "published_at_utc": "2026-07-28T20:22:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/priceline-promo-codes-coupons-10-off-july.png": {
