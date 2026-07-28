@@ -6958,6 +6958,25 @@
       "published_at_utc": "2026-07-28T11:40:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/new-yorkers-will-soon-need-to-verify-their-age-to-access-algorithmic-f.png": {
+      "buffer_due_at_utc": "2026-07-28T20:26:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a690dc8c0dfc0043f5dc64b",
+      "caption_file": "output/2026-07-28/new-yorkers-will-soon-need-to-verify-their-age-to-access-algorithmic-f.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T20:26:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a690dc8c0dfc0043f5dc64b",
+          "published_at_utc": "2026-07-28T20:15:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/new-yorkers-will-soon-need-to-verify-their-age-to-access-algorithmic-f.png",
+      "metadata_file": "output/2026-07-28/new-yorkers-will-soon-need-to-verify-their-age-to-access-algorithmic-f.json",
+      "published_at_utc": "2026-07-28T20:15:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/priceline-promo-codes-coupons-10-off-july.png": {
       "buffer_due_at_utc": "2026-07-28T07:27:01.000Z",
       "buffer_mode": "customScheduled",
