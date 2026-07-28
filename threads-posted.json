@@ -7434,12 +7434,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.png": {
-      "buffer_due_at_utc": "2026-07-28T21:48:15.000Z",
+      "buffer_due_at_utc": "2026-07-28T21:50:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69210b3498369c424dbd9e",
+      "buffer_post_id": "6a692110d546884eed5e1a33",
       "caption_file": "output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T21:50:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a692110d546884eed5e1a33",
+          "published_at_utc": "2026-07-28T21:37:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T21:48:15.000Z",
           "buffer_mode": "customScheduled",
@@ -7449,7 +7455,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.png",
       "metadata_file": "output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.json",
-      "published_at_utc": "2026-07-28T21:37:15Z",
+      "published_at_utc": "2026-07-28T21:37:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/what-if-the-windshield-was-a-display.png": {
