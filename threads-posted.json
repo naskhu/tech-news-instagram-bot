@@ -6009,12 +6009,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/4gb-graphics-cards-are-back.png": {
-      "buffer_due_at_utc": "2026-07-28T18:48:45.000Z",
+      "buffer_due_at_utc": "2026-07-28T18:50:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a68f8d193bc4cdf7a5bdc1b",
+      "buffer_post_id": "6a68f8d603ac94de4abe863e",
       "caption_file": "output/2026-07-28/4gb-graphics-cards-are-back.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T18:50:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a68f8d603ac94de4abe863e",
+          "published_at_utc": "2026-07-28T18:45:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T18:48:45.000Z",
           "buffer_mode": "customScheduled",
@@ -6024,7 +6030,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/4gb-graphics-cards-are-back.png",
       "metadata_file": "output/2026-07-28/4gb-graphics-cards-are-back.json",
-      "published_at_utc": "2026-07-28T18:45:37Z",
+      "published_at_utc": "2026-07-28T18:45:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/7-oh-users-are-stockpiling-and-doing-reddit-detoxes-to-prep-for-ban.png": {
