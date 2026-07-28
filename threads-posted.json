@@ -1397,12 +1397,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/best-laptops-2026-my-top-recommendations-after-testing-hundreds.png": {
-      "buffer_due_at_utc": "2026-07-28T04:07:24.000Z",
+      "buffer_due_at_utc": "2026-07-28T04:09:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a682341fbdf65da5413872e",
+      "buffer_post_id": "6a682346f548c7887af607d4",
       "caption_file": "output/2026-07-25/best-laptops-2026-my-top-recommendations-after-testing-hundreds.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T04:09:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a682346f548c7887af607d4",
+          "published_at_utc": "2026-07-28T03:34:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T04:07:24.000Z",
           "buffer_mode": "customScheduled",
@@ -1412,7 +1418,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-25/best-laptops-2026-my-top-recommendations-after-testing-hundreds.png",
       "metadata_file": "output/2026-07-25/best-laptops-2026-my-top-recommendations-after-testing-hundreds.json",
-      "published_at_utc": "2026-07-28T03:34:25Z",
+      "published_at_utc": "2026-07-28T03:34:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-25/big-tech-accused-of-stonewalling-european-social-media-researchers.png": {
