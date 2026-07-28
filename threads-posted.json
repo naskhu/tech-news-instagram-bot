@@ -7759,12 +7759,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/you-don-t-need-to-splurge-on-an-expensive-handheld-fan-to-beat-the-hea.png": {
-      "buffer_due_at_utc": "2026-07-28T23:13:16.000Z",
+      "buffer_due_at_utc": "2026-07-28T23:15:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a692ac6e9586dfc905369b5",
+      "buffer_post_id": "6a692acbe9586dfc905369ea",
       "caption_file": "output/2026-07-28/you-don-t-need-to-splurge-on-an-expensive-handheld-fan-to-beat-the-hea.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T23:15:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a692acbe9586dfc905369ea",
+          "published_at_utc": "2026-07-28T22:18:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T23:13:16.000Z",
           "buffer_mode": "customScheduled",
@@ -7774,7 +7780,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/you-don-t-need-to-splurge-on-an-expensive-handheld-fan-to-beat-the-hea.png",
       "metadata_file": "output/2026-07-28/you-don-t-need-to-splurge-on-an-expensive-handheld-fan-to-beat-the-hea.json",
-      "published_at_utc": "2026-07-28T22:18:46Z",
+      "published_at_utc": "2026-07-28T22:18:51Z",
       "publisher": "buffer_threads"
     }
   }
