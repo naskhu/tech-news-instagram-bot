@@ -2921,6 +2921,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T09:59:28Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/snapchat-now-lets-you-share-what-you-re-listening-to-in-real-time-tech.png": {
+      "buffer_post_id": "6a687f5a2dcd5a840df3d1b3",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/snapchat-now-lets-you-share-what-you-re-listening-to-in-real-time-tech.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/snapchat-now-lets-you-share-what-you-re-listening-to-in-real-time-tech.png",
+      "metadata_file": "output/2026-07-27/snapchat-now-lets-you-share-what-you-re-listening-to-in-real-time-tech.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T10:07:29Z",
+      "publisher": "buffer"
     }
   }
 }
