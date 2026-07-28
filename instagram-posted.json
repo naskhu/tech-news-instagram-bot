@@ -2910,6 +2910,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T09:53:48Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/sdcc-2026-s-best-trailers-are-heavy-on-cyberpunk-and-sci-fi.png": {
+      "buffer_post_id": "6a687d797e8cbcebb3b58e7d",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/sdcc-2026-s-best-trailers-are-heavy-on-cyberpunk-and-sci-fi.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/sdcc-2026-s-best-trailers-are-heavy-on-cyberpunk-and-sci-fi.png",
+      "metadata_file": "output/2026-07-27/sdcc-2026-s-best-trailers-are-heavy-on-cyberpunk-and-sci-fi.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T09:59:28Z",
+      "publisher": "buffer"
     }
   }
 }
