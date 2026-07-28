@@ -3084,6 +3084,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T10:48:01Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/x-money-is-launching-in-the-us-starting-today.png": {
+      "buffer_post_id": "6a6888e3694dc37eb7be12c6",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/x-money-is-launching-in-the-us-starting-today.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/x-money-is-launching-in-the-us-starting-today.png",
+      "metadata_file": "output/2026-07-27/x-money-is-launching-in-the-us-starting-today.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T10:48:12Z",
+      "publisher": "buffer"
     }
   }
 }
