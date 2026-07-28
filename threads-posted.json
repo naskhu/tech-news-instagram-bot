@@ -5234,12 +5234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/private-claude-chats-exposed-in-google-and-bing-search-results.png": {
-      "buffer_due_at_utc": "2026-07-28T00:55:14.000Z",
+      "buffer_due_at_utc": "2026-07-28T00:57:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67f40993fe7e211c704954",
+      "buffer_post_id": "6a67f40e9da52a1964639b5b",
       "caption_file": "output/2026-07-27/private-claude-chats-exposed-in-google-and-bing-search-results.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T00:57:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67f40e9da52a1964639b5b",
+          "published_at_utc": "2026-07-28T00:13:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T00:55:14.000Z",
           "buffer_mode": "customScheduled",
@@ -5249,7 +5255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/private-claude-chats-exposed-in-google-and-bing-search-results.png",
       "metadata_file": "output/2026-07-27/private-claude-chats-exposed-in-google-and-bing-search-results.json",
-      "published_at_utc": "2026-07-28T00:12:57Z",
+      "published_at_utc": "2026-07-28T00:13:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google.png": {
