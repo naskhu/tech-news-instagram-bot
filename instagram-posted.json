@@ -3063,6 +3063,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T10:45:42Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/what-public-health-professionals-can-learn-from-anti-vaccine-storytell.png": {
+      "buffer_post_id": "6a68889a748e43b9838212c4",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-27/what-public-health-professionals-can-learn-from-anti-vaccine-storytell.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/what-public-health-professionals-can-learn-from-anti-vaccine-storytell.png",
+      "metadata_file": "output/2026-07-27/what-public-health-professionals-can-learn-from-anti-vaccine-storytell.json",
+      "published_at_utc": "2026-07-28T10:47:00Z",
+      "publisher": "buffer"
     }
   }
 }
