@@ -5033,6 +5033,25 @@
       "published_at_utc": "2026-07-27T19:59:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/new-firefighting-technologies-could-help-battle-blazes-like-those-in-f.png": {
+      "buffer_due_at_utc": "2026-07-28T00:41:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a67f3ff93fe7e211c70491e",
+      "caption_file": "output/2026-07-27/new-firefighting-technologies-could-help-battle-blazes-like-those-in-f.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T00:41:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67f3ff93fe7e211c70491e",
+          "published_at_utc": "2026-07-28T00:12:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/new-firefighting-technologies-could-help-battle-blazes-like-those-in-f.png",
+      "metadata_file": "output/2026-07-27/new-firefighting-technologies-could-help-battle-blazes-like-those-in-f.json",
+      "published_at_utc": "2026-07-28T00:12:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/nike-s-new-slides-have-built-in-heat-and-vibration.png": {
       "buffer_due_at_utc": "2026-07-27T18:37:06.000Z",
       "buffer_mode": "customScheduled",
