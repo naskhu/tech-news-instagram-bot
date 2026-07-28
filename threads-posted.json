@@ -6534,12 +6534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-e.png": {
-      "buffer_due_at_utc": "2026-07-28T19:08:31.000Z",
+      "buffer_due_at_utc": "2026-07-28T19:10:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a68f91d03ac94de4abe88d2",
+      "buffer_post_id": "6a68f9214c8c8bdee9a976fe",
       "caption_file": "output/2026-07-28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-e.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T19:10:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a68f9214c8c8bdee9a976fe",
+          "published_at_utc": "2026-07-28T18:46:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T19:08:31.000Z",
           "buffer_mode": "customScheduled",
@@ -6549,7 +6555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-e.png",
       "metadata_file": "output/2026-07-28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-e.json",
-      "published_at_utc": "2026-07-28T18:46:53Z",
+      "published_at_utc": "2026-07-28T18:46:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/google-workspace-promo-codes-14-off-for-july.png": {
