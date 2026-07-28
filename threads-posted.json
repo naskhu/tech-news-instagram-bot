@@ -6534,12 +6534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-e.png": {
-      "buffer_due_at_utc": "2026-07-28T23:48:42.000Z",
+      "buffer_due_at_utc": "2026-07-28T23:50:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a693dc134a0a0955d7242d2",
+      "buffer_post_id": "6a693dc67b325a18866610fa",
       "caption_file": "output/2026-07-28/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-e.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T23:50:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a693dc67b325a18866610fa",
+          "published_at_utc": "2026-07-28T23:39:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T23:48:42.000Z",
           "buffer_mode": "customScheduled",
@@ -6549,7 +6555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-e.png",
       "metadata_file": "output/2026-07-28/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-e.json",
-      "published_at_utc": "2026-07-28T23:39:45Z",
+      "published_at_utc": "2026-07-28T23:39:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-wi.png": {
