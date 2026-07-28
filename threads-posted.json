@@ -4909,12 +4909,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/ios-26-6-with-scores-of-iphone-security-updates-now-available-cnet.png": {
-      "buffer_due_at_utc": "2026-07-28T04:32:52.000Z",
+      "buffer_due_at_utc": "2026-07-28T04:34:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a682d84fbdf65da54141499",
+      "buffer_post_id": "6a682d8836205497cb860e67",
       "caption_file": "output/2026-07-27/ios-26-6-with-scores-of-iphone-security-updates-now-available-cnet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T04:34:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a682d8836205497cb860e67",
+          "published_at_utc": "2026-07-28T04:18:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T04:32:52.000Z",
           "buffer_mode": "customScheduled",
@@ -4924,7 +4930,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/ios-26-6-with-scores-of-iphone-security-updates-now-available-cnet.png",
       "metadata_file": "output/2026-07-27/ios-26-6-with-scores-of-iphone-security-updates-now-available-cnet.json",
-      "published_at_utc": "2026-07-28T04:18:12Z",
+      "published_at_utc": "2026-07-28T04:18:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27.png": {
