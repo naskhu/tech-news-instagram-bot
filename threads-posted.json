@@ -4509,12 +4509,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/dhs-official-resigns-citing-war-on-immigrants.png": {
-      "buffer_due_at_utc": "2026-07-28T00:15:55.000Z",
+      "buffer_due_at_utc": "2026-07-28T00:17:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67f3f493fe7e211c7048a3",
+      "buffer_post_id": "6a67f3f90a4862b8aca8d3e1",
       "caption_file": "output/2026-07-27/dhs-official-resigns-citing-war-on-immigrants.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T00:17:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67f3f90a4862b8aca8d3e1",
+          "published_at_utc": "2026-07-28T00:12:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T00:15:55.000Z",
           "buffer_mode": "customScheduled",
@@ -4524,7 +4530,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/dhs-official-resigns-citing-war-on-immigrants.png",
       "metadata_file": "output/2026-07-27/dhs-official-resigns-citing-war-on-immigrants.json",
-      "published_at_utc": "2026-07-28T00:12:36Z",
+      "published_at_utc": "2026-07-28T00:12:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/don-t-let-ai-do-the-talking-for-you.png": {
