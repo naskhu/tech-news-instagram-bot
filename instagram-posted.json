@@ -2648,6 +2648,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T06:41:48Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27.png": {
+      "buffer_post_id": "6a68514093fe7e211c744e65",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27.png",
+      "metadata_file": "output/2026-07-27/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T06:50:49Z",
+      "publisher": "buffer"
     }
   }
 }
