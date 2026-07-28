@@ -7183,6 +7183,25 @@
       "published_at_utc": "2026-07-28T20:23:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/t-mobile-s-huge-outage-is-officially-over.png": {
+      "buffer_due_at_utc": "2026-07-28T20:50:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a690fc3cbc4a3cf83458482",
+      "caption_file": "output/2026-07-28/t-mobile-s-huge-outage-is-officially-over.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T20:50:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a690fc3cbc4a3cf83458482",
+          "published_at_utc": "2026-07-28T20:23:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/t-mobile-s-huge-outage-is-officially-over.png",
+      "metadata_file": "output/2026-07-28/t-mobile-s-huge-outage-is-officially-over.json",
+      "published_at_utc": "2026-07-28T20:23:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/telstra-users-get-starlink-enabled-apps.png": {
       "buffer_due_at_utc": "2026-07-28T10:19:48.000Z",
       "buffer_mode": "customScheduled",
