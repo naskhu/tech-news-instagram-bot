@@ -6484,12 +6484,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terr.png": {
-      "buffer_due_at_utc": "2026-07-28T19:05:10.000Z",
+      "buffer_due_at_utc": "2026-07-28T19:07:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a68f90a0d504c933829aac6",
+      "buffer_post_id": "6a68f90f0d504c933829ab0e",
       "caption_file": "output/2026-07-28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T19:07:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a68f90f0d504c933829ab0e",
+          "published_at_utc": "2026-07-28T18:46:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T19:05:10.000Z",
           "buffer_mode": "customScheduled",
@@ -6499,7 +6505,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terr.png",
       "metadata_file": "output/2026-07-28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terr.json",
-      "published_at_utc": "2026-07-28T18:46:34Z",
+      "published_at_utc": "2026-07-28T18:46:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/google-workspace-promo-codes-14-off-for-july.png": {
