@@ -2757,6 +2757,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T07:24:07Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/nanoleaf-s-colorful-pegboard-and-shelf-kit-is-half-off.png": {
+      "buffer_post_id": "6a685b219a3b4f25fde4a36f",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-27/nanoleaf-s-colorful-pegboard-and-shelf-kit-is-half-off.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/nanoleaf-s-colorful-pegboard-and-shelf-kit-is-half-off.png",
+      "metadata_file": "output/2026-07-27/nanoleaf-s-colorful-pegboard-and-shelf-kit-is-half-off.json",
+      "published_at_utc": "2026-07-28T07:32:59Z",
+      "publisher": "buffer"
     }
   }
 }
