@@ -5083,6 +5083,25 @@
       "published_at_utc": "2026-07-27T18:48:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-27/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half.png": {
+      "buffer_due_at_utc": "2026-07-28T04:41:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a682d8d89994c28ee4dec13",
+      "caption_file": "output/2026-07-27/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T04:41:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a682d8d89994c28ee4dec13",
+          "published_at_utc": "2026-07-28T04:18:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half.png",
+      "metadata_file": "output/2026-07-27/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half.json",
+      "published_at_utc": "2026-07-28T04:18:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-27/microsoft-says-its-project-perception-ai-system-can-continuously-inves.png": {
       "buffer_due_at_utc": "2026-07-27T20:03:57.000Z",
       "buffer_mode": "customScheduled",
