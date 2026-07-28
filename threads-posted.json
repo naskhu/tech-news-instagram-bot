@@ -6158,6 +6158,25 @@
       "published_at_utc": "2026-07-28T01:02:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/apple-is-sunsetting-the-iphone-upgrade-program.png": {
+      "buffer_due_at_utc": "2026-07-28T18:54:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a68f8e403ac94de4abe86f5",
+      "caption_file": "output/2026-07-28/apple-is-sunsetting-the-iphone-upgrade-program.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T18:54:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a68f8e403ac94de4abe86f5",
+          "published_at_utc": "2026-07-28T18:45:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/apple-is-sunsetting-the-iphone-upgrade-program.png",
+      "metadata_file": "output/2026-07-28/apple-is-sunsetting-the-iphone-upgrade-program.json",
+      "published_at_utc": "2026-07-28T18:45:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/b-h-photo-promo-codes-and-deals-this-july-2026.png": {
       "buffer_due_at_utc": "2026-07-28T07:10:59.000Z",
       "buffer_mode": "customScheduled",
