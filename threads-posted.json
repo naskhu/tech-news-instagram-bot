@@ -4384,12 +4384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/apple-delays-smart-glasses-launch-over-privacy-issues-report-says-cnet.png": {
-      "buffer_due_at_utc": "2026-07-28T04:21:31.000Z",
+      "buffer_due_at_utc": "2026-07-28T04:23:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a682d7b93fe7e211c72db2f",
+      "buffer_post_id": "6a682d7f89994c28ee4debb8",
       "caption_file": "output/2026-07-27/apple-delays-smart-glasses-launch-over-privacy-issues-report-says-cnet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T04:23:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a682d7f89994c28ee4debb8",
+          "published_at_utc": "2026-07-28T04:18:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T04:21:31.000Z",
           "buffer_mode": "customScheduled",
@@ -4399,7 +4405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/apple-delays-smart-glasses-launch-over-privacy-issues-report-says-cnet.png",
       "metadata_file": "output/2026-07-27/apple-delays-smart-glasses-launch-over-privacy-issues-report-says-cnet.json",
-      "published_at_utc": "2026-07-28T04:18:03Z",
+      "published_at_utc": "2026-07-28T04:18:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m.png": {
