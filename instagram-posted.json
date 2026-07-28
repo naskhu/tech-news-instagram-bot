@@ -2789,6 +2789,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T07:53:20Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/nvidia-invested-billions-in-ilya-sutskever-s-ai-company-safe-superinte.png": {
+      "buffer_post_id": "6a6863da4cb118ddbb411b5b",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/nvidia-invested-billions-in-ilya-sutskever-s-ai-company-safe-superinte.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/nvidia-invested-billions-in-ilya-sutskever-s-ai-company-safe-superinte.png",
+      "metadata_file": "output/2026-07-27/nvidia-invested-billions-in-ilya-sutskever-s-ai-company-safe-superinte.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T08:10:09Z",
+      "publisher": "buffer"
     }
   }
 }
