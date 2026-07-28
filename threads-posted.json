@@ -7383,6 +7383,25 @@
       "published_at_utc": "2026-07-28T06:45:48Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit.png": {
+      "buffer_due_at_utc": "2026-07-29T00:28:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a693de1d3cfdc3678f44c28",
+      "caption_file": "output/2026-07-28/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T00:28:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a693de1d3cfdc3678f44c28",
+          "published_at_utc": "2026-07-28T23:40:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit.png",
+      "metadata_file": "output/2026-07-28/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit.json",
+      "published_at_utc": "2026-07-28T23:40:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/recursive-superintelligence-signs-410-compute-deal-with-amazon-techcru.png": {
       "buffer_due_at_utc": "2026-07-28T20:32:34.000Z",
       "buffer_mode": "customScheduled",
