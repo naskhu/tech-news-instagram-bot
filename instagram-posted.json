@@ -3106,6 +3106,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T10:48:23Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/youtube-premium-will-include-peacock-starting-next-year.png": {
+      "buffer_post_id": "6a6888f9d4d93977c9b10442",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/youtube-premium-will-include-peacock-starting-next-year.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/youtube-premium-will-include-peacock-starting-next-year.png",
+      "metadata_file": "output/2026-07-27/youtube-premium-will-include-peacock-starting-next-year.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T10:48:33Z",
+      "publisher": "buffer"
     }
   }
 }
