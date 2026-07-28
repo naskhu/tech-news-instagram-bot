@@ -2997,6 +2997,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T10:14:25Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/this-is-my-new-favorite-laptop-but-thanks-to-ramageddon-it-already-wen.png": {
+      "buffer_post_id": "6a6881c2602e6f9b4146f683",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/this-is-my-new-favorite-laptop-but-thanks-to-ramageddon-it-already-wen.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/this-is-my-new-favorite-laptop-but-thanks-to-ramageddon-it-already-wen.png",
+      "metadata_file": "output/2026-07-27/this-is-my-new-favorite-laptop-but-thanks-to-ramageddon-it-already-wen.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T10:17:45Z",
+      "publisher": "buffer"
     }
   }
 }
