@@ -2485,6 +2485,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T04:14:21Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/dhs-official-resigns-citing-war-on-immigrants.png": {
+      "buffer_post_id": "6a682c9f93fe7e211c72d052",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/dhs-official-resigns-citing-war-on-immigrants.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/dhs-official-resigns-citing-war-on-immigrants.png",
+      "metadata_file": "output/2026-07-27/dhs-official-resigns-citing-war-on-immigrants.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T04:14:30Z",
+      "publisher": "buffer"
     }
   }
 }
