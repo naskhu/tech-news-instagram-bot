@@ -2855,6 +2855,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T08:38:00Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/private-claude-chats-exposed-in-google-and-bing-search-results.png": {
+      "buffer_post_id": "6a686acd7e8cbcebb3b4c7b1",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/private-claude-chats-exposed-in-google-and-bing-search-results.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/private-claude-chats-exposed-in-google-and-bing-search-results.png",
+      "metadata_file": "output/2026-07-27/private-claude-chats-exposed-in-google-and-bing-search-results.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T08:39:50Z",
+      "publisher": "buffer"
     }
   }
 }
