@@ -2954,6 +2954,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T10:13:04Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/the-chatgpt-feature-most-people-ignore-is-the-one-worth-using-every-da.png": {
+      "buffer_post_id": "6a6880d79db6d32dfccd547a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/the-chatgpt-feature-most-people-ignore-is-the-one-worth-using-every-da.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/the-chatgpt-feature-most-people-ignore-is-the-one-worth-using-every-da.png",
+      "metadata_file": "output/2026-07-27/the-chatgpt-feature-most-people-ignore-is-the-one-worth-using-every-da.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T10:13:51Z",
+      "publisher": "buffer"
     }
   }
 }
