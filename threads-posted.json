@@ -6633,6 +6633,25 @@
       "published_at_utc": "2026-07-28T18:46:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.png": {
+      "buffer_due_at_utc": "2026-07-29T00:20:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a693dcc7b325a188666111e",
+      "caption_file": "output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T00:20:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a693dcc7b325a188666111e",
+          "published_at_utc": "2026-07-28T23:39:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.png",
+      "metadata_file": "output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.json",
+      "published_at_utc": "2026-07-28T23:39:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/double-fine-is-laying-off-23-staffers-after-going-independent.png": {
       "buffer_due_at_utc": "2026-07-28T20:17:52.000Z",
       "buffer_mode": "customScheduled",
