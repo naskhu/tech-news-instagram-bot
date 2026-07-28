@@ -6458,6 +6458,25 @@
       "published_at_utc": "2026-07-28T09:34:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/minnesota-s-prediction-markets-ban-has-been-derailed.png": {
+      "buffer_due_at_utc": "2026-07-28T12:33:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a689531694dc37eb7beb22c",
+      "caption_file": "output/2026-07-28/minnesota-s-prediction-markets-ban-has-been-derailed.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T12:33:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a689531694dc37eb7beb22c",
+          "published_at_utc": "2026-07-28T11:40:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/minnesota-s-prediction-markets-ban-has-been-derailed.png",
+      "metadata_file": "output/2026-07-28/minnesota-s-prediction-markets-ban-has-been-derailed.json",
+      "published_at_utc": "2026-07-28T11:40:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/priceline-promo-codes-coupons-10-off-july.png": {
       "buffer_due_at_utc": "2026-07-28T07:27:01.000Z",
       "buffer_mode": "customScheduled",
