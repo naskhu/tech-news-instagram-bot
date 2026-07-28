@@ -2986,6 +2986,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T10:14:14Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.png": {
+      "buffer_post_id": "6a6880f82dcd5a840df3e690",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.png",
+      "metadata_file": "output/2026-07-27/this-is-donald-trump-s-ai-brain-trust.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T10:14:25Z",
+      "publisher": "buffer"
     }
   }
 }
