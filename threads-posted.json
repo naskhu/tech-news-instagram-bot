@@ -7133,6 +7133,25 @@
       "published_at_utc": "2026-07-28T20:23:07Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/smart-rings-are-looking-like-my-kind-of-ai-gadget.png": {
+      "buffer_due_at_utc": "2026-07-28T20:40:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a690faffa1472dcafe80ca6",
+      "caption_file": "output/2026-07-28/smart-rings-are-looking-like-my-kind-of-ai-gadget.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T20:40:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a690faffa1472dcafe80ca6",
+          "published_at_utc": "2026-07-28T20:23:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/smart-rings-are-looking-like-my-kind-of-ai-gadget.png",
+      "metadata_file": "output/2026-07-28/smart-rings-are-looking-like-my-kind-of-ai-gadget.json",
+      "published_at_utc": "2026-07-28T20:23:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/telstra-users-get-starlink-enabled-apps.png": {
       "buffer_due_at_utc": "2026-07-28T10:19:48.000Z",
       "buffer_mode": "customScheduled",
