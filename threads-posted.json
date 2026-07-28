@@ -6009,12 +6009,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/airdoctor-coupon-codes-40-off-july-2026.png": {
-      "buffer_due_at_utc": "2026-07-28T06:45:24.000Z",
+      "buffer_due_at_utc": "2026-07-28T06:47:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a684ef993a2a36cd59e64cc",
+      "buffer_post_id": "6a684efe4052a60341d2e994",
       "caption_file": "output/2026-07-28/airdoctor-coupon-codes-40-off-july-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T06:47:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a684efe4052a60341d2e994",
+          "published_at_utc": "2026-07-28T06:41:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T06:45:24.000Z",
           "buffer_mode": "customScheduled",
@@ -6024,7 +6030,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/airdoctor-coupon-codes-40-off-july-2026.png",
       "metadata_file": "output/2026-07-28/airdoctor-coupon-codes-40-off-july-2026.json",
-      "published_at_utc": "2026-07-28T06:40:57Z",
+      "published_at_utc": "2026-07-28T06:41:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-bu.png": {
