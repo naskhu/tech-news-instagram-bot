@@ -6433,6 +6433,25 @@
       "published_at_utc": "2026-07-28T01:03:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-lar.png": {
+      "buffer_due_at_utc": "2026-07-28T19:03:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a68f9019cb4897a71fbafd4",
+      "caption_file": "output/2026-07-28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-lar.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T19:03:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a68f9019cb4897a71fbafd4",
+          "published_at_utc": "2026-07-28T18:46:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-lar.png",
+      "metadata_file": "output/2026-07-28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-lar.json",
+      "published_at_utc": "2026-07-28T18:46:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/dyson-v16-piston-animal-submarine-review-powerful-but-pricey.png": {
       "buffer_due_at_utc": "2026-07-28T10:18:03.000Z",
       "buffer_mode": "customScheduled",
