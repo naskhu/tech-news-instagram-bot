@@ -7484,12 +7484,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/want-to-major-in-being-an-influencer.png": {
-      "buffer_due_at_utc": "2026-07-28T21:59:59.000Z",
+      "buffer_due_at_utc": "2026-07-28T22:01:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a692121dfabce7dfcd9bfa5",
+      "buffer_post_id": "6a692126384b4cdabfd2d042",
       "caption_file": "output/2026-07-28/want-to-major-in-being-an-influencer.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T22:01:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a692126384b4cdabfd2d042",
+          "published_at_utc": "2026-07-28T21:37:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T21:59:59.000Z",
           "buffer_mode": "customScheduled",
@@ -7499,7 +7505,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/want-to-major-in-being-an-influencer.png",
       "metadata_file": "output/2026-07-28/want-to-major-in-being-an-influencer.json",
-      "published_at_utc": "2026-07-28T21:37:37Z",
+      "published_at_utc": "2026-07-28T21:37:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/what-if-the-windshield-was-a-display.png": {
