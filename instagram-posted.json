@@ -2800,6 +2800,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T08:10:09Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/nvidia-is-making-investors-nervous.png": {
+      "buffer_post_id": "6a6865d4146bfcf061e8c573",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/nvidia-is-making-investors-nervous.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/nvidia-is-making-investors-nervous.png",
+      "metadata_file": "output/2026-07-27/nvidia-is-making-investors-nervous.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T08:18:36Z",
+      "publisher": "buffer"
     }
   }
 }
