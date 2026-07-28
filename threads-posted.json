@@ -6283,6 +6283,25 @@
       "published_at_utc": "2026-07-28T09:34:38Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/lyft-and-baidu-s-robotaxis-hit-the-streets-of-london.png": {
+      "buffer_due_at_utc": "2026-07-28T10:26:42.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6877b47e8cbcebb3b55cba",
+      "caption_file": "output/2026-07-28/lyft-and-baidu-s-robotaxis-hit-the-streets-of-london.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T10:26:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6877b47e8cbcebb3b55cba",
+          "published_at_utc": "2026-07-28T09:34:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/lyft-and-baidu-s-robotaxis-hit-the-streets-of-london.png",
+      "metadata_file": "output/2026-07-28/lyft-and-baidu-s-robotaxis-hit-the-streets-of-london.json",
+      "published_at_utc": "2026-07-28T09:34:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/priceline-promo-codes-coupons-10-off-july.png": {
       "buffer_due_at_utc": "2026-07-28T07:27:01.000Z",
       "buffer_mode": "customScheduled",
