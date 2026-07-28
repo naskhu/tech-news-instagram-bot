@@ -6234,12 +6234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/dyson-v16-piston-animal-submarine-review-powerful-but-pricey.png": {
-      "buffer_due_at_utc": "2026-07-28T10:16:03.000Z",
+      "buffer_due_at_utc": "2026-07-28T10:18:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a687afe7c69e407413fea1e",
+      "buffer_post_id": "6a687b022dcd5a840df39161",
       "caption_file": "output/2026-07-28/dyson-v16-piston-animal-submarine-review-powerful-but-pricey.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T10:18:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a687b022dcd5a840df39161",
+          "published_at_utc": "2026-07-28T09:48:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T10:16:03.000Z",
           "buffer_mode": "customScheduled",
@@ -6249,7 +6255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/dyson-v16-piston-animal-submarine-review-powerful-but-pricey.png",
       "metadata_file": "output/2026-07-28/dyson-v16-piston-animal-submarine-review-powerful-but-pricey.json",
-      "published_at_utc": "2026-07-28T09:48:46Z",
+      "published_at_utc": "2026-07-28T09:48:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/google-workspace-promo-codes-14-off-for-july.png": {
