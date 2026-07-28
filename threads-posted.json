@@ -7584,12 +7584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/the-us-is-banning-foreign-robots.png": {
-      "buffer_due_at_utc": "2026-07-28T23:27:17.000Z",
+      "buffer_due_at_utc": "2026-07-28T23:29:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69301c55a4f4b8a1a05e02",
+      "buffer_post_id": "6a693021a0627aa9301d30ac",
       "caption_file": "output/2026-07-28/the-us-is-banning-foreign-robots.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T23:29:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a693021a0627aa9301d30ac",
+          "published_at_utc": "2026-07-28T22:41:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T23:27:17.000Z",
           "buffer_mode": "customScheduled",
@@ -7599,7 +7605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/the-us-is-banning-foreign-robots.png",
       "metadata_file": "output/2026-07-28/the-us-is-banning-foreign-robots.json",
-      "published_at_utc": "2026-07-28T22:41:32Z",
+      "published_at_utc": "2026-07-28T22:41:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.png": {
