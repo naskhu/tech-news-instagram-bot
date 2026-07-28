@@ -6659,12 +6659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/granola-launches-an-apple-watch-app.png": {
-      "buffer_due_at_utc": "2026-07-28T18:55:16.000Z",
+      "buffer_due_at_utc": "2026-07-28T20:18:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a68fa880925a9ea7439e682",
+      "buffer_post_id": "6a690d873f1f0f1e50fef7e3",
       "caption_file": "output/2026-07-28/granola-launches-an-apple-watch-app.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T20:18:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a690d873f1f0f1e50fef7e3",
+          "published_at_utc": "2026-07-28T20:13:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T18:55:16.000Z",
           "buffer_mode": "customScheduled",
@@ -6674,7 +6680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/granola-launches-an-apple-watch-app.png",
       "metadata_file": "output/2026-07-28/granola-launches-an-apple-watch-app.json",
-      "published_at_utc": "2026-07-28T18:52:56Z",
+      "published_at_utc": "2026-07-28T20:13:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/hugging-face-has-a-deepfake-nudes-problem.png": {
