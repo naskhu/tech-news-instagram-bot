@@ -7559,12 +7559,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/whatsapp-now-lets-you-make-calls-using-its-web-app-techcrunch.png": {
-      "buffer_due_at_utc": "2026-07-28T22:04:50.000Z",
+      "buffer_due_at_utc": "2026-07-28T22:06:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6921355e133411ca8ad9de",
+      "buffer_post_id": "6a69213a384b4cdabfd2d0e0",
       "caption_file": "output/2026-07-28/whatsapp-now-lets-you-make-calls-using-its-web-app-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T22:06:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69213a384b4cdabfd2d0e0",
+          "published_at_utc": "2026-07-28T21:38:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T22:04:50.000Z",
           "buffer_mode": "customScheduled",
@@ -7574,7 +7580,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/whatsapp-now-lets-you-make-calls-using-its-web-app-techcrunch.png",
       "metadata_file": "output/2026-07-28/whatsapp-now-lets-you-make-calls-using-its-web-app-techcrunch.json",
-      "published_at_utc": "2026-07-28T21:37:58Z",
+      "published_at_utc": "2026-07-28T21:38:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/xbox-live-is-back-online-microsoft-says-but-some-players-want-compensa.png": {
