@@ -4809,12 +4809,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago.png": {
-      "buffer_due_at_utc": "2026-07-28T01:04:17.000Z",
+      "buffer_due_at_utc": "2026-07-28T01:06:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a67ffa6f548c7887af464fd",
+      "buffer_post_id": "6a67ffabf548c7887af4659d",
       "caption_file": "output/2026-07-27/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T01:06:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a67ffabf548c7887af4659d",
+          "published_at_utc": "2026-07-28T01:02:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T01:04:17.000Z",
           "buffer_mode": "customScheduled",
@@ -4824,7 +4830,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago.png",
       "metadata_file": "output/2026-07-27/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago.json",
-      "published_at_utc": "2026-07-28T01:02:30Z",
+      "published_at_utc": "2026-07-28T01:02:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-27/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27.png": {
