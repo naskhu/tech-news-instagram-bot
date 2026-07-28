@@ -2746,6 +2746,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T07:20:49Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.png": {
+      "buffer_post_id": "6a68590f4052a60341d370ba",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.png",
+      "metadata_file": "output/2026-07-27/moonshot-ai-releases-hotly-anticipated-kimi-k3-weights.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T07:24:07Z",
+      "publisher": "buffer"
     }
   }
 }
