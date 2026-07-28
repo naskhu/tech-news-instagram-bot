@@ -6134,12 +6134,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/ai-s-finally-expensive-enough-to-make-wall-street-nervous.png": {
-      "buffer_due_at_utc": "2026-07-28T22:42:19.000Z",
+      "buffer_due_at_utc": "2026-07-28T22:44:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a692a883e6563be83e0385e",
+      "buffer_post_id": "6a692a8ee9586dfc9053676e",
       "caption_file": "output/2026-07-28/ai-s-finally-expensive-enough-to-make-wall-street-nervous.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T22:44:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a692a8ee9586dfc9053676e",
+          "published_at_utc": "2026-07-28T22:17:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T22:42:19.000Z",
           "buffer_mode": "customScheduled",
@@ -6149,7 +6155,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/ai-s-finally-expensive-enough-to-make-wall-street-nervous.png",
       "metadata_file": "output/2026-07-28/ai-s-finally-expensive-enough-to-make-wall-street-nervous.json",
-      "published_at_utc": "2026-07-28T22:17:44Z",
+      "published_at_utc": "2026-07-28T22:17:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/airdoctor-coupon-codes-40-off-july-2026.png": {
