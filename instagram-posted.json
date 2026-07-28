@@ -2334,6 +2334,17 @@
       "published_at_utc": "2026-07-28T03:52:50Z",
       "publisher": "buffer"
     },
+    "output/2026-07-27/a-missing-underscore-sent-innocent-man-to-prison-for-18-months.png": {
+      "buffer_post_id": "6a6828d936205497cb85bedd",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-27/a-missing-underscore-sent-innocent-man-to-prison-for-18-months.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-27/a-missing-underscore-sent-innocent-man-to-prison-for-18-months.png",
+      "metadata_file": "output/2026-07-27/a-missing-underscore-sent-innocent-man-to-prison-for-18-months.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T03:58:24Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-27/amazon-s-new-satellite-network-for-mobile-phones-could-turn-up-the-hea.png": {
       "buffer_post_id": "6a679fea63a44c942ba78aa3",
       "buffer_status": "error",
