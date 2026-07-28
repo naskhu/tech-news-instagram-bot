@@ -6084,12 +6084,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-wi.png": {
-      "buffer_due_at_utc": "2026-07-28T07:15:50.000Z",
+      "buffer_due_at_utc": "2026-07-28T07:17:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a684f0c4052a60341d2ea95",
+      "buffer_post_id": "6a684f1136205497cb876fba",
       "caption_file": "output/2026-07-28/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-wi.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T07:17:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a684f1136205497cb876fba",
+          "published_at_utc": "2026-07-28T06:41:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T07:15:50.000Z",
           "buffer_mode": "customScheduled",
@@ -6099,7 +6105,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-wi.png",
       "metadata_file": "output/2026-07-28/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-wi.json",
-      "published_at_utc": "2026-07-28T06:41:16Z",
+      "published_at_utc": "2026-07-28T06:41:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/dario-amodei-weighed-in-on-anthropic-s-open-weight-model-controversy.png": {
