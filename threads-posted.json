@@ -7383,6 +7383,25 @@
       "published_at_utc": "2026-07-28T09:49:00Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-co.png": {
+      "buffer_due_at_utc": "2026-07-28T21:45:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6920f6d546884eed5e19cc",
+      "caption_file": "output/2026-07-28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-co.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-28T21:45:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6920f6d546884eed5e19cc",
+          "published_at_utc": "2026-07-28T21:36:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-co.png",
+      "metadata_file": "output/2026-07-28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-co.json",
+      "published_at_utc": "2026-07-28T21:36:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/what-if-the-windshield-was-a-display.png": {
       "buffer_due_at_utc": "2026-07-28T10:31:08.000Z",
       "buffer_mode": "customScheduled",
