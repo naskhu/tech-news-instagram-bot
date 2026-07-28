@@ -7084,12 +7084,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-sto.png": {
-      "buffer_due_at_utc": "2026-07-29T00:23:48.000Z",
+      "buffer_due_at_utc": "2026-07-29T00:25:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a693dd77b325a18866611ae",
+      "buffer_post_id": "6a693ddc34a0a0955d7243e2",
       "caption_file": "output/2026-07-28/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-sto.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T00:25:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a693ddc34a0a0955d7243e2",
+          "published_at_utc": "2026-07-28T23:40:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T00:23:48.000Z",
           "buffer_mode": "customScheduled",
@@ -7099,7 +7105,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-sto.png",
       "metadata_file": "output/2026-07-28/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-sto.json",
-      "published_at_utc": "2026-07-28T23:40:07Z",
+      "published_at_utc": "2026-07-28T23:40:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.png": {
