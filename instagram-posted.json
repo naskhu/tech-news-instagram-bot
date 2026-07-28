@@ -3117,6 +3117,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-28T10:48:33Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/4gb-graphics-cards-are-back.png": {
+      "buffer_post_id": "6a68f80093bc4cdf7a5bd32f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/4gb-graphics-cards-are-back.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/4gb-graphics-cards-are-back.png",
+      "metadata_file": "output/2026-07-28/4gb-graphics-cards-are-back.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-28T18:42:17Z",
+      "publisher": "buffer"
     }
   }
 }
