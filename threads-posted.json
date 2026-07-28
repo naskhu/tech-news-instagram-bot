@@ -7734,12 +7734,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/this-comfy-gaming-headset-that-can-play-audio-from-two-sources-is-25.png": {
-      "buffer_due_at_utc": "2026-07-28T22:53:21.000Z",
+      "buffer_due_at_utc": "2026-07-29T00:36:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6930833e6563be83e071f5",
+      "buffer_post_id": "6a693deb06a2545880995d2a",
       "caption_file": "output/2026-07-28/this-comfy-gaming-headset-that-can-play-audio-from-two-sources-is-25.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T00:36:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a693deb06a2545880995d2a",
+          "published_at_utc": "2026-07-28T23:40:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T22:53:21.000Z",
           "buffer_mode": "customScheduled",
@@ -7749,7 +7755,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/this-comfy-gaming-headset-that-can-play-audio-from-two-sources-is-25.png",
       "metadata_file": "output/2026-07-28/this-comfy-gaming-headset-that-can-play-audio-from-two-sources-is-25.json",
-      "published_at_utc": "2026-07-28T22:43:15Z",
+      "published_at_utc": "2026-07-28T23:40:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/twelve-south-s-stylish-charging-tray-now-delivers-more-wireless-power-.png": {
