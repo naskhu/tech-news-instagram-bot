@@ -6684,12 +6684,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/grok-now-lets-you-use-an-ai-prompt-to-build-apps.png": {
-      "buffer_due_at_utc": "2026-07-28T20:16:34.000Z",
+      "buffer_due_at_utc": "2026-07-28T20:18:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a690d8cfa1472dcafe7fe19",
+      "buffer_post_id": "6a690d91adc0558feff17017",
       "caption_file": "output/2026-07-28/grok-now-lets-you-use-an-ai-prompt-to-build-apps.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T20:18:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a690d91adc0558feff17017",
+          "published_at_utc": "2026-07-28T20:14:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T20:16:34.000Z",
           "buffer_mode": "customScheduled",
@@ -6699,7 +6705,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/grok-now-lets-you-use-an-ai-prompt-to-build-apps.png",
       "metadata_file": "output/2026-07-28/grok-now-lets-you-use-an-ai-prompt-to-build-apps.json",
-      "published_at_utc": "2026-07-28T20:14:04Z",
+      "published_at_utc": "2026-07-28T20:14:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/hugging-face-has-a-deepfake-nudes-problem.png": {
