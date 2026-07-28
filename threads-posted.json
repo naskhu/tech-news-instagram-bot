@@ -6084,12 +6084,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/birdfy-discount-codes-15-off-sitewide.png": {
-      "buffer_due_at_utc": "2026-07-28T06:51:09.000Z",
+      "buffer_due_at_utc": "2026-07-28T06:53:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a684ff989994c28ee4f6e82",
+      "buffer_post_id": "6a684ffe36205497cb87753c",
       "caption_file": "output/2026-07-28/birdfy-discount-codes-15-off-sitewide.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-28T06:53:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a684ffe36205497cb87753c",
+          "published_at_utc": "2026-07-28T06:45:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-28T06:51:09.000Z",
           "buffer_mode": "customScheduled",
@@ -6099,7 +6105,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/birdfy-discount-codes-15-off-sitewide.png",
       "metadata_file": "output/2026-07-28/birdfy-discount-codes-15-off-sitewide.json",
-      "published_at_utc": "2026-07-28T06:45:13Z",
+      "published_at_utc": "2026-07-28T06:45:18Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-wi.png": {
