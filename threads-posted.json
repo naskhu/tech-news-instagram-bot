@@ -6358,6 +6358,25 @@
       "published_at_utc": "2026-07-28T22:18:00Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments.png": {
+      "buffer_due_at_utc": "2026-07-29T03:41:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6975c27b325a188668583a",
+      "caption_file": "output/2026-07-28/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T03:41:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6975c27b325a188668583a",
+          "published_at_utc": "2026-07-29T03:38:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments.png",
+      "metadata_file": "output/2026-07-28/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments.json",
+      "published_at_utc": "2026-07-29T03:38:42Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/b-h-photo-promo-codes-and-deals-this-july-2026.png": {
       "buffer_due_at_utc": "2026-07-28T07:10:59.000Z",
       "buffer_mode": "customScheduled",
