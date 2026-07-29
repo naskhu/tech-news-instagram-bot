@@ -9509,12 +9509,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.png": {
-      "buffer_due_at_utc": "2026-07-29T20:22:13.000Z",
+      "buffer_due_at_utc": "2026-07-29T20:24:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a5c77741fe65687b0172b",
+      "buffer_post_id": "6a6a5c7bc8e22269d5600d74",
       "caption_file": "output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T20:24:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a5c7bc8e22269d5600d74",
+          "published_at_utc": "2026-07-29T20:03:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T20:22:13.000Z",
           "buffer_mode": "customScheduled",
@@ -9524,7 +9530,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.png",
       "metadata_file": "output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.json",
-      "published_at_utc": "2026-07-29T20:03:03Z",
+      "published_at_utc": "2026-07-29T20:03:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/when-a-1-200-percent-profit-boost-isn-t-good-enough.png": {
