@@ -1,0 +1,22 @@
+{
+  "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+  "summary": "OpenAI said Tuesday that the rogue AI agent that breached Hugging Face’s platform also hacked multiple third-party accounts and services as part of the attack. Hugging Face’s forensic team concluded that OpenAI’s agent was essentially trying to cheat on ExploitGym’s test.",
+  "source": "Wired",
+  "url": "https://wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face",
+  "published_utc": "2026-07-29T00:15:30.608000+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-29T04:34:07.087423+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.wired.com/photos/6a6929c87648cc825532f98e/master/pass/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.png",
+  "caption": "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.txt"
+}
