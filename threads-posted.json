@@ -8933,6 +8933,25 @@
       "published_at_utc": "2026-07-29T01:08:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.png": {
+      "buffer_due_at_utc": "2026-07-29T19:51:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a57c5741fe65687afdddc",
+      "caption_file": "output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T19:51:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a57c5741fe65687afdddc",
+          "published_at_utc": "2026-07-29T19:43:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.png",
+      "metadata_file": "output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.json",
+      "published_at_utc": "2026-07-29T19:43:01Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/nasa-s-new-3d-model-shows-the-earth-is-a-lumpy-mess.png": {
       "buffer_due_at_utc": "2026-07-29T10:24:50.000Z",
       "buffer_mode": "customScheduled",
