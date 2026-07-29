@@ -8383,6 +8383,25 @@
       "published_at_utc": "2026-07-29T01:08:00Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.png": {
+      "buffer_due_at_utc": "2026-07-29T10:41:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a69d3686fd9e8e56e5b929e",
+      "caption_file": "output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T10:41:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69d3686fd9e8e56e5b929e",
+          "published_at_utc": "2026-07-29T10:18:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.png",
+      "metadata_file": "output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.json",
+      "published_at_utc": "2026-07-29T10:18:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/elon-musk-is-challenging-minnesota-s-ban-on-nudify-services.png": {
       "buffer_due_at_utc": "2026-07-29T10:22:05.000Z",
       "buffer_mode": "customScheduled",
