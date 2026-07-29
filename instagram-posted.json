@@ -3422,6 +3422,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T05:38:35Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.png": {
+      "buffer_post_id": "6a699225e9aefbbb12a88957",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.png",
+      "metadata_file": "output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T05:39:55Z",
+      "publisher": "buffer"
     }
   }
 }
