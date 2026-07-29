@@ -1,0 +1,22 @@
+{
+  "title": "NASA’s New 3D Model Shows the Earth Is a Lumpy Mess",
+  "summary": "NASA has released a new geoid model showing the shape of Earth’s gravitational field . NASA created this lumpy version of Earth using models and data from satellites, which can detect minute differences in gravity at different locations.",
+  "source": "Wired",
+  "url": "https://wired.com/story/nasas-new-3d-model-shows-lumpy-earth",
+  "published_utc": "2026-07-29T09:30:00+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-29T09:49:41.132145+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://media.wired.com/photos/6a68e4742bb593fe1e1a38d6/master/pass/geoide.png",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-07-29/nasa-s-new-3d-model-shows-the-earth-is-a-lumpy-mess.png",
+  "caption": "output/2026-07-29/nasa-s-new-3d-model-shows-the-earth-is-a-lumpy-mess.txt"
+}
