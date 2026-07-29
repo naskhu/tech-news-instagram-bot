@@ -3543,6 +3543,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T07:25:55Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/granola-launches-an-apple-watch-app.png": {
+      "buffer_post_id": "6a69abc034a0a0955d770adb",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/granola-launches-an-apple-watch-app.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/granola-launches-an-apple-watch-app.png",
+      "metadata_file": "output/2026-07-28/granola-launches-an-apple-watch-app.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T07:29:12Z",
+      "publisher": "buffer"
     }
   }
 }
