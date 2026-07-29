@@ -9034,12 +9034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/openai-president-says-it-s-building-a-family-of-devices-for-its-ai-cha.png": {
-      "buffer_due_at_utc": "2026-07-29T19:52:42.000Z",
+      "buffer_due_at_utc": "2026-07-29T19:54:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a57cf4c3e08c4ba4f72af",
+      "buffer_post_id": "6a6a57d30bf049181fa2469f",
       "caption_file": "output/2026-07-29/openai-president-says-it-s-building-a-family-of-devices-for-its-ai-cha.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T19:54:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a57d30bf049181fa2469f",
+          "published_at_utc": "2026-07-29T19:43:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T19:52:42.000Z",
           "buffer_mode": "customScheduled",
@@ -9049,7 +9055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/openai-president-says-it-s-building-a-family-of-devices-for-its-ai-cha.png",
       "metadata_file": "output/2026-07-29/openai-president-says-it-s-building-a-family-of-devices-for-its-ai-cha.json",
-      "published_at_utc": "2026-07-29T19:43:11Z",
+      "published_at_utc": "2026-07-29T19:43:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/openai-s-rogue-ai-agent-didn-t-stop-at-hacking-hugging-face.png": {
