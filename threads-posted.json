@@ -8333,6 +8333,25 @@
       "published_at_utc": "2026-07-29T01:08:00Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/lg-promo-codes-and-coupons-for-july-2026.png": {
+      "buffer_due_at_utc": "2026-07-29T07:12:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a69a1a67b325a18866a436c",
+      "caption_file": "output/2026-07-29/lg-promo-codes-and-coupons-for-july-2026.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T07:12:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69a1a67b325a18866a436c",
+          "published_at_utc": "2026-07-29T06:45:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/lg-promo-codes-and-coupons-for-july-2026.png",
+      "metadata_file": "output/2026-07-29/lg-promo-codes-and-coupons-for-july-2026.json",
+      "published_at_utc": "2026-07-29T06:45:58Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/logitech-isn-t-affected-by-ramageddon-but-a-chipmaker-incident-may-cos.png": {
       "buffer_due_at_utc": "2026-07-29T02:00:41.000Z",
       "buffer_mode": "customScheduled",
