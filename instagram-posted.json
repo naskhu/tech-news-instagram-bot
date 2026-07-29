@@ -3358,6 +3358,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T04:59:38Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/chatgpt-now-refuses-to-mimic-famous-authors.png": {
+      "buffer_post_id": "6a6988ead3cfdc3678f73de9",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-28/chatgpt-now-refuses-to-mimic-famous-authors.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/chatgpt-now-refuses-to-mimic-famous-authors.png",
+      "metadata_file": "output/2026-07-28/chatgpt-now-refuses-to-mimic-famous-authors.json",
+      "published_at_utc": "2026-07-29T05:00:37Z",
+      "publisher": "buffer"
     }
   }
 }
