@@ -6709,12 +6709,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/ebay-pays-46m-to-journalists-it-targeted-in-bizarre-harassment-campaig.png": {
-      "buffer_due_at_utc": "2026-07-29T00:25:45.000Z",
+      "buffer_due_at_utc": "2026-07-29T00:27:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6944eb34a0a0955d728ff1",
+      "buffer_post_id": "6a6944f006a254588099a3c1",
       "caption_file": "output/2026-07-28/ebay-pays-46m-to-journalists-it-targeted-in-bizarre-harassment-campaig.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T00:27:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6944f006a254588099a3c1",
+          "published_at_utc": "2026-07-29T00:10:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T00:25:45.000Z",
           "buffer_mode": "customScheduled",
@@ -6724,7 +6730,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/ebay-pays-46m-to-journalists-it-targeted-in-bizarre-harassment-campaig.png",
       "metadata_file": "output/2026-07-28/ebay-pays-46m-to-journalists-it-targeted-in-bizarre-harassment-campaig.json",
-      "published_at_utc": "2026-07-29T00:10:19Z",
+      "published_at_utc": "2026-07-29T00:10:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terr.png": {
