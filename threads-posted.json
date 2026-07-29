@@ -9009,12 +9009,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/openai-s-rogue-ai-agent-didn-t-stop-at-hacking-hugging-face.png": {
-      "buffer_due_at_utc": "2026-07-29T19:28:51.000Z",
+      "buffer_due_at_utc": "2026-07-29T19:30:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a4f45f009917e820e81f2",
+      "buffer_post_id": "6a6a4f49f009917e820e8245",
       "caption_file": "output/2026-07-29/openai-s-rogue-ai-agent-didn-t-stop-at-hacking-hugging-face.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T19:30:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a4f49f009917e820e8245",
+          "published_at_utc": "2026-07-29T19:06:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T19:28:51.000Z",
           "buffer_mode": "customScheduled",
@@ -9024,7 +9030,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/openai-s-rogue-ai-agent-didn-t-stop-at-hacking-hugging-face.png",
       "metadata_file": "output/2026-07-29/openai-s-rogue-ai-agent-didn-t-stop-at-hacking-hugging-face.json",
-      "published_at_utc": "2026-07-29T19:06:45Z",
+      "published_at_utc": "2026-07-29T19:06:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.png": {
