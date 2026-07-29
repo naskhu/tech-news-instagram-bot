@@ -10059,12 +10059,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.png": {
-      "buffer_due_at_utc": "2026-07-30T00:04:19.000Z",
+      "buffer_due_at_utc": "2026-07-30T00:06:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a8a8b31c6b0ee11555e35",
+      "buffer_post_id": "6a6a8a8f0263c79a74ae4299",
       "caption_file": "output/2026-07-29/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T00:06:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a8a8f0263c79a74ae4299",
+          "published_at_utc": "2026-07-29T23:19:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T00:04:19.000Z",
           "buffer_mode": "customScheduled",
@@ -10074,7 +10080,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.png",
       "metadata_file": "output/2026-07-29/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.json",
-      "published_at_utc": "2026-07-29T23:19:39Z",
+      "published_at_utc": "2026-07-29T23:19:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.png": {
