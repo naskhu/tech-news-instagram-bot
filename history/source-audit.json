@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-29T23:13:29.395714+00:00",
+  "run_utc": "2026-07-29T23:16:51.931928+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-26T23:13:29.395871+00:00",
-  "eligible_story_count": 480,
+  "cutoff_utc": "2026-07-26T23:16:51.932094+00:00",
+  "eligible_story_count": 477,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 19,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 3,
-      "already_processed": 26,
+      "eligible_new": 0,
+      "already_processed": 27,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 1,
-      "already_processed": 25,
+      "eligible_new": 0,
+      "already_processed": 26,
       "older_than_window": 6,
       "metadata_errors": {}
     },
@@ -394,8 +394,8 @@
       "already_processed": 15,
       "older_than_window": 17,
       "metadata_errors": {
-        "missing_title": 1,
-        "no_article_metadata": 4
+        "no_article_metadata": 4,
+        "missing_title": 1
       }
     },
     {
@@ -488,13 +488,7 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 39,
-          "error": ""
-        },
-        {
-          "url": "https://www.cnet.com/",
-          "status": 200,
-          "links": 1,
+          "links": 40,
           "error": ""
         }
       ],
@@ -575,8 +569,7 @@
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 22
+        "http_429": 23
       }
     },
     {
@@ -712,7 +705,7 @@
       "rss_candidates": 20,
       "page_links": 34,
       "page_articles": 34,
-      "eligible_new": 34,
+      "eligible_new": 35,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
