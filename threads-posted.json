@@ -8258,6 +8258,25 @@
       "published_at_utc": "2026-07-28T22:18:51Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/airbus-a350-makes-record-breaking-flight.png": {
+      "buffer_due_at_utc": "2026-07-29T06:47:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a69a19cd3cfdc3678f877cc",
+      "caption_file": "output/2026-07-29/airbus-a350-makes-record-breaking-flight.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T06:47:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69a19cd3cfdc3678f877cc",
+          "published_at_utc": "2026-07-29T06:45:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/airbus-a350-makes-record-breaking-flight.png",
+      "metadata_file": "output/2026-07-29/airbus-a350-makes-record-breaking-flight.json",
+      "published_at_utc": "2026-07-29T06:45:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9.png": {
       "buffer_due_at_utc": "2026-07-29T01:20:41.000Z",
       "buffer_mode": "customScheduled",
