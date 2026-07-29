@@ -8458,6 +8458,25 @@
       "published_at_utc": "2026-07-29T09:50:44Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-ven.png": {
+      "buffer_due_at_utc": "2026-07-29T19:08:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a4f0c0bf049181fa1f246",
+      "caption_file": "output/2026-07-29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-ven.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T19:08:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a4f0c0bf049181fa1f246",
+          "published_at_utc": "2026-07-29T19:05:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-ven.png",
+      "metadata_file": "output/2026-07-29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-ven.json",
+      "published_at_utc": "2026-07-29T19:05:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferati.png": {
       "buffer_due_at_utc": "2026-07-29T01:42:33.000Z",
       "buffer_mode": "customScheduled",
