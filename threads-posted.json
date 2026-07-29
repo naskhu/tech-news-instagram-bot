@@ -8559,12 +8559,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/the-swift-telescope-rescue-mission-also-needs-rescuing.png": {
-      "buffer_due_at_utc": "2026-07-29T10:44:52.000Z",
+      "buffer_due_at_utc": "2026-07-29T10:46:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69cd10a0675ee9429ecf4c",
+      "buffer_post_id": "6a69cd16a0675ee9429ecfa3",
       "caption_file": "output/2026-07-29/the-swift-telescope-rescue-mission-also-needs-rescuing.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T10:46:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69cd16a0675ee9429ecfa3",
+          "published_at_utc": "2026-07-29T09:51:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T10:44:52.000Z",
           "buffer_mode": "customScheduled",
@@ -8574,7 +8580,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/the-swift-telescope-rescue-mission-also-needs-rescuing.png",
       "metadata_file": "output/2026-07-29/the-swift-telescope-rescue-mission-also-needs-rescuing.json",
-      "published_at_utc": "2026-07-29T09:51:12Z",
+      "published_at_utc": "2026-07-29T09:51:18Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/therabody-promo-codes-15-off-july-2026.png": {
