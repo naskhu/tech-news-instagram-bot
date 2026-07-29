@@ -8133,6 +8133,25 @@
       "published_at_utc": "2026-07-29T01:08:00Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/logitech-isn-t-affected-by-ramageddon-but-a-chipmaker-incident-may-cos.png": {
+      "buffer_due_at_utc": "2026-07-29T01:58:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6952757b325a188666e415",
+      "caption_file": "output/2026-07-29/logitech-isn-t-affected-by-ramageddon-but-a-chipmaker-incident-may-cos.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T01:58:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6952757b325a188666e415",
+          "published_at_utc": "2026-07-29T01:08:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/logitech-isn-t-affected-by-ramageddon-but-a-chipmaker-incident-may-cos.png",
+      "metadata_file": "output/2026-07-29/logitech-isn-t-affected-by-ramageddon-but-a-chipmaker-incident-may-cos.json",
+      "published_at_utc": "2026-07-29T01:08:06Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/willie-nelson-is-pushing-back-against-data-centers-in-his-hometown.png": {
       "buffer_due_at_utc": "2026-07-29T00:51:21.000Z",
       "buffer_mode": "customScheduled",
