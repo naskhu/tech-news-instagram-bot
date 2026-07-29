@@ -3161,6 +3161,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T03:41:44Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/ai-leaders-sign-statement-asking-the-government-to-do-something-about-.png": {
+      "buffer_post_id": "6a697872e9aefbbb12a777ec",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/ai-leaders-sign-statement-asking-the-government-to-do-something-about-.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/ai-leaders-sign-statement-asking-the-government-to-do-something-about-.png",
+      "metadata_file": "output/2026-07-28/ai-leaders-sign-statement-asking-the-government-to-do-something-about-.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T03:50:19Z",
+      "publisher": "buffer"
     }
   }
 }
