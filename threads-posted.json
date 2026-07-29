@@ -9059,12 +9059,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents.png": {
-      "buffer_due_at_utc": "2026-07-29T22:35:10.000Z",
+      "buffer_due_at_utc": "2026-07-29T22:37:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a7b48abe0794f85ee8aea",
+      "buffer_post_id": "6a6a7b4dbf2d4c6e4196778d",
       "caption_file": "output/2026-07-29/mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T22:37:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a7b4dbf2d4c6e4196778d",
+          "published_at_utc": "2026-07-29T22:14:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T22:35:10.000Z",
           "buffer_mode": "customScheduled",
@@ -9074,7 +9080,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents.png",
       "metadata_file": "output/2026-07-29/mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents.json",
-      "published_at_utc": "2026-07-29T22:14:32Z",
+      "published_at_utc": "2026-07-29T22:14:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.png": {
