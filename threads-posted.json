@@ -9283,6 +9283,25 @@
       "published_at_utc": "2026-07-29T07:28:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/the-ferrari-luce-has-at-least-500-fans.png": {
+      "buffer_due_at_utc": "2026-07-29T20:06:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a57f497c737ad3056a0a4",
+      "caption_file": "output/2026-07-29/the-ferrari-luce-has-at-least-500-fans.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T20:06:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a57f497c737ad3056a0a4",
+          "published_at_utc": "2026-07-29T19:43:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/the-ferrari-luce-has-at-least-500-fans.png",
+      "metadata_file": "output/2026-07-29/the-ferrari-luce-has-at-least-500-fans.json",
+      "published_at_utc": "2026-07-29T19:43:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/the-swift-telescope-rescue-mission-also-needs-rescuing.png": {
       "buffer_due_at_utc": "2026-07-29T10:46:52.000Z",
       "buffer_mode": "customScheduled",
