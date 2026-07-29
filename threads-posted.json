@@ -8334,12 +8334,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/boomers-can-t-stop-gifting-their-grandkids-ai-generated-slop-books.png": {
-      "buffer_due_at_utc": "2026-07-29T10:18:54.000Z",
+      "buffer_due_at_utc": "2026-07-29T10:20:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69ccefa0675ee9429ece6a",
+      "buffer_post_id": "6a69ccf4a0675ee9429ece94",
       "caption_file": "output/2026-07-29/boomers-can-t-stop-gifting-their-grandkids-ai-generated-slop-books.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T10:20:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69ccf4a0675ee9429ece94",
+          "published_at_utc": "2026-07-29T09:50:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T10:18:54.000Z",
           "buffer_mode": "customScheduled",
@@ -8349,7 +8355,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/boomers-can-t-stop-gifting-their-grandkids-ai-generated-slop-books.png",
       "metadata_file": "output/2026-07-29/boomers-can-t-stop-gifting-their-grandkids-ai-generated-slop-books.json",
-      "published_at_utc": "2026-07-29T09:50:39Z",
+      "published_at_utc": "2026-07-29T09:50:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferati.png": {
