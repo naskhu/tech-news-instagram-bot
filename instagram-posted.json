@@ -3433,6 +3433,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T05:39:55Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/double-fine-is-laying-off-23-staffers-after-going-independent.png": {
+      "buffer_post_id": "6a69a19f34a0a0955d768217",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/double-fine-is-laying-off-23-staffers-after-going-independent.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/double-fine-is-laying-off-23-staffers-after-going-independent.png",
+      "metadata_file": "output/2026-07-28/double-fine-is-laying-off-23-staffers-after-going-independent.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T06:45:59Z",
+      "publisher": "buffer"
     }
   }
 }
