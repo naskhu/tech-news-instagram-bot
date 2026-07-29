@@ -8334,12 +8334,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them.png": {
-      "buffer_due_at_utc": "2026-07-29T22:40:01.000Z",
+      "buffer_due_at_utc": "2026-07-29T22:42:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a7bf3bf2d4c6e41969051",
+      "buffer_post_id": "6a6a7bf8fc280c13ca71683d",
       "caption_file": "output/2026-07-29/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T22:42:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a7bf8fc280c13ca71683d",
+          "published_at_utc": "2026-07-29T22:17:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T22:40:01.000Z",
           "buffer_mode": "customScheduled",
@@ -8349,7 +8355,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them.png",
       "metadata_file": "output/2026-07-29/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them.json",
-      "published_at_utc": "2026-07-29T22:17:23Z",
+      "published_at_utc": "2026-07-29T22:17:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/artists-are-lawyering-up-against-ai-slop-and-some-are-even-winning.png": {
