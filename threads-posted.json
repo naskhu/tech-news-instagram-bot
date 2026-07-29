@@ -8659,12 +8659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/full-school-day-cellphone-bans-are-more-popular-than-ever.png": {
-      "buffer_due_at_utc": "2026-07-29T19:01:00.000Z",
+      "buffer_due_at_utc": "2026-07-29T19:03:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a4a14741fe65687af4765",
+      "buffer_post_id": "6a6a4a194c3e08c4ba4ed965",
       "caption_file": "output/2026-07-29/full-school-day-cellphone-bans-are-more-popular-than-ever.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T19:03:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a4a194c3e08c4ba4ed965",
+          "published_at_utc": "2026-07-29T18:44:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T19:01:00.000Z",
           "buffer_mode": "customScheduled",
@@ -8674,7 +8680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/full-school-day-cellphone-bans-are-more-popular-than-ever.png",
       "metadata_file": "output/2026-07-29/full-school-day-cellphone-bans-are-more-popular-than-ever.json",
-      "published_at_utc": "2026-07-29T18:44:36Z",
+      "published_at_utc": "2026-07-29T18:44:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/hostinger-promo-code-79-off-for-august-2026.png": {
