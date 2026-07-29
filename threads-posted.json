@@ -6083,6 +6083,25 @@
       "published_at_utc": "2026-07-28T18:45:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/a-typo-landed-an-innocent-gamer-in-prison-for-18-months.png": {
+      "buffer_due_at_utc": "2026-07-29T04:40:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6983087b325a188668eb25",
+      "caption_file": "output/2026-07-28/a-typo-landed-an-innocent-gamer-in-prison-for-18-months.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T04:40:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6983087b325a188668eb25",
+          "published_at_utc": "2026-07-29T04:35:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/a-typo-landed-an-innocent-gamer-in-prison-for-18-months.png",
+      "metadata_file": "output/2026-07-28/a-typo-landed-an-innocent-gamer-in-prison-for-18-months.json",
+      "published_at_utc": "2026-07-29T04:35:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/ai-is-coming-for-call-center-jobs.png": {
       "buffer_due_at_utc": "2026-07-28T11:59:03.000Z",
       "buffer_mode": "customScheduled",
