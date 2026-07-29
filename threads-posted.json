@@ -8059,12 +8059,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/willie-nelson-is-pushing-back-against-data-centers-in-his-hometown.png": {
-      "buffer_due_at_utc": "2026-07-29T00:49:21.000Z",
+      "buffer_due_at_utc": "2026-07-29T00:51:21.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a694508431e13a600e9106d",
+      "buffer_post_id": "6a69450de9aefbbb12a57e02",
       "caption_file": "output/2026-07-29/willie-nelson-is-pushing-back-against-data-centers-in-his-hometown.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T00:51:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69450de9aefbbb12a57e02",
+          "published_at_utc": "2026-07-29T00:10:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T00:49:21.000Z",
           "buffer_mode": "customScheduled",
@@ -8074,7 +8080,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/willie-nelson-is-pushing-back-against-data-centers-in-his-hometown.png",
       "metadata_file": "output/2026-07-29/willie-nelson-is-pushing-back-against-data-centers-in-his-hometown.json",
-      "published_at_utc": "2026-07-29T00:10:49Z",
+      "published_at_utc": "2026-07-29T00:10:53Z",
       "publisher": "buffer_threads"
     }
   }
