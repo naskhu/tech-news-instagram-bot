@@ -3293,6 +3293,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T04:18:39Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/best-apple-watch-2026-series-11-se-3-and-ultra-3.png": {
+      "buffer_post_id": "6a69816b34a0a0955d7510e0",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/best-apple-watch-2026-series-11-se-3-and-ultra-3.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/best-apple-watch-2026-series-11-se-3-and-ultra-3.png",
+      "metadata_file": "output/2026-07-28/best-apple-watch-2026-series-11-se-3-and-ultra-3.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T04:28:36Z",
+      "publisher": "buffer"
     }
   }
 }
