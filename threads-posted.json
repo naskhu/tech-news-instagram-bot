@@ -8457,6 +8457,25 @@
       "metadata_file": "output/2026-07-29/willie-nelson-is-pushing-back-against-data-centers-in-his-hometown.json",
       "published_at_utc": "2026-07-29T00:10:53Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-07-29/zoro-coupon-codes-55-off-july.png": {
+      "buffer_due_at_utc": "2026-07-29T07:40:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a69a1b934a0a0955d768351",
+      "caption_file": "output/2026-07-29/zoro-coupon-codes-55-off-july.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T07:40:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69a1b934a0a0955d768351",
+          "published_at_utc": "2026-07-29T06:46:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/zoro-coupon-codes-55-off-july.png",
+      "metadata_file": "output/2026-07-29/zoro-coupon-codes-55-off-july.json",
+      "published_at_utc": "2026-07-29T06:46:17Z",
+      "publisher": "buffer_threads"
     }
   }
 }
