@@ -3675,6 +3675,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T08:17:14Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.png": {
+      "buffer_post_id": "6a69b88a91acb93c448e2c2b",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.png",
+      "metadata_file": "output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T08:23:46Z",
+      "publisher": "buffer"
     }
   }
 }
