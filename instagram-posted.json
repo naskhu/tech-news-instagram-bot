@@ -3249,6 +3249,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T04:17:25Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/apple-won-t-turn-on-any-restricted-mode-for-missed-lease-payments.png": {
+      "buffer_post_id": "6a697ef8d3cfdc3678f6d53b",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/apple-won-t-turn-on-any-restricted-mode-for-missed-lease-payments.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/apple-won-t-turn-on-any-restricted-mode-for-missed-lease-payments.png",
+      "metadata_file": "output/2026-07-28/apple-won-t-turn-on-any-restricted-mode-for-missed-lease-payments.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T04:18:09Z",
+      "publisher": "buffer"
     }
   }
 }
