@@ -9508,6 +9508,25 @@
       "published_at_utc": "2026-07-29T06:46:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-healt.png": {
+      "buffer_due_at_utc": "2026-07-29T21:52:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a6d084c3358c1d159f585",
+      "caption_file": "output/2026-07-29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-healt.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T21:52:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a6d084c3358c1d159f585",
+          "published_at_utc": "2026-07-29T21:13:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-healt.png",
+      "metadata_file": "output/2026-07-29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-healt.json",
+      "published_at_utc": "2026-07-29T21:13:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/this-week-in-the-big-ai-data-center-buildout.png": {
       "buffer_due_at_utc": "2026-07-29T20:22:06.000Z",
       "buffer_mode": "customScheduled",
