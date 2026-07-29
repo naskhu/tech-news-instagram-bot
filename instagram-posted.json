@@ -3216,6 +3216,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T04:11:45Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klar.png": {
+      "buffer_post_id": "6a697de37b325a188668b9d2",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klar.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klar.png",
+      "metadata_file": "output/2026-07-28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klar.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T04:13:32Z",
+      "publisher": "buffer"
     }
   }
 }
