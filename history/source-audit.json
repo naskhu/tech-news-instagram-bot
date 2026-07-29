@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-29T21:11:31.338371+00:00",
+  "run_utc": "2026-07-29T21:15:39.674718+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-26T21:11:31.338513+00:00",
-  "eligible_story_count": 478,
+  "cutoff_utc": "2026-07-26T21:15:39.674949+00:00",
+  "eligible_story_count": 475,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 19,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 2,
-      "already_processed": 25,
+      "eligible_new": 0,
+      "already_processed": 29,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 3,
-      "already_processed": 26,
+      "eligible_new": 2,
+      "already_processed": 28,
       "older_than_window": 6,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 8,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -377,13 +377,13 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 22,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 28,
           "error": ""
         }
       ],
@@ -461,7 +461,7 @@
       "page_articles": 40,
       "eligible_new": 21,
       "already_processed": 32,
-      "older_than_window": 11,
+      "older_than_window": 10,
       "metadata_errors": {}
     },
     {
@@ -564,13 +564,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 27,
-      "page_articles": 1,
+      "page_articles": 4,
       "eligible_new": 15,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 25
+        "no_article_metadata": 2,
+        "http_429": 21
       }
     },
     {
@@ -638,7 +638,7 @@
       "page_articles": 40,
       "eligible_new": 48,
       "already_processed": 0,
-      "older_than_window": 63,
+      "older_than_window": 60,
       "metadata_errors": {}
     },
     {
