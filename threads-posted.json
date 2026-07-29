@@ -7584,12 +7584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-or-proven-autism-link.png": {
-      "buffer_due_at_utc": "2026-07-29T04:28:56.000Z",
+      "buffer_due_at_utc": "2026-07-29T04:30:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6975dee9aefbbb12a765d9",
+      "buffer_post_id": "6a6975e2e9aefbbb12a76606",
       "caption_file": "output/2026-07-28/report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-or-proven-autism-link.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T04:30:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6975e2e9aefbbb12a76606",
+          "published_at_utc": "2026-07-29T03:39:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T04:28:56.000Z",
           "buffer_mode": "customScheduled",
@@ -7599,7 +7605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-or-proven-autism-link.png",
       "metadata_file": "output/2026-07-28/report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-or-proven-autism-link.json",
-      "published_at_utc": "2026-07-29T03:39:10Z",
+      "published_at_utc": "2026-07-29T03:39:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/sam-altman-is-ready-to-decelerate.png": {
