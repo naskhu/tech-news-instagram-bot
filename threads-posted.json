@@ -8933,6 +8933,25 @@
       "published_at_utc": "2026-07-29T19:06:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/google-s-privacy-preserving-age-verification-system-is-coming-to-the-p.png": {
+      "buffer_due_at_utc": "2026-07-29T22:50:34.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a7c080263c79a74ad8e6c",
+      "caption_file": "output/2026-07-29/google-s-privacy-preserving-age-verification-system-is-coming-to-the-p.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T22:50:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a7c080263c79a74ad8e6c",
+          "published_at_utc": "2026-07-29T22:17:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/google-s-privacy-preserving-age-verification-system-is-coming-to-the-p.png",
+      "metadata_file": "output/2026-07-29/google-s-privacy-preserving-age-verification-system-is-coming-to-the-p.json",
+      "published_at_utc": "2026-07-29T22:17:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assist.png": {
       "buffer_due_at_utc": "2026-07-29T19:22:39.000Z",
       "buffer_mode": "customScheduled",
