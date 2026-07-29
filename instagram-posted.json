@@ -3708,6 +3708,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T08:36:06Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/lyft-and-baidu-s-robotaxis-hit-the-streets-of-london.png": {
+      "buffer_post_id": "6a69bc223de50ecbe97de97d",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/lyft-and-baidu-s-robotaxis-hit-the-streets-of-london.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/lyft-and-baidu-s-robotaxis-hit-the-streets-of-london.png",
+      "metadata_file": "output/2026-07-28/lyft-and-baidu-s-robotaxis-hit-the-streets-of-london.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T08:39:05Z",
+      "publisher": "buffer"
     }
   }
 }
