@@ -7383,6 +7383,25 @@
       "published_at_utc": "2026-07-28T11:40:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-franc.png": {
+      "buffer_due_at_utc": "2026-07-29T04:20:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6975d40dc384370e2c9a99",
+      "caption_file": "output/2026-07-28/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-franc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T04:20:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6975d40dc384370e2c9a99",
+          "published_at_utc": "2026-07-29T03:39:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-franc.png",
+      "metadata_file": "output/2026-07-28/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-franc.json",
+      "published_at_utc": "2026-07-29T03:39:00Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/new-yorkers-will-soon-need-to-verify-their-age-to-access-algorithmic-f.png": {
       "buffer_due_at_utc": "2026-07-28T20:28:05.000Z",
       "buffer_mode": "customScheduled",
