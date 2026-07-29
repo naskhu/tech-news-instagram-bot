@@ -8683,6 +8683,25 @@
       "published_at_utc": "2026-07-29T18:44:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.png": {
+      "buffer_due_at_utc": "2026-07-29T19:08:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a4f16741fe65687af7f25",
+      "caption_file": "output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T19:08:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a4f16741fe65687af7f25",
+          "published_at_utc": "2026-07-29T19:05:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.png",
+      "metadata_file": "output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.json",
+      "published_at_utc": "2026-07-29T19:05:58Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/full-school-day-cellphone-bans-are-more-popular-than-ever.png": {
       "buffer_due_at_utc": "2026-07-29T19:03:00.000Z",
       "buffer_mode": "customScheduled",
