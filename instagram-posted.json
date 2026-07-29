@@ -3609,6 +3609,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T07:58:44Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/hugging-face-has-a-deepfake-nudes-problem.png": {
+      "buffer_post_id": "6a69b3ad34a0a0955d777387",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/hugging-face-has-a-deepfake-nudes-problem.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/hugging-face-has-a-deepfake-nudes-problem.png",
+      "metadata_file": "output/2026-07-28/hugging-face-has-a-deepfake-nudes-problem.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T08:03:00Z",
+      "publisher": "buffer"
     }
   }
 }
