@@ -3664,6 +3664,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T08:09:23Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/laura-loomer-s-reversal-on-ukraine-stirs-up-the-maga-civil-war.png": {
+      "buffer_post_id": "6a69b70034a0a0955d77a42a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/laura-loomer-s-reversal-on-ukraine-stirs-up-the-maga-civil-war.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/laura-loomer-s-reversal-on-ukraine-stirs-up-the-maga-civil-war.png",
+      "metadata_file": "output/2026-07-28/laura-loomer-s-reversal-on-ukraine-stirs-up-the-maga-civil-war.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T08:17:14Z",
+      "publisher": "buffer"
     }
   }
 }
