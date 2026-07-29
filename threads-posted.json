@@ -8459,12 +8459,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/surfshark-promo-codes-87-off-july-2026.png": {
-      "buffer_due_at_utc": "2026-07-29T08:14:49.000Z",
+      "buffer_due_at_utc": "2026-07-29T08:16:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69ab7c34a0a0955d770854",
+      "buffer_post_id": "6a69ab81d2016a8fec8dab9f",
       "caption_file": "output/2026-07-29/surfshark-promo-codes-87-off-july-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T08:16:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69ab81d2016a8fec8dab9f",
+          "published_at_utc": "2026-07-29T07:28:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T08:14:49.000Z",
           "buffer_mode": "customScheduled",
@@ -8474,7 +8480,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/surfshark-promo-codes-87-off-july-2026.png",
       "metadata_file": "output/2026-07-29/surfshark-promo-codes-87-off-july-2026.json",
-      "published_at_utc": "2026-07-29T07:27:56Z",
+      "published_at_utc": "2026-07-29T07:28:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/therabody-promo-codes-15-off-july-2026.png": {
