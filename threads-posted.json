@@ -9483,6 +9483,25 @@
       "published_at_utc": "2026-07-29T20:02:48Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/we-re-running-out-of-reasons-to-ignore-ai-safety.png": {
+      "buffer_due_at_utc": "2026-07-29T20:10:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a5c6d4c3e08c4ba4fa9c4",
+      "caption_file": "output/2026-07-29/we-re-running-out-of-reasons-to-ignore-ai-safety.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T20:10:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a5c6d4c3e08c4ba4fa9c4",
+          "published_at_utc": "2026-07-29T20:02:53Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/we-re-running-out-of-reasons-to-ignore-ai-safety.png",
+      "metadata_file": "output/2026-07-29/we-re-running-out-of-reasons-to-ignore-ai-safety.json",
+      "published_at_utc": "2026-07-29T20:02:53Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/when-a-1-200-percent-profit-boost-isn-t-good-enough.png": {
       "buffer_due_at_utc": "2026-07-29T08:23:00.000Z",
       "buffer_mode": "customScheduled",
