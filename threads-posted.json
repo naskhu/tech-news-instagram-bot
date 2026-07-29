@@ -9083,6 +9083,25 @@
       "published_at_utc": "2026-07-29T19:06:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/quantum-computing-roundup-still-more-technologies-making-waves.png": {
+      "buffer_due_at_utc": "2026-07-29T19:35:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a4f5897c737ad30564ee1",
+      "caption_file": "output/2026-07-29/quantum-computing-roundup-still-more-technologies-making-waves.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T19:35:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a4f5897c737ad30564ee1",
+          "published_at_utc": "2026-07-29T19:07:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/quantum-computing-roundup-still-more-technologies-making-waves.png",
+      "metadata_file": "output/2026-07-29/quantum-computing-roundup-still-more-technologies-making-waves.json",
+      "published_at_utc": "2026-07-29T19:07:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/surfshark-promo-codes-87-off-july-2026.png": {
       "buffer_due_at_utc": "2026-07-29T08:16:49.000Z",
       "buffer_mode": "customScheduled",
