@@ -1,0 +1,22 @@
+{
+  "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
+  "summary": "Google began testing the Play Age Signals API late last year as it became apparent that multiple states were going to put the onus of age verification on app stores.",
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play",
+  "published_utc": "2026-07-29T18:08:22+00:00",
+  "date_source": "meta",
+  "generated_utc": "2026-07-29T22:16:31.769725+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    245,
+    91,
+    46
+  ],
+  "image": "output/2026-07-29/google-s-privacy-preserving-age-verification-system-is-coming-to-the-p.png",
+  "caption": "output/2026-07-29/google-s-privacy-preserving-age-verification-system-is-coming-to-the-p.txt"
+}
