@@ -3772,6 +3772,17 @@
       "metadata_file": "output/2026-07-28/new-yorkers-will-soon-need-to-verify-their-age-to-access-algorithmic-f.json",
       "published_at_utc": "2026-07-29T10:13:33Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/ozlo-s-sleepbuds-2-build-on-bose-s-sleep-earbud-legacy-techcrunch.png": {
+      "buffer_post_id": "6a69d3928fd305489fb8ef42",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/ozlo-s-sleepbuds-2-build-on-bose-s-sleep-earbud-legacy-techcrunch.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/ozlo-s-sleepbuds-2-build-on-bose-s-sleep-earbud-legacy-techcrunch.png",
+      "metadata_file": "output/2026-07-28/ozlo-s-sleepbuds-2-build-on-bose-s-sleep-earbud-legacy-techcrunch.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T10:19:05Z",
+      "publisher": "buffer"
     }
   }
 }
