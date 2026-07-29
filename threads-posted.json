@@ -8483,6 +8483,25 @@
       "published_at_utc": "2026-07-29T01:08:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/nasa-s-new-3d-model-shows-the-earth-is-a-lumpy-mess.png": {
+      "buffer_due_at_utc": "2026-07-29T10:22:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a69cd04c1bf0237a1be5383",
+      "caption_file": "output/2026-07-29/nasa-s-new-3d-model-shows-the-earth-is-a-lumpy-mess.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T10:22:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69cd04c1bf0237a1be5383",
+          "published_at_utc": "2026-07-29T09:51:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/nasa-s-new-3d-model-shows-the-earth-is-a-lumpy-mess.png",
+      "metadata_file": "output/2026-07-29/nasa-s-new-3d-model-shows-the-earth-is-a-lumpy-mess.json",
+      "published_at_utc": "2026-07-29T09:51:00Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.png": {
       "buffer_due_at_utc": "2026-07-29T05:30:59.000Z",
       "buffer_mode": "customScheduled",
