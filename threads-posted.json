@@ -8584,12 +8584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/elon-musk-s-x-settles-multiyear-legal-battle-with-the-world-federation.png": {
-      "buffer_due_at_utc": "2026-07-29T18:55:56.000Z",
+      "buffer_due_at_utc": "2026-07-29T18:57:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a49f5c8e22269d55f4685",
+      "buffer_post_id": "6a6a49fa0bf049181fa1ba6b",
       "caption_file": "output/2026-07-29/elon-musk-s-x-settles-multiyear-legal-battle-with-the-world-federation.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T18:57:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a49fa0bf049181fa1ba6b",
+          "published_at_utc": "2026-07-29T18:44:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T18:55:56.000Z",
           "buffer_mode": "customScheduled",
@@ -8599,7 +8605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/elon-musk-s-x-settles-multiyear-legal-battle-with-the-world-federation.png",
       "metadata_file": "output/2026-07-29/elon-musk-s-x-settles-multiyear-legal-battle-with-the-world-federation.json",
-      "published_at_utc": "2026-07-29T18:44:05Z",
+      "published_at_utc": "2026-07-29T18:44:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/hostinger-promo-code-79-off-for-august-2026.png": {
