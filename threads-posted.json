@@ -9909,12 +9909,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/xbox-revenue-drops-10-percent-as-microsoft-s-cloud-and-ai-business-sur.png": {
-      "buffer_due_at_utc": "2026-07-29T22:06:36.000Z",
+      "buffer_due_at_utc": "2026-07-29T22:08:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a6e0c4c3358c1d159ff2f",
+      "buffer_post_id": "6a6a6e107fc59d777ff55b1f",
       "caption_file": "output/2026-07-29/xbox-revenue-drops-10-percent-as-microsoft-s-cloud-and-ai-business-sur.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T22:08:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a6e107fc59d777ff55b1f",
+          "published_at_utc": "2026-07-29T21:18:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T22:06:36.000Z",
           "buffer_mode": "customScheduled",
@@ -9924,7 +9930,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/xbox-revenue-drops-10-percent-as-microsoft-s-cloud-and-ai-business-sur.png",
       "metadata_file": "output/2026-07-29/xbox-revenue-drops-10-percent-as-microsoft-s-cloud-and-ai-business-sur.json",
-      "published_at_utc": "2026-07-29T21:18:04Z",
+      "published_at_utc": "2026-07-29T21:18:09Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/you-can-now-control-gemini-on-mac-with-your-voice.png": {
