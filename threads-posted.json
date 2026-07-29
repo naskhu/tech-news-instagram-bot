@@ -9784,12 +9784,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/xai-s-last-minute-scramble-to-stop-minnesota-s-anti-nudification-app-l.png": {
-      "buffer_due_at_utc": "2026-07-29T22:01:26.000Z",
+      "buffer_due_at_utc": "2026-07-29T22:03:26.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a6d1bf4d12dbb6bda7ee6",
+      "buffer_post_id": "6a6a6d1f7fc59d777ff54af3",
       "caption_file": "output/2026-07-29/xai-s-last-minute-scramble-to-stop-minnesota-s-anti-nudification-app-l.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T22:03:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a6d1f7fc59d777ff54af3",
+          "published_at_utc": "2026-07-29T21:14:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T22:01:26.000Z",
           "buffer_mode": "customScheduled",
@@ -9799,7 +9805,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/xai-s-last-minute-scramble-to-stop-minnesota-s-anti-nudification-app-l.png",
       "metadata_file": "output/2026-07-29/xai-s-last-minute-scramble-to-stop-minnesota-s-anti-nudification-app-l.json",
-      "published_at_utc": "2026-07-29T21:14:03Z",
+      "published_at_utc": "2026-07-29T21:14:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/xbox-outage-shouldn-t-have-affected-games-on-disc-microsoft-confirms.png": {
