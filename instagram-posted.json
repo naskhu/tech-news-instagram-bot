@@ -3238,6 +3238,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T04:15:31Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/apple-s-reported-homepad-may-launch-as-early-as-october.png": {
+      "buffer_post_id": "6a697ecc0dc384370e2cfb72",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/apple-s-reported-homepad-may-launch-as-early-as-october.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/apple-s-reported-homepad-may-launch-as-early-as-october.png",
+      "metadata_file": "output/2026-07-28/apple-s-reported-homepad-may-launch-as-early-as-october.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T04:17:25Z",
+      "publisher": "buffer"
     }
   }
 }
