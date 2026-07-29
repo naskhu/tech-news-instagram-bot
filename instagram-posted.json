@@ -3347,6 +3347,17 @@
       "metadata_file": "output/2026-07-28/bot-detection-startup-spur-nabs-200m-from-insight.json",
       "published_at_utc": "2026-07-29T04:55:07Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/byd-s-first-k-car-is-now-on-sale-in-japan.png": {
+      "buffer_post_id": "6a6988b27b325a188669167c",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/byd-s-first-k-car-is-now-on-sale-in-japan.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/byd-s-first-k-car-is-now-on-sale-in-japan.png",
+      "metadata_file": "output/2026-07-28/byd-s-first-k-car-is-now-on-sale-in-japan.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T04:59:38Z",
+      "publisher": "buffer"
     }
   }
 }
