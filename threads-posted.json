@@ -8334,12 +8334,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/lg-promo-codes-and-coupons-for-july-2026.png": {
-      "buffer_due_at_utc": "2026-07-29T07:12:21.000Z",
+      "buffer_due_at_utc": "2026-07-29T07:14:21.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69a1a67b325a18866a436c",
+      "buffer_post_id": "6a69a1aa23997da158d08099",
       "caption_file": "output/2026-07-29/lg-promo-codes-and-coupons-for-july-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T07:14:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69a1aa23997da158d08099",
+          "published_at_utc": "2026-07-29T06:46:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T07:12:21.000Z",
           "buffer_mode": "customScheduled",
@@ -8349,7 +8355,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/lg-promo-codes-and-coupons-for-july-2026.png",
       "metadata_file": "output/2026-07-29/lg-promo-codes-and-coupons-for-july-2026.json",
-      "published_at_utc": "2026-07-29T06:45:58Z",
+      "published_at_utc": "2026-07-29T06:46:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/logitech-isn-t-affected-by-ramageddon-but-a-chipmaker-incident-may-cos.png": {
