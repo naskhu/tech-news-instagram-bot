@@ -9158,6 +9158,25 @@
       "published_at_utc": "2026-07-29T22:14:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai.png": {
+      "buffer_due_at_utc": "2026-07-29T23:16:11.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a898a31c6b0ee11555914",
+      "caption_file": "output/2026-07-29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T23:16:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a898a31c6b0ee11555914",
+          "published_at_utc": "2026-07-29T23:15:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai.png",
+      "metadata_file": "output/2026-07-29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai.json",
+      "published_at_utc": "2026-07-29T23:15:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.png": {
       "buffer_due_at_utc": "2026-07-29T19:53:38.000Z",
       "buffer_mode": "customScheduled",
