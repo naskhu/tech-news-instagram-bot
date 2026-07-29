@@ -8509,12 +8509,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/when-a-1-200-percent-profit-boost-isn-t-good-enough.png": {
-      "buffer_due_at_utc": "2026-07-29T08:21:00.000Z",
+      "buffer_due_at_utc": "2026-07-29T08:23:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69ab857b325a18866ad03a",
+      "buffer_post_id": "6a69ab8a3f9ca5c25be63eaf",
       "caption_file": "output/2026-07-29/when-a-1-200-percent-profit-boost-isn-t-good-enough.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T08:23:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69ab8a3f9ca5c25be63eaf",
+          "published_at_utc": "2026-07-29T07:28:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T08:21:00.000Z",
           "buffer_mode": "customScheduled",
@@ -8524,7 +8530,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/when-a-1-200-percent-profit-boost-isn-t-good-enough.png",
       "metadata_file": "output/2026-07-29/when-a-1-200-percent-profit-boost-isn-t-good-enough.json",
-      "published_at_utc": "2026-07-29T07:28:06Z",
+      "published_at_utc": "2026-07-29T07:28:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/willie-nelson-is-pushing-back-against-data-centers-in-his-hometown.png": {
