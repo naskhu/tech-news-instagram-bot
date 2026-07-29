@@ -8484,12 +8484,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/doordash-is-building-its-own-drone-delivery-business-techcrunch.png": {
-      "buffer_due_at_utc": "2026-07-29T18:55:20.000Z",
+      "buffer_due_at_utc": "2026-07-29T18:57:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a49e14c3e08c4ba4ed56c",
+      "buffer_post_id": "6a6a49e6c8e22269d55f45ce",
       "caption_file": "output/2026-07-29/doordash-is-building-its-own-drone-delivery-business-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T18:57:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a49e6c8e22269d55f45ce",
+          "published_at_utc": "2026-07-29T18:43:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T18:55:20.000Z",
           "buffer_mode": "customScheduled",
@@ -8499,7 +8505,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/doordash-is-building-its-own-drone-delivery-business-techcrunch.png",
       "metadata_file": "output/2026-07-29/doordash-is-building-its-own-drone-delivery-business-techcrunch.json",
-      "published_at_utc": "2026-07-29T18:43:46Z",
+      "published_at_utc": "2026-07-29T18:43:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.png": {
