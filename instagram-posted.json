@@ -3816,6 +3816,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T10:40:15Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit.png": {
+      "buffer_post_id": "6a69d9dd1acaf8aa365f0034",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit.png",
+      "metadata_file": "output/2026-07-28/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T10:45:56Z",
+      "publisher": "buffer"
     }
   }
 }
