@@ -8734,12 +8734,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/google-brings-its-age-assurance-technology-to-android-developers-world.png": {
-      "buffer_due_at_utc": "2026-07-29T19:14:05.000Z",
+      "buffer_due_at_utc": "2026-07-29T19:16:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a4f1ff009917e820e8028",
+      "buffer_post_id": "6a6a4f2497c737ad30564d32",
       "caption_file": "output/2026-07-29/google-brings-its-age-assurance-technology-to-android-developers-world.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T19:16:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a4f2497c737ad30564d32",
+          "published_at_utc": "2026-07-29T19:06:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T19:14:05.000Z",
           "buffer_mode": "customScheduled",
@@ -8749,7 +8755,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/google-brings-its-age-assurance-technology-to-android-developers-world.png",
       "metadata_file": "output/2026-07-29/google-brings-its-age-assurance-technology-to-android-developers-world.json",
-      "published_at_utc": "2026-07-29T19:06:07Z",
+      "published_at_utc": "2026-07-29T19:06:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/hostinger-promo-code-79-off-for-august-2026.png": {
