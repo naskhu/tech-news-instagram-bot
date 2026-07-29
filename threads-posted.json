@@ -8334,12 +8334,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/artists-are-lawyering-up-against-ai-slop-and-some-are-even-winning.png": {
-      "buffer_due_at_utc": "2026-07-29T18:48:24.000Z",
+      "buffer_due_at_utc": "2026-07-29T18:50:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a49cdf009917e820e413c",
+      "buffer_post_id": "6a6a49d24c3e08c4ba4ed4a4",
       "caption_file": "output/2026-07-29/artists-are-lawyering-up-against-ai-slop-and-some-are-even-winning.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T18:50:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a49d24c3e08c4ba4ed4a4",
+          "published_at_utc": "2026-07-29T18:43:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T18:48:24.000Z",
           "buffer_mode": "customScheduled",
@@ -8349,7 +8355,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/artists-are-lawyering-up-against-ai-slop-and-some-are-even-winning.png",
       "metadata_file": "output/2026-07-29/artists-are-lawyering-up-against-ai-slop-and-some-are-even-winning.json",
-      "published_at_utc": "2026-07-29T18:43:26Z",
+      "published_at_utc": "2026-07-29T18:43:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9.png": {
