@@ -9458,6 +9458,25 @@
       "published_at_utc": "2026-07-29T19:44:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/waymo-robotaxis-are-starting-to-return-to-freeways-techcrunch.png": {
+      "buffer_due_at_utc": "2026-07-29T20:08:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a5c63f009917e820f1159",
+      "caption_file": "output/2026-07-29/waymo-robotaxis-are-starting-to-return-to-freeways-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T20:08:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a5c63f009917e820f1159",
+          "published_at_utc": "2026-07-29T20:02:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/waymo-robotaxis-are-starting-to-return-to-freeways-techcrunch.png",
+      "metadata_file": "output/2026-07-29/waymo-robotaxis-are-starting-to-return-to-freeways-techcrunch.json",
+      "published_at_utc": "2026-07-29T20:02:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/when-a-1-200-percent-profit-boost-isn-t-good-enough.png": {
       "buffer_due_at_utc": "2026-07-29T08:23:00.000Z",
       "buffer_mode": "customScheduled",
