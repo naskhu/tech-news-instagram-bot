@@ -6634,12 +6634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/despite-ai-hype-google-s-data-shows-workers-aren-t-automating-themselv.png": {
-      "buffer_due_at_utc": "2026-07-29T01:11:34.000Z",
+      "buffer_due_at_utc": "2026-07-29T01:13:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69525634a0a0955d732ca4",
+      "buffer_post_id": "6a69525b431e13a600e9b4d4",
       "caption_file": "output/2026-07-28/despite-ai-hype-google-s-data-shows-workers-aren-t-automating-themselv.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T01:13:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69525b431e13a600e9b4d4",
+          "published_at_utc": "2026-07-29T01:07:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T01:11:34.000Z",
           "buffer_mode": "customScheduled",
@@ -6649,7 +6655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/despite-ai-hype-google-s-data-shows-workers-aren-t-automating-themselv.png",
       "metadata_file": "output/2026-07-28/despite-ai-hype-google-s-data-shows-workers-aren-t-automating-themselv.json",
-      "published_at_utc": "2026-07-29T01:07:34Z",
+      "published_at_utc": "2026-07-29T01:07:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-28/dji-camera-clone-company-xtra-claims-it-s-in-close-communication-with-.png": {
