@@ -9734,12 +9734,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/you-can-now-control-gemini-on-mac-with-your-voice.png": {
-      "buffer_due_at_utc": "2026-07-29T21:14:09.000Z",
+      "buffer_due_at_utc": "2026-07-29T21:16:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a6151c28dfd4e75ea80aa",
+      "buffer_post_id": "6a6a6156c7d1641f49ae73f1",
       "caption_file": "output/2026-07-29/you-can-now-control-gemini-on-mac-with-your-voice.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T21:16:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a6156c7d1641f49ae73f1",
+          "published_at_utc": "2026-07-29T20:23:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T21:14:09.000Z",
           "buffer_mode": "customScheduled",
@@ -9749,7 +9755,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/you-can-now-control-gemini-on-mac-with-your-voice.png",
       "metadata_file": "output/2026-07-29/you-can-now-control-gemini-on-mac-with-your-voice.json",
-      "published_at_utc": "2026-07-29T20:23:45Z",
+      "published_at_utc": "2026-07-29T20:23:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/zoro-coupon-codes-55-off-july.png": {
