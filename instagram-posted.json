@@ -3741,6 +3741,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T08:41:53Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/minnesota-s-prediction-markets-ban-has-been-derailed.png": {
+      "buffer_post_id": "6a69cd3b8fd305489fb877ff",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/minnesota-s-prediction-markets-ban-has-been-derailed.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/minnesota-s-prediction-markets-ban-has-been-derailed.png",
+      "metadata_file": "output/2026-07-28/minnesota-s-prediction-markets-ban-has-been-derailed.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T09:52:03Z",
+      "publisher": "buffer"
     }
   }
 }
