@@ -9109,12 +9109,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/it-looks-like-nothing-can-dent-maga-s-support-for-ice.png": {
-      "buffer_due_at_utc": "2026-07-29T23:56:59.000Z",
+      "buffer_due_at_utc": "2026-07-29T23:58:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a8a810263c79a74ae422e",
+      "buffer_post_id": "6a6a8a860263c79a74ae4259",
       "caption_file": "output/2026-07-29/it-looks-like-nothing-can-dent-maga-s-support-for-ice.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T23:58:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a8a860263c79a74ae4259",
+          "published_at_utc": "2026-07-29T23:19:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T23:56:59.000Z",
           "buffer_mode": "customScheduled",
@@ -9124,7 +9130,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/it-looks-like-nothing-can-dent-maga-s-support-for-ice.png",
       "metadata_file": "output/2026-07-29/it-looks-like-nothing-can-dent-maga-s-support-for-ice.json",
-      "published_at_utc": "2026-07-29T23:19:29Z",
+      "published_at_utc": "2026-07-29T23:19:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/legalzoom-promo-code-exclusive-10-off-llc-formations.png": {
