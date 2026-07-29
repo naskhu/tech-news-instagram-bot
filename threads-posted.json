@@ -9333,6 +9333,25 @@
       "published_at_utc": "2026-07-29T19:43:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed.png": {
+      "buffer_due_at_utc": "2026-07-29T20:31:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a612c99e47b73d1e68237",
+      "caption_file": "output/2026-07-29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T20:31:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a612c99e47b73d1e68237",
+          "published_at_utc": "2026-07-29T20:23:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed.png",
+      "metadata_file": "output/2026-07-29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed.json",
+      "published_at_utc": "2026-07-29T20:23:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/the-latest-trailer-for-jumanji-open-world-brings-its-avatars-into-the-.png": {
       "buffer_due_at_utc": "2026-07-29T20:09:23.000Z",
       "buffer_mode": "customScheduled",
