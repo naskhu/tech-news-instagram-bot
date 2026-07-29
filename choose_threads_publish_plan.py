@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Decide Buffer Threads publish plan (rolling 250 / 24h cap).
 
-After Generate (and on schedule backups), enqueue all pending posts so Buffer
-can release them at random times within the next hour.
+Only today's generated photos are eligible. After Generate (and schedule
+backups), enqueue all of today's pending posts so Buffer can release them at
+random times before local midnight.
 """
 
 from __future__ import annotations
@@ -12,6 +13,7 @@ import os
 import sys
 from pathlib import Path
 
+from publish_limits import today_folder_name, today_local
 from threads_limits import (
     DAILY_LIMIT,
     count_posted_last_24h,
@@ -22,7 +24,7 @@ from threads_limits import (
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
-# Safety ceiling only; normal runs drain all pending under the 24h quota.
+# Safety ceiling only; normal runs drain all of today's pending under the 24h quota.
 MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "250")))
 MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "250")))
 
@@ -43,8 +45,11 @@ def load_state() -> dict:
 def count_pending(state: dict) -> int:
     posted = state.get("posted", {})
     needed = parse_channel_ids()
+    day_dir = OUTPUT_DIR / today_folder_name()
+    if not day_dir.is_dir():
+        return 0
     pending = 0
-    for image in OUTPUT_DIR.glob("**/*.png"):
+    for image in day_dir.glob("*.png"):
         relative = image.as_posix()
         existing = posted.get(relative) if isinstance(posted, dict) else None
         if not needs_publish(existing, needed):
@@ -73,6 +78,7 @@ def skip(reason: str, pending: int, used_24h: int, quota_left: int) -> int:
         pending=pending,
         used_24h=used_24h,
         quota_left=quota_left,
+        local_date=today_local().isoformat(),
         reason=reason,
     )
     return 0
@@ -87,7 +93,7 @@ def main() -> int:
     quota_left = quota_left_24h(state)
 
     if pending <= 0:
-        return skip("queue_empty", pending, used_24h, quota_left)
+        return skip("queue_empty_today_only", pending, used_24h, quota_left)
 
     if quota_left <= 0:
         return skip(
@@ -97,7 +103,7 @@ def main() -> int:
             0,
         )
 
-    # After Generate: schedule every pending story randomly inside the next hour.
+    # After Generate: schedule every remaining story from today before midnight.
     if event_name == "workflow_run":
         max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
@@ -108,11 +114,11 @@ def main() -> int:
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="after_generate_drain_all_1h",
+            local_date=today_local().isoformat(),
+            reason="after_generate_today_drain_before_midnight",
         )
         return 0
 
-    # Backup schedule: keep draining leftovers under the rolling cap.
     if event_name == "schedule":
         max_posts = min(pending, quota_left, MAX_PER_SCHEDULE_TICK)
         write_output(
@@ -123,7 +129,8 @@ def main() -> int:
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="schedule_drain_all_1h",
+            local_date=today_local().isoformat(),
+            reason="schedule_today_drain_before_midnight",
         )
         return 0
 
@@ -137,7 +144,8 @@ def main() -> int:
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="manual_drain_all_1h",
+            local_date=today_local().isoformat(),
+            reason="manual_today_drain_before_midnight",
         )
         return 0
 
@@ -151,7 +159,8 @@ def main() -> int:
         pending=pending,
         used_24h=used_24h,
         quota_left=quota_left,
-        reason="manual_batch_threads_cap",
+        local_date=today_local().isoformat(),
+        reason="manual_batch_today_only",
     )
     return 0
 

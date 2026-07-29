@@ -65,7 +65,9 @@ See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**. Instagram often 
 
 Limits (Maldives local time, `Indian/Maldives`):
 
-- **Calendar-day cap:** at most **49** posts between local midnight and next midnight
+- **Today only:** only photos under `output/<today>/` are published; previous-day folders are ignored
+- **Calendar-day cap:** at most **49** Instagram posts between local midnight and next midnight
+- **Drain before midnight:** after Generate and on the backup schedule, enqueue/drain **all** of today’s remaining photos (up to the 49 cap) before the next local day
 - **Start hour:** automatic posting starts at **08:00** local (configurable via `POSTING_START_HOUR`)
 - **Cool-down:** publishing stays paused until `PUBLISH_RESUME_DATE` (currently `2026-07-26`) while Instagram action-blocks cool down
 - **Fresh daily queue:** generate workflows delete previous `output/YYYY-MM-DD/` folders after local midnight so the next day builds new images
@@ -76,10 +78,11 @@ Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and
 
 **Publish to Threads** is a separate workflow (`publish-threads.yml`) that posts the same `output/` images through Buffer’s Threads channel. It does **not** use the Instagram cool-down.
 
+- **Today only:** only stories under `output/<today>/`; previous-day posts are never scheduled
 - **Rolling 24h cap:** at most **250** posts (Buffer Threads hard limit)
 - **Generate:** every **20 minutes** (V2) creates up to **4** new posts when fresh news exists
-- **After each Generate:** enqueue **all** pending Threads posts into Buffer
-- **Random 1-hour schedule:** each post gets a random `dueAt` inside the next **60 minutes** (`customScheduled`)
+- **After each Generate:** enqueue **all** of today’s pending Threads posts into Buffer
+- **Before midnight:** each post gets a random `dueAt` between now and local midnight (`customScheduled`)
 - **Primary release:** same story posts to **news.world.tech** first, then **naskhu** (~2 minutes later)
 - **Captions:** trimmed to Threads’ **500** character limit with a single topic (`#TechNews`)
 - **State:** `threads-posted.json` (independent from `instagram-posted.json`)

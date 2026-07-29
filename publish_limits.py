@@ -103,3 +103,38 @@ def seconds_until_local_midnight() -> int:
     local = now_local()
     tomorrow = datetime.combine(local.date() + timedelta(days=1), time(0, 0), tzinfo=local.tzinfo)
     return max(0, int((tomorrow - local).total_seconds()))
+
+
+def today_folder_name() -> str:
+    """YYYY-MM-DD folder name for the current local publish day."""
+    return today_local().isoformat()
+
+
+def is_today_output_path(path: Path | str) -> bool:
+    """True when path is under output/YYYY-MM-DD for today's local date.
+
+    Previous-day (and older) generated photos are ignored by publishers.
+    """
+    text = path.as_posix() if isinstance(path, Path) else str(path)
+    parts = Path(text).parts
+    today = today_folder_name()
+    # Accept output/YYYY-MM-DD/... or bare YYYY-MM-DD/...
+    for index, part in enumerate(parts):
+        if part == today:
+            return True
+        if part == "output" and index + 1 < len(parts) and parts[index + 1] == today:
+            return True
+    return False
+
+
+def schedule_window_seconds_until_midnight(
+    *,
+    preferred: int,
+    min_seconds: int = 120,
+    reserve_seconds: int = 180,
+) -> int:
+    """Prefer `preferred` window, but never schedule past local midnight."""
+    until_midnight = max(0, seconds_until_local_midnight() - max(0, reserve_seconds))
+    if until_midnight <= 0:
+        return min_seconds
+    return max(min_seconds, min(preferred, until_midnight))
