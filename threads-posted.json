@@ -6783,6 +6783,25 @@
       "published_at_utc": "2026-07-28T09:48:50Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/ebay-has-to-pay-55-7-million-in-settlement-for-its-unhinged-harassment.png": {
+      "buffer_due_at_utc": "2026-07-29T05:14:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a69831406a25458809c118a",
+      "caption_file": "output/2026-07-28/ebay-has-to-pay-55-7-million-in-settlement-for-its-unhinged-harassment.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T05:14:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69831406a25458809c118a",
+          "published_at_utc": "2026-07-29T04:35:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/ebay-has-to-pay-55-7-million-in-settlement-for-its-unhinged-harassment.png",
+      "metadata_file": "output/2026-07-28/ebay-has-to-pay-55-7-million-in-settlement-for-its-unhinged-harassment.json",
+      "published_at_utc": "2026-07-29T04:35:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/ebay-pays-46m-to-journalists-it-targeted-in-bizarre-harassment-campaig.png": {
       "buffer_due_at_utc": "2026-07-29T00:27:45.000Z",
       "buffer_mode": "customScheduled",
