@@ -8458,6 +8458,25 @@
       "published_at_utc": "2026-07-29T10:18:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/how-to-bring-a-geothermal-well-back-from-the-dead.png": {
+      "buffer_due_at_utc": "2026-07-29T10:57:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a69d37e363aa44fae6b98d8",
+      "caption_file": "output/2026-07-29/how-to-bring-a-geothermal-well-back-from-the-dead.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T10:57:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69d37e363aa44fae6b98d8",
+          "published_at_utc": "2026-07-29T10:18:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/how-to-bring-a-geothermal-well-back-from-the-dead.png",
+      "metadata_file": "output/2026-07-29/how-to-bring-a-geothermal-well-back-from-the-dead.json",
+      "published_at_utc": "2026-07-29T10:18:38Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/legalzoom-promo-code-exclusive-10-off-llc-formations.png": {
       "buffer_due_at_utc": "2026-07-29T08:02:32.000Z",
       "buffer_mode": "customScheduled",
