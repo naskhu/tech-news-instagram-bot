@@ -8984,12 +8984,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/google-s-synthid-watermark-is-hard-to-break-but-it-doesn-t-solve-ai-di.png": {
-      "buffer_due_at_utc": "2026-07-29T23:44:08.000Z",
+      "buffer_due_at_utc": "2026-07-29T23:46:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a8a77fc280c13ca721b83",
+      "buffer_post_id": "6a6a8a7cabe0794f85ef669a",
       "caption_file": "output/2026-07-29/google-s-synthid-watermark-is-hard-to-break-but-it-doesn-t-solve-ai-di.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T23:46:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a8a7cabe0794f85ef669a",
+          "published_at_utc": "2026-07-29T23:19:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T23:44:08.000Z",
           "buffer_mode": "customScheduled",
@@ -8999,7 +9005,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/google-s-synthid-watermark-is-hard-to-break-but-it-doesn-t-solve-ai-di.png",
       "metadata_file": "output/2026-07-29/google-s-synthid-watermark-is-hard-to-break-but-it-doesn-t-solve-ai-di.json",
-      "published_at_utc": "2026-07-29T23:19:19Z",
+      "published_at_utc": "2026-07-29T23:19:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assist.png": {
