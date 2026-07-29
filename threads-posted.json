@@ -8334,12 +8334,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.png": {
-      "buffer_due_at_utc": "2026-07-29T05:28:59.000Z",
+      "buffer_due_at_utc": "2026-07-29T05:30:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69832ae9aefbbb12a7ea4c",
+      "buffer_post_id": "6a69832f06a25458809c14d8",
       "caption_file": "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T05:30:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69832f06a25458809c14d8",
+          "published_at_utc": "2026-07-29T04:35:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T05:28:59.000Z",
           "buffer_mode": "customScheduled",
@@ -8349,7 +8355,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.png",
       "metadata_file": "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.json",
-      "published_at_utc": "2026-07-29T04:35:54Z",
+      "published_at_utc": "2026-07-29T04:35:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/willie-nelson-is-pushing-back-against-data-centers-in-his-hometown.png": {
