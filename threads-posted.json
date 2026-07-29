@@ -8309,12 +8309,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/best-braun-coupon-codes-15-off.png": {
-      "buffer_due_at_utc": "2026-07-29T07:43:46.000Z",
+      "buffer_due_at_utc": "2026-07-29T07:45:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a69ab6934a0a0955d77077f",
+      "buffer_post_id": "6a69ab6e7b325a18866acf5a",
       "caption_file": "output/2026-07-29/best-braun-coupon-codes-15-off.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T07:45:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a69ab6e7b325a18866acf5a",
+          "published_at_utc": "2026-07-29T07:27:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T07:43:46.000Z",
           "buffer_mode": "customScheduled",
@@ -8324,7 +8330,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/best-braun-coupon-codes-15-off.png",
       "metadata_file": "output/2026-07-29/best-braun-coupon-codes-15-off.json",
-      "published_at_utc": "2026-07-29T07:27:37Z",
+      "published_at_utc": "2026-07-29T07:27:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferati.png": {
