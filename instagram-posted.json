@@ -3805,6 +3805,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T10:34:48Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/priceline-promo-codes-coupons-10-off-july.png": {
+      "buffer_post_id": "6a69d887c1bf0237a1bef6fa",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/priceline-promo-codes-coupons-10-off-july.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/priceline-promo-codes-coupons-10-off-july.png",
+      "metadata_file": "output/2026-07-28/priceline-promo-codes-coupons-10-off-july.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T10:40:15Z",
+      "publisher": "buffer"
     }
   }
 }
