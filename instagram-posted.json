@@ -3620,6 +3620,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T08:03:00Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/hugging-face-is-being-used-to-easily-undress-women-and-children.png": {
+      "buffer_post_id": "6a69b45423997da158d17a16",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/hugging-face-is-being-used-to-easily-undress-women-and-children.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/hugging-face-is-being-used-to-easily-undress-women-and-children.png",
+      "metadata_file": "output/2026-07-28/hugging-face-is-being-used-to-easily-undress-women-and-children.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T08:05:49Z",
+      "publisher": "buffer"
     }
   }
 }
