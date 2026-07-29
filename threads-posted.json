@@ -9058,6 +9058,25 @@
       "published_at_utc": "2026-07-29T04:35:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-a.png": {
+      "buffer_due_at_utc": "2026-07-29T19:29:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a4f4ec8e22269d55f80d7",
+      "caption_file": "output/2026-07-29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-a.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T19:29:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a4f4ec8e22269d55f80d7",
+          "published_at_utc": "2026-07-29T19:06:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-a.png",
+      "metadata_file": "output/2026-07-29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-a.json",
+      "published_at_utc": "2026-07-29T19:06:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/surfshark-promo-codes-87-off-july-2026.png": {
       "buffer_due_at_utc": "2026-07-29T08:16:49.000Z",
       "buffer_mode": "customScheduled",
