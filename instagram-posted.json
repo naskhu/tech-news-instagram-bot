@@ -3697,6 +3697,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T08:29:46Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/lyft-and-baidu-enter-london-s-robotaxi-battleground-as-testing-begins-.png": {
+      "buffer_post_id": "6a69bb6c3de50ecbe97de07e",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/lyft-and-baidu-enter-london-s-robotaxi-battleground-as-testing-begins-.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/lyft-and-baidu-enter-london-s-robotaxi-battleground-as-testing-begins-.png",
+      "metadata_file": "output/2026-07-28/lyft-and-baidu-enter-london-s-robotaxi-battleground-as-testing-begins-.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T08:36:06Z",
+      "publisher": "buffer"
     }
   }
 }
