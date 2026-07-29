@@ -8258,6 +8258,25 @@
       "published_at_utc": "2026-07-28T22:18:51Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/a-new-look-at-the-pixel-11-pro.png": {
+      "buffer_due_at_utc": "2026-07-29T18:45:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a49bac8e22269d55f4370",
+      "caption_file": "output/2026-07-29/a-new-look-at-the-pixel-11-pro.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T18:45:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a49bac8e22269d55f4370",
+          "published_at_utc": "2026-07-29T18:43:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/a-new-look-at-the-pixel-11-pro.png",
+      "metadata_file": "output/2026-07-29/a-new-look-at-the-pixel-11-pro.json",
+      "published_at_utc": "2026-07-29T18:43:06Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/airbus-a350-makes-record-breaking-flight.png": {
       "buffer_due_at_utc": "2026-07-29T06:49:23.000Z",
       "buffer_mode": "customScheduled",
