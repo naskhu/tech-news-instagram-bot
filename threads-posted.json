@@ -7183,6 +7183,25 @@
       "published_at_utc": "2026-07-28T23:40:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-28/judge-blocks-first-state-law-that-would-have-banned-prediction-markets.png": {
+      "buffer_due_at_utc": "2026-07-29T04:14:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6975cbd3cfdc3678f67185",
+      "caption_file": "output/2026-07-28/judge-blocks-first-state-law-that-would-have-banned-prediction-markets.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-29T04:14:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6975cbd3cfdc3678f67185",
+          "published_at_utc": "2026-07-29T03:38:51Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/judge-blocks-first-state-law-that-would-have-banned-prediction-markets.png",
+      "metadata_file": "output/2026-07-28/judge-blocks-first-state-law-that-would-have-banned-prediction-markets.json",
+      "published_at_utc": "2026-07-29T03:38:51Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-28/logitech-s-handheld-plans-are-on-ice-don-t-expect-a-g-cloud-2-soon.png": {
       "buffer_due_at_utc": "2026-07-28T20:24:41.000Z",
       "buffer_mode": "customScheduled",
