@@ -8584,12 +8584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/discover-what-s-next-for-ai-from-the-saas-reckoning-to-the-agent-secur.png": {
-      "buffer_due_at_utc": "2026-07-29T22:15:57.000Z",
+      "buffer_due_at_utc": "2026-07-29T22:17:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a7b3a31c6b0ee11547a8d",
+      "buffer_post_id": "6a6a7b43abe0794f85ee8a9c",
       "caption_file": "output/2026-07-29/discover-what-s-next-for-ai-from-the-saas-reckoning-to-the-agent-secur.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T22:17:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a7b43abe0794f85ee8a9c",
+          "published_at_utc": "2026-07-29T22:14:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T22:15:57.000Z",
           "buffer_mode": "customScheduled",
@@ -8599,7 +8605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/discover-what-s-next-for-ai-from-the-saas-reckoning-to-the-agent-secur.png",
       "metadata_file": "output/2026-07-29/discover-what-s-next-for-ai-from-the-saas-reckoning-to-the-agent-secur.json",
-      "published_at_utc": "2026-07-29T22:14:19Z",
+      "published_at_utc": "2026-07-29T22:14:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/doordash-is-building-its-own-drone-delivery-business-techcrunch.png": {
