@@ -9484,12 +9484,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/we-re-running-out-of-reasons-to-ignore-ai-safety.png": {
-      "buffer_due_at_utc": "2026-07-29T20:10:51.000Z",
+      "buffer_due_at_utc": "2026-07-29T20:12:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a5c6d4c3e08c4ba4fa9c4",
+      "buffer_post_id": "6a6a5c71c8e22269d5600cdf",
       "caption_file": "output/2026-07-29/we-re-running-out-of-reasons-to-ignore-ai-safety.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T20:12:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a5c71c8e22269d5600cdf",
+          "published_at_utc": "2026-07-29T20:02:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T20:10:51.000Z",
           "buffer_mode": "customScheduled",
@@ -9499,7 +9505,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/we-re-running-out-of-reasons-to-ignore-ai-safety.png",
       "metadata_file": "output/2026-07-29/we-re-running-out-of-reasons-to-ignore-ai-safety.json",
-      "published_at_utc": "2026-07-29T20:02:53Z",
+      "published_at_utc": "2026-07-29T20:02:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/when-a-1-200-percent-profit-boost-isn-t-good-enough.png": {
