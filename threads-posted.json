@@ -9234,12 +9234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-b.png": {
-      "buffer_due_at_utc": "2026-07-29T23:27:36.000Z",
+      "buffer_due_at_utc": "2026-07-29T23:29:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a899d31c6b0ee115559b1",
+      "buffer_post_id": "6a6a89a1bf2d4c6e41973de7",
       "caption_file": "output/2026-07-29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-b.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-29T23:29:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a89a1bf2d4c6e41973de7",
+          "published_at_utc": "2026-07-29T23:15:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-29T23:27:36.000Z",
           "buffer_mode": "customScheduled",
@@ -9249,7 +9255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-b.png",
       "metadata_file": "output/2026-07-29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-b.json",
-      "published_at_utc": "2026-07-29T23:15:41Z",
+      "published_at_utc": "2026-07-29T23:15:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with.png": {
