@@ -3510,6 +3510,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-29T07:23:10Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-e.png": {
+      "buffer_post_id": "6a69aa8cd3cfdc3678f8f3dc",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-e.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-e.png",
+      "metadata_file": "output/2026-07-28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-e.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-29T07:24:04Z",
+      "publisher": "buffer"
     }
   }
 }
