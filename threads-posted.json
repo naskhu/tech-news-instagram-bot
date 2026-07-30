@@ -9558,6 +9558,25 @@
       "published_at_utc": "2026-07-29T23:15:46Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-co.png": {
+      "buffer_due_at_utc": "2026-07-30T06:52:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6af24731c6b0ee1159c3a3",
+      "caption_file": "output/2026-07-29/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-co.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T06:52:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6af24731c6b0ee1159c3a3",
+          "published_at_utc": "2026-07-30T06:42:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-co.png",
+      "metadata_file": "output/2026-07-29/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-co.json",
+      "published_at_utc": "2026-07-30T06:42:15Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with.png": {
       "buffer_due_at_utc": "2026-07-29T22:07:04.000Z",
       "buffer_mode": "customScheduled",
