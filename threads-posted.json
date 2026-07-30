@@ -11058,6 +11058,25 @@
       "published_at_utc": "2026-07-30T22:45:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constra.png": {
+      "buffer_due_at_utc": "2026-07-31T00:32:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6be576cc9eb43b4c1cdfdf",
+      "caption_file": "output/2026-07-30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constra.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T00:32:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6be576cc9eb43b4c1cdfdf",
+          "published_at_utc": "2026-07-30T23:59:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constra.png",
+      "metadata_file": "output/2026-07-30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constra.json",
+      "published_at_utc": "2026-07-30T23:59:50Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/bose-promo-code-40-off-for-august-2026.png": {
       "buffer_due_at_utc": "2026-07-30T06:39:45.000Z",
       "buffer_mode": "customScheduled",
