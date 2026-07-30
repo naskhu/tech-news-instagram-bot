@@ -3848,6 +3848,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T03:46:11Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/sam-altman-is-ready-to-decelerate.png": {
+      "buffer_post_id": "6a6acb5d0263c79a74b1151c",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/sam-altman-is-ready-to-decelerate.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/sam-altman-is-ready-to-decelerate.png",
+      "metadata_file": "output/2026-07-28/sam-altman-is-ready-to-decelerate.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T03:56:21Z",
+      "publisher": "buffer"
     }
   }
 }
