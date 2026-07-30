@@ -11408,6 +11408,25 @@
       "published_at_utc": "2026-07-30T20:07:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.png": {
+      "buffer_due_at_utc": "2026-07-30T20:12:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6baf03369d7a6b6a2f5bc9",
+      "caption_file": "output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T20:12:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6baf03369d7a6b6a2f5bc9",
+          "published_at_utc": "2026-07-30T20:07:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.png",
+      "metadata_file": "output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.json",
+      "published_at_utc": "2026-07-30T20:07:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
       "buffer_due_at_utc": "2026-07-30T04:18:02.000Z",
       "buffer_mode": "customScheduled",
