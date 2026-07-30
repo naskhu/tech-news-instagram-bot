@@ -4112,6 +4112,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T05:22:14Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/actually-starliner-might-fly-into-space-this-year.png": {
+      "buffer_post_id": "6a6adfa8bf2d4c6e419af8e5",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/actually-starliner-might-fly-into-space-this-year.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/actually-starliner-might-fly-into-space-this-year.png",
+      "metadata_file": "output/2026-07-29/actually-starliner-might-fly-into-space-this-year.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T05:22:58Z",
+      "publisher": "buffer"
     }
   }
 }
