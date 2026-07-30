@@ -10833,6 +10833,25 @@
       "published_at_utc": "2026-07-30T06:12:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/columbia-promo-codes-15-off-august-2026.png": {
+      "buffer_due_at_utc": "2026-07-30T06:54:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6af25188913bb262ad923d",
+      "caption_file": "output/2026-07-30/columbia-promo-codes-15-off-august-2026.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T06:54:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6af25188913bb262ad923d",
+          "published_at_utc": "2026-07-30T06:42:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/columbia-promo-codes-15-off-august-2026.png",
+      "metadata_file": "output/2026-07-30/columbia-promo-codes-15-off-august-2026.json",
+      "published_at_utc": "2026-07-30T06:42:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
       "buffer_due_at_utc": "2026-07-30T04:18:02.000Z",
       "buffer_mode": "customScheduled",
