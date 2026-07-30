@@ -11859,12 +11859,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/pixel-11-pro-fold-design-leaks-ahead-of-google-launch-event.png": {
-      "buffer_due_at_utc": "2026-07-30T20:43:05.000Z",
+      "buffer_due_at_utc": "2026-07-30T20:45:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bb5b2a7a516cf4d27fbde",
+      "buffer_post_id": "6a6bb5b8b4358423d4af4341",
       "caption_file": "output/2026-07-30/pixel-11-pro-fold-design-leaks-ahead-of-google-launch-event.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T20:45:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bb5b8b4358423d4af4341",
+          "published_at_utc": "2026-07-30T20:36:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T20:43:05.000Z",
           "buffer_mode": "customScheduled",
@@ -11874,7 +11880,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/pixel-11-pro-fold-design-leaks-ahead-of-google-launch-event.png",
       "metadata_file": "output/2026-07-30/pixel-11-pro-fold-design-leaks-ahead-of-google-launch-event.json",
-      "published_at_utc": "2026-07-30T20:36:02Z",
+      "published_at_utc": "2026-07-30T20:36:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/samsung-s-smartphone-biz-posts-first-ever-loss-but-profit-still-soars-.png": {
