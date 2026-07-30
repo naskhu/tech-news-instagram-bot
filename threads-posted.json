@@ -11209,12 +11209,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/google-is-working-on-chrome-updates-that-don-t-require-restarts.png": {
-      "buffer_due_at_utc": "2026-07-30T19:01:52.000Z",
+      "buffer_due_at_utc": "2026-07-30T19:03:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6b9c47d279f4229485d95d",
+      "buffer_post_id": "6a6b9c4c392f4c70ec32cd84",
       "caption_file": "output/2026-07-30/google-is-working-on-chrome-updates-that-don-t-require-restarts.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T19:03:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6b9c4c392f4c70ec32cd84",
+          "published_at_utc": "2026-07-30T18:47:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T19:01:52.000Z",
           "buffer_mode": "customScheduled",
@@ -11224,7 +11230,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/google-is-working-on-chrome-updates-that-don-t-require-restarts.png",
       "metadata_file": "output/2026-07-30/google-is-working-on-chrome-updates-that-don-t-require-restarts.json",
-      "published_at_utc": "2026-07-30T18:47:35Z",
+      "published_at_utc": "2026-07-30T18:47:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.png": {
