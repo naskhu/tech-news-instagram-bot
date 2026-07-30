@@ -10458,6 +10458,25 @@
       "published_at_utc": "2026-07-29T20:03:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/x-says-australia-s-under-16-social-media-ban-risks-interfering-with-fo.png": {
+      "buffer_due_at_utc": "2026-07-30T04:05:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ac51388913bb262abcc77",
+      "caption_file": "output/2026-07-29/x-says-australia-s-under-16-social-media-ban-risks-interfering-with-fo.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T04:05:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ac51388913bb262abcc77",
+          "published_at_utc": "2026-07-30T03:29:24Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/x-says-australia-s-under-16-social-media-ban-risks-interfering-with-fo.png",
+      "metadata_file": "output/2026-07-29/x-says-australia-s-under-16-social-media-ban-risks-interfering-with-fo.json",
+      "published_at_utc": "2026-07-30T03:29:24Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/xai-s-last-minute-scramble-to-stop-minnesota-s-anti-nudification-app-l.png": {
       "buffer_due_at_utc": "2026-07-29T22:03:26.000Z",
       "buffer_mode": "customScheduled",
