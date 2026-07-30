@@ -10834,12 +10834,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/office-depot-coupons-save-with-promo-codes-in-august-2026.png": {
-      "buffer_due_at_utc": "2026-07-30T07:00:33.000Z",
+      "buffer_due_at_utc": "2026-07-30T07:02:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6aeb7488913bb262ad54bd",
+      "buffer_post_id": "6a6aeb79b2299d92e6c64574",
       "caption_file": "output/2026-07-30/office-depot-coupons-save-with-promo-codes-in-august-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T07:02:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6aeb79b2299d92e6c64574",
+          "published_at_utc": "2026-07-30T06:13:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T07:00:33.000Z",
           "buffer_mode": "customScheduled",
@@ -10849,7 +10855,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/office-depot-coupons-save-with-promo-codes-in-august-2026.png",
       "metadata_file": "output/2026-07-30/office-depot-coupons-save-with-promo-codes-in-august-2026.json",
-      "published_at_utc": "2026-07-30T06:13:08Z",
+      "published_at_utc": "2026-07-30T06:13:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/the-us-space-force-has-awarded-spacex-1-6-billion-for-rocket-launches.png": {
