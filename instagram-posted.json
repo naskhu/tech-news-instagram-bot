@@ -3892,6 +3892,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T04:10:50Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/smart-rings-are-looking-like-my-kind-of-ai-gadget.png": {
+      "buffer_post_id": "6a6ad0b188913bb262ac4a9a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/smart-rings-are-looking-like-my-kind-of-ai-gadget.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/smart-rings-are-looking-like-my-kind-of-ai-gadget.png",
+      "metadata_file": "output/2026-07-28/smart-rings-are-looking-like-my-kind-of-ai-gadget.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T04:19:06Z",
+      "publisher": "buffer"
     }
   }
 }
