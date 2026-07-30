@@ -10984,12 +10984,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-m.png": {
-      "buffer_due_at_utc": "2026-07-30T20:37:23.000Z",
+      "buffer_due_at_utc": "2026-07-30T20:39:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bb591369d7a6b6a2fa47b",
+      "buffer_post_id": "6a6bb596961582f29fecb5ea",
       "caption_file": "output/2026-07-30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-m.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T20:39:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bb596961582f29fecb5ea",
+          "published_at_utc": "2026-07-30T20:35:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T20:37:23.000Z",
           "buffer_mode": "customScheduled",
@@ -10999,7 +11005,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-m.png",
       "metadata_file": "output/2026-07-30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-m.json",
-      "published_at_utc": "2026-07-30T20:35:29Z",
+      "published_at_utc": "2026-07-30T20:35:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/chatgpt-and-roblox-will-be-subjected-to-the-eu-s-content-moderation-ru.png": {
