@@ -9034,12 +9034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/has-substack-s-subscription-model-really-maxed-out.png": {
-      "buffer_due_at_utc": "2026-07-30T00:32:32.000Z",
+      "buffer_due_at_utc": "2026-07-30T00:34:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6a972bfc280c13ca72cca2",
+      "buffer_post_id": "6a6a9730b2299d92e6c2c7bf",
       "caption_file": "output/2026-07-29/has-substack-s-subscription-model-really-maxed-out.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T00:34:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a9730b2299d92e6c2c7bf",
+          "published_at_utc": "2026-07-30T00:13:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T00:32:32.000Z",
           "buffer_mode": "customScheduled",
@@ -9049,7 +9055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/has-substack-s-subscription-model-really-maxed-out.png",
       "metadata_file": "output/2026-07-29/has-substack-s-subscription-model-really-maxed-out.json",
-      "published_at_utc": "2026-07-30T00:13:31Z",
+      "published_at_utc": "2026-07-30T00:13:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assist.png": {
