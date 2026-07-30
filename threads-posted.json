@@ -10734,12 +10734,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/50-off-doordash-promo-code-august-2026.png": {
-      "buffer_due_at_utc": "2026-07-30T06:36:15.000Z",
+      "buffer_due_at_utc": "2026-07-30T06:38:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6aeb552ac88778e5bbf65d",
+      "buffer_post_id": "6a6aeb5a0263c79a74b25616",
       "caption_file": "output/2026-07-30/50-off-doordash-promo-code-august-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T06:38:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6aeb5a0263c79a74b25616",
+          "published_at_utc": "2026-07-30T06:12:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T06:36:15.000Z",
           "buffer_mode": "customScheduled",
@@ -10749,7 +10755,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/50-off-doordash-promo-code-august-2026.png",
       "metadata_file": "output/2026-07-30/50-off-doordash-promo-code-august-2026.json",
-      "published_at_utc": "2026-07-30T06:12:37Z",
+      "published_at_utc": "2026-07-30T06:12:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
