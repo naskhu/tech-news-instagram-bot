@@ -4079,6 +4079,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T05:14:54Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/yelp-s-ai-can-now-handle-takeout-orders-over-the-phone.png": {
+      "buffer_post_id": "6a6adee29b11043211d5559a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/yelp-s-ai-can-now-handle-takeout-orders-over-the-phone.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/yelp-s-ai-can-now-handle-takeout-orders-over-the-phone.png",
+      "metadata_file": "output/2026-07-28/yelp-s-ai-can-now-handle-takeout-orders-over-the-phone.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T05:19:38Z",
+      "publisher": "buffer"
     }
   }
 }
