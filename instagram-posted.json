@@ -4407,6 +4407,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T09:37:35Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-mine.png": {
+      "buffer_post_id": "6a6b1c528a3502457bde1d51",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-mine.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-mine.png",
+      "metadata_file": "output/2026-07-29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-mine.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T09:41:46Z",
+      "publisher": "buffer"
     }
   }
 }
