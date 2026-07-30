@@ -11608,6 +11608,25 @@
       "published_at_utc": "2026-07-30T20:07:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/investors-love-ai-as-long-as-you-re-a-cloud-host.png": {
+      "buffer_due_at_utc": "2026-07-30T23:32:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6bd40eb4358423d4b0c1aa",
+      "caption_file": "output/2026-07-30/investors-love-ai-as-long-as-you-re-a-cloud-host.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T23:32:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bd40eb4358423d4b0c1aa",
+          "published_at_utc": "2026-07-30T22:45:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/investors-love-ai-as-long-as-you-re-a-cloud-host.png",
+      "metadata_file": "output/2026-07-30/investors-love-ai-as-long-as-you-re-a-cloud-host.json",
+      "published_at_utc": "2026-07-30T22:45:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.png": {
       "buffer_due_at_utc": "2026-07-30T09:51:36.000Z",
       "buffer_mode": "customScheduled",
