@@ -3914,6 +3914,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T04:27:36Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/study-dinosaurs-were-charbroiled-after-chicxulub-impact.png": {
+      "buffer_post_id": "6a6ad4c80263c79a74b170b4",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/study-dinosaurs-were-charbroiled-after-chicxulub-impact.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/study-dinosaurs-were-charbroiled-after-chicxulub-impact.png",
+      "metadata_file": "output/2026-07-28/study-dinosaurs-were-charbroiled-after-chicxulub-impact.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T04:36:33Z",
+      "publisher": "buffer"
     }
   }
 }
