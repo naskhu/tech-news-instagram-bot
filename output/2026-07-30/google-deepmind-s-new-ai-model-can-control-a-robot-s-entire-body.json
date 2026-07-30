@@ -1,0 +1,22 @@
+{
+  "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+  "summary": "Google DeepMind is updating Gemini Robotics ER (embodied reasoning) as well, a vision-language model that helps robots to analyze their surroundings, process instructions, and perform multi-step tasks.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+  "published_utc": "2026-07-30T17:18:45+00:00",
+  "date_source": "rss",
+  "generated_utc": "2026-07-30T22:19:12.242401+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-07-30/google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body.png",
+  "caption": "output/2026-07-30/google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body.txt"
+}
