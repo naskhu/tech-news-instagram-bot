@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-30T18:44:04.543175+00:00",
+  "run_utc": "2026-07-30T18:49:15.694307+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-27T18:44:04.543338+00:00",
-  "eligible_story_count": 495,
+  "cutoff_utc": "2026-07-27T18:49:15.694415+00:00",
+  "eligible_story_count": 492,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 5,
-      "already_processed": 26,
+      "eligible_new": 1,
+      "already_processed": 27,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -498,10 +498,10 @@
           "error": ""
         }
       ],
-      "rss_candidates": 34,
+      "rss_candidates": 35,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 27,
+      "eligible_new": 28,
       "already_processed": 3,
       "older_than_window": 18,
       "metadata_errors": {}
@@ -568,13 +568,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 28,
-      "page_articles": 4,
+      "page_articles": 6,
       "eligible_new": 17,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 23
+        "http_429": 21
       }
     },
     {
@@ -593,22 +593,22 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 29,
+          "links": 28,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 11,
+          "links": 12,
           "error": ""
         }
       ],
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 74,
+      "eligible_new": 75,
       "already_processed": 0,
-      "older_than_window": 39,
+      "older_than_window": 38,
       "metadata_errors": {}
     },
     {
@@ -710,7 +710,7 @@
       "rss_candidates": 20,
       "page_links": 36,
       "page_articles": 36,
-      "eligible_new": 37,
+      "eligible_new": 36,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
