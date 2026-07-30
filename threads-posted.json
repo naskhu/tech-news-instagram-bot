@@ -11409,12 +11409,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.png": {
-      "buffer_due_at_utc": "2026-07-30T20:12:52.000Z",
+      "buffer_due_at_utc": "2026-07-30T20:14:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6baf03369d7a6b6a2f5bc9",
+      "buffer_post_id": "6a6baf08b4358423d4aef6b5",
       "caption_file": "output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T20:14:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6baf08b4358423d4aef6b5",
+          "published_at_utc": "2026-07-30T20:07:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T20:12:52.000Z",
           "buffer_mode": "customScheduled",
@@ -11424,7 +11430,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.png",
       "metadata_file": "output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.json",
-      "published_at_utc": "2026-07-30T20:07:32Z",
+      "published_at_utc": "2026-07-30T20:07:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
