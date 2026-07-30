@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-07-30T11:22:28.492884+00:00",
+  "run_utc": "2026-07-30T12:03:48.991486+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-27T11:22:28.492980+00:00",
-  "eligible_story_count": 472,
+  "cutoff_utc": "2026-07-27T12:03:48.991645+00:00",
+  "eligible_story_count": 471,
   "sources": [
     {
       "source": "TechCrunch",
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 2,
-      "already_processed": 29,
+      "eligible_new": 1,
+      "already_processed": 30,
       "older_than_window": 5,
       "metadata_errors": {}
     },
@@ -111,9 +111,9 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 10,
+      "eligible_new": 9,
       "already_processed": 2,
-      "older_than_window": 22,
+      "older_than_window": 23,
       "metadata_errors": {}
     },
     {
@@ -205,14 +205,14 @@
         {
           "url": "https://www.engadget.com/latest/",
           "status": 200,
-          "links": 0,
+          "links": 1,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 32,
-      "page_articles": 32,
-      "eligible_new": 32,
+      "page_links": 33,
+      "page_articles": 33,
+      "eligible_new": 33,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -248,8 +248,8 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 37,
-      "already_processed": 60,
+      "eligible_new": 38,
+      "already_processed": 59,
       "older_than_window": 14,
       "metadata_errors": {}
     },
@@ -377,13 +377,13 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 21,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 29,
           "error": ""
         }
       ],
@@ -392,7 +392,7 @@
       "page_articles": 45,
       "eligible_new": 82,
       "already_processed": 11,
-      "older_than_window": 21,
+      "older_than_window": 18,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -424,14 +424,14 @@
         {
           "url": "https://www.pcmag.com/news",
           "status": 200,
-          "links": 24,
+          "links": 25,
           "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 24,
-      "page_articles": 24,
-      "eligible_new": 22,
+      "page_links": 25,
+      "page_articles": 25,
+      "eligible_new": 23,
       "already_processed": 1,
       "older_than_window": 1,
       "metadata_errors": {}
@@ -459,8 +459,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 9,
-      "already_processed": 46,
+      "eligible_new": 7,
+      "already_processed": 47,
       "older_than_window": 7,
       "metadata_errors": {}
     },
@@ -568,12 +568,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 5,
+      "page_articles": 7,
       "eligible_new": 15,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 21
+        "no_article_metadata": 1,
+        "http_429": 18
       }
     },
     {
@@ -592,13 +593,13 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 30,
+          "links": 31,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 10,
+          "links": 9,
           "error": ""
         }
       ],
@@ -607,7 +608,7 @@
       "page_articles": 40,
       "eligible_new": 82,
       "already_processed": 0,
-      "older_than_window": 31,
+      "older_than_window": 30,
       "metadata_errors": {}
     },
     {
@@ -675,7 +676,7 @@
       "page_articles": 38,
       "eligible_new": 52,
       "already_processed": 0,
-      "older_than_window": 11,
+      "older_than_window": 9,
       "metadata_errors": {
         "no_article_metadata": 2
       }
