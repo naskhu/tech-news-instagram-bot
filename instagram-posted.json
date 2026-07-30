@@ -4123,6 +4123,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T05:22:58Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/after-testing-dyson-s-new-vacuums-against-the-old-there-s-a-clear-winn.png": {
+      "buffer_post_id": "6a6aebe931c6b0ee11598c7c",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/after-testing-dyson-s-new-vacuums-against-the-old-there-s-a-clear-winn.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/after-testing-dyson-s-new-vacuums-against-the-old-there-s-a-clear-winn.png",
+      "metadata_file": "output/2026-07-29/after-testing-dyson-s-new-vacuums-against-the-old-there-s-a-clear-winn.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T06:15:14Z",
+      "publisher": "buffer"
     }
   }
 }
