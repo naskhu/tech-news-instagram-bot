@@ -10934,12 +10934,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.png": {
-      "buffer_due_at_utc": "2026-07-30T09:49:36.000Z",
+      "buffer_due_at_utc": "2026-07-30T09:51:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6b146d624551d661c46326",
+      "buffer_post_id": "6a6b1472624551d661c4634f",
       "caption_file": "output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T09:51:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6b1472624551d661c4634f",
+          "published_at_utc": "2026-07-30T09:08:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T09:49:36.000Z",
           "buffer_mode": "customScheduled",
@@ -10949,7 +10955,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.png",
       "metadata_file": "output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.json",
-      "published_at_utc": "2026-07-30T09:07:57Z",
+      "published_at_utc": "2026-07-30T09:08:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
