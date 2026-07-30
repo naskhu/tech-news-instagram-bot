@@ -3643,6 +3643,17 @@
       "published_at_utc": "2026-07-29T08:06:42Z",
       "publisher": "buffer"
     },
+    "output/2026-07-28/is-the-electric-trike-the-next-big-thing-in-shared-micromobility.png": {
+      "buffer_post_id": "6a6af3e60263c79a74b2b2ef",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/is-the-electric-trike-the-next-big-thing-in-shared-micromobility.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/is-the-electric-trike-the-next-big-thing-in-shared-micromobility.png",
+      "metadata_file": "output/2026-07-28/is-the-electric-trike-the-next-big-thing-in-shared-micromobility.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T06:49:17Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-28/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-sto.png": {
       "buffer_post_id": "6a69b4cc525fdedde70a3f13",
       "buffer_status": "error",
