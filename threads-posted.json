@@ -8309,12 +8309,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/after-testing-dyson-s-new-vacuums-against-the-old-there-s-a-clear-winn.png": {
-      "buffer_due_at_utc": "2026-07-30T03:49:54.000Z",
+      "buffer_due_at_utc": "2026-07-30T03:51:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ac63f31c6b0ee1157ef5d",
+      "buffer_post_id": "6a6ac644b2299d92e6c4c4aa",
       "caption_file": "output/2026-07-29/after-testing-dyson-s-new-vacuums-against-the-old-there-s-a-clear-winn.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T03:51:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ac644b2299d92e6c4c4aa",
+          "published_at_utc": "2026-07-30T03:34:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T03:49:54.000Z",
           "buffer_mode": "customScheduled",
@@ -8324,7 +8330,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/after-testing-dyson-s-new-vacuums-against-the-old-there-s-a-clear-winn.png",
       "metadata_file": "output/2026-07-29/after-testing-dyson-s-new-vacuums-against-the-old-there-s-a-clear-winn.json",
-      "published_at_utc": "2026-07-30T03:34:23Z",
+      "published_at_utc": "2026-07-30T03:34:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/airbus-a350-makes-record-breaking-flight.png": {
