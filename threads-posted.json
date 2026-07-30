@@ -9384,12 +9384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/mac-mini-availability-long-waits-and-higher-prices.png": {
-      "buffer_due_at_utc": "2026-07-30T04:16:13.000Z",
+      "buffer_due_at_utc": "2026-07-30T04:18:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ac65388913bb262abdda9",
+      "buffer_post_id": "6a6ac6589b11043211d45cfc",
       "caption_file": "output/2026-07-29/mac-mini-availability-long-waits-and-higher-prices.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T04:18:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ac6589b11043211d45cfc",
+          "published_at_utc": "2026-07-30T03:34:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T04:16:13.000Z",
           "buffer_mode": "customScheduled",
@@ -9399,7 +9405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/mac-mini-availability-long-waits-and-higher-prices.png",
       "metadata_file": "output/2026-07-29/mac-mini-availability-long-waits-and-higher-prices.json",
-      "published_at_utc": "2026-07-30T03:34:43Z",
+      "published_at_utc": "2026-07-30T03:34:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents.png": {
