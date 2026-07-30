@@ -11108,6 +11108,25 @@
       "published_at_utc": "2026-07-30T18:46:47Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/forward-deployed-engineers-are-the-ai-industry-s-latest-talent-obsessi.png": {
+      "buffer_due_at_utc": "2026-07-30T18:56:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6b9c1d98e0eecedea05d01",
+      "caption_file": "output/2026-07-30/forward-deployed-engineers-are-the-ai-industry-s-latest-talent-obsessi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T18:56:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6b9c1d98e0eecedea05d01",
+          "published_at_utc": "2026-07-30T18:46:53Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/forward-deployed-engineers-are-the-ai-industry-s-latest-talent-obsessi.png",
+      "metadata_file": "output/2026-07-30/forward-deployed-engineers-are-the-ai-industry-s-latest-talent-obsessi.json",
+      "published_at_utc": "2026-07-30T18:46:53Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.png": {
       "buffer_due_at_utc": "2026-07-30T09:50:00.000Z",
       "buffer_mode": "customScheduled",
