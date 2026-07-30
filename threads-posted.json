@@ -11133,6 +11133,25 @@
       "published_at_utc": "2026-07-30T18:46:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for.png": {
+      "buffer_due_at_utc": "2026-07-30T18:56:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6b9c2715af6a6d33699bfd",
+      "caption_file": "output/2026-07-30/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T18:56:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6b9c2715af6a6d33699bfd",
+          "published_at_utc": "2026-07-30T18:47:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for.png",
+      "metadata_file": "output/2026-07-30/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for.json",
+      "published_at_utc": "2026-07-30T18:47:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.png": {
       "buffer_due_at_utc": "2026-07-30T09:50:00.000Z",
       "buffer_mode": "customScheduled",
