@@ -12209,12 +12209,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public-t.png": {
-      "buffer_due_at_utc": "2026-07-30T22:04:31.000Z",
+      "buffer_due_at_utc": "2026-07-30T22:06:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bc050a7a516cf4d28689e",
+      "buffer_post_id": "6a6bc055961582f29fed3446",
       "caption_file": "output/2026-07-30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T22:06:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bc055961582f29fed3446",
+          "published_at_utc": "2026-07-30T21:21:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T22:04:31.000Z",
           "buffer_mode": "customScheduled",
@@ -12224,7 +12230,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public-t.png",
       "metadata_file": "output/2026-07-30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public-t.json",
-      "published_at_utc": "2026-07-30T21:21:20Z",
+      "published_at_utc": "2026-07-30T21:21:25Z",
       "publisher": "buffer_threads"
     }
   }
