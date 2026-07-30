@@ -11984,12 +11984,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/reddit-is-planning-something-new-in-video.png": {
-      "buffer_due_at_utc": "2026-07-30T22:31:42.000Z",
+      "buffer_due_at_utc": "2026-07-30T22:33:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bce28bb30a36747fcfd52",
+      "buffer_post_id": "6a6bce2dbb30a36747fcfd7c",
       "caption_file": "output/2026-07-30/reddit-is-planning-something-new-in-video.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T22:33:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bce2dbb30a36747fcfd7c",
+          "published_at_utc": "2026-07-30T22:20:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T22:31:42.000Z",
           "buffer_mode": "customScheduled",
@@ -11999,7 +12005,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/reddit-is-planning-something-new-in-video.png",
       "metadata_file": "output/2026-07-30/reddit-is-planning-something-new-in-video.json",
-      "published_at_utc": "2026-07-30T22:20:24Z",
+      "published_at_utc": "2026-07-30T22:20:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/samsung-s-smartphone-biz-posts-first-ever-loss-but-profit-still-soars-.png": {
