@@ -11733,6 +11733,25 @@
       "published_at_utc": "2026-07-30T06:13:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m-techc.png": {
+      "buffer_due_at_utc": "2026-07-30T20:28:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6bb0e2369d7a6b6a2f7264",
+      "caption_file": "output/2026-07-30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T20:28:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bb0e2369d7a6b6a2f7264",
+          "published_at_utc": "2026-07-30T20:15:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m-techc.png",
+      "metadata_file": "output/2026-07-30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m-techc.json",
+      "published_at_utc": "2026-07-30T20:15:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/samsung-s-smartphone-biz-posts-first-ever-loss-but-profit-still-soars-.png": {
       "buffer_due_at_utc": "2026-07-30T07:34:38.000Z",
       "buffer_mode": "customScheduled",
