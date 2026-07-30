@@ -9308,6 +9308,25 @@
       "published_at_utc": "2026-07-29T01:08:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/love-it-or-hate-it-ferrari-s-first-ev-is-a-thrilling-drive.png": {
+      "buffer_due_at_utc": "2026-07-30T03:55:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ac50931c6b0ee1157e1e1",
+      "caption_file": "output/2026-07-29/love-it-or-hate-it-ferrari-s-first-ev-is-a-thrilling-drive.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T03:55:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ac50931c6b0ee1157e1e1",
+          "published_at_utc": "2026-07-30T03:29:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/love-it-or-hate-it-ferrari-s-first-ev-is-a-thrilling-drive.png",
+      "metadata_file": "output/2026-07-29/love-it-or-hate-it-ferrari-s-first-ev-is-a-thrilling-drive.json",
+      "published_at_utc": "2026-07-30T03:29:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents.png": {
       "buffer_due_at_utc": "2026-07-29T22:37:10.000Z",
       "buffer_mode": "customScheduled",
