@@ -8383,6 +8383,25 @@
       "published_at_utc": "2026-07-29T22:17:28Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/apple-upgrade-isn-t-the-best-way-to-buy-an-iphone.png": {
+      "buffer_due_at_utc": "2026-07-30T04:01:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ac649b2299d92e6c4c4ce",
+      "caption_file": "output/2026-07-29/apple-upgrade-isn-t-the-best-way-to-buy-an-iphone.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T04:01:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ac649b2299d92e6c4c4ce",
+          "published_at_utc": "2026-07-30T03:34:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/apple-upgrade-isn-t-the-best-way-to-buy-an-iphone.png",
+      "metadata_file": "output/2026-07-29/apple-upgrade-isn-t-the-best-way-to-buy-an-iphone.json",
+      "published_at_utc": "2026-07-30T03:34:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/artists-are-lawyering-up-against-ai-slop-and-some-are-even-winning.png": {
       "buffer_due_at_utc": "2026-07-29T18:50:24.000Z",
       "buffer_mode": "customScheduled",
