@@ -12134,12 +12134,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/the-senate-takes-another-crack-at-passing-the-kids-online-safety-act.png": {
-      "buffer_due_at_utc": "2026-07-30T21:59:11.000Z",
+      "buffer_due_at_utc": "2026-07-30T22:01:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bc03dbb30a36747fc5a9f",
+      "buffer_post_id": "6a6bc041a788ee461514bd74",
       "caption_file": "output/2026-07-30/the-senate-takes-another-crack-at-passing-the-kids-online-safety-act.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T22:01:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bc041a788ee461514bd74",
+          "published_at_utc": "2026-07-30T21:21:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T21:59:11.000Z",
           "buffer_mode": "customScheduled",
@@ -12149,7 +12155,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/the-senate-takes-another-crack-at-passing-the-kids-online-safety-act.png",
       "metadata_file": "output/2026-07-30/the-senate-takes-another-crack-at-passing-the-kids-online-safety-act.json",
-      "published_at_utc": "2026-07-30T21:21:01Z",
+      "published_at_utc": "2026-07-30T21:21:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/the-us-space-force-has-awarded-spacex-1-6-billion-for-rocket-launches.png": {
