@@ -8533,6 +8533,25 @@
       "published_at_utc": "2026-07-29T20:23:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/comedian-josh-johnson-has-some-thoughts-about-elon-musk.png": {
+      "buffer_due_at_utc": "2026-07-30T00:29:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a9721abe0794f85f02b60",
+      "caption_file": "output/2026-07-29/comedian-josh-johnson-has-some-thoughts-about-elon-musk.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T00:29:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a9721abe0794f85f02b60",
+          "published_at_utc": "2026-07-30T00:13:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/comedian-josh-johnson-has-some-thoughts-about-elon-musk.png",
+      "metadata_file": "output/2026-07-29/comedian-josh-johnson-has-some-thoughts-about-elon-musk.json",
+      "published_at_utc": "2026-07-30T00:13:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/customize-ars-your-way-with-an-ars-pro-subscription.png": {
       "buffer_due_at_utc": "2026-07-29T21:36:51.000Z",
       "buffer_mode": "customScheduled",
