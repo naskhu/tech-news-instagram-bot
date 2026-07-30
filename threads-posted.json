@@ -12232,6 +12232,25 @@
       "metadata_file": "output/2026-07-30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public-t.json",
       "published_at_utc": "2026-07-30T21:21:25Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-07-30/wonder-man-won-t-have-a-second-season-on-disney-plus.png": {
+      "buffer_due_at_utc": "2026-07-30T22:12:11.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6bc05ab4358423d4afb93e",
+      "caption_file": "output/2026-07-30/wonder-man-won-t-have-a-second-season-on-disney-plus.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T22:12:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bc05ab4358423d4afb93e",
+          "published_at_utc": "2026-07-30T21:21:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/wonder-man-won-t-have-a-second-season-on-disney-plus.png",
+      "metadata_file": "output/2026-07-30/wonder-man-won-t-have-a-second-season-on-disney-plus.json",
+      "published_at_utc": "2026-07-30T21:21:30Z",
+      "publisher": "buffer_threads"
     }
   }
 }
