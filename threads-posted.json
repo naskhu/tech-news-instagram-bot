@@ -11309,12 +11309,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-y.png": {
-      "buffer_due_at_utc": "2026-07-30T20:23:23.000Z",
+      "buffer_due_at_utc": "2026-07-30T20:25:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bb0d1a788ee4615141432",
+      "buffer_post_id": "6a6bb0d6369d7a6b6a2f71c2",
       "caption_file": "output/2026-07-30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-y.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T20:25:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bb0d6369d7a6b6a2f71c2",
+          "published_at_utc": "2026-07-30T20:15:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T20:23:23.000Z",
           "buffer_mode": "customScheduled",
@@ -11324,7 +11330,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-y.png",
       "metadata_file": "output/2026-07-30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-y.json",
-      "published_at_utc": "2026-07-30T20:15:13Z",
+      "published_at_utc": "2026-07-30T20:15:18Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/govee-s-portable-smart-lamp-is-down-to-one-of-its-best-prices-to-date.png": {
