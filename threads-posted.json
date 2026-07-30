@@ -12034,12 +12034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/samsung-s-galaxy-watch-9-is-40-off-at-costco-and-comes-with-over-50-in.png": {
-      "buffer_due_at_utc": "2026-07-30T23:03:20.000Z",
+      "buffer_due_at_utc": "2026-07-30T23:05:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bce3db4358423d4b05df9",
+      "buffer_post_id": "6a6bce42b4358423d4b05e66",
       "caption_file": "output/2026-07-30/samsung-s-galaxy-watch-9-is-40-off-at-costco-and-comes-with-over-50-in.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T23:05:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bce42b4358423d4b05e66",
+          "published_at_utc": "2026-07-30T22:20:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T23:03:20.000Z",
           "buffer_mode": "customScheduled",
@@ -12049,7 +12055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/samsung-s-galaxy-watch-9-is-40-off-at-costco-and-comes-with-over-50-in.png",
       "metadata_file": "output/2026-07-30/samsung-s-galaxy-watch-9-is-40-off-at-costco-and-comes-with-over-50-in.json",
-      "published_at_utc": "2026-07-30T22:20:45Z",
+      "published_at_utc": "2026-07-30T22:20:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/samsung-s-smartphone-biz-posts-first-ever-loss-but-profit-still-soars-.png": {
