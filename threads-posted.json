@@ -11484,12 +11484,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.png": {
-      "buffer_due_at_utc": "2026-07-30T20:19:38.000Z",
+      "buffer_due_at_utc": "2026-07-30T20:21:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6baf20a788ee4615140011",
+      "buffer_post_id": "6a6baf25a7a516cf4d27b4c4",
       "caption_file": "output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T20:21:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6baf25a7a516cf4d27b4c4",
+          "published_at_utc": "2026-07-30T20:08:05Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T20:19:38.000Z",
           "buffer_mode": "customScheduled",
@@ -11499,7 +11505,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.png",
       "metadata_file": "output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.json",
-      "published_at_utc": "2026-07-30T20:08:00Z",
+      "published_at_utc": "2026-07-30T20:08:05Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
