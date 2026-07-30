@@ -11609,12 +11609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/meta-s-oversight-board-is-coming-for-chatgpt-and-claude.png": {
-      "buffer_due_at_utc": "2026-07-30T20:40:22.000Z",
+      "buffer_due_at_utc": "2026-07-30T20:42:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bb5a4a7a516cf4d27fb5c",
+      "buffer_post_id": "6a6bb5a9bb30a36747fbe86d",
       "caption_file": "output/2026-07-30/meta-s-oversight-board-is-coming-for-chatgpt-and-claude.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T20:42:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bb5a9bb30a36747fbe86d",
+          "published_at_utc": "2026-07-30T20:35:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T20:40:22.000Z",
           "buffer_mode": "customScheduled",
@@ -11624,7 +11630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/meta-s-oversight-board-is-coming-for-chatgpt-and-claude.png",
       "metadata_file": "output/2026-07-30/meta-s-oversight-board-is-coming-for-chatgpt-and-claude.json",
-      "published_at_utc": "2026-07-30T20:35:48Z",
+      "published_at_utc": "2026-07-30T20:35:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.png": {
