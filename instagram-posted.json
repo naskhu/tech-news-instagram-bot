@@ -4035,6 +4035,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T04:49:50Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/what-if-the-windshield-was-a-display.png": {
+      "buffer_post_id": "6a6ad864b2299d92e6c56ab4",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/what-if-the-windshield-was-a-display.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/what-if-the-windshield-was-a-display.png",
+      "metadata_file": "output/2026-07-28/what-if-the-windshield-was-a-display.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T04:51:56Z",
+      "publisher": "buffer"
     }
   }
 }
