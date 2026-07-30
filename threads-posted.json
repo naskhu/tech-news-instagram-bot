@@ -8884,12 +8884,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/festival-must-haves-field-tested-at-lost-lands-and-electric-forest.png": {
-      "buffer_due_at_utc": "2026-07-30T03:49:12.000Z",
+      "buffer_due_at_utc": "2026-07-30T03:51:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ac4ff0263c79a74b0db1c",
+      "buffer_post_id": "6a6ac504b2299d92e6c4b85e",
       "caption_file": "output/2026-07-29/festival-must-haves-field-tested-at-lost-lands-and-electric-forest.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T03:51:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ac504b2299d92e6c4b85e",
+          "published_at_utc": "2026-07-30T03:29:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T03:49:12.000Z",
           "buffer_mode": "customScheduled",
@@ -8899,7 +8905,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/festival-must-haves-field-tested-at-lost-lands-and-electric-forest.png",
       "metadata_file": "output/2026-07-29/festival-must-haves-field-tested-at-lost-lands-and-electric-forest.json",
-      "published_at_utc": "2026-07-30T03:29:03Z",
+      "published_at_utc": "2026-07-30T03:29:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.png": {
