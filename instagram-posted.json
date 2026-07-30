@@ -4057,6 +4057,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T05:00:02Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/xbox-live-is-back-online-microsoft-says-but-some-players-want-compensa.png": {
+      "buffer_post_id": "6a6adc8eb2299d92e6c599bd",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/xbox-live-is-back-online-microsoft-says-but-some-players-want-compensa.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/xbox-live-is-back-online-microsoft-says-but-some-players-want-compensa.png",
+      "metadata_file": "output/2026-07-28/xbox-live-is-back-online-microsoft-says-but-some-players-want-compensa.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T05:09:41Z",
+      "publisher": "buffer"
     }
   }
 }
