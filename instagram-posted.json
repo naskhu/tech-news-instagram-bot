@@ -3958,6 +3958,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T04:45:47Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/the-union-drive-at-the-wikimedia-foundation-is-expanding.png": {
+      "buffer_post_id": "6a6ad7509b11043211d50cee",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/the-union-drive-at-the-wikimedia-foundation-is-expanding.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/the-union-drive-at-the-wikimedia-foundation-is-expanding.png",
+      "metadata_file": "output/2026-07-28/the-union-drive-at-the-wikimedia-foundation-is-expanding.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T04:47:20Z",
+      "publisher": "buffer"
     }
   }
 }
