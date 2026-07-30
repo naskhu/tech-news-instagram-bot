@@ -3991,6 +3991,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T04:49:14Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/this-comfy-gaming-headset-that-can-play-audio-from-two-sources-is-25.png": {
+      "buffer_post_id": "6a6ad7cc31c6b0ee1158a857",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/this-comfy-gaming-headset-that-can-play-audio-from-two-sources-is-25.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/this-comfy-gaming-headset-that-can-play-audio-from-two-sources-is-25.png",
+      "metadata_file": "output/2026-07-28/this-comfy-gaming-headset-that-can-play-audio-from-two-sources-is-25.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T04:49:24Z",
+      "publisher": "buffer"
     }
   }
 }
