@@ -4385,6 +4385,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T09:26:02Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls.png": {
+      "buffer_post_id": "6a6b1a20afd55acc4fb67e0c",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls.png",
+      "metadata_file": "output/2026-07-29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T09:32:23Z",
+      "publisher": "buffer"
     }
   }
 }
