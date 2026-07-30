@@ -12257,6 +12257,25 @@
       "metadata_file": "output/2026-07-30/wonder-man-won-t-have-a-second-season-on-disney-plus.json",
       "published_at_utc": "2026-07-30T21:21:35Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-07-30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service.png": {
+      "buffer_due_at_utc": "2026-07-30T22:17:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6bc063369d7a6b6a301edf",
+      "caption_file": "output/2026-07-30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T22:17:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bc063369d7a6b6a301edf",
+          "published_at_utc": "2026-07-30T21:21:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service.png",
+      "metadata_file": "output/2026-07-30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service.json",
+      "published_at_utc": "2026-07-30T21:21:40Z",
+      "publisher": "buffer_threads"
     }
   }
 }
