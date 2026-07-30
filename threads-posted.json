@@ -10634,12 +10634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
-      "buffer_due_at_utc": "2026-07-30T04:16:02.000Z",
+      "buffer_due_at_utc": "2026-07-30T04:18:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ac51e31c6b0ee1157e293",
+      "buffer_post_id": "6a6ac523b2299d92e6c4b968",
       "caption_file": "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T04:18:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ac523b2299d92e6c4b968",
+          "published_at_utc": "2026-07-30T03:29:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T04:16:02.000Z",
           "buffer_mode": "customScheduled",
@@ -10649,7 +10655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png",
       "metadata_file": "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.json",
-      "published_at_utc": "2026-07-30T03:29:34Z",
+      "published_at_utc": "2026-07-30T03:29:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/the-us-space-force-has-awarded-spacex-1-6-billion-for-rocket-launches.png": {
