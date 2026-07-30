@@ -4134,6 +4134,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T06:15:14Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/airbus-a350-makes-record-breaking-flight.png": {
+      "buffer_post_id": "6a6aede50263c79a74b26d21",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/airbus-a350-makes-record-breaking-flight.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/airbus-a350-makes-record-breaking-flight.png",
+      "metadata_file": "output/2026-07-29/airbus-a350-makes-record-breaking-flight.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T06:23:40Z",
+      "publisher": "buffer"
     }
   }
 }
