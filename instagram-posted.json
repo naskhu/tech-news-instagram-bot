@@ -3980,6 +3980,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T04:48:24Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.png": {
+      "buffer_post_id": "6a6ad7c488913bb262ac7d96",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.png",
+      "metadata_file": "output/2026-07-28/these-app-store-hidden-gems-prove-there-s-still-room-for-great-softwar.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T04:49:14Z",
+      "publisher": "buffer"
     }
   }
 }
