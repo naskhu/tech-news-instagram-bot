@@ -11358,6 +11358,25 @@
       "published_at_utc": "2026-07-30T20:06:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body.png": {
+      "buffer_due_at_utc": "2026-07-30T22:27:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6bce1da7a516cf4d28fa35",
+      "caption_file": "output/2026-07-30/google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T22:27:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bce1da7a516cf4d28fa35",
+          "published_at_utc": "2026-07-30T22:20:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body.png",
+      "metadata_file": "output/2026-07-30/google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body.json",
+      "published_at_utc": "2026-07-30T22:20:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/google-is-working-on-chrome-updates-that-don-t-require-restarts.png": {
       "buffer_due_at_utc": "2026-07-30T19:03:52.000Z",
       "buffer_mode": "customScheduled",
