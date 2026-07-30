@@ -10909,12 +10909,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.png": {
-      "buffer_due_at_utc": "2026-07-30T09:48:00.000Z",
+      "buffer_due_at_utc": "2026-07-30T09:50:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6b14621d1bac1ca12a6c91",
+      "buffer_post_id": "6a6b14671d1bac1ca12a6ce5",
       "caption_file": "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T09:50:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6b14671d1bac1ca12a6ce5",
+          "published_at_utc": "2026-07-30T09:07:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T09:48:00.000Z",
           "buffer_mode": "customScheduled",
@@ -10924,7 +10930,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.png",
       "metadata_file": "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.json",
-      "published_at_utc": "2026-07-30T09:07:46Z",
+      "published_at_utc": "2026-07-30T09:07:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
