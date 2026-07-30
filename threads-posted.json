@@ -12033,6 +12033,25 @@
       "published_at_utc": "2026-07-30T20:37:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-aft.png": {
+      "buffer_due_at_utc": "2026-07-30T21:30:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6bc016a788ee461514bc06",
+      "caption_file": "output/2026-07-30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-aft.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T21:30:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bc016a788ee461514bc06",
+          "published_at_utc": "2026-07-30T21:20:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-aft.png",
+      "metadata_file": "output/2026-07-30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-aft.json",
+      "published_at_utc": "2026-07-30T21:20:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/the-us-space-force-has-awarded-spacex-1-6-billion-for-rocket-launches.png": {
       "buffer_due_at_utc": "2026-07-30T01:06:17.000Z",
       "buffer_mode": "customScheduled",
