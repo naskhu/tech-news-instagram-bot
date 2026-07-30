@@ -10859,12 +10859,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/chatgpt-and-roblox-will-be-subjected-to-the-eu-s-content-moderation-ru.png": {
-      "buffer_due_at_utc": "2026-07-30T09:38:31.000Z",
+      "buffer_due_at_utc": "2026-07-30T09:40:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6b1457afd55acc4fb64054",
+      "buffer_post_id": "6a6b145d624551d661c461ca",
       "caption_file": "output/2026-07-30/chatgpt-and-roblox-will-be-subjected-to-the-eu-s-content-moderation-ru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T09:40:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6b145d624551d661c461ca",
+          "published_at_utc": "2026-07-30T09:07:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T09:38:31.000Z",
           "buffer_mode": "customScheduled",
@@ -10874,7 +10880,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/chatgpt-and-roblox-will-be-subjected-to-the-eu-s-content-moderation-ru.png",
       "metadata_file": "output/2026-07-30/chatgpt-and-roblox-will-be-subjected-to-the-eu-s-content-moderation-ru.json",
-      "published_at_utc": "2026-07-30T09:07:35Z",
+      "published_at_utc": "2026-07-30T09:07:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/columbia-promo-codes-15-off-august-2026.png": {
