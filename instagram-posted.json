@@ -3837,6 +3837,17 @@
       "metadata_file": "output/2026-07-28/recursive-superintelligence-signs-410-compute-deal-with-amazon-techcru.json",
       "published_at_utc": "2026-07-30T03:30:24Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-or-proven-autism-link.png": {
+      "buffer_post_id": "6a6ac8fc0263c79a74b0fb9e",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-or-proven-autism-link.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-or-proven-autism-link.png",
+      "metadata_file": "output/2026-07-28/report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-or-proven-autism-link.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T03:46:11Z",
+      "publisher": "buffer"
     }
   }
 }
