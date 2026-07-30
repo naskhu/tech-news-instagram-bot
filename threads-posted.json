@@ -10959,12 +10959,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio.png": {
-      "buffer_due_at_utc": "2026-07-31T00:26:55.000Z",
+      "buffer_due_at_utc": "2026-07-31T00:28:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6be56cb4358423d4b16a5c",
+      "buffer_post_id": "6a6be571b4358423d4b16a80",
       "caption_file": "output/2026-07-30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T00:28:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6be571b4358423d4b16a80",
+          "published_at_utc": "2026-07-30T23:59:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T00:26:55.000Z",
           "buffer_mode": "customScheduled",
@@ -10974,7 +10980,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio.png",
       "metadata_file": "output/2026-07-30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio.json",
-      "published_at_utc": "2026-07-30T23:59:41Z",
+      "published_at_utc": "2026-07-30T23:59:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/ai-scammers-are-better-at-building-trust-than-humans.png": {
