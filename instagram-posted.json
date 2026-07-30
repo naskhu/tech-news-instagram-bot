@@ -4330,6 +4330,17 @@
       "metadata_file": "output/2026-07-29/doordash-is-going-airborne-with-new-drone-delivery-division.json",
       "published_at_utc": "2026-07-30T08:00:51Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.png": {
+      "buffer_post_id": "6a6b0560095285a1d7d60c4a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.png",
+      "metadata_file": "output/2026-07-29/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T08:03:51Z",
+      "publisher": "buffer"
     }
   }
 }
