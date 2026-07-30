@@ -10759,12 +10759,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/bose-promo-code-40-off-for-august-2026.png": {
-      "buffer_due_at_utc": "2026-07-30T06:37:45.000Z",
+      "buffer_due_at_utc": "2026-07-30T06:39:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6aeb5fb2299d92e6c643ef",
+      "buffer_post_id": "6a6aeb642ac88778e5bbf6b9",
       "caption_file": "output/2026-07-30/bose-promo-code-40-off-for-august-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T06:39:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6aeb642ac88778e5bbf6b9",
+          "published_at_utc": "2026-07-30T06:12:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T06:37:45.000Z",
           "buffer_mode": "customScheduled",
@@ -10774,7 +10780,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/bose-promo-code-40-off-for-august-2026.png",
       "metadata_file": "output/2026-07-30/bose-promo-code-40-off-for-august-2026.json",
-      "published_at_utc": "2026-07-30T06:12:48Z",
+      "published_at_utc": "2026-07-30T06:12:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-tec.png": {
