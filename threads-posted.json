@@ -11933,6 +11933,25 @@
       "published_at_utc": "2026-07-30T20:36:19Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/spider-man-brand-new-day-is-a-superhero-movie-for-yearners.png": {
+      "buffer_due_at_utc": "2026-07-30T20:48:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6bb5c7bb30a36747fbe9ca",
+      "caption_file": "output/2026-07-30/spider-man-brand-new-day-is-a-superhero-movie-for-yearners.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T20:48:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bb5c7bb30a36747fbe9ca",
+          "published_at_utc": "2026-07-30T20:36:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/spider-man-brand-new-day-is-a-superhero-movie-for-yearners.png",
+      "metadata_file": "output/2026-07-30/spider-man-brand-new-day-is-a-superhero-movie-for-yearners.json",
+      "published_at_utc": "2026-07-30T20:36:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/the-us-space-force-has-awarded-spacex-1-6-billion-for-rocket-launches.png": {
       "buffer_due_at_utc": "2026-07-30T01:06:17.000Z",
       "buffer_mode": "customScheduled",
