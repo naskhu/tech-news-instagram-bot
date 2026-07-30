@@ -11209,12 +11209,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/ea-s-take-private-deal-should-close-next-week.png": {
-      "buffer_due_at_utc": "2026-07-30T23:21:22.000Z",
+      "buffer_due_at_utc": "2026-07-30T23:23:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6bd3f9961582f29fee0dec",
+      "buffer_post_id": "6a6bd3febb30a36747fd5550",
       "caption_file": "output/2026-07-30/ea-s-take-private-deal-should-close-next-week.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T23:23:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bd3febb30a36747fd5550",
+          "published_at_utc": "2026-07-30T22:45:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T23:21:22.000Z",
           "buffer_mode": "customScheduled",
@@ -11224,7 +11230,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/ea-s-take-private-deal-should-close-next-week.png",
       "metadata_file": "output/2026-07-30/ea-s-take-private-deal-should-close-next-week.json",
-      "published_at_utc": "2026-07-30T22:45:13Z",
+      "published_at_utc": "2026-07-30T22:45:18Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-charge.png": {
