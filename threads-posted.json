@@ -10058,6 +10058,25 @@
       "published_at_utc": "2026-07-29T19:44:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/tropical-diseases-like-dengue-fever-and-chikungunya-are-on-the-rise-in.png": {
+      "buffer_due_at_utc": "2026-07-30T00:41:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6a979abf2d4c6e419811dc",
+      "caption_file": "output/2026-07-29/tropical-diseases-like-dengue-fever-and-chikungunya-are-on-the-rise-in.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T00:41:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6a979abf2d4c6e419811dc",
+          "published_at_utc": "2026-07-30T00:15:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/tropical-diseases-like-dengue-fever-and-chikungunya-are-on-the-rise-in.png",
+      "metadata_file": "output/2026-07-29/tropical-diseases-like-dengue-fever-and-chikungunya-are-on-the-rise-in.json",
+      "published_at_utc": "2026-07-30T00:15:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inv.png": {
       "buffer_due_at_utc": "2026-07-29T20:24:43.000Z",
       "buffer_mode": "customScheduled",
