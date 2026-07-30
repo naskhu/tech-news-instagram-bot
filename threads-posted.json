@@ -12433,6 +12433,25 @@
       "published_at_utc": "2026-07-30T21:21:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/xbox-ceo-says-the-team-has-one-year-to-start-growing-again.png": {
+      "buffer_due_at_utc": "2026-07-30T23:14:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6bce48a788ee4615155c38",
+      "caption_file": "output/2026-07-30/xbox-ceo-says-the-team-has-one-year-to-start-growing-again.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-30T23:14:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6bce48a788ee4615155c38",
+          "published_at_utc": "2026-07-30T22:20:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/xbox-ceo-says-the-team-has-one-year-to-start-growing-again.png",
+      "metadata_file": "output/2026-07-30/xbox-ceo-says-the-team-has-one-year-to-start-growing-again.json",
+      "published_at_utc": "2026-07-30T22:20:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service.png": {
       "buffer_due_at_utc": "2026-07-30T22:19:05.000Z",
       "buffer_mode": "customScheduled",
