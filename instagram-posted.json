@@ -4276,6 +4276,17 @@
       "metadata_file": "output/2026-07-29/customize-ars-your-way-with-an-ars-pro-subscription.json",
       "published_at_utc": "2026-07-30T07:30:51Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/cyberpunk-2077-packs-a-lot-of-fun-into-its-discounted-20-price.png": {
+      "buffer_post_id": "6a6afe1c88913bb262ae0589",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/cyberpunk-2077-packs-a-lot-of-fun-into-its-discounted-20-price.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/cyberpunk-2077-packs-a-lot-of-fun-into-its-discounted-20-price.png",
+      "metadata_file": "output/2026-07-29/cyberpunk-2077-packs-a-lot-of-fun-into-its-discounted-20-price.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T07:32:51Z",
+      "publisher": "buffer"
     }
   }
 }
