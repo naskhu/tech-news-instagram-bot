@@ -11184,12 +11184,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b.png": {
-      "buffer_due_at_utc": "2026-07-30T19:00:45.000Z",
+      "buffer_due_at_utc": "2026-07-30T19:02:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6b9c3d15af6a6d33699c61",
+      "buffer_post_id": "6a6b9c42392f4c70ec32cd2a",
       "caption_file": "output/2026-07-30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T19:02:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6b9c42392f4c70ec32cd2a",
+          "published_at_utc": "2026-07-30T18:47:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T19:00:45.000Z",
           "buffer_mode": "customScheduled",
@@ -11199,7 +11205,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b.png",
       "metadata_file": "output/2026-07-30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b.json",
-      "published_at_utc": "2026-07-30T18:47:25Z",
+      "published_at_utc": "2026-07-30T18:47:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.png": {
