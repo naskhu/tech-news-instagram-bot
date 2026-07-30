@@ -3936,6 +3936,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-30T04:42:35Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-28/telstra-users-get-starlink-enabled-apps.png": {
+      "buffer_post_id": "6a6ad6a931c6b0ee11589fac",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-28/telstra-users-get-starlink-enabled-apps.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-28/telstra-users-get-starlink-enabled-apps.png",
+      "metadata_file": "output/2026-07-28/telstra-users-get-starlink-enabled-apps.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-30T04:44:34Z",
+      "publisher": "buffer"
     }
   }
 }
