@@ -11534,12 +11534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/microsoft-s-latest-surface-laptop-is-hundreds-off-at-best-buy.png": {
-      "buffer_due_at_utc": "2026-07-30T20:21:20.000Z",
+      "buffer_due_at_utc": "2026-07-30T20:23:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6baf2a961582f29fec6a51",
+      "buffer_post_id": "6a6baf2fbb30a36747fb9f98",
       "caption_file": "output/2026-07-30/microsoft-s-latest-surface-laptop-is-hundreds-off-at-best-buy.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-30T20:23:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6baf2fbb30a36747fb9f98",
+          "published_at_utc": "2026-07-30T20:08:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-30T20:21:20.000Z",
           "buffer_mode": "customScheduled",
@@ -11549,7 +11555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/microsoft-s-latest-surface-laptop-is-hundreds-off-at-best-buy.png",
       "metadata_file": "output/2026-07-30/microsoft-s-latest-surface-laptop-is-hundreds-off-at-best-buy.json",
-      "published_at_utc": "2026-07-30T20:08:10Z",
+      "published_at_utc": "2026-07-30T20:08:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/nike-promo-codes-and-discounts-30-for-august-2026.png": {
