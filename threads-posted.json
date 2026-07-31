@@ -13509,12 +13509,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/pathogenic-review-damn-it-feels-good-to-be-a-virus.png": {
-      "buffer_due_at_utc": "2026-07-31T19:08:39.000Z",
+      "buffer_due_at_utc": "2026-07-31T19:10:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6cee07ef3b8a12e11c5463",
+      "buffer_post_id": "6a6cee0cebe00edff559d41d",
       "caption_file": "output/2026-07-31/pathogenic-review-damn-it-feels-good-to-be-a-virus.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T19:10:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6cee0cebe00edff559d41d",
+          "published_at_utc": "2026-07-31T18:48:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T19:08:39.000Z",
           "buffer_mode": "customScheduled",
@@ -13524,7 +13530,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/pathogenic-review-damn-it-feels-good-to-be-a-virus.png",
       "metadata_file": "output/2026-07-31/pathogenic-review-damn-it-feels-good-to-be-a-virus.json",
-      "published_at_utc": "2026-07-31T18:48:39Z",
+      "published_at_utc": "2026-07-31T18:48:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/plug-in-solar-catches-on-in-the-us.png": {
