@@ -4462,6 +4462,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T04:06:15Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.png": {
+      "buffer_post_id": "6a6c20b7961582f29ff1970f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.png",
+      "metadata_file": "output/2026-07-29/firefox-s-new-tab-page-now-has-a-daily-puzzle-game.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T04:12:46Z",
+      "publisher": "buffer"
     }
   }
 }
