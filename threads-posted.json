@@ -13609,12 +13609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/india-is-starting-to-pay-for-apps-not-just-download-them-techcrunch.png": {
-      "buffer_due_at_utc": "2026-07-31T21:38:46.000Z",
+      "buffer_due_at_utc": "2026-07-31T21:40:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d1504e48166238675189c",
+      "buffer_post_id": "6a6d1509ebe00edff55bb3f6",
       "caption_file": "output/2026-07-31/india-is-starting-to-pay-for-apps-not-just-download-them-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T21:40:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d1509ebe00edff55bb3f6",
+          "published_at_utc": "2026-07-31T21:35:05Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T21:38:46.000Z",
           "buffer_mode": "customScheduled",
@@ -13624,7 +13630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/india-is-starting-to-pay-for-apps-not-just-download-them-techcrunch.png",
       "metadata_file": "output/2026-07-31/india-is-starting-to-pay-for-apps-not-just-download-them-techcrunch.json",
-      "published_at_utc": "2026-07-31T21:35:01Z",
+      "published_at_utc": "2026-07-31T21:35:05Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/mattress-firm-coupons-save-up-to-700.png": {
