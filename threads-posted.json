@@ -13334,12 +13334,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/china-could-supply-ev-manufacturing-boom-with-recycled-evs.png": {
-      "buffer_due_at_utc": "2026-07-31T23:48:35.000Z",
+      "buffer_due_at_utc": "2026-07-31T23:50:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d32c54c4e74ba2a2f4e1c",
+      "buffer_post_id": "6a6d32ca2368e968d93baca6",
       "caption_file": "output/2026-07-31/china-could-supply-ev-manufacturing-boom-with-recycled-evs.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T23:50:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d32ca2368e968d93baca6",
+          "published_at_utc": "2026-07-31T23:42:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T23:48:35.000Z",
           "buffer_mode": "customScheduled",
@@ -13349,7 +13355,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/china-could-supply-ev-manufacturing-boom-with-recycled-evs.png",
       "metadata_file": "output/2026-07-31/china-could-supply-ev-manufacturing-boom-with-recycled-evs.json",
-      "published_at_utc": "2026-07-31T23:41:57Z",
+      "published_at_utc": "2026-07-31T23:42:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/claude-published-malicious-code-to-the-internet-and-attacked-3-real-co.png": {
