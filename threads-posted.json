@@ -13958,6 +13958,25 @@
       "published_at_utc": "2026-07-31T20:11:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/the-ban-on-robot-vacuums-won-t-make-them-safer-but-it-may-make-your-ne.png": {
+      "buffer_due_at_utc": "2026-07-31T20:41:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d017cebe00edff55ab982",
+      "caption_file": "output/2026-07-31/the-ban-on-robot-vacuums-won-t-make-them-safer-but-it-may-make-your-ne.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T20:41:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d017cebe00edff55ab982",
+          "published_at_utc": "2026-07-31T20:11:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-ban-on-robot-vacuums-won-t-make-them-safer-but-it-may-make-your-ne.png",
+      "metadata_file": "output/2026-07-31/the-ban-on-robot-vacuums-won-t-make-them-safer-but-it-may-make-your-ne.json",
+      "published_at_utc": "2026-07-31T20:11:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/the-best-alo-promo-codes-and-alo-yoga-coupon-codes-for-august-2026.png": {
       "buffer_due_at_utc": "2026-07-31T07:00:36.000Z",
       "buffer_mode": "customScheduled",
