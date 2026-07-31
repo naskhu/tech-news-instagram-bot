@@ -5051,6 +5051,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T10:58:10Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/waiting-to-buy-apple-s-latest-airpods-while-they-re-on-sale-now-s-your.png": {
+      "buffer_post_id": "6a6c80a8a16737c084f5085e",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-29/waiting-to-buy-apple-s-latest-airpods-while-they-re-on-sale-now-s-your.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/waiting-to-buy-apple-s-latest-airpods-while-they-re-on-sale-now-s-your.png",
+      "metadata_file": "output/2026-07-29/waiting-to-buy-apple-s-latest-airpods-while-they-re-on-sale-now-s-your.json",
+      "published_at_utc": "2026-07-31T11:02:10Z",
+      "publisher": "buffer"
     }
   }
 }
