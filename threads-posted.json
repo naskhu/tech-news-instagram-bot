@@ -12534,12 +12534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/tim-cook-hints-at-icloud-plus-tier-for-ai-power-users.png": {
-      "buffer_due_at_utc": "2026-07-31T00:56:29.000Z",
+      "buffer_due_at_utc": "2026-07-31T00:58:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6be58a369d7a6b6a31c000",
+      "buffer_post_id": "6a6be58fbb30a36747fe1541",
       "caption_file": "output/2026-07-30/tim-cook-hints-at-icloud-plus-tier-for-ai-power-users.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T00:58:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6be58fbb30a36747fe1541",
+          "published_at_utc": "2026-07-31T00:00:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T00:56:29.000Z",
           "buffer_mode": "customScheduled",
@@ -12549,7 +12555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/tim-cook-hints-at-icloud-plus-tier-for-ai-power-users.png",
       "metadata_file": "output/2026-07-30/tim-cook-hints-at-icloud-plus-tier-for-ai-power-users.json",
-      "published_at_utc": "2026-07-31T00:00:10Z",
+      "published_at_utc": "2026-07-31T00:00:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/what-if-your-dji-pocket-camera-could-put-on-wings-and-fly.png": {
