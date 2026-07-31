@@ -12258,6 +12258,25 @@
       "published_at_utc": "2026-07-30T20:36:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/quantum-computers-outperform-classical-ones-with-results-you-can-trust.png": {
+      "buffer_due_at_utc": "2026-07-31T04:22:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c1c84369d7a6b6a344b45",
+      "caption_file": "output/2026-07-30/quantum-computers-outperform-classical-ones-with-results-you-can-trust.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T04:22:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c1c84369d7a6b6a344b45",
+          "published_at_utc": "2026-07-31T03:54:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/quantum-computers-outperform-classical-ones-with-results-you-can-trust.png",
+      "metadata_file": "output/2026-07-30/quantum-computers-outperform-classical-ones-with-results-you-can-trust.json",
+      "published_at_utc": "2026-07-31T03:54:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/razer-s-new-keyboards-drop-the-price-on-powerful-gaming-features.png": {
       "buffer_due_at_utc": "2026-07-31T00:36:33.000Z",
       "buffer_mode": "customScheduled",
