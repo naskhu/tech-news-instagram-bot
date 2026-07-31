@@ -13584,12 +13584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts-tec.png": {
-      "buffer_due_at_utc": "2026-07-31T18:57:28.000Z",
+      "buffer_due_at_utc": "2026-07-31T18:59:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6cef744c4e74ba2a2be7c4",
+      "buffer_post_id": "6a6cef79f93d764d93801a8c",
       "caption_file": "output/2026-07-31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts-tec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T18:59:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6cef79f93d764d93801a8c",
+          "published_at_utc": "2026-07-31T18:54:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T18:57:28.000Z",
           "buffer_mode": "customScheduled",
@@ -13599,7 +13605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts-tec.png",
       "metadata_file": "output/2026-07-31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts-tec.json",
-      "published_at_utc": "2026-07-31T18:54:44Z",
+      "published_at_utc": "2026-07-31T18:54:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/rocket-report-new-launch-rule-may-limit-environmental-regulations-falc.png": {
