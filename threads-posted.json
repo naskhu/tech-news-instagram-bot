@@ -13008,6 +13008,25 @@
       "published_at_utc": "2026-07-31T00:17:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.png": {
+      "buffer_due_at_utc": "2026-07-31T07:43:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c4b8a369d7a6b6a368021",
+      "caption_file": "output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T07:43:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c4b8a369d7a6b6a368021",
+          "published_at_utc": "2026-07-31T07:15:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.png",
+      "metadata_file": "output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.json",
+      "published_at_utc": "2026-07-31T07:15:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/anthropic-says-its-own-ai-models-breached-three-companies-during-secur.png": {
       "buffer_due_at_utc": "2026-07-31T03:31:48.000Z",
       "buffer_mode": "customScheduled",
