@@ -11434,12 +11434,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/for-the-first-time-zoox-can-charge-people-for-rides-in-its-steering-wh.png": {
-      "buffer_due_at_utc": "2026-07-31T10:34:46.000Z",
+      "buffer_due_at_utc": "2026-07-31T10:36:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6c7295de878cc08091c19c",
+      "buffer_post_id": "6a6c729ade878cc08091c201",
       "caption_file": "output/2026-07-30/for-the-first-time-zoox-can-charge-people-for-rides-in-its-steering-wh.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T10:36:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c729ade878cc08091c201",
+          "published_at_utc": "2026-07-31T10:02:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T10:34:46.000Z",
           "buffer_mode": "customScheduled",
@@ -11449,7 +11455,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/for-the-first-time-zoox-can-charge-people-for-rides-in-its-steering-wh.png",
       "metadata_file": "output/2026-07-30/for-the-first-time-zoox-can-charge-people-for-rides-in-its-steering-wh.json",
-      "published_at_utc": "2026-07-31T10:01:58Z",
+      "published_at_utc": "2026-07-31T10:02:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/forward-deployed-engineers-are-the-ai-industry-s-latest-talent-obsessi.png": {
