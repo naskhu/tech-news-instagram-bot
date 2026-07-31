@@ -14357,6 +14357,25 @@
       "metadata_file": "output/2026-07-31/today-i-m-toying-with-a-usb-c-hdmi-ssd-multitool.json",
       "published_at_utc": "2026-07-31T21:19:29Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-07-31/tomodachi-life-living-the-dream-is-a-quirky-life-sim-that-s-worth-buyi.png": {
+      "buffer_due_at_utc": "2026-07-31T21:52:44.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d11674c4e74ba2a2d8d7c",
+      "caption_file": "output/2026-07-31/tomodachi-life-living-the-dream-is-a-quirky-life-sim-that-s-worth-buyi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T21:52:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d11674c4e74ba2a2d8d7c",
+          "published_at_utc": "2026-07-31T21:19:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/tomodachi-life-living-the-dream-is-a-quirky-life-sim-that-s-worth-buyi.png",
+      "metadata_file": "output/2026-07-31/tomodachi-life-living-the-dream-is-a-quirky-life-sim-that-s-worth-buyi.json",
+      "published_at_utc": "2026-07-31T21:19:36Z",
+      "publisher": "buffer_threads"
     }
   }
 }
