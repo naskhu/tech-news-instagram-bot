@@ -4920,6 +4920,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T09:38:22Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/the-ferrari-luce-has-at-least-500-fans.png": {
+      "buffer_post_id": "6a6c70ac1e30f94adab9b2c9",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/the-ferrari-luce-has-at-least-500-fans.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/the-ferrari-luce-has-at-least-500-fans.png",
+      "metadata_file": "output/2026-07-29/the-ferrari-luce-has-at-least-500-fans.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T09:53:55Z",
+      "publisher": "buffer"
     }
   }
 }
