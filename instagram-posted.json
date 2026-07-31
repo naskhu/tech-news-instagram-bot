@@ -4898,6 +4898,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T09:26:56Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/sorry-haters-ferrari-s-first-ev-is-doing-just-fine-techcrunch.png": {
+      "buffer_post_id": "6a6c6c2da16737c084f3c949",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/sorry-haters-ferrari-s-first-ev-is-doing-just-fine-techcrunch.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/sorry-haters-ferrari-s-first-ev-is-doing-just-fine-techcrunch.png",
+      "metadata_file": "output/2026-07-29/sorry-haters-ferrari-s-first-ev-is-doing-just-fine-techcrunch.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T09:34:44Z",
+      "publisher": "buffer"
     }
   }
 }
