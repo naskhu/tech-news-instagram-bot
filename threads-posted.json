@@ -11333,6 +11333,25 @@
       "published_at_utc": "2026-07-30T22:45:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominan.png": {
+      "buffer_due_at_utc": "2026-07-31T09:19:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c63ffa7a516cf4d301296",
+      "caption_file": "output/2026-07-30/everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominan.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T09:19:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c63ffa7a516cf4d301296",
+          "published_at_utc": "2026-07-31T08:59:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominan.png",
+      "metadata_file": "output/2026-07-30/everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominan.json",
+      "published_at_utc": "2026-07-31T08:59:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-charge.png": {
       "buffer_due_at_utc": "2026-07-30T18:55:20.000Z",
       "buffer_mode": "customScheduled",
