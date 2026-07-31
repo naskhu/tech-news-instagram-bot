@@ -12683,6 +12683,25 @@
       "published_at_utc": "2026-07-31T00:17:16Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/trump-fcc-faces-blowback-in-attempt-to-police-speech-on-broadcast-tv.png": {
+      "buffer_due_at_utc": "2026-07-31T03:09:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c0cd4bb30a36747ffdeef",
+      "caption_file": "output/2026-07-30/trump-fcc-faces-blowback-in-attempt-to-police-speech-on-broadcast-tv.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T03:09:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c0cd4bb30a36747ffdeef",
+          "published_at_utc": "2026-07-31T02:47:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/trump-fcc-faces-blowback-in-attempt-to-police-speech-on-broadcast-tv.png",
+      "metadata_file": "output/2026-07-30/trump-fcc-faces-blowback-in-attempt-to-police-speech-on-broadcast-tv.json",
+      "published_at_utc": "2026-07-31T02:47:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/what-if-your-dji-pocket-camera-could-put-on-wings-and-fly.png": {
       "buffer_due_at_utc": "2026-07-30T22:05:54.000Z",
       "buffer_mode": "customScheduled",
