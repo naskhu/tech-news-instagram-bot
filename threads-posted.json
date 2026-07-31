@@ -11534,12 +11534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-sa.png": {
-      "buffer_due_at_utc": "2026-07-31T04:13:07.000Z",
+      "buffer_due_at_utc": "2026-07-31T04:15:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6c1c7a961582f29ff14752",
+      "buffer_post_id": "6a6c1c7fa7a516cf4d2cb467",
       "caption_file": "output/2026-07-30/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-sa.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T04:15:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c1c7fa7a516cf4d2cb467",
+          "published_at_utc": "2026-07-31T03:54:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T04:13:07.000Z",
           "buffer_mode": "customScheduled",
@@ -11549,7 +11555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-sa.png",
       "metadata_file": "output/2026-07-30/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-sa.json",
-      "published_at_utc": "2026-07-31T03:54:34Z",
+      "published_at_utc": "2026-07-31T03:54:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/google-s-personal-ai-agent-can-browse-in-chrome-for-you.png": {
