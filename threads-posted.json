@@ -13009,12 +13009,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.png": {
-      "buffer_due_at_utc": "2026-07-31T07:43:07.000Z",
+      "buffer_due_at_utc": "2026-07-31T07:45:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6c4b8a369d7a6b6a368021",
+      "buffer_post_id": "6a6c4b8fcc9eb43b4c21a29e",
       "caption_file": "output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T07:45:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c4b8fcc9eb43b4c21a29e",
+          "published_at_utc": "2026-07-31T07:15:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T07:43:07.000Z",
           "buffer_mode": "customScheduled",
@@ -13024,7 +13030,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.png",
       "metadata_file": "output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.json",
-      "published_at_utc": "2026-07-31T07:15:22Z",
+      "published_at_utc": "2026-07-31T07:15:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/anthropic-says-its-own-ai-models-breached-three-companies-during-secur.png": {
