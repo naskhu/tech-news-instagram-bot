@@ -12759,12 +12759,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/anthropic-just-now-realized-its-ai-models-hacked-other-companies-three.png": {
-      "buffer_due_at_utc": "2026-07-31T01:08:54.000Z",
+      "buffer_due_at_utc": "2026-07-31T01:10:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6be991a7a516cf4d2a490c",
+      "buffer_post_id": "6a6be996b4358423d4b1a53f",
       "caption_file": "output/2026-07-31/anthropic-just-now-realized-its-ai-models-hacked-other-companies-three.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T01:10:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6be996b4358423d4b1a53f",
+          "published_at_utc": "2026-07-31T00:17:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T01:08:54.000Z",
           "buffer_mode": "customScheduled",
@@ -12774,7 +12780,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/anthropic-just-now-realized-its-ai-models-hacked-other-companies-three.png",
       "metadata_file": "output/2026-07-31/anthropic-just-now-realized-its-ai-models-hacked-other-companies-three.json",
-      "published_at_utc": "2026-07-31T00:17:21Z",
+      "published_at_utc": "2026-07-31T00:17:26Z",
       "publisher": "buffer_threads"
     }
   }
