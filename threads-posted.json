@@ -13283,6 +13283,25 @@
       "published_at_utc": "2026-07-31T06:01:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/plug-in-solar-catches-on-in-the-us.png": {
+      "buffer_due_at_utc": "2026-07-31T11:51:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c872af93d764d937a9c2b",
+      "caption_file": "output/2026-07-31/plug-in-solar-catches-on-in-the-us.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T11:51:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c872af93d764d937a9c2b",
+          "published_at_utc": "2026-07-31T11:29:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/plug-in-solar-catches-on-in-the-us.png",
+      "metadata_file": "output/2026-07-31/plug-in-solar-catches-on-in-the-us.json",
+      "published_at_utc": "2026-07-31T11:29:46Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/selectblinds-promo-codes-coupons-save-on-custom-window-treatments.png": {
       "buffer_due_at_utc": "2026-07-31T07:00:17.000Z",
       "buffer_mode": "customScheduled",
