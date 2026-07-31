@@ -14208,6 +14208,25 @@
       "published_at_utc": "2026-07-31T20:39:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.png": {
+      "buffer_due_at_utc": "2026-07-31T21:03:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d0805e4816623867468c6",
+      "caption_file": "output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T21:03:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d0805e4816623867468c6",
+          "published_at_utc": "2026-07-31T20:39:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.png",
+      "metadata_file": "output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.json",
+      "published_at_utc": "2026-07-31T20:39:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/the-world-is-too-damn-hot-el-ni-o-is-partly-to-blame.png": {
       "buffer_due_at_utc": "2026-07-31T11:00:01.000Z",
       "buffer_mode": "customScheduled",
