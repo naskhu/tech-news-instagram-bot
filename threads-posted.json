@@ -14459,12 +14459,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/youtube-is-banning-some-popular-asmr-creators.png": {
-      "buffer_due_at_utc": "2026-07-31T22:13:48.000Z",
+      "buffer_due_at_utc": "2026-07-31T22:15:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d1194e48166238674ed6c",
+      "buffer_post_id": "6a6d1199ebe00edff55b9035",
       "caption_file": "output/2026-07-31/youtube-is-banning-some-popular-asmr-creators.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T22:15:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d1199ebe00edff55b9035",
+          "published_at_utc": "2026-07-31T21:20:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T22:13:48.000Z",
           "buffer_mode": "customScheduled",
@@ -14474,7 +14480,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/youtube-is-banning-some-popular-asmr-creators.png",
       "metadata_file": "output/2026-07-31/youtube-is-banning-some-popular-asmr-creators.json",
-      "published_at_utc": "2026-07-31T21:20:21Z",
+      "published_at_utc": "2026-07-31T21:20:26Z",
       "publisher": "buffer_threads"
     }
   }
