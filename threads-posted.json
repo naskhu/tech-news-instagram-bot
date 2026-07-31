@@ -13659,12 +13659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/new-york-sues-kalshi-for-allegedly-running-an-illegal-gambling-operati.png": {
-      "buffer_due_at_utc": "2026-07-31T22:14:39.000Z",
+      "buffer_due_at_utc": "2026-07-31T22:16:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d150ee4816623867519aa",
+      "buffer_post_id": "6a6d1512ef3b8a12e11e4b1d",
       "caption_file": "output/2026-07-31/new-york-sues-kalshi-for-allegedly-running-an-illegal-gambling-operati.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T22:16:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d1512ef3b8a12e11e4b1d",
+          "published_at_utc": "2026-07-31T21:35:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T22:14:39.000Z",
           "buffer_mode": "customScheduled",
@@ -13674,7 +13680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/new-york-sues-kalshi-for-allegedly-running-an-illegal-gambling-operati.png",
       "metadata_file": "output/2026-07-31/new-york-sues-kalshi-for-allegedly-running-an-illegal-gambling-operati.json",
-      "published_at_utc": "2026-07-31T21:35:10Z",
+      "published_at_utc": "2026-07-31T21:35:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/openai-says-its-models-now-reach-more-than-1-billion-weekly-active-use.png": {
