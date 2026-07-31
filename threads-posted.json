@@ -11108,6 +11108,25 @@
       "published_at_utc": "2026-07-30T23:59:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/back-to-school-office-chair-deals-2026-200-and-less.png": {
+      "buffer_due_at_utc": "2026-07-31T10:04:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c72821e30f94adab9e029",
+      "caption_file": "output/2026-07-30/back-to-school-office-chair-deals-2026-200-and-less.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T10:04:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c72821e30f94adab9e029",
+          "published_at_utc": "2026-07-31T10:01:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/back-to-school-office-chair-deals-2026-200-and-less.png",
+      "metadata_file": "output/2026-07-30/back-to-school-office-chair-deals-2026-200-and-less.json",
+      "published_at_utc": "2026-07-31T10:01:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/bose-promo-code-40-off-for-august-2026.png": {
       "buffer_due_at_utc": "2026-07-30T06:39:45.000Z",
       "buffer_mode": "customScheduled",
