@@ -13384,12 +13384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/exclusive-rivian-spinoff-also-to-start-delivering-e-bikes-after-months.png": {
-      "buffer_due_at_utc": "2026-07-31T22:22:43.000Z",
+      "buffer_due_at_utc": "2026-07-31T22:24:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d1eebe48166238675c777",
+      "buffer_post_id": "6a6d1ef04c4e74ba2a2e49e3",
       "caption_file": "output/2026-07-31/exclusive-rivian-spinoff-also-to-start-delivering-e-bikes-after-months.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T22:24:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d1ef04c4e74ba2a2e49e3",
+          "published_at_utc": "2026-07-31T22:17:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T22:22:43.000Z",
           "buffer_mode": "customScheduled",
@@ -13399,7 +13405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/exclusive-rivian-spinoff-also-to-start-delivering-e-bikes-after-months.png",
       "metadata_file": "output/2026-07-31/exclusive-rivian-spinoff-also-to-start-delivering-e-bikes-after-months.json",
-      "published_at_utc": "2026-07-31T22:17:15Z",
+      "published_at_utc": "2026-07-31T22:17:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds-t.png": {
