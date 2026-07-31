@@ -13433,6 +13433,25 @@
       "published_at_utc": "2026-07-31T18:47:48Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/google-earth-s-ai-deepfake-tool-only-lasted-one-day.png": {
+      "buffer_due_at_utc": "2026-07-31T20:47:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d07ccef3b8a12e11d89ae",
+      "caption_file": "output/2026-07-31/google-earth-s-ai-deepfake-tool-only-lasted-one-day.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T20:47:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d07ccef3b8a12e11d89ae",
+          "published_at_utc": "2026-07-31T20:38:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/google-earth-s-ai-deepfake-tool-only-lasted-one-day.png",
+      "metadata_file": "output/2026-07-31/google-earth-s-ai-deepfake-tool-only-lasted-one-day.json",
+      "published_at_utc": "2026-07-31T20:38:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/google-might-launch-a-pixel-tag.png": {
       "buffer_due_at_utc": "2026-07-31T18:59:14.000Z",
       "buffer_mode": "customScheduled",
