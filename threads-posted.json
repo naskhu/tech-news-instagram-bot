@@ -13359,12 +13359,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/google-might-launch-a-pixel-tag.png": {
-      "buffer_due_at_utc": "2026-07-31T18:57:14.000Z",
+      "buffer_due_at_utc": "2026-07-31T18:59:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6cedd9e48166238673417a",
+      "buffer_post_id": "6a6ceddef93d764d93800c2d",
       "caption_file": "output/2026-07-31/google-might-launch-a-pixel-tag.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T18:59:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ceddef93d764d93800c2d",
+          "published_at_utc": "2026-07-31T18:47:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T18:57:14.000Z",
           "buffer_mode": "customScheduled",
@@ -13374,7 +13380,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/google-might-launch-a-pixel-tag.png",
       "metadata_file": "output/2026-07-31/google-might-launch-a-pixel-tag.json",
-      "published_at_utc": "2026-07-31T18:47:53Z",
+      "published_at_utc": "2026-07-31T18:47:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit.png": {
