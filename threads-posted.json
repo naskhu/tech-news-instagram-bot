@@ -13883,6 +13883,25 @@
       "published_at_utc": "2026-07-31T22:42:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok.png": {
+      "buffer_due_at_utc": "2026-07-31T23:50:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d2d80ebe00edff55d2d66",
+      "caption_file": "output/2026-07-31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T23:50:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d2d80ebe00edff55d2d66",
+          "published_at_utc": "2026-07-31T23:19:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok.png",
+      "metadata_file": "output/2026-07-31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok.json",
+      "published_at_utc": "2026-07-31T23:19:28Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/openai-says-its-models-now-reach-more-than-1-billion-weekly-active-use.png": {
       "buffer_due_at_utc": "2026-07-31T18:58:21.000Z",
       "buffer_mode": "customScheduled",
