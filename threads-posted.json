@@ -13184,12 +13184,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/anthropic-says-claude-accidentally-hacked-real-companies-too.png": {
-      "buffer_due_at_utc": "2026-07-31T18:51:06.000Z",
+      "buffer_due_at_utc": "2026-07-31T18:53:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6cedadf93d764d93800b41",
+      "buffer_post_id": "6a6cedb22368e968d9381d0f",
       "caption_file": "output/2026-07-31/anthropic-says-claude-accidentally-hacked-real-companies-too.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T18:53:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6cedb22368e968d9381d0f",
+          "published_at_utc": "2026-07-31T18:47:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T18:51:06.000Z",
           "buffer_mode": "customScheduled",
@@ -13199,7 +13205,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/anthropic-says-claude-accidentally-hacked-real-companies-too.png",
       "metadata_file": "output/2026-07-31/anthropic-says-claude-accidentally-hacked-real-companies-too.json",
-      "published_at_utc": "2026-07-31T18:47:10Z",
+      "published_at_utc": "2026-07-31T18:47:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.png": {
