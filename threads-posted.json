@@ -14809,12 +14809,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/would-you-get-tattooed-just-to-interview-at-a-7-days-a-week-ai-startup.png": {
-      "buffer_due_at_utc": "2026-08-01T00:13:20.000Z",
+      "buffer_due_at_utc": "2026-08-01T00:15:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d2d8aebe00edff55d2db1",
+      "buffer_post_id": "6a6d2d8ff93d764d93833ac9",
       "caption_file": "output/2026-07-31/would-you-get-tattooed-just-to-interview-at-a-7-days-a-week-ai-startup.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T00:15:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d2d8ff93d764d93833ac9",
+          "published_at_utc": "2026-07-31T23:19:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T00:13:20.000Z",
           "buffer_mode": "customScheduled",
@@ -14824,7 +14830,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/would-you-get-tattooed-just-to-interview-at-a-7-days-a-week-ai-startup.png",
       "metadata_file": "output/2026-07-31/would-you-get-tattooed-just-to-interview-at-a-7-days-a-week-ai-startup.json",
-      "published_at_utc": "2026-07-31T23:19:38Z",
+      "published_at_utc": "2026-07-31T23:19:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/you-can-play-pok-mon-red-blue-and-yellow-natively-on-android-now.png": {
