@@ -13734,12 +13734,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-clas.png": {
-      "buffer_due_at_utc": "2026-07-31T23:48:51.000Z",
+      "buffer_due_at_utc": "2026-07-31T23:50:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d32ceef3b8a12e11fea29",
+      "buffer_post_id": "6a6d32d32368e968d93bad54",
       "caption_file": "output/2026-07-31/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-clas.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T23:50:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d32d32368e968d93bad54",
+          "published_at_utc": "2026-07-31T23:42:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T23:48:51.000Z",
           "buffer_mode": "customScheduled",
@@ -13749,7 +13755,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-clas.png",
       "metadata_file": "output/2026-07-31/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-clas.json",
-      "published_at_utc": "2026-07-31T23:42:07Z",
+      "published_at_utc": "2026-07-31T23:42:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit.png": {
