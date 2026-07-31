@@ -4931,6 +4931,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T09:53:55Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed.png": {
+      "buffer_post_id": "6a6c72ddf681c7092bfd2c6e",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-07-29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed.png",
+      "metadata_file": "output/2026-07-29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed.json",
+      "published_at_utc": "2026-07-31T10:03:19Z",
+      "publisher": "buffer"
     }
   }
 }
