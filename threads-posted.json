@@ -11759,12 +11759,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/just-because-a-game-is-on-disc-doesn-t-mean-it-will-work-in-the-future.png": {
-      "buffer_due_at_utc": "2026-07-31T03:06:34.000Z",
+      "buffer_due_at_utc": "2026-07-31T03:08:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6c0cc9b4358423d4b348af",
+      "buffer_post_id": "6a6c0ccfcc9eb43b4c1e9b7d",
       "caption_file": "output/2026-07-30/just-because-a-game-is-on-disc-doesn-t-mean-it-will-work-in-the-future.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T03:08:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c0ccfcc9eb43b4c1e9b7d",
+          "published_at_utc": "2026-07-31T02:47:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T03:06:34.000Z",
           "buffer_mode": "customScheduled",
@@ -11774,7 +11780,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/just-because-a-game-is-on-disc-doesn-t-mean-it-will-work-in-the-future.png",
       "metadata_file": "output/2026-07-30/just-because-a-game-is-on-disc-doesn-t-mean-it-will-work-in-the-future.json",
-      "published_at_utc": "2026-07-31T02:47:37Z",
+      "published_at_utc": "2026-07-31T02:47:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/linkedin-actually-adds-a-seems-like-ai-slop-button.png": {
