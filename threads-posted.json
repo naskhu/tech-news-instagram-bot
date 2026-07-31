@@ -13358,6 +13358,25 @@
       "published_at_utc": "2026-07-31T06:02:04Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/sony-pushes-forward-with-ditching-discs-despite-backlash.png": {
+      "buffer_due_at_utc": "2026-07-31T12:26:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c873fe4816623866dc677",
+      "caption_file": "output/2026-07-31/sony-pushes-forward-with-ditching-discs-despite-backlash.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T12:26:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c873fe4816623866dc677",
+          "published_at_utc": "2026-07-31T11:30:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/sony-pushes-forward-with-ditching-discs-despite-backlash.png",
+      "metadata_file": "output/2026-07-31/sony-pushes-forward-with-ditching-discs-despite-backlash.json",
+      "published_at_utc": "2026-07-31T11:30:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/sony-says-don-t-worry-we-ve-got-plenty-of-ram-for-playstation.png": {
       "buffer_due_at_utc": "2026-07-31T07:59:12.000Z",
       "buffer_mode": "customScheduled",
