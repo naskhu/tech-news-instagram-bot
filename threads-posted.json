@@ -14209,12 +14209,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.png": {
-      "buffer_due_at_utc": "2026-07-31T21:03:56.000Z",
+      "buffer_due_at_utc": "2026-07-31T21:05:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d0805e4816623867468c6",
+      "buffer_post_id": "6a6d080aef3b8a12e11d8d69",
       "caption_file": "output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T21:05:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d080aef3b8a12e11d8d69",
+          "published_at_utc": "2026-07-31T20:39:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T21:03:56.000Z",
           "buffer_mode": "customScheduled",
@@ -14224,7 +14230,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.png",
       "metadata_file": "output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.json",
-      "published_at_utc": "2026-07-31T20:39:33Z",
+      "published_at_utc": "2026-07-31T20:39:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-world-is-too-damn-hot-el-ni-o-is-partly-to-blame.png": {
