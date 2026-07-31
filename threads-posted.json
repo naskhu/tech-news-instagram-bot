@@ -13059,12 +13059,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-best-alo-promo-codes-and-alo-yoga-coupon-codes-for-august-2026.png": {
-      "buffer_due_at_utc": "2026-07-31T06:58:36.000Z",
+      "buffer_due_at_utc": "2026-07-31T07:00:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6c3a61a7a516cf4d2dfc1e",
+      "buffer_post_id": "6a6c3a65369d7a6b6a359d02",
       "caption_file": "output/2026-07-31/the-best-alo-promo-codes-and-alo-yoga-coupon-codes-for-august-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T07:00:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c3a65369d7a6b6a359d02",
+          "published_at_utc": "2026-07-31T06:02:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T06:58:36.000Z",
           "buffer_mode": "customScheduled",
@@ -13074,7 +13080,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-best-alo-promo-codes-and-alo-yoga-coupon-codes-for-august-2026.png",
       "metadata_file": "output/2026-07-31/the-best-alo-promo-codes-and-alo-yoga-coupon-codes-for-august-2026.json",
-      "published_at_utc": "2026-07-31T06:02:09Z",
+      "published_at_utc": "2026-07-31T06:02:13Z",
       "publisher": "buffer_threads"
     }
   }
