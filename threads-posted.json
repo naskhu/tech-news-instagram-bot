@@ -11809,12 +11809,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/max-severity-exchange-server-flaw-under-active-exploitation-by-kremlin.png": {
-      "buffer_due_at_utc": "2026-07-31T00:21:04.000Z",
+      "buffer_due_at_utc": "2026-07-31T00:23:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6be974cc9eb43b4c1d150c",
+      "buffer_post_id": "6a6be979a7a516cf4d2a489a",
       "caption_file": "output/2026-07-30/max-severity-exchange-server-flaw-under-active-exploitation-by-kremlin.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T00:23:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6be979a7a516cf4d2a489a",
+          "published_at_utc": "2026-07-31T00:16:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T00:21:04.000Z",
           "buffer_mode": "customScheduled",
@@ -11824,7 +11830,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/max-severity-exchange-server-flaw-under-active-exploitation-by-kremlin.png",
       "metadata_file": "output/2026-07-30/max-severity-exchange-server-flaw-under-active-exploitation-by-kremlin.json",
-      "published_at_utc": "2026-07-31T00:16:52Z",
+      "published_at_utc": "2026-07-31T00:16:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/maybe-we-shouldn-t-give-24-year-olds-billions-of-dollars-to-bet-on-ai.png": {
