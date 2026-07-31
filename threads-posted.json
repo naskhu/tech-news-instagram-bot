@@ -14234,12 +14234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-pixel-11-s-new-light-may-be-named-the-hilight.png": {
-      "buffer_due_at_utc": "2026-07-31T21:06:15.000Z",
+      "buffer_due_at_utc": "2026-07-31T21:08:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d080ff93d764d938139b2",
+      "buffer_post_id": "6a6d08152368e968d9395d19",
       "caption_file": "output/2026-07-31/the-pixel-11-s-new-light-may-be-named-the-hilight.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T21:08:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d08152368e968d9395d19",
+          "published_at_utc": "2026-07-31T20:39:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T21:06:15.000Z",
           "buffer_mode": "customScheduled",
@@ -14249,7 +14255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-pixel-11-s-new-light-may-be-named-the-hilight.png",
       "metadata_file": "output/2026-07-31/the-pixel-11-s-new-light-may-be-named-the-hilight.json",
-      "published_at_utc": "2026-07-31T20:39:44Z",
+      "published_at_utc": "2026-07-31T20:39:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-world-is-too-damn-hot-el-ni-o-is-partly-to-blame.png": {
