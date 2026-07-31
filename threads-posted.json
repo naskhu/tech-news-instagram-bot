@@ -13784,12 +13784,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna.png": {
-      "buffer_due_at_utc": "2026-07-31T23:07:37.000Z",
+      "buffer_due_at_utc": "2026-07-31T23:09:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d24b5ef3b8a12e11f2a6f",
+      "buffer_post_id": "6a6d24ba2368e968d93af120",
       "caption_file": "output/2026-07-31/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T23:09:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d24ba2368e968d93af120",
+          "published_at_utc": "2026-07-31T22:42:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T23:07:37.000Z",
           "buffer_mode": "customScheduled",
@@ -13799,7 +13805,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna.png",
       "metadata_file": "output/2026-07-31/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna.json",
-      "published_at_utc": "2026-07-31T22:41:57Z",
+      "published_at_utc": "2026-07-31T22:42:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/openai-says-its-models-now-reach-more-than-1-billion-weekly-active-use.png": {
