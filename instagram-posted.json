@@ -4855,6 +4855,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T08:07:11Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/quantum-computing-roundup-still-more-technologies-making-waves.png": {
+      "buffer_post_id": "6a6c57b1bb30a36747038ae7",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/quantum-computing-roundup-still-more-technologies-making-waves.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/quantum-computing-roundup-still-more-technologies-making-waves.png",
+      "metadata_file": "output/2026-07-29/quantum-computing-roundup-still-more-technologies-making-waves.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T08:07:21Z",
+      "publisher": "buffer"
     }
   }
 }
