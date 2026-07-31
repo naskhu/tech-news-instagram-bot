@@ -4789,6 +4789,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T08:03:37Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/openai-hack-of-hugging-face-was-expected.png": {
+      "buffer_post_id": "6a6c570f961582f29ff3fe06",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/openai-hack-of-hugging-face-was-expected.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/openai-hack-of-hugging-face-was-expected.png",
+      "metadata_file": "output/2026-07-29/openai-hack-of-hugging-face-was-expected.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T08:04:38Z",
+      "publisher": "buffer"
     }
   }
 }
