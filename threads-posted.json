@@ -14134,12 +14134,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-daisy-one-headphones-are-a-very-nice-first-try.png": {
-      "buffer_due_at_utc": "2026-07-31T20:56:04.000Z",
+      "buffer_due_at_utc": "2026-07-31T20:58:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d07e3e48166238674667e",
+      "buffer_post_id": "6a6d07e82368e968d9395a70",
       "caption_file": "output/2026-07-31/the-daisy-one-headphones-are-a-very-nice-first-try.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T20:58:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d07e82368e968d9395a70",
+          "published_at_utc": "2026-07-31T20:39:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T20:56:04.000Z",
           "buffer_mode": "customScheduled",
@@ -14149,7 +14155,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-daisy-one-headphones-are-a-very-nice-first-try.png",
       "metadata_file": "output/2026-07-31/the-daisy-one-headphones-are-a-very-nice-first-try.json",
-      "published_at_utc": "2026-07-31T20:38:59Z",
+      "published_at_utc": "2026-07-31T20:39:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-world-is-too-damn-hot-el-ni-o-is-partly-to-blame.png": {
