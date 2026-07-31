@@ -13333,6 +13333,25 @@
       "published_at_utc": "2026-07-31T18:47:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/claude-published-malicious-code-to-the-internet-and-attacked-3-real-co.png": {
+      "buffer_due_at_utc": "2026-07-31T23:35:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d2d6bf93d764d93833a08",
+      "caption_file": "output/2026-07-31/claude-published-malicious-code-to-the-internet-and-attacked-3-real-co.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T23:35:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d2d6bf93d764d93833a08",
+          "published_at_utc": "2026-07-31T23:19:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/claude-published-malicious-code-to-the-internet-and-attacked-3-real-co.png",
+      "metadata_file": "output/2026-07-31/claude-published-malicious-code-to-the-internet-and-attacked-3-real-co.json",
+      "published_at_utc": "2026-07-31T23:19:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/d-d-is-getting-world-of-warcraft-and-star-wars-crossovers.png": {
       "buffer_due_at_utc": "2026-07-31T18:58:04.000Z",
       "buffer_mode": "customScheduled",
