@@ -12458,6 +12458,25 @@
       "published_at_utc": "2026-07-30T20:36:19Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbi.png": {
+      "buffer_due_at_utc": "2026-07-31T04:30:59.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c1c8ea7a516cf4d2cb4db",
+      "caption_file": "output/2026-07-30/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T04:30:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c1c8ea7a516cf4d2cb4db",
+          "published_at_utc": "2026-07-31T03:54:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbi.png",
+      "metadata_file": "output/2026-07-30/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbi.json",
+      "published_at_utc": "2026-07-31T03:54:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/spider-man-brand-new-day-is-a-superhero-movie-for-yearners.png": {
       "buffer_due_at_utc": "2026-07-30T20:50:03.000Z",
       "buffer_mode": "customScheduled",
