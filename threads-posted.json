@@ -13684,12 +13684,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/microsoft-wants-to-make-windows-work-better-with-8gb-of-ram.png": {
-      "buffer_due_at_utc": "2026-07-31T22:37:08.000Z",
+      "buffer_due_at_utc": "2026-07-31T22:39:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d1ef52368e968d93aac7e",
+      "buffer_post_id": "6a6d1efaebe00edff55c6022",
       "caption_file": "output/2026-07-31/microsoft-wants-to-make-windows-work-better-with-8gb-of-ram.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T22:39:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d1efaebe00edff55c6022",
+          "published_at_utc": "2026-07-31T22:17:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T22:37:08.000Z",
           "buffer_mode": "customScheduled",
@@ -13699,7 +13705,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/microsoft-wants-to-make-windows-work-better-with-8gb-of-ram.png",
       "metadata_file": "output/2026-07-31/microsoft-wants-to-make-windows-work-better-with-8gb-of-ram.json",
-      "published_at_utc": "2026-07-31T22:17:25Z",
+      "published_at_utc": "2026-07-31T22:17:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/new-york-sues-kalshi-for-allegedly-running-an-illegal-gambling-operati.png": {
