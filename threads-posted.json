@@ -12608,6 +12608,25 @@
       "published_at_utc": "2026-07-31T00:00:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/tim-cook-passes-the-baton-in-apple-s-q3-2026-earnings-call.png": {
+      "buffer_due_at_utc": "2026-07-31T01:05:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6be988369d7a6b6a31f1d5",
+      "caption_file": "output/2026-07-30/tim-cook-passes-the-baton-in-apple-s-q3-2026-earnings-call.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T01:05:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6be988369d7a6b6a31f1d5",
+          "published_at_utc": "2026-07-31T00:17:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/tim-cook-passes-the-baton-in-apple-s-q3-2026-earnings-call.png",
+      "metadata_file": "output/2026-07-30/tim-cook-passes-the-baton-in-apple-s-q3-2026-earnings-call.json",
+      "published_at_utc": "2026-07-31T00:17:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/what-if-your-dji-pocket-camera-could-put-on-wings-and-fly.png": {
       "buffer_due_at_utc": "2026-07-30T22:05:54.000Z",
       "buffer_mode": "customScheduled",
