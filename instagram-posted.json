@@ -4680,6 +4680,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T06:39:47Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.png": {
+      "buffer_post_id": "6a6c4684cc9eb43b4c215686",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.png",
+      "metadata_file": "output/2026-07-29/meta-s-latest-ai-content-deal-is-with-newsmax.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T06:54:04Z",
+      "publisher": "buffer"
     }
   }
 }
