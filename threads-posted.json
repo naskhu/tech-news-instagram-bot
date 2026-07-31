@@ -13559,12 +13559,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/google-plans-to-exempt-sanctioned-nations-from-android-developer-verif.png": {
-      "buffer_due_at_utc": "2026-07-31T23:06:36.000Z",
+      "buffer_due_at_utc": "2026-07-31T23:08:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d24aaebe00edff55cab55",
+      "buffer_post_id": "6a6d24af2368e968d93af0bb",
       "caption_file": "output/2026-07-31/google-plans-to-exempt-sanctioned-nations-from-android-developer-verif.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T23:08:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d24af2368e968d93af0bb",
+          "published_at_utc": "2026-07-31T22:41:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T23:06:36.000Z",
           "buffer_mode": "customScheduled",
@@ -13574,7 +13580,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/google-plans-to-exempt-sanctioned-nations-from-android-developer-verif.png",
       "metadata_file": "output/2026-07-31/google-plans-to-exempt-sanctioned-nations-from-android-developer-verif.json",
-      "published_at_utc": "2026-07-31T22:41:47Z",
+      "published_at_utc": "2026-07-31T22:41:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/gym-tasks-vs-work-tasks.png": {
