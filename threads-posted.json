@@ -13483,6 +13483,25 @@
       "published_at_utc": "2026-07-31T18:47:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-.png": {
+      "buffer_due_at_utc": "2026-07-31T20:55:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d07d84c4e74ba2a2cffd0",
+      "caption_file": "output/2026-07-31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T20:55:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d07d84c4e74ba2a2cffd0",
+          "published_at_utc": "2026-07-31T20:38:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-.png",
+      "metadata_file": "output/2026-07-31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-.json",
+      "published_at_utc": "2026-07-31T20:38:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/gym-tasks-vs-work-tasks.png": {
       "buffer_due_at_utc": "2026-07-31T18:59:52.000Z",
       "buffer_mode": "customScheduled",
