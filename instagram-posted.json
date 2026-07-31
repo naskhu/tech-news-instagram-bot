@@ -4876,6 +4876,17 @@
       "metadata_file": "output/2026-07-29/remarkable-s-refurbished-bundle-is-an-awesome-deal-that-s-over-350-off.json",
       "published_at_utc": "2026-07-31T09:01:35Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/russia-issues-arrest-warrant-for-telegram-ceo-pavel-durov.png": {
+      "buffer_post_id": "6a6c680bb4358423d4b7e3d7",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/russia-issues-arrest-warrant-for-telegram-ceo-pavel-durov.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/russia-issues-arrest-warrant-for-telegram-ceo-pavel-durov.png",
+      "metadata_file": "output/2026-07-29/russia-issues-arrest-warrant-for-telegram-ceo-pavel-durov.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T09:17:06Z",
+      "publisher": "buffer"
     }
   }
 }
