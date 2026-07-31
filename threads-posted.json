@@ -13383,6 +13383,25 @@
       "published_at_utc": "2026-07-31T18:47:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/gym-tasks-vs-work-tasks.png": {
+      "buffer_due_at_utc": "2026-07-31T18:57:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6cede6e4816623867341fa",
+      "caption_file": "output/2026-07-31/gym-tasks-vs-work-tasks.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T18:57:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6cede6e4816623867341fa",
+          "published_at_utc": "2026-07-31T18:48:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/gym-tasks-vs-work-tasks.png",
+      "metadata_file": "output/2026-07-31/gym-tasks-vs-work-tasks.json",
+      "published_at_utc": "2026-07-31T18:48:06Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit.png": {
       "buffer_due_at_utc": "2026-07-31T11:35:20.000Z",
       "buffer_mode": "customScheduled",
