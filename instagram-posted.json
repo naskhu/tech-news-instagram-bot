@@ -4539,6 +4539,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T04:33:11Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assist.png": {
+      "buffer_post_id": "6a6c25b4bb30a36747013e14",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assist.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assist.png",
+      "metadata_file": "output/2026-07-29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assist.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T04:34:03Z",
+      "publisher": "buffer"
     }
   }
 }
