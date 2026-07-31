@@ -14409,12 +14409,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses-te.png": {
-      "buffer_due_at_utc": "2026-07-31T22:07:31.000Z",
+      "buffer_due_at_utc": "2026-07-31T22:09:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d117ee48166238674ebdc",
+      "buffer_post_id": "6a6d1183ef3b8a12e11e15eb",
       "caption_file": "output/2026-07-31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T22:09:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d1183ef3b8a12e11e15eb",
+          "published_at_utc": "2026-07-31T21:20:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T22:07:31.000Z",
           "buffer_mode": "customScheduled",
@@ -14424,7 +14430,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses-te.png",
       "metadata_file": "output/2026-07-31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses-te.json",
-      "published_at_utc": "2026-07-31T21:19:58Z",
+      "published_at_utc": "2026-07-31T21:20:04Z",
       "publisher": "buffer_threads"
     }
   }
