@@ -13409,12 +13409,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/hank-green-says-his-youtube-channel-may-need-to-pause-after-admitting-.png": {
-      "buffer_due_at_utc": "2026-07-31T18:58:46.000Z",
+      "buffer_due_at_utc": "2026-07-31T19:00:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6cedf14c4e74ba2a2bda5c",
+      "buffer_post_id": "6a6cedf62368e968d9381eee",
       "caption_file": "output/2026-07-31/hank-green-says-his-youtube-channel-may-need-to-pause-after-admitting-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T19:00:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6cedf62368e968d9381eee",
+          "published_at_utc": "2026-07-31T18:48:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T18:58:46.000Z",
           "buffer_mode": "customScheduled",
@@ -13424,7 +13430,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/hank-green-says-his-youtube-channel-may-need-to-pause-after-admitting-.png",
       "metadata_file": "output/2026-07-31/hank-green-says-his-youtube-channel-may-need-to-pause-after-admitting-.json",
-      "published_at_utc": "2026-07-31T18:48:17Z",
+      "published_at_utc": "2026-07-31T18:48:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit.png": {
