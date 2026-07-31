@@ -13509,12 +13509,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/google-earth-risked-ruin-with-retracted-ai-tool-for-making-fake-satell.png": {
-      "buffer_due_at_utc": "2026-07-31T23:37:13.000Z",
+      "buffer_due_at_utc": "2026-07-31T23:39:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d2d764c4e74ba2a2f1758",
+      "buffer_post_id": "6a6d2d7be481662386769048",
       "caption_file": "output/2026-07-31/google-earth-risked-ruin-with-retracted-ai-tool-for-making-fake-satell.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T23:39:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d2d7be481662386769048",
+          "published_at_utc": "2026-07-31T23:19:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T23:37:13.000Z",
           "buffer_mode": "customScheduled",
@@ -13524,7 +13530,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/google-earth-risked-ruin-with-retracted-ai-tool-for-making-fake-satell.png",
       "metadata_file": "output/2026-07-31/google-earth-risked-ruin-with-retracted-ai-tool-for-making-fake-satell.json",
-      "published_at_utc": "2026-07-31T23:19:18Z",
+      "published_at_utc": "2026-07-31T23:19:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/google-earth-s-ai-deepfake-tool-only-lasted-one-day.png": {
