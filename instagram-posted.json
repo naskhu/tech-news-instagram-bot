@@ -4723,6 +4723,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T07:20:52Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with.png": {
+      "buffer_post_id": "6a6c4e7b369d7a6b6a36a061",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with.png",
+      "metadata_file": "output/2026-07-29/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T07:28:03Z",
+      "publisher": "buffer"
     }
   }
 }
