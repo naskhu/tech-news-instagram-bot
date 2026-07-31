@@ -13784,12 +13784,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-goog.png": {
-      "buffer_due_at_utc": "2026-07-31T22:18:19.000Z",
+      "buffer_due_at_utc": "2026-07-31T22:20:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d1517ef3b8a12e11e4b54",
+      "buffer_post_id": "6a6d151bebe00edff55bb52b",
       "caption_file": "output/2026-07-31/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-goog.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T22:20:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d151bebe00edff55bb52b",
+          "published_at_utc": "2026-07-31T21:35:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T22:18:19.000Z",
           "buffer_mode": "customScheduled",
@@ -13799,7 +13805,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-goog.png",
       "metadata_file": "output/2026-07-31/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-goog.json",
-      "published_at_utc": "2026-07-31T21:35:19Z",
+      "published_at_utc": "2026-07-31T21:35:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-pri.png": {
