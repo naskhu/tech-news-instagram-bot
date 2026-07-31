@@ -4822,6 +4822,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T08:06:44Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.png": {
+      "buffer_post_id": "6a6c5796369d7a6b6a3717cd",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.png",
+      "metadata_file": "output/2026-07-29/openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-07-31T08:06:52Z",
+      "publisher": "buffer"
     }
   }
 }
