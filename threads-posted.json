@@ -13809,12 +13809,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/openai-has-reportedly-found-that-more-of-its-ai-agents-went-rogue.png": {
-      "buffer_due_at_utc": "2026-07-31T23:19:01.000Z",
+      "buffer_due_at_utc": "2026-07-31T23:21:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d24bf2368e968d93af168",
+      "buffer_post_id": "6a6d24c4ef3b8a12e11f2afc",
       "caption_file": "output/2026-07-31/openai-has-reportedly-found-that-more-of-its-ai-agents-went-rogue.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T23:21:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d24c4ef3b8a12e11f2afc",
+          "published_at_utc": "2026-07-31T22:42:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T23:19:01.000Z",
           "buffer_mode": "customScheduled",
@@ -13824,7 +13830,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/openai-has-reportedly-found-that-more-of-its-ai-agents-went-rogue.png",
       "metadata_file": "output/2026-07-31/openai-has-reportedly-found-that-more-of-its-ai-agents-went-rogue.json",
-      "published_at_utc": "2026-07-31T22:42:07Z",
+      "published_at_utc": "2026-07-31T22:42:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/openai-says-its-models-now-reach-more-than-1-billion-weekly-active-use.png": {
