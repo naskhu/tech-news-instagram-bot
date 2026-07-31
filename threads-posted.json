@@ -13007,6 +13007,25 @@
       "metadata_file": "output/2026-07-31/anthropic-says-its-own-ai-models-breached-three-companies-during-secur.json",
       "published_at_utc": "2026-07-31T02:48:04Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-07-31/mattress-firm-coupons-save-up-to-700.png": {
+      "buffer_due_at_utc": "2026-07-31T06:25:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6c3a4ebb30a3674702145f",
+      "caption_file": "output/2026-07-31/mattress-firm-coupons-save-up-to-700.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T06:25:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6c3a4ebb30a3674702145f",
+          "published_at_utc": "2026-07-31T06:01:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/mattress-firm-coupons-save-up-to-700.png",
+      "metadata_file": "output/2026-07-31/mattress-firm-coupons-save-up-to-700.json",
+      "published_at_utc": "2026-07-31T06:01:50Z",
+      "publisher": "buffer_threads"
     }
   }
 }
