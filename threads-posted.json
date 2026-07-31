@@ -14183,6 +14183,25 @@
       "published_at_utc": "2026-07-31T20:39:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts.png": {
+      "buffer_due_at_utc": "2026-07-31T21:02:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d07fae48166238674681d",
+      "caption_file": "output/2026-07-31/the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-07-31T21:02:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d07fae48166238674681d",
+          "published_at_utc": "2026-07-31T20:39:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts.png",
+      "metadata_file": "output/2026-07-31/the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts.json",
+      "published_at_utc": "2026-07-31T20:39:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/the-world-is-too-damn-hot-el-ni-o-is-partly-to-blame.png": {
       "buffer_due_at_utc": "2026-07-31T11:00:01.000Z",
       "buffer_mode": "customScheduled",
