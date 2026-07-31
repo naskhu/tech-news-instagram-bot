@@ -12159,12 +12159,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/razer-s-new-keyboards-drop-the-price-on-powerful-gaming-features.png": {
-      "buffer_due_at_utc": "2026-07-31T00:34:33.000Z",
+      "buffer_due_at_utc": "2026-07-31T00:36:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6be97e369d7a6b6a31f13a",
+      "buffer_post_id": "6a6be983369d7a6b6a31f19f",
       "caption_file": "output/2026-07-30/razer-s-new-keyboards-drop-the-price-on-powerful-gaming-features.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-07-31T00:36:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6be983369d7a6b6a31f19f",
+          "published_at_utc": "2026-07-31T00:17:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-07-31T00:34:33.000Z",
           "buffer_mode": "customScheduled",
@@ -12174,7 +12180,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/razer-s-new-keyboards-drop-the-price-on-powerful-gaming-features.png",
       "metadata_file": "output/2026-07-30/razer-s-new-keyboards-drop-the-price-on-powerful-gaming-features.json",
-      "published_at_utc": "2026-07-31T00:17:02Z",
+      "published_at_utc": "2026-07-31T00:17:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/reddit-is-planning-something-new-in-video.png": {
