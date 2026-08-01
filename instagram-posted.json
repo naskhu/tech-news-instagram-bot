@@ -5466,6 +5466,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T07:49:02Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominan.png": {
+      "buffer_post_id": "6a6da6ad4c4e74ba2a344346",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominan.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominan.png",
+      "metadata_file": "output/2026-07-30/everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominan.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T07:56:35Z",
+      "publisher": "buffer"
     }
   }
 }
