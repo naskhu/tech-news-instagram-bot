@@ -1,0 +1,22 @@
+{
+  "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+  "summary": "The vulnerabilities also affect products containing vCenter or ESX, including VMware Cloud Foundation, VMware vSphere Foundation, VMware Telco Cloud Platform, and VMware Telco Cloud Infrastructure. VMware Cloud Foundation 5.x and the affected telco products have separate patching instructions in Broadcom's advisory.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes",
+  "published_utc": "2026-07-30T18:00:51+00:00",
+  "date_source": "rss",
+  "generated_utc": "2026-08-01T23:35:55.638504+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2023/10/25/VMware_red.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-07-30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.png",
+  "caption": "output/2026-07-30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.txt"
+}

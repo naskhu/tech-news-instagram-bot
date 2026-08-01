@@ -1,0 +1,22 @@
+{
+  "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+  "summary": "According to Google, Chrome 149 and Chrome 150 fixed 1,072 security bugs, surpassing the total number fixed across the previous 23 Chrome milestones combined. However, Google says finding and fixing vulnerabilities more quickly also requires accelerating how patches are delivered to users.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases",
+  "published_utc": "2026-07-30T17:00:00+00:00",
+  "date_source": "rss",
+  "generated_utc": "2026-08-01T23:35:58.335849+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2023/06/16/Google-Chrome-headpic.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-07-30/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases.png",
+  "caption": "output/2026-07-30/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases.txt"
+}
