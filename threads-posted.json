@@ -11609,12 +11609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/gemini-robotics-2-brings-google-s-ai-into-the-physical-world.png": {
-      "buffer_due_at_utc": "2026-08-01T04:46:34.000Z",
+      "buffer_due_at_utc": "2026-08-01T04:48:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d789f4c4e74ba2a3234fc",
+      "buffer_post_id": "6a6d78a54c4e74ba2a3236c7",
       "caption_file": "output/2026-07-30/gemini-robotics-2-brings-google-s-ai-into-the-physical-world.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T04:48:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d78a54c4e74ba2a3236c7",
+          "published_at_utc": "2026-08-01T04:40:05Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T04:46:34.000Z",
           "buffer_mode": "customScheduled",
@@ -11624,7 +11630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/gemini-robotics-2-brings-google-s-ai-into-the-physical-world.png",
       "metadata_file": "output/2026-07-30/gemini-robotics-2-brings-google-s-ai-into-the-physical-world.json",
-      "published_at_utc": "2026-08-01T04:39:59Z",
+      "published_at_utc": "2026-08-01T04:40:05Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body.png": {
