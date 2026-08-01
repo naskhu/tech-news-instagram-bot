@@ -14884,12 +14884,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-new-defcon-badges-pack-a-unique-open-source-chip-that-doubles-as-a.png": {
-      "buffer_due_at_utc": "2026-08-01T05:05:13.000Z",
+      "buffer_due_at_utc": "2026-08-01T05:07:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d78bfebe00edff5605c9e",
+      "buffer_post_id": "6a6d78c4ebe00edff5605cc5",
       "caption_file": "output/2026-07-31/the-new-defcon-badges-pack-a-unique-open-source-chip-that-doubles-as-a.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T05:07:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d78c4ebe00edff5605cc5",
+          "published_at_utc": "2026-08-01T04:40:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T05:05:13.000Z",
           "buffer_mode": "customScheduled",
@@ -14899,7 +14905,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-new-defcon-badges-pack-a-unique-open-source-chip-that-doubles-as-a.png",
       "metadata_file": "output/2026-07-31/the-new-defcon-badges-pack-a-unique-open-source-chip-that-doubles-as-a.json",
-      "published_at_utc": "2026-08-01T04:40:31Z",
+      "published_at_utc": "2026-08-01T04:40:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.png": {
