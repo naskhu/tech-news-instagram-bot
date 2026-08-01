@@ -16833,6 +16833,25 @@
       "published_at_utc": "2026-08-01T21:35:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt.png": {
+      "buffer_due_at_utc": "2026-08-01T21:40:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e66bbb738722ef881a056",
+      "caption_file": "output/2026-08-01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T21:40:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e66bbb738722ef881a056",
+          "published_at_utc": "2026-08-01T21:35:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt.png",
+      "metadata_file": "output/2026-08-01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt.json",
+      "published_at_utc": "2026-08-01T21:35:55Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/squarespace-promo-codes-20-off-in-august-2026.png": {
       "buffer_due_at_utc": "2026-08-01T08:06:59.000Z",
       "buffer_mode": "customScheduled",
