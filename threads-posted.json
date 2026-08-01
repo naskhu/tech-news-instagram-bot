@@ -17309,12 +17309,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/this-air-fryer-can-cook-a-steak-to-medium-rare-and-is-now-half-off.png": {
-      "buffer_due_at_utc": "2026-08-01T22:45:38.000Z",
+      "buffer_due_at_utc": "2026-08-01T23:00:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e6f9dc54cb283664e9006",
+      "buffer_post_id": "6a6e74c7f93d764d9392c6ab",
       "caption_file": "output/2026-08-01/this-air-fryer-can-cook-a-steak-to-medium-rare-and-is-now-half-off.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T23:00:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e74c7f93d764d9392c6ab",
+          "published_at_utc": "2026-08-01T22:35:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T22:45:38.000Z",
           "buffer_mode": "customScheduled",
@@ -17324,7 +17330,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/this-air-fryer-can-cook-a-steak-to-medium-rare-and-is-now-half-off.png",
       "metadata_file": "output/2026-08-01/this-air-fryer-can-cook-a-steak-to-medium-rare-and-is-now-half-off.json",
-      "published_at_utc": "2026-08-01T22:13:49Z",
+      "published_at_utc": "2026-08-01T22:35:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/valvoline-coupons-and-promo-codes-for-august-2026.png": {
