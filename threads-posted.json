@@ -15934,12 +15934,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/15-best-office-chairs-of-2026-we-tested-70-to-pick-them.png": {
-      "buffer_due_at_utc": "2026-08-01T20:40:44.000Z",
+      "buffer_due_at_utc": "2026-08-01T20:42:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e57fdc54cb283664d548c",
+      "buffer_post_id": "6a6e5802c54cb283664d54fa",
       "caption_file": "output/2026-08-01/15-best-office-chairs-of-2026-we-tested-70-to-pick-them.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T20:42:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e5802c54cb283664d54fa",
+          "published_at_utc": "2026-08-01T20:33:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T20:40:44.000Z",
           "buffer_mode": "customScheduled",
@@ -15949,7 +15955,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/15-best-office-chairs-of-2026-we-tested-70-to-pick-them.png",
       "metadata_file": "output/2026-08-01/15-best-office-chairs-of-2026-we-tested-70-to-pick-them.json",
-      "published_at_utc": "2026-08-01T20:33:01Z",
+      "published_at_utc": "2026-08-01T20:33:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/30-off-canon-promo-codes-august-2026.png": {
