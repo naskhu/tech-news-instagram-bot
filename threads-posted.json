@@ -15284,12 +15284,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/30-off-canon-promo-codes-august-2026.png": {
-      "buffer_due_at_utc": "2026-08-01T06:51:37.000Z",
+      "buffer_due_at_utc": "2026-08-01T06:53:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d95504c4e74ba2a33884c",
+      "buffer_post_id": "6a6d9555f93d764d93878594",
       "caption_file": "output/2026-08-01/30-off-canon-promo-codes-august-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T06:53:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d9555f93d764d93878594",
+          "published_at_utc": "2026-08-01T06:42:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T06:51:37.000Z",
           "buffer_mode": "customScheduled",
@@ -15299,7 +15305,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/30-off-canon-promo-codes-august-2026.png",
       "metadata_file": "output/2026-08-01/30-off-canon-promo-codes-august-2026.json",
-      "published_at_utc": "2026-08-01T06:42:24Z",
+      "published_at_utc": "2026-08-01T06:42:29Z",
       "publisher": "buffer_threads"
     }
   }
