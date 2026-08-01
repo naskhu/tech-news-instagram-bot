@@ -5292,6 +5292,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T05:09:10Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio.png": {
+      "buffer_post_id": "6a6d7fc82368e968d93ece2f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio.png",
+      "metadata_file": "output/2026-07-30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T05:10:40Z",
+      "publisher": "buffer"
     }
   }
 }
