@@ -13684,12 +13684,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/best-robot-vacuum-of-2026-shark-eufy.png": {
-      "buffer_due_at_utc": "2026-08-01T19:43:58.000Z",
+      "buffer_due_at_utc": "2026-08-01T19:45:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e4a921c0f8361b8f952ef",
+      "buffer_post_id": "6a6e4a98f93d764d9390bc03",
       "caption_file": "output/2026-07-31/best-robot-vacuum-of-2026-shark-eufy.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T19:45:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4a98f93d764d9390bc03",
+          "published_at_utc": "2026-08-01T19:35:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T19:43:58.000Z",
           "buffer_mode": "customScheduled",
@@ -13699,7 +13705,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/best-robot-vacuum-of-2026-shark-eufy.png",
       "metadata_file": "output/2026-07-31/best-robot-vacuum-of-2026-shark-eufy.json",
-      "published_at_utc": "2026-08-01T19:35:46Z",
+      "published_at_utc": "2026-08-01T19:35:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/can-republicans-actually-send-anthony-fauci-to-jail.png": {
