@@ -16709,12 +16709,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal.png": {
-      "buffer_due_at_utc": "2026-08-01T21:23:04.000Z",
+      "buffer_due_at_utc": "2026-08-01T21:39:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e61151c0f8361b8fa4429",
+      "buffer_post_id": "6a6e6694b738722ef8819ebc",
       "caption_file": "output/2026-08-01/nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T21:39:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e6694b738722ef8819ebc",
+          "published_at_utc": "2026-08-01T21:35:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T21:23:04.000Z",
           "buffer_mode": "customScheduled",
@@ -16724,7 +16730,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal.png",
       "metadata_file": "output/2026-08-01/nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal.json",
-      "published_at_utc": "2026-08-01T21:11:49Z",
+      "published_at_utc": "2026-08-01T21:35:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/peacock-promo-codes-40-off-august-2026.png": {
