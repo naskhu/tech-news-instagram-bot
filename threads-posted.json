@@ -15683,6 +15683,25 @@
       "published_at_utc": "2026-08-01T07:14:20Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-sourc.png": {
+      "buffer_due_at_utc": "2026-08-01T11:59:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6dd34aef3b8a12e1274e5d",
+      "caption_file": "output/2026-08-01/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-sourc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T11:59:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6dd34aef3b8a12e1274e5d",
+          "published_at_utc": "2026-08-01T11:06:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-sourc.png",
+      "metadata_file": "output/2026-08-01/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-sourc.json",
+      "published_at_utc": "2026-08-01T11:06:50Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/peacock-promo-codes-40-off-august-2026.png": {
       "buffer_due_at_utc": "2026-08-01T07:14:36.000Z",
       "buffer_mode": "customScheduled",
