@@ -15384,12 +15384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/h-r-block-coupon-25-off-diy-tax-pro-assist.png": {
-      "buffer_due_at_utc": "2026-08-01T08:01:30.000Z",
+      "buffer_due_at_utc": "2026-08-01T08:03:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d9cc7f93d764d9387db38",
+      "buffer_post_id": "6a6d9cccef3b8a12e12470f9",
       "caption_file": "output/2026-08-01/h-r-block-coupon-25-off-diy-tax-pro-assist.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T08:03:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d9cccef3b8a12e12470f9",
+          "published_at_utc": "2026-08-01T07:14:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T08:01:30.000Z",
           "buffer_mode": "customScheduled",
@@ -15399,7 +15405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/h-r-block-coupon-25-off-diy-tax-pro-assist.png",
       "metadata_file": "output/2026-08-01/h-r-block-coupon-25-off-diy-tax-pro-assist.json",
-      "published_at_utc": "2026-08-01T07:14:16Z",
+      "published_at_utc": "2026-08-01T07:14:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/peacock-promo-codes-40-off-august-2026.png": {
