@@ -14883,6 +14883,25 @@
       "published_at_utc": "2026-07-31T20:39:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/the-new-defcon-badges-pack-a-unique-open-source-chip-that-doubles-as-a.png": {
+      "buffer_due_at_utc": "2026-08-01T05:05:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d78bfebe00edff5605c9e",
+      "caption_file": "output/2026-07-31/the-new-defcon-badges-pack-a-unique-open-source-chip-that-doubles-as-a.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T05:05:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d78bfebe00edff5605c9e",
+          "published_at_utc": "2026-08-01T04:40:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-new-defcon-badges-pack-a-unique-open-source-chip-that-doubles-as-a.png",
+      "metadata_file": "output/2026-07-31/the-new-defcon-badges-pack-a-unique-open-source-chip-that-doubles-as-a.json",
+      "published_at_utc": "2026-08-01T04:40:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/the-nhtsa-is-investigating-1-2-million-tesla-vehicles-over-suspension-.png": {
       "buffer_due_at_utc": "2026-07-31T21:05:56.000Z",
       "buffer_mode": "customScheduled",
