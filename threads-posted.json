@@ -15559,12 +15559,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/defcon-s-new-badge-is-a-security-key-you-can-see-inside.png": {
-      "buffer_due_at_utc": "2026-08-01T11:18:12.000Z",
+      "buffer_due_at_utc": "2026-08-01T11:20:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6dd3412bbc9e058731e6fc",
+      "buffer_post_id": "6a6dd345e4816623867e20b2",
       "caption_file": "output/2026-08-01/defcon-s-new-badge-is-a-security-key-you-can-see-inside.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T11:20:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6dd345e4816623867e20b2",
+          "published_at_utc": "2026-08-01T11:06:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T11:18:12.000Z",
           "buffer_mode": "customScheduled",
@@ -15574,7 +15580,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/defcon-s-new-badge-is-a-security-key-you-can-see-inside.png",
       "metadata_file": "output/2026-08-01/defcon-s-new-badge-is-a-security-key-you-can-see-inside.json",
-      "published_at_utc": "2026-08-01T11:06:41Z",
+      "published_at_utc": "2026-08-01T11:06:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/dell-coupon-codes-20-off-for-august-2026.png": {
