@@ -14059,12 +14059,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/i-ve-been-running-the-new-safari-on-ios-27-and-my-thumbs-are-already-h.png": {
-      "buffer_due_at_utc": "2026-08-01T10:20:31.000Z",
+      "buffer_due_at_utc": "2026-08-01T10:22:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6dbba6ef3b8a12e1261347",
+      "buffer_post_id": "6a6dbbab4385b490a3705260",
       "caption_file": "output/2026-07-31/i-ve-been-running-the-new-safari-on-ios-27-and-my-thumbs-are-already-h.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T10:22:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6dbbab4385b490a3705260",
+          "published_at_utc": "2026-08-01T09:26:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T10:20:31.000Z",
           "buffer_mode": "customScheduled",
@@ -14074,7 +14080,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/i-ve-been-running-the-new-safari-on-ios-27-and-my-thumbs-are-already-h.png",
       "metadata_file": "output/2026-07-31/i-ve-been-running-the-new-safari-on-ios-27-and-my-thumbs-are-already-h.json",
-      "published_at_utc": "2026-08-01T09:25:58Z",
+      "published_at_utc": "2026-08-01T09:26:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/india-is-starting-to-pay-for-apps-not-just-download-them-techcrunch.png": {
