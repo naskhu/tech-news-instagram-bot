@@ -1,0 +1,22 @@
+{
+  "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+  "summary": "Security researcher Kevin Beaumont discovered the malicious activity, saying that it stemmed from ‘trackpoint-async.js,’ Adform’s JavaScript tracking script served from ‘s2.adform.net’ and embedded in every website using the advertising platform.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency",
+  "published_utc": "2026-07-31T21:09:25+00:00",
+  "date_source": "rss",
+  "generated_utc": "2026-08-01T22:11:07.978147+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2023/11/15/Hacker_cryptocurrency_bitcoin.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-07-31/online-ad-firm-adform-s-script-compromised-to-steal-cryptocurrency.png",
+  "caption": "output/2026-07-31/online-ad-firm-adform-s-script-compromised-to-steal-cryptocurrency.txt"
+}
