@@ -11159,12 +11159,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hack.png": {
-      "buffer_due_at_utc": "2026-08-01T23:29:44.000Z",
+      "buffer_due_at_utc": "2026-08-01T23:31:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e7d2ec54cb283664f5b24",
+      "buffer_post_id": "6a6e7d331b4d436cc30d29af",
       "caption_file": "output/2026-07-30/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hack.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T23:31:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e7d331b4d436cc30d29af",
+          "published_at_utc": "2026-08-01T23:11:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T23:29:44.000Z",
           "buffer_mode": "customScheduled",
@@ -11174,7 +11180,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hack.png",
       "metadata_file": "output/2026-07-30/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hack.json",
-      "published_at_utc": "2026-08-01T23:11:43Z",
+      "published_at_utc": "2026-08-01T23:11:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/apple-s-iphone-and-mac-sales-keep-growing-despite-ram-shortages.png": {
