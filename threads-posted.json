@@ -13484,12 +13484,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.png": {
-      "buffer_due_at_utc": "2026-08-02T00:21:45.000Z",
+      "buffer_due_at_utc": "2026-08-02T00:23:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e8329aacd241cfda2a3ab",
+      "buffer_post_id": "6a6e832d2bbc9e05873b4828",
       "caption_file": "output/2026-07-30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T00:23:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e832d2bbc9e05873b4828",
+          "published_at_utc": "2026-08-01T23:37:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T00:21:45.000Z",
           "buffer_mode": "customScheduled",
@@ -13499,7 +13505,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.png",
       "metadata_file": "output/2026-07-30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.json",
-      "published_at_utc": "2026-08-01T23:37:13Z",
+      "published_at_utc": "2026-08-01T23:37:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/what-if-your-dji-pocket-camera-could-put-on-wings-and-fly.png": {
