@@ -5477,6 +5477,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T07:56:35Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-charge.png": {
+      "buffer_post_id": "6a6da7484c4e74ba2a344790",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-charge.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-charge.png",
+      "metadata_file": "output/2026-07-30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-charge.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T07:59:11Z",
+      "publisher": "buffer"
     }
   }
 }
