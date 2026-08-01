@@ -5509,6 +5509,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T08:02:45Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for.png": {
+      "buffer_post_id": "6a6da8272bbc9e05872f999a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for.png",
+      "metadata_file": "output/2026-07-30/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T08:02:54Z",
+      "publisher": "buffer"
     }
   }
 }
