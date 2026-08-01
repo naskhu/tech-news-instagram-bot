@@ -16958,6 +16958,25 @@
       "published_at_utc": "2026-08-01T21:38:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/the-mermaid-mask-is-a-perfect-vacation-murder-mystery.png": {
+      "buffer_due_at_utc": "2026-08-01T21:42:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e675e1c0f8361b8fa99ac",
+      "caption_file": "output/2026-08-01/the-mermaid-mask-is-a-perfect-vacation-murder-mystery.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T21:42:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e675e1c0f8361b8fa99ac",
+          "published_at_utc": "2026-08-01T21:38:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/the-mermaid-mask-is-a-perfect-vacation-murder-mystery.png",
+      "metadata_file": "output/2026-08-01/the-mermaid-mask-is-a-perfect-vacation-murder-mystery.json",
+      "published_at_utc": "2026-08-01T21:38:38Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/valvoline-coupons-and-promo-codes-for-august-2026.png": {
       "buffer_due_at_utc": "2026-08-01T07:31:17.000Z",
       "buffer_mode": "customScheduled",
