@@ -16883,6 +16883,25 @@
       "published_at_utc": "2026-08-01T21:35:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/rails-patches-critical-active-storage-flaw-with-rce-potential.png": {
+      "buffer_due_at_utc": "2026-08-01T22:22:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e6f59c54cb283664e881d",
+      "caption_file": "output/2026-08-01/rails-patches-critical-active-storage-flaw-with-rce-potential.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T22:22:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e6f59c54cb283664e881d",
+          "published_at_utc": "2026-08-01T22:12:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/rails-patches-critical-active-storage-flaw-with-rce-potential.png",
+      "metadata_file": "output/2026-08-01/rails-patches-critical-active-storage-flaw-with-rce-potential.json",
+      "published_at_utc": "2026-08-01T22:12:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/review-yes-we-re-still-arguing-about-nolan-s-the-odyssey.png": {
       "buffer_due_at_utc": "2026-08-01T21:40:23.000Z",
       "buffer_mode": "customScheduled",
