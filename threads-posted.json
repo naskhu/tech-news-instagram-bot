@@ -16008,6 +16008,25 @@
       "published_at_utc": "2026-08-01T11:06:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-i.png": {
+      "buffer_due_at_utc": "2026-08-01T20:43:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e58071b4d436cc30b1bc6",
+      "caption_file": "output/2026-08-01/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-i.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T20:43:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e58071b4d436cc30b1bc6",
+          "published_at_utc": "2026-08-01T20:33:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-i.png",
+      "metadata_file": "output/2026-08-01/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-i.json",
+      "published_at_utc": "2026-08-01T20:33:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/astronomers-have-detected-an-exomoon-for-the-first-time.png": {
       "buffer_due_at_utc": "2026-08-01T10:02:36.000Z",
       "buffer_mode": "customScheduled",
