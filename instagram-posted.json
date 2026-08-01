@@ -5248,6 +5248,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T05:04:14Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/50-off-doordash-promo-code-august-2026.png": {
+      "buffer_post_id": "6a6d7e9c4c4e74ba2a32734f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/50-off-doordash-promo-code-august-2026.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/50-off-doordash-promo-code-august-2026.png",
+      "metadata_file": "output/2026-07-30/50-off-doordash-promo-code-august-2026.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T05:05:40Z",
+      "publisher": "buffer"
     }
   }
 }
