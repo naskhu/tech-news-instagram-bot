@@ -15784,12 +15784,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/who-will-you-play-in-d-d-s-new-world-of-warcraft-and-star-wars-sets-cn.png": {
-      "buffer_due_at_utc": "2026-08-01T20:36:46.000Z",
+      "buffer_due_at_utc": "2026-08-01T20:38:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e57e9c54cb283664d53da",
+      "buffer_post_id": "6a6e57eeb738722ef880e5e0",
       "caption_file": "output/2026-07-31/who-will-you-play-in-d-d-s-new-world-of-warcraft-and-star-wars-sets-cn.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T20:38:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e57eeb738722ef880e5e0",
+          "published_at_utc": "2026-08-01T20:32:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T20:36:46.000Z",
           "buffer_mode": "customScheduled",
@@ -15799,7 +15805,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/who-will-you-play-in-d-d-s-new-world-of-warcraft-and-star-wars-sets-cn.png",
       "metadata_file": "output/2026-07-31/who-will-you-play-in-d-d-s-new-world-of-warcraft-and-star-wars-sets-cn.json",
-      "published_at_utc": "2026-08-01T20:32:42Z",
+      "published_at_utc": "2026-08-01T20:32:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/with-switch-2-iphone-and-laptop-tricks-the-sharge-disk-pro-2-is-finall.png": {
