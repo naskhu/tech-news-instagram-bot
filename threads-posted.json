@@ -16883,6 +16883,25 @@
       "published_at_utc": "2026-08-01T21:36:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/spider-man-brand-new-day-leak-racks-up-millions-of-views.png": {
+      "buffer_due_at_utc": "2026-08-01T21:43:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e66d1c54cb283664e0c29",
+      "caption_file": "output/2026-08-01/spider-man-brand-new-day-leak-racks-up-millions-of-views.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T21:43:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e66d1c54cb283664e0c29",
+          "published_at_utc": "2026-08-01T21:36:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/spider-man-brand-new-day-leak-racks-up-millions-of-views.png",
+      "metadata_file": "output/2026-08-01/spider-man-brand-new-day-leak-racks-up-millions-of-views.json",
+      "published_at_utc": "2026-08-01T21:36:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/squarespace-promo-codes-20-off-in-august-2026.png": {
       "buffer_due_at_utc": "2026-08-01T08:06:59.000Z",
       "buffer_mode": "customScheduled",
