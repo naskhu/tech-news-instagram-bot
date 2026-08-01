@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-01T06:40:07.209546+00:00",
+  "run_utc": "2026-08-01T07:11:46.070708+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-29T06:40:07.209693+00:00",
-  "eligible_story_count": 468,
+  "cutoff_utc": "2026-07-29T07:11:46.070876+00:00",
+  "eligible_story_count": 463,
   "sources": [
     {
       "source": "TechCrunch",
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 38,
       "already_processed": 40,
-      "older_than_window": 37,
+      "older_than_window": 36,
       "metadata_errors": {}
     },
     {
@@ -377,22 +377,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 18,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 32,
           "error": ""
         }
       ],
       "rss_candidates": 99,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 85,
+      "eligible_new": 87,
       "already_processed": 9,
-      "older_than_window": 12,
+      "older_than_window": 10,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -459,8 +459,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 15,
-      "already_processed": 42,
+      "eligible_new": 11,
+      "already_processed": 46,
       "older_than_window": 8,
       "metadata_errors": {}
     },
@@ -495,7 +495,7 @@
       "rss_candidates": 39,
       "page_links": 40,
       "page_articles": 39,
-      "eligible_new": 38,
+      "eligible_new": 37,
       "already_processed": 1,
       "older_than_window": 16,
       "metadata_errors": {
@@ -565,7 +565,7 @@
       "rss_candidates": 15,
       "page_links": 26,
       "page_articles": 6,
-      "eligible_new": 16,
+      "eligible_new": 15,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {
