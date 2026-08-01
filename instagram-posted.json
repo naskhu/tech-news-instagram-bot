@@ -5127,6 +5127,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T04:11:01Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/who-wins-and-who-loses-after-us-bans-foreign-robots.png": {
+      "buffer_post_id": "6a6d73cf2368e968d93e5947",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/who-wins-and-who-loses-after-us-bans-foreign-robots.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/who-wins-and-who-loses-after-us-bans-foreign-robots.png",
+      "metadata_file": "output/2026-07-29/who-wins-and-who-loses-after-us-bans-foreign-robots.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T04:19:35Z",
+      "publisher": "buffer"
     }
   }
 }
