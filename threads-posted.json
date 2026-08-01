@@ -12133,6 +12133,25 @@
       "published_at_utc": "2026-07-30T20:07:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/linkedin-added-a-new-way-to-report-ai-slop-cnet.png": {
+      "buffer_due_at_utc": "2026-08-01T19:36:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e4a5db738722ef8805c73",
+      "caption_file": "output/2026-07-30/linkedin-added-a-new-way-to-report-ai-slop-cnet.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T19:36:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4a5db738722ef8805c73",
+          "published_at_utc": "2026-08-01T19:34:53Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/linkedin-added-a-new-way-to-report-ai-slop-cnet.png",
+      "metadata_file": "output/2026-07-30/linkedin-added-a-new-way-to-report-ai-slop-cnet.json",
+      "published_at_utc": "2026-08-01T19:34:53Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/linkedin-adds-a-button-to-report-ai-generated-slop.png": {
       "buffer_due_at_utc": "2026-07-30T20:14:52.000Z",
       "buffer_mode": "customScheduled",
