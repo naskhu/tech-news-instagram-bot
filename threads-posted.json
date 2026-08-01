@@ -16634,12 +16634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/inside-the-london-hacker-house-taking-a-stand-against-founder-burnout-.png": {
-      "buffer_due_at_utc": "2026-08-01T21:36:47.000Z",
+      "buffer_due_at_utc": "2026-08-01T21:38:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e668ab738722ef8819e6e",
+      "buffer_post_id": "6a6e668f2bbc9e0587398f70",
       "caption_file": "output/2026-08-01/inside-the-london-hacker-house-taking-a-stand-against-founder-burnout-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T21:38:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e668f2bbc9e0587398f70",
+          "published_at_utc": "2026-08-01T21:35:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T21:36:47.000Z",
           "buffer_mode": "customScheduled",
@@ -16649,7 +16655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/inside-the-london-hacker-house-taking-a-stand-against-founder-burnout-.png",
       "metadata_file": "output/2026-08-01/inside-the-london-hacker-house-taking-a-stand-against-founder-burnout-.json",
-      "published_at_utc": "2026-08-01T21:35:06Z",
+      "published_at_utc": "2026-08-01T21:35:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/is-this-billboard-hot-100-hit-ai-slop.png": {
