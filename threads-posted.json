@@ -16459,12 +16459,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/google-ai-studio-is-skipping-the-standalone-android-app.png": {
-      "buffer_due_at_utc": "2026-08-01T21:17:56.000Z",
+      "buffer_due_at_utc": "2026-08-01T21:19:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e60e6b738722ef8815a68",
+      "buffer_post_id": "6a6e60eb2bbc9e0587393d30",
       "caption_file": "output/2026-08-01/google-ai-studio-is-skipping-the-standalone-android-app.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T21:19:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e60eb2bbc9e0587393d30",
+          "published_at_utc": "2026-08-01T21:11:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T21:17:56.000Z",
           "buffer_mode": "customScheduled",
@@ -16474,7 +16480,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/google-ai-studio-is-skipping-the-standalone-android-app.png",
       "metadata_file": "output/2026-08-01/google-ai-studio-is-skipping-the-standalone-android-app.json",
-      "published_at_utc": "2026-08-01T21:11:02Z",
+      "published_at_utc": "2026-08-01T21:11:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/h-r-block-coupon-25-off-diy-tax-pro-assist.png": {
