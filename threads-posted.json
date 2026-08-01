@@ -15558,6 +15558,25 @@
       "published_at_utc": "2026-08-01T11:06:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/defcon-s-new-badge-is-a-security-key-you-can-see-inside.png": {
+      "buffer_due_at_utc": "2026-08-01T11:18:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6dd3412bbc9e058731e6fc",
+      "caption_file": "output/2026-08-01/defcon-s-new-badge-is-a-security-key-you-can-see-inside.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T11:18:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6dd3412bbc9e058731e6fc",
+          "published_at_utc": "2026-08-01T11:06:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/defcon-s-new-badge-is-a-security-key-you-can-see-inside.png",
+      "metadata_file": "output/2026-08-01/defcon-s-new-badge-is-a-security-key-you-can-see-inside.json",
+      "published_at_utc": "2026-08-01T11:06:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/dell-coupon-codes-20-off-for-august-2026.png": {
       "buffer_due_at_utc": "2026-08-01T07:51:19.000Z",
       "buffer_mode": "customScheduled",
