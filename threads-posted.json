@@ -13384,12 +13384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/can-republicans-actually-send-anthony-fauci-to-jail.png": {
-      "buffer_due_at_utc": "2026-08-01T03:59:15.000Z",
+      "buffer_due_at_utc": "2026-08-01T04:01:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d6cf5ebe00edff55feeda",
+      "buffer_post_id": "6a6d6cfa2368e968d93e17db",
       "caption_file": "output/2026-07-31/can-republicans-actually-send-anthony-fauci-to-jail.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T04:01:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d6cfa2368e968d93e17db",
+          "published_at_utc": "2026-08-01T03:50:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T03:59:15.000Z",
           "buffer_mode": "customScheduled",
@@ -13399,7 +13405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/can-republicans-actually-send-anthony-fauci-to-jail.png",
       "metadata_file": "output/2026-07-31/can-republicans-actually-send-anthony-fauci-to-jail.json",
-      "published_at_utc": "2026-08-01T03:50:13Z",
+      "published_at_utc": "2026-08-01T03:50:18Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/china-could-supply-ev-manufacturing-boom-with-recycled-evs.png": {
