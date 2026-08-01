@@ -15908,6 +15908,25 @@
       "published_at_utc": "2026-07-31T20:39:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/the-download-montana-s-new-experimental-drug-rules.png": {
+      "buffer_due_at_utc": "2026-08-02T00:27:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e83322bbc9e05873b484c",
+      "caption_file": "output/2026-07-31/the-download-montana-s-new-experimental-drug-rules.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T00:27:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e83322bbc9e05873b484c",
+          "published_at_utc": "2026-08-01T23:37:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/the-download-montana-s-new-experimental-drug-rules.png",
+      "metadata_file": "output/2026-07-31/the-download-montana-s-new-experimental-drug-rules.json",
+      "published_at_utc": "2026-08-01T23:37:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/the-fcc-just-banned-most-robot-vacuums-here-s-what-that-means-cnet.png": {
       "buffer_due_at_utc": "2026-08-01T20:35:26.000Z",
       "buffer_mode": "customScheduled",
