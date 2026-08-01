@@ -14634,12 +14634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-.png": {
-      "buffer_due_at_utc": "2026-08-01T21:14:59.000Z",
+      "buffer_due_at_utc": "2026-08-01T21:16:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e60cfb738722ef881591a",
+      "buffer_post_id": "6a6e60d3f93d764d9391ab29",
       "caption_file": "output/2026-07-31/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T21:16:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e60d3f93d764d9391ab29",
+          "published_at_utc": "2026-08-01T21:10:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T21:14:59.000Z",
           "buffer_mode": "customScheduled",
@@ -14649,7 +14655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-.png",
       "metadata_file": "output/2026-07-31/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-.json",
-      "published_at_utc": "2026-08-01T21:10:39Z",
+      "published_at_utc": "2026-08-01T21:10:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/openai-has-reportedly-found-that-more-of-its-ai-agents-went-rogue.png": {
