@@ -5281,6 +5281,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T05:08:10Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/abc-demands-fcc-drop-its-punitive-early-license-renewal-of-its-station.png": {
+      "buffer_post_id": "6a6d7f6e2368e968d93ecc6a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/abc-demands-fcc-drop-its-punitive-early-license-renewal-of-its-station.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/abc-demands-fcc-drop-its-punitive-early-license-renewal-of-its-station.png",
+      "metadata_file": "output/2026-07-30/abc-demands-fcc-drop-its-punitive-early-license-renewal-of-its-station.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T05:09:10Z",
+      "publisher": "buffer"
     }
   }
 }
