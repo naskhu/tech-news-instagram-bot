@@ -5105,6 +5105,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T03:53:26Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.png": {
+      "buffer_post_id": "6a6d6faff93d764d9385ff13",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.png",
+      "metadata_file": "output/2026-07-29/what-s-the-catch-with-the-apple-upgrade-program.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T04:01:59Z",
+      "publisher": "buffer"
     }
   }
 }
