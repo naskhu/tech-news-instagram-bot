@@ -15134,12 +15134,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/sony-s-plan-to-kill-physical-playstation-discs-faces-gamer-backlash-cn.png": {
-      "buffer_due_at_utc": "2026-08-01T19:58:51.000Z",
+      "buffer_due_at_utc": "2026-08-01T20:00:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e4ccef93d764d9390d14a",
+      "buffer_post_id": "6a6e4cd2c54cb283664ce5a3",
       "caption_file": "output/2026-07-31/sony-s-plan-to-kill-physical-playstation-discs-faces-gamer-backlash-cn.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T20:00:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4cd2c54cb283664ce5a3",
+          "published_at_utc": "2026-08-01T19:45:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T19:58:51.000Z",
           "buffer_mode": "customScheduled",
@@ -15149,7 +15155,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/sony-s-plan-to-kill-physical-playstation-discs-faces-gamer-backlash-cn.png",
       "metadata_file": "output/2026-07-31/sony-s-plan-to-kill-physical-playstation-discs-faces-gamer-backlash-cn.json",
-      "published_at_utc": "2026-08-01T19:45:18Z",
+      "published_at_utc": "2026-08-01T19:45:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/sony-says-don-t-worry-we-ve-got-plenty-of-ram-for-playstation.png": {
