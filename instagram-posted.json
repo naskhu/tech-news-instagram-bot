@@ -5693,6 +5693,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T10:31:38Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.png": {
+      "buffer_post_id": "6a6dd2cfe4816623867e1623",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.png",
+      "metadata_file": "output/2026-07-30/i-got-a-free-meal-from-a-private-chef-who-filmed-it-all-to-train-robot.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T11:04:54Z",
+      "publisher": "buffer"
     }
   }
 }
