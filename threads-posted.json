@@ -9358,6 +9358,25 @@
       "published_at_utc": "2026-07-29T10:18:54Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-29/instagram-and-facebook-ads-for-ai-nudify-apps-tied-to-meta-ad-partner-.png": {
+      "buffer_due_at_utc": "2026-08-01T19:40:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e4b572bbc9e058738541a",
+      "caption_file": "output/2026-07-29/instagram-and-facebook-ads-for-ai-nudify-apps-tied-to-meta-ad-partner-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T19:40:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4b572bbc9e058738541a",
+          "published_at_utc": "2026-08-01T19:39:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/instagram-and-facebook-ads-for-ai-nudify-apps-tied-to-meta-ad-partner-.png",
+      "metadata_file": "output/2026-07-29/instagram-and-facebook-ads-for-ai-nudify-apps-tied-to-meta-ad-partner-.json",
+      "published_at_utc": "2026-08-01T19:39:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-29/it-looks-like-nothing-can-dent-maga-s-support-for-ice.png": {
       "buffer_due_at_utc": "2026-07-29T23:58:59.000Z",
       "buffer_mode": "customScheduled",
