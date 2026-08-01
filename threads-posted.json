@@ -15334,12 +15334,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/peacock-promo-codes-40-off-august-2026.png": {
-      "buffer_due_at_utc": "2026-08-01T07:12:36.000Z",
+      "buffer_due_at_utc": "2026-08-01T07:14:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d9563ebe00edff561a604",
+      "buffer_post_id": "6a6d9568ebe00edff561a628",
       "caption_file": "output/2026-08-01/peacock-promo-codes-40-off-august-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T07:14:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d9568ebe00edff561a628",
+          "published_at_utc": "2026-08-01T06:42:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T07:12:36.000Z",
           "buffer_mode": "customScheduled",
@@ -15349,7 +15355,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/peacock-promo-codes-40-off-august-2026.png",
       "metadata_file": "output/2026-08-01/peacock-promo-codes-40-off-august-2026.json",
-      "published_at_utc": "2026-08-01T06:42:44Z",
+      "published_at_utc": "2026-08-01T06:42:48Z",
       "publisher": "buffer_threads"
     }
   }
