@@ -16084,12 +16084,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/as-reddit-stock-falls-ceo-questions-value-of-google-s-ai-overviews.png": {
-      "buffer_due_at_utc": "2026-08-01T20:48:24.000Z",
+      "buffer_due_at_utc": "2026-08-01T20:50:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e58261b4d436cc30b1cc7",
+      "buffer_post_id": "6a6e582bf93d764d93913d1d",
       "caption_file": "output/2026-08-01/as-reddit-stock-falls-ceo-questions-value-of-google-s-ai-overviews.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T20:50:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e582bf93d764d93913d1d",
+          "published_at_utc": "2026-08-01T20:33:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T20:48:24.000Z",
           "buffer_mode": "customScheduled",
@@ -16099,7 +16105,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/as-reddit-stock-falls-ceo-questions-value-of-google-s-ai-overviews.png",
       "metadata_file": "output/2026-08-01/as-reddit-stock-falls-ceo-questions-value-of-google-s-ai-overviews.json",
-      "published_at_utc": "2026-08-01T20:33:42Z",
+      "published_at_utc": "2026-08-01T20:33:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/astronomers-have-detected-an-exomoon-for-the-first-time.png": {
