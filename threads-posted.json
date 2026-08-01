@@ -14134,12 +14134,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/google-quickly-rolls-back-a-feature-that-could-make-deepfake-satellite.png": {
-      "buffer_due_at_utc": "2026-08-01T19:45:41.000Z",
+      "buffer_due_at_utc": "2026-08-01T19:47:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e4ab21b4d436cc30a99e3",
+      "buffer_post_id": "6a6e4ab8b738722ef880609a",
       "caption_file": "output/2026-07-31/google-quickly-rolls-back-a-feature-that-could-make-deepfake-satellite.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T19:47:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4ab8b738722ef880609a",
+          "published_at_utc": "2026-08-01T19:36:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T19:45:41.000Z",
           "buffer_mode": "customScheduled",
@@ -14149,7 +14155,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/google-quickly-rolls-back-a-feature-that-could-make-deepfake-satellite.png",
       "metadata_file": "output/2026-07-31/google-quickly-rolls-back-a-feature-that-could-make-deepfake-satellite.json",
-      "published_at_utc": "2026-08-01T19:36:18Z",
+      "published_at_utc": "2026-08-01T19:36:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/gym-tasks-vs-work-tasks.png": {
