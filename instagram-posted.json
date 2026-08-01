@@ -5531,6 +5531,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T08:03:03Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-ad.png": {
+      "buffer_post_id": "6a6da83ae4816623867bb9fd",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-ad.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-ad.png",
+      "metadata_file": "output/2026-07-30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-ad.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T08:03:13Z",
+      "publisher": "buffer"
     }
   }
 }
