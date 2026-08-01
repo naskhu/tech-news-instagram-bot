@@ -12508,6 +12508,25 @@
       "published_at_utc": "2026-07-31T03:54:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/razer-huntsman-v3-he-review-jumping-on-the-bandwagon.png": {
+      "buffer_due_at_utc": "2026-08-01T04:46:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d78aaebe00edff5605bc4",
+      "caption_file": "output/2026-07-30/razer-huntsman-v3-he-review-jumping-on-the-bandwagon.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T04:46:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d78aaebe00edff5605bc4",
+          "published_at_utc": "2026-08-01T04:40:10Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/razer-huntsman-v3-he-review-jumping-on-the-bandwagon.png",
+      "metadata_file": "output/2026-07-30/razer-huntsman-v3-he-review-jumping-on-the-bandwagon.json",
+      "published_at_utc": "2026-08-01T04:40:10Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/razer-s-new-keyboards-drop-the-price-on-powerful-gaming-features.png": {
       "buffer_due_at_utc": "2026-07-31T00:36:33.000Z",
       "buffer_mode": "customScheduled",
