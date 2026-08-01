@@ -12934,12 +12934,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.png": {
-      "buffer_due_at_utc": "2026-08-01T04:51:44.000Z",
+      "buffer_due_at_utc": "2026-08-01T04:53:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d78b52368e968d93e89ad",
+      "buffer_post_id": "6a6d78baf93d764d93864495",
       "caption_file": "output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T04:53:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d78baf93d764d93864495",
+          "published_at_utc": "2026-08-01T04:40:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T04:51:44.000Z",
           "buffer_mode": "customScheduled",
@@ -12949,7 +12955,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.png",
       "metadata_file": "output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.json",
-      "published_at_utc": "2026-08-01T04:40:21Z",
+      "published_at_utc": "2026-08-01T04:40:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/the-senate-takes-another-crack-at-passing-the-kids-online-safety-act.png": {
