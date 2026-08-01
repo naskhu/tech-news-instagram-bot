@@ -5171,6 +5171,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T04:29:42Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/x-says-australia-s-under-16-social-media-ban-risks-interfering-with-fo.png": {
+      "buffer_post_id": "6a6d765ae48166238679955f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/x-says-australia-s-under-16-social-media-ban-risks-interfering-with-fo.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/x-says-australia-s-under-16-social-media-ban-risks-interfering-with-fo.png",
+      "metadata_file": "output/2026-07-29/x-says-australia-s-under-16-social-media-ban-risks-interfering-with-fo.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T04:30:27Z",
+      "publisher": "buffer"
     }
   }
 }
