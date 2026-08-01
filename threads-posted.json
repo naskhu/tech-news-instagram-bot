@@ -15534,12 +15534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/china-s-ev-market-is-booming-there-s-just-one-problem.png": {
-      "buffer_due_at_utc": "2026-08-01T11:12:52.000Z",
+      "buffer_due_at_utc": "2026-08-01T11:14:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6dd337ef3b8a12e1274e12",
+      "buffer_post_id": "6a6dd33c1c0f8361b8f2b6a5",
       "caption_file": "output/2026-08-01/china-s-ev-market-is-booming-there-s-just-one-problem.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T11:14:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6dd33c1c0f8361b8f2b6a5",
+          "published_at_utc": "2026-08-01T11:06:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T11:12:52.000Z",
           "buffer_mode": "customScheduled",
@@ -15549,7 +15555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/china-s-ev-market-is-booming-there-s-just-one-problem.png",
       "metadata_file": "output/2026-08-01/china-s-ev-market-is-booming-there-s-just-one-problem.json",
-      "published_at_utc": "2026-08-01T11:06:32Z",
+      "published_at_utc": "2026-08-01T11:06:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/dell-coupon-codes-20-off-for-august-2026.png": {
