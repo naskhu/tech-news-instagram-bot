@@ -5671,6 +5671,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T10:16:02Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/govee-s-portable-smart-lamp-is-down-to-one-of-its-best-prices-to-date.png": {
+      "buffer_post_id": "6a6dc988f93d764d9389ffc2",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/govee-s-portable-smart-lamp-is-down-to-one-of-its-best-prices-to-date.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/govee-s-portable-smart-lamp-is-down-to-one-of-its-best-prices-to-date.png",
+      "metadata_file": "output/2026-07-30/govee-s-portable-smart-lamp-is-down-to-one-of-its-best-prices-to-date.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T10:25:20Z",
+      "publisher": "buffer"
     }
   }
 }
