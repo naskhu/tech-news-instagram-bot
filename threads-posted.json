@@ -12933,6 +12933,25 @@
       "published_at_utc": "2026-07-30T21:20:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.png": {
+      "buffer_due_at_utc": "2026-08-01T04:51:44.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6d78b52368e968d93e89ad",
+      "caption_file": "output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T04:51:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d78b52368e968d93e89ad",
+          "published_at_utc": "2026-08-01T04:40:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.png",
+      "metadata_file": "output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.json",
+      "published_at_utc": "2026-08-01T04:40:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/the-senate-takes-another-crack-at-passing-the-kids-online-safety-act.png": {
       "buffer_due_at_utc": "2026-07-30T22:01:11.000Z",
       "buffer_mode": "customScheduled",
