@@ -1,0 +1,22 @@
+{
+  "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+  "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. Initial activity started with trojanizing the typo-crypto package in March 2025, which Amazon believes served as a testing ground.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers",
+  "published_utc": "2026-07-30T18:13:24+00:00",
+  "date_source": "rss",
+  "generated_utc": "2026-08-01T23:10:54.891366+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2023/11/10/North_Korean_hackers_headpic.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-07-30/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hack.png",
+  "caption": "output/2026-07-30/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hack.txt"
+}
