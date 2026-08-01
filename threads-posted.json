@@ -13384,12 +13384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/chinese-ai-researchers-are-finding-their-voice-on-x.png": {
-      "buffer_due_at_utc": "2026-08-01T01:50:37.000Z",
+      "buffer_due_at_utc": "2026-08-01T01:52:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d48bd4c4e74ba2a303310",
+      "buffer_post_id": "6a6d48c32368e968d93c9a11",
       "caption_file": "output/2026-07-31/chinese-ai-researchers-are-finding-their-voice-on-x.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T01:52:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d48c32368e968d93c9a11",
+          "published_at_utc": "2026-08-01T01:15:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T01:50:37.000Z",
           "buffer_mode": "customScheduled",
@@ -13399,7 +13405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/chinese-ai-researchers-are-finding-their-voice-on-x.png",
       "metadata_file": "output/2026-07-31/chinese-ai-researchers-are-finding-their-voice-on-x.json",
-      "published_at_utc": "2026-08-01T01:15:41Z",
+      "published_at_utc": "2026-08-01T01:15:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/claude-published-malicious-code-to-the-internet-and-attacked-3-real-co.png": {
