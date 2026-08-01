@@ -17432,6 +17432,25 @@
       "metadata_file": "output/2026-08-01/valvoline-coupons-and-promo-codes-for-august-2026.json",
       "published_at_utc": "2026-08-01T06:42:58Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-01/what-s-the-best-handheld-mini-fan.png": {
+      "buffer_due_at_utc": "2026-08-01T22:45:02.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e75cd1b4d436cc30cac44",
+      "caption_file": "output/2026-08-01/what-s-the-best-handheld-mini-fan.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T22:45:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e75cd1b4d436cc30cac44",
+          "published_at_utc": "2026-08-01T22:40:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/what-s-the-best-handheld-mini-fan.png",
+      "metadata_file": "output/2026-08-01/what-s-the-best-handheld-mini-fan.json",
+      "published_at_utc": "2026-08-01T22:40:14Z",
+      "publisher": "buffer_threads"
     }
   }
 }
