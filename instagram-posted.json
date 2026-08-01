@@ -5368,6 +5368,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T06:44:18Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-m.png": {
+      "buffer_post_id": "6a6d97c44c4e74ba2a339dda",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-m.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-m.png",
+      "metadata_file": "output/2026-07-30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-m.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T06:53:02Z",
+      "publisher": "buffer"
     }
   }
 }
