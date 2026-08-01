@@ -5271,6 +5271,17 @@
       "published_at_utc": "2026-08-01T09:40:10Z",
       "publisher": "buffer"
     },
+    "output/2026-07-30/a-civilian-plane-crashed-in-new-mexico-was-the-military-s-tech-to-blam.png": {
+      "buffer_post_id": "6a6dc0b74385b490a3708d5f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/a-civilian-plane-crashed-in-new-mexico-was-the-military-s-tech-to-blam.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/a-civilian-plane-crashed-in-new-mexico-was-the-military-s-tech-to-blam.png",
+      "metadata_file": "output/2026-07-30/a-civilian-plane-crashed-in-new-mexico-was-the-military-s-tech-to-blam.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T09:47:43Z",
+      "publisher": "buffer"
+    },
     "output/2026-07-30/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran.png": {
       "buffer_post_id": "6a6d7ef9ef3b8a12e1230fe1",
       "buffer_status": "error",
