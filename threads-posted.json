@@ -17607,6 +17607,25 @@
       "metadata_file": "output/2026-08-01/you-could-be-taking-way-better-photos-on-your-phone.json",
       "published_at_utc": "2026-08-01T23:12:34Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-01/youtuber-hank-green-says-his-ai-usage-is-not-healthy.png": {
+      "buffer_due_at_utc": "2026-08-02T00:04:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e7d66c54cb283664f6069",
+      "caption_file": "output/2026-08-01/youtuber-hank-green-says-his-ai-usage-is-not-healthy.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T00:04:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e7d66c54cb283664f6069",
+          "published_at_utc": "2026-08-01T23:12:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/youtuber-hank-green-says-his-ai-usage-is-not-healthy.png",
+      "metadata_file": "output/2026-08-01/youtuber-hank-green-says-his-ai-usage-is-not-healthy.json",
+      "published_at_utc": "2026-08-01T23:12:38Z",
+      "publisher": "buffer_threads"
     }
   }
 }
