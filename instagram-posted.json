@@ -5726,6 +5726,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T11:20:56Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/investors-love-ai-as-long-as-you-re-a-cloud-host.png": {
+      "buffer_post_id": "6a6dd7c21c0f8361b8f2e415",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/investors-love-ai-as-long-as-you-re-a-cloud-host.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/investors-love-ai-as-long-as-you-re-a-cloud-host.png",
+      "metadata_file": "output/2026-07-30/investors-love-ai-as-long-as-you-re-a-cloud-host.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T11:26:01Z",
+      "publisher": "buffer"
     }
   }
 }
