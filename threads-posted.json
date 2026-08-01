@@ -13859,12 +13859,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/d-d-rolls-a-natural-20-on-nerd-collabs-announcing-world-of-warcraft-an.png": {
-      "buffer_due_at_utc": "2026-08-01T19:44:41.000Z",
+      "buffer_due_at_utc": "2026-08-01T19:46:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e4aa7b738722ef8805f89",
+      "buffer_post_id": "6a6e4aacf93d764d9390bd80",
       "caption_file": "output/2026-07-31/d-d-rolls-a-natural-20-on-nerd-collabs-announcing-world-of-warcraft-an.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T19:46:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4aacf93d764d9390bd80",
+          "published_at_utc": "2026-08-01T19:36:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T19:44:41.000Z",
           "buffer_mode": "customScheduled",
@@ -13874,7 +13880,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/d-d-rolls-a-natural-20-on-nerd-collabs-announcing-world-of-warcraft-an.png",
       "metadata_file": "output/2026-07-31/d-d-rolls-a-natural-20-on-nerd-collabs-announcing-world-of-warcraft-an.json",
-      "published_at_utc": "2026-08-01T19:36:07Z",
+      "published_at_utc": "2026-08-01T19:36:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/doctors-took-a-look-at-man-s-painful-shoulder-they-found-the-joint-was.png": {
