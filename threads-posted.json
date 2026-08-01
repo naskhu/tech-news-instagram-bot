@@ -15909,12 +15909,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/youtube-tv-and-directv-subscribers-could-be-eligible-for-a-disney-sett.png": {
-      "buffer_due_at_utc": "2026-08-01T20:37:05.000Z",
+      "buffer_due_at_utc": "2026-08-01T20:39:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e57f3c54cb283664d5445",
+      "buffer_post_id": "6a6e57f81c0f8361b8f9d859",
       "caption_file": "output/2026-07-31/youtube-tv-and-directv-subscribers-could-be-eligible-for-a-disney-sett.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T20:39:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e57f81c0f8361b8f9d859",
+          "published_at_utc": "2026-08-01T20:32:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T20:37:05.000Z",
           "buffer_mode": "customScheduled",
@@ -15924,7 +15930,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/youtube-tv-and-directv-subscribers-could-be-eligible-for-a-disney-sett.png",
       "metadata_file": "output/2026-07-31/youtube-tv-and-directv-subscribers-could-be-eligible-for-a-disney-sett.json",
-      "published_at_utc": "2026-08-01T20:32:51Z",
+      "published_at_utc": "2026-08-01T20:32:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/30-off-canon-promo-codes-august-2026.png": {
