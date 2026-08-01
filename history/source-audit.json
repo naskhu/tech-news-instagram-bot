@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-01T11:04:31.821753+00:00",
+  "run_utc": "2026-08-01T11:34:28.942602+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-29T11:04:31.821927+00:00",
-  "eligible_story_count": 454,
+  "cutoff_utc": "2026-07-29T11:34:28.942749+00:00",
+  "eligible_story_count": 452,
   "sources": [
     {
       "source": "TechCrunch",
@@ -83,8 +83,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 2,
-      "already_processed": 28,
+      "eligible_new": 1,
+      "already_processed": 29,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 1,
       "older_than_window": 5,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -390,12 +390,12 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 87,
+      "eligible_new": 88,
       "already_processed": 10,
       "older_than_window": 7,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 5
       }
     },
     {
@@ -459,9 +459,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 7,
-      "already_processed": 53,
-      "older_than_window": 7,
+      "eligible_new": 5,
+      "already_processed": 54,
+      "older_than_window": 8,
       "metadata_errors": {}
     },
     {
@@ -497,7 +497,7 @@
       "page_articles": 39,
       "eligible_new": 35,
       "already_processed": 2,
-      "older_than_window": 18,
+      "older_than_window": 19,
       "metadata_errors": {
         "http_404": 1
       }
@@ -564,12 +564,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 5,
+      "page_articles": 7,
       "eligible_new": 15,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 21
+        "http_429": 19
       }
     },
     {
