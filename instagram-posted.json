@@ -5094,6 +5094,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-07-31T18:59:44Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-29/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.png": {
+      "buffer_post_id": "6a6d6daeebe00edff55ff17c",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-29/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.png",
+      "metadata_file": "output/2026-07-29/what-happens-when-you-put-ai-to-work-deciphering-lost-languages.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T03:53:26Z",
+      "publisher": "buffer"
     }
   }
 }
