@@ -10909,12 +10909,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/7-best-shower-filters-of-2026-are-wired-tested-and-approved.png": {
-      "buffer_due_at_utc": "2026-08-01T09:42:48.000Z",
+      "buffer_due_at_utc": "2026-08-01T09:44:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6dbb892bbc9e058730b1ea",
+      "buffer_post_id": "6a6dbb8e4c4e74ba2a3567c5",
       "caption_file": "output/2026-07-30/7-best-shower-filters-of-2026-are-wired-tested-and-approved.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T09:44:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6dbb8e4c4e74ba2a3567c5",
+          "published_at_utc": "2026-08-01T09:25:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T09:42:48.000Z",
           "buffer_mode": "customScheduled",
@@ -10924,7 +10930,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/7-best-shower-filters-of-2026-are-wired-tested-and-approved.png",
       "metadata_file": "output/2026-07-30/7-best-shower-filters-of-2026-are-wired-tested-and-approved.json",
-      "published_at_utc": "2026-08-01T09:25:29Z",
+      "published_at_utc": "2026-08-01T09:25:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran.png": {
