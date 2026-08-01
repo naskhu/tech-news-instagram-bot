@@ -14934,12 +14934,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/openai-says-its-new-gpt-5-6-models-are-becoming-more-cost-efficient.png": {
-      "buffer_due_at_utc": "2026-08-01T22:57:48.000Z",
+      "buffer_due_at_utc": "2026-08-01T22:59:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e74bdf93d764d9392c5b6",
+      "buffer_post_id": "6a6e74c2f93d764d9392c62f",
       "caption_file": "output/2026-07-31/openai-says-its-new-gpt-5-6-models-are-becoming-more-cost-efficient.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T22:59:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e74c2f93d764d9392c62f",
+          "published_at_utc": "2026-08-01T22:35:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T22:57:48.000Z",
           "buffer_mode": "customScheduled",
@@ -14949,7 +14955,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/openai-says-its-new-gpt-5-6-models-are-becoming-more-cost-efficient.png",
       "metadata_file": "output/2026-07-31/openai-says-its-new-gpt-5-6-models-are-becoming-more-cost-efficient.json",
-      "published_at_utc": "2026-08-01T22:35:41Z",
+      "published_at_utc": "2026-08-01T22:35:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/pathogenic-review-damn-it-feels-good-to-be-a-virus.png": {
