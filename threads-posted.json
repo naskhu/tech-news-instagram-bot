@@ -13634,12 +13634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/best-dyson-vacuums-2026-v15-detect-gen5detect-pencilvac.png": {
-      "buffer_due_at_utc": "2026-08-01T19:39:49.000Z",
+      "buffer_due_at_utc": "2026-08-01T19:41:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e4a7db738722ef8805e02",
+      "buffer_post_id": "6a6e4a821c0f8361b8f9523d",
       "caption_file": "output/2026-07-31/best-dyson-vacuums-2026-v15-detect-gen5detect-pencilvac.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T19:41:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4a821c0f8361b8f9523d",
+          "published_at_utc": "2026-08-01T19:35:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T19:39:49.000Z",
           "buffer_mode": "customScheduled",
@@ -13649,7 +13655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/best-dyson-vacuums-2026-v15-detect-gen5detect-pencilvac.png",
       "metadata_file": "output/2026-07-31/best-dyson-vacuums-2026-v15-detect-gen5detect-pencilvac.json",
-      "published_at_utc": "2026-08-01T19:35:25Z",
+      "published_at_utc": "2026-08-01T19:35:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/can-republicans-actually-send-anthony-fauci-to-jail.png": {
