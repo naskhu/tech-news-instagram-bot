@@ -5314,6 +5314,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T05:19:21Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/apple-s-iphone-and-mac-sales-keep-growing-despite-ram-shortages.png": {
+      "buffer_post_id": "6a6d83aaebe00edff560bbb3",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/apple-s-iphone-and-mac-sales-keep-growing-despite-ram-shortages.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/apple-s-iphone-and-mac-sales-keep-growing-despite-ram-shortages.png",
+      "metadata_file": "output/2026-07-30/apple-s-iphone-and-mac-sales-keep-growing-despite-ram-shortages.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T05:27:14Z",
+      "publisher": "buffer"
     }
   }
 }
