@@ -13159,12 +13159,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/ai-scammers-outperform-humans-when-it-comes-to-building-trust.png": {
-      "buffer_due_at_utc": "2026-08-01T01:47:55.000Z",
+      "buffer_due_at_utc": "2026-08-01T01:49:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6d48b32368e968d93c9968",
+      "buffer_post_id": "6a6d48b84c4e74ba2a3032dd",
       "caption_file": "output/2026-07-31/ai-scammers-outperform-humans-when-it-comes-to-building-trust.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T01:49:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6d48b84c4e74ba2a3032dd",
+          "published_at_utc": "2026-08-01T01:15:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T01:47:55.000Z",
           "buffer_mode": "customScheduled",
@@ -13174,7 +13180,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/ai-scammers-outperform-humans-when-it-comes-to-building-trust.png",
       "metadata_file": "output/2026-07-31/ai-scammers-outperform-humans-when-it-comes-to-building-trust.json",
-      "published_at_utc": "2026-08-01T01:15:31Z",
+      "published_at_utc": "2026-08-01T01:15:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/amazon-luna-now-has-a-new-batman-game.png": {
