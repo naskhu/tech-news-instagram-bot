@@ -13633,6 +13633,25 @@
       "published_at_utc": "2026-07-31T18:47:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/best-dyson-vacuums-2026-v15-detect-gen5detect-pencilvac.png": {
+      "buffer_due_at_utc": "2026-08-01T19:39:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e4a7db738722ef8805e02",
+      "caption_file": "output/2026-07-31/best-dyson-vacuums-2026-v15-detect-gen5detect-pencilvac.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T19:39:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4a7db738722ef8805e02",
+          "published_at_utc": "2026-08-01T19:35:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/best-dyson-vacuums-2026-v15-detect-gen5detect-pencilvac.png",
+      "metadata_file": "output/2026-07-31/best-dyson-vacuums-2026-v15-detect-gen5detect-pencilvac.json",
+      "published_at_utc": "2026-08-01T19:35:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/can-republicans-actually-send-anthony-fauci-to-jail.png": {
       "buffer_due_at_utc": "2026-08-01T04:01:15.000Z",
       "buffer_mode": "customScheduled",
