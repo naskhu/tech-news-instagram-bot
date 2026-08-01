@@ -13558,6 +13558,25 @@
       "published_at_utc": "2026-07-31T02:48:04Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/apple-s-ceo-hints-that-heavy-use-of-siri-ai-could-cost-you-cnet.png": {
+      "buffer_due_at_utc": "2026-08-01T19:38:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e4a722bbc9e05873846cf",
+      "caption_file": "output/2026-07-31/apple-s-ceo-hints-that-heavy-use-of-siri-ai-could-cost-you-cnet.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-01T19:38:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4a722bbc9e05873846cf",
+          "published_at_utc": "2026-08-01T19:35:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/apple-s-ceo-hints-that-heavy-use-of-siri-ai-could-cost-you-cnet.png",
+      "metadata_file": "output/2026-07-31/apple-s-ceo-hints-that-heavy-use-of-siri-ai-could-cost-you-cnet.json",
+      "published_at_utc": "2026-08-01T19:35:14Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/apple-s-new-airtags-are-back-down-to-their-best-price.png": {
       "buffer_due_at_utc": "2026-07-31T20:23:54.000Z",
       "buffer_mode": "customScheduled",
