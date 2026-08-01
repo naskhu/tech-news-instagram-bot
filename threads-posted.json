@@ -14709,12 +14709,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/prices-are-going-up-for-more-at-t-legacy-plans-starting-tomorrow-cnet.png": {
-      "buffer_due_at_utc": "2026-08-01T19:52:17.000Z",
+      "buffer_due_at_utc": "2026-08-01T19:54:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e4cbbb738722ef880745a",
+      "buffer_post_id": "6a6e4cc01b4d436cc30aaf30",
       "caption_file": "output/2026-07-31/prices-are-going-up-for-more-at-t-legacy-plans-starting-tomorrow-cnet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T19:54:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4cc01b4d436cc30aaf30",
+          "published_at_utc": "2026-08-01T19:45:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T19:52:17.000Z",
           "buffer_mode": "customScheduled",
@@ -14724,7 +14730,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/prices-are-going-up-for-more-at-t-legacy-plans-starting-tomorrow-cnet.png",
       "metadata_file": "output/2026-07-31/prices-are-going-up-for-more-at-t-legacy-plans-starting-tomorrow-cnet.json",
-      "published_at_utc": "2026-08-01T19:44:59Z",
+      "published_at_utc": "2026-08-01T19:45:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts-tec.png": {
