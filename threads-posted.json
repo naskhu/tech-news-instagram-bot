@@ -14159,12 +14159,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware.png": {
-      "buffer_due_at_utc": "2026-08-01T22:53:35.000Z",
+      "buffer_due_at_utc": "2026-08-01T22:55:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e74a898d2f31dff02e65a",
+      "buffer_post_id": "6a6e74adaacd241cfda1890c",
       "caption_file": "output/2026-07-31/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T22:55:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e74adaacd241cfda1890c",
+          "published_at_utc": "2026-08-01T22:35:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T22:53:35.000Z",
           "buffer_mode": "customScheduled",
@@ -14174,7 +14180,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware.png",
       "metadata_file": "output/2026-07-31/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware.json",
-      "published_at_utc": "2026-08-01T22:35:20Z",
+      "published_at_utc": "2026-08-01T22:35:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/exclusive-rivian-spinoff-also-to-start-delivering-e-bikes-after-months.png": {
