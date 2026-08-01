@@ -14384,12 +14384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/i-used-every-ai-cheating-app-and-detector-and-came-to-one-conclusion-c.png": {
-      "buffer_due_at_utc": "2026-08-01T19:47:41.000Z",
+      "buffer_due_at_utc": "2026-08-01T19:50:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e4ac7b738722ef8806155",
+      "buffer_post_id": "6a6e4cb6b738722ef8807436",
       "caption_file": "output/2026-07-31/i-used-every-ai-cheating-app-and-detector-and-came-to-one-conclusion-c.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T19:50:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4cb6b738722ef8807436",
+          "published_at_utc": "2026-08-01T19:44:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T19:47:41.000Z",
           "buffer_mode": "customScheduled",
@@ -14399,7 +14405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/i-used-every-ai-cheating-app-and-detector-and-came-to-one-conclusion-c.png",
       "metadata_file": "output/2026-07-31/i-used-every-ai-cheating-app-and-detector-and-came-to-one-conclusion-c.json",
-      "published_at_utc": "2026-08-01T19:36:39Z",
+      "published_at_utc": "2026-08-01T19:44:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/i-ve-been-running-the-new-safari-on-ios-27-and-my-thumbs-are-already-h.png": {
