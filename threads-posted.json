@@ -16934,12 +16934,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/the-alienware-15-gaming-laptop-is-good-enough-for-price-and-performanc.png": {
-      "buffer_due_at_utc": "2026-08-01T21:46:15.000Z",
+      "buffer_due_at_utc": "2026-08-01T21:43:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e66ddc54cb283664e0c97",
+      "buffer_post_id": "6a6e67582bbc9e058739976f",
       "caption_file": "output/2026-08-01/the-alienware-15-gaming-laptop-is-good-enough-for-price-and-performanc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T21:43:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e67582bbc9e058739976f",
+          "published_at_utc": "2026-08-01T21:38:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T21:46:15.000Z",
           "buffer_mode": "customScheduled",
@@ -16949,7 +16955,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/the-alienware-15-gaming-laptop-is-good-enough-for-price-and-performanc.png",
       "metadata_file": "output/2026-08-01/the-alienware-15-gaming-laptop-is-good-enough-for-price-and-performanc.json",
-      "published_at_utc": "2026-08-01T21:36:29Z",
+      "published_at_utc": "2026-08-01T21:38:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/valvoline-coupons-and-promo-codes-for-august-2026.png": {
