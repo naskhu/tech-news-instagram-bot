@@ -9684,12 +9684,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/microsoft-says-workers-are-now-using-copilot-ai-as-much-as-teams-and-o.png": {
-      "buffer_due_at_utc": "2026-08-01T19:40:47.000Z",
+      "buffer_due_at_utc": "2026-08-01T19:42:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e4b61b738722ef8806859",
+      "buffer_post_id": "6a6e4b652bbc9e058738554f",
       "caption_file": "output/2026-07-29/microsoft-says-workers-are-now-using-copilot-ai-as-much-as-teams-and-o.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-01T19:42:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e4b652bbc9e058738554f",
+          "published_at_utc": "2026-08-01T19:39:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-01T19:40:47.000Z",
           "buffer_mode": "customScheduled",
@@ -9699,7 +9705,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-29/microsoft-says-workers-are-now-using-copilot-ai-as-much-as-teams-and-o.png",
       "metadata_file": "output/2026-07-29/microsoft-says-workers-are-now-using-copilot-ai-as-much-as-teams-and-o.json",
-      "published_at_utc": "2026-08-01T19:39:13Z",
+      "published_at_utc": "2026-08-01T19:39:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-29/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-co.png": {
