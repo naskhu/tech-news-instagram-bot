@@ -5660,6 +5660,17 @@
       "metadata_file": "output/2026-07-30/google-s-personal-ai-agent-can-browse-in-chrome-for-you.json",
       "published_at_utc": "2026-08-01T10:02:38Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-y.png": {
+      "buffer_post_id": "6a6dc75af93d764d9389de7a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-y.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-y.png",
+      "metadata_file": "output/2026-07-30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-y.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-01T10:16:02Z",
+      "publisher": "buffer"
     }
   }
 }
