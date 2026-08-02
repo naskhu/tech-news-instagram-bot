@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-02T19:32:52.781003+00:00",
+  "run_utc": "2026-08-02T19:50:43.672939+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-30T19:32:52.781144+00:00",
-  "eligible_story_count": 256,
+  "cutoff_utc": "2026-07-30T19:50:43.673128+00:00",
+  "eligible_story_count": 253,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 1,
       "older_than_window": 12,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 14,
       "already_processed": 40,
-      "older_than_window": 62,
+      "older_than_window": 61,
       "metadata_errors": {}
     },
     {
@@ -377,13 +377,13 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 21,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 29,
           "error": ""
         }
       ],
@@ -501,8 +501,8 @@
       "rss_candidates": 35,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 11,
-      "already_processed": 22,
+      "eligible_new": 9,
+      "already_processed": 24,
       "older_than_window": 22,
       "metadata_errors": {}
     },
@@ -535,8 +535,8 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 1,
-      "already_processed": 6,
+      "eligible_new": 0,
+      "already_processed": 7,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -568,13 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 6,
+      "page_articles": 3,
       "eligible_new": 0,
       "already_processed": 15,
-      "older_than_window": 1,
+      "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 18
+        "http_429": 22
       }
     },
     {
