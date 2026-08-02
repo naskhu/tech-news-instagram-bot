@@ -5846,6 +5846,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T05:04:00Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain.png": {
+      "buffer_post_id": "6a6ed08f1b4d436cc310747f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain.png",
+      "metadata_file": "output/2026-07-30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T05:07:36Z",
+      "publisher": "buffer"
     }
   }
 }
