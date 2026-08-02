@@ -14558,6 +14558,25 @@
       "published_at_utc": "2026-07-31T22:17:20Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/following-apple-s-q4-2026-guidance-jp-morgan-cuts-its-target-for-the-c.png": {
+      "buffer_due_at_utc": "2026-08-02T06:53:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ee7b65dc5613cefd9bb4a",
+      "caption_file": "output/2026-07-31/following-apple-s-q4-2026-guidance-jp-morgan-cuts-its-target-for-the-c.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T06:53:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ee7b65dc5613cefd9bb4a",
+          "published_at_utc": "2026-08-02T06:46:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/following-apple-s-q4-2026-guidance-jp-morgan-cuts-its-target-for-the-c.png",
+      "metadata_file": "output/2026-07-31/following-apple-s-q4-2026-guidance-jp-morgan-cuts-its-target-for-the-c.json",
+      "published_at_utc": "2026-08-02T06:46:14Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds-t.png": {
       "buffer_due_at_utc": "2026-07-31T20:24:59.000Z",
       "buffer_mode": "customScheduled",
