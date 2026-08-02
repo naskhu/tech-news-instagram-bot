@@ -18709,12 +18709,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-save.png": {
-      "buffer_due_at_utc": "2026-08-02T22:30:19.000Z",
+      "buffer_due_at_utc": "2026-08-02T22:32:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fbbf72bbc9e058749e00f",
+      "buffer_post_id": "6a6fbbfb61a1f4fc188376e4",
       "caption_file": "output/2026-08-03/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-save.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T22:32:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fbbfb61a1f4fc188376e4",
+          "published_at_utc": "2026-08-02T21:51:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T22:30:19.000Z",
           "buffer_mode": "customScheduled",
@@ -18724,7 +18730,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-save.png",
       "metadata_file": "output/2026-08-03/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-save.json",
-      "published_at_utc": "2026-08-02T21:51:51Z",
+      "published_at_utc": "2026-08-02T21:51:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/samsung-s-leaked-galaxy-z-plans-for-2027-include-an-unknown-fifth-phon.png": {
