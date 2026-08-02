@@ -18459,12 +18459,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.png": {
-      "buffer_due_at_utc": "2026-08-02T21:43:49.000Z",
+      "buffer_due_at_utc": "2026-08-02T21:45:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6faea45dc5613cefe3d54b",
+      "buffer_post_id": "6a6faea82bbc9e0587494855",
       "caption_file": "output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T21:45:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6faea82bbc9e0587494855",
+          "published_at_utc": "2026-08-02T20:55:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T21:43:49.000Z",
           "buffer_mode": "customScheduled",
@@ -18474,7 +18480,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.png",
       "metadata_file": "output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.json",
-      "published_at_utc": "2026-08-02T20:55:00Z",
+      "published_at_utc": "2026-08-02T20:55:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/review-the-galaxy-z-fold-8-ultra-ticks-every-box-but-it-s-the-boring-o.png": {
