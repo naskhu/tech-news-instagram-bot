@@ -18408,6 +18408,25 @@
       "published_at_utc": "2026-08-02T22:51:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/apple-ceo-tim-cook-says-the-company-is-fighting-a-hundred-year-flood-o.png": {
+      "buffer_due_at_utc": "2026-08-03T00:23:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fd8f32bbc9e05874b640e",
+      "caption_file": "output/2026-08-03/apple-ceo-tim-cook-says-the-company-is-fighting-a-hundred-year-flood-o.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T00:23:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fd8f32bbc9e05874b640e",
+          "published_at_utc": "2026-08-02T23:55:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/apple-ceo-tim-cook-says-the-company-is-fighting-a-hundred-year-flood-o.png",
+      "metadata_file": "output/2026-08-03/apple-ceo-tim-cook-says-the-company-is-fighting-a-hundred-year-flood-o.json",
+      "published_at_utc": "2026-08-02T23:55:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.png": {
       "buffer_due_at_utc": "2026-08-02T22:03:40.000Z",
       "buffer_mode": "customScheduled",
