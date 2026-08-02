@@ -18833,6 +18833,25 @@
       "published_at_utc": "2026-08-02T20:48:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-r.png": {
+      "buffer_due_at_utc": "2026-08-02T22:50:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fc0c061a1f4fc1883bf6a",
+      "caption_file": "output/2026-08-03/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-r.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T22:50:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fc0c061a1f4fc1883bf6a",
+          "published_at_utc": "2026-08-02T22:12:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-r.png",
+      "metadata_file": "output/2026-08-03/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-r.json",
+      "published_at_utc": "2026-08-02T22:12:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-g.png": {
       "buffer_due_at_utc": "2026-08-02T22:33:53.000Z",
       "buffer_mode": "customScheduled",
