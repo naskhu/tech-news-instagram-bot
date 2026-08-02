@@ -6066,6 +6066,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T07:05:12Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/nvidia-s-open-source-alliance-is-missing-some-key-names-openai-and-ant.png": {
+      "buffer_post_id": "6a6eecc661a1f4fc187938cc",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/nvidia-s-open-source-alliance-is-missing-some-key-names-openai-and-ant.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/nvidia-s-open-source-alliance-is-missing-some-key-names-openai-and-ant.png",
+      "metadata_file": "output/2026-07-30/nvidia-s-open-source-alliance-is-missing-some-key-names-openai-and-ant.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T07:07:57Z",
+      "publisher": "buffer"
     }
   }
 }
