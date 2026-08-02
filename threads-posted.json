@@ -17358,6 +17358,25 @@
       "published_at_utc": "2026-08-01T21:11:44Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/mac-studio-here-s-what-apple-has-in-store-for-this-fall-and-beyond-9to.png": {
+      "buffer_due_at_utc": "2026-08-02T04:51:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ebfcb98d2f31dff0672b2",
+      "caption_file": "output/2026-08-01/mac-studio-here-s-what-apple-has-in-store-for-this-fall-and-beyond-9to.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T04:51:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ebfcb98d2f31dff0672b2",
+          "published_at_utc": "2026-08-02T03:55:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/mac-studio-here-s-what-apple-has-in-store-for-this-fall-and-beyond-9to.png",
+      "metadata_file": "output/2026-08-01/mac-studio-here-s-what-apple-has-in-store-for-this-fall-and-beyond-9to.json",
+      "published_at_utc": "2026-08-02T03:55:55Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal.png": {
       "buffer_due_at_utc": "2026-08-01T21:39:14.000Z",
       "buffer_mode": "customScheduled",
