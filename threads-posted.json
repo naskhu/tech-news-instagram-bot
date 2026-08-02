@@ -18309,12 +18309,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.png": {
-      "buffer_due_at_utc": "2026-08-02T21:17:59.000Z",
+      "buffer_due_at_utc": "2026-08-02T21:19:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6faf631b4d436cc31bb676",
+      "buffer_post_id": "6a6faf68aacd241cfdb0e617",
       "caption_file": "output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T21:19:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6faf68aacd241cfdb0e617",
+          "published_at_utc": "2026-08-02T20:58:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T21:17:59.000Z",
           "buffer_mode": "customScheduled",
@@ -18324,7 +18330,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.png",
       "metadata_file": "output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.json",
-      "published_at_utc": "2026-08-02T20:58:11Z",
+      "published_at_utc": "2026-08-02T20:58:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/deals-fold-8-ultra-2-in-1-copilot-pcs-and-surface-pro-up-to-500-off-lg.png": {
