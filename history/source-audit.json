@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-02T09:36:49.660424+00:00",
+  "run_utc": "2026-08-02T11:05:14.185640+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-30T09:36:49.660667+00:00",
+  "cutoff_utc": "2026-07-30T11:05:14.185818+00:00",
   "eligible_story_count": 320,
   "sources": [
     {
@@ -143,8 +143,8 @@
       "already_processed": 1,
       "older_than_window": 9,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 26,
       "already_processed": 40,
-      "older_than_window": 52,
+      "older_than_window": 50,
       "metadata_errors": {}
     },
     {
@@ -390,7 +390,7 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 81,
+      "eligible_new": 83,
       "already_processed": 0,
       "older_than_window": 11,
       "metadata_errors": {
@@ -452,25 +452,17 @@
         {
           "url": "https://www.wired.com/",
           "status": 200,
-          "links": 27,
-          "error": ""
-        },
-        {
-          "url": "https://www.wired.com/category/business/",
-          "status": 200,
-          "links": 13,
+          "links": 40,
           "error": ""
         }
       ],
       "rss_candidates": 50,
       "page_links": 40,
-      "page_articles": 39,
-      "eligible_new": 0,
-      "already_processed": 58,
-      "older_than_window": 19,
-      "metadata_errors": {
-        "no_article_metadata": 1
-      }
+      "page_articles": 40,
+      "eligible_new": 4,
+      "already_processed": 57,
+      "older_than_window": 4,
+      "metadata_errors": {}
     },
     {
       "source": "CNET",
@@ -576,12 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 6,
+      "page_articles": 4,
       "eligible_new": 0,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 19
+        "http_429": 21
       }
     },
     {
@@ -613,8 +605,8 @@
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 37,
-      "already_processed": 20,
+      "eligible_new": 33,
+      "already_processed": 24,
       "older_than_window": 53,
       "metadata_errors": {}
     },
@@ -710,14 +702,14 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 3,
+          "links": 2,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 30,
-      "page_articles": 30,
-      "eligible_new": 30,
+      "page_links": 29,
+      "page_articles": 29,
+      "eligible_new": 29,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
