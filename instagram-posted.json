@@ -5945,6 +5945,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T05:38:33Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/maybe-we-shouldn-t-give-24-year-olds-billions-of-dollars-to-bet-on-ai.png": {
+      "buffer_post_id": "6a6ed9272bbc9e05873e8a63",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/maybe-we-shouldn-t-give-24-year-olds-billions-of-dollars-to-bet-on-ai.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/maybe-we-shouldn-t-give-24-year-olds-billions-of-dollars-to-bet-on-ai.png",
+      "metadata_file": "output/2026-07-30/maybe-we-shouldn-t-give-24-year-olds-billions-of-dollars-to-bet-on-ai.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T05:44:16Z",
+      "publisher": "buffer"
     }
   }
 }
