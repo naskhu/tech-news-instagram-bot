@@ -18207,6 +18207,25 @@
       "metadata_file": "output/2026-08-01/youtuber-hank-green-says-his-ai-usage-is-not-healthy.json",
       "published_at_utc": "2026-08-01T23:12:43Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-02/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-li.png": {
+      "buffer_due_at_utc": "2026-08-02T07:16:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ee7d42bbc9e05873f7241",
+      "caption_file": "output/2026-08-02/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-li.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T07:16:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ee7d42bbc9e05873f7241",
+          "published_at_utc": "2026-08-02T06:46:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-02/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-li.png",
+      "metadata_file": "output/2026-08-02/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-li.json",
+      "published_at_utc": "2026-08-02T06:46:44Z",
+      "publisher": "buffer_threads"
     }
   }
 }
