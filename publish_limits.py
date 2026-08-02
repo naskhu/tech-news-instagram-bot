@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import os
 from datetime import date, datetime, time, timedelta, timezone
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 # Maldives local day (user timezone). Override with PUBLISH_TIMEZONE if needed.
@@ -103,3 +104,21 @@ def seconds_until_local_midnight() -> int:
     local = now_local()
     tomorrow = datetime.combine(local.date() + timedelta(days=1), time(0, 0), tzinfo=local.tzinfo)
     return max(0, int((tomorrow - local).total_seconds()))
+
+
+def today_folder_name() -> str:
+    """YYYY-MM-DD folder name for the current local publish day."""
+    return today_local().isoformat()
+
+
+def is_today_output_path(path: Path | str) -> bool:
+    """True when path is under output/YYYY-MM-DD for today's local date."""
+    text = path.as_posix() if isinstance(path, Path) else str(path)
+    parts = Path(text).parts
+    today = today_folder_name()
+    for index, part in enumerate(parts):
+        if part == today:
+            return True
+        if part == "output" and index + 1 < len(parts) and parts[index + 1] == today:
+            return True
+    return False

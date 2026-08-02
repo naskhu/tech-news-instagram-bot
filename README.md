@@ -65,10 +65,13 @@ See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**. Instagram often 
 
 Limits (Maldives local time, `Indian/Maldives`):
 
-- **Calendar-day cap:** at most **49** posts between local midnight and next midnight
+- **Today only:** only photos under `output/<today>/` are sent to Buffer; previous-day leftovers are ignored
+- **Calendar-day cap:** at most **49** Instagram posts between local midnight and next midnight
+- **No backlog dump:** each tick sends a few posts (default 2), never the whole pending queue into Buffer
 - **Start hour:** automatic posting starts at **08:00** local (configurable via `POSTING_START_HOUR`)
 - **Cool-down:** publishing stays paused until `PUBLISH_RESUME_DATE` (currently `2026-07-26`) while Instagram action-blocks cool down
 - **Fresh daily queue:** generate workflows delete previous `output/YYYY-MM-DD/` folders after local midnight so the next day builds new images
+- **Clear Buffer queue:** use **Clear Buffer Queues** with target `instagram` to delete queued/draft Instagram posts in Buffer
 
 Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and while Instagram shows “Try Again Later”).
 

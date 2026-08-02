@@ -13,8 +13,8 @@ on:
         required: false
         default: "2"
   schedule:
-    # About every 30 minutes after the cool-down. Each tick posts a few items
-    # under a calendar-day 49-post cap (Indian/Maldives midnight reset).
+    # About every 30 minutes. Sends a few of today's photos only (never previous
+    # days, never the full backlog) under the calendar-day 49-post Buffer cap.
     - cron: "11,41 * * * *"
 
 permissions:
