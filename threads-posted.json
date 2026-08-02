@@ -18634,12 +18634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal.png": {
-      "buffer_due_at_utc": "2026-08-02T22:16:42.000Z",
+      "buffer_due_at_utc": "2026-08-02T22:18:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fbbed98d2f31dff12adfd",
+      "buffer_post_id": "6a6fbbf298d2f31dff12ae30",
       "caption_file": "output/2026-08-03/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T22:18:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fbbf298d2f31dff12ae30",
+          "published_at_utc": "2026-08-02T21:51:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T22:16:42.000Z",
           "buffer_mode": "customScheduled",
@@ -18649,7 +18655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal.png",
       "metadata_file": "output/2026-08-03/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal.json",
-      "published_at_utc": "2026-08-02T21:51:41Z",
+      "published_at_utc": "2026-08-02T21:51:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.png": {
