@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Decide Buffer publish mode with a calendar-day Instagram cap."""
+"""Decide Buffer publish mode with a calendar-day Instagram cap.
+
+Only today's generated photos are eligible. Automatic runs send a few posts per
+tick so Buffer never gets the full backlog dumped into the queue. Hard cap:
+INSTAGRAM_DAILY_LIMIT (default 49) posts per local calendar day.
+"""
 
 from __future__ import annotations
 
@@ -14,12 +19,13 @@ from publish_limits import (
     cooldown_active,
     count_posted_today,
     quota_left_today,
+    today_folder_name,
     today_local,
 )
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
-# Gentle ticks so we don't burst inside the day (≈49 across ~15 waking hours).
+# Gentle ticks so we do not flood Buffer (≈49 across waking hours).
 MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("MAX_PER_SCHEDULE_TICK", "2")))
 MAX_PER_GENERATE_TICK = max(1, int(os.getenv("MAX_PER_GENERATE_TICK", "2")))
 
@@ -40,8 +46,11 @@ def load_state() -> dict:
 def count_pending(state: dict) -> int:
     posted = state.get("posted", {})
     keys = set(posted.keys()) if isinstance(posted, dict) else set()
+    day_dir = OUTPUT_DIR / today_folder_name()
+    if not day_dir.is_dir():
+        return 0
     pending = 0
-    for image in OUTPUT_DIR.glob("**/*.png"):
+    for image in day_dir.glob("*.png"):
         if image.as_posix() in keys:
             continue
         if image.with_suffix(".txt").exists():
@@ -92,7 +101,7 @@ def main() -> int:
         return skip(early_reason, pending, used_today, quota_left)
 
     if pending <= 0:
-        return skip("queue_empty", pending, used_today, quota_left)
+        return skip("queue_empty_today_only", pending, used_today, quota_left)
 
     if quota_left <= 0:
         return skip(
@@ -113,7 +122,7 @@ def main() -> int:
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="after_generate_calendar_day_cap",
+            reason="after_generate_today_only_day_cap",
         )
         return 0
 
@@ -128,12 +137,14 @@ def main() -> int:
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="schedule_calendar_day_cap",
+            reason="schedule_today_only_day_cap",
         )
         return 0
 
-    if manual_max.lower() == "all":
-        max_posts = min(pending, quota_left)
+    # Manual: never dump the full backlog into Buffer. Cap at remaining day quota
+    # and the gentle tick size unless an explicit number is provided.
+    if manual_max.lower() == "all" or manual_max == "":
+        max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
             mode="drain",
@@ -143,12 +154,13 @@ def main() -> int:
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="manual_drain_up_to_day_cap",
+            reason="manual_today_only_gentle_tick",
         )
         return 0
 
     requested = max(1, int(manual_max or "1"))
-    max_posts = min(requested, pending, quota_left)
+    # Explicit manual numbers still cannot exceed the calendar-day 49 cap.
+    max_posts = min(requested, pending, quota_left, DAILY_LIMIT)
     write_output(
         should_publish="true",
         mode="batch",
@@ -158,7 +170,7 @@ def main() -> int:
         used_today=used_today,
         quota_left=quota_left,
         local_date=today_local().isoformat(),
-        reason="manual_batch_day_cap",
+        reason="manual_batch_today_only_day_cap",
     )
     return 0
 

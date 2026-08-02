@@ -2,6 +2,16 @@ name: Clear Buffer Queues
 
 on:
   workflow_dispatch:
+    inputs:
+      target:
+        description: Which Buffer channel queue(s) to clear
+        required: true
+        type: choice
+        options:
+          - instagram
+          - threads
+          - all
+        default: instagram
 
 permissions:
   contents: read
@@ -25,15 +35,44 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Clear all Buffer queues
+      - name: Clear Buffer queue(s)
         env:
           BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          BUFFER_ORGANIZATION_ID: "6a61ca7301d13814db599d28"
+          CLEAR_STATUSES: buffer,error,draft
+          CLEAR_TARGET: ${{ inputs.target }}
           BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
           BUFFER_THREADS_CHANNEL_ID: ${{ secrets.BUFFER_THREADS_CHANNEL_ID }}
-          CLEAR_STATUSES: buffer,error,draft
         run: |
           if [ -z "$BUFFER_ACCESS_TOKEN" ]; then
             echo "BUFFER_ACCESS_TOKEN secret is missing" >&2
             exit 1
           fi
+
+          case "$CLEAR_TARGET" in
+            instagram)
+              if [ -z "$BUFFER_CHANNEL_ID" ]; then
+                echo "BUFFER_CHANNEL_ID secret is missing" >&2
+                exit 1
+              fi
+              unset BUFFER_THREADS_CHANNEL_ID
+              echo "Clearing Instagram Buffer queue only ($BUFFER_CHANNEL_ID)"
+              ;;
+            threads)
+              if [ -z "$BUFFER_THREADS_CHANNEL_ID" ]; then
+                echo "BUFFER_THREADS_CHANNEL_ID secret is missing" >&2
+                exit 1
+              fi
+              unset BUFFER_CHANNEL_ID
+              echo "Clearing Threads Buffer queue(s) only ($BUFFER_THREADS_CHANNEL_ID)"
+              ;;
+            all)
+              echo "Clearing Instagram + Threads Buffer queues"
+              ;;
+            *)
+              echo "Unknown CLEAR_TARGET=$CLEAR_TARGET" >&2
+              exit 1
+              ;;
+          esac
+
           python3 clear_buffer_queues.py

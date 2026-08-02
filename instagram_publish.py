@@ -21,6 +21,7 @@ from publish_limits import (
     cooldown_active,
     count_posted_today,
     quota_left_today,
+    today_folder_name,
     today_local,
 )
 
@@ -89,8 +90,12 @@ def save_state(state: dict[str, Any]) -> None:
 def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
     posted = state.get("posted", {})
     candidates: list[tuple[Path, Path, Path | None]] = []
+    today = today_folder_name()
+    day_dir = OUTPUT_DIR / today
 
-    for image in sorted(OUTPUT_DIR.glob("**/*.png")):
+    # Only today's generated folder; never send previous-day leftovers to Buffer.
+    images = sorted(day_dir.glob("*.png")) if day_dir.is_dir() else []
+    for image in images:
         relative = image.as_posix()
         if relative in posted:
             continue
