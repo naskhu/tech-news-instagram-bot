@@ -17284,12 +17284,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/ios-27-breaks-15-years-of-muscle-memory-on-iphone-and-ipad-9to5mac.png": {
-      "buffer_due_at_utc": "2026-08-02T04:45:09.000Z",
+      "buffer_due_at_utc": "2026-08-02T04:47:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ebfc1aacd241cfda50833",
+      "buffer_post_id": "6a6ebfc698d2f31dff06728e",
       "caption_file": "output/2026-08-01/ios-27-breaks-15-years-of-muscle-memory-on-iphone-and-ipad-9to5mac.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T04:47:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ebfc698d2f31dff06728e",
+          "published_at_utc": "2026-08-02T03:55:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T04:45:09.000Z",
           "buffer_mode": "customScheduled",
@@ -17299,7 +17305,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/ios-27-breaks-15-years-of-muscle-memory-on-iphone-and-ipad-9to5mac.png",
       "metadata_file": "output/2026-08-01/ios-27-breaks-15-years-of-muscle-memory-on-iphone-and-ipad-9to5mac.json",
-      "published_at_utc": "2026-08-02T03:55:45Z",
+      "published_at_utc": "2026-08-02T03:55:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/is-this-billboard-hot-100-hit-ai-slop.png": {
