@@ -13734,12 +13734,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/9to5mac-overtime-075-thoughts-on-apple-upgrade-9to5mac.png": {
-      "buffer_due_at_utc": "2026-08-02T03:57:41.000Z",
+      "buffer_due_at_utc": "2026-08-02T03:59:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ebfac2bbc9e05873da5e2",
+      "buffer_post_id": "6a6ebfb11b4d436cc30fd45f",
       "caption_file": "output/2026-07-31/9to5mac-overtime-075-thoughts-on-apple-upgrade-9to5mac.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T03:59:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ebfb11b4d436cc30fd45f",
+          "published_at_utc": "2026-08-02T03:55:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T03:57:41.000Z",
           "buffer_mode": "customScheduled",
@@ -13749,7 +13755,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/9to5mac-overtime-075-thoughts-on-apple-upgrade-9to5mac.png",
       "metadata_file": "output/2026-07-31/9to5mac-overtime-075-thoughts-on-apple-upgrade-9to5mac.json",
-      "published_at_utc": "2026-08-02T03:55:24Z",
+      "published_at_utc": "2026-08-02T03:55:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/a-look-into-the-rise-of-falling-space-junk.png": {
