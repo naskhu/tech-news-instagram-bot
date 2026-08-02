@@ -18358,6 +18358,25 @@
       "published_at_utc": "2026-08-02T20:26:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/nothing-reportedly-prioritizing-ai-devices-like-its-leaked-smartwatch-.png": {
+      "buffer_due_at_utc": "2026-08-02T21:29:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6facfe2bbc9e0587493e1e",
+      "caption_file": "output/2026-08-03/nothing-reportedly-prioritizing-ai-devices-like-its-leaked-smartwatch-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T21:29:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6facfe2bbc9e0587493e1e",
+          "published_at_utc": "2026-08-02T20:47:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/nothing-reportedly-prioritizing-ai-devices-like-its-leaked-smartwatch-.png",
+      "metadata_file": "output/2026-08-03/nothing-reportedly-prioritizing-ai-devices-like-its-leaked-smartwatch-.json",
+      "published_at_utc": "2026-08-02T20:47:58Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/stadia-was-some-of-the-most-fun-i-ve-had-gaming-but-it-was-right-to-di.png": {
       "buffer_due_at_utc": "2026-08-02T20:37:13.000Z",
       "buffer_mode": "customScheduled",
