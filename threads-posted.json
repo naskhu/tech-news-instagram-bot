@@ -18034,12 +18034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/turbotax-full-service-coupons-this-august.png": {
-      "buffer_due_at_utc": "2026-08-02T07:11:54.000Z",
+      "buffer_due_at_utc": "2026-08-02T07:13:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ee7caaacd241cfda6eabd",
+      "buffer_post_id": "6a6ee7cf5dc5613cefd9bc4b",
       "caption_file": "output/2026-08-01/turbotax-full-service-coupons-this-august.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T07:13:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ee7cf5dc5613cefd9bc4b",
+          "published_at_utc": "2026-08-02T06:46:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T07:11:54.000Z",
           "buffer_mode": "customScheduled",
@@ -18049,7 +18055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/turbotax-full-service-coupons-this-august.png",
       "metadata_file": "output/2026-08-01/turbotax-full-service-coupons-this-august.json",
-      "published_at_utc": "2026-08-02T06:46:34Z",
+      "published_at_utc": "2026-08-02T06:46:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/uber-is-building-an-autonomous-vehicle-empire-and-here-s-every-company.png": {
