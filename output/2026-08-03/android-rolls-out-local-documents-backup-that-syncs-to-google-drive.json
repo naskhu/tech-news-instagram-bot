@@ -1,0 +1,23 @@
+{
+  "title": "Android rolls out local ‘Documents’ backup that syncs to Google Drive",
+  "summary": "Google now lets Android users automatically upload files and other downloads from their phone or tablet to Google Drive thanks to a new “Documents” backup. Specifically, a new “Android backups” folder will be added to your My Drive.",
+  "source": "9to5Google",
+  "url": "https://9to5google.com/2026/07/30/android-documents-local-backup",
+  "published_utc": "2026-07-30T22:02:00+00:00",
+  "output_day": "2026-08-03",
+  "date_source": "meta",
+  "generated_utc": "2026-08-02T20:53:42.066068+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Drive-generic-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    52,
+    168,
+    83
+  ],
+  "image": "output/2026-08-03/android-rolls-out-local-documents-backup-that-syncs-to-google-drive.png",
+  "caption": "output/2026-08-03/android-rolls-out-local-documents-backup-that-syncs-to-google-drive.txt"
+}
