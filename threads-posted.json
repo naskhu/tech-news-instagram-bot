@@ -18433,6 +18433,25 @@
       "published_at_utc": "2026-08-02T20:25:54Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-.png": {
+      "buffer_due_at_utc": "2026-08-02T21:37:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fb29d98d2f31dff12464f",
+      "caption_file": "output/2026-08-03/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T21:37:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fb29d98d2f31dff12464f",
+          "published_at_utc": "2026-08-02T21:11:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-.png",
+      "metadata_file": "output/2026-08-03/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-.json",
+      "published_at_utc": "2026-08-02T21:11:58Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/google-s-pixel-11-glow-might-be-called-hilight.png": {
       "buffer_due_at_utc": "2026-08-02T20:34:18.000Z",
       "buffer_mode": "customScheduled",
