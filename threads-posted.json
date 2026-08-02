@@ -18333,6 +18333,25 @@
       "published_at_utc": "2026-08-02T20:54:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.png": {
+      "buffer_due_at_utc": "2026-08-02T22:01:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fbbd961a1f4fc1883757b",
+      "caption_file": "output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T22:01:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fbbd961a1f4fc1883757b",
+          "published_at_utc": "2026-08-02T21:51:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.png",
+      "metadata_file": "output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.json",
+      "published_at_utc": "2026-08-02T21:51:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.png": {
       "buffer_due_at_utc": "2026-08-02T21:19:59.000Z",
       "buffer_mode": "customScheduled",
