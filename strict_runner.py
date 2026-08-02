@@ -14,6 +14,7 @@ from PIL import Image, ImageDraw
 
 import bot
 import feed_sources
+from publish_limits import today_folder_name
 
 RUN_OUTPUT_DIR = bot.ROOT / "run-output"
 HISTORY_DIR = bot.ROOT / "history"
@@ -171,7 +172,9 @@ def main() -> None:
         if not summary:
             summary = bot.summarize(story["title"], max_words=max_words)
 
-        date_folder = story["published"].astimezone(timezone.utc).strftime("%Y-%m-%d")
+        # Always write into today's local publish folder so generate commits
+        # only update output/<today>/ (older day folders are deleted at rollover).
+        date_folder = today_folder_name()
         base_name = bot.slugify(story["title"])
         folder = bot.OUTPUT_DIR / date_folder
         image_path = folder / f"{base_name}.png"
@@ -191,6 +194,7 @@ def main() -> None:
             "source": story["source"],
             "url": story["url"],
             "published_utc": story["published"].isoformat(),
+            "output_day": date_folder,
             "date_source": story.get("date_source", ""),
             "generated_utc": datetime.now(timezone.utc).isoformat(),
             "maximum_news_age_hours": freshness_hours,

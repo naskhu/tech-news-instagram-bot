@@ -39,12 +39,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # Drop output folders older than KEEP_OUTPUT_DAYS, but keep images Buffer may
-      # still fetch for customScheduled posts (see cleanup_old_output.py).
+      # Keep only today's local calendar-day folder; delete previous days at rollover.
       - name: Clear previous calendar-day output folders
         env:
           PUBLISH_TIMEZONE: Indian/Maldives
-          KEEP_OUTPUT_DAYS: "3"
+          KEEP_OUTPUT_DAYS: "1"
         run: python3 cleanup_old_output.py --clear-old-days
 
       - name: Generate fresh posts with verified news photos only

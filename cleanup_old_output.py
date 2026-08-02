@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Remove old output day folders and optional unpublished leftovers.
 
-Keeps recent calendar-day folders so Buffer can still fetch public git image
-URLs for customScheduled Threads/Instagram posts. Published history stays in
-instagram-posted.json / threads-posted.json.
+Only today's local calendar-day folder is kept under output/. When the next
+local day starts, previous output/YYYY-MM-DD folders are deleted entirely.
+Published history stays in instagram-posted.json / threads-posted.json.
 """
 
 from __future__ import annotations
@@ -12,17 +12,16 @@ import argparse
 import json
 import os
 import shutil
-import sys
 from datetime import timedelta
 from pathlib import Path
 
-from publish_limits import today_local
+from publish_limits import today_folder_name, today_local
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
 THREADS_STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
-# Keep today + previous days so Buffer retries still find raw GitHub images.
-KEEP_OUTPUT_DAYS = max(1, min(14, int(os.getenv("KEEP_OUTPUT_DAYS", "3"))))
+# Keep only today's folder by default (1 = today only).
+KEEP_OUTPUT_DAYS = max(1, min(14, int(os.getenv("KEEP_OUTPUT_DAYS", "1"))))
 
 
 def load_posted_keys(*paths: Path) -> set[str]:
@@ -56,12 +55,18 @@ def clear_unpublished() -> int:
 
 
 def clear_old_day_folders(*, keep_days: int = KEEP_OUTPUT_DAYS) -> int:
+    """Delete output day folders older than the keep window.
+
+    With keep_days=1, only output/<today>/ remains; every previous local day
+    folder is removed when the next day starts.
+    """
     today = today_local()
+    # keep_days=1 → cutoff is today → delete any folder name < today.
     cutoff = (today - timedelta(days=max(0, keep_days - 1))).isoformat()
-    protected = load_posted_keys(STATE_FILE, THREADS_STATE_FILE)
     removed_dirs = 0
     if not OUTPUT_DIR.exists():
         return 0
+
     for day_dir in sorted(OUTPUT_DIR.iterdir()):
         if not day_dir.is_dir():
             continue
@@ -72,28 +77,11 @@ def clear_old_day_folders(*, keep_days: int = KEEP_OUTPUT_DAYS) -> int:
         if name >= cutoff:
             continue
 
-        # Prefer deleting whole day folders, but keep any file Buffer may still need.
-        kept = 0
-        for image in list(day_dir.glob("**/*.png")):
-            rel = image.as_posix()
-            if rel not in protected:
-                for path in (image, image.with_suffix(".txt"), image.with_suffix(".json")):
-                    if path.exists():
-                        path.unlink()
-                continue
-            kept += 1
+        shutil.rmtree(day_dir)
+        removed_dirs += 1
+        print(f"Removed old output day folder: {day_dir.as_posix()}")
 
-        # Remove empty leftovers, otherwise leave the day folder with protected files.
-        remaining = [path for path in day_dir.rglob("*") if path.is_file()]
-        if not remaining:
-            shutil.rmtree(day_dir)
-            removed_dirs += 1
-            print(f"Removed old output day folder: {day_dir.as_posix()}")
-        elif kept:
-            print(
-                f"Kept {kept} published/scheduled file(s) in {day_dir.as_posix()} "
-                f"(Buffer may still fetch them)."
-            )
+    print(f"Keeping output day folder(s) on/after {cutoff} (today={today_folder_name()})")
     return removed_dirs
 
 
@@ -109,7 +97,7 @@ def main() -> int:
         action="store_true",
         help=(
             f"Delete output/YYYY-MM-DD folders older than the last {KEEP_OUTPUT_DAYS} "
-            "local calendar days (keeps files still referenced by posted state)"
+            "local calendar day(s). Default keeps today only."
         ),
     )
     args = parser.parse_args()
