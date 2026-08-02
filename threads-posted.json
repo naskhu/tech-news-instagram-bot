@@ -14034,12 +14034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2-9to5ma.png": {
-      "buffer_due_at_utc": "2026-08-02T05:24:34.000Z",
+      "buffer_due_at_utc": "2026-08-02T05:26:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ecb232bbc9e05873e0cad",
+      "buffer_post_id": "6a6ecb29c54cb28366527e62",
       "caption_file": "output/2026-07-31/apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2-9to5ma.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T05:26:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ecb29c54cb28366527e62",
+          "published_at_utc": "2026-08-02T04:44:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T05:24:34.000Z",
           "buffer_mode": "customScheduled",
@@ -14049,7 +14055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2-9to5ma.png",
       "metadata_file": "output/2026-07-31/apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2-9to5ma.json",
-      "published_at_utc": "2026-08-02T04:44:19Z",
+      "published_at_utc": "2026-08-02T04:44:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/apple-s-ceo-hints-that-heavy-use-of-siri-ai-could-cost-you-cnet.png": {
