@@ -13833,6 +13833,25 @@
       "published_at_utc": "2026-08-01T03:50:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/all-apple-tv-shows-and-movies-what-to-watch-with-your-subscription-9to.png": {
+      "buffer_due_at_utc": "2026-08-02T04:54:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ecb1898d2f31dff06cd30",
+      "caption_file": "output/2026-07-31/all-apple-tv-shows-and-movies-what-to-watch-with-your-subscription-9to.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T04:54:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ecb1898d2f31dff06cd30",
+          "published_at_utc": "2026-08-02T04:44:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/all-apple-tv-shows-and-movies-what-to-watch-with-your-subscription-9to.png",
+      "metadata_file": "output/2026-07-31/all-apple-tv-shows-and-movies-what-to-watch-with-your-subscription-9to.json",
+      "published_at_utc": "2026-08-02T04:44:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/amazon-luna-now-has-a-new-batman-game.png": {
       "buffer_due_at_utc": "2026-07-31T20:47:02.000Z",
       "buffer_mode": "customScheduled",
