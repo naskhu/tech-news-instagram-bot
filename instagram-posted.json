@@ -5978,6 +5978,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T05:48:38Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.png": {
+      "buffer_post_id": "6a6eda581b4d436cc310c60e",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.png",
+      "metadata_file": "output/2026-07-30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T05:49:21Z",
+      "publisher": "buffer"
     }
   }
 }
