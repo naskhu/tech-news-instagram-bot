@@ -18458,6 +18458,25 @@
       "published_at_utc": "2026-08-02T20:48:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.png": {
+      "buffer_due_at_utc": "2026-08-02T21:43:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6faea45dc5613cefe3d54b",
+      "caption_file": "output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T21:43:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6faea45dc5613cefe3d54b",
+          "published_at_utc": "2026-08-02T20:55:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.png",
+      "metadata_file": "output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.json",
+      "published_at_utc": "2026-08-02T20:55:00Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/review-the-galaxy-z-fold-8-ultra-ticks-every-box-but-it-s-the-boring-o.png": {
       "buffer_due_at_utc": "2026-08-02T21:39:44.000Z",
       "buffer_mode": "customScheduled",
