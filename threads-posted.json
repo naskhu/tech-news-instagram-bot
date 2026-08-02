@@ -18283,6 +18283,25 @@
       "published_at_utc": "2026-08-02T06:46:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/30-years-of-cpus-at-tom-s-hardware-looking-back-on-three-decades-of-pr.png": {
+      "buffer_due_at_utc": "2026-08-03T00:15:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fd8e898d2f31dff141e35",
+      "caption_file": "output/2026-08-03/30-years-of-cpus-at-tom-s-hardware-looking-back-on-three-decades-of-pr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T00:15:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fd8e898d2f31dff141e35",
+          "published_at_utc": "2026-08-02T23:55:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/30-years-of-cpus-at-tom-s-hardware-looking-back-on-three-decades-of-pr.png",
+      "metadata_file": "output/2026-08-03/30-years-of-cpus-at-tom-s-hardware-looking-back-on-three-decades-of-pr.json",
+      "published_at_utc": "2026-08-02T23:55:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/97-untouched-duck-hunt-and-super-mario-bros-cartridges-worth-thousands.png": {
       "buffer_due_at_utc": "2026-08-02T23:36:03.000Z",
       "buffer_mode": "customScheduled",
