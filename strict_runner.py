@@ -14,12 +14,7 @@ from PIL import Image, ImageDraw
 
 import bot
 import feed_sources
-from publish_limits import (
-    GENERATE_DAILY_CAP,
-    count_today_output_posts,
-    generate_slots_left_today,
-    today_folder_name,
-)
+from publish_limits import today_folder_name
 
 RUN_OUTPUT_DIR = bot.ROOT / "run-output"
 HISTORY_DIR = bot.ROOT / "history"
@@ -150,39 +145,10 @@ def main() -> None:
         and configured_limit.strip().lower() == "all"
     )
     limit = None if process_all else max(1, int(configured_limit))
-
-    # Never generate more images than Instagram can post today; older folders are
-    # deleted at local midnight, so extras would be permanently lost.
-    already_today = count_today_output_posts()
-    slots_left = generate_slots_left_today()
-    if slots_left <= 0:
-        save_state(state, processed_order, run_utc, 0)
-        append_history(
-            {
-                "logged_utc": datetime.now(timezone.utc).isoformat(),
-                "run_utc": run_utc,
-                "status": "daily_generate_cap_reached",
-                "generate_daily_cap": GENERATE_DAILY_CAP,
-                "today_output_count": already_today,
-                "generated_count": 0,
-                "source_audit": str(SOURCE_AUDIT_PATH.relative_to(bot.ROOT)),
-            }
-        )
-        print(
-            f"Daily generate cap reached ({already_today}/{GENERATE_DAILY_CAP} "
-            f"in output/{today_folder_name()}/). Skipping new posts so nothing "
-            "is left unpublished when the day folder is deleted."
-        )
-        return
-
-    if limit is None:
-        limit = slots_left
-    else:
-        limit = min(limit, slots_left)
-
     print(
-        f"Post limit this run: {limit} "
-        f"(today {already_today}/{GENERATE_DAILY_CAP}, {slots_left} slot(s) left)."
+        "Post limit: all eligible new articles."
+        if process_all
+        else f"Post limit: {limit}."
     )
 
     max_words = min(42, max(20, int(config.get("summary_max_words", 34))))
@@ -269,12 +235,6 @@ def main() -> None:
 
         if limit is not None and generated >= limit:
             break
-        if generate_slots_left_today() <= 0:
-            print(
-                f"Daily generate cap filled ({GENERATE_DAILY_CAP}). "
-                "Stopping this run."
-            )
-            break
 
     save_state(state, processed_order, run_utc, generated)
 
@@ -286,9 +246,7 @@ def main() -> None:
             "generated_count": generated,
             "fallback_generated_count": fallback_generated,
             "maximum_news_age_hours": freshness_hours,
-            "posts_per_run": limit,
-            "generate_daily_cap": GENERATE_DAILY_CAP,
-            "today_output_count": count_today_output_posts(),
+            "posts_per_run": "all" if process_all else limit,
             "source_audit": str(SOURCE_AUDIT_PATH.relative_to(bot.ROOT)),
         }
     )

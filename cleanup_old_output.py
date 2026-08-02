@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Remove old output day folders and optional unpublished leftovers.
 
-Only today's local calendar-day folder is kept under output/. When the next
-local day starts, previous output/YYYY-MM-DD folders are deleted entirely.
-Published history stays in instagram-posted.json / threads-posted.json.
+Keeps today + the previous local calendar day under output/ by default.
+Older output/YYYY-MM-DD folders are deleted entirely. Published history stays
+in instagram-posted.json / threads-posted.json.
 """
 
 from __future__ import annotations
@@ -15,13 +15,11 @@ import shutil
 from datetime import timedelta
 from pathlib import Path
 
-from publish_limits import today_folder_name, today_local
+from publish_limits import KEEP_OUTPUT_DAYS, today_folder_name, today_local
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
 THREADS_STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
-# Keep only today's folder by default (1 = today only).
-KEEP_OUTPUT_DAYS = max(1, min(14, int(os.getenv("KEEP_OUTPUT_DAYS", "1"))))
 
 
 def load_posted_keys(*paths: Path) -> set[str]:
@@ -57,11 +55,9 @@ def clear_unpublished() -> int:
 def clear_old_day_folders(*, keep_days: int = KEEP_OUTPUT_DAYS) -> int:
     """Delete output day folders older than the keep window.
 
-    With keep_days=1, only output/<today>/ remains; every previous local day
-    folder is removed when the next day starts.
+    With keep_days=2, keeps today + yesterday; deletes older folders.
     """
     today = today_local()
-    # keep_days=1 → cutoff is today → delete any folder name < today.
     cutoff = (today - timedelta(days=max(0, keep_days - 1))).isoformat()
     removed_dirs = 0
     if not OUTPUT_DIR.exists():
@@ -81,7 +77,10 @@ def clear_old_day_folders(*, keep_days: int = KEEP_OUTPUT_DAYS) -> int:
         removed_dirs += 1
         print(f"Removed old output day folder: {day_dir.as_posix()}")
 
-    print(f"Keeping output day folder(s) on/after {cutoff} (today={today_folder_name()})")
+    print(
+        f"Keeping output day folder(s) on/after {cutoff} "
+        f"(today={today_folder_name()}, keep_days={keep_days})"
+    )
     return removed_dirs
 
 
@@ -97,7 +96,7 @@ def main() -> int:
         action="store_true",
         help=(
             f"Delete output/YYYY-MM-DD folders older than the last {KEEP_OUTPUT_DAYS} "
-            "local calendar day(s). Default keeps today only."
+            "local calendar day(s). Default keeps today + previous day."
         ),
     )
     args = parser.parse_args()
