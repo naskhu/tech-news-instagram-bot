@@ -12633,6 +12633,25 @@
       "published_at_utc": "2026-07-30T20:08:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.png": {
+      "buffer_due_at_utc": "2026-08-02T00:37:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e8b79c54cb28366504e8a",
+      "caption_file": "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T00:37:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e8b79c54cb28366504e8a",
+          "published_at_utc": "2026-08-02T00:12:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.png",
+      "metadata_file": "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.json",
+      "published_at_utc": "2026-08-02T00:12:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/nasa-s-curiosity-rover-found-a-sea-of-polygons-on-mars.png": {
       "buffer_due_at_utc": "2026-07-30T20:28:31.000Z",
       "buffer_mode": "customScheduled",
