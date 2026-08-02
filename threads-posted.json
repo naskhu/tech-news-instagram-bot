@@ -14108,6 +14108,25 @@
       "published_at_utc": "2026-07-31T20:19:43Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/apple-tv-drops-full-san-diego-comic-con-panels-for-silo-dark-matter-wi.png": {
+      "buffer_due_at_utc": "2026-08-02T05:33:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ecb2e2bbc9e05873e0cdb",
+      "caption_file": "output/2026-07-31/apple-tv-drops-full-san-diego-comic-con-panels-for-silo-dark-matter-wi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T05:33:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ecb2e2bbc9e05873e0cdb",
+          "published_at_utc": "2026-08-02T04:44:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/apple-tv-drops-full-san-diego-comic-con-panels-for-silo-dark-matter-wi.png",
+      "metadata_file": "output/2026-07-31/apple-tv-drops-full-san-diego-comic-con-panels-for-silo-dark-matter-wi.json",
+      "published_at_utc": "2026-08-02T04:44:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/apple-tv-s-cape-fear-remake-turns-it-into-a-paranoid-tech-thriller.png": {
       "buffer_due_at_utc": "2026-07-31T18:57:27.000Z",
       "buffer_mode": "customScheduled",
