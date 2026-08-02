@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-02T20:24:07.390826+00:00",
+  "run_utc": "2026-08-02T20:24:57.513249+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-30T20:24:07.390948+00:00",
+  "cutoff_utc": "2026-07-30T20:24:57.513422+00:00",
   "eligible_story_count": 244,
   "sources": [
     {
@@ -568,11 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 5,
+      "page_articles": 4,
       "eligible_new": 0,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
+        "no_article_metadata": 1,
         "http_429": 20
       }
     },
