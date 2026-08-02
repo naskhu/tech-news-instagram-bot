@@ -16684,12 +16684,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/apple-upgrade-might-ve-provided-our-first-hint-for-what-could-change-w.png": {
-      "buffer_due_at_utc": "2026-08-02T01:18:25.000Z",
+      "buffer_due_at_utc": "2026-08-02T01:20:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e99cf98d2f31dff052a2e",
+      "buffer_post_id": "6a6e99d4aacd241cfda3cdbf",
       "caption_file": "output/2026-08-01/apple-upgrade-might-ve-provided-our-first-hint-for-what-could-change-w.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T01:20:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e99d4aacd241cfda3cdbf",
+          "published_at_utc": "2026-08-02T01:13:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T01:18:25.000Z",
           "buffer_mode": "customScheduled",
@@ -16699,7 +16705,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/apple-upgrade-might-ve-provided-our-first-hint-for-what-could-change-w.png",
       "metadata_file": "output/2026-08-01/apple-upgrade-might-ve-provided-our-first-hint-for-what-could-change-w.json",
-      "published_at_utc": "2026-08-02T01:13:51Z",
+      "published_at_utc": "2026-08-02T01:13:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-01/apps-that-help-you-break-free-from-doomscrolling-and-get-active-techcr.png": {
