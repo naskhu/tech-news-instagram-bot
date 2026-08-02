@@ -1,0 +1,22 @@
+{
+  "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
+  "summary": "On exactly the kind of question that breaks text-chunk RAG, the graph wins two out of three times or better. Complex reasoning: Graph 53.4 vs. chunks 42.9 — a +10 point graph win.",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+  "published_utc": "2026-08-02T19:00:00+00:00",
+  "date_source": "rss",
+  "generated_utc": "2026-08-02T19:34:08.785701+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F1rpZMHeHr7IpMu9cqSzhdV%2F1c782495f70f8718047ff5ce0e6f1e3c%2Fu7277289442_A_modern_interpretation_of_cybersecurity._Sleek.__5f8b2e68-6dd7-4e68-b47f-83af6a37b067_0.png%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 5,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-02/stop-graphing-everything-when-graphrag-actually-beats-vector-rag.png",
+  "caption": "output/2026-08-02/stop-graphing-everything-when-graphrag-actually-beats-vector-rag.txt"
+}
