@@ -15009,12 +15009,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/montana-s-new-right-to-try-law-can-t-come-soon-enough-for-some.png": {
-      "buffer_due_at_utc": "2026-08-02T01:09:32.000Z",
+      "buffer_due_at_utc": "2026-08-02T01:11:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e8b8d98d2f31dff049de0",
+      "buffer_post_id": "6a6e8b93aacd241cfda34695",
       "caption_file": "output/2026-07-31/montana-s-new-right-to-try-law-can-t-come-soon-enough-for-some.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T01:11:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e8b93aacd241cfda34695",
+          "published_at_utc": "2026-08-02T00:13:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T01:09:32.000Z",
           "buffer_mode": "customScheduled",
@@ -15024,7 +15030,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/montana-s-new-right-to-try-law-can-t-come-soon-enough-for-some.png",
       "metadata_file": "output/2026-07-31/montana-s-new-right-to-try-law-can-t-come-soon-enough-for-some.json",
-      "published_at_utc": "2026-08-02T00:13:02Z",
+      "published_at_utc": "2026-08-02T00:13:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/new-york-sues-kalshi-for-allegedly-running-an-illegal-gambling-operati.png": {
