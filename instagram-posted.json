@@ -5835,6 +5835,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T04:59:15Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.png": {
+      "buffer_post_id": "6a6ecfb998d2f31dff070147",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.png",
+      "metadata_file": "output/2026-07-30/jobs-ai-isn-t-killing-electricians-plumbers-and-carpenters.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T05:04:00Z",
+      "publisher": "buffer"
     }
   }
 }
