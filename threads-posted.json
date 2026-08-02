@@ -18459,12 +18459,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-.png": {
-      "buffer_due_at_utc": "2026-08-02T21:18:29.000Z",
+      "buffer_due_at_utc": "2026-08-02T21:20:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6faf6daacd241cfdb0e64e",
+      "buffer_post_id": "6a6faf722bbc9e0587494d25",
       "caption_file": "output/2026-08-03/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T21:20:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6faf722bbc9e0587494d25",
+          "published_at_utc": "2026-08-02T20:58:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T21:18:29.000Z",
           "buffer_mode": "customScheduled",
@@ -18474,7 +18480,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-.png",
       "metadata_file": "output/2026-08-03/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-.json",
-      "published_at_utc": "2026-08-02T20:58:21Z",
+      "published_at_utc": "2026-08-02T20:58:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/nothing-reportedly-prioritizing-ai-devices-like-its-leaked-smartwatch-.png": {
