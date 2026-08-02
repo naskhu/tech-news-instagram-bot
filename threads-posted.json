@@ -18534,12 +18534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-.png": {
-      "buffer_due_at_utc": "2026-08-02T21:40:14.000Z",
+      "buffer_due_at_utc": "2026-08-02T21:42:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fb2a72bbc9e0587497d7b",
+      "buffer_post_id": "6a6fb2ac5dc5613cefe41109",
       "caption_file": "output/2026-08-03/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T21:42:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fb2ac5dc5613cefe41109",
+          "published_at_utc": "2026-08-02T21:12:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T21:40:14.000Z",
           "buffer_mode": "customScheduled",
@@ -18549,7 +18555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-.png",
       "metadata_file": "output/2026-08-03/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-.json",
-      "published_at_utc": "2026-08-02T21:12:07Z",
+      "published_at_utc": "2026-08-02T21:12:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/nothing-reportedly-prioritizing-ai-devices-like-its-leaked-smartwatch-.png": {
