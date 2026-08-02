@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import os
 from datetime import date, datetime, time, timedelta, timezone
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 # Maldives local day (user timezone). Override with PUBLISH_TIMEZONE if needed.
@@ -111,14 +112,10 @@ def today_folder_name() -> str:
 
 
 def is_today_output_path(path: Path | str) -> bool:
-    """True when path is under output/YYYY-MM-DD for today's local date.
-
-    Previous-day (and older) generated photos are ignored by publishers.
-    """
+    """True when path is under output/YYYY-MM-DD for today's local date."""
     text = path.as_posix() if isinstance(path, Path) else str(path)
     parts = Path(text).parts
     today = today_folder_name()
-    # Accept output/YYYY-MM-DD/... or bare YYYY-MM-DD/...
     for index, part in enumerate(parts):
         if part == today:
             return True

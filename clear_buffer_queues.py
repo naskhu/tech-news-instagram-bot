@@ -106,6 +106,10 @@ def discover_org_id(token: str, channel_ids: list[str] | None = None) -> str:
     if configured:
         return configured
 
+    # Prefer the known project org immediately when the API is rate-limited,
+    # instead of burning more discovery calls.
+    rate_limited = False
+
     # Preferred: resolve org from a known channel id (works with publish secrets).
     candidates = list(channel_ids or [])
     for key in ("BUFFER_CHANNEL_ID", "BUFFER_THREADS_CHANNEL_ID"):
@@ -131,6 +135,10 @@ def discover_org_id(token: str, channel_ids: list[str] | None = None) -> str:
                 """,
                 {"input": {"id": channel_id}},
             )
+        except RateLimitReached as exc:
+            rate_limited = True
+            print(f"channel org lookup rate-limited for {channel_id}: {exc}", file=sys.stderr)
+            break
         except RuntimeError as exc:
             print(f"channel org lookup failed for {channel_id}: {exc}", file=sys.stderr)
             continue
@@ -139,23 +147,29 @@ def discover_org_id(token: str, channel_ids: list[str] | None = None) -> str:
         if org_id:
             return org_id
 
-    # Fallback: account organizations list.
-    for query in (
-        "query { account { id organizations { id name } } }",
-        "query { organizations { id name } }",
-    ):
-        try:
-            data = graphql(token, query)
-        except RuntimeError as exc:
-            print(f"Org discovery query failed: {exc}", file=sys.stderr)
-            continue
-        orgs: list[Any] = []
-        if isinstance(data.get("account"), dict):
-            orgs = data["account"].get("organizations") or []
-        elif isinstance(data.get("organizations"), list):
-            orgs = data["organizations"]
-        if orgs and isinstance(orgs[0], dict) and orgs[0].get("id"):
-            return str(orgs[0]["id"])
+    if not rate_limited:
+        # Fallback: account organizations list.
+        for query in (
+            "query { account { id organizations { id name } } }",
+            "query { organizations { id name } }",
+        ):
+            try:
+                data = graphql(token, query)
+            except RateLimitReached as exc:
+                rate_limited = True
+                print(f"Org discovery rate-limited: {exc}", file=sys.stderr)
+                break
+            except RuntimeError as exc:
+                print(f"Org discovery query failed: {exc}", file=sys.stderr)
+                continue
+            orgs: list[Any] = []
+            if isinstance(data.get("account"), dict):
+                orgs = data["account"].get("organizations") or []
+            elif isinstance(data.get("organizations"), list):
+                orgs = data["organizations"]
+            if orgs and isinstance(orgs[0], dict) and orgs[0].get("id"):
+                return str(orgs[0]["id"])
+
     if DEFAULT_ORGANIZATION_ID:
         print(f"Falling back to default organization id {DEFAULT_ORGANIZATION_ID}")
         return DEFAULT_ORGANIZATION_ID

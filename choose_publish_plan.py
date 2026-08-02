@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Decide Buffer publish mode with a calendar-day Instagram cap.
 
-Only today's generated photos are eligible. Automatic runs drain all of today's
-pending posts (up to 49/day) before local midnight.
+Only today's generated photos are eligible. Automatic runs send a few posts per
+tick so Buffer never gets the full backlog dumped into the queue. Hard cap:
+INSTAGRAM_DAILY_LIMIT (default 49) posts per local calendar day.
 """
 
 from __future__ import annotations
@@ -18,16 +19,15 @@ from publish_limits import (
     cooldown_active,
     count_posted_today,
     quota_left_today,
-    seconds_until_local_midnight,
     today_folder_name,
     today_local,
 )
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
-# Drain today's remaining queue each tick (hard-capped by DAILY_LIMIT=49).
-MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("MAX_PER_SCHEDULE_TICK", "49")))
-MAX_PER_GENERATE_TICK = max(1, int(os.getenv("MAX_PER_GENERATE_TICK", "49")))
+# Gentle ticks so we do not flood Buffer (≈49 across waking hours).
+MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("MAX_PER_SCHEDULE_TICK", "2")))
+MAX_PER_GENERATE_TICK = max(1, int(os.getenv("MAX_PER_GENERATE_TICK", "2")))
 
 
 def load_state() -> dict:
@@ -83,20 +83,6 @@ def skip(reason: str, pending: int, used_today: int, quota_left: int) -> int:
     return 0
 
 
-# Keep under workflow timeout-minutes (75). Later schedule ticks continue draining
-# today's leftover queue before local midnight.
-ACTIONS_SAFE_DRAIN_SECONDS = max(600, int(os.getenv("ACTIONS_SAFE_DRAIN_SECONDS", str(55 * 60))))
-
-
-def drain_seconds_for(max_posts: int) -> int:
-    """Spread this tick's posts inside time left before midnight (Actions-safe)."""
-    until_midnight = max(300, seconds_until_local_midnight() - 120)
-    window = min(until_midnight, ACTIONS_SAFE_DRAIN_SECONDS)
-    if max_posts <= 1:
-        return min(900, window)
-    return max(600, min(window, max_posts * 900))
-
-
 def main() -> int:
     event_name = os.getenv("GITHUB_EVENT_NAME", "workflow_dispatch")
     manual_max = os.getenv("MANUAL_MAX_POSTS", "").strip()
@@ -131,12 +117,12 @@ def main() -> int:
             should_publish="true",
             mode="drain",
             max_posts=max_posts,
-            drain_seconds=drain_seconds_for(max_posts),
+            drain_seconds=max(1200, max_posts * 1200),
             pending=pending,
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="after_generate_today_drain_before_midnight",
+            reason="after_generate_today_only_day_cap",
         )
         return 0
 
@@ -146,32 +132,35 @@ def main() -> int:
             should_publish="true",
             mode="drain",
             max_posts=max_posts,
-            drain_seconds=drain_seconds_for(max_posts),
+            drain_seconds=max(900, max_posts * 1000),
             pending=pending,
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="schedule_today_drain_before_midnight",
+            reason="schedule_today_only_day_cap",
         )
         return 0
 
+    # Manual: never dump the full backlog into Buffer. Cap at remaining day quota
+    # and the gentle tick size unless an explicit number is provided.
     if manual_max.lower() == "all" or manual_max == "":
         max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
             mode="drain",
             max_posts=max_posts,
-            drain_seconds=drain_seconds_for(max_posts),
+            drain_seconds=max(1200, max_posts * 600),
             pending=pending,
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="manual_today_drain_before_midnight",
+            reason="manual_today_only_gentle_tick",
         )
         return 0
 
     requested = max(1, int(manual_max or "1"))
-    max_posts = min(requested, pending, quota_left)
+    # Explicit manual numbers still cannot exceed the calendar-day 49 cap.
+    max_posts = min(requested, pending, quota_left, DAILY_LIMIT)
     write_output(
         should_publish="true",
         mode="batch",
@@ -181,7 +170,7 @@ def main() -> int:
         used_today=used_today,
         quota_left=quota_left,
         local_date=today_local().isoformat(),
-        reason="manual_batch_today_only",
+        reason="manual_batch_today_only_day_cap",
     )
     return 0
 

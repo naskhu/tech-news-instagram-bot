@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish (all = drain today's queue within day cap)
+        description: Maximum unpublished posts to publish (use all to drain within day cap)
         required: false
-        default: "all"
+        default: "2"
   schedule:
-    # About every 30 minutes: drain today's remaining photos (never previous-day
-    # folders) under the calendar-day 49-post cap (Indian/Maldives midnight).
+    # About every 30 minutes. Sends a few of today's photos only (never previous
+    # days, never the full backlog) under the calendar-day 49-post Buffer cap.
     - cron: "11,41 * * * *"
 
 permissions:
@@ -51,14 +51,14 @@ jobs:
         id: plan
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-          MANUAL_MAX_POSTS: ${{ inputs.max_posts || 'all' }}
+          MANUAL_MAX_POSTS: ${{ inputs.max_posts || '2' }}
           # Maldives local day. Pause until this local date (Instagram action-block cool-down).
           PUBLISH_TIMEZONE: Indian/Maldives
           PUBLISH_RESUME_DATE: "2026-07-26"
           POSTING_START_HOUR: "8"
           INSTAGRAM_DAILY_LIMIT: "49"
-          MAX_PER_SCHEDULE_TICK: "49"
-          MAX_PER_GENERATE_TICK: "49"
+          MAX_PER_SCHEDULE_TICK: "2"
+          MAX_PER_GENERATE_TICK: "2"
         run: python3 choose_publish_plan.py
 
       - name: Require Buffer secrets
@@ -101,8 +101,6 @@ jobs:
           PUBLISH_RESUME_DATE: "2026-07-26"
           POSTING_START_HOUR: "8"
           INSTAGRAM_DAILY_LIMIT: "49"
-          MAX_PER_SCHEDULE_TICK: "49"
-          MAX_PER_GENERATE_TICK: "49"
         run: |
           echo "Pending unpublished posts: ${{ steps.plan.outputs.pending }}"
           echo "Mode: ${{ steps.plan.outputs.mode }}"
