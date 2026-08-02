@@ -18384,12 +18384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/review-the-galaxy-z-fold-8-ultra-ticks-every-box-but-it-s-the-boring-o.png": {
-      "buffer_due_at_utc": "2026-08-02T21:37:44.000Z",
+      "buffer_due_at_utc": "2026-08-02T21:39:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fad075dc5613cefe3c3ee",
+      "buffer_post_id": "6a6fad0c98d2f31dff1209ff",
       "caption_file": "output/2026-08-03/review-the-galaxy-z-fold-8-ultra-ticks-every-box-but-it-s-the-boring-o.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T21:39:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fad0c98d2f31dff1209ff",
+          "published_at_utc": "2026-08-02T20:48:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T21:37:44.000Z",
           "buffer_mode": "customScheduled",
@@ -18399,7 +18405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/review-the-galaxy-z-fold-8-ultra-ticks-every-box-but-it-s-the-boring-o.png",
       "metadata_file": "output/2026-08-03/review-the-galaxy-z-fold-8-ultra-ticks-every-box-but-it-s-the-boring-o.json",
-      "published_at_utc": "2026-08-02T20:48:07Z",
+      "published_at_utc": "2026-08-02T20:48:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/stadia-was-some-of-the-most-fun-i-ve-had-gaming-but-it-was-right-to-di.png": {
