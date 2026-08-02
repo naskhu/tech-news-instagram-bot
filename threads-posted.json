@@ -15034,12 +15034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/iphone-17-pro-found-pristine-after-surviving-fall-from-airplane-9to5ma.png": {
-      "buffer_due_at_utc": "2026-08-02T05:34:59.000Z",
+      "buffer_due_at_utc": "2026-08-02T05:36:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ecb39c54cb28366527ee4",
+      "buffer_post_id": "6a6ecb3ec54cb28366527f2f",
       "caption_file": "output/2026-07-31/iphone-17-pro-found-pristine-after-surviving-fall-from-airplane-9to5ma.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T05:36:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ecb3ec54cb28366527f2f",
+          "published_at_utc": "2026-08-02T04:44:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T05:34:59.000Z",
           "buffer_mode": "customScheduled",
@@ -15049,7 +15055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/iphone-17-pro-found-pristine-after-surviving-fall-from-airplane-9to5ma.png",
       "metadata_file": "output/2026-07-31/iphone-17-pro-found-pristine-after-surviving-fall-from-airplane-9to5ma.json",
-      "published_at_utc": "2026-08-02T04:44:41Z",
+      "published_at_utc": "2026-08-02T04:44:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-31/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflix-s-d.png": {
