@@ -5813,6 +5813,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-01T11:26:01Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/iran-struck-amazon-data-centers-again-amid-widening-war-satellites-sho.png": {
+      "buffer_post_id": "6a6ecd4098d2f31dff06de65",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/iran-struck-amazon-data-centers-again-amid-widening-war-satellites-sho.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/iran-struck-amazon-data-centers-again-amid-widening-war-satellites-sho.png",
+      "metadata_file": "output/2026-07-30/iran-struck-amazon-data-centers-again-amid-widening-war-satellites-sho.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T04:53:28Z",
+      "publisher": "buffer"
     }
   }
 }
