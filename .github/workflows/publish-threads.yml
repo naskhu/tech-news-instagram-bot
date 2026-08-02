@@ -13,8 +13,8 @@ on:
         required: false
         default: "all"
   schedule:
-    # Every 20 minutes (offset from Generate): enqueue leftover Threads posts via Buffer.
-    # Cap 250 / rolling 24h (Buffer Threads hard limit). Random dueAt within 1 hour.
+    # Every 20 minutes: enqueue today's leftover Threads posts via Buffer
+    # (never previous-day folders). Cap 250 / rolling 24h. Random dueAt in 1h.
     - cron: "10,30,50 * * * *"
 
 permissions:
