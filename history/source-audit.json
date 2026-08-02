@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-02T22:49:19.756812+00:00",
+  "run_utc": "2026-08-02T23:09:51.782851+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-30T22:49:19.757089+00:00",
-  "eligible_story_count": 233,
+  "cutoff_utc": "2026-07-30T23:09:51.782999+00:00",
+  "eligible_story_count": 226,
   "sources": [
     {
       "source": "TechCrunch",
@@ -249,8 +249,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 12,
-      "already_processed": 40,
-      "older_than_window": 65,
+      "already_processed": 41,
+      "older_than_window": 64,
       "metadata_errors": {}
     },
     {
@@ -377,13 +377,13 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 19,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 31,
           "error": ""
         }
       ],
@@ -391,8 +391,8 @@
       "page_links": 50,
       "page_articles": 45,
       "eligible_new": 84,
-      "already_processed": 1,
-      "older_than_window": 9,
+      "already_processed": 0,
+      "older_than_window": 11,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -568,12 +568,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 2,
-      "eligible_new": 1,
-      "already_processed": 14,
+      "page_articles": 6,
+      "eligible_new": 0,
+      "already_processed": 16,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 23
+        "no_article_metadata": 1,
+        "http_429": 18
       }
     },
     {
@@ -673,8 +674,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 32,
-      "already_processed": 13,
+      "eligible_new": 29,
+      "already_processed": 16,
       "older_than_window": 20,
       "metadata_errors": {
         "no_article_metadata": 2
