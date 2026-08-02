@@ -18282,6 +18282,25 @@
       "metadata_file": "output/2026-08-02/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-li.json",
       "published_at_utc": "2026-08-02T06:46:49Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-03/first-googlebooks-from-lenovo-leak-two-sizes-and-2-in-1-tablet.png": {
+      "buffer_due_at_utc": "2026-08-02T20:29:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fa7cd61a1f4fc188284fa",
+      "caption_file": "output/2026-08-03/first-googlebooks-from-lenovo-leak-two-sizes-and-2-in-1-tablet.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T20:29:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fa7cd61a1f4fc188284fa",
+          "published_at_utc": "2026-08-02T20:25:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/first-googlebooks-from-lenovo-leak-two-sizes-and-2-in-1-tablet.png",
+      "metadata_file": "output/2026-08-03/first-googlebooks-from-lenovo-leak-two-sizes-and-2-in-1-tablet.json",
+      "published_at_utc": "2026-08-02T20:25:50Z",
+      "publisher": "buffer_threads"
     }
   }
 }
