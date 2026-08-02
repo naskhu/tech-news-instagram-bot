@@ -12634,12 +12634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.png": {
-      "buffer_due_at_utc": "2026-08-02T00:37:18.000Z",
+      "buffer_due_at_utc": "2026-08-02T00:39:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e8b79c54cb28366504e8a",
+      "buffer_post_id": "6a6e8b7ec54cb28366504ec4",
       "caption_file": "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T00:39:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e8b7ec54cb28366504ec4",
+          "published_at_utc": "2026-08-02T00:12:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T00:37:18.000Z",
           "buffer_mode": "customScheduled",
@@ -12649,7 +12655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.png",
       "metadata_file": "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.json",
-      "published_at_utc": "2026-08-02T00:12:41Z",
+      "published_at_utc": "2026-08-02T00:12:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/nasa-s-curiosity-rover-found-a-sea-of-polygons-on-mars.png": {
