@@ -19034,12 +19034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-we-re-go.png": {
-      "buffer_due_at_utc": "2026-08-03T00:03:18.000Z",
+      "buffer_due_at_utc": "2026-08-03T00:05:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fced861a1f4fc18847b48",
+      "buffer_post_id": "6a6fcedd61a1f4fc18847b8d",
       "caption_file": "output/2026-08-03/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-we-re-go.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T00:05:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fcedd61a1f4fc18847b8d",
+          "published_at_utc": "2026-08-02T23:12:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T00:03:18.000Z",
           "buffer_mode": "customScheduled",
@@ -19049,7 +19055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-we-re-go.png",
       "metadata_file": "output/2026-08-03/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-we-re-go.json",
-      "published_at_utc": "2026-08-02T23:12:24Z",
+      "published_at_utc": "2026-08-02T23:12:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-g.png": {
