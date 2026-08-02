@@ -18308,6 +18308,25 @@
       "published_at_utc": "2026-08-02T20:54:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.png": {
+      "buffer_due_at_utc": "2026-08-02T21:17:59.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6faf631b4d436cc31bb676",
+      "caption_file": "output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T21:17:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6faf631b4d436cc31bb676",
+          "published_at_utc": "2026-08-02T20:58:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.png",
+      "metadata_file": "output/2026-08-03/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-lim.json",
+      "published_at_utc": "2026-08-02T20:58:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/deals-fold-8-ultra-2-in-1-copilot-pcs-and-surface-pro-up-to-500-off-lg.png": {
       "buffer_due_at_utc": "2026-08-02T21:28:25.000Z",
       "buffer_mode": "customScheduled",
