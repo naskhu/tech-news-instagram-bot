@@ -6022,6 +6022,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T05:50:32Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/nasa-s-curiosity-rover-found-a-sea-of-polygons-on-mars.png": {
+      "buffer_post_id": "6a6edaa961a1f4fc18782717",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/nasa-s-curiosity-rover-found-a-sea-of-polygons-on-mars.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/nasa-s-curiosity-rover-found-a-sea-of-polygons-on-mars.png",
+      "metadata_file": "output/2026-07-30/nasa-s-curiosity-rover-found-a-sea-of-polygons-on-mars.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T05:50:41Z",
+      "publisher": "buffer"
     }
   }
 }
