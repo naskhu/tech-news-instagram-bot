@@ -19,6 +19,8 @@ import requests
 from bs4 import BeautifulSoup
 from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps, ImageStat
 
+from publish_limits import today_folder_name
+
 ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT / "config.json"
 STATE_PATH = ROOT / "state.json"
@@ -462,7 +464,7 @@ def main() -> None:
             continue
 
         hero, hero_url = download_best_image(image_candidates)
-        date_folder = story["published"].astimezone(timezone.utc).strftime("%Y-%m-%d")
+        date_folder = today_folder_name()
         base_name = slugify(story["title"])
         folder = OUTPUT_DIR / date_folder
         image_path = folder / f"{base_name}.png"
@@ -477,6 +479,7 @@ def main() -> None:
             "source": story["source"],
             "url": story["url"],
             "published_utc": story["published"].isoformat(),
+            "output_day": date_folder,
             "generated_utc": datetime.now(timezone.utc).isoformat(),
             "hero_image_url": hero_url or None,
             "hero_image_used": hero is not None,

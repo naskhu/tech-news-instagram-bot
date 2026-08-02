@@ -70,7 +70,7 @@ Limits (Maldives local time, `Indian/Maldives`):
 - **No backlog dump:** each tick sends a few posts (default 2), never the whole pending queue into Buffer
 - **Start hour:** automatic posting starts at **08:00** local (configurable via `POSTING_START_HOUR`)
 - **Cool-down:** publishing stays paused until `PUBLISH_RESUME_DATE` (currently `2026-07-26`) while Instagram action-blocks cool down
-- **Fresh daily queue:** generate workflows delete previous `output/YYYY-MM-DD/` folders after local midnight so the next day builds new images
+- **Fresh daily queue:** generate workflows keep only `output/<today>/` and delete previous day folders after local midnight
 - **Clear Buffer queue:** use **Clear Buffer Queues** with target `instagram` to delete queued/draft Instagram posts in Buffer
 
 Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and while Instagram shows “Try Again Later”).
