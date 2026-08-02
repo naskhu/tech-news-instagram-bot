@@ -18733,6 +18733,25 @@
       "published_at_utc": "2026-08-02T21:51:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/sam-altman-and-ai-s-decel-debate.png": {
+      "buffer_due_at_utc": "2026-08-02T22:30:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fbc001b4d436cc31c6268",
+      "caption_file": "output/2026-08-03/sam-altman-and-ai-s-decel-debate.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T22:30:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fbc001b4d436cc31c6268",
+          "published_at_utc": "2026-08-02T21:52:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/sam-altman-and-ai-s-decel-debate.png",
+      "metadata_file": "output/2026-08-03/sam-altman-and-ai-s-decel-debate.json",
+      "published_at_utc": "2026-08-02T21:52:00Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/samsung-s-leaked-galaxy-z-plans-for-2027-include-an-unknown-fifth-phon.png": {
       "buffer_due_at_utc": "2026-08-02T21:42:15.000Z",
       "buffer_mode": "customScheduled",
