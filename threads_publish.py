@@ -29,7 +29,10 @@ from threads_limits import (
     parse_channel_ids,
     quota_left_24h,
 )
-from publish_limits import today_folder_name
+from publish_limits import (
+    schedule_window_seconds_until_midnight,
+    today_folder_name,
+)
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
@@ -43,8 +46,15 @@ BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 THREADS_TOPIC = os.getenv("THREADS_TOPIC", "TechNews").strip() or "TechNews"
 # Threads hard limit is 500 characters per message.
 THREADS_MAX_CHARS = max(80, min(500, int(os.getenv("THREADS_MAX_CHARS", "500"))))
-# Spread Buffer customScheduled times randomly across this window (default 1 hour).
-SCHEDULE_WINDOW_SECONDS = max(120, min(3600, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "3600"))))
+# Spread Buffer customScheduled times randomly across the rest of today
+# (default: until local midnight). Never past midnight so previous-day leftovers
+# are never scheduled into tomorrow.
+PREFERRED_SCHEDULE_WINDOW_SECONDS = max(
+    120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "86400"))
+)
+SCHEDULE_WINDOW_SECONDS = schedule_window_seconds_until_midnight(
+    preferred=PREFERRED_SCHEDULE_WINDOW_SECONDS
+)
 SCHEDULE_MIN_OFFSET_SECONDS = max(20, int(os.getenv("THREADS_SCHEDULE_MIN_OFFSET_SECONDS", "45")))
 # Delay secondary profiles (e.g. naskhu) after primary (news.world.tech) dueAt.
 SECONDARY_DELAY_SECONDS = max(0, min(600, int(os.getenv("THREADS_SECONDARY_DELAY_SECONDS", "120"))))
@@ -113,11 +123,10 @@ def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | Non
     needed = parse_channel_ids()
     candidates: list[tuple[Path, Path, Path | None]] = []
     today = today_folder_name()
-    day_dir = OUTPUT_DIR / today
 
-    # Only today's generated folder; never burn Buffer quota on previous-day leftovers.
+    # Only today's generated folder; never schedule previous-day leftovers.
     images = sorted(
-        day_dir.glob("*.png") if day_dir.is_dir() else [],
+        (OUTPUT_DIR / today).glob("*.png") if (OUTPUT_DIR / today).is_dir() else [],
         key=lambda path: (path.stat().st_mtime, path.as_posix()),
     )
     for image in images:
@@ -612,16 +621,22 @@ def publish_one(
 
 
 def publish_batch(access_token: str, channel_ids: list[str]) -> int:
-    """Enqueue up to MAX_POSTS into Buffer with random dueAt times in the next hour."""
+    """Enqueue today's pending posts with random dueAt times before local midnight."""
+    # Recompute each run so late-day publishes shrink the window to midnight.
+    global SCHEDULE_WINDOW_SECONDS
+    SCHEDULE_WINDOW_SECONDS = schedule_window_seconds_until_midnight(
+        preferred=PREFERRED_SCHEDULE_WINDOW_SECONDS
+    )
     published = 0
     skipped_missing = 0
     target = MAX_POSTS
     due_ats = allocate_due_ats(target)
     channels_label = ", ".join(channel_ids)
     print(
-        f"Scheduling up to {target} Threads post(s); primary-first channel(s) "
-        f"[{channels_label}] randomly within {SCHEDULE_WINDOW_SECONDS}s "
-        f"(secondary +{SECONDARY_DELAY_SECONDS}s) via Buffer customScheduled."
+        f"Scheduling up to {target} Threads post(s) from {today_folder_name()}/; "
+        f"primary-first channel(s) [{channels_label}] randomly within "
+        f"{SCHEDULE_WINDOW_SECONDS}s (secondary +{SECONDARY_DELAY_SECONDS}s, "
+        "never past local midnight) via Buffer customScheduled."
     )
 
     while published < target:

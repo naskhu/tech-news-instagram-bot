@@ -83,7 +83,7 @@ Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and
 - **Rolling 24h cap:** at most **250** posts (Buffer Threads hard limit)
 - **Generate:** every **20 minutes** (V2) creates up to **4** new posts when fresh news exists
 - **After each Generate:** enqueue **all** of today’s pending Threads posts into Buffer
-- **Random 1-hour schedule:** each post gets a random `dueAt` inside the next **60 minutes** (`customScheduled`)
+- **Before midnight:** each post gets a random `dueAt` between now and local midnight (`customScheduled`)
 - **Primary release:** same story posts to **news.world.tech** first, then **naskhu** (~2 minutes later)
 - **Captions:** trimmed to Threads’ **500** character limit with a single topic (`#TechNews`)
 - **State:** `threads-posted.json` (independent from `instagram-posted.json`)

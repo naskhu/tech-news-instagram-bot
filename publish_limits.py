@@ -122,3 +122,16 @@ def is_today_output_path(path: Path | str) -> bool:
         if part == "output" and index + 1 < len(parts) and parts[index + 1] == today:
             return True
     return False
+
+
+def schedule_window_seconds_until_midnight(
+    *,
+    preferred: int,
+    min_seconds: int = 120,
+    reserve_seconds: int = 180,
+) -> int:
+    """Prefer `preferred` window, but never schedule past local midnight."""
+    until_midnight = max(0, seconds_until_local_midnight() - max(0, reserve_seconds))
+    if until_midnight <= 0:
+        return min_seconds
+    return max(min_seconds, min(preferred, until_midnight))

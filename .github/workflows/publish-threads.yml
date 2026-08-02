@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish to Threads (all = drain under 250/24h into next hour)
+        description: Maximum unpublished posts to publish to Threads (all = drain today's queue under 250/24h before midnight)
         required: false
         default: "all"
   schedule:
     # Every 20 minutes: enqueue today's leftover Threads posts via Buffer
-    # (never previous-day folders). Cap 250 / rolling 24h. Random dueAt in 1h.
+    # (never previous-day folders). Cap 250 / rolling 24h. dueAt before midnight.
     - cron: "10,30,50 * * * *"
 
 permissions:

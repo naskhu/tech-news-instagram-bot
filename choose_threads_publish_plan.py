@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Decide Buffer Threads publish plan (rolling 250 / 24h cap).
 
-Only today's generated photos are eligible. After Generate (and on schedule
-backups), enqueue today's pending posts so Buffer can release them at random
-times within the next hour.
+Only today's generated photos are eligible. After Generate (and schedule
+backups), enqueue all of today's pending posts so Buffer can release them at
+random times before local midnight.
 """
 
 from __future__ import annotations
@@ -13,7 +13,7 @@ import os
 import sys
 from pathlib import Path
 
-from publish_limits import today_folder_name
+from publish_limits import today_folder_name, today_local
 from threads_limits import (
     DAILY_LIMIT,
     count_posted_last_24h,
@@ -78,6 +78,7 @@ def skip(reason: str, pending: int, used_24h: int, quota_left: int) -> int:
         pending=pending,
         used_24h=used_24h,
         quota_left=quota_left,
+        local_date=today_local().isoformat(),
         reason=reason,
     )
     return 0
@@ -102,7 +103,7 @@ def main() -> int:
             0,
         )
 
-    # After Generate: schedule every remaining story from today inside the next hour.
+    # After Generate: schedule every remaining story from today before midnight.
     if event_name == "workflow_run":
         max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
@@ -113,7 +114,8 @@ def main() -> int:
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="after_generate_today_drain_1h",
+            local_date=today_local().isoformat(),
+            reason="after_generate_today_drain_before_midnight",
         )
         return 0
 
@@ -127,7 +129,8 @@ def main() -> int:
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="schedule_today_drain_1h",
+            local_date=today_local().isoformat(),
+            reason="schedule_today_drain_before_midnight",
         )
         return 0
 
@@ -141,7 +144,8 @@ def main() -> int:
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
-            reason="manual_today_drain_1h",
+            local_date=today_local().isoformat(),
+            reason="manual_today_drain_before_midnight",
         )
         return 0
 
@@ -155,6 +159,7 @@ def main() -> int:
         pending=pending,
         used_24h=used_24h,
         quota_left=quota_left,
+        local_date=today_local().isoformat(),
         reason="manual_batch_today_only",
     )
     return 0
