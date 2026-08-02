@@ -15108,6 +15108,25 @@
       "published_at_utc": "2026-08-02T04:44:46Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-31/iphone-air-2-to-feature-smaller-dynamic-island-more-report-9to5mac.png": {
+      "buffer_due_at_utc": "2026-08-02T07:49:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ef2635dc5613cefda352c",
+      "caption_file": "output/2026-07-31/iphone-air-2-to-feature-smaller-dynamic-island-more-report-9to5mac.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T07:49:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ef2635dc5613cefda352c",
+          "published_at_utc": "2026-08-02T07:31:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-31/iphone-air-2-to-feature-smaller-dynamic-island-more-report-9to5mac.png",
+      "metadata_file": "output/2026-07-31/iphone-air-2-to-feature-smaller-dynamic-island-more-report-9to5mac.json",
+      "published_at_utc": "2026-08-02T07:31:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-31/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflix-s-d.png": {
       "buffer_due_at_utc": "2026-08-01T02:07:47.000Z",
       "buffer_mode": "customScheduled",
