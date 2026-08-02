@@ -65,14 +65,13 @@ See **[LOCAL_INSTAGRAM_WORKER.md](LOCAL_INSTAGRAM_WORKER.md)**. Instagram often 
 
 Limits (Maldives local time, `Indian/Maldives`):
 
-- **Today only:** only photos under `output/<today>/` are sent to Buffer; previous-day leftovers are ignored
-- **Calendar-day cap:** at most **49** Instagram posts between local midnight and next midnight
-- **Generate cap:** at most **49** images are created per local day (matches the Instagram cap so the day folder is not deleted with leftovers)
+- **Kept days:** `output/<yesterday>/` and `output/<today>/` are kept; older day folders are deleted
+- **Generate all eligible:** no daily generate image cap — new posts still write into `output/<today>/`
+- **Calendar-day Instagram cap:** at most **49** Instagram posts between local midnight and next midnight
+- **Publish kept days:** Instagram and Threads drain previous-day leftovers first, then today’s posts
 - **Drain before midnight:** Instagram ticks stay gentle early, then automatically drain remaining posts under the day cap before local midnight
-- **No backlog dump:** early ticks send a few posts; late-day / catch-up ticks can send the remaining day quota
 - **Start hour:** automatic posting starts at **08:00** local (configurable via `POSTING_START_HOUR`)
 - **Cool-down:** publishing stays paused until `PUBLISH_RESUME_DATE` (currently `2026-07-26`) while Instagram action-blocks cool down
-- **Fresh daily queue:** generate workflows keep only `output/<today>/` and delete previous day folders after local midnight
 - **Clear Buffer queue:** use **Clear Buffer Queues** with target `instagram` to delete queued/draft Instagram posts in Buffer
 
 Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and while Instagram shows “Try Again Later”).
@@ -81,10 +80,10 @@ Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and
 
 **Publish to Threads** is a separate workflow (`publish-threads.yml`) that posts the same `output/` images through Buffer’s Threads channel. It does **not** use the Instagram cool-down.
 
-- **Today only:** only stories under `output/<today>/`; previous-day posts are never scheduled
+- **Kept days:** only stories under `output/<yesterday>/` and `output/<today>/`; older folders are deleted
 - **Rolling 24h cap:** at most **250** posts (Buffer Threads hard limit)
 - **Generate:** every **20 minutes** (V2) creates up to **4** new posts when fresh news exists
-- **After each Generate:** enqueue **all** of today’s pending Threads posts into Buffer
+- **After each Generate:** enqueue pending Threads posts from kept day folders into Buffer
 - **Before midnight:** each post gets a random `dueAt` between now and local midnight (`customScheduled`)
 - **Primary release:** same story posts to **news.world.tech** first, then **naskhu** (~2 minutes later)
 - **Captions:** trimmed to Threads’ **500** character limit with a single topic (`#TechNews`)

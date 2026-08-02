@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Decide Buffer publish mode with a calendar-day Instagram cap.
 
-Only today's generated photos are eligible. Hard cap: INSTAGRAM_DAILY_LIMIT
-(default 49). Runs stay gentle early, then drain remaining posts before local
-midnight so today-only folders are not deleted with unpublished leftovers.
+Pending photos from kept output days (yesterday + today) are eligible. Hard
+cap: INSTAGRAM_DAILY_LIMIT (default 49). Runs stay gentle early, then drain
+remaining posts before local midnight.
 """
 
 from __future__ import annotations
@@ -18,9 +18,9 @@ from publish_limits import (
     before_posting_window,
     cooldown_active,
     count_posted_today,
+    kept_output_dirs,
     quota_left_today,
     seconds_until_local_midnight,
-    today_folder_name,
     today_local,
 )
 
@@ -51,15 +51,14 @@ def load_state() -> dict:
 def count_pending(state: dict) -> int:
     posted = state.get("posted", {})
     keys = set(posted.keys()) if isinstance(posted, dict) else set()
-    day_dir = OUTPUT_DIR / today_folder_name()
-    if not day_dir.is_dir():
-        return 0
     pending = 0
-    for image in day_dir.glob("*.png"):
-        if image.as_posix() in keys:
-            continue
-        if image.with_suffix(".txt").exists():
-            pending += 1
+    # Include today + previous kept day so leftovers are not stranded.
+    for day_dir in kept_output_dirs(OUTPUT_DIR):
+        for image in day_dir.glob("*.png"):
+            if image.as_posix() in keys:
+                continue
+            if image.with_suffix(".txt").exists():
+                pending += 1
     return pending
 
 
@@ -130,7 +129,7 @@ def main() -> int:
         return skip(early_reason, pending, used_today, quota_left)
 
     if pending <= 0:
-        return skip("queue_empty_today_only", pending, used_today, quota_left)
+        return skip("queue_empty_kept_days", pending, used_today, quota_left)
 
     if quota_left <= 0:
         return skip(

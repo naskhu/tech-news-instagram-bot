@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Decide Buffer Threads publish plan (rolling 250 / 24h cap).
 
-Only today's generated photos are eligible. After Generate (and schedule
-backups), enqueue all of today's pending posts so Buffer can release them at
-random times before local midnight.
+Pending posts from kept output days (yesterday + today) are eligible. After
+Generate (and schedule backups), enqueue pending posts so Buffer can release
+them at random times before local midnight.
 """
 
 from __future__ import annotations
@@ -13,7 +13,7 @@ import os
 import sys
 from pathlib import Path
 
-from publish_limits import today_folder_name, today_local
+from publish_limits import kept_output_dirs, today_folder_name, today_local
 from threads_limits import (
     DAILY_LIMIT,
     count_posted_last_24h,
@@ -45,17 +45,15 @@ def load_state() -> dict:
 def count_pending(state: dict) -> int:
     posted = state.get("posted", {})
     needed = parse_channel_ids()
-    day_dir = OUTPUT_DIR / today_folder_name()
-    if not day_dir.is_dir():
-        return 0
     pending = 0
-    for image in day_dir.glob("*.png"):
-        relative = image.as_posix()
-        existing = posted.get(relative) if isinstance(posted, dict) else None
-        if not needs_publish(existing, needed):
-            continue
-        if image.with_suffix(".txt").exists():
-            pending += 1
+    for day_dir in kept_output_dirs(OUTPUT_DIR):
+        for image in day_dir.glob("*.png"):
+            relative = image.as_posix()
+            existing = posted.get(relative) if isinstance(posted, dict) else None
+            if not needs_publish(existing, needed):
+                continue
+            if image.with_suffix(".txt").exists():
+                pending += 1
     return pending
 
 
@@ -93,7 +91,7 @@ def main() -> int:
     quota_left = quota_left_24h(state)
 
     if pending <= 0:
-        return skip("queue_empty_today_only", pending, used_24h, quota_left)
+        return skip("queue_empty_kept_days", pending, used_24h, quota_left)
 
     if quota_left <= 0:
         return skip(

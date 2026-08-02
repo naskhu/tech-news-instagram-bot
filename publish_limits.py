@@ -11,9 +11,8 @@ from zoneinfo import ZoneInfo
 # Maldives local day (user timezone). Override with PUBLISH_TIMEZONE if needed.
 DEFAULT_TZ = "Indian/Maldives"
 DAILY_LIMIT = max(1, min(49, int(os.getenv("INSTAGRAM_DAILY_LIMIT", "49"))))
-# Do not generate more images than Instagram can post the same day (folder is
-# deleted at local midnight). Override with GENERATE_DAILY_CAP if needed.
-GENERATE_DAILY_CAP = max(1, min(49, int(os.getenv("GENERATE_DAILY_CAP", str(DAILY_LIMIT)))))
+# Keep today + previous day by default; older output folders are deleted.
+KEEP_OUTPUT_DAYS = max(1, min(14, int(os.getenv("KEEP_OUTPUT_DAYS", "2"))))
 # Do not post before this local hour (0-23). Default 8:00 local.
 POSTING_START_HOUR = max(0, min(23, int(os.getenv("POSTING_START_HOUR", "8"))))
 # Optional hard pause while Instagram action-blocks the account (ISO date YYYY-MM-DD local).
@@ -115,17 +114,29 @@ def today_folder_name() -> str:
     return today_local().isoformat()
 
 
+def kept_output_day_names() -> list[str]:
+    """Local calendar days still kept under output/ (today first, then older)."""
+    today = today_local()
+    return [(today - timedelta(days=offset)).isoformat() for offset in range(KEEP_OUTPUT_DAYS)]
+
+
+def kept_output_dirs(output_dir: Path | None = None) -> list[Path]:
+    """Existing kept day folders, oldest first so leftovers clear before new posts."""
+    root = output_dir if output_dir is not None else OUTPUT_DIR
+    dirs: list[Path] = []
+    for name in reversed(kept_output_day_names()):
+        day_dir = root / name
+        if day_dir.is_dir():
+            dirs.append(day_dir)
+    return dirs
+
+
 def count_today_output_posts() -> int:
     """How many generated PNGs already exist under output/<today>/."""
     day_dir = OUTPUT_DIR / today_folder_name()
     if not day_dir.is_dir():
         return 0
     return sum(1 for _ in day_dir.glob("*.png"))
-
-
-def generate_slots_left_today() -> int:
-    """Remaining generate slots so today's folder stays within GENERATE_DAILY_CAP."""
-    return max(0, GENERATE_DAILY_CAP - count_today_output_posts())
 
 
 def is_today_output_path(path: Path | str) -> bool:

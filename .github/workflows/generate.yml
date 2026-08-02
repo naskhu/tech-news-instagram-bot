@@ -51,14 +51,12 @@ jobs:
       - name: Clear previous calendar-day output folders
         env:
           PUBLISH_TIMEZONE: Indian/Maldives
-          KEEP_OUTPUT_DAYS: "1"
+          KEEP_OUTPUT_DAYS: "2"
         run: python3 cleanup_old_output.py --clear-old-days
 
       - name: Audit all sources and generate new posts
         env:
           PUBLISH_TIMEZONE: Indian/Maldives
-          INSTAGRAM_DAILY_LIMIT: "49"
-          GENERATE_DAILY_CAP: "49"
         run: python strict_runner.py
 
       - name: Upload current-run posts and source audit

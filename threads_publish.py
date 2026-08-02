@@ -30,6 +30,7 @@ from threads_limits import (
     quota_left_24h,
 )
 from publish_limits import (
+    kept_output_dirs,
     schedule_window_seconds_until_midnight,
     today_folder_name,
 )
@@ -122,29 +123,29 @@ def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | Non
     posted = state.get("posted", {})
     needed = parse_channel_ids()
     candidates: list[tuple[Path, Path, Path | None]] = []
-    today = today_folder_name()
 
-    # Only today's generated folder; never schedule previous-day leftovers.
-    images = sorted(
-        (OUTPUT_DIR / today).glob("*.png") if (OUTPUT_DIR / today).is_dir() else [],
-        key=lambda path: (path.stat().st_mtime, path.as_posix()),
-    )
-    for image in images:
-        relative = image.as_posix()
-        existing = posted.get(relative)
-        if not needs_publish(existing, needed):
-            continue
+    # Previous kept day first, then today — clear leftovers before new posts.
+    for day_dir in kept_output_dirs(OUTPUT_DIR):
+        images = sorted(
+            day_dir.glob("*.png"),
+            key=lambda path: (path.stat().st_mtime, path.as_posix()),
+        )
+        for image in images:
+            relative = image.as_posix()
+            existing = posted.get(relative)
+            if not needs_publish(existing, needed):
+                continue
 
-        caption = image.with_suffix(".txt")
-        metadata = image.with_suffix(".json")
-        if not image.exists() or not caption.exists():
-            print(
-                f"Skipping {relative}: image or caption missing on disk",
-                file=sys.stderr,
-            )
-            continue
+            caption = image.with_suffix(".txt")
+            metadata = image.with_suffix(".json")
+            if not image.exists() or not caption.exists():
+                print(
+                    f"Skipping {relative}: image or caption missing on disk",
+                    file=sys.stderr,
+                )
+                continue
 
-        candidates.append((image, caption, metadata if metadata.exists() else None))
+            candidates.append((image, caption, metadata if metadata.exists() else None))
 
     return candidates
 
@@ -633,7 +634,7 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
     due_ats = allocate_due_ats(target)
     channels_label = ", ".join(channel_ids)
     print(
-        f"Scheduling up to {target} Threads post(s) from {today_folder_name()}/; "
+        f"Scheduling up to {target} Threads post(s) from kept day folder(s); "
         f"primary-first channel(s) [{channels_label}] randomly within "
         f"{SCHEDULE_WINDOW_SECONDS}s (secondary +{SECONDARY_DELAY_SECONDS}s, "
         "never past local midnight) via Buffer customScheduled."

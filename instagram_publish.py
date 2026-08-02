@@ -20,8 +20,8 @@ from publish_limits import (
     before_posting_window,
     cooldown_active,
     count_posted_today,
+    kept_output_dirs,
     quota_left_today,
-    today_folder_name,
     today_local,
 )
 
@@ -90,23 +90,22 @@ def save_state(state: dict[str, Any]) -> None:
 def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
     posted = state.get("posted", {})
     candidates: list[tuple[Path, Path, Path | None]] = []
-    today = today_folder_name()
-    day_dir = OUTPUT_DIR / today
 
-    # Only today's generated folder; never send previous-day leftovers to Buffer.
-    images = sorted(day_dir.glob("*.png")) if day_dir.is_dir() else []
-    for image in images:
-        relative = image.as_posix()
-        if relative in posted:
-            continue
+    # Previous kept day first, then today — clear leftovers before new posts.
+    for day_dir in kept_output_dirs(OUTPUT_DIR):
+        images = sorted(day_dir.glob("*.png"))
+        for image in images:
+            relative = image.as_posix()
+            if relative in posted:
+                continue
 
-        caption = image.with_suffix(".txt")
-        metadata = image.with_suffix(".json")
-        if not caption.exists():
-            print(f"Skipping {relative}: matching caption file is missing", file=sys.stderr)
-            continue
+            caption = image.with_suffix(".txt")
+            metadata = image.with_suffix(".json")
+            if not caption.exists():
+                print(f"Skipping {relative}: matching caption file is missing", file=sys.stderr)
+                continue
 
-        candidates.append((image, caption, metadata if metadata.exists() else None))
+            candidates.append((image, caption, metadata if metadata.exists() else None))
 
     return candidates
 
