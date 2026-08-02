@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-02T22:08:58.908915+00:00",
+  "run_utc": "2026-08-02T22:49:19.756812+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-30T22:08:58.909047+00:00",
-  "eligible_story_count": 227,
+  "cutoff_utc": "2026-07-30T22:49:19.757089+00:00",
+  "eligible_story_count": 233,
   "sources": [
     {
       "source": "TechCrunch",
@@ -28,7 +28,7 @@
       "page_links": 26,
       "page_articles": 26,
       "eligible_new": 0,
-      "already_processed": 27,
+      "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 2,
-      "already_processed": 20,
+      "eligible_new": 0,
+      "already_processed": 22,
       "older_than_window": 9,
       "metadata_errors": {}
     },
@@ -249,8 +249,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 12,
-      "already_processed": 41,
-      "older_than_window": 64,
+      "already_processed": 40,
+      "older_than_window": 65,
       "metadata_errors": {}
     },
     {
@@ -330,10 +330,10 @@
         },
         {
           "url": "https://thenextweb.com/feed",
-          "status": 404,
-          "content_type": "text/html; charset=UTF-8",
-          "entries": 0,
-          "error": "HTTPError:404 Client Error: Not Found for url: https://thenextweb.com/feed",
+          "status": 200,
+          "content_type": "application/xml",
+          "entries": 10,
+          "error": "",
           "redirected_to": "https://thenextweb.com/feed"
         }
       ],
@@ -345,10 +345,10 @@
           "error": ""
         }
       ],
-      "rss_candidates": 0,
+      "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 10,
+      "eligible_new": 20,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -377,22 +377,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 20,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 30,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 85,
+      "eligible_new": 84,
       "already_processed": 1,
-      "older_than_window": 10,
+      "older_than_window": 9,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -568,12 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 5,
-      "eligible_new": 0,
-      "already_processed": 15,
+      "page_articles": 2,
+      "eligible_new": 1,
+      "already_processed": 14,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 20
+        "http_429": 23
       }
     },
     {
@@ -673,8 +673,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 34,
-      "already_processed": 11,
+      "eligible_new": 32,
+      "already_processed": 13,
       "older_than_window": 20,
       "metadata_errors": {
         "no_article_metadata": 2

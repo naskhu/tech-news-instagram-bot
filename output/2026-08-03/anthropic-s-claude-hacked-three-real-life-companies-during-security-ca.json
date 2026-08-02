@@ -1,0 +1,23 @@
+{
+  "title": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant",
+  "summary": "Much like a human would, Claude noticed the obvious attack vector and, once again, due to having internet access, inferred that publishing a booby-trapped package in the PyPI repository would do the trick.",
+  "source": "Tom's Hardware",
+  "url": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-hacked-three-real-life-companies-during-security-capabilities-test-test-environment-with-internet-access-and-unwitting-targets-lax-cybersecurity-practices-led-to-bots-running-rampant",
+  "published_utc": "2026-08-01T12:30:00+00:00",
+  "output_day": "2026-08-03",
+  "date_source": "meta",
+  "generated_utc": "2026-08-02T22:50:33.933053+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://cdn.mos.cms.futurecdn.net/XuGPNAabZgP3ChkaveBMUn-1280-80.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    102,
+    204
+  ],
+  "image": "output/2026-08-03/anthropic-s-claude-hacked-three-real-life-companies-during-security-ca.png",
+  "caption": "output/2026-08-03/anthropic-s-claude-hacked-three-real-life-companies-during-security-ca.txt"
+}
