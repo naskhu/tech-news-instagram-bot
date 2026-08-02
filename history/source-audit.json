@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-02T17:39:44.070956+00:00",
+  "run_utc": "2026-08-02T18:11:36.990771+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-30T17:39:44.071111+00:00",
-  "eligible_story_count": 274,
+  "cutoff_utc": "2026-07-30T18:11:36.990962+00:00",
+  "eligible_story_count": 258,
   "sources": [
     {
       "source": "TechCrunch",
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 16,
       "already_processed": 40,
-      "older_than_window": 60,
+      "older_than_window": 59,
       "metadata_errors": {}
     },
     {
@@ -330,10 +330,10 @@
         },
         {
           "url": "https://thenextweb.com/feed",
-          "status": 200,
-          "content_type": "application/xml",
-          "entries": 10,
-          "error": "",
+          "status": 404,
+          "content_type": "text/html; charset=UTF-8",
+          "entries": 0,
+          "error": "HTTPError:404 Client Error: Not Found for url: https://thenextweb.com/feed",
           "redirected_to": "https://thenextweb.com/feed"
         }
       ],
@@ -345,10 +345,10 @@
           "error": ""
         }
       ],
-      "rss_candidates": 10,
+      "rss_candidates": 0,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 20,
+      "eligible_new": 10,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -390,7 +390,7 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 83,
+      "eligible_new": 81,
       "already_processed": 1,
       "older_than_window": 11,
       "metadata_errors": {
@@ -568,13 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 2,
+      "page_articles": 5,
       "eligible_new": 0,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 22
+        "http_429": 20
       }
     },
     {
@@ -606,9 +605,9 @@
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 9,
-      "already_processed": 39,
-      "older_than_window": 62,
+      "eligible_new": 4,
+      "already_processed": 43,
+      "older_than_window": 63,
       "metadata_errors": {}
     },
     {
