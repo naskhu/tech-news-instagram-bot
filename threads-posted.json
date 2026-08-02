@@ -11008,6 +11008,25 @@
       "published_at_utc": "2026-08-01T09:25:43Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-07-30/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack.png": {
+      "buffer_due_at_utc": "2026-08-02T00:30:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e8b6f98d2f31dff049d7f",
+      "caption_file": "output/2026-07-30/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T00:30:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e8b6f98d2f31dff049d7f",
+          "published_at_utc": "2026-08-02T00:12:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack.png",
+      "metadata_file": "output/2026-07-30/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack.json",
+      "published_at_utc": "2026-08-02T00:12:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-07-30/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran.png": {
       "buffer_due_at_utc": "2026-07-31T09:09:50.000Z",
       "buffer_mode": "customScheduled",
