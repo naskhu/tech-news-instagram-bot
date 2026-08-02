@@ -6011,6 +6011,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T05:50:23Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.png": {
+      "buffer_post_id": "6a6edaa11b4d436cc310c966",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.png",
+      "metadata_file": "output/2026-07-30/montana-s-plan-to-become-an-experimental-medical-hub-just-pushed-forwa.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T05:50:32Z",
+      "publisher": "buffer"
     }
   }
 }
