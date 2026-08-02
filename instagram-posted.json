@@ -6088,6 +6088,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T07:12:35Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m-techc.png": {
+      "buffer_post_id": "6a6eee2698d2f31dff087671",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m-techc.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m-techc.png",
+      "metadata_file": "output/2026-07-30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m-techc.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T07:13:49Z",
+      "publisher": "buffer"
     }
   }
 }
