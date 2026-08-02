@@ -17183,6 +17183,25 @@
       "published_at_utc": "2026-08-02T01:14:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/indie-app-spotlight-overflight-lets-you-glance-at-what-planes-are-flyi.png": {
+      "buffer_due_at_utc": "2026-08-02T01:41:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e99ec1b4d436cc30eadfe",
+      "caption_file": "output/2026-08-01/indie-app-spotlight-overflight-lets-you-glance-at-what-planes-are-flyi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T01:41:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e99ec1b4d436cc30eadfe",
+          "published_at_utc": "2026-08-02T01:14:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/indie-app-spotlight-overflight-lets-you-glance-at-what-planes-are-flyi.png",
+      "metadata_file": "output/2026-08-01/indie-app-spotlight-overflight-lets-you-glance-at-what-planes-are-flyi.json",
+      "published_at_utc": "2026-08-02T01:14:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/inside-the-london-hacker-house-taking-a-stand-against-founder-burnout-.png": {
       "buffer_due_at_utc": "2026-08-01T21:38:47.000Z",
       "buffer_mode": "customScheduled",
