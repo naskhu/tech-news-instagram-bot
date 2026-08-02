@@ -16733,6 +16733,25 @@
       "published_at_utc": "2026-08-02T01:13:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/apple-weekend-deals-airpods-pro-3-apple-studio-display-540-off-m5-macb.png": {
+      "buffer_due_at_utc": "2026-08-02T04:03:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6ebfb698d2f31dff067240",
+      "caption_file": "output/2026-08-01/apple-weekend-deals-airpods-pro-3-apple-studio-display-540-off-m5-macb.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T04:03:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ebfb698d2f31dff067240",
+          "published_at_utc": "2026-08-02T03:55:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/apple-weekend-deals-airpods-pro-3-apple-studio-display-540-off-m5-macb.png",
+      "metadata_file": "output/2026-08-01/apple-weekend-deals-airpods-pro-3-apple-studio-display-540-off-m5-macb.json",
+      "published_at_utc": "2026-08-02T03:55:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/apple-work-apple-says-macbook-neo-is-pulling-schools-away-from-windows.png": {
       "buffer_due_at_utc": "2026-08-02T01:25:03.000Z",
       "buffer_mode": "customScheduled",
