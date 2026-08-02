@@ -6099,6 +6099,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T07:13:49Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/openai-s-hacking-debacle-was-a-human-mistake.png": {
+      "buffer_post_id": "6a6eee7298d2f31dff0878a3",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/openai-s-hacking-debacle-was-a-human-mistake.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/openai-s-hacking-debacle-was-a-human-mistake.png",
+      "metadata_file": "output/2026-07-30/openai-s-hacking-debacle-was-a-human-mistake.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T07:15:05Z",
+      "publisher": "buffer"
     }
   }
 }
