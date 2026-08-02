@@ -18409,12 +18409,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/dell-founder-shows-how-a-100-billion-empire-started-42-years-ago-ceo-s.png": {
-      "buffer_due_at_utc": "2026-08-02T22:36:52.000Z",
+      "buffer_due_at_utc": "2026-08-02T22:38:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fc0ab1b4d436cc31cacc0",
+      "buffer_post_id": "6a6fc0b11b4d436cc31cace7",
       "caption_file": "output/2026-08-03/dell-founder-shows-how-a-100-billion-empire-started-42-years-ago-ceo-s.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T22:38:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fc0b11b4d436cc31cace7",
+          "published_at_utc": "2026-08-02T22:12:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T22:36:52.000Z",
           "buffer_mode": "customScheduled",
@@ -18424,7 +18430,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/dell-founder-shows-how-a-100-billion-empire-started-42-years-ago-ceo-s.png",
       "metadata_file": "output/2026-08-03/dell-founder-shows-how-a-100-billion-empire-started-42-years-ago-ceo-s.json",
-      "published_at_utc": "2026-08-02T22:11:56Z",
+      "published_at_utc": "2026-08-02T22:12:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-sev.png": {
