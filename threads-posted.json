@@ -13384,12 +13384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/the-download-tricking-llms-and-reviving-geothermal-plants.png": {
-      "buffer_due_at_utc": "2026-08-02T01:09:19.000Z",
+      "buffer_due_at_utc": "2026-08-02T01:11:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6e8b83c54cb28366504ee8",
+      "buffer_post_id": "6a6e8b881b4d436cc30e22fe",
       "caption_file": "output/2026-07-30/the-download-tricking-llms-and-reviving-geothermal-plants.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T01:11:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e8b881b4d436cc30e22fe",
+          "published_at_utc": "2026-08-02T00:12:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T01:09:19.000Z",
           "buffer_mode": "customScheduled",
@@ -13399,7 +13405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/the-download-tricking-llms-and-reviving-geothermal-plants.png",
       "metadata_file": "output/2026-07-30/the-download-tricking-llms-and-reviving-geothermal-plants.json",
-      "published_at_utc": "2026-08-02T00:12:51Z",
+      "published_at_utc": "2026-08-02T00:12:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-07-30/the-new-friend-ai-pendant-can-now-talk-back-to-you.png": {
