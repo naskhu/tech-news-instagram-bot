@@ -19257,6 +19257,25 @@
       "metadata_file": "output/2026-08-03/tom-holland-teases-that-he-knows-when-miles-morales-is-joining-the-mcu.json",
       "published_at_utc": "2026-08-02T22:12:31Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-03/tom-s-hardware-s-30th-anniversary-from-intel-feuds-and-dip-switches-to.png": {
+      "buffer_due_at_utc": "2026-08-03T00:43:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fd90861a1f4fc1884e306",
+      "caption_file": "output/2026-08-03/tom-s-hardware-s-30th-anniversary-from-intel-feuds-and-dip-switches-to.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T00:43:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fd90861a1f4fc1884e306",
+          "published_at_utc": "2026-08-02T23:55:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/tom-s-hardware-s-30th-anniversary-from-intel-feuds-and-dip-switches-to.png",
+      "metadata_file": "output/2026-08-03/tom-s-hardware-s-30th-anniversary-from-intel-feuds-and-dip-switches-to.json",
+      "published_at_utc": "2026-08-02T23:55:52Z",
+      "publisher": "buffer_threads"
     }
   }
 }
