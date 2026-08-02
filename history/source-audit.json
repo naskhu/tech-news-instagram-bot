@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-02T20:56:21.688220+00:00",
+  "run_utc": "2026-08-02T21:09:43.250569+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-30T20:56:21.688403+00:00",
-  "eligible_story_count": 231,
+  "cutoff_utc": "2026-07-30T21:09:43.250713+00:00",
+  "eligible_story_count": 227,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,7 +27,7 @@
       "rss_candidates": 20,
       "page_links": 26,
       "page_articles": 26,
-      "eligible_new": 1,
+      "eligible_new": 0,
       "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 13,
+      "eligible_new": 12,
       "already_processed": 41,
-      "older_than_window": 62,
+      "older_than_window": 63,
       "metadata_errors": {}
     },
     {
@@ -377,22 +377,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 19,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 31,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 82,
+      "eligible_new": 83,
       "already_processed": 1,
-      "older_than_window": 10,
+      "older_than_window": 11,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -573,8 +573,7 @@
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 18
+        "http_429": 19
       }
     },
     {
@@ -674,8 +673,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 43,
-      "already_processed": 2,
+      "eligible_new": 40,
+      "already_processed": 5,
       "older_than_window": 20,
       "metadata_errors": {
         "no_article_metadata": 2

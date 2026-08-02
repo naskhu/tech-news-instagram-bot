@@ -1,0 +1,23 @@
+{
+  "title": "First open-source firmware for AM5 officially launches — Dasharo v0.9.0 brings Coreboot and openSIL to Zen 4 APUs on MSI B850",
+  "summary": "Firmware development company 3mdeb has officially launched the first open-source UEFI firmware for AMD's AM5 platform. The firmware is built on Coreboot and AMD's openSIL, the latter being AMD’s new open-source firmware framework.",
+  "source": "Tom's Hardware",
+  "url": "https://tomshardware.com/pc-components/motherboards/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-brings-coreboot-and-opensil-to-zen-4-apus-on-msi-b850",
+  "published_utc": "2026-08-02T12:10:00+00:00",
+  "output_day": "2026-08-03",
+  "date_source": "meta",
+  "generated_utc": "2026-08-02T21:10:55.298042+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://cdn.mos.cms.futurecdn.net/8HRHpufeQP8XBVXitxXV9H-1280-80.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    102,
+    204
+  ],
+  "image": "output/2026-08-03/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-.png",
+  "caption": "output/2026-08-03/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-.txt"
+}
