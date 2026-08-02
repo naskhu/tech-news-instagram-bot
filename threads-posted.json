@@ -18408,6 +18408,25 @@
       "published_at_utc": "2026-08-02T20:26:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.png": {
+      "buffer_due_at_utc": "2026-08-02T21:42:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fae9a5dc5613cefe3d50d",
+      "caption_file": "output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T21:42:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fae9a5dc5613cefe3d50d",
+          "published_at_utc": "2026-08-02T20:54:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.png",
+      "metadata_file": "output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.json",
+      "published_at_utc": "2026-08-02T20:54:50Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/nothing-reportedly-prioritizing-ai-devices-like-its-leaked-smartwatch-.png": {
       "buffer_due_at_utc": "2026-08-02T21:31:18.000Z",
       "buffer_mode": "customScheduled",
