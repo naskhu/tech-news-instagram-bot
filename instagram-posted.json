@@ -5901,6 +5901,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T05:11:25Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/linkedin-won-t-be-expanding-its-data-centers-in-the-next-year.png": {
+      "buffer_post_id": "6a6ed398aacd241cfda5c16a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/linkedin-won-t-be-expanding-its-data-centers-in-the-next-year.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/linkedin-won-t-be-expanding-its-data-centers-in-the-next-year.png",
+      "metadata_file": "output/2026-07-30/linkedin-won-t-be-expanding-its-data-centers-in-the-next-year.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T05:20:31Z",
+      "publisher": "buffer"
     }
   }
 }
