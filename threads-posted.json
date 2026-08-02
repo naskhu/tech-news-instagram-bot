@@ -18434,12 +18434,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/big-tech-spends-more-than-1-trillion-on-ai-infrastructure-additional-7.png": {
-      "buffer_due_at_utc": "2026-08-03T00:24:33.000Z",
+      "buffer_due_at_utc": "2026-08-03T00:26:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fd8fe5dc5613cefe5e0b3",
+      "buffer_post_id": "6a6fd90361a1f4fc1884e2a1",
       "caption_file": "output/2026-08-03/big-tech-spends-more-than-1-trillion-on-ai-infrastructure-additional-7.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T00:26:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fd90361a1f4fc1884e2a1",
+          "published_at_utc": "2026-08-02T23:55:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T00:24:33.000Z",
           "buffer_mode": "customScheduled",
@@ -18449,7 +18455,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/big-tech-spends-more-than-1-trillion-on-ai-infrastructure-additional-7.png",
       "metadata_file": "output/2026-08-03/big-tech-spends-more-than-1-trillion-on-ai-infrastructure-additional-7.json",
-      "published_at_utc": "2026-08-02T23:55:42Z",
+      "published_at_utc": "2026-08-02T23:55:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.png": {
