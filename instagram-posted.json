@@ -6154,6 +6154,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-02T07:20:42Z",
       "publisher": "buffer"
+    },
+    "output/2026-07-30/reddit-is-planning-something-new-in-video.png": {
+      "buffer_post_id": "6a6ef2152bbc9e05873fea7c",
+      "buffer_status": "error",
+      "caption_file": "output/2026-07-30/reddit-is-planning-something-new-in-video.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-07-30/reddit-is-planning-something-new-in-video.png",
+      "metadata_file": "output/2026-07-30/reddit-is-planning-something-new-in-video.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-02T07:30:37Z",
+      "publisher": "buffer"
     }
   }
 }
