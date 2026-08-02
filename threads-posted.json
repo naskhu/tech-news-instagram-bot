@@ -18684,12 +18684,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/rachika-nayar-s-heaven-come-crashing-is-an-instrumental-epic-of-desper.png": {
-      "buffer_due_at_utc": "2026-08-02T22:50:07.000Z",
+      "buffer_due_at_utc": "2026-08-02T22:52:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fc0b661a1f4fc1883bc7c",
+      "buffer_post_id": "6a6fc0bb1b4d436cc31cad8b",
       "caption_file": "output/2026-08-03/rachika-nayar-s-heaven-come-crashing-is-an-instrumental-epic-of-desper.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-02T22:52:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fc0bb1b4d436cc31cad8b",
+          "published_at_utc": "2026-08-02T22:12:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-02T22:50:07.000Z",
           "buffer_mode": "customScheduled",
@@ -18699,7 +18705,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/rachika-nayar-s-heaven-come-crashing-is-an-instrumental-epic-of-desper.png",
       "metadata_file": "output/2026-08-03/rachika-nayar-s-heaven-come-crashing-is-an-instrumental-epic-of-desper.json",
-      "published_at_utc": "2026-08-02T22:12:06Z",
+      "published_at_utc": "2026-08-02T22:12:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/review-the-galaxy-z-fold-8-s-new-shape-isn-t-for-you-it-s-for-everyone.png": {
