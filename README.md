@@ -79,9 +79,10 @@ Keep the local Mac `instagrapi` worker **off** while Buffer Actions is live (and
 
 **Publish to Threads** is a separate workflow (`publish-threads.yml`) that posts the same `output/` images through Buffer’s Threads channel. It does **not** use the Instagram cool-down.
 
+- **Today only:** only stories under `output/<today>/`; previous-day posts are never scheduled
 - **Rolling 24h cap:** at most **250** posts (Buffer Threads hard limit)
 - **Generate:** every **20 minutes** (V2) creates up to **4** new posts when fresh news exists
-- **After each Generate:** enqueue **all** pending Threads posts into Buffer
+- **After each Generate:** enqueue **all** of today’s pending Threads posts into Buffer
 - **Random 1-hour schedule:** each post gets a random `dueAt` inside the next **60 minutes** (`customScheduled`)
 - **Primary release:** same story posts to **news.world.tech** first, then **naskhu** (~2 minutes later)
 - **Captions:** trimmed to Threads’ **500** character limit with a single topic (`#TechNews`)

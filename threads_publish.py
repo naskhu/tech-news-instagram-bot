@@ -29,6 +29,7 @@ from threads_limits import (
     parse_channel_ids,
     quota_left_24h,
 )
+from publish_limits import today_folder_name
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
@@ -111,10 +112,12 @@ def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | Non
     posted = state.get("posted", {})
     needed = parse_channel_ids()
     candidates: list[tuple[Path, Path, Path | None]] = []
+    today = today_folder_name()
+    day_dir = OUTPUT_DIR / today
 
-    # Stable oldest-first order; dueAt times themselves are randomized in-window.
+    # Only today's generated folder; never burn Buffer quota on previous-day leftovers.
     images = sorted(
-        OUTPUT_DIR.glob("**/*.png"),
+        day_dir.glob("*.png") if day_dir.is_dir() else [],
         key=lambda path: (path.stat().st_mtime, path.as_posix()),
     )
     for image in images:
