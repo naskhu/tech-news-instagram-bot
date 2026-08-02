@@ -47,6 +47,10 @@ jobs:
         run: python3 cleanup_old_output.py --clear-old-days
 
       - name: Generate fresh posts with verified news photos only
+        env:
+          PUBLISH_TIMEZONE: Indian/Maldives
+          INSTAGRAM_DAILY_LIMIT: "49"
+          GENERATE_DAILY_CAP: "49"
         run: python strict_runner.py
 
       - name: Check files created in this run

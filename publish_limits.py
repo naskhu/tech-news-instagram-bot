@@ -11,11 +11,15 @@ from zoneinfo import ZoneInfo
 # Maldives local day (user timezone). Override with PUBLISH_TIMEZONE if needed.
 DEFAULT_TZ = "Indian/Maldives"
 DAILY_LIMIT = max(1, min(49, int(os.getenv("INSTAGRAM_DAILY_LIMIT", "49"))))
+# Do not generate more images than Instagram can post the same day (folder is
+# deleted at local midnight). Override with GENERATE_DAILY_CAP if needed.
+GENERATE_DAILY_CAP = max(1, min(49, int(os.getenv("GENERATE_DAILY_CAP", str(DAILY_LIMIT)))))
 # Do not post before this local hour (0-23). Default 8:00 local.
 POSTING_START_HOUR = max(0, min(23, int(os.getenv("POSTING_START_HOUR", "8"))))
 # Optional hard pause while Instagram action-blocks the account (ISO date YYYY-MM-DD local).
 # Example: PUBLISH_RESUME_DATE=2026-07-26 means posting allowed from that local midnight.
 PUBLISH_RESUME_DATE = os.getenv("PUBLISH_RESUME_DATE", "2026-07-26").strip()
+OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 
 
 def publish_tz() -> ZoneInfo:
@@ -109,6 +113,19 @@ def seconds_until_local_midnight() -> int:
 def today_folder_name() -> str:
     """YYYY-MM-DD folder name for the current local publish day."""
     return today_local().isoformat()
+
+
+def count_today_output_posts() -> int:
+    """How many generated PNGs already exist under output/<today>/."""
+    day_dir = OUTPUT_DIR / today_folder_name()
+    if not day_dir.is_dir():
+        return 0
+    return sum(1 for _ in day_dir.glob("*.png"))
+
+
+def generate_slots_left_today() -> int:
+    """Remaining generate slots so today's folder stays within GENERATE_DAILY_CAP."""
+    return max(0, GENERATE_DAILY_CAP - count_today_output_posts())
 
 
 def is_today_output_path(path: Path | str) -> bool:

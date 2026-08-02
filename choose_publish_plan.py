@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Decide Buffer publish mode with a calendar-day Instagram cap.
 
-Only today's generated photos are eligible. Automatic runs send a few posts per
-tick so Buffer never gets the full backlog dumped into the queue. Hard cap:
-INSTAGRAM_DAILY_LIMIT (default 49) posts per local calendar day.
+Only today's generated photos are eligible. Hard cap: INSTAGRAM_DAILY_LIMIT
+(default 49). Runs stay gentle early, then drain remaining posts before local
+midnight so today-only folders are not deleted with unpublished leftovers.
 """
 
 from __future__ import annotations
@@ -19,15 +19,20 @@ from publish_limits import (
     cooldown_active,
     count_posted_today,
     quota_left_today,
+    seconds_until_local_midnight,
     today_folder_name,
     today_local,
 )
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
-# Gentle ticks so we do not flood Buffer (≈49 across waking hours).
+# Gentle ticks early in the day; may rise automatically before midnight.
 MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("MAX_PER_SCHEDULE_TICK", "2")))
 MAX_PER_GENERATE_TICK = max(1, int(os.getenv("MAX_PER_GENERATE_TICK", "2")))
+# Keep drain windows under workflow timeout-minutes (75).
+ACTIONS_SAFE_DRAIN_SECONDS = max(600, int(os.getenv("ACTIONS_SAFE_DRAIN_SECONDS", str(55 * 60))))
+# When less than this many seconds remain, drain all remaining under the day cap.
+FORCE_DRAIN_WITHIN_SECONDS = max(600, int(os.getenv("FORCE_DRAIN_WITHIN_SECONDS", str(3 * 3600))))
 
 
 def load_state() -> dict:
@@ -83,6 +88,30 @@ def skip(reason: str, pending: int, used_today: int, quota_left: int) -> int:
     return 0
 
 
+def drain_seconds_for(max_posts: int) -> int:
+    until_midnight = max(300, seconds_until_local_midnight() - 120)
+    window = min(until_midnight, ACTIONS_SAFE_DRAIN_SECONDS)
+    if max_posts <= 1:
+        return min(900, window)
+    return max(600, min(window, max_posts * 900))
+
+
+def choose_tick(pending: int, quota_left: int, base_tick: int) -> tuple[int, str]:
+    """Gentle early; drain remaining under day cap before folder delete at midnight."""
+    left = min(pending, quota_left)
+    if left <= 0:
+        return 0, "none"
+
+    until = max(0, seconds_until_local_midnight() - 600)
+    # Schedule runs about every 30 minutes.
+    approx_ticks_left = max(1, until // 1800)
+    gentle_capacity = approx_ticks_left * max(1, base_tick)
+
+    if until <= FORCE_DRAIN_WITHIN_SECONDS or left > gentle_capacity:
+        return left, "drain_before_midnight"
+    return min(left, base_tick), "gentle"
+
+
 def main() -> int:
     event_name = os.getenv("GITHUB_EVENT_NAME", "workflow_dispatch")
     manual_max = os.getenv("MANUAL_MAX_POSTS", "").strip()
@@ -112,54 +141,52 @@ def main() -> int:
         )
 
     if event_name == "workflow_run":
-        max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
+        max_posts, mode_tag = choose_tick(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
             mode="drain",
             max_posts=max_posts,
-            drain_seconds=max(1200, max_posts * 1200),
+            drain_seconds=drain_seconds_for(max_posts),
             pending=pending,
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="after_generate_today_only_day_cap",
+            reason=f"after_generate_{mode_tag}",
         )
         return 0
 
     if event_name == "schedule":
-        max_posts = min(pending, quota_left, MAX_PER_SCHEDULE_TICK)
+        max_posts, mode_tag = choose_tick(pending, quota_left, MAX_PER_SCHEDULE_TICK)
         write_output(
             should_publish="true",
             mode="drain",
             max_posts=max_posts,
-            drain_seconds=max(900, max_posts * 1000),
+            drain_seconds=drain_seconds_for(max_posts),
             pending=pending,
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="schedule_today_only_day_cap",
+            reason=f"schedule_{mode_tag}",
         )
         return 0
 
-    # Manual: never dump the full backlog into Buffer. Cap at remaining day quota
-    # and the gentle tick size unless an explicit number is provided.
+    # Manual: "all" drains remaining under the day cap so nothing is left for delete.
     if manual_max.lower() == "all" or manual_max == "":
-        max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
+        max_posts = min(pending, quota_left, DAILY_LIMIT)
         write_output(
             should_publish="true",
             mode="drain",
             max_posts=max_posts,
-            drain_seconds=max(1200, max_posts * 600),
+            drain_seconds=drain_seconds_for(max_posts),
             pending=pending,
             used_today=used_today,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="manual_today_only_gentle_tick",
+            reason="manual_drain_before_midnight",
         )
         return 0
 
     requested = max(1, int(manual_max or "1"))
-    # Explicit manual numbers still cannot exceed the calendar-day 49 cap.
     max_posts = min(requested, pending, quota_left, DAILY_LIMIT)
     write_output(
         should_publish="true",
