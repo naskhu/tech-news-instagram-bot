@@ -16708,6 +16708,25 @@
       "published_at_utc": "2026-08-02T01:13:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-01/apple-work-apple-says-macbook-neo-is-pulling-schools-away-from-windows.png": {
+      "buffer_due_at_utc": "2026-08-02T01:23:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6e99d92bbc9e05873c601f",
+      "caption_file": "output/2026-08-01/apple-work-apple-says-macbook-neo-is-pulling-schools-away-from-windows.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-02T01:23:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6e99d92bbc9e05873c601f",
+          "published_at_utc": "2026-08-02T01:14:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-01/apple-work-apple-says-macbook-neo-is-pulling-schools-away-from-windows.png",
+      "metadata_file": "output/2026-08-01/apple-work-apple-says-macbook-neo-is-pulling-schools-away-from-windows.json",
+      "published_at_utc": "2026-08-02T01:14:01Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-01/apps-that-help-you-break-free-from-doomscrolling-and-get-active-techcr.png": {
       "buffer_due_at_utc": "2026-08-01T20:50:10.000Z",
       "buffer_mode": "customScheduled",
