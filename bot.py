@@ -19,7 +19,7 @@ import requests
 from bs4 import BeautifulSoup
 from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps, ImageStat
 
-from publish_limits import today_folder_name
+from publish_limits import today_folder_name, today_local
 
 ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT / "config.json"
@@ -420,7 +420,8 @@ def create_image(story: dict[str, Any], summary: str, hero: Image.Image | None,
     footer_y = 1005
     date_font = find_font(22)
     handle_font = find_font(25, True)
-    draw.text((margin, footer_y), story["published"].strftime("%d %b %Y"), font=date_font,
+    # Show generation day (Maldives local), not the article's RSS publish date.
+    draw.text((margin, footer_y), today_local().strftime("%d %b %Y"), font=date_font,
               fill=(220, 226, 235, 255), anchor="ls")
     draw.text((1008, footer_y), config.get("instagram_handle", "@naskhu"), font=handle_font,
               fill=(255, 255, 255, 255), anchor="rs")

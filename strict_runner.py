@@ -96,7 +96,7 @@ def main() -> None:
     bot.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
 
-    freshness_hours = max(1, int(config.get("news_max_age_hours", 72)))
+    freshness_hours = max(1, int(config.get("news_max_age_hours", 24)))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=freshness_hours)
 
     stories, source_audit = feed_sources.collect_stories(config, processed, cutoff)

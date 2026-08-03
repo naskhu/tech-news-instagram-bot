@@ -3,7 +3,7 @@
   "instagram_handle": "@news.world.tech",
   "posts_per_run": 4,
   "summary_max_words": 42,
-  "news_max_age_hours": 72,
+  "news_max_age_hours": 24,
   "feed_max_entries": 100,
   "metadata_workers": 8,
   "hashtags": [
