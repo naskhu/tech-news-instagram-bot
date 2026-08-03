@@ -6363,6 +6363,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T05:56:37Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.png": {
+      "buffer_post_id": "6a702fdd2bbc9e05874f6fe7",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.png",
+      "metadata_file": "output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T06:06:28Z",
+      "publisher": "buffer"
     }
   }
 }
