@@ -6199,6 +6199,17 @@
       "published_at_utc": "2026-08-03T04:05:44Z",
       "publisher": "buffer"
     },
+    "output/2026-08-03/a-350-oled-gaming-monitor-can-t-really-be-good-can-it.png": {
+      "buffer_post_id": "6a708dc466488736d66a09be",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/a-350-oled-gaming-monitor-can-t-really-be-good-can-it.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/a-350-oled-gaming-monitor-can-t-really-be-good-can-it.png",
+      "metadata_file": "output/2026-08-03/a-350-oled-gaming-monitor-can-t-really-be-good-can-it.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T12:47:10Z",
+      "publisher": "buffer"
+    },
     "output/2026-08-03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-pr.png": {
       "buffer_post_id": "6a70818fd6593f6789656d30",
       "buffer_status": "error",
