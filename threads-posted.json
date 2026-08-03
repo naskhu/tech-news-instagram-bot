@@ -19533,6 +19533,25 @@
       "published_at_utc": "2026-08-02T21:52:05Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-.png": {
+      "buffer_due_at_utc": "2026-08-03T13:24:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a708dad8df4bee7339cf8ae",
+      "caption_file": "output/2026-08-03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T13:24:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a708dad8df4bee7339cf8ae",
+          "published_at_utc": "2026-08-03T12:46:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-.png",
+      "metadata_file": "output/2026-08-03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-.json",
+      "published_at_utc": "2026-08-03T12:46:38Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/samsung-s-fastest-ssd-is-back-to-prime-day-pricing-only-30-difference-.png": {
       "buffer_due_at_utc": "2026-08-03T06:31:30.000Z",
       "buffer_mode": "customScheduled",
