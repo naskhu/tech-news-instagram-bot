@@ -19858,6 +19858,25 @@
       "published_at_utc": "2026-08-02T21:52:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/spider-man-and-the-odyssey-are-splitting-up-imax-screens-after-a-recor.png": {
+      "buffer_due_at_utc": "2026-08-03T16:13:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a70b0d29567ec6ccdaede24",
+      "caption_file": "output/2026-08-03/spider-man-and-the-odyssey-are-splitting-up-imax-screens-after-a-recor.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T16:13:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70b0d29567ec6ccdaede24",
+          "published_at_utc": "2026-08-03T15:16:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/spider-man-and-the-odyssey-are-splitting-up-imax-screens-after-a-recor.png",
+      "metadata_file": "output/2026-08-03/spider-man-and-the-odyssey-are-splitting-up-imax-screens-after-a-recor.json",
+      "published_at_utc": "2026-08-03T15:16:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/spider-man-has-blockbuster-opening.png": {
       "buffer_due_at_utc": "2026-08-03T08:43:45.000Z",
       "buffer_mode": "customScheduled",
