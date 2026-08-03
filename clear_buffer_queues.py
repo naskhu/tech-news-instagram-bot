@@ -7,7 +7,7 @@ Usage:
   #   BUFFER_CHANNEL_ID=...
   #   BUFFER_THREADS_CHANNEL_ID=id1,id2
   #   BUFFER_ORGANIZATION_ID=...
-  #   CLEAR_STATUSES=buffer,error,draft
+  #   CLEAR_STATUSES=scheduled,sending,error,draft,needs_approval
   python3 clear_buffer_queues.py
 """
 
@@ -22,7 +22,7 @@ from typing import Any
 import requests
 
 BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
-DEFAULT_CLEAR_STATUSES = ("buffer", "error", "draft")
+DEFAULT_CLEAR_STATUSES = ("scheduled", "sending", "error", "draft", "needs_approval")
 # Known org for this project; used when account discovery is unavailable.
 DEFAULT_ORGANIZATION_ID = "6a61ca7301d13814db599d28"
 
