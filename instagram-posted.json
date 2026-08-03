@@ -6896,6 +6896,17 @@
       "metadata_file": "output/2026-08-03/the-macbook-air-is-looking-scarce.json",
       "published_at_utc": "2026-08-03T14:31:22Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/this-is-the-google-pixel-tag.png": {
+      "buffer_post_id": "6a70a66ce9b8417b85e7aa46",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/this-is-the-google-pixel-tag.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/this-is-the-google-pixel-tag.png",
+      "metadata_file": "output/2026-08-03/this-is-the-google-pixel-tag.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T14:32:19Z",
+      "publisher": "buffer"
     }
   }
 }
