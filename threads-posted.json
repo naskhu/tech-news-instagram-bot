@@ -19184,12 +19184,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/single-dimm-ddr5-gaming-works-better-than-you-probably-think-one-ddr5-.png": {
-      "buffer_due_at_utc": "2026-08-03T02:56:41.000Z",
+      "buffer_due_at_utc": "2026-08-03T02:58:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6ff8cb2bbc9e05874cd83f",
+      "buffer_post_id": "6a6ff8d098d2f31dff1587a3",
       "caption_file": "output/2026-08-03/single-dimm-ddr5-gaming-works-better-than-you-probably-think-one-ddr5-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T02:58:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6ff8d098d2f31dff1587a3",
+          "published_at_utc": "2026-08-03T02:11:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T02:56:41.000Z",
           "buffer_mode": "customScheduled",
@@ -19199,7 +19205,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/single-dimm-ddr5-gaming-works-better-than-you-probably-think-one-ddr5-.png",
       "metadata_file": "output/2026-08-03/single-dimm-ddr5-gaming-works-better-than-you-probably-think-one-ddr5-.json",
-      "published_at_utc": "2026-08-03T02:11:23Z",
+      "published_at_utc": "2026-08-03T02:11:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/snag-a-premium-steamos-gaming-handheld-at-pre-shortage-prices-unreal-d.png": {
