@@ -18834,12 +18834,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/keyboard-giant-keychron-launches-nape-pro-wireless-trackball-mouse-rec.png": {
-      "buffer_due_at_utc": "2026-08-03T08:17:38.000Z",
+      "buffer_due_at_utc": "2026-08-03T08:19:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a704782414da3b4be84e70a",
+      "buffer_post_id": "6a704787240a79d08fff3af8",
       "caption_file": "output/2026-08-03/keyboard-giant-keychron-launches-nape-pro-wireless-trackball-mouse-rec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T08:19:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a704787240a79d08fff3af8",
+          "published_at_utc": "2026-08-03T07:47:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T08:17:38.000Z",
           "buffer_mode": "customScheduled",
@@ -18849,7 +18855,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/keyboard-giant-keychron-launches-nape-pro-wireless-trackball-mouse-rec.png",
       "metadata_file": "output/2026-08-03/keyboard-giant-keychron-launches-nape-pro-wireless-trackball-mouse-rec.json",
-      "published_at_utc": "2026-08-03T07:47:14Z",
+      "published_at_utc": "2026-08-03T07:47:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/lost-one-of-a-kind-nintendo-ds-cartridge-hits-ebay-for-9-100-pokepark-.png": {
