@@ -6777,6 +6777,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T12:41:07Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-g.png": {
+      "buffer_post_id": "6a708c961c5ed0395f6e906b",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-g.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-g.png",
+      "metadata_file": "output/2026-08-03/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-g.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T12:42:08Z",
+      "publisher": "buffer"
     }
   }
 }
