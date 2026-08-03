@@ -18683,6 +18683,25 @@
       "published_at_utc": "2026-08-02T23:55:47Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/big-walk-is-like-co-op-breath-of-the-wild.png": {
+      "buffer_due_at_utc": "2026-08-03T15:43:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a70b6ecc43f3c30005c0778",
+      "caption_file": "output/2026-08-03/big-walk-is-like-co-op-breath-of-the-wild.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T15:43:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70b6ecc43f3c30005c0778",
+          "published_at_utc": "2026-08-03T15:42:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/big-walk-is-like-co-op-breath-of-the-wild.png",
+      "metadata_file": "output/2026-08-03/big-walk-is-like-co-op-breath-of-the-wild.json",
+      "published_at_utc": "2026-08-03T15:42:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/china-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy.png": {
       "buffer_due_at_utc": "2026-08-03T12:24:53.000Z",
       "buffer_mode": "customScheduled",
