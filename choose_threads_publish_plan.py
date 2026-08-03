@@ -39,6 +39,11 @@ PREFERRED_SCHEDULE_WINDOW_SECONDS = max(
     120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "86400"))
 )
 SECONDARY_DELAY_SECONDS = max(0, min(600, int(os.getenv("THREADS_SECONDARY_DELAY_SECONDS", "120"))))
+# When less than this many seconds remain before midnight, flush with shareNow
+# so today's posts are not abandoned (still never posts after midnight).
+FLUSH_BEFORE_MIDNIGHT_SECONDS = max(
+    300, int(os.getenv("THREADS_FLUSH_BEFORE_MIDNIGHT_SECONDS", "5400"))
+)
 
 
 def load_state() -> dict:
@@ -122,28 +127,39 @@ def main() -> int:
             0,
         )
 
-    # Do not schedule into tomorrow — leftover today posts are dropped at day rollover.
-    if schedule_window <= 0:
+    # Past / at midnight: never spill into the next day.
+    if until_midnight <= 0:
         return skip(
-            f"too_close_to_midnight_skip_spill_{until_midnight}s_left_today_{today_name}",
+            f"local_midnight_passed_drop_leftovers_{today_name}",
             pending,
             used_24h,
             quota_left,
         )
+
+    # Late day: shareNow flush so remaining today posts go out before midnight.
+    # ~8s per story covers primary+secondary API gaps roughly.
+    seconds_needed = pending * 8
+    use_flush = (
+        schedule_window <= 0
+        or until_midnight <= FLUSH_BEFORE_MIDNIGHT_SECONDS
+        or seconds_needed > until_midnight
+    )
+    mode = "flush" if use_flush else "batch"
+    reason_suffix = "shareNow_flush_before_midnight" if use_flush else "drain_before_midnight"
 
     # After Generate: schedule every remaining story from today before midnight.
     if event_name == "workflow_run":
         max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
-            mode="batch",
+            mode=mode,
             max_posts=max_posts,
             drain_seconds=0,
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="after_generate_today_drain_before_midnight",
+            reason=f"after_generate_{reason_suffix}",
         )
         return 0
 
@@ -151,14 +167,14 @@ def main() -> int:
         max_posts = min(pending, quota_left, MAX_PER_SCHEDULE_TICK)
         write_output(
             should_publish="true",
-            mode="batch",
+            mode=mode,
             max_posts=max_posts,
             drain_seconds=0,
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="schedule_today_drain_before_midnight",
+            reason=f"schedule_{reason_suffix}",
         )
         return 0
 
@@ -166,14 +182,14 @@ def main() -> int:
         max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
         write_output(
             should_publish="true",
-            mode="batch",
+            mode=mode,
             max_posts=max_posts,
             drain_seconds=0,
             pending=pending,
             used_24h=used_24h,
             quota_left=quota_left,
             local_date=today_local().isoformat(),
-            reason="manual_today_drain_before_midnight",
+            reason=f"manual_{reason_suffix}",
         )
         return 0
 
@@ -181,14 +197,14 @@ def main() -> int:
     max_posts = min(requested, pending, quota_left)
     write_output(
         should_publish="true",
-        mode="batch",
+        mode=mode,
         max_posts=max_posts,
         drain_seconds=0,
         pending=pending,
         used_24h=used_24h,
         quota_left=quota_left,
         local_date=today_local().isoformat(),
-        reason="manual_batch_today_only",
+        reason=f"manual_batch_{reason_suffix}",
     )
     return 0
 

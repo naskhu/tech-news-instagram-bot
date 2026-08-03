@@ -32,6 +32,7 @@ from threads_limits import (
 from publish_limits import (
     clamp_due_at_before_local_midnight,
     schedule_window_seconds_until_midnight,
+    seconds_until_local_midnight,
     today_folder_name,
     today_output_dir,
 )
@@ -633,40 +634,68 @@ def publish_one(
 
 
 def publish_batch(access_token: str, channel_ids: list[str]) -> int:
-    """Enqueue today's pending posts with random dueAt times before local midnight."""
-    # Recompute each run so late-day publishes shrink the window to midnight.
+    """Enqueue today's pending posts before local midnight.
+
+    Normal mode: random customScheduled dueAt across the rest of today.
+    Flush mode (late day / tight window): shareNow so leftovers are not missed.
+    """
     global SCHEDULE_WINDOW_SECONDS
+    flush_mode = PUBLISH_MODE == "flush"
     SCHEDULE_WINDOW_SECONDS = schedule_window_seconds_until_midnight(
         preferred=PREFERRED_SCHEDULE_WINDOW_SECONDS,
         min_seconds=max(120, SECONDARY_DELAY_SECONDS + 60),
         reserve_seconds=MIDNIGHT_RESERVE_SECONDS,
     )
-    if SCHEDULE_WINDOW_SECONDS <= 0:
+    until_midnight = seconds_until_local_midnight()
+    if until_midnight <= 0:
         leftover = len(list_unpublished(load_state()))
         print(
-            "Too close to local midnight to schedule Threads without spilling "
-            f"into tomorrow. Leaving {leftover} today post(s) unscheduled "
-            "(they will not post after day rollover)."
+            "Local midnight already passed; refusing to post leftovers into the "
+            f"next day. Leaving {leftover} item(s)."
         )
         return 0
+
+    # If scheduled window collapsed, auto-escalate to shareNow flush.
+    if not flush_mode and SCHEDULE_WINDOW_SECONDS <= 0:
+        flush_mode = True
 
     published = 0
     skipped_missing = 0
     target = MAX_POSTS
-    due_ats = [
-        clamp_due_at_before_local_midnight(due, reserve_seconds=MIDNIGHT_RESERVE_SECONDS)
-        for due in allocate_due_ats(target)
-    ]
-    channels_label = ", ".join(channel_ids)
-    print(
-        f"Scheduling up to {target} Threads post(s) from today only "
-        f"({today_folder_name()}); primary-first channel(s) [{channels_label}] "
-        f"randomly within {SCHEDULE_WINDOW_SECONDS}s "
-        f"(secondary +{SECONDARY_DELAY_SECONDS}s, never past local midnight) "
-        "via Buffer customScheduled."
-    )
+    due_ats: list[str | None]
+    if flush_mode:
+        due_ats = [None] * target
+        channels_label = ", ".join(channel_ids)
+        print(
+            f"Flushing up to {target} Threads post(s) from today only "
+            f"({today_folder_name()}) with shareNow before midnight "
+            f"({until_midnight}s left); channel(s) [{channels_label}]."
+        )
+    else:
+        due_ats = [
+            clamp_due_at_before_local_midnight(
+                due, reserve_seconds=MIDNIGHT_RESERVE_SECONDS
+            )
+            for due in allocate_due_ats(target)
+        ]
+        channels_label = ", ".join(channel_ids)
+        print(
+            f"Scheduling up to {target} Threads post(s) from today only "
+            f"({today_folder_name()}); primary-first channel(s) [{channels_label}] "
+            f"randomly within {SCHEDULE_WINDOW_SECONDS}s "
+            f"(secondary +{SECONDARY_DELAY_SECONDS}s, never past local midnight) "
+            "via Buffer customScheduled."
+        )
 
     while published < target:
+        if seconds_until_local_midnight() <= 0:
+            leftover = len(list_unpublished(load_state()))
+            print(
+                f"Hit local midnight after {published} post(s); stopping so "
+                f"nothing spills into tomorrow. Leaving {leftover} item(s)."
+            )
+            break
+
         state = load_state()
         pending = list_unpublished(state)
         if not pending:
@@ -675,7 +704,9 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
             break
 
         image, caption, metadata = pending[0]
-        if published < len(due_ats):
+        if flush_mode:
+            due_at = None
+        elif published < len(due_ats):
             due_at = due_ats[published]
         else:
             due_at = clamp_due_at_before_local_midnight(
@@ -724,7 +755,7 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
 
 
 def drain_queue(access_token: str, channel_ids: list[str]) -> int:
-    # Prefer Buffer-side random-within-hour scheduling; keep drain as a thin wrapper.
+    # Prefer Buffer-side scheduling; keep drain as a thin wrapper.
     return publish_batch(access_token, channel_ids)
 
 

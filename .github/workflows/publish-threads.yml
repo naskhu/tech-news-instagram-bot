@@ -58,6 +58,9 @@ jobs:
           THREADS_DAILY_LIMIT: "250"
           THREADS_MAX_PER_SCHEDULE_TICK: "250"
           THREADS_MAX_PER_GENERATE_TICK: "250"
+          THREADS_SCHEDULE_WINDOW_SECONDS: "86400"
+          THREADS_FLUSH_BEFORE_MIDNIGHT_SECONDS: "5400"
+          THREADS_SECONDARY_DELAY_SECONDS: "120"
         run: python3 choose_threads_publish_plan.py
 
       - name: Require Buffer Threads secrets
@@ -100,7 +103,9 @@ jobs:
           THREADS_DAILY_LIMIT: "250"
           THREADS_TOPIC: TechNews
           # Random Buffer dueAt across the rest of today (clamped to local midnight).
+          # Plan switches to shareNow flush in the last ~90 minutes so leftovers are not missed.
           THREADS_SCHEDULE_WINDOW_SECONDS: "86400"
+          THREADS_FLUSH_BEFORE_MIDNIGHT_SECONDS: "5400"
           # Primary release: news.world.tech, then naskhu ~2 minutes later.
           BUFFER_THREADS_PRIMARY_CHANNEL_ID: "6a64c576e2638b94d7d25d01"
           THREADS_SECONDARY_DELAY_SECONDS: "120"
