@@ -6864,6 +6864,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T14:22:24Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/sub-400-thunderbolt-5-dock-roundup-keychron-and-plugable-offer-dual-hd.png": {
+      "buffer_post_id": "6a70a566e9b8417b85e79775",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/sub-400-thunderbolt-5-dock-roundup-keychron-and-plugable-offer-dual-hd.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/sub-400-thunderbolt-5-dock-roundup-keychron-and-plugable-offer-dual-hd.png",
+      "metadata_file": "output/2026-08-03/sub-400-thunderbolt-5-dock-roundup-keychron-and-plugable-offer-dual-hd.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T14:27:58Z",
+      "publisher": "buffer"
     }
   }
 }
