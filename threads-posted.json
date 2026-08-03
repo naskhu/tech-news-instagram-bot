@@ -19534,12 +19534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/spider-man-has-blockbuster-opening.png": {
-      "buffer_due_at_utc": "2026-08-03T08:41:45.000Z",
+      "buffer_due_at_utc": "2026-08-03T08:43:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a70478dcdbb36147461c133",
+      "buffer_post_id": "6a704792414da3b4be84e73f",
       "caption_file": "output/2026-08-03/spider-man-has-blockbuster-opening.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T08:43:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a704792414da3b4be84e73f",
+          "published_at_utc": "2026-08-03T07:47:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T08:41:45.000Z",
           "buffer_mode": "customScheduled",
@@ -19549,7 +19555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/spider-man-has-blockbuster-opening.png",
       "metadata_file": "output/2026-08-03/spider-man-has-blockbuster-opening.json",
-      "published_at_utc": "2026-08-03T07:47:25Z",
+      "published_at_utc": "2026-08-03T07:47:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/stadia-was-some-of-the-most-fun-i-ve-had-gaming-but-it-was-right-to-di.png": {
