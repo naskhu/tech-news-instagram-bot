@@ -1,19 +1,8 @@
 name: Generate Tech News Posts
 
+# Legacy generator: manual only. Scheduled generation is Generate Tech News Post V2.
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - config.json
-      - feed_sources.py
-      - strict_runner.py
-      - requirements.txt
-      - .github/workflows/generate.yml
-  schedule:
-    # Keep the older generator hourly so it doesn't collide with V2's 15-minute runs.
-    - cron: "15 * * * *"
 
 permissions:
   contents: write
