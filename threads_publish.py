@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import json
 import os
-import random
 import re
 import subprocess
 import sys
@@ -49,11 +48,10 @@ BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 THREADS_TOPIC = os.getenv("THREADS_TOPIC", "TechNews").strip() or "TechNews"
 # Threads hard limit is 500 characters per message.
 THREADS_MAX_CHARS = max(80, min(500, int(os.getenv("THREADS_MAX_CHARS", "500"))))
-# Spread Buffer customScheduled times randomly across the rest of today
-# (default: until local midnight). Never past midnight — previous-day posts
-# are not eligible after the next day starts.
+# FIFO Buffer customScheduled times evenly spaced inside the next hour
+# (clamped to local midnight). Oldest pending posts go out first.
 PREFERRED_SCHEDULE_WINDOW_SECONDS = max(
-    120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "86400"))
+    120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "3600"))
 )
 SCHEDULE_WINDOW_SECONDS = schedule_window_seconds_until_midnight(
     preferred=PREFERRED_SCHEDULE_WINDOW_SECONDS,
@@ -331,7 +329,10 @@ def buffer_graphql(
 
 
 def allocate_due_ats(count: int) -> list[str]:
-    """Pick unique random UTC dueAt times inside the next schedule window."""
+    """FIFO dueAt times evenly spaced inside the next schedule window (default 1h).
+
+    Oldest pending posts get the earliest slots. No random times.
+    """
     if count <= 0:
         return []
     now = datetime.now(timezone.utc)
@@ -339,12 +340,15 @@ def allocate_due_ats(count: int) -> list[str]:
     # Leave room for secondary-channel delay after the primary dueAt.
     usable_window = max(lo + 1, SCHEDULE_WINDOW_SECONDS - SECONDARY_DELAY_SECONDS - 30)
     hi = max(lo + 1, usable_window)
-    span = hi - lo + 1
-    if span >= count:
-        offsets = sorted(random.sample(range(lo, hi + 1), count))
+    if count == 1:
+        offsets = [lo]
     else:
-        # More posts than distinct seconds: allow collisions, still sorted.
-        offsets = sorted(random.randint(lo, hi) for _ in range(count))
+        span = hi - lo
+        offsets = [lo + int(round(i * span / (count - 1))) for i in range(count)]
+        # Keep strictly non-decreasing when rounding collapses neighbors.
+        for index in range(1, len(offsets)):
+            if offsets[index] <= offsets[index - 1]:
+                offsets[index] = min(hi, offsets[index - 1] + 1)
     return [
         (now + timedelta(seconds=offset)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
         for offset in offsets
@@ -636,7 +640,7 @@ def publish_one(
 def publish_batch(access_token: str, channel_ids: list[str]) -> int:
     """Enqueue today's pending posts before local midnight.
 
-    Normal mode: random customScheduled dueAt across the rest of today.
+    Normal mode: FIFO customScheduled dueAt evenly spaced within ~1 hour.
     Flush mode (late day / tight window): shareNow so leftovers are not missed.
     """
     global SCHEDULE_WINDOW_SECONDS
@@ -681,8 +685,8 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
         channels_label = ", ".join(channel_ids)
         print(
             f"Scheduling up to {target} Threads post(s) from today only "
-            f"({today_folder_name()}); primary-first channel(s) [{channels_label}] "
-            f"randomly within {SCHEDULE_WINDOW_SECONDS}s "
+            f"({today_folder_name()}); FIFO primary-first channel(s) "
+            f"[{channels_label}] evenly within {SCHEDULE_WINDOW_SECONDS}s "
             f"(secondary +{SECONDARY_DELAY_SECONDS}s, never past local midnight) "
             "via Buffer customScheduled."
         )
