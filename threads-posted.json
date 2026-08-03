@@ -19559,12 +19559,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/your-motherboard-s-m-2-ssd-heatsink-might-be-slowing-down-your-ssd-onl.png": {
-      "buffer_due_at_utc": "2026-08-03T04:40:07.000Z",
+      "buffer_due_at_utc": "2026-08-03T04:42:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7011281b4d436cc3203ebe",
+      "buffer_post_id": "6a70112c98d2f31dff168700",
       "caption_file": "output/2026-08-03/your-motherboard-s-m-2-ssd-heatsink-might-be-slowing-down-your-ssd-onl.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T04:42:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70112c98d2f31dff168700",
+          "published_at_utc": "2026-08-03T03:55:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T04:40:07.000Z",
           "buffer_mode": "customScheduled",
@@ -19574,7 +19580,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/your-motherboard-s-m-2-ssd-heatsink-might-be-slowing-down-your-ssd-onl.png",
       "metadata_file": "output/2026-08-03/your-motherboard-s-m-2-ssd-heatsink-might-be-slowing-down-your-ssd-onl.json",
-      "published_at_utc": "2026-08-03T03:55:20Z",
+      "published_at_utc": "2026-08-03T03:55:24Z",
       "publisher": "buffer_threads"
     }
   }
