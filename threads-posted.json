@@ -20384,12 +20384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/influencers-draw-backlash-for-attending-openai-s-first-luxury-trip-tec.png": {
-      "buffer_due_at_utc": "2026-08-03T21:31:01.000Z",
+      "buffer_due_at_utc": "2026-08-03T21:33:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a70fd439470d330735e13f1",
+      "buffer_post_id": "6a70fd493c661e8c0accf323",
       "caption_file": "output/2026-08-04/influencers-draw-backlash-for-attending-openai-s-first-luxury-trip-tec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T21:33:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70fd493c661e8c0accf323",
+          "published_at_utc": "2026-08-03T20:42:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T21:31:01.000Z",
           "buffer_mode": "customScheduled",
@@ -20399,7 +20405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/influencers-draw-backlash-for-attending-openai-s-first-luxury-trip-tec.png",
       "metadata_file": "output/2026-08-04/influencers-draw-backlash-for-attending-openai-s-first-luxury-trip-tec.json",
-      "published_at_utc": "2026-08-03T20:42:43Z",
+      "published_at_utc": "2026-08-03T20:42:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.png": {
