@@ -18609,12 +18609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/apple-fights-the-uk-s-icloud-backdoor-order-again.png": {
-      "buffer_due_at_utc": "2026-08-03T15:16:44.000Z",
+      "buffer_due_at_utc": "2026-08-03T15:18:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a70b0b006c36f09815106ac",
+      "buffer_post_id": "6a70b0b606c36f0981510752",
       "caption_file": "output/2026-08-03/apple-fights-the-uk-s-icloud-backdoor-order-again.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T15:18:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70b0b606c36f0981510752",
+          "published_at_utc": "2026-08-03T15:16:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T15:16:44.000Z",
           "buffer_mode": "customScheduled",
@@ -18624,7 +18630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/apple-fights-the-uk-s-icloud-backdoor-order-again.png",
       "metadata_file": "output/2026-08-03/apple-fights-the-uk-s-icloud-backdoor-order-again.json",
-      "published_at_utc": "2026-08-03T15:16:00Z",
+      "published_at_utc": "2026-08-03T15:16:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.png": {
