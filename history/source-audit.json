@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-02T23:53:27.366752+00:00",
+  "run_utc": "2026-08-03T00:11:00.319233+00:00",
   "freshness_hours": 72,
-  "cutoff_utc": "2026-07-30T23:53:27.366843+00:00",
-  "eligible_story_count": 224,
+  "cutoff_utc": "2026-07-31T00:11:00.319357+00:00",
+  "eligible_story_count": 210,
   "sources": [
     {
       "source": "TechCrunch",
@@ -310,9 +310,9 @@
       "rss_candidates": 8,
       "page_links": 20,
       "page_articles": 11,
-      "eligible_new": 8,
+      "eligible_new": 7,
       "already_processed": 1,
-      "older_than_window": 4,
+      "older_than_window": 5,
       "metadata_errors": {
         "not_article_path": 9
       }
@@ -330,10 +330,10 @@
         },
         {
           "url": "https://thenextweb.com/feed",
-          "status": 200,
-          "content_type": "application/xml",
-          "entries": 10,
-          "error": "",
+          "status": 404,
+          "content_type": "text/html; charset=UTF-8",
+          "entries": 0,
+          "error": "HTTPError:404 Client Error: Not Found for url: https://thenextweb.com/feed",
           "redirected_to": "https://thenextweb.com/feed"
         }
       ],
@@ -345,10 +345,10 @@
           "error": ""
         }
       ],
-      "rss_candidates": 10,
+      "rss_candidates": 0,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 20,
+      "eligible_new": 10,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -390,12 +390,12 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 84,
+      "eligible_new": 85,
       "already_processed": 0,
-      "older_than_window": 10,
+      "older_than_window": 12,
       "metadata_errors": {
-        "missing_title": 1,
-        "no_article_metadata": 4
+        "no_article_metadata": 4,
+        "missing_title": 1
       }
     },
     {
@@ -570,13 +570,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 3,
+      "page_articles": 2,
       "eligible_new": 0,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 21
+        "http_429": 23
       }
     },
     {
@@ -676,8 +675,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 25,
-      "already_processed": 20,
+      "eligible_new": 21,
+      "already_processed": 24,
       "older_than_window": 20,
       "metadata_errors": {
         "no_article_metadata": 2
