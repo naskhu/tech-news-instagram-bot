@@ -19283,6 +19283,25 @@
       "published_at_utc": "2026-08-02T20:48:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/save-900-on-this-rtx-5070-gaming-pc-from-msi-in-this-limited-time-woot.png": {
+      "buffer_due_at_utc": "2026-08-03T06:33:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a702d995dc5613cefe9990f",
+      "caption_file": "output/2026-08-03/save-900-on-this-rtx-5070-gaming-pc-from-msi-in-this-limited-time-woot.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T06:33:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a702d995dc5613cefe9990f",
+          "published_at_utc": "2026-08-03T05:56:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/save-900-on-this-rtx-5070-gaming-pc-from-msi-in-this-limited-time-woot.png",
+      "metadata_file": "output/2026-08-03/save-900-on-this-rtx-5070-gaming-pc-from-msi-in-this-limited-time-woot.json",
+      "published_at_utc": "2026-08-03T05:56:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-r.png": {
       "buffer_due_at_utc": "2026-08-02T22:52:27.000Z",
       "buffer_mode": "customScheduled",
