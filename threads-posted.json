@@ -20284,12 +20284,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/apple-challenges-uk-government-s-latest-demand-for-icloud-backdoor-rep.png": {
-      "buffer_due_at_utc": "2026-08-03T20:42:22.000Z",
+      "buffer_due_at_utc": "2026-08-03T20:44:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a70fd013c661e8c0accf103",
+      "buffer_post_id": "6a70fd07763e1cd8108a3859",
       "caption_file": "output/2026-08-04/apple-challenges-uk-government-s-latest-demand-for-icloud-backdoor-rep.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T20:44:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70fd07763e1cd8108a3859",
+          "published_at_utc": "2026-08-03T20:41:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T20:42:22.000Z",
           "buffer_mode": "customScheduled",
@@ -20299,7 +20305,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/apple-challenges-uk-government-s-latest-demand-for-icloud-backdoor-rep.png",
       "metadata_file": "output/2026-08-04/apple-challenges-uk-government-s-latest-demand-for-icloud-backdoor-rep.json",
-      "published_at_utc": "2026-08-03T20:41:37Z",
+      "published_at_utc": "2026-08-03T20:41:43Z",
       "publisher": "buffer_threads"
     }
   }
