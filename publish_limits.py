@@ -114,6 +114,19 @@ def today_folder_name() -> str:
     return today_local().isoformat()
 
 
+def today_output_dir(output_dir: Path | None = None) -> Path | None:
+    """Today's output folder if it exists; otherwise None."""
+    root = output_dir if output_dir is not None else OUTPUT_DIR
+    day_dir = root / today_folder_name()
+    return day_dir if day_dir.is_dir() else None
+
+
+def next_local_midnight() -> datetime:
+    """Next local midnight (publish timezone)."""
+    local = now_local()
+    return datetime.combine(local.date() + timedelta(days=1), time(0, 0), tzinfo=local.tzinfo)
+
+
 def kept_output_day_names() -> list[str]:
     """Local calendar days still kept under output/ (today first, then older)."""
     today = today_local()
@@ -158,8 +171,35 @@ def schedule_window_seconds_until_midnight(
     min_seconds: int = 120,
     reserve_seconds: int = 180,
 ) -> int:
-    """Prefer `preferred` window, but never schedule past local midnight."""
+    """Prefer `preferred` window, but never schedule past local midnight.
+
+    Returns 0 when there is not enough time left before midnight (including
+    reserve) so callers can skip instead of spilling into the next day.
+    """
     until_midnight = max(0, seconds_until_local_midnight() - max(0, reserve_seconds))
-    if until_midnight <= 0:
-        return min_seconds
-    return max(min_seconds, min(preferred, until_midnight))
+    if until_midnight < max(1, min_seconds):
+        return 0
+    return min(preferred, until_midnight)
+
+
+def clamp_due_at_before_local_midnight(
+    due_at: str | None,
+    *,
+    reserve_seconds: int = 180,
+) -> str | None:
+    """Clamp a UTC dueAt ISO string to strictly before local midnight."""
+    if not due_at:
+        return due_at
+    text = due_at.strip().replace("Z", "+00:00")
+    try:
+        dt = datetime.fromisoformat(text)
+    except ValueError:
+        return due_at
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    deadline = next_local_midnight().astimezone(timezone.utc) - timedelta(
+        seconds=max(0, reserve_seconds)
+    )
+    if dt > deadline:
+        dt = deadline
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")

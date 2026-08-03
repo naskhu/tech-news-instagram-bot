@@ -9,12 +9,13 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish to Threads (all = drain today's queue under 250/24h before midnight)
+        description: Maximum unpublished posts to publish to Threads (all = drain today's queue under 250/24h before midnight; never previous days)
         required: false
         default: "all"
   schedule:
-    # Every 20 minutes: enqueue today's leftover Threads posts via Buffer
-    # (never previous-day folders). Cap 250 / rolling 24h. dueAt before midnight.
+    # Every 20 minutes: enqueue ONLY today's leftover Threads posts via Buffer.
+    # Previous-day folders are ignored after local midnight. Cap 250 / rolling 24h.
+    # dueAt always before Maldives midnight (no next-day spill).
     - cron: "10,30,50 * * * *"
 
 permissions:
@@ -57,6 +58,9 @@ jobs:
           THREADS_DAILY_LIMIT: "250"
           THREADS_MAX_PER_SCHEDULE_TICK: "250"
           THREADS_MAX_PER_GENERATE_TICK: "250"
+          THREADS_SCHEDULE_WINDOW_SECONDS: "86400"
+          THREADS_FLUSH_BEFORE_MIDNIGHT_SECONDS: "5400"
+          THREADS_SECONDARY_DELAY_SECONDS: "120"
         run: python3 choose_threads_publish_plan.py
 
       - name: Require Buffer Threads secrets
@@ -98,8 +102,10 @@ jobs:
           GITHUB_REF_NAME: main
           THREADS_DAILY_LIMIT: "250"
           THREADS_TOPIC: TechNews
-          # Random Buffer dueAt within the next hour for the full batch.
-          THREADS_SCHEDULE_WINDOW_SECONDS: "3600"
+          # Random Buffer dueAt across the rest of today (clamped to local midnight).
+          # Plan switches to shareNow flush in the last ~90 minutes so leftovers are not missed.
+          THREADS_SCHEDULE_WINDOW_SECONDS: "86400"
+          THREADS_FLUSH_BEFORE_MIDNIGHT_SECONDS: "5400"
           # Primary release: news.world.tech, then naskhu ~2 minutes later.
           BUFFER_THREADS_PRIMARY_CHANNEL_ID: "6a64c576e2638b94d7d25d01"
           THREADS_SECONDARY_DELAY_SECONDS: "120"
