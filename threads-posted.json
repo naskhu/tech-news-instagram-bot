@@ -20509,12 +20509,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/snap-reports-971-million-monthly-active-users-ahead-of-its-specs-launc.png": {
-      "buffer_due_at_utc": "2026-08-03T23:17:16.000Z",
+      "buffer_due_at_utc": "2026-08-03T23:19:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a711ceb81392595a3ca7628",
+      "buffer_post_id": "6a711cf0e7bbda897d677dcf",
       "caption_file": "output/2026-08-04/snap-reports-971-million-monthly-active-users-ahead-of-its-specs-launc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T23:19:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a711cf0e7bbda897d677dcf",
+          "published_at_utc": "2026-08-03T22:57:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T23:17:16.000Z",
           "buffer_mode": "customScheduled",
@@ -20524,7 +20530,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/snap-reports-971-million-monthly-active-users-ahead-of-its-specs-launc.png",
       "metadata_file": "output/2026-08-04/snap-reports-971-million-monthly-active-users-ahead-of-its-specs-launc.json",
-      "published_at_utc": "2026-08-03T22:57:48Z",
+      "published_at_utc": "2026-08-03T22:57:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/t-mobile-shut-down-its-2g-service-today.png": {
