@@ -6319,6 +6319,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T04:51:00Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/first-googlebooks-from-lenovo-leak-two-sizes-and-2-in-1-tablet.png": {
+      "buffer_post_id": "6a701ea35dc5613cefe8db61",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/first-googlebooks-from-lenovo-leak-two-sizes-and-2-in-1-tablet.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/first-googlebooks-from-lenovo-leak-two-sizes-and-2-in-1-tablet.png",
+      "metadata_file": "output/2026-08-03/first-googlebooks-from-lenovo-leak-two-sizes-and-2-in-1-tablet.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T04:52:58Z",
+      "publisher": "buffer"
     }
   }
 }
