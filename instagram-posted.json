@@ -6538,6 +6538,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T08:51:11Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-.png": {
+      "buffer_post_id": "6a70579703139e9a21d9e7df",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-.png",
+      "metadata_file": "output/2026-08-03/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T08:55:57Z",
+      "publisher": "buffer"
     }
   }
 }
