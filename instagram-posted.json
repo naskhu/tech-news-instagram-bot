@@ -7005,6 +7005,16 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T14:32:29Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/tom-s-hardware-s-30th-anniversary-from-intel-feuds-and-dip-switches-to.png": {
+      "buffer_post_id": "6a70ba2249f293e09215265a",
+      "buffer_status": "sending",
+      "caption_file": "output/2026-08-03/tom-s-hardware-s-30th-anniversary-from-intel-feuds-and-dip-switches-to.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/tom-s-hardware-s-30th-anniversary-from-intel-feuds-and-dip-switches-to.png",
+      "metadata_file": "output/2026-08-03/tom-s-hardware-s-30th-anniversary-from-intel-feuds-and-dip-switches-to.json",
+      "published_at_utc": "2026-08-03T15:56:28Z",
+      "publisher": "buffer"
     }
   }
 }
