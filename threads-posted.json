@@ -20609,12 +20609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/who-needs-imax-when-you-have-imacs.png": {
-      "buffer_due_at_utc": "2026-08-03T23:55:06.000Z",
+      "buffer_due_at_utc": "2026-08-03T23:57:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a711d00e7bbda897d677ea6",
+      "buffer_post_id": "6a711d053e02cab4770d73ff",
       "caption_file": "output/2026-08-04/who-needs-imax-when-you-have-imacs.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T23:57:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a711d053e02cab4770d73ff",
+          "published_at_utc": "2026-08-03T22:58:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T23:55:06.000Z",
           "buffer_mode": "customScheduled",
@@ -20624,7 +20630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/who-needs-imax-when-you-have-imacs.png",
       "metadata_file": "output/2026-08-04/who-needs-imax-when-you-have-imacs.json",
-      "published_at_utc": "2026-08-03T22:58:08Z",
+      "published_at_utc": "2026-08-03T22:58:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/who-s-legally-to-blame-for-anthropic-and-openai-s-autonomous-ai-hacks-.png": {
