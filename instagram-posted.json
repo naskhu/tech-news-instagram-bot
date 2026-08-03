@@ -6842,6 +6842,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T14:04:47Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-u.png": {
+      "buffer_post_id": "6a70a226554f8838d0971334",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-u.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-u.png",
+      "metadata_file": "output/2026-08-03/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-u.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T14:14:05Z",
+      "publisher": "buffer"
     }
   }
 }
