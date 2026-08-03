@@ -6875,6 +6875,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T14:27:58Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/the-global-memory-shortage-hits-the-macbook-air.png": {
+      "buffer_post_id": "6a70a5bfe9b8417b85e79d4a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/the-global-memory-shortage-hits-the-macbook-air.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/the-global-memory-shortage-hits-the-macbook-air.png",
+      "metadata_file": "output/2026-08-03/the-global-memory-shortage-hits-the-macbook-air.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T14:29:26Z",
+      "publisher": "buffer"
     }
   }
 }
