@@ -4,7 +4,6 @@ on:
   workflow_run:
     workflows:
       - Generate Tech News Post V2
-      - Generate Tech News Posts
     types: [completed]
   workflow_dispatch:
     inputs:
@@ -13,10 +12,9 @@ on:
         required: false
         default: "all"
   schedule:
-    # Every 20 minutes: enqueue ONLY today's leftover Threads posts via Buffer.
-    # Previous-day folders are ignored after local midnight. Cap 250 / rolling 24h.
-    # dueAt FIFO within the next hour (never past Maldives midnight).
-    - cron: "10,30,50 * * * *"
+    # Hourly backup tick (V2 already triggers publish after each generate).
+    # FIFO dueAt within the next hour; never past Maldives midnight.
+    - cron: "20 * * * *"
 
 permissions:
   contents: write

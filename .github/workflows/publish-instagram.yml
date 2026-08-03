@@ -4,7 +4,6 @@ on:
   workflow_run:
     workflows:
       - Generate Tech News Post V2
-      - Generate Tech News Posts
     types: [completed]
   workflow_dispatch:
     inputs:
