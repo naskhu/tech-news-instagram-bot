@@ -19159,12 +19159,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/lenovo-googlebook-leaks-reveal-a-laptop-and-2-in-1-tablet.png": {
-      "buffer_due_at_utc": "2026-08-03T16:02:15.000Z",
+      "buffer_due_at_utc": "2026-08-03T16:04:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a70b6f6bdaf87bb71c72fdf",
+      "buffer_post_id": "6a70b6fb49f293e09214fd22",
       "caption_file": "output/2026-08-03/lenovo-googlebook-leaks-reveal-a-laptop-and-2-in-1-tablet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T16:04:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70b6fb49f293e09214fd22",
+          "published_at_utc": "2026-08-03T15:42:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T16:02:15.000Z",
           "buffer_mode": "customScheduled",
@@ -19174,7 +19180,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/lenovo-googlebook-leaks-reveal-a-laptop-and-2-in-1-tablet.png",
       "metadata_file": "output/2026-08-03/lenovo-googlebook-leaks-reveal-a-laptop-and-2-in-1-tablet.json",
-      "published_at_utc": "2026-08-03T15:42:46Z",
+      "published_at_utc": "2026-08-03T15:42:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/lost-one-of-a-kind-nintendo-ds-cartridge-hits-ebay-for-9-100-pokepark-.png": {
