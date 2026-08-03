@@ -18409,12 +18409,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/amazon-s-bot-crackdown-is-blocking-reviews.png": {
-      "buffer_due_at_utc": "2026-08-03T12:03:58.000Z",
+      "buffer_due_at_utc": "2026-08-03T12:05:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a707f1dd6593f678965407e",
+      "buffer_post_id": "6a707f22c8af394d4491fc3d",
       "caption_file": "output/2026-08-03/amazon-s-bot-crackdown-is-blocking-reviews.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T12:05:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a707f22c8af394d4491fc3d",
+          "published_at_utc": "2026-08-03T11:44:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T12:03:58.000Z",
           "buffer_mode": "customScheduled",
@@ -18424,7 +18430,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/amazon-s-bot-crackdown-is-blocking-reviews.png",
       "metadata_file": "output/2026-08-03/amazon-s-bot-crackdown-is-blocking-reviews.json",
-      "published_at_utc": "2026-08-03T11:44:29Z",
+      "published_at_utc": "2026-08-03T11:44:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/ambitious-gamer-turns-fanless-subway-menu-pcs-into-gaming-rigs-passive.png": {
