@@ -19384,12 +19384,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/palworld-s-expanding-to-mobile-with-a-new-mmorpg.png": {
-      "buffer_due_at_utc": "2026-08-03T15:54:34.000Z",
+      "buffer_due_at_utc": "2026-08-03T15:56:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a70b0c79567ec6ccdaedda6",
+      "buffer_post_id": "6a70b0cc06c36f098151084f",
       "caption_file": "output/2026-08-03/palworld-s-expanding-to-mobile-with-a-new-mmorpg.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T15:56:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70b0cc06c36f098151084f",
+          "published_at_utc": "2026-08-03T15:16:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T15:54:34.000Z",
           "buffer_mode": "customScheduled",
@@ -19399,7 +19405,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/palworld-s-expanding-to-mobile-with-a-new-mmorpg.png",
       "metadata_file": "output/2026-08-03/palworld-s-expanding-to-mobile-with-a-new-mmorpg.json",
-      "published_at_utc": "2026-08-03T15:16:23Z",
+      "published_at_utc": "2026-08-03T15:16:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal.png": {
