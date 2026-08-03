@@ -20358,6 +20358,25 @@
       "published_at_utc": "2026-08-03T20:42:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-04/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models-tec.png": {
+      "buffer_due_at_utc": "2026-08-03T21:22:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a70fd3887001e7a857bf0ad",
+      "caption_file": "output/2026-08-04/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models-tec.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T21:22:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70fd3887001e7a857bf0ad",
+          "published_at_utc": "2026-08-03T20:42:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models-tec.png",
+      "metadata_file": "output/2026-08-04/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models-tec.json",
+      "published_at_utc": "2026-08-03T20:42:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.png": {
       "buffer_due_at_utc": "2026-08-03T21:00:35.000Z",
       "buffer_mode": "customScheduled",
