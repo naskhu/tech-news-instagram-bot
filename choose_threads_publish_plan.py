@@ -3,8 +3,8 @@
 
 Only today's local output folder is eligible. Previous-day posts are never
 queued after the next Maldives day starts. After Generate (and schedule
-backups), enqueue today's pending posts so Buffer releases them before local
-midnight.
+backups), enqueue today's pending posts FIFO within the next hour so Buffer
+releases them before local midnight.
 """
 
 from __future__ import annotations
@@ -34,9 +34,9 @@ STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
 # Safety ceiling only; normal runs drain all of today's pending under the 24h quota.
 MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "250")))
 MAX_PER_GENERATE_TICK = max(1, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "250")))
-# Prefer scheduling across the rest of today (clamped to local midnight).
+# Prefer FIFO scheduling across the next hour (clamped to local midnight).
 PREFERRED_SCHEDULE_WINDOW_SECONDS = max(
-    120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "86400"))
+    120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "3600"))
 )
 SECONDARY_DELAY_SECONDS = max(0, min(600, int(os.getenv("THREADS_SECONDARY_DELAY_SECONDS", "120"))))
 # When less than this many seconds remain before midnight, flush with shareNow
