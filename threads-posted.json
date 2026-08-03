@@ -19659,12 +19659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-u.png": {
-      "buffer_due_at_utc": "2026-08-03T18:28:22.000Z",
+      "buffer_due_at_utc": "2026-08-03T18:30:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a706133ae68167cb6894d86",
+      "buffer_post_id": "6a70613903139e9a21da8ced",
       "caption_file": "output/2026-08-03/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-u.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T18:30:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70613903139e9a21da8ced",
+          "published_at_utc": "2026-08-03T09:36:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T18:28:22.000Z",
           "buffer_mode": "customScheduled",
@@ -19674,7 +19680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-u.png",
       "metadata_file": "output/2026-08-03/startup-plans-to-put-nuclear-powered-data-centers-in-the-sea-modular-u.json",
-      "published_at_utc": "2026-08-03T09:36:52Z",
+      "published_at_utc": "2026-08-03T09:36:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-pho.png": {
