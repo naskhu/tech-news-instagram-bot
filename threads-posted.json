@@ -20459,12 +20459,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/samsung-s-discounted-smart-monitor-is-349-99-its-lowest-price-yet.png": {
-      "buffer_due_at_utc": "2026-08-03T22:12:15.000Z",
+      "buffer_due_at_utc": "2026-08-03T22:14:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a710dafe7bbda897d66a908",
+      "buffer_post_id": "6a710db420d3689200ad9b0b",
       "caption_file": "output/2026-08-04/samsung-s-discounted-smart-monitor-is-349-99-its-lowest-price-yet.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T22:14:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a710db420d3689200ad9b0b",
+          "published_at_utc": "2026-08-03T21:52:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T22:12:15.000Z",
           "buffer_mode": "customScheduled",
@@ -20474,7 +20480,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/samsung-s-discounted-smart-monitor-is-349-99-its-lowest-price-yet.png",
       "metadata_file": "output/2026-08-04/samsung-s-discounted-smart-monitor-is-349-99-its-lowest-price-yet.json",
-      "published_at_utc": "2026-08-03T21:52:47Z",
+      "published_at_utc": "2026-08-03T21:52:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts-.png": {
