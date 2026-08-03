@@ -20,9 +20,10 @@ from publish_limits import (
     before_posting_window,
     cooldown_active,
     count_posted_today,
-    kept_output_dirs,
     quota_left_today,
+    today_folder_name,
     today_local,
+    today_output_dir,
 )
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
@@ -88,25 +89,28 @@ def save_state(state: dict[str, Any]) -> None:
 
 
 def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
+    """Today's unpublished posts only, shuffled so each tick picks randomly."""
     posted = state.get("posted", {})
     candidates: list[tuple[Path, Path, Path | None]] = []
+    day_dir = today_output_dir(OUTPUT_DIR)
+    if day_dir is None:
+        print(f"No today output folder ({today_folder_name()}); Instagram queue empty.")
+        return candidates
 
-    # Previous kept day first, then today — clear leftovers before new posts.
-    for day_dir in kept_output_dirs(OUTPUT_DIR):
-        images = sorted(day_dir.glob("*.png"))
-        for image in images:
-            relative = image.as_posix()
-            if relative in posted:
-                continue
+    for image in day_dir.glob("*.png"):
+        relative = image.as_posix()
+        if relative in posted:
+            continue
 
-            caption = image.with_suffix(".txt")
-            metadata = image.with_suffix(".json")
-            if not caption.exists():
-                print(f"Skipping {relative}: matching caption file is missing", file=sys.stderr)
-                continue
+        caption = image.with_suffix(".txt")
+        metadata = image.with_suffix(".json")
+        if not caption.exists():
+            print(f"Skipping {relative}: matching caption file is missing", file=sys.stderr)
+            continue
 
-            candidates.append((image, caption, metadata if metadata.exists() else None))
+        candidates.append((image, caption, metadata if metadata.exists() else None))
 
+    random.shuffle(candidates)
     return candidates
 
 
@@ -443,26 +447,25 @@ def publish_one(
 
 
 def drain_queue(access_token: str, channel_id: str) -> int:
-    deadline = time.time() + DRAIN_WITHIN_SECONDS
+    """Legacy drain path — still hard-capped to MAX_POSTS attempts (not successes)."""
+    deadline = time.time() + max(60, DRAIN_WITHIN_SECONDS)
     target = MAX_POSTS
-    initial_delay = random.randint(0, min(180, max(0, DRAIN_WITHIN_SECONDS // 10)))
     print(
-        f"Drain mode: publish up to {target} post(s) randomly within {DRAIN_WITHIN_SECONDS}s "
-        f"(initial delay {initial_delay}s, calendar-day cap {DAILY_LIMIT})"
+        f"Drain mode capped: at most {target} Buffer create attempt(s) today-only "
+        f"random picks (calendar-day cap {DAILY_LIMIT})"
     )
-    if initial_delay:
-        time.sleep(initial_delay)
 
     published = 0
-    while published < target and time.time() < deadline:
+    attempts = 0
+    while attempts < target and time.time() < deadline:
         state = sync_state_from_origin()
         try:
             assert_daily_quota(state)
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(state))
             print(
-                f"Daily cap reached after {published} post(s) this run: {exc}. "
-                f"Leaving {leftover} queued for the next day."
+                f"Daily cap reached after {attempts} attempt(s) this run: {exc}. "
+                f"Leaving {leftover} unposted for later days/ticks."
             )
             return published
 
@@ -477,44 +480,27 @@ def drain_queue(access_token: str, channel_id: str) -> int:
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
-                f"Instagram daily limit reached after {published} post(s) this run: {exc}. "
-                f"Leaving {leftover} queued for later automatic runs."
+                f"Instagram daily limit reached after {attempts} attempt(s): {exc}. "
+                f"Leaving {leftover} unposted."
             )
             return published
         except RateLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
-                f"Buffer rate limit hit after {published} post(s): {exc}. "
-                f"Leaving {leftover} queued for later automatic runs."
+                f"Buffer rate limit hit after {attempts} attempt(s): {exc}. "
+                f"Leaving {leftover} for later automatic runs."
             )
             return published
 
+        attempts += 1
         if is_successful_buffer_status(status):
             published += 1
-        remaining_this_run = target - published
-        remaining_queue = len(list_unpublished(load_state()))
-        if remaining_this_run <= 0 or remaining_queue <= 0:
-            print(
-                f"Finished this tick ({published} posted). "
-                f"Queue remaining: {max(0, remaining_queue)}."
-            )
-            break
-
-        seconds_left = deadline - time.time()
-        delay = inter_post_delay_seconds(remaining_this_run, seconds_left)
-        print(
-            f"Remaining this tick: {remaining_this_run}. "
-            f"Sleeping {delay}s before next random publish."
-        )
-        if delay > 0:
-            time.sleep(delay)
 
     leftover = len(list_unpublished(load_state()))
-    if leftover:
-        print(
-            f"Tick complete with {leftover} post(s) still queued; "
-            "later automatic runs continue under the calendar-day cap."
-        )
+    print(
+        f"Tick complete: {attempts} attempt(s), {published} ok, "
+        f"{leftover} still available under today folder."
+    )
     return published
 
 
@@ -522,31 +508,40 @@ def publish_batch(access_token: str, channel_id: str) -> int:
     state = sync_state_from_origin()
     posts = discover_posts(state)
     if not posts:
-        print("No unpublished generated posts found.")
+        print("No unpublished generated posts found for today.")
         return 0
 
+    print(
+        f"Batch mode: up to {len(posts)} random today post(s) "
+        f"({today_folder_name()}), hard day cap {DAILY_LIMIT}."
+    )
     published = 0
+    attempts = 0
     for image, caption, metadata in posts:
+        if attempts >= MAX_POSTS:
+            break
         state = sync_state_from_origin()
         if image.as_posix() in state.get("posted", {}):
             print(f"Skipping {image.as_posix()}: already recorded after state sync")
             continue
         try:
+            assert_daily_quota(state)
             status = publish_one(access_token, channel_id, state, image, caption, metadata)
         except DailyLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
-                f"Instagram daily limit reached after {published} post(s) this run: {exc}. "
-                f"Leaving {leftover} queued for later automatic runs."
+                f"Instagram daily limit reached after {attempts} attempt(s): {exc}. "
+                f"Leaving {leftover} unposted."
             )
             return published
         except RateLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
-                f"Buffer rate limit hit after {published} post(s): {exc}. "
-                f"Leaving {leftover} queued for later automatic runs."
+                f"Buffer rate limit hit after {attempts} attempt(s): {exc}. "
+                f"Leaving {leftover} for later automatic runs."
             )
             return published
+        attempts += 1
         if is_successful_buffer_status(status):
             published += 1
     return published

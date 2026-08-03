@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Decide Buffer publish mode with a calendar-day Instagram cap.
+"""Decide Buffer Instagram publish mode with a calendar-day cap.
 
-Pending photos from kept output days (yesterday + today) are eligible. Hard
-cap: INSTAGRAM_DAILY_LIMIT (default 49). Runs stay gentle early, then drain
-remaining posts before local midnight.
+Only today's local output folder is eligible (never previous days). Hard cap:
+INSTAGRAM_DAILY_LIMIT (default 49) counts every Buffer create attempt today,
+including errors, so the Instagram queue cannot be flooded. Each automatic run
+sends at most 1–2 randomly chosen today posts — never a backlog dump.
 """
 
 from __future__ import annotations
@@ -18,21 +19,17 @@ from publish_limits import (
     before_posting_window,
     cooldown_active,
     count_posted_today,
-    kept_output_dirs,
     quota_left_today,
-    seconds_until_local_midnight,
+    today_folder_name,
     today_local,
+    today_output_dir,
 )
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("INSTAGRAM_STATE_FILE", "instagram-posted.json"))
-# Gentle ticks early in the day; may rise automatically before midnight.
-MAX_PER_SCHEDULE_TICK = max(1, int(os.getenv("MAX_PER_SCHEDULE_TICK", "2")))
-MAX_PER_GENERATE_TICK = max(1, int(os.getenv("MAX_PER_GENERATE_TICK", "2")))
-# Keep drain windows under workflow timeout-minutes (75).
-ACTIONS_SAFE_DRAIN_SECONDS = max(600, int(os.getenv("ACTIONS_SAFE_DRAIN_SECONDS", str(55 * 60))))
-# When less than this many seconds remain, drain all remaining under the day cap.
-FORCE_DRAIN_WITHIN_SECONDS = max(600, int(os.getenv("FORCE_DRAIN_WITHIN_SECONDS", str(3 * 3600))))
+# Hard ceiling per Actions tick — never dump the day's remaining quota into Buffer.
+MAX_PER_SCHEDULE_TICK = max(1, min(2, int(os.getenv("MAX_PER_SCHEDULE_TICK", "2"))))
+MAX_PER_GENERATE_TICK = max(1, min(2, int(os.getenv("MAX_PER_GENERATE_TICK", "1"))))
 
 
 def load_state() -> dict:
@@ -49,16 +46,18 @@ def load_state() -> dict:
 
 
 def count_pending(state: dict) -> int:
+    """Count unpublished PNGs under today's folder only."""
     posted = state.get("posted", {})
     keys = set(posted.keys()) if isinstance(posted, dict) else set()
+    day_dir = today_output_dir(OUTPUT_DIR)
+    if day_dir is None:
+        return 0
     pending = 0
-    # Include today + previous kept day so leftovers are not stranded.
-    for day_dir in kept_output_dirs(OUTPUT_DIR):
-        for image in day_dir.glob("*.png"):
-            if image.as_posix() in keys:
-                continue
-            if image.with_suffix(".txt").exists():
-                pending += 1
+    for image in day_dir.glob("*.png"):
+        if image.as_posix() in keys:
+            continue
+        if image.with_suffix(".txt").exists():
+            pending += 1
     return pending
 
 
@@ -87,28 +86,19 @@ def skip(reason: str, pending: int, used_today: int, quota_left: int) -> int:
     return 0
 
 
-def drain_seconds_for(max_posts: int) -> int:
-    until_midnight = max(300, seconds_until_local_midnight() - 120)
-    window = min(until_midnight, ACTIONS_SAFE_DRAIN_SECONDS)
-    if max_posts <= 1:
-        return min(900, window)
-    return max(600, min(window, max_posts * 900))
-
-
-def choose_tick(pending: int, quota_left: int, base_tick: int) -> tuple[int, str]:
-    """Gentle early; drain remaining under day cap before folder delete at midnight."""
-    left = min(pending, quota_left)
-    if left <= 0:
-        return 0, "none"
-
-    until = max(0, seconds_until_local_midnight() - 600)
-    # Schedule runs about every 30 minutes.
-    approx_ticks_left = max(1, until // 1800)
-    gentle_capacity = approx_ticks_left * max(1, base_tick)
-
-    if until <= FORCE_DRAIN_WITHIN_SECONDS or left > gentle_capacity:
-        return left, "drain_before_midnight"
-    return min(left, base_tick), "gentle"
+def emit(max_posts: int, pending: int, used_today: int, quota_left: int, reason: str) -> int:
+    write_output(
+        should_publish="true",
+        mode="batch",
+        max_posts=max_posts,
+        drain_seconds=0,
+        pending=pending,
+        used_today=used_today,
+        quota_left=quota_left,
+        local_date=today_local().isoformat(),
+        reason=reason,
+    )
+    return 0
 
 
 def main() -> int:
@@ -118,6 +108,7 @@ def main() -> int:
     pending = count_pending(state)
     used_today = count_posted_today(state)
     quota_left = quota_left_today(state)
+    today_name = today_folder_name()
 
     paused, pause_reason = cooldown_active()
     if paused:
@@ -125,11 +116,10 @@ def main() -> int:
 
     too_early, early_reason = before_posting_window()
     if too_early and event_name != "workflow_dispatch":
-        # Manual runs can still test; automatic runs wait for the start hour.
         return skip(early_reason, pending, used_today, quota_left)
 
     if pending <= 0:
-        return skip("queue_empty_kept_days", pending, used_today, quota_left)
+        return skip(f"queue_empty_today_only_{today_name}", pending, used_today, quota_left)
 
     if quota_left <= 0:
         return skip(
@@ -140,65 +130,45 @@ def main() -> int:
         )
 
     if event_name == "workflow_run":
-        max_posts, mode_tag = choose_tick(pending, quota_left, MAX_PER_GENERATE_TICK)
-        write_output(
-            should_publish="true",
-            mode="drain",
-            max_posts=max_posts,
-            drain_seconds=drain_seconds_for(max_posts),
-            pending=pending,
-            used_today=used_today,
-            quota_left=quota_left,
-            local_date=today_local().isoformat(),
-            reason=f"after_generate_{mode_tag}",
+        max_posts = min(pending, quota_left, MAX_PER_GENERATE_TICK)
+        return emit(
+            max_posts,
+            pending,
+            used_today,
+            quota_left,
+            "after_generate_random_today_1or2",
         )
-        return 0
 
     if event_name == "schedule":
-        max_posts, mode_tag = choose_tick(pending, quota_left, MAX_PER_SCHEDULE_TICK)
-        write_output(
-            should_publish="true",
-            mode="drain",
-            max_posts=max_posts,
-            drain_seconds=drain_seconds_for(max_posts),
-            pending=pending,
-            used_today=used_today,
-            quota_left=quota_left,
-            local_date=today_local().isoformat(),
-            reason=f"schedule_{mode_tag}",
+        max_posts = min(pending, quota_left, MAX_PER_SCHEDULE_TICK)
+        return emit(
+            max_posts,
+            pending,
+            used_today,
+            quota_left,
+            "schedule_random_today_1or2",
         )
-        return 0
 
-    # Manual: "all" drains remaining under the day cap so nothing is left for delete.
-    if manual_max.lower() == "all" or manual_max == "":
-        max_posts = min(pending, quota_left, DAILY_LIMIT)
-        write_output(
-            should_publish="true",
-            mode="drain",
-            max_posts=max_posts,
-            drain_seconds=drain_seconds_for(max_posts),
-            pending=pending,
-            used_today=used_today,
-            quota_left=quota_left,
-            local_date=today_local().isoformat(),
-            reason="manual_drain_before_midnight",
+    # Manual: default 1–2, never dump the full remaining day quota.
+    if manual_max.lower() == "all":
+        max_posts = min(pending, quota_left, MAX_PER_SCHEDULE_TICK)
+        return emit(
+            max_posts,
+            pending,
+            used_today,
+            quota_left,
+            "manual_all_capped_to_1or2_no_backlog_dump",
         )
-        return 0
 
-    requested = max(1, int(manual_max or "1"))
-    max_posts = min(requested, pending, quota_left, DAILY_LIMIT)
-    write_output(
-        should_publish="true",
-        mode="batch",
-        max_posts=max_posts,
-        drain_seconds=0,
-        pending=pending,
-        used_today=used_today,
-        quota_left=quota_left,
-        local_date=today_local().isoformat(),
-        reason="manual_batch_today_only_day_cap",
+    requested = max(1, int(manual_max or "2"))
+    max_posts = min(requested, pending, quota_left, MAX_PER_SCHEDULE_TICK)
+    return emit(
+        max_posts,
+        pending,
+        used_today,
+        quota_left,
+        "manual_random_today_1or2",
     )
-    return 0
 
 
 if __name__ == "__main__":

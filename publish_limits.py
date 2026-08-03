@@ -48,7 +48,11 @@ def parse_published_at(value: object) -> datetime | None:
 
 
 def count_posted_today(state: dict) -> int:
-    """Count successful Buffer/Meta publishes on the current local calendar day."""
+    """Count Buffer create attempts on the current local calendar day.
+
+    Includes error/sending statuses so failed creates still consume the daily
+    Instagram budget and cannot flood the Buffer queue past DAILY_LIMIT.
+    """
     today = today_local()
     posted = state.get("posted", {})
     if not isinstance(posted, dict):
@@ -59,9 +63,6 @@ def count_posted_today(state: dict) -> int:
             continue
         publisher = str(entry.get("publisher", "buffer")).lower()
         if publisher not in {"buffer", "meta", ""}:
-            continue
-        status = str(entry.get("buffer_status") or "").strip().lower()
-        if status in {"error", "failed", "rejected"}:
             continue
         dt = parse_published_at(entry.get("published_at_utc"))
         if dt is not None and dt.date() == today:

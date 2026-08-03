@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish (use all to drain within day cap)
+        description: Max posts this run (1 or 2). Never dumps the full day backlog into Buffer.
         required: false
         default: "2"
   schedule:
-    # About every 30 minutes. Sends a few of today's photos only (never previous
-    # days, never the full backlog) under the calendar-day 49-post Buffer cap.
+    # About every 30 minutes. Sends 1–2 random TODAY photos only under the
+    # calendar-day 49 Buffer-create cap. Never previous days, never a big queue dump.
     - cron: "11,41 * * * *"
 
 permissions:
@@ -58,7 +58,7 @@ jobs:
           POSTING_START_HOUR: "8"
           INSTAGRAM_DAILY_LIMIT: "49"
           MAX_PER_SCHEDULE_TICK: "2"
-          MAX_PER_GENERATE_TICK: "2"
+          MAX_PER_GENERATE_TICK: "1"
         run: python3 choose_publish_plan.py
 
       - name: Require Buffer secrets
