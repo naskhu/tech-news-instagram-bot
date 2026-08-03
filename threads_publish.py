@@ -30,9 +30,10 @@ from threads_limits import (
     quota_left_24h,
 )
 from publish_limits import (
-    kept_output_dirs,
+    clamp_due_at_before_local_midnight,
     schedule_window_seconds_until_midnight,
     today_folder_name,
+    today_output_dir,
 )
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
@@ -48,19 +49,21 @@ THREADS_TOPIC = os.getenv("THREADS_TOPIC", "TechNews").strip() or "TechNews"
 # Threads hard limit is 500 characters per message.
 THREADS_MAX_CHARS = max(80, min(500, int(os.getenv("THREADS_MAX_CHARS", "500"))))
 # Spread Buffer customScheduled times randomly across the rest of today
-# (default: until local midnight). Never past midnight so previous-day leftovers
-# are never scheduled into tomorrow.
+# (default: until local midnight). Never past midnight — previous-day posts
+# are not eligible after the next day starts.
 PREFERRED_SCHEDULE_WINDOW_SECONDS = max(
     120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "86400"))
 )
 SCHEDULE_WINDOW_SECONDS = schedule_window_seconds_until_midnight(
-    preferred=PREFERRED_SCHEDULE_WINDOW_SECONDS
+    preferred=PREFERRED_SCHEDULE_WINDOW_SECONDS,
+    min_seconds=max(120, int(os.getenv("THREADS_SECONDARY_DELAY_SECONDS", "120")) + 60),
 )
 SCHEDULE_MIN_OFFSET_SECONDS = max(20, int(os.getenv("THREADS_SCHEDULE_MIN_OFFSET_SECONDS", "45")))
 # Delay secondary profiles (e.g. naskhu) after primary (news.world.tech) dueAt.
 SECONDARY_DELAY_SECONDS = max(0, min(600, int(os.getenv("THREADS_SECONDARY_DELAY_SECONDS", "120"))))
 # Small pause between Buffer API create calls (scheduling is handled by dueAt).
 API_GAP_SECONDS = max(1, int(os.getenv("THREADS_API_GAP_SECONDS", "3")))
+MIDNIGHT_RESERVE_SECONDS = max(0, int(os.getenv("THREADS_MIDNIGHT_RESERVE_SECONDS", "180")))
 
 CREATE_POST_MUTATION = """
 mutation CreatePost($input: CreatePostInput!) {
@@ -120,32 +123,35 @@ def save_state(state: dict[str, Any]) -> None:
 
 
 def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
+    """Only today's local folder — never queue previous-day posts after rollover."""
     posted = state.get("posted", {})
     needed = parse_channel_ids()
     candidates: list[tuple[Path, Path, Path | None]] = []
+    day_dir = today_output_dir(OUTPUT_DIR)
+    if day_dir is None:
+        print(f"No today output folder ({today_folder_name()}); Threads queue empty.")
+        return candidates
 
-    # Previous kept day first, then today — clear leftovers before new posts.
-    for day_dir in kept_output_dirs(OUTPUT_DIR):
-        images = sorted(
-            day_dir.glob("*.png"),
-            key=lambda path: (path.stat().st_mtime, path.as_posix()),
-        )
-        for image in images:
-            relative = image.as_posix()
-            existing = posted.get(relative)
-            if not needs_publish(existing, needed):
-                continue
+    images = sorted(
+        day_dir.glob("*.png"),
+        key=lambda path: (path.stat().st_mtime, path.as_posix()),
+    )
+    for image in images:
+        relative = image.as_posix()
+        existing = posted.get(relative)
+        if not needs_publish(existing, needed):
+            continue
 
-            caption = image.with_suffix(".txt")
-            metadata = image.with_suffix(".json")
-            if not image.exists() or not caption.exists():
-                print(
-                    f"Skipping {relative}: image or caption missing on disk",
-                    file=sys.stderr,
-                )
-                continue
+        caption = image.with_suffix(".txt")
+        metadata = image.with_suffix(".json")
+        if not image.exists() or not caption.exists():
+            print(
+                f"Skipping {relative}: image or caption missing on disk",
+                file=sys.stderr,
+            )
+            continue
 
-            candidates.append((image, caption, metadata if metadata.exists() else None))
+        candidates.append((image, caption, metadata if metadata.exists() else None))
 
     return candidates
 
@@ -345,9 +351,11 @@ def allocate_due_ats(count: int) -> list[str]:
 
 
 def shift_due_at(due_at: str | None, delay_seconds: int) -> str | None:
-    """Return due_at shifted forward by delay_seconds (UTC ISO)."""
+    """Return due_at shifted forward by delay_seconds, never past local midnight."""
     if not due_at or delay_seconds <= 0:
-        return due_at
+        return clamp_due_at_before_local_midnight(
+            due_at, reserve_seconds=MIDNIGHT_RESERVE_SECONDS
+        )
     text = due_at.strip().replace("Z", "+00:00")
     try:
         dt = datetime.fromisoformat(text)
@@ -355,7 +363,10 @@ def shift_due_at(due_at: str | None, delay_seconds: int) -> str | None:
         return due_at
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
-    return (dt + timedelta(seconds=delay_seconds)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    shifted = (dt + timedelta(seconds=delay_seconds)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    return clamp_due_at_before_local_midnight(
+        shifted, reserve_seconds=MIDNIGHT_RESERVE_SECONDS
+    )
 
 
 def publish_post(
@@ -626,18 +637,33 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
     # Recompute each run so late-day publishes shrink the window to midnight.
     global SCHEDULE_WINDOW_SECONDS
     SCHEDULE_WINDOW_SECONDS = schedule_window_seconds_until_midnight(
-        preferred=PREFERRED_SCHEDULE_WINDOW_SECONDS
+        preferred=PREFERRED_SCHEDULE_WINDOW_SECONDS,
+        min_seconds=max(120, SECONDARY_DELAY_SECONDS + 60),
+        reserve_seconds=MIDNIGHT_RESERVE_SECONDS,
     )
+    if SCHEDULE_WINDOW_SECONDS <= 0:
+        leftover = len(list_unpublished(load_state()))
+        print(
+            "Too close to local midnight to schedule Threads without spilling "
+            f"into tomorrow. Leaving {leftover} today post(s) unscheduled "
+            "(they will not post after day rollover)."
+        )
+        return 0
+
     published = 0
     skipped_missing = 0
     target = MAX_POSTS
-    due_ats = allocate_due_ats(target)
+    due_ats = [
+        clamp_due_at_before_local_midnight(due, reserve_seconds=MIDNIGHT_RESERVE_SECONDS)
+        for due in allocate_due_ats(target)
+    ]
     channels_label = ", ".join(channel_ids)
     print(
-        f"Scheduling up to {target} Threads post(s) from kept day folder(s); "
-        f"primary-first channel(s) [{channels_label}] randomly within "
-        f"{SCHEDULE_WINDOW_SECONDS}s (secondary +{SECONDARY_DELAY_SECONDS}s, "
-        "never past local midnight) via Buffer customScheduled."
+        f"Scheduling up to {target} Threads post(s) from today only "
+        f"({today_folder_name()}); primary-first channel(s) [{channels_label}] "
+        f"randomly within {SCHEDULE_WINDOW_SECONDS}s "
+        f"(secondary +{SECONDARY_DELAY_SECONDS}s, never past local midnight) "
+        "via Buffer customScheduled."
     )
 
     while published < target:
@@ -649,7 +675,13 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
             break
 
         image, caption, metadata = pending[0]
-        due_at = due_ats[published] if published < len(due_ats) else allocate_due_ats(1)[0]
+        if published < len(due_ats):
+            due_at = due_ats[published]
+        else:
+            due_at = clamp_due_at_before_local_midnight(
+                allocate_due_ats(1)[0],
+                reserve_seconds=MIDNIGHT_RESERVE_SECONDS,
+            )
         try:
             publish_one(
                 access_token,
