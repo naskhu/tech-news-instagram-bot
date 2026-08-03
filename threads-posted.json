@@ -20332,6 +20332,25 @@
       "metadata_file": "output/2026-08-04/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic-techcrunch.json",
       "published_at_utc": "2026-08-03T20:41:54Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.png": {
+      "buffer_due_at_utc": "2026-08-03T20:58:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a70fd183c661e8c0accf203",
+      "caption_file": "output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T20:58:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70fd183c661e8c0accf203",
+          "published_at_utc": "2026-08-03T20:42:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.png",
+      "metadata_file": "output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.json",
+      "published_at_utc": "2026-08-03T20:42:00Z",
+      "publisher": "buffer_threads"
     }
   }
 }
