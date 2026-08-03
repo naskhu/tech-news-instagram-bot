@@ -6907,6 +6907,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T14:32:19Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/tom-holland-teases-that-he-knows-when-miles-morales-is-joining-the-mcu.png": {
+      "buffer_post_id": "6a70a6757cf60490442d59c8",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/tom-holland-teases-that-he-knows-when-miles-morales-is-joining-the-mcu.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/tom-holland-teases-that-he-knows-when-miles-morales-is-joining-the-mcu.png",
+      "metadata_file": "output/2026-08-03/tom-holland-teases-that-he-knows-when-miles-morales-is-joining-the-mcu.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T14:32:29Z",
+      "publisher": "buffer"
     }
   }
 }
