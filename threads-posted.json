@@ -20284,12 +20284,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/amazon-might-have-its-new-kratos.png": {
-      "buffer_due_at_utc": "2026-08-03T21:53:20.000Z",
+      "buffer_due_at_utc": "2026-08-03T21:55:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a710da42e9d172962a468d4",
+      "buffer_post_id": "6a710da9d702c24ecb1d62f1",
       "caption_file": "output/2026-08-04/amazon-might-have-its-new-kratos.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T21:55:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a710da9d702c24ecb1d62f1",
+          "published_at_utc": "2026-08-03T21:52:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T21:53:20.000Z",
           "buffer_mode": "customScheduled",
@@ -20299,7 +20305,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/amazon-might-have-its-new-kratos.png",
       "metadata_file": "output/2026-08-04/amazon-might-have-its-new-kratos.json",
-      "published_at_utc": "2026-08-03T21:52:36Z",
+      "published_at_utc": "2026-08-03T21:52:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/apple-challenges-uk-government-s-latest-demand-for-icloud-backdoor-rep.png": {
