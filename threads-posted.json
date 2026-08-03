@@ -19234,12 +19234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-pho.png": {
-      "buffer_due_at_utc": "2026-08-03T01:05:55.000Z",
+      "buffer_due_at_utc": "2026-08-03T01:07:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fdd252bbc9e05874b957d",
+      "buffer_post_id": "6a6fdd2998d2f31dff145a40",
       "caption_file": "output/2026-08-03/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-pho.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T01:07:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fdd2998d2f31dff145a40",
+          "published_at_utc": "2026-08-03T00:13:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T01:05:55.000Z",
           "buffer_mode": "customScheduled",
@@ -19249,7 +19255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-pho.png",
       "metadata_file": "output/2026-08-03/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-pho.json",
-      "published_at_utc": "2026-08-03T00:13:25Z",
+      "published_at_utc": "2026-08-03T00:13:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/the-global-memory-shortage-hits-the-macbook-air.png": {
