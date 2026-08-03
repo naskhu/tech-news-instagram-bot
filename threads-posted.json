@@ -19083,6 +19083,25 @@
       "published_at_utc": "2026-08-03T03:55:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-company.png": {
+      "buffer_due_at_utc": "2026-08-03T06:23:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a702d8461a1f4fc1888c3e8",
+      "caption_file": "output/2026-08-03/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-company.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T06:23:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a702d8461a1f4fc1888c3e8",
+          "published_at_utc": "2026-08-03T05:56:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-company.png",
+      "metadata_file": "output/2026-08-03/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-company.json",
+      "published_at_utc": "2026-08-03T05:56:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/rachika-nayar-s-heaven-come-crashing-is-an-instrumental-epic-of-desper.png": {
       "buffer_due_at_utc": "2026-08-02T22:52:07.000Z",
       "buffer_mode": "customScheduled",
