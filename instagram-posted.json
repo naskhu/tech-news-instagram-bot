@@ -6286,6 +6286,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T04:40:35Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/deals-fold-8-ultra-2-in-1-copilot-pcs-and-surface-pro-up-to-500-off-lg.png": {
+      "buffer_post_id": "6a701cb098d2f31dff17107d",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/deals-fold-8-ultra-2-in-1-copilot-pcs-and-surface-pro-up-to-500-off-lg.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/deals-fold-8-ultra-2-in-1-copilot-pcs-and-surface-pro-up-to-500-off-lg.png",
+      "metadata_file": "output/2026-08-03/deals-fold-8-ultra-2-in-1-copilot-pcs-and-surface-pro-up-to-500-off-lg.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T04:44:39Z",
+      "publisher": "buffer"
     }
   }
 }
