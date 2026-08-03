@@ -18333,6 +18333,25 @@
       "published_at_utc": "2026-08-02T23:12:00Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/amd-s-new-radeon-rx-9050-is-roughly-30-slower-than-the-rtx-5050-in-gam.png": {
+      "buffer_due_at_utc": "2026-08-03T03:58:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a70110898d2f31dff16854a",
+      "caption_file": "output/2026-08-03/amd-s-new-radeon-rx-9050-is-roughly-30-slower-than-the-rtx-5050-in-gam.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T03:58:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70110898d2f31dff16854a",
+          "published_at_utc": "2026-08-03T03:54:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/amd-s-new-radeon-rx-9050-is-roughly-30-slower-than-the-rtx-5050-in-gam.png",
+      "metadata_file": "output/2026-08-03/amd-s-new-radeon-rx-9050-is-roughly-30-slower-than-the-rtx-5050-in-gam.json",
+      "published_at_utc": "2026-08-03T03:54:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/amd-s-upcoming-zen-6-processors-could-fix-microstutters-and-improve-1-.png": {
       "buffer_due_at_utc": "2026-08-02T21:21:47.000Z",
       "buffer_mode": "customScheduled",
