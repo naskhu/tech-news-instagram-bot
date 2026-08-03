@@ -18784,12 +18784,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/lumentum-ceo-warns-of-impending-bottleneck-on-critical-material-used-f.png": {
-      "buffer_due_at_utc": "2026-08-03T00:44:33.000Z",
+      "buffer_due_at_utc": "2026-08-03T00:46:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fdd1baacd241cfdb30dec",
+      "buffer_post_id": "6a6fdd1f98d2f31dff145a04",
       "caption_file": "output/2026-08-03/lumentum-ceo-warns-of-impending-bottleneck-on-critical-material-used-f.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T00:46:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fdd1f98d2f31dff145a04",
+          "published_at_utc": "2026-08-03T00:13:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T00:44:33.000Z",
           "buffer_mode": "customScheduled",
@@ -18799,7 +18805,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/lumentum-ceo-warns-of-impending-bottleneck-on-critical-material-used-f.png",
       "metadata_file": "output/2026-08-03/lumentum-ceo-warns-of-impending-bottleneck-on-critical-material-used-f.json",
-      "published_at_utc": "2026-08-03T00:13:15Z",
+      "published_at_utc": "2026-08-03T00:13:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/microsoft-paint-used-as-a-monitor-to-run-doom-at-up-to-35-fps-project-.png": {
