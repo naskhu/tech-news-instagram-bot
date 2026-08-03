@@ -18984,12 +18984,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/how-headlights-got-brighter-whiter-and-more-blinding-after-dark.png": {
-      "buffer_due_at_utc": "2026-08-03T13:05:58.000Z",
+      "buffer_due_at_utc": "2026-08-03T13:07:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a708da466488736d66a08bf",
+      "buffer_post_id": "6a708da82766419d49f53a78",
       "caption_file": "output/2026-08-03/how-headlights-got-brighter-whiter-and-more-blinding-after-dark.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T13:07:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a708da82766419d49f53a78",
+          "published_at_utc": "2026-08-03T12:46:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T13:05:58.000Z",
           "buffer_mode": "customScheduled",
@@ -18999,7 +19005,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/how-headlights-got-brighter-whiter-and-more-blinding-after-dark.png",
       "metadata_file": "output/2026-08-03/how-headlights-got-brighter-whiter-and-more-blinding-after-dark.json",
-      "published_at_utc": "2026-08-03T12:46:28Z",
+      "published_at_utc": "2026-08-03T12:46:33Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d.png": {
