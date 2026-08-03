@@ -19034,12 +19034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-.png": {
-      "buffer_due_at_utc": "2026-08-03T04:33:30.000Z",
+      "buffer_due_at_utc": "2026-08-03T04:35:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a70111d98d2f31dff168668",
+      "buffer_post_id": "6a70112398d2f31dff1686aa",
       "caption_file": "output/2026-08-03/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T04:35:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70112398d2f31dff1686aa",
+          "published_at_utc": "2026-08-03T03:55:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T04:33:30.000Z",
           "buffer_mode": "customScheduled",
@@ -19049,7 +19055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-.png",
       "metadata_file": "output/2026-08-03/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-.json",
-      "published_at_utc": "2026-08-03T03:55:09Z",
+      "published_at_utc": "2026-08-03T03:55:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/rachika-nayar-s-heaven-come-crashing-is-an-instrumental-epic-of-desper.png": {
