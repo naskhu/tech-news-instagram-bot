@@ -6733,6 +6733,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T12:33:08Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/setting-up-openclaw-isn-t-as-straightforward-as-the-internet-wants-you.png": {
+      "buffer_post_id": "6a708b225fb85b8a268f0c5a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/setting-up-openclaw-isn-t-as-straightforward-as-the-internet-wants-you.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/setting-up-openclaw-isn-t-as-straightforward-as-the-internet-wants-you.png",
+      "metadata_file": "output/2026-08-03/setting-up-openclaw-isn-t-as-straightforward-as-the-internet-wants-you.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T12:35:53Z",
+      "publisher": "buffer"
     }
   }
 }
