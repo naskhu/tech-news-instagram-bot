@@ -6264,6 +6264,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T04:27:52Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.png": {
+      "buffer_post_id": "6a701a6a61a1f4fc1887e1e6",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.png",
+      "metadata_file": "output/2026-08-03/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T04:34:58Z",
+      "publisher": "buffer"
     }
   }
 }
