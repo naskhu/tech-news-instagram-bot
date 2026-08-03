@@ -20484,12 +20484,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/t-mobile-shut-down-its-2g-service-today.png": {
-      "buffer_due_at_utc": "2026-08-03T22:31:10.000Z",
+      "buffer_due_at_utc": "2026-08-03T22:33:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a710dba3e02cab4770cb371",
+      "buffer_post_id": "6a710dbfe7bbda897d66a98b",
       "caption_file": "output/2026-08-04/t-mobile-shut-down-its-2g-service-today.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T22:33:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a710dbfe7bbda897d66a98b",
+          "published_at_utc": "2026-08-03T21:53:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T22:31:10.000Z",
           "buffer_mode": "customScheduled",
@@ -20499,7 +20505,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/t-mobile-shut-down-its-2g-service-today.png",
       "metadata_file": "output/2026-08-04/t-mobile-shut-down-its-2g-service-today.json",
-      "published_at_utc": "2026-08-03T21:52:58Z",
+      "published_at_utc": "2026-08-03T21:53:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts-.png": {
