@@ -19259,12 +19259,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/sub-400-thunderbolt-5-dock-roundup-keychron-and-plugable-offer-dual-hd.png": {
-      "buffer_due_at_utc": "2026-08-03T01:09:10.000Z",
+      "buffer_due_at_utc": "2026-08-03T01:11:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a6fdd2e98d2f31dff145a6d",
+      "buffer_post_id": "6a6fdd332bbc9e05874b95fd",
       "caption_file": "output/2026-08-03/sub-400-thunderbolt-5-dock-roundup-keychron-and-plugable-offer-dual-hd.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T01:11:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fdd332bbc9e05874b95fd",
+          "published_at_utc": "2026-08-03T00:13:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T01:09:10.000Z",
           "buffer_mode": "customScheduled",
@@ -19274,7 +19280,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/sub-400-thunderbolt-5-dock-roundup-keychron-and-plugable-offer-dual-hd.png",
       "metadata_file": "output/2026-08-03/sub-400-thunderbolt-5-dock-roundup-keychron-and-plugable-offer-dual-hd.json",
-      "published_at_utc": "2026-08-03T00:13:35Z",
+      "published_at_utc": "2026-08-03T00:13:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/the-global-memory-shortage-hits-the-macbook-air.png": {
