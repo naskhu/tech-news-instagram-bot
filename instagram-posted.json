@@ -6231,6 +6231,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T04:21:06Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/apple-ceo-tim-cook-says-the-company-is-fighting-a-hundred-year-flood-o.png": {
+      "buffer_post_id": "6a7017a01b4d436cc3209aa7",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/apple-ceo-tim-cook-says-the-company-is-fighting-a-hundred-year-flood-o.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/apple-ceo-tim-cook-says-the-company-is-fighting-a-hundred-year-flood-o.png",
+      "metadata_file": "output/2026-08-03/apple-ceo-tim-cook-says-the-company-is-fighting-a-hundred-year-flood-o.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T04:23:03Z",
+      "publisher": "buffer"
     }
   }
 }
