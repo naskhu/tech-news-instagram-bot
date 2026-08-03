@@ -18883,6 +18883,25 @@
       "published_at_utc": "2026-08-02T20:26:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/govee-s-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxu.png": {
+      "buffer_due_at_utc": "2026-08-03T12:41:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a707f31d6593f6789654186",
+      "caption_file": "output/2026-08-03/govee-s-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxu.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T12:41:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a707f31d6593f6789654186",
+          "published_at_utc": "2026-08-03T11:44:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/govee-s-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxu.png",
+      "metadata_file": "output/2026-08-03/govee-s-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxu.json",
+      "published_at_utc": "2026-08-03T11:44:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/grab-this-240-hz-qd-oled-gaming-monitor-at-just-300-gigabyte-s-27-inch.png": {
       "buffer_due_at_utc": "2026-08-02T21:44:28.000Z",
       "buffer_mode": "customScheduled",
