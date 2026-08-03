@@ -20307,6 +20307,25 @@
       "metadata_file": "output/2026-08-04/apple-challenges-uk-government-s-latest-demand-for-icloud-backdoor-rep.json",
       "published_at_utc": "2026-08-03T20:41:43Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-04/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic-techcrunch.png": {
+      "buffer_due_at_utc": "2026-08-03T20:50:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a70fd0ca6003368b8fd83b9",
+      "caption_file": "output/2026-08-04/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T20:50:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a70fd0ca6003368b8fd83b9",
+          "published_at_utc": "2026-08-03T20:41:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic-techcrunch.png",
+      "metadata_file": "output/2026-08-04/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic-techcrunch.json",
+      "published_at_utc": "2026-08-03T20:41:48Z",
+      "publisher": "buffer_threads"
     }
   }
 }
