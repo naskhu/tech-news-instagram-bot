@@ -6744,6 +6744,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T12:35:53Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/single-dimm-ddr5-gaming-works-better-than-you-probably-think-one-ddr5-.png": {
+      "buffer_post_id": "6a708ba44042440374fde65f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/single-dimm-ddr5-gaming-works-better-than-you-probably-think-one-ddr5-.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/single-dimm-ddr5-gaming-works-better-than-you-probably-think-one-ddr5-.png",
+      "metadata_file": "output/2026-08-03/single-dimm-ddr5-gaming-works-better-than-you-probably-think-one-ddr5-.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T12:38:01Z",
+      "publisher": "buffer"
     }
   }
 }
