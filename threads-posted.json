@@ -18858,6 +18858,25 @@
       "published_at_utc": "2026-08-03T09:36:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d.png": {
+      "buffer_due_at_utc": "2026-08-03T18:07:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7061277d4913983426773f",
+      "caption_file": "output/2026-08-03/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T18:07:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7061277d4913983426773f",
+          "published_at_utc": "2026-08-03T09:36:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d.png",
+      "metadata_file": "output/2026-08-03/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d.json",
+      "published_at_utc": "2026-08-03T09:36:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-.png": {
       "buffer_due_at_utc": "2026-08-02T21:20:29.000Z",
       "buffer_mode": "customScheduled",
