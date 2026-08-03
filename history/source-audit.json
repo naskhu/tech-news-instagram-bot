@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-03T19:09:45.721365+00:00",
+  "run_utc": "2026-08-03T20:40:18.305355+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-02T19:09:45.721488+00:00",
-  "eligible_story_count": 204,
+  "cutoff_utc": "2026-08-02T20:40:18.305512+00:00",
+  "eligible_story_count": 215,
   "sources": [
     {
       "source": "TechCrunch",
@@ -20,15 +20,15 @@
         {
           "url": "https://techcrunch.com/latest/",
           "status": 200,
-          "links": 26,
+          "links": 27,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 26,
-      "page_articles": 26,
+      "page_links": 27,
+      "page_articles": 27,
       "eligible_new": 4,
-      "already_processed": 23,
+      "already_processed": 24,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,9 +55,9 @@
       "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 4,
+      "eligible_new": 5,
       "already_processed": 24,
-      "older_than_window": 5,
+      "older_than_window": 4,
       "metadata_errors": {}
     },
     {
@@ -75,16 +75,16 @@
       "page_attempts": [
         {
           "url": "https://arstechnica.com/",
-          "status": 200,
-          "links": 30,
-          "error": ""
+          "status": 403,
+          "links": 0,
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://arstechnica.com/"
         }
       ],
       "rss_candidates": 20,
-      "page_links": 30,
-      "page_articles": 30,
-      "eligible_new": 3,
-      "already_processed": 27,
+      "page_links": 0,
+      "page_articles": 0,
+      "eligible_new": 2,
+      "already_processed": 18,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 5,
-      "already_processed": 36,
-      "older_than_window": 72,
+      "eligible_new": 7,
+      "already_processed": 35,
+      "older_than_window": 73,
       "metadata_errors": {}
     },
     {
@@ -377,22 +377,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 21,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 29,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 60,
+      "eligible_new": 59,
       "already_processed": 0,
-      "older_than_window": 41,
+      "older_than_window": 39,
       "metadata_errors": {
         "missing_title": 2,
         "no_article_metadata": 4
@@ -404,9 +404,9 @@
       "page_attempts": [
         {
           "url": "https://www.reuters.com/technology/",
-          "status": 401,
+          "status": 403,
           "links": 0,
-          "error": "HTTPError:401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/"
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://www.reuters.com/technology/"
         }
       ],
       "rss_candidates": 0,
@@ -431,9 +431,9 @@
       "rss_candidates": 0,
       "page_links": 19,
       "page_articles": 19,
-      "eligible_new": 11,
+      "eligible_new": 12,
       "already_processed": 0,
-      "older_than_window": 8,
+      "older_than_window": 7,
       "metadata_errors": {}
     },
     {
@@ -459,8 +459,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 6,
-      "already_processed": 55,
+      "eligible_new": 7,
+      "already_processed": 53,
       "older_than_window": 6,
       "metadata_errors": {}
     },
@@ -488,22 +488,16 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 39,
-          "error": ""
-        },
-        {
-          "url": "https://www.cnet.com/",
-          "status": 200,
-          "links": 1,
+          "links": 40,
           "error": ""
         }
       ],
-      "rss_candidates": 29,
+      "rss_candidates": 27,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 7,
-      "already_processed": 16,
-      "older_than_window": 29,
+      "eligible_new": 11,
+      "already_processed": 12,
+      "older_than_window": 27,
       "metadata_errors": {
         "http_404": 2
       }
@@ -558,7 +552,7 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 22,
+          "links": 23,
           "error": ""
         },
         {
@@ -569,13 +563,14 @@
         }
       ],
       "rss_candidates": 15,
-      "page_links": 25,
-      "page_articles": 6,
-      "eligible_new": 3,
-      "already_processed": 12,
+      "page_links": 26,
+      "page_articles": 10,
+      "eligible_new": 5,
+      "already_processed": 11,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 19
+        "http_429": 14,
+        "no_article_metadata": 2
       }
     },
     {
@@ -594,20 +589,20 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 30,
+          "links": 28,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 10,
+          "links": 12,
           "error": ""
         }
       ],
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 15,
+      "eligible_new": 19,
       "already_processed": 48,
       "older_than_window": 47,
       "metadata_errors": {}
@@ -641,9 +636,9 @@
       "rss_candidates": 94,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 13,
+      "eligible_new": 14,
       "already_processed": 18,
-      "older_than_window": 79,
+      "older_than_window": 78,
       "metadata_errors": {}
     },
     {
