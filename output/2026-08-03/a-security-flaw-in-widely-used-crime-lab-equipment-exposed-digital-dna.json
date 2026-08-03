@@ -1,0 +1,23 @@
+{
+  "title": "A security flaw in widely used crime lab equipment exposed digital DNA evidence to undetectable tampering.",
+  "summary": "Using Antrophic’s Claude to exploit a security flaw that’s existed for decades, researchers successfully added and removed DNA profiles from files, meaning bad actors could theoretically frame an innocent person or erase a suspect.",
+  "source": "The Verge",
+  "url": "https://theverge.com/science/974287/a-security-flaw-in-widely-used-crime-lab-equipment-exposed-digital-dna-evidence-to-undetectable-tampering",
+  "published_utc": "2026-08-03T07:28:32+00:00",
+  "output_day": "2026-08-03",
+  "date_source": "meta",
+  "generated_utc": "2026-08-03T07:45:29.076970+00:00",
+  "maximum_news_age_hours": 72,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/thomas-headshot-purple.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-03/a-security-flaw-in-widely-used-crime-lab-equipment-exposed-digital-dna.png",
+  "caption": "output/2026-08-03/a-security-flaw-in-widely-used-crime-lab-equipment-exposed-digital-dna.txt"
+}
