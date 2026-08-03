@@ -20559,12 +20559,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/your-fitbit-data-can-now-connect-directly-to-apple-health.png": {
-      "buffer_due_at_utc": "2026-08-03T22:50:05.000Z",
+      "buffer_due_at_utc": "2026-08-03T22:52:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a710dc581392595a3c98f36",
+      "buffer_post_id": "6a710dca3e02cab4770cb408",
       "caption_file": "output/2026-08-04/your-fitbit-data-can-now-connect-directly-to-apple-health.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T22:52:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a710dca3e02cab4770cb408",
+          "published_at_utc": "2026-08-03T21:53:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T22:50:05.000Z",
           "buffer_mode": "customScheduled",
@@ -20574,7 +20580,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/your-fitbit-data-can-now-connect-directly-to-apple-health.png",
       "metadata_file": "output/2026-08-04/your-fitbit-data-can-now-connect-directly-to-apple-health.json",
-      "published_at_utc": "2026-08-03T21:53:09Z",
+      "published_at_utc": "2026-08-03T21:53:14Z",
       "publisher": "buffer_threads"
     }
   }
