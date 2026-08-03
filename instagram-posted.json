@@ -6396,6 +6396,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T06:18:22Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/lumentum-ceo-warns-of-impending-bottleneck-on-critical-material-used-f.png": {
+      "buffer_post_id": "6a70337561a1f4fc1889318a",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/lumentum-ceo-warns-of-impending-bottleneck-on-critical-material-used-f.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/lumentum-ceo-warns-of-impending-bottleneck-on-critical-material-used-f.png",
+      "metadata_file": "output/2026-08-03/lumentum-ceo-warns-of-impending-bottleneck-on-critical-material-used-f.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T06:21:50Z",
+      "publisher": "buffer"
     }
   }
 }
