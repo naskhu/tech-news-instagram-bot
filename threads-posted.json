@@ -19934,12 +19934,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/the-macbook-air-is-looking-scarce.png": {
-      "buffer_due_at_utc": "2026-08-03T13:43:48.000Z",
+      "buffer_due_at_utc": "2026-08-03T13:45:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a708db78df4bee7339cf8f3",
+      "buffer_post_id": "6a708dbb8df4bee7339cf92b",
       "caption_file": "output/2026-08-03/the-macbook-air-is-looking-scarce.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T13:45:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a708dbb8df4bee7339cf92b",
+          "published_at_utc": "2026-08-03T12:46:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T13:43:48.000Z",
           "buffer_mode": "customScheduled",
@@ -19949,7 +19955,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/the-macbook-air-is-looking-scarce.png",
       "metadata_file": "output/2026-08-03/the-macbook-air-is-looking-scarce.json",
-      "published_at_utc": "2026-08-03T12:46:47Z",
+      "published_at_utc": "2026-08-03T12:46:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/this-is-the-google-pixel-tag.png": {
