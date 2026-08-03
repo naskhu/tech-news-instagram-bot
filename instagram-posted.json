@@ -6242,6 +6242,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T04:23:03Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.png": {
+      "buffer_post_id": "6a7017df61a1f4fc1887c965",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.png",
+      "metadata_file": "output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T04:24:07Z",
+      "publisher": "buffer"
     }
   }
 }
