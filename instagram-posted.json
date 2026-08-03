@@ -6308,6 +6308,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T04:48:01Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-sev.png": {
+      "buffer_post_id": "6a701e2d2bbc9e05874e78dd",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-sev.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-sev.png",
+      "metadata_file": "output/2026-08-03/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-sev.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T04:51:00Z",
+      "publisher": "buffer"
     }
   }
 }
