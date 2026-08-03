@@ -6700,6 +6700,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-03T12:12:26Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-03/samsung-s-leaked-galaxy-z-plans-for-2027-include-an-unknown-fifth-phon.png": {
+      "buffer_post_id": "6a708771d6593f678965ca09",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-03/samsung-s-leaked-galaxy-z-plans-for-2027-include-an-unknown-fifth-phon.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/samsung-s-leaked-galaxy-z-plans-for-2027-include-an-unknown-fifth-phon.png",
+      "metadata_file": "output/2026-08-03/samsung-s-leaked-galaxy-z-plans-for-2027-include-an-unknown-fifth-phon.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-03T12:20:08Z",
+      "publisher": "buffer"
     }
   }
 }
