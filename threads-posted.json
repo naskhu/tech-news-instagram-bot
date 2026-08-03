@@ -19557,6 +19557,25 @@
       "metadata_file": "output/2026-08-03/valve-funding-port-of-linux-radv-radeon-vulkan-driver-to-windows-cross.json",
       "published_at_utc": "2026-08-03T02:11:38Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-03/your-motherboard-s-m-2-ssd-heatsink-might-be-slowing-down-your-ssd-onl.png": {
+      "buffer_due_at_utc": "2026-08-03T04:40:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7011281b4d436cc3203ebe",
+      "caption_file": "output/2026-08-03/your-motherboard-s-m-2-ssd-heatsink-might-be-slowing-down-your-ssd-onl.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T04:40:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7011281b4d436cc3203ebe",
+          "published_at_utc": "2026-08-03T03:55:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/your-motherboard-s-m-2-ssd-heatsink-might-be-slowing-down-your-ssd-onl.png",
+      "metadata_file": "output/2026-08-03/your-motherboard-s-m-2-ssd-heatsink-might-be-slowing-down-your-ssd-onl.json",
+      "published_at_utc": "2026-08-03T03:55:20Z",
+      "publisher": "buffer_threads"
     }
   }
 }
