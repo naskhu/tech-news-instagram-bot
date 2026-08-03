@@ -19234,12 +19234,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/samsung-s-fastest-ssd-is-back-to-prime-day-pricing-only-30-difference-.png": {
-      "buffer_due_at_utc": "2026-08-03T06:29:30.000Z",
+      "buffer_due_at_utc": "2026-08-03T06:31:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a702d8f61a1f4fc1888c438",
+      "buffer_post_id": "6a702d94aacd241cfdb69168",
       "caption_file": "output/2026-08-03/samsung-s-fastest-ssd-is-back-to-prime-day-pricing-only-30-difference-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-03T06:31:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a702d94aacd241cfdb69168",
+          "published_at_utc": "2026-08-03T05:56:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-03T06:29:30.000Z",
           "buffer_mode": "customScheduled",
@@ -19249,7 +19255,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/samsung-s-fastest-ssd-is-back-to-prime-day-pricing-only-30-difference-.png",
       "metadata_file": "output/2026-08-03/samsung-s-fastest-ssd-is-back-to-prime-day-pricing-only-30-difference-.json",
-      "published_at_utc": "2026-08-03T05:56:31Z",
+      "published_at_utc": "2026-08-03T05:56:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-03/samsung-s-leaked-galaxy-z-plans-for-2027-include-an-unknown-fifth-phon.png": {
