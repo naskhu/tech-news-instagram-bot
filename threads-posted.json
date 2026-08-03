@@ -18433,6 +18433,25 @@
       "published_at_utc": "2026-08-02T23:55:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.png": {
+      "buffer_due_at_utc": "2026-08-03T00:20:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a6fdd102bbc9e05874b94f0",
+      "caption_file": "output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-03T00:20:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a6fdd102bbc9e05874b94f0",
+          "published_at_utc": "2026-08-03T00:13:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.png",
+      "metadata_file": "output/2026-08-03/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-tra.json",
+      "published_at_utc": "2026-08-03T00:13:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-03/big-tech-spends-more-than-1-trillion-on-ai-infrastructure-additional-7.png": {
       "buffer_due_at_utc": "2026-08-03T00:26:33.000Z",
       "buffer_mode": "customScheduled",
