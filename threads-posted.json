@@ -20684,12 +20684,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/openai-drags-apple-s-lawsuit-into-the-court-of-public-opinion.png": {
-      "buffer_due_at_utc": "2026-08-04T12:09:27.000Z",
+      "buffer_due_at_utc": "2026-08-04T12:11:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a71d1e54f09314d52678c2e",
+      "buffer_post_id": "6a71d1eae4949315289cd9dd",
       "caption_file": "output/2026-08-04/openai-drags-apple-s-lawsuit-into-the-court-of-public-opinion.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T12:11:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71d1eae4949315289cd9dd",
+          "published_at_utc": "2026-08-04T11:50:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T12:09:27.000Z",
           "buffer_mode": "customScheduled",
@@ -20699,7 +20705,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/openai-drags-apple-s-lawsuit-into-the-court-of-public-opinion.png",
       "metadata_file": "output/2026-08-04/openai-drags-apple-s-lawsuit-into-the-court-of-public-opinion.json",
-      "published_at_utc": "2026-08-04T11:49:58Z",
+      "published_at_utc": "2026-08-04T11:50:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.png": {
