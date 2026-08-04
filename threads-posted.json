@@ -20634,12 +20634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/lowe-s-promo-codes-and-deals-up-to-300-off-appliances.png": {
-      "buffer_due_at_utc": "2026-08-04T10:05:16.000Z",
+      "buffer_due_at_utc": "2026-08-04T10:07:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a71b0683cd1200c73910e46",
+      "buffer_post_id": "6a71b06e3cd1200c73910f00",
       "caption_file": "output/2026-08-04/lowe-s-promo-codes-and-deals-up-to-300-off-appliances.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T10:07:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71b06e3cd1200c73910f00",
+          "published_at_utc": "2026-08-04T09:27:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T10:05:16.000Z",
           "buffer_mode": "customScheduled",
@@ -20649,7 +20655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/lowe-s-promo-codes-and-deals-up-to-300-off-appliances.png",
       "metadata_file": "output/2026-08-04/lowe-s-promo-codes-and-deals-up-to-300-off-appliances.json",
-      "published_at_utc": "2026-08-04T09:27:04Z",
+      "published_at_utc": "2026-08-04T09:27:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.png": {
