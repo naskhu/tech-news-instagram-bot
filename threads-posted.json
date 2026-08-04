@@ -20483,6 +20483,25 @@
       "published_at_utc": "2026-08-03T20:42:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-04/bending-spoons-to-buy-airtable-for-1-28b-techcrunch.png": {
+      "buffer_due_at_utc": "2026-08-04T11:50:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a71d1dce4949315289cd8c5",
+      "caption_file": "output/2026-08-04/bending-spoons-to-buy-airtable-for-1-28b-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T11:50:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71d1dce4949315289cd8c5",
+          "published_at_utc": "2026-08-04T11:49:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/bending-spoons-to-buy-airtable-for-1-28b-techcrunch.png",
+      "metadata_file": "output/2026-08-04/bending-spoons-to-buy-airtable-for-1-28b-techcrunch.json",
+      "published_at_utc": "2026-08-04T11:49:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-04/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models-tec.png": {
       "buffer_due_at_utc": "2026-08-03T21:24:54.000Z",
       "buffer_mode": "customScheduled",
