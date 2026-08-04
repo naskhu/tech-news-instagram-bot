@@ -21351,10 +21351,15 @@
     },
     "output/2026-08-04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone-techcrunch.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a722bc0343e45dde78bdfcc",
+      "buffer_post_id": "6a722bcfbc97c17e7be582bd",
       "caption_file": "output/2026-08-04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a722bcfbc97c17e7be582bd",
+          "published_at_utc": "2026-08-04T18:13:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a722bc0343e45dde78bdfcc",
@@ -21363,7 +21368,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone-techcrunch.png",
       "metadata_file": "output/2026-08-04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone-techcrunch.json",
-      "published_at_utc": "2026-08-04T18:13:30Z",
+      "published_at_utc": "2026-08-04T18:13:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts-.png": {
