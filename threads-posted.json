@@ -21847,12 +21847,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/the-fcc-might-ban-optical-transceivers-from-china.png": {
-      "buffer_due_at_utc": "2026-08-05T00:37:52.000Z",
+      "buffer_due_at_utc": "2026-08-05T00:39:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a727883c82d97b511b7a69c",
+      "buffer_post_id": "6a727887c549049f465156f6",
       "caption_file": "output/2026-08-05/the-fcc-might-ban-optical-transceivers-from-china.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T00:39:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a727887c549049f465156f6",
+          "published_at_utc": "2026-08-04T23:40:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T00:37:52.000Z",
           "buffer_mode": "customScheduled",
@@ -21862,7 +21868,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/the-fcc-might-ban-optical-transceivers-from-china.png",
       "metadata_file": "output/2026-08-05/the-fcc-might-ban-optical-transceivers-from-china.json",
-      "published_at_utc": "2026-08-04T23:40:51Z",
+      "published_at_utc": "2026-08-04T23:40:55Z",
       "publisher": "buffer_threads"
     }
   }
