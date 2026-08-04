@@ -20333,6 +20333,25 @@
       "published_at_utc": "2026-08-04T00:06:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-04/amazon-is-now-worth-over-three-elon-musks.png": {
+      "buffer_due_at_utc": "2026-08-04T09:27:26.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a71b052e66301b309483b2b",
+      "caption_file": "output/2026-08-04/amazon-is-now-worth-over-three-elon-musks.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T09:27:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71b052e66301b309483b2b",
+          "published_at_utc": "2026-08-04T09:26:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/amazon-is-now-worth-over-three-elon-musks.png",
+      "metadata_file": "output/2026-08-04/amazon-is-now-worth-over-three-elon-musks.json",
+      "published_at_utc": "2026-08-04T09:26:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-04/amazon-might-have-its-new-kratos.png": {
       "buffer_due_at_utc": "2026-08-03T21:55:20.000Z",
       "buffer_mode": "customScheduled",
