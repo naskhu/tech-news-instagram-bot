@@ -21597,12 +21597,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-r.png": {
-      "buffer_due_at_utc": "2026-08-04T21:37:44.000Z",
+      "buffer_due_at_utc": "2026-08-04T21:39:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7257184207e0dee53af7a7",
+      "buffer_post_id": "6a72571ebeaf5fe35551f737",
       "caption_file": "output/2026-08-05/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-r.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T21:39:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a72571ebeaf5fe35551f737",
+          "published_at_utc": "2026-08-04T21:18:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T21:37:44.000Z",
           "buffer_mode": "customScheduled",
@@ -21612,7 +21618,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-r.png",
       "metadata_file": "output/2026-08-05/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-r.json",
-      "published_at_utc": "2026-08-04T21:18:16Z",
+      "published_at_utc": "2026-08-04T21:18:22Z",
       "publisher": "buffer_threads"
     }
   }
