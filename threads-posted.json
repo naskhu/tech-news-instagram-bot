@@ -21057,10 +21057,15 @@
     },
     "output/2026-08-04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a722b80bc97c17e7be57e57",
+      "buffer_post_id": "6a722b90f27ab4a3c719ab1f",
       "caption_file": "output/2026-08-04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a722b90f27ab4a3c719ab1f",
+          "published_at_utc": "2026-08-04T18:12:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a722b80bc97c17e7be57e57",
@@ -21069,7 +21074,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only.png",
       "metadata_file": "output/2026-08-04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only.json",
-      "published_at_utc": "2026-08-04T18:12:27Z",
+      "published_at_utc": "2026-08-04T18:12:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/telegram-briefly-vanished-from-apple-s-app-store.png": {
