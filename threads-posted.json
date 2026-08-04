@@ -20658,6 +20658,25 @@
       "published_at_utc": "2026-08-03T20:42:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-ou.png": {
+      "buffer_due_at_utc": "2026-08-04T14:35:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a71efbc0800acf5898eb87e",
+      "caption_file": "output/2026-08-04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-ou.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T14:35:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71efbc0800acf5898eb87e",
+          "published_at_utc": "2026-08-04T13:57:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-ou.png",
+      "metadata_file": "output/2026-08-04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-ou.json",
+      "published_at_utc": "2026-08-04T13:57:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-04/lego-deploys-hubble-space-telescope-as-detailed-desktop-model.png": {
       "buffer_due_at_utc": "2026-08-04T03:46:09.000Z",
       "buffer_mode": "customScheduled",
