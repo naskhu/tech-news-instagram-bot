@@ -21472,12 +21472,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/android-app-developers-may-be-unwittingly-sharing-their-users-location.png": {
-      "buffer_due_at_utc": "2026-08-04T21:18:49.000Z",
+      "buffer_due_at_utc": "2026-08-04T21:20:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a72570d4207e0dee53af63b",
+      "buffer_post_id": "6a725713c82d97b511b5d990",
       "caption_file": "output/2026-08-05/android-app-developers-may-be-unwittingly-sharing-their-users-location.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T21:20:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a725713c82d97b511b5d990",
+          "published_at_utc": "2026-08-04T21:18:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T21:18:49.000Z",
           "buffer_mode": "customScheduled",
@@ -21487,7 +21493,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/android-app-developers-may-be-unwittingly-sharing-their-users-location.png",
       "metadata_file": "output/2026-08-05/android-app-developers-may-be-unwittingly-sharing-their-users-location.json",
-      "published_at_utc": "2026-08-04T21:18:06Z",
+      "published_at_utc": "2026-08-04T21:18:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta.png": {
