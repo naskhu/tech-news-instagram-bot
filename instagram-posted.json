@@ -7059,6 +7059,17 @@
       "published_at_utc": "2026-08-04T04:28:33Z",
       "publisher": "buffer"
     },
+    "output/2026-08-04/research-roundup-6-cool-science-stories-we-almost-missed.png": {
+      "buffer_post_id": "6a71bc48e95f3e916abf2244",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-04/research-roundup-6-cool-science-stories-we-almost-missed.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/research-roundup-6-cool-science-stories-we-almost-missed.png",
+      "metadata_file": "output/2026-08-04/research-roundup-6-cool-science-stories-we-almost-missed.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-04T10:17:52Z",
+      "publisher": "buffer"
+    },
     "output/2026-08-04/snap-ceo-sidesteps-specs-preorder-questions-on-q2-earnings-call-techcr.png": {
       "buffer_post_id": "6a71b06cb95f5154b2d9aa82",
       "buffer_status": "error",
