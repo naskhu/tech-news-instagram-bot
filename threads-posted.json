@@ -20909,12 +20909,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/tiktok-privately-settles-three-more-teen-addiction-cases.png": {
-      "buffer_due_at_utc": "2026-08-04T10:24:11.000Z",
+      "buffer_due_at_utc": "2026-08-04T10:26:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a71b074b95f5154b2d9aaf3",
+      "buffer_post_id": "6a71b0794a506bec38887942",
       "caption_file": "output/2026-08-04/tiktok-privately-settles-three-more-teen-addiction-cases.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T10:26:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71b0794a506bec38887942",
+          "published_at_utc": "2026-08-04T09:27:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T10:24:11.000Z",
           "buffer_mode": "customScheduled",
@@ -20924,7 +20930,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/tiktok-privately-settles-three-more-teen-addiction-cases.png",
       "metadata_file": "output/2026-08-04/tiktok-privately-settles-three-more-teen-addiction-cases.json",
-      "published_at_utc": "2026-08-04T09:27:16Z",
+      "published_at_utc": "2026-08-04T09:27:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/trump-wants-the-power-to-stop-the-public-from-suing-polluters.png": {
