@@ -20534,12 +20534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/research-roundup-6-cool-science-stories-we-almost-missed.png": {
-      "buffer_due_at_utc": "2026-08-04T04:03:04.000Z",
+      "buffer_due_at_utc": "2026-08-04T04:05:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a715fec2e9d172962a8a592",
+      "buffer_post_id": "6a715ff0d702c24ecb216b05",
       "caption_file": "output/2026-08-04/research-roundup-6-cool-science-stories-we-almost-missed.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T04:05:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a715ff0d702c24ecb216b05",
+          "published_at_utc": "2026-08-04T03:43:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T04:03:04.000Z",
           "buffer_mode": "customScheduled",
@@ -20549,7 +20555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/research-roundup-6-cool-science-stories-we-almost-missed.png",
       "metadata_file": "output/2026-08-04/research-roundup-6-cool-science-stories-we-almost-missed.json",
-      "published_at_utc": "2026-08-04T03:43:40Z",
+      "published_at_utc": "2026-08-04T03:43:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/samsung-s-discounted-smart-monitor-is-349-99-its-lowest-price-yet.png": {
