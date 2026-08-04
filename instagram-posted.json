@@ -7026,6 +7026,17 @@
       "published_at_utc": "2026-08-03T16:05:50Z",
       "publisher": "buffer"
     },
+    "output/2026-08-04/2026-volkswagen-jetta-sport-the-cheap-car-isn-t-completely-extinct-yet.png": {
+      "buffer_post_id": "6a71bc52e63430a5cd0418b1",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-04/2026-volkswagen-jetta-sport-the-cheap-car-isn-t-completely-extinct-yet.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/2026-volkswagen-jetta-sport-the-cheap-car-isn-t-completely-extinct-yet.png",
+      "metadata_file": "output/2026-08-04/2026-volkswagen-jetta-sport-the-cheap-car-isn-t-completely-extinct-yet.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-04T10:18:04Z",
+      "publisher": "buffer"
+    },
     "output/2026-08-04/amazon-might-have-its-new-kratos.png": {
       "buffer_post_id": "6a71930a0be852bfb43c4d64",
       "buffer_status": "error",
