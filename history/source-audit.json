@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-04T22:30:55.408782+00:00",
+  "run_utc": "2026-08-04T23:38:17.998982+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-03T22:30:55.408966+00:00",
-  "eligible_story_count": 299,
+  "cutoff_utc": "2026-08-03T23:38:17.999138+00:00",
+  "eligible_story_count": 292,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,7 +27,7 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 3,
+      "eligible_new": 1,
       "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 15,
-      "already_processed": 11,
+      "eligible_new": 14,
+      "already_processed": 12,
       "older_than_window": 8,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 16,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -377,25 +377,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 18,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 32,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 60,
+      "eligible_new": 57,
       "already_processed": 1,
-      "older_than_window": 40,
+      "older_than_window": 39,
       "metadata_errors": {
-        "missing_title": 1,
-        "no_article_metadata": 4
+        "no_article_metadata": 4,
+        "missing_title": 1
       }
     },
     {
@@ -424,14 +424,14 @@
         {
           "url": "https://www.pcmag.com/news",
           "status": 200,
-          "links": 23,
+          "links": 24,
           "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 23,
-      "page_articles": 23,
-      "eligible_new": 15,
+      "page_links": 24,
+      "page_articles": 24,
+      "eligible_new": 16,
       "already_processed": 0,
       "older_than_window": 8,
       "metadata_errors": {}
@@ -459,8 +459,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 22,
-      "already_processed": 24,
+      "eligible_new": 23,
+      "already_processed": 23,
       "older_than_window": 18,
       "metadata_errors": {}
     },
@@ -535,9 +535,9 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 4,
+      "eligible_new": 3,
       "already_processed": 2,
-      "older_than_window": 1,
+      "older_than_window": 2,
       "metadata_errors": {}
     },
     {
@@ -592,13 +592,13 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 30,
+          "links": 31,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 10,
+          "links": 9,
           "error": ""
         }
       ],
@@ -606,7 +606,7 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 30,
-      "already_processed": 48,
+      "already_processed": 47,
       "older_than_window": 35,
       "metadata_errors": {}
     },
@@ -626,22 +626,22 @@
         {
           "url": "https://9to5google.com/",
           "status": 200,
-          "links": 30,
+          "links": 29,
           "error": ""
         },
         {
           "url": "https://9to5google.com/guides/news/",
           "status": 200,
-          "links": 10,
+          "links": 11,
           "error": ""
         }
       ],
       "rss_candidates": 94,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 17,
+      "eligible_new": 16,
       "already_processed": 18,
-      "older_than_window": 73,
+      "older_than_window": 74,
       "metadata_errors": {}
     },
     {
