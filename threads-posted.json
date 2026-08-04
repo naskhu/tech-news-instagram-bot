@@ -20558,6 +20558,25 @@
       "published_at_utc": "2026-08-04T09:26:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings.png": {
+      "buffer_due_at_utc": "2026-08-04T16:12:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a720f344c01e24af08d847a",
+      "caption_file": "output/2026-08-04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T16:12:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a720f344c01e24af08d847a",
+          "published_at_utc": "2026-08-04T16:11:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings.png",
+      "metadata_file": "output/2026-08-04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings.json",
+      "published_at_utc": "2026-08-04T16:11:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lase.png": {
       "buffer_due_at_utc": "2026-08-04T13:59:41.000Z",
       "buffer_mode": "customScheduled",
