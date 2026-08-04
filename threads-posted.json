@@ -21647,12 +21647,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/now-you-can-securely-link-multiple-phones-to-one-signal-account.png": {
-      "buffer_due_at_utc": "2026-08-04T23:30:25.000Z",
+      "buffer_due_at_utc": "2026-08-04T23:32:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7268b7beaf5fe35552f99c",
+      "buffer_post_id": "6a7268bcc82d97b511b6cba5",
       "caption_file": "output/2026-08-05/now-you-can-securely-link-multiple-phones-to-one-signal-account.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T23:32:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7268bcc82d97b511b6cba5",
+          "published_at_utc": "2026-08-04T22:33:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T23:30:25.000Z",
           "buffer_mode": "customScheduled",
@@ -21662,7 +21668,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/now-you-can-securely-link-multiple-phones-to-one-signal-account.png",
       "metadata_file": "output/2026-08-05/now-you-can-securely-link-multiple-phones-to-one-signal-account.json",
-      "published_at_utc": "2026-08-04T22:33:28Z",
+      "published_at_utc": "2026-08-04T22:33:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/nvidia-doesn-t-mess-around-a-week-after-open-ai-industry-group-formed-.png": {
