@@ -21597,12 +21597,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/elon-musk-repeatedly-one-upped-his-execs-on-spacex-s-first-earnings-ca.png": {
-      "buffer_due_at_utc": "2026-08-05T00:18:57.000Z",
+      "buffer_due_at_utc": "2026-08-05T00:20:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a727879c549049f4651567b",
+      "buffer_post_id": "6a72787ec82d97b511b7a66e",
       "caption_file": "output/2026-08-05/elon-musk-repeatedly-one-upped-his-execs-on-spacex-s-first-earnings-ca.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T00:20:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a72787ec82d97b511b7a66e",
+          "published_at_utc": "2026-08-04T23:40:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T00:18:57.000Z",
           "buffer_mode": "customScheduled",
@@ -21612,7 +21618,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/elon-musk-repeatedly-one-upped-his-execs-on-spacex-s-first-earnings-ca.png",
       "metadata_file": "output/2026-08-05/elon-musk-repeatedly-one-upped-his-execs-on-spacex-s-first-earnings-ca.json",
-      "published_at_utc": "2026-08-04T23:40:41Z",
+      "published_at_utc": "2026-08-04T23:40:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/host-a-side-event-during-techcrunch-founder-summit-week-in-boston-tech.png": {
