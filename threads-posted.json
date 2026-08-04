@@ -20834,12 +20834,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/spotify-hits-300-million-paid-subscribers.png": {
-      "buffer_due_at_utc": "2026-08-04T12:28:22.000Z",
+      "buffer_due_at_utc": "2026-08-04T12:30:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a71d1ef4f09314d52678d02",
+      "buffer_post_id": "6a71d1f459110cf042aeb8cc",
       "caption_file": "output/2026-08-04/spotify-hits-300-million-paid-subscribers.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T12:30:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71d1f459110cf042aeb8cc",
+          "published_at_utc": "2026-08-04T11:50:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T12:28:22.000Z",
           "buffer_mode": "customScheduled",
@@ -20849,7 +20855,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/spotify-hits-300-million-paid-subscribers.png",
       "metadata_file": "output/2026-08-04/spotify-hits-300-million-paid-subscribers.json",
-      "published_at_utc": "2026-08-04T11:50:07Z",
+      "published_at_utc": "2026-08-04T11:50:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/t-mobile-shut-down-its-2g-service-today.png": {
