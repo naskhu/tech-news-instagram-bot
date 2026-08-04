@@ -21596,6 +21596,25 @@
       "published_at_utc": "2026-08-04T22:33:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/lucid-s-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis.png": {
+      "buffer_due_at_utc": "2026-08-04T23:11:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7268adbeaf5fe35552f921",
+      "caption_file": "output/2026-08-05/lucid-s-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T23:11:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7268adbeaf5fe35552f921",
+          "published_at_utc": "2026-08-04T22:33:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/lucid-s-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis.png",
+      "metadata_file": "output/2026-08-05/lucid-s-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis.json",
+      "published_at_utc": "2026-08-04T22:33:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places.png": {
       "buffer_due_at_utc": "2026-08-04T20:44:31.000Z",
       "buffer_mode": "customScheduled",
