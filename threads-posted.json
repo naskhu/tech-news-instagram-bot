@@ -20833,6 +20833,25 @@
       "published_at_utc": "2026-08-04T00:06:45Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-04/trump-wants-the-power-to-stop-the-public-from-suing-polluters.png": {
+      "buffer_due_at_utc": "2026-08-04T07:21:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7185bef8b075795f0cfe25",
+      "caption_file": "output/2026-08-04/trump-wants-the-power-to-stop-the-public-from-suing-polluters.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T07:21:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7185bef8b075795f0cfe25",
+          "published_at_utc": "2026-08-04T06:25:02Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/trump-wants-the-power-to-stop-the-public-from-suing-polluters.png",
+      "metadata_file": "output/2026-08-04/trump-wants-the-power-to-stop-the-public-from-suing-polluters.json",
+      "published_at_utc": "2026-08-04T06:25:02Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-04/us-company-s-ai-lets-ukraine-s-cheap-kamikaze-drones-track-targets-on-.png": {
       "buffer_due_at_utc": "2026-08-04T04:42:54.000Z",
       "buffer_mode": "customScheduled",
