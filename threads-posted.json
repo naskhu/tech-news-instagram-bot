@@ -20558,6 +20558,25 @@
       "published_at_utc": "2026-08-04T09:26:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lase.png": {
+      "buffer_due_at_utc": "2026-08-04T13:57:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a71efa90800acf5898eb655",
+      "caption_file": "output/2026-08-04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lase.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T13:57:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71efa90800acf5898eb655",
+          "published_at_utc": "2026-08-04T13:56:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lase.png",
+      "metadata_file": "output/2026-08-04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lase.json",
+      "published_at_utc": "2026-08-04T13:56:57Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.png": {
       "buffer_due_at_utc": "2026-08-04T00:27:52.000Z",
       "buffer_mode": "customScheduled",
