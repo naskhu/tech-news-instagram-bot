@@ -20634,12 +20634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/the-studio-behind-pok-mon-struggles-to-find-its-voice-in-beast-of-rein.png": {
-      "buffer_due_at_utc": "2026-08-04T00:44:47.000Z",
+      "buffer_due_at_utc": "2026-08-04T00:46:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a712d0720d3689200af6a5d",
+      "buffer_post_id": "6a712d0c3e02cab4770e4a44",
       "caption_file": "output/2026-08-04/the-studio-behind-pok-mon-struggles-to-find-its-voice-in-beast-of-rein.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T00:46:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a712d0c3e02cab4770e4a44",
+          "published_at_utc": "2026-08-04T00:06:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T00:44:47.000Z",
           "buffer_mode": "customScheduled",
@@ -20649,7 +20655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/the-studio-behind-pok-mon-struggles-to-find-its-voice-in-beast-of-rein.png",
       "metadata_file": "output/2026-08-04/the-studio-behind-pok-mon-struggles-to-find-its-voice-in-beast-of-rein.json",
-      "published_at_utc": "2026-08-04T00:06:31Z",
+      "published_at_utc": "2026-08-04T00:06:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts-.png": {
