@@ -7059,6 +7059,17 @@
       "published_at_utc": "2026-08-04T07:21:53Z",
       "publisher": "buffer"
     },
+    "output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.png": {
+      "buffer_post_id": "6a72008a0bfa251fb3a834dd",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.png",
+      "metadata_file": "output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-04T15:09:05Z",
+      "publisher": "buffer"
+    },
     "output/2026-08-04/lego-deploys-hubble-space-telescope-as-detailed-desktop-model.png": {
       "buffer_post_id": "6a719301a7359180dd79f793",
       "buffer_status": "error",
