@@ -21545,6 +21545,25 @@
       "metadata_file": "output/2026-08-05/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places.json",
       "published_at_utc": "2026-08-04T20:04:28Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-05/nvidia-doesn-t-mess-around-a-week-after-open-ai-industry-group-formed-.png": {
+      "buffer_due_at_utc": "2026-08-04T21:01:26.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7245d2beaf5fe355513235",
+      "caption_file": "output/2026-08-05/nvidia-doesn-t-mess-around-a-week-after-open-ai-industry-group-formed-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T21:01:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7245d2beaf5fe355513235",
+          "published_at_utc": "2026-08-04T20:04:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/nvidia-doesn-t-mess-around-a-week-after-open-ai-industry-group-formed-.png",
+      "metadata_file": "output/2026-08-05/nvidia-doesn-t-mess-around-a-week-after-open-ai-industry-group-formed-.json",
+      "published_at_utc": "2026-08-04T20:04:34Z",
+      "publisher": "buffer_threads"
     }
   }
 }
