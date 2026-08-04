@@ -21520,6 +21520,25 @@
       "metadata_file": "output/2026-08-05/host-a-side-event-during-techcrunch-founder-summit-week-in-boston-tech.json",
       "published_at_utc": "2026-08-04T20:04:16Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-05/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places.png": {
+      "buffer_due_at_utc": "2026-08-04T20:42:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7245c5c549049f464e929a",
+      "caption_file": "output/2026-08-05/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T20:42:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7245c5c549049f464e929a",
+          "published_at_utc": "2026-08-04T20:04:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places.png",
+      "metadata_file": "output/2026-08-05/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places.json",
+      "published_at_utc": "2026-08-04T20:04:21Z",
+      "publisher": "buffer_threads"
     }
   }
 }
