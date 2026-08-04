@@ -20659,12 +20659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/the-white-house-will-brief-ai-companies-about-its-model-testing-framew.png": {
-      "buffer_due_at_utc": "2026-08-04T01:03:42.000Z",
+      "buffer_due_at_utc": "2026-08-04T01:05:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a712d11e7bbda897d686601",
+      "buffer_post_id": "6a712d15e7bbda897d68664d",
       "caption_file": "output/2026-08-04/the-white-house-will-brief-ai-companies-about-its-model-testing-framew.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T01:05:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a712d15e7bbda897d68664d",
+          "published_at_utc": "2026-08-04T00:06:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T01:03:42.000Z",
           "buffer_mode": "customScheduled",
@@ -20674,7 +20680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/the-white-house-will-brief-ai-companies-about-its-model-testing-framew.png",
       "metadata_file": "output/2026-08-04/the-white-house-will-brief-ai-companies-about-its-model-testing-framew.json",
-      "published_at_utc": "2026-08-04T00:06:41Z",
+      "published_at_utc": "2026-08-04T00:06:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts-.png": {
