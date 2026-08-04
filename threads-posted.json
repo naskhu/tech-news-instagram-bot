@@ -20559,12 +20559,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings.png": {
-      "buffer_due_at_utc": "2026-08-04T16:12:16.000Z",
+      "buffer_due_at_utc": "2026-08-04T16:14:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a720f344c01e24af08d847a",
+      "buffer_post_id": "6a720f394c01e24af08d849e",
       "caption_file": "output/2026-08-04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T16:14:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a720f394c01e24af08d849e",
+          "published_at_utc": "2026-08-04T16:11:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T16:12:16.000Z",
           "buffer_mode": "customScheduled",
@@ -20574,7 +20580,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings.png",
       "metadata_file": "output/2026-08-04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings.json",
-      "published_at_utc": "2026-08-04T16:11:32Z",
+      "published_at_utc": "2026-08-04T16:11:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lase.png": {
