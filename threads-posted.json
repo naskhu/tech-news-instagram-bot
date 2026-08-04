@@ -21595,6 +21595,25 @@
       "metadata_file": "output/2026-08-05/nvidia-doesn-t-mess-around-a-week-after-open-ai-industry-group-formed-.json",
       "published_at_utc": "2026-08-04T20:04:39Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-05/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-r.png": {
+      "buffer_due_at_utc": "2026-08-04T21:37:44.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7257184207e0dee53af7a7",
+      "caption_file": "output/2026-08-05/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-r.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T21:37:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7257184207e0dee53af7a7",
+          "published_at_utc": "2026-08-04T21:18:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-r.png",
+      "metadata_file": "output/2026-08-05/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-r.json",
+      "published_at_utc": "2026-08-04T21:18:16Z",
+      "publisher": "buffer_threads"
     }
   }
 }
