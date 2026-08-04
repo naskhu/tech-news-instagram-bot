@@ -20434,12 +20434,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.png": {
-      "buffer_due_at_utc": "2026-08-04T00:25:52.000Z",
+      "buffer_due_at_utc": "2026-08-04T00:27:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a712cfe20d3689200af699a",
+      "buffer_post_id": "6a712d02d702c24ecb1f12b5",
       "caption_file": "output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T00:27:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a712d02d702c24ecb1f12b5",
+          "published_at_utc": "2026-08-04T00:06:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T00:25:52.000Z",
           "buffer_mode": "customScheduled",
@@ -20449,7 +20455,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.png",
       "metadata_file": "output/2026-08-04/europe-s-ai-labeling-and-transparency-rules-are-now-in-effect.json",
-      "published_at_utc": "2026-08-04T00:06:22Z",
+      "published_at_utc": "2026-08-04T00:06:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/influencers-draw-backlash-for-attending-openai-s-first-luxury-trip-tec.png": {
