@@ -21279,10 +21279,15 @@
     },
     "output/2026-08-04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a722ba0bc97c17e7be57f35",
+      "buffer_post_id": "6a722bb02b9785a022027a47",
       "caption_file": "output/2026-08-04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a722bb02b9785a022027a47",
+          "published_at_utc": "2026-08-04T18:13:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a722ba0bc97c17e7be57f35",
@@ -21291,7 +21296,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-.png",
       "metadata_file": "output/2026-08-04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-.json",
-      "published_at_utc": "2026-08-04T18:12:59Z",
+      "published_at_utc": "2026-08-04T18:13:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/us-company-s-ai-lets-ukraine-s-cheap-kamikaze-drones-track-targets-on-.png": {
