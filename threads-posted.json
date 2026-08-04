@@ -20658,6 +20658,25 @@
       "published_at_utc": "2026-08-03T21:53:04Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-04/telegram-briefly-vanished-from-apple-s-app-store.png": {
+      "buffer_due_at_utc": "2026-08-04T04:21:59.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a715ff5e7bbda897d6ace9d",
+      "caption_file": "output/2026-08-04/telegram-briefly-vanished-from-apple-s-app-store.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T04:21:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a715ff5e7bbda897d6ace9d",
+          "published_at_utc": "2026-08-04T03:43:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/telegram-briefly-vanished-from-apple-s-app-store.png",
+      "metadata_file": "output/2026-08-04/telegram-briefly-vanished-from-apple-s-app-store.json",
+      "published_at_utc": "2026-08-04T03:43:50Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-04/the-galaxy-s27-ultra-might-come-with-one-less-telephoto-lens.png": {
       "buffer_due_at_utc": "2026-08-03T23:38:11.000Z",
       "buffer_mode": "customScheduled",
