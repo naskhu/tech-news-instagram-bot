@@ -21572,12 +21572,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/don-t-screw-this-up-marvel.png": {
-      "buffer_due_at_utc": "2026-08-05T00:00:02.000Z",
+      "buffer_due_at_utc": "2026-08-05T00:02:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a727870c6717b2bad66a9d4",
+      "buffer_post_id": "6a727874c549049f4651563b",
       "caption_file": "output/2026-08-05/don-t-screw-this-up-marvel.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T00:02:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a727874c549049f4651563b",
+          "published_at_utc": "2026-08-04T23:40:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T00:00:02.000Z",
           "buffer_mode": "customScheduled",
@@ -21587,7 +21593,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/don-t-screw-this-up-marvel.png",
       "metadata_file": "output/2026-08-05/don-t-screw-this-up-marvel.json",
-      "published_at_utc": "2026-08-04T23:40:32Z",
+      "published_at_utc": "2026-08-04T23:40:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/host-a-side-event-during-techcrunch-founder-summit-week-in-boston-tech.png": {
