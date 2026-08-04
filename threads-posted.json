@@ -20934,12 +20934,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/the-next-xbox-could-play-every-xbox-game-ever-made.png": {
-      "buffer_due_at_utc": "2026-08-04T12:47:17.000Z",
+      "buffer_due_at_utc": "2026-08-04T12:49:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a71d1f959110cf042aeb94d",
+      "buffer_post_id": "6a71d1fde4949315289cdb83",
       "caption_file": "output/2026-08-04/the-next-xbox-could-play-every-xbox-game-ever-made.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-04T12:49:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a71d1fde4949315289cdb83",
+          "published_at_utc": "2026-08-04T11:50:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-04T12:47:17.000Z",
           "buffer_mode": "customScheduled",
@@ -20949,7 +20955,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/the-next-xbox-could-play-every-xbox-game-ever-made.png",
       "metadata_file": "output/2026-08-04/the-next-xbox-could-play-every-xbox-game-ever-made.json",
-      "published_at_utc": "2026-08-04T11:50:17Z",
+      "published_at_utc": "2026-08-04T11:50:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-04/the-studio-behind-pok-mon-struggles-to-find-its-voice-in-beast-of-rein.png": {
