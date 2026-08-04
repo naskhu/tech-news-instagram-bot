@@ -21471,6 +21471,25 @@
       "published_at_utc": "2026-08-03T21:53:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.png": {
+      "buffer_due_at_utc": "2026-08-04T23:41:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a727866c6717b2bad66a99c",
+      "caption_file": "output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-04T23:41:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a727866c6717b2bad66a99c",
+          "published_at_utc": "2026-08-04T23:40:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.png",
+      "metadata_file": "output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.json",
+      "published_at_utc": "2026-08-04T23:40:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/android-app-developers-may-be-unwittingly-sharing-their-users-location.png": {
       "buffer_due_at_utc": "2026-08-04T21:20:49.000Z",
       "buffer_mode": "customScheduled",
