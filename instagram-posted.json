@@ -7070,6 +7070,17 @@
       "published_at_utc": "2026-08-04T07:21:44Z",
       "publisher": "buffer"
     },
+    "output/2026-08-04/lovehoney-coupon-offers-toys-lingerie-and-gift-set-discounts.png": {
+      "buffer_post_id": "6a71efade0d0f4ecc61cd5d1",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-04/lovehoney-coupon-offers-toys-lingerie-and-gift-set-discounts.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-04/lovehoney-coupon-offers-toys-lingerie-and-gift-set-discounts.png",
+      "metadata_file": "output/2026-08-04/lovehoney-coupon-offers-toys-lingerie-and-gift-set-discounts.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-04T13:57:08Z",
+      "publisher": "buffer"
+    },
     "output/2026-08-04/outernet-turns-your-saved-posts-into-real-world-adventures-techcrunch.png": {
       "buffer_post_id": "6a716a693e02cab477114ea5",
       "buffer_status": "error",
