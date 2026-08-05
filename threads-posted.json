@@ -22709,6 +22709,25 @@
       "published_at_utc": "2026-08-05T23:21:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/how-lightspeed-found-its-newest-hire-via-instagram-dm-techcrunch.png": {
+      "buffer_due_at_utc": "2026-08-05T23:40:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a73c5682770c3bfc757fb4a",
+      "caption_file": "output/2026-08-06/how-lightspeed-found-its-newest-hire-via-instagram-dm-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T23:40:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73c5682770c3bfc757fb4a",
+          "published_at_utc": "2026-08-05T23:21:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/how-lightspeed-found-its-newest-hire-via-instagram-dm-techcrunch.png",
+      "metadata_file": "output/2026-08-06/how-lightspeed-found-its-newest-hire-via-instagram-dm-techcrunch.json",
+      "published_at_utc": "2026-08-05T23:21:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-th.png": {
       "buffer_due_at_utc": "2026-08-05T20:53:22.000Z",
       "buffer_mode": "customScheduled",
