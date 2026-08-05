@@ -7375,6 +7375,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-05T12:26:29Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-05/wispr-flow-launches-a-granola-styled-meeting-notetaker.png": {
+      "buffer_post_id": "6a732bf7154fdd14be314ecb",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-05/wispr-flow-launches-a-granola-styled-meeting-notetaker.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/wispr-flow-launches-a-granola-styled-meeting-notetaker.png",
+      "metadata_file": "output/2026-08-05/wispr-flow-launches-a-granola-styled-meeting-notetaker.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-05T12:26:39Z",
+      "publisher": "buffer"
     }
   }
 }
