@@ -21997,12 +21997,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/spacex-is-coming-for-t-mobile-at-t-and-verizon.png": {
-      "buffer_due_at_utc": "2026-08-05T07:43:36.000Z",
+      "buffer_due_at_utc": "2026-08-05T07:45:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a72e517e205b41238796970",
+      "buffer_post_id": "6a72e51c73b4355ed07ae83b",
       "caption_file": "output/2026-08-05/spacex-is-coming-for-t-mobile-at-t-and-verizon.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T07:45:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a72e51c73b4355ed07ae83b",
+          "published_at_utc": "2026-08-05T07:24:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T07:43:36.000Z",
           "buffer_mode": "customScheduled",
@@ -22012,7 +22018,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/spacex-is-coming-for-t-mobile-at-t-and-verizon.png",
       "metadata_file": "output/2026-08-05/spacex-is-coming-for-t-mobile-at-t-and-verizon.json",
-      "published_at_utc": "2026-08-05T07:24:07Z",
+      "published_at_utc": "2026-08-05T07:24:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/spacex-made-more-revenue-as-an-ai-company-than-a-space-company.png": {
