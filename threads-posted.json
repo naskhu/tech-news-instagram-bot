@@ -21996,6 +21996,25 @@
       "published_at_utc": "2026-08-05T01:04:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/telegram-ceo-says-an-extortionist-planted-csam-in-a-chat-to-get-it-pul.png": {
+      "buffer_due_at_utc": "2026-08-05T05:12:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a72bd5c4207e0dee53fe7bb",
+      "caption_file": "output/2026-08-05/telegram-ceo-says-an-extortionist-planted-csam-in-a-chat-to-get-it-pul.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T05:12:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a72bd5c4207e0dee53fe7bb",
+          "published_at_utc": "2026-08-05T04:34:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/telegram-ceo-says-an-extortionist-planted-csam-in-a-chat-to-get-it-pul.png",
+      "metadata_file": "output/2026-08-05/telegram-ceo-says-an-extortionist-planted-csam-in-a-chat-to-get-it-pul.json",
+      "published_at_utc": "2026-08-05T04:34:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/the-fcc-might-ban-optical-transceivers-from-china.png": {
       "buffer_due_at_utc": "2026-08-05T00:39:52.000Z",
       "buffer_mode": "customScheduled",
