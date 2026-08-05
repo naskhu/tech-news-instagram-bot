@@ -21622,12 +21622,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/disney-gives-tiktok-creators-official-access-to-marvel-star-wars-and-p.png": {
-      "buffer_due_at_utc": "2026-08-05T12:40:55.000Z",
+      "buffer_due_at_utc": "2026-08-05T12:42:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a732ac8394ab8247d6872cf",
+      "buffer_post_id": "6a732ad33e0e57bc5de7528b",
       "caption_file": "output/2026-08-05/disney-gives-tiktok-creators-official-access-to-marvel-star-wars-and-p.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T12:42:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a732ad33e0e57bc5de7528b",
+          "published_at_utc": "2026-08-05T12:21:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T12:40:55.000Z",
           "buffer_mode": "customScheduled",
@@ -21637,7 +21643,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/disney-gives-tiktok-creators-official-access-to-marvel-star-wars-and-p.png",
       "metadata_file": "output/2026-08-05/disney-gives-tiktok-creators-official-access-to-marvel-star-wars-and-p.json",
-      "published_at_utc": "2026-08-05T12:21:28Z",
+      "published_at_utc": "2026-08-05T12:21:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/don-t-screw-this-up-marvel.png": {
