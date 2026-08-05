@@ -21972,12 +21972,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-fo.png": {
-      "buffer_due_at_utc": "2026-08-05T15:22:41.000Z",
+      "buffer_due_at_utc": "2026-08-05T15:24:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a734c4e1ba59a8cb149eda7",
+      "buffer_post_id": "6a734c54f2cf621a660e68d0",
       "caption_file": "output/2026-08-05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-fo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T15:24:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a734c54f2cf621a660e68d0",
+          "published_at_utc": "2026-08-05T14:44:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T15:22:41.000Z",
           "buffer_mode": "customScheduled",
@@ -21987,7 +21993,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-fo.png",
       "metadata_file": "output/2026-08-05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-fo.json",
-      "published_at_utc": "2026-08-05T14:44:30Z",
+      "published_at_utc": "2026-08-05T14:44:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/mass-layoffs-ahead-for-ea.png": {
