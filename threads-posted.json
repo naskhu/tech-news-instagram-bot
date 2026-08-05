@@ -21797,12 +21797,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/hark-previews-its-browser-use-agent-for-completing-tasks.png": {
-      "buffer_due_at_utc": "2026-08-05T16:25:44.000Z",
+      "buffer_due_at_utc": "2026-08-05T16:27:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7363db5b6fced5b202afaa",
+      "buffer_post_id": "6a7363e05b6fced5b202b1a9",
       "caption_file": "output/2026-08-05/hark-previews-its-browser-use-agent-for-completing-tasks.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T16:27:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7363e05b6fced5b202b1a9",
+          "published_at_utc": "2026-08-05T16:25:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T16:25:44.000Z",
           "buffer_mode": "customScheduled",
@@ -21812,7 +21818,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/hark-previews-its-browser-use-agent-for-completing-tasks.png",
       "metadata_file": "output/2026-08-05/hark-previews-its-browser-use-agent-for-completing-tasks.json",
-      "published_at_utc": "2026-08-05T16:24:59Z",
+      "published_at_utc": "2026-08-05T16:25:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/host-a-side-event-during-techcrunch-founder-summit-week-in-boston-tech.png": {
