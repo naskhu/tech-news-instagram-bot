@@ -22709,6 +22709,25 @@
       "published_at_utc": "2026-08-05T20:50:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-f.png": {
+      "buffer_due_at_utc": "2026-08-05T21:10:17.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a73a227cec34d4dd1e02a3d",
+      "caption_file": "output/2026-08-06/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-f.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T21:10:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73a227cec34d4dd1e02a3d",
+          "published_at_utc": "2026-08-05T20:50:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-f.png",
+      "metadata_file": "output/2026-08-06/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-f.json",
+      "published_at_utc": "2026-08-05T20:50:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.png": {
       "buffer_due_at_utc": "2026-08-05T19:55:47.000Z",
       "buffer_mode": "customScheduled",
