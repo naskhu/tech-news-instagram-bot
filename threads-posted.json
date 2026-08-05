@@ -22222,12 +22222,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing.png": {
-      "buffer_due_at_utc": "2026-08-05T16:44:39.000Z",
+      "buffer_due_at_utc": "2026-08-05T16:46:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7363ea5b6fced5b202b1ff",
+      "buffer_post_id": "6a7363ef5b6fced5b202b23c",
       "caption_file": "output/2026-08-05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T16:46:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7363ef5b6fced5b202b23c",
+          "published_at_utc": "2026-08-05T16:25:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T16:44:39.000Z",
           "buffer_mode": "customScheduled",
@@ -22237,7 +22243,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing.png",
       "metadata_file": "output/2026-08-05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing.json",
-      "published_at_utc": "2026-08-05T16:25:14Z",
+      "published_at_utc": "2026-08-05T16:25:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/spacex-doubles-revenue-on-anthropic-and-google-compute-deals-starlink-.png": {
