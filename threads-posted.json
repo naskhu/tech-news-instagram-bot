@@ -22685,12 +22685,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.png": {
-      "buffer_due_at_utc": "2026-08-05T19:53:47.000Z",
+      "buffer_due_at_utc": "2026-08-05T19:55:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a73903a847f848d7290a5b5",
+      "buffer_post_id": "6a739040ff2087abb832d8f4",
       "caption_file": "output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T19:55:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a739040ff2087abb832d8f4",
+          "published_at_utc": "2026-08-05T19:34:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T19:53:47.000Z",
           "buffer_mode": "customScheduled",
@@ -22700,7 +22706,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.png",
       "metadata_file": "output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.json",
-      "published_at_utc": "2026-08-05T19:34:18Z",
+      "published_at_utc": "2026-08-05T19:34:24Z",
       "publisher": "buffer_threads"
     }
   }
