@@ -22660,12 +22660,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.png": {
-      "buffer_due_at_utc": "2026-08-05T19:34:52.000Z",
+      "buffer_due_at_utc": "2026-08-05T19:36:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a73902f0f9eb13c5e2b96c5",
+      "buffer_post_id": "6a7390354aea999b6086120a",
       "caption_file": "output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T19:36:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7390354aea999b6086120a",
+          "published_at_utc": "2026-08-05T19:34:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T19:34:52.000Z",
           "buffer_mode": "customScheduled",
@@ -22675,7 +22681,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.png",
       "metadata_file": "output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.json",
-      "published_at_utc": "2026-08-05T19:34:07Z",
+      "published_at_utc": "2026-08-05T19:34:13Z",
       "publisher": "buffer_threads"
     }
   }
