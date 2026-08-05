@@ -22047,12 +22047,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/the-uk-ai-security-institute-said-openai-and-anthropic-models-raised-s.png": {
-      "buffer_due_at_utc": "2026-08-05T05:31:44.000Z",
+      "buffer_due_at_utc": "2026-08-05T05:33:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a72bd6726354a038b51e80c",
+      "buffer_post_id": "6a72bd6c26354a038b51e851",
       "caption_file": "output/2026-08-05/the-uk-ai-security-institute-said-openai-and-anthropic-models-raised-s.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T05:33:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a72bd6c26354a038b51e851",
+          "published_at_utc": "2026-08-05T04:34:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T05:31:44.000Z",
           "buffer_mode": "customScheduled",
@@ -22062,7 +22068,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/the-uk-ai-security-institute-said-openai-and-anthropic-models-raised-s.png",
       "metadata_file": "output/2026-08-05/the-uk-ai-security-institute-said-openai-and-anthropic-models-raised-s.json",
-      "published_at_utc": "2026-08-05T04:34:47Z",
+      "published_at_utc": "2026-08-05T04:34:53Z",
       "publisher": "buffer_threads"
     }
   }
