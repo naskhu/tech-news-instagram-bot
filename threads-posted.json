@@ -22537,6 +22537,23 @@
       "published_at_utc": "2026-08-05T04:34:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds-t.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a737a96408d6586f765b11b",
+      "caption_file": "output/2026-08-05/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a737a96408d6586f765b11b",
+          "published_at_utc": "2026-08-05T18:02:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds-t.png",
+      "metadata_file": "output/2026-08-05/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds-t.json",
+      "published_at_utc": "2026-08-05T18:02:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules.png": {
       "buffer_due_at_utc": "2026-08-05T15:43:36.000Z",
       "buffer_mode": "customScheduled",
