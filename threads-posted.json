@@ -21772,12 +21772,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/lenovo-s-legion-go-s-with-steamos-is-down-to-its-lowest-price-ever.png": {
-      "buffer_due_at_utc": "2026-08-05T04:53:54.000Z",
+      "buffer_due_at_utc": "2026-08-05T04:55:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a72bd5126354a038b51e7c9",
+      "buffer_post_id": "6a72bd57c82d97b511ba7439",
       "caption_file": "output/2026-08-05/lenovo-s-legion-go-s-with-steamos-is-down-to-its-lowest-price-ever.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T04:55:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a72bd57c82d97b511ba7439",
+          "published_at_utc": "2026-08-05T04:34:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T04:53:54.000Z",
           "buffer_mode": "customScheduled",
@@ -21787,7 +21793,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/lenovo-s-legion-go-s-with-steamos-is-down-to-its-lowest-price-ever.png",
       "metadata_file": "output/2026-08-05/lenovo-s-legion-go-s-with-steamos-is-down-to-its-lowest-price-ever.json",
-      "published_at_utc": "2026-08-05T04:34:26Z",
+      "published_at_utc": "2026-08-05T04:34:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/lucid-s-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis.png": {
