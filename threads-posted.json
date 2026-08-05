@@ -22397,12 +22397,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules.png": {
-      "buffer_due_at_utc": "2026-08-05T15:41:36.000Z",
+      "buffer_due_at_utc": "2026-08-05T15:43:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a734c5a458fe89bc1ed748d",
+      "buffer_post_id": "6a734c60786892fa59b287b0",
       "caption_file": "output/2026-08-05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T15:43:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a734c60786892fa59b287b0",
+          "published_at_utc": "2026-08-05T14:44:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T15:41:36.000Z",
           "buffer_mode": "customScheduled",
@@ -22412,7 +22418,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules.png",
       "metadata_file": "output/2026-08-05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules.json",
-      "published_at_utc": "2026-08-05T14:44:42Z",
+      "published_at_utc": "2026-08-05T14:44:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/uber-and-wayve-secure-robotaxi-licenses-in-london.png": {
