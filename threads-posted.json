@@ -22046,6 +22046,25 @@
       "published_at_utc": "2026-08-05T01:04:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/ted-lasso-returns-at-an-important-time-for-apple-tv.png": {
+      "buffer_due_at_utc": "2026-08-05T08:02:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a72e5215f735abb2a10df69",
+      "caption_file": "output/2026-08-05/ted-lasso-returns-at-an-important-time-for-apple-tv.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T08:02:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a72e5215f735abb2a10df69",
+          "published_at_utc": "2026-08-05T07:24:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/ted-lasso-returns-at-an-important-time-for-apple-tv.png",
+      "metadata_file": "output/2026-08-05/ted-lasso-returns-at-an-important-time-for-apple-tv.json",
+      "published_at_utc": "2026-08-05T07:24:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/telegram-ceo-says-an-extortionist-planted-csam-in-a-chat-to-get-it-pul.png": {
       "buffer_due_at_utc": "2026-08-05T05:14:49.000Z",
       "buffer_mode": "customScheduled",
