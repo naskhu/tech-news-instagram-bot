@@ -21822,12 +21822,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/indian-ev-startup-river-raises-120m-series-c-to-scale-production-launc.png": {
-      "buffer_due_at_utc": "2026-08-05T12:59:50.000Z",
+      "buffer_due_at_utc": "2026-08-05T13:01:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a732ad8f771840306d71e64",
+      "buffer_post_id": "6a732adef771840306d71e9f",
       "caption_file": "output/2026-08-05/indian-ev-startup-river-raises-120m-series-c-to-scale-production-launc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T13:01:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a732adef771840306d71e9f",
+          "published_at_utc": "2026-08-05T12:21:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T12:59:50.000Z",
           "buffer_mode": "customScheduled",
@@ -21837,7 +21843,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/indian-ev-startup-river-raises-120m-series-c-to-scale-production-launc.png",
       "metadata_file": "output/2026-08-05/indian-ev-startup-river-raises-120m-series-c-to-scale-production-launc.json",
-      "published_at_utc": "2026-08-05T12:21:45Z",
+      "published_at_utc": "2026-08-05T12:21:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/is-this-asus-first-googlebook.png": {
