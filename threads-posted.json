@@ -22785,12 +22785,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/meta-launches-muse-code-an-ai-agent-for-large-code-bases-techcrunch.png": {
-      "buffer_due_at_utc": "2026-08-05T22:10:59.000Z",
+      "buffer_due_at_utc": "2026-08-05T22:12:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a73b4c7ed6cadbfcbbfbf32",
+      "buffer_post_id": "6a73b4cc957e6ac4a3185f9c",
       "caption_file": "output/2026-08-06/meta-launches-muse-code-an-ai-agent-for-large-code-bases-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T22:12:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73b4cc957e6ac4a3185f9c",
+          "published_at_utc": "2026-08-05T22:10:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T22:10:59.000Z",
           "buffer_mode": "customScheduled",
@@ -22800,7 +22806,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/meta-launches-muse-code-an-ai-agent-for-large-code-bases-techcrunch.png",
       "metadata_file": "output/2026-08-06/meta-launches-muse-code-an-ai-agent-for-large-code-bases-techcrunch.json",
-      "published_at_utc": "2026-08-05T22:10:15Z",
+      "published_at_utc": "2026-08-05T22:10:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.png": {
