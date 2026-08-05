@@ -22984,6 +22984,25 @@
       "published_at_utc": "2026-08-05T19:34:47Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/soon-free-gmail-won-t-let-you-send-as-third-party-email-accounts.png": {
+      "buffer_due_at_utc": "2026-08-06T00:18:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a73c5802770c3bfc757fc2c",
+      "caption_file": "output/2026-08-06/soon-free-gmail-won-t-let-you-send-as-third-party-email-accounts.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T00:18:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73c5802770c3bfc757fc2c",
+          "published_at_utc": "2026-08-05T23:21:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/soon-free-gmail-won-t-let-you-send-as-third-party-email-accounts.png",
+      "metadata_file": "output/2026-08-06/soon-free-gmail-won-t-let-you-send-as-third-party-email-accounts.json",
+      "published_at_utc": "2026-08-05T23:21:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/travis-kalanick-s-robotics-startup-atoms-taps-former-uber-finance-chie.png": {
       "buffer_due_at_utc": "2026-08-05T22:50:49.000Z",
       "buffer_mode": "customScheduled",
