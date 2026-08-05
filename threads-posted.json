@@ -21597,12 +21597,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/ea-is-now-a-private-company.png": {
-      "buffer_due_at_utc": "2026-08-05T01:05:10.000Z",
+      "buffer_due_at_utc": "2026-08-05T01:07:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a728c1926354a038b4fd8ed",
+      "buffer_post_id": "6a728c1ec549049f465247e9",
       "caption_file": "output/2026-08-05/ea-is-now-a-private-company.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T01:07:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a728c1ec549049f465247e9",
+          "published_at_utc": "2026-08-05T01:04:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T01:05:10.000Z",
           "buffer_mode": "customScheduled",
@@ -21612,7 +21618,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/ea-is-now-a-private-company.png",
       "metadata_file": "output/2026-08-05/ea-is-now-a-private-company.json",
-      "published_at_utc": "2026-08-05T01:04:25Z",
+      "published_at_utc": "2026-08-05T01:04:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/elon-musk-repeatedly-one-upped-his-execs-on-spacex-s-first-earnings-ca.png": {
