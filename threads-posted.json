@@ -22346,6 +22346,25 @@
       "published_at_utc": "2026-08-05T01:04:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/techcrunch-disrupt-2026-s-real-world-ai-stage-features-robots-automate.png": {
+      "buffer_due_at_utc": "2026-08-05T17:03:34.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7363f5add7cafea713a704",
+      "caption_file": "output/2026-08-05/techcrunch-disrupt-2026-s-real-world-ai-stage-features-robots-automate.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T17:03:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7363f5add7cafea713a704",
+          "published_at_utc": "2026-08-05T16:25:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/techcrunch-disrupt-2026-s-real-world-ai-stage-features-robots-automate.png",
+      "metadata_file": "output/2026-08-05/techcrunch-disrupt-2026-s-real-world-ai-stage-features-robots-automate.json",
+      "published_at_utc": "2026-08-05T16:25:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/ted-lasso-returns-at-an-important-time-for-apple-tv.png": {
       "buffer_due_at_utc": "2026-08-05T08:04:31.000Z",
       "buffer_mode": "customScheduled",
