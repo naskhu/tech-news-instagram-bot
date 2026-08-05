@@ -21471,6 +21471,25 @@
       "published_at_utc": "2026-08-03T21:53:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative-tec.png": {
+      "buffer_due_at_utc": "2026-08-05T12:22:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a732abc154fdd14be314004",
+      "caption_file": "output/2026-08-05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative-tec.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T12:22:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a732abc154fdd14be314004",
+          "published_at_utc": "2026-08-05T12:21:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative-tec.png",
+      "metadata_file": "output/2026-08-05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative-tec.json",
+      "published_at_utc": "2026-08-05T12:21:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.png": {
       "buffer_due_at_utc": "2026-08-04T23:43:07.000Z",
       "buffer_mode": "customScheduled",
