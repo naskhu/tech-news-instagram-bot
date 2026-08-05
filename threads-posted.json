@@ -22860,12 +22860,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry-tech.png": {
-      "buffer_due_at_utc": "2026-08-05T23:59:35.000Z",
+      "buffer_due_at_utc": "2026-08-06T00:01:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a73c574780884c81dd06fcc",
+      "buffer_post_id": "6a73c5792770c3bfc757fbdc",
       "caption_file": "output/2026-08-06/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-06T00:01:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73c5792770c3bfc757fbdc",
+          "published_at_utc": "2026-08-05T23:21:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T23:59:35.000Z",
           "buffer_mode": "customScheduled",
@@ -22875,7 +22881,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry-tech.png",
       "metadata_file": "output/2026-08-06/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry-tech.json",
-      "published_at_utc": "2026-08-05T23:21:24Z",
+      "published_at_utc": "2026-08-05T23:21:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/nikita-bier-steps-down-as-x-s-head-of-product-techcrunch.png": {
