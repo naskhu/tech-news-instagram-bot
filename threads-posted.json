@@ -22096,6 +22096,25 @@
       "published_at_utc": "2026-08-05T10:16:51Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/saudi-aramco-backs-india-s-mitti-labs-to-make-asia-s-rice-farming-more.png": {
+      "buffer_due_at_utc": "2026-08-05T13:18:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a732ae404661c18cf3f070f",
+      "caption_file": "output/2026-08-05/saudi-aramco-backs-india-s-mitti-labs-to-make-asia-s-rice-farming-more.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T13:18:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a732ae404661c18cf3f070f",
+          "published_at_utc": "2026-08-05T12:21:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/saudi-aramco-backs-india-s-mitti-labs-to-make-asia-s-rice-farming-more.png",
+      "metadata_file": "output/2026-08-05/saudi-aramco-backs-india-s-mitti-labs-to-make-asia-s-rice-farming-more.json",
+      "published_at_utc": "2026-08-05T12:21:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/spacex-doubles-revenue-on-anthropic-and-google-compute-deals-starlink-.png": {
       "buffer_due_at_utc": "2026-08-04T21:58:39.000Z",
       "buffer_mode": "customScheduled",
