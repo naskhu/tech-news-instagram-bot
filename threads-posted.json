@@ -22685,12 +22685,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-th.png": {
-      "buffer_due_at_utc": "2026-08-05T20:51:22.000Z",
+      "buffer_due_at_utc": "2026-08-05T20:53:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a73a21ee4e00c7b052a6f5c",
+      "buffer_post_id": "6a73a2220f9eb13c5e2c5c06",
       "caption_file": "output/2026-08-06/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-th.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T20:53:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73a2220f9eb13c5e2c5c06",
+          "published_at_utc": "2026-08-05T20:50:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T20:51:22.000Z",
           "buffer_mode": "customScheduled",
@@ -22700,7 +22706,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-th.png",
       "metadata_file": "output/2026-08-06/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-th.json",
-      "published_at_utc": "2026-08-05T20:50:38Z",
+      "published_at_utc": "2026-08-05T20:50:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.png": {
