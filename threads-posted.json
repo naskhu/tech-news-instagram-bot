@@ -21722,12 +21722,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/is-this-asus-first-googlebook.png": {
-      "buffer_due_at_utc": "2026-08-05T01:43:00.000Z",
+      "buffer_due_at_utc": "2026-08-05T01:45:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a728c2cc549049f46524972",
+      "buffer_post_id": "6a728c314207e0dee53de824",
       "caption_file": "output/2026-08-05/is-this-asus-first-googlebook.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-05T01:45:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a728c314207e0dee53de824",
+          "published_at_utc": "2026-08-05T01:04:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-05T01:43:00.000Z",
           "buffer_mode": "customScheduled",
@@ -21737,7 +21743,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/is-this-asus-first-googlebook.png",
       "metadata_file": "output/2026-08-05/is-this-asus-first-googlebook.json",
-      "published_at_utc": "2026-08-05T01:04:44Z",
+      "published_at_utc": "2026-08-05T01:04:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-05/lucid-s-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis.png": {
