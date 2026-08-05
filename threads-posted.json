@@ -22708,6 +22708,25 @@
       "metadata_file": "output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.json",
       "published_at_utc": "2026-08-05T19:34:24Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-06/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-s.png": {
+      "buffer_due_at_utc": "2026-08-05T20:12:42.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a739046847f848d7290a5f7",
+      "caption_file": "output/2026-08-06/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-s.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T20:12:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a739046847f848d7290a5f7",
+          "published_at_utc": "2026-08-05T19:34:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-s.png",
+      "metadata_file": "output/2026-08-06/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-s.json",
+      "published_at_utc": "2026-08-05T19:34:30Z",
+      "publisher": "buffer_threads"
     }
   }
 }
