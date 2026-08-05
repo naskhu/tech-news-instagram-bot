@@ -22658,6 +22658,25 @@
       "metadata_file": "output/2026-08-05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas-techcrunch.json",
       "published_at_utc": "2026-08-05T16:25:42Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.png": {
+      "buffer_due_at_utc": "2026-08-05T19:34:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a73902f0f9eb13c5e2b96c5",
+      "caption_file": "output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T19:34:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73902f0f9eb13c5e2b96c5",
+          "published_at_utc": "2026-08-05T19:34:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.png",
+      "metadata_file": "output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.json",
+      "published_at_utc": "2026-08-05T19:34:07Z",
+      "publisher": "buffer_threads"
     }
   }
 }
