@@ -22145,6 +22145,25 @@
       "metadata_file": "output/2026-08-05/the-uk-ai-security-institute-said-openai-and-anthropic-models-raised-s.json",
       "published_at_utc": "2026-08-05T04:34:53Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-05/wispr-flow-launches-a-granola-styled-meeting-notetaker.png": {
+      "buffer_due_at_utc": "2026-08-05T08:21:26.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a72e52c250d6d727c0a205d",
+      "caption_file": "output/2026-08-05/wispr-flow-launches-a-granola-styled-meeting-notetaker.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T08:21:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a72e52c250d6d727c0a205d",
+          "published_at_utc": "2026-08-05T07:24:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/wispr-flow-launches-a-granola-styled-meeting-notetaker.png",
+      "metadata_file": "output/2026-08-05/wispr-flow-launches-a-granola-styled-meeting-notetaker.json",
+      "published_at_utc": "2026-08-05T07:24:28Z",
+      "publisher": "buffer_threads"
     }
   }
 }
