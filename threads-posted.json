@@ -22908,6 +22908,25 @@
       "metadata_file": "output/2026-08-06/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups-t.json",
       "published_at_utc": "2026-08-05T19:34:47Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-06/travis-kalanick-s-robotics-startup-atoms-taps-former-uber-finance-chie.png": {
+      "buffer_due_at_utc": "2026-08-05T22:48:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a73b4deed6cadbfcbbfc058",
+      "caption_file": "output/2026-08-06/travis-kalanick-s-robotics-startup-atoms-taps-former-uber-finance-chie.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T22:48:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73b4deed6cadbfcbbfc058",
+          "published_at_utc": "2026-08-05T22:10:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/travis-kalanick-s-robotics-startup-atoms-taps-former-uber-finance-chie.png",
+      "metadata_file": "output/2026-08-06/travis-kalanick-s-robotics-startup-atoms-taps-former-uber-finance-chie.json",
+      "published_at_utc": "2026-08-05T22:10:38Z",
+      "publisher": "buffer_threads"
     }
   }
 }
