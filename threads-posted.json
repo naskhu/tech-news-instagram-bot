@@ -22068,6 +22068,23 @@
       "published_at_utc": "2026-08-05T10:16:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/meet-the-eight-startups-pitching-at-startup-battlefield-australia-tech.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a737a56fe3fd01e17ae868e",
+      "caption_file": "output/2026-08-05/meet-the-eight-startups-pitching-at-startup-battlefield-australia-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a737a56fe3fd01e17ae868e",
+          "published_at_utc": "2026-08-05T18:01:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/meet-the-eight-startups-pitching-at-startup-battlefield-australia-tech.png",
+      "metadata_file": "output/2026-08-05/meet-the-eight-startups-pitching-at-startup-battlefield-australia-tech.json",
+      "published_at_utc": "2026-08-05T18:01:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places.png": {
       "buffer_due_at_utc": "2026-08-04T20:44:31.000Z",
       "buffer_mode": "customScheduled",
