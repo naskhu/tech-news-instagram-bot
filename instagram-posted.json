@@ -7254,6 +7254,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-04T06:24:39Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.png": {
+      "buffer_post_id": "6a72bb84beaf5fe35556c41f",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.png",
+      "metadata_file": "output/2026-08-05/amd-s-data-center-business-is-booming-while-gaming-takes-a-backseat.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-05T04:26:51Z",
+      "publisher": "buffer"
     }
   }
 }
