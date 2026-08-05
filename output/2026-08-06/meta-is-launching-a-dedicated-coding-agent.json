@@ -1,0 +1,23 @@
+{
+  "title": "Meta is launching a dedicated coding agent.",
+  "summary": "Muse Code, a terminal coding agent in beta powered by the new Muse Spark 1.2 AI model, can take on “complex software engineering tasks across large repositories: planning changes, writing code, and validating the results,” Meta says.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/975859/meta-is-launching-a-dedicated-coding-agent",
+  "published_utc": "2026-08-05T19:48:35+00:00",
+  "output_day": "2026-08-06",
+  "date_source": "meta",
+  "generated_utc": "2026-08-05T20:49:39.935895+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-05-at-12.33.37-PM.png?quality=90&strip=all&crop=0%2C10.504745384612%2C100%2C78.990509230775&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-06/meta-is-launching-a-dedicated-coding-agent.png",
+  "caption": "output/2026-08-06/meta-is-launching-a-dedicated-coding-agent.txt"
+}
