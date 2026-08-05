@@ -21821,6 +21821,25 @@
       "published_at_utc": "2026-08-04T22:33:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/indian-ev-startup-river-raises-120m-series-c-to-scale-production-launc.png": {
+      "buffer_due_at_utc": "2026-08-05T12:59:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a732ad8f771840306d71e64",
+      "caption_file": "output/2026-08-05/indian-ev-startup-river-raises-120m-series-c-to-scale-production-launc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T12:59:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a732ad8f771840306d71e64",
+          "published_at_utc": "2026-08-05T12:21:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/indian-ev-startup-river-raises-120m-series-c-to-scale-production-launc.png",
+      "metadata_file": "output/2026-08-05/indian-ev-startup-river-raises-120m-series-c-to-scale-production-launc.json",
+      "published_at_utc": "2026-08-05T12:21:45Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/is-this-asus-first-googlebook.png": {
       "buffer_due_at_utc": "2026-08-05T01:45:00.000Z",
       "buffer_mode": "customScheduled",
