@@ -21671,6 +21671,25 @@
       "published_at_utc": "2026-08-05T12:21:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form.png": {
+      "buffer_due_at_utc": "2026-08-05T15:03:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a734c43d51a1c1fcefcc5ff",
+      "caption_file": "output/2026-08-05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-05T15:03:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a734c43d51a1c1fcefcc5ff",
+          "published_at_utc": "2026-08-05T14:44:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form.png",
+      "metadata_file": "output/2026-08-05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form.json",
+      "published_at_utc": "2026-08-05T14:44:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-05/don-t-screw-this-up-marvel.png": {
       "buffer_due_at_utc": "2026-08-05T00:02:02.000Z",
       "buffer_mode": "customScheduled",
