@@ -23034,6 +23034,25 @@
       "published_at_utc": "2026-08-05T19:34:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/reddit-is-introducing-a-new-moderator-ai.png": {
+      "buffer_due_at_utc": "2026-08-06T06:27:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a74293fa781631664bf07e2",
+      "caption_file": "output/2026-08-06/reddit-is-introducing-a-new-moderator-ai.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T06:27:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a74293fa781631664bf07e2",
+          "published_at_utc": "2026-08-06T06:27:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/reddit-is-introducing-a-new-moderator-ai.png",
+      "metadata_file": "output/2026-08-06/reddit-is-introducing-a-new-moderator-ai.json",
+      "published_at_utc": "2026-08-06T06:27:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups-t.png": {
       "buffer_due_at_utc": "2026-08-05T20:33:37.000Z",
       "buffer_mode": "customScheduled",
