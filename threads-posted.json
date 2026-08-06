@@ -22910,12 +22910,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/mercedes-amg-s-new-ev-coupe-lineup-is-already-growing.png": {
-      "buffer_due_at_utc": "2026-08-06T09:48:51.000Z",
+      "buffer_due_at_utc": "2026-08-06T09:50:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7453f2c11fc7438097bd5f",
+      "buffer_post_id": "6a7453fa2e62c6f5ec978870",
       "caption_file": "output/2026-08-06/mercedes-amg-s-new-ev-coupe-lineup-is-already-growing.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-06T09:50:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7453fa2e62c6f5ec978870",
+          "published_at_utc": "2026-08-06T09:29:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-06T09:48:51.000Z",
           "buffer_mode": "customScheduled",
@@ -22925,7 +22931,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/mercedes-amg-s-new-ev-coupe-lineup-is-already-growing.png",
       "metadata_file": "output/2026-08-06/mercedes-amg-s-new-ev-coupe-lineup-is-already-growing.json",
-      "published_at_utc": "2026-08-06T09:29:22Z",
+      "published_at_utc": "2026-08-06T09:29:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/meta-is-launching-a-dedicated-coding-agent.png": {
