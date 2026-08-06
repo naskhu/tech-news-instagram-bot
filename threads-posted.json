@@ -22760,12 +22760,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/google-just-announced-a-major-shakeup-of-its-top-ai-leadership.png": {
-      "buffer_due_at_utc": "2026-08-06T04:23:19.000Z",
+      "buffer_due_at_utc": "2026-08-06T04:25:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a740340eab1fe950cd54f54",
+      "buffer_post_id": "6a740345eab1fe950cd54f8e",
       "caption_file": "output/2026-08-06/google-just-announced-a-major-shakeup-of-its-top-ai-leadership.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-06T04:25:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a740345eab1fe950cd54f8e",
+          "published_at_utc": "2026-08-06T03:45:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-06T04:23:19.000Z",
           "buffer_mode": "customScheduled",
@@ -22775,7 +22781,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/google-just-announced-a-major-shakeup-of-its-top-ai-leadership.png",
       "metadata_file": "output/2026-08-06/google-just-announced-a-major-shakeup-of-its-top-ai-leadership.json",
-      "published_at_utc": "2026-08-06T03:45:04Z",
+      "published_at_utc": "2026-08-06T03:45:09Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/how-lightspeed-found-its-newest-hire-via-instagram-dm-techcrunch.png": {
