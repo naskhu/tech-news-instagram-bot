@@ -22659,6 +22659,25 @@
       "published_at_utc": "2026-08-05T16:25:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/apple-s-selling-refurbished-macbook-neos-with-a-100-discount.png": {
+      "buffer_due_at_utc": "2026-08-06T03:45:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a74032ceab1fe950cd54e1f",
+      "caption_file": "output/2026-08-06/apple-s-selling-refurbished-macbook-neos-with-a-100-discount.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T03:45:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a74032ceab1fe950cd54e1f",
+          "published_at_utc": "2026-08-06T03:44:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/apple-s-selling-refurbished-macbook-neos-with-a-100-discount.png",
+      "metadata_file": "output/2026-08-06/apple-s-selling-refurbished-macbook-neos-with-a-100-discount.json",
+      "published_at_utc": "2026-08-06T03:44:45Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/as-gen-z-reconsiders-dating-apps-tinder-s-irl-events-expand-to-dozens-.png": {
       "buffer_due_at_utc": "2026-08-05T19:36:52.000Z",
       "buffer_mode": "customScheduled",
