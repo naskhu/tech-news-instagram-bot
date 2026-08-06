@@ -23108,6 +23108,25 @@
       "metadata_file": "output/2026-08-06/two-of-ring-s-latest-video-doorbells-are-a-lot-cheaper-than-usual.json",
       "published_at_utc": "2026-08-06T00:16:29Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-06/uber-ceo-brushes-off-reports-of-a-waymo-break-up.png": {
+      "buffer_due_at_utc": "2026-08-06T00:54:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a73d2622770c3bfc758a0f5",
+      "caption_file": "output/2026-08-06/uber-ceo-brushes-off-reports-of-a-waymo-break-up.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T00:54:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a73d2622770c3bfc758a0f5",
+          "published_at_utc": "2026-08-06T00:16:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/uber-ceo-brushes-off-reports-of-a-waymo-break-up.png",
+      "metadata_file": "output/2026-08-06/uber-ceo-brushes-off-reports-of-a-waymo-break-up.json",
+      "published_at_utc": "2026-08-06T00:16:35Z",
+      "publisher": "buffer_threads"
     }
   }
 }
