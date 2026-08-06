@@ -23085,12 +23085,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/rogue-ai-agents-created-fake-online-identities-in-another-hacking-atte.png": {
-      "buffer_due_at_utc": "2026-08-06T06:46:51.000Z",
+      "buffer_due_at_utc": "2026-08-06T06:48:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a74294a11a26d4c9a3cedb6",
+      "buffer_post_id": "6a7429500cef9d6f0c771185",
       "caption_file": "output/2026-08-06/rogue-ai-agents-created-fake-online-identities-in-another-hacking-atte.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-06T06:48:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7429500cef9d6f0c771185",
+          "published_at_utc": "2026-08-06T06:27:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-06T06:46:51.000Z",
           "buffer_mode": "customScheduled",
@@ -23100,7 +23106,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/rogue-ai-agents-created-fake-online-identities-in-another-hacking-atte.png",
       "metadata_file": "output/2026-08-06/rogue-ai-agents-created-fake-online-identities-in-another-hacking-atte.json",
-      "published_at_utc": "2026-08-06T06:27:22Z",
+      "published_at_utc": "2026-08-06T06:27:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/soon-free-gmail-won-t-let-you-send-as-third-party-email-accounts.png": {
