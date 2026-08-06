@@ -23159,6 +23159,25 @@
       "published_at_utc": "2026-08-06T06:27:28Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing.png": {
+      "buffer_due_at_utc": "2026-08-06T10:07:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7453ffc11fc7438097bebc",
+      "caption_file": "output/2026-08-06/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T10:07:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7453ffc11fc7438097bebc",
+          "published_at_utc": "2026-08-06T09:29:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing.png",
+      "metadata_file": "output/2026-08-06/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing.json",
+      "published_at_utc": "2026-08-06T09:29:35Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/soon-free-gmail-won-t-let-you-send-as-third-party-email-accounts.png": {
       "buffer_due_at_utc": "2026-08-06T00:20:30.000Z",
       "buffer_mode": "customScheduled",
