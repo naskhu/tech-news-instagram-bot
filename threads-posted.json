@@ -22659,6 +22659,25 @@
       "published_at_utc": "2026-08-05T16:25:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/amid-legal-battles-suno-says-it-will-start-watermarking-songs.png": {
+      "buffer_due_at_utc": "2026-08-06T13:52:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a749164be4ad0b566a9dc5e",
+      "caption_file": "output/2026-08-06/amid-legal-battles-suno-says-it-will-start-watermarking-songs.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T13:52:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a749164be4ad0b566a9dc5e",
+          "published_at_utc": "2026-08-06T13:51:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/amid-legal-battles-suno-says-it-will-start-watermarking-songs.png",
+      "metadata_file": "output/2026-08-06/amid-legal-battles-suno-says-it-will-start-watermarking-songs.json",
+      "published_at_utc": "2026-08-06T13:51:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/apple-s-selling-refurbished-macbook-neos-with-a-100-discount.png": {
       "buffer_due_at_utc": "2026-08-06T03:47:29.000Z",
       "buffer_mode": "customScheduled",
