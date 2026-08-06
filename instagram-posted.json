@@ -7570,6 +7570,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-06T10:17:05Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-06/trump-s-doj-gains-oversight-of-openai-s-green-card-employee-sponsorshi.png": {
+      "buffer_post_id": "6a745f24c11fc74380987f18",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-06/trump-s-doj-gains-oversight-of-openai-s-green-card-employee-sponsorshi.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/trump-s-doj-gains-oversight-of-openai-s-green-card-employee-sponsorshi.png",
+      "metadata_file": "output/2026-08-06/trump-s-doj-gains-oversight-of-openai-s-green-card-employee-sponsorshi.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-06T10:17:14Z",
+      "publisher": "buffer"
     }
   }
 }
