@@ -23060,12 +23060,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/nintendo-beats-earnings-thanks-to-us-tariff-refunds-it-won-t-share-wit.png": {
-      "buffer_due_at_utc": "2026-08-06T12:11:36.000Z",
+      "buffer_due_at_utc": "2026-08-06T12:13:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a747568bdbd7ac0bf4571ce",
+      "buffer_post_id": "6a74756d47668e8f079a9c7b",
       "caption_file": "output/2026-08-06/nintendo-beats-earnings-thanks-to-us-tariff-refunds-it-won-t-share-wit.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-06T12:13:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a74756d47668e8f079a9c7b",
+          "published_at_utc": "2026-08-06T11:52:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-06T12:11:36.000Z",
           "buffer_mode": "customScheduled",
@@ -23075,7 +23081,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/nintendo-beats-earnings-thanks-to-us-tariff-refunds-it-won-t-share-wit.png",
       "metadata_file": "output/2026-08-06/nintendo-beats-earnings-thanks-to-us-tariff-refunds-it-won-t-share-wit.json",
-      "published_at_utc": "2026-08-06T11:52:08Z",
+      "published_at_utc": "2026-08-06T11:52:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/nothing-is-using-ai-in-promo-materials-for-its-new-headphones.png": {
