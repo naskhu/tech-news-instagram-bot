@@ -22835,12 +22835,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/ford-s-new-electric-truck-fathom-starts-at-28-350-techcrunch.png": {
-      "buffer_due_at_utc": "2026-08-06T14:49:01.000Z",
+      "buffer_due_at_utc": "2026-08-06T14:51:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a749185aadd827be31a29a0",
+      "buffer_post_id": "6a74918abe3538462cb9eb7f",
       "caption_file": "output/2026-08-06/ford-s-new-electric-truck-fathom-starts-at-28-350-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-06T14:51:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a74918abe3538462cb9eb7f",
+          "published_at_utc": "2026-08-06T13:52:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-06T14:49:01.000Z",
           "buffer_mode": "customScheduled",
@@ -22850,7 +22856,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/ford-s-new-electric-truck-fathom-starts-at-28-350-techcrunch.png",
       "metadata_file": "output/2026-08-06/ford-s-new-electric-truck-fathom-starts-at-28-350-techcrunch.json",
-      "published_at_utc": "2026-08-06T13:52:05Z",
+      "published_at_utc": "2026-08-06T13:52:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday-techc.png": {
