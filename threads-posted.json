@@ -22709,6 +22709,25 @@
       "published_at_utc": "2026-08-05T19:34:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/bose-s-next-headphones-leak-with-new-colors-and-a-tweaked-design.png": {
+      "buffer_due_at_utc": "2026-08-06T11:52:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a74755cbdbd7ac0bf45714d",
+      "caption_file": "output/2026-08-06/bose-s-next-headphones-leak-with-new-colors-and-a-tweaked-design.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T11:52:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a74755cbdbd7ac0bf45714d",
+          "published_at_utc": "2026-08-06T11:51:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/bose-s-next-headphones-leak-with-new-colors-and-a-tweaked-design.png",
+      "metadata_file": "output/2026-08-06/bose-s-next-headphones-leak-with-new-colors-and-a-tweaked-design.json",
+      "published_at_utc": "2026-08-06T11:51:57Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.png": {
       "buffer_due_at_utc": "2026-08-06T04:06:24.000Z",
       "buffer_mode": "customScheduled",
