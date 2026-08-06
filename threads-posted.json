@@ -22710,12 +22710,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.png": {
-      "buffer_due_at_utc": "2026-08-06T04:04:24.000Z",
+      "buffer_due_at_utc": "2026-08-06T04:06:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a740336780884c81dd368e0",
+      "buffer_post_id": "6a74033beab1fe950cd54eec",
       "caption_file": "output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-06T04:06:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a74033beab1fe950cd54eec",
+          "published_at_utc": "2026-08-06T03:44:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-06T04:04:24.000Z",
           "buffer_mode": "customScheduled",
@@ -22725,7 +22731,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.png",
       "metadata_file": "output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.json",
-      "published_at_utc": "2026-08-06T03:44:54Z",
+      "published_at_utc": "2026-08-06T03:44:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday-techc.png": {
