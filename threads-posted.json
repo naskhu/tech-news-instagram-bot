@@ -22709,6 +22709,25 @@
       "published_at_utc": "2026-08-05T19:34:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.png": {
+      "buffer_due_at_utc": "2026-08-06T04:04:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a740336780884c81dd368e0",
+      "caption_file": "output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T04:04:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a740336780884c81dd368e0",
+          "published_at_utc": "2026-08-06T03:44:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.png",
+      "metadata_file": "output/2026-08-06/elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months.json",
+      "published_at_utc": "2026-08-06T03:44:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday-techc.png": {
       "buffer_due_at_utc": "2026-08-05T23:23:45.000Z",
       "buffer_mode": "customScheduled",
