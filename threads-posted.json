@@ -23134,6 +23134,25 @@
       "published_at_utc": "2026-08-05T23:21:41Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/spacex-is-barely-space-and-mostly-x.png": {
+      "buffer_due_at_utc": "2026-08-06T07:05:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a742955a781631664bf090b",
+      "caption_file": "output/2026-08-06/spacex-is-barely-space-and-mostly-x.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T07:05:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a742955a781631664bf090b",
+          "published_at_utc": "2026-08-06T06:27:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/spacex-is-barely-space-and-mostly-x.png",
+      "metadata_file": "output/2026-08-06/spacex-is-barely-space-and-mostly-x.json",
+      "published_at_utc": "2026-08-06T06:27:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/sure-seems-like-fenix-flexin-used-ai-music-generator-treblo.png": {
       "buffer_due_at_utc": "2026-08-06T04:44:14.000Z",
       "buffer_mode": "customScheduled",
