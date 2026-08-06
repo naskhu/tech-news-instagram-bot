@@ -23109,6 +23109,25 @@
       "published_at_utc": "2026-08-05T19:34:24Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-06/now-meta-s-ai-agents-are-going-rogue.png": {
+      "buffer_due_at_utc": "2026-08-06T12:30:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a747572bdbd7ac0bf457275",
+      "caption_file": "output/2026-08-06/now-meta-s-ai-agents-are-going-rogue.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-06T12:30:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a747572bdbd7ac0bf457275",
+          "published_at_utc": "2026-08-06T11:52:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-06/now-meta-s-ai-agents-are-going-rogue.png",
+      "metadata_file": "output/2026-08-06/now-meta-s-ai-agents-are-going-rogue.json",
+      "published_at_utc": "2026-08-06T11:52:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-06/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-s.png": {
       "buffer_due_at_utc": "2026-08-05T20:14:42.000Z",
       "buffer_mode": "customScheduled",
