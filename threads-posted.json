@@ -23934,6 +23934,25 @@
       "published_at_utc": "2026-08-07T03:22:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/ford-s-first-ultra-cheap-ev-is-called-fathom-a-full-featured-truck-for.png": {
+      "buffer_due_at_utc": "2026-08-07T12:30:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75cfb58aa5e1393fa1ca43",
+      "caption_file": "output/2026-08-07/ford-s-first-ultra-cheap-ev-is-called-fathom-a-full-featured-truck-for.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T12:30:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75cfb58aa5e1393fa1ca43",
+          "published_at_utc": "2026-08-07T12:29:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/ford-s-first-ultra-cheap-ev-is-called-fathom-a-full-featured-truck-for.png",
+      "metadata_file": "output/2026-08-07/ford-s-first-ultra-cheap-ev-is-called-fathom-a-full-featured-truck-for.json",
+      "published_at_utc": "2026-08-07T12:29:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking-.png": {
       "buffer_due_at_utc": "2026-08-07T06:39:38.000Z",
       "buffer_mode": "customScheduled",
