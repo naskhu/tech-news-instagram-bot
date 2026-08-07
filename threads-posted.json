@@ -23659,6 +23659,23 @@
       "published_at_utc": "2026-08-06T00:16:51Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/acura-teases-its-next-gen-of-design-that-will-debut-on-the-rdx-hybrid.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a761a118b39b04b79fdbeb8",
+      "caption_file": "output/2026-08-07/acura-teases-its-next-gen-of-design-that-will-debut-on-the-rdx-hybrid.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a761a118b39b04b79fdbeb8",
+          "published_at_utc": "2026-08-07T17:47:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/acura-teases-its-next-gen-of-design-that-will-debut-on-the-rdx-hybrid.png",
+      "metadata_file": "output/2026-08-07/acura-teases-its-next-gen-of-design-that-will-debut-on-the-rdx-hybrid.json",
+      "published_at_utc": "2026-08-07T17:47:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/ai-is-now-designing-brand-new-biological-viruses.png": {
       "buffer_due_at_utc": "2026-08-07T10:50:50.000Z",
       "buffer_mode": "customScheduled",
