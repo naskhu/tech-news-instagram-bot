@@ -24359,6 +24359,25 @@
       "published_at_utc": "2026-08-07T09:58:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/tiktok-blames-moderator-error-on-slow-response-to-perez-hilton-livestr.png": {
+      "buffer_due_at_utc": "2026-08-07T12:20:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75c4b6018a9e80fc7ad7d7",
+      "caption_file": "output/2026-08-07/tiktok-blames-moderator-error-on-slow-response-to-perez-hilton-livestr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T12:20:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75c4b6018a9e80fc7ad7d7",
+          "published_at_utc": "2026-08-07T11:42:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/tiktok-blames-moderator-error-on-slow-response-to-perez-hilton-livestr.png",
+      "metadata_file": "output/2026-08-07/tiktok-blames-moderator-error-on-slow-response-to-perez-hilton-livestr.json",
+      "published_at_utc": "2026-08-07T11:42:46Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/tiktok-lays-off-250-employees-shutters-its-nashville-office-techcrunch.png": {
       "buffer_due_at_utc": "2026-08-07T07:36:23.000Z",
       "buffer_mode": "customScheduled",
