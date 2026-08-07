@@ -24385,12 +24385,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/the-best-classic-slasher-movie-you-ll-never-watch.png": {
-      "buffer_due_at_utc": "2026-08-07T13:27:10.000Z",
+      "buffer_due_at_utc": "2026-08-07T13:29:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a75cfd88b39b04b79f8b4b2",
+      "buffer_post_id": "6a75cfdd018a9e80fc7ba230",
       "caption_file": "output/2026-08-07/the-best-classic-slasher-movie-you-ll-never-watch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T13:29:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75cfdd018a9e80fc7ba230",
+          "published_at_utc": "2026-08-07T12:30:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T13:27:10.000Z",
           "buffer_mode": "customScheduled",
@@ -24400,7 +24406,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/the-best-classic-slasher-movie-you-ll-never-watch.png",
       "metadata_file": "output/2026-08-07/the-best-classic-slasher-movie-you-ll-never-watch.json",
-      "published_at_utc": "2026-08-07T12:30:16Z",
+      "published_at_utc": "2026-08-07T12:30:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/the-messy-politics-behind-google-s-big-ai-shakeup.png": {
