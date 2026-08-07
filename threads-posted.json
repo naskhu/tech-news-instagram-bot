@@ -25043,10 +25043,15 @@
     },
     "output/2026-08-07/trump-nominates-carr-adviser-to-fill-a-republican-fcc-spot.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a7628778b39b04b79fe9232",
+      "buffer_post_id": "6a76288697f54129442bd964",
       "caption_file": "output/2026-08-07/trump-nominates-carr-adviser-to-fill-a-republican-fcc-spot.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a76288697f54129442bd964",
+          "published_at_utc": "2026-08-07T18:48:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a7628778b39b04b79fe9232",
@@ -25055,7 +25060,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/trump-nominates-carr-adviser-to-fill-a-republican-fcc-spot.png",
       "metadata_file": "output/2026-08-07/trump-nominates-carr-adviser-to-fill-a-republican-fcc-spot.json",
-      "published_at_utc": "2026-08-07T18:48:33Z",
+      "published_at_utc": "2026-08-07T18:48:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/trying-to-explain-one-night-only-s-tech-enforced-sex-dystopia.png": {
