@@ -25311,12 +25311,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/europe-s-free-satellite-service-just-made-it-easier-to-track-wildfires.png": {
-      "buffer_due_at_utc": "2026-08-07T22:40:23.000Z",
+      "buffer_due_at_utc": "2026-08-07T22:42:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7655e2eb086b1202ccfbc1",
+      "buffer_post_id": "6a7655e8018a9e80fc83af58",
       "caption_file": "output/2026-08-08/europe-s-free-satellite-service-just-made-it-easier-to-track-wildfires.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T22:42:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7655e8018a9e80fc83af58",
+          "published_at_utc": "2026-08-07T22:02:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T22:40:23.000Z",
           "buffer_mode": "customScheduled",
@@ -25326,7 +25332,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/europe-s-free-satellite-service-just-made-it-easier-to-track-wildfires.png",
       "metadata_file": "output/2026-08-08/europe-s-free-satellite-service-just-made-it-easier-to-track-wildfires.json",
-      "published_at_utc": "2026-08-07T22:02:11Z",
+      "published_at_utc": "2026-08-07T22:02:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/fenix-flexin-isn-t-even-denying-using-ai-to-make-rubberz-anymore.png": {
