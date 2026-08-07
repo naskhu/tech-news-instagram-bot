@@ -23859,6 +23859,25 @@
       "published_at_utc": "2026-08-07T03:23:05Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids-t.png": {
+      "buffer_due_at_utc": "2026-08-07T06:56:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a757d0fab236f0ec58a2290",
+      "caption_file": "output/2026-08-07/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T06:56:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a757d0fab236f0ec58a2290",
+          "published_at_utc": "2026-08-07T06:37:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids-t.png",
+      "metadata_file": "output/2026-08-07/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids-t.json",
+      "published_at_utc": "2026-08-07T06:37:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-cus.png": {
       "buffer_due_at_utc": "2026-08-07T05:50:31.000Z",
       "buffer_mode": "customScheduled",
