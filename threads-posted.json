@@ -24253,6 +24253,23 @@
       "published_at_utc": "2026-08-07T06:37:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/grab-the-entire-lord-of-the-rings-trilogy-on-4k-blu-ray-for-50.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a761a4f018a9e80fc808635",
+      "caption_file": "output/2026-08-07/grab-the-entire-lord-of-the-rings-trilogy-on-4k-blu-ray-for-50.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a761a4f018a9e80fc808635",
+          "published_at_utc": "2026-08-07T17:48:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/grab-the-entire-lord-of-the-rings-trilogy-on-4k-blu-ray-for-50.png",
+      "metadata_file": "output/2026-08-07/grab-the-entire-lord-of-the-rings-trilogy-on-4k-blu-ray-for-50.json",
+      "published_at_utc": "2026-08-07T17:48:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/gta-vi-preorders-have-gotten-off-to-an-exceptional-start.png": {
       "buffer_due_at_utc": "2026-08-07T16:13:28.000Z",
       "buffer_mode": "customScheduled",
