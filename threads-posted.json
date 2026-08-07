@@ -23935,12 +23935,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents.png": {
-      "buffer_due_at_utc": "2026-08-07T16:49:10.000Z",
+      "buffer_due_at_utc": "2026-08-07T16:51:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a760c59eb086b1202c92ec9",
+      "buffer_post_id": "6a760c5f8b39b04b79fcedfd",
       "caption_file": "output/2026-08-07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T16:51:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a760c5f8b39b04b79fcedfd",
+          "published_at_utc": "2026-08-07T16:48:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T16:49:10.000Z",
           "buffer_mode": "customScheduled",
@@ -23950,7 +23956,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents.png",
       "metadata_file": "output/2026-08-07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents.json",
-      "published_at_utc": "2026-08-07T16:48:26Z",
+      "published_at_utc": "2026-08-07T16:48:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/daft-punk-s-thomas-bangalter-might-be-a-robot-but-even-he-s-not-intere.png": {
