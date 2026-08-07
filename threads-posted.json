@@ -23806,6 +23806,23 @@
       "published_at_utc": "2026-08-07T11:42:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/birdfy-s-smart-bird-feeder-is-on-sale-for-just-60.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a761a31eb086b1202c9e66f",
+      "caption_file": "output/2026-08-07/birdfy-s-smart-bird-feeder-is-on-sale-for-just-60.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a761a31eb086b1202c9e66f",
+          "published_at_utc": "2026-08-07T17:47:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/birdfy-s-smart-bird-feeder-is-on-sale-for-just-60.png",
+      "metadata_file": "output/2026-08-07/birdfy-s-smart-bird-feeder-is-on-sale-for-just-60.json",
+      "published_at_utc": "2026-08-07T17:47:38Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/brendan-carr-officially-unleashes-broadcast-consolidation.png": {
       "buffer_due_at_utc": "2026-08-07T10:00:36.000Z",
       "buffer_mode": "customScheduled",
