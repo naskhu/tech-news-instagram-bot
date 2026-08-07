@@ -25236,12 +25236,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-.png": {
-      "buffer_due_at_utc": "2026-08-07T22:02:33.000Z",
+      "buffer_due_at_utc": "2026-08-07T22:04:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7655cd97f54129442e0555",
+      "buffer_post_id": "6a7655d28aa5e1393fa9a805",
       "caption_file": "output/2026-08-08/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T22:04:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7655d28aa5e1393fa9a805",
+          "published_at_utc": "2026-08-07T22:01:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T22:02:33.000Z",
           "buffer_mode": "customScheduled",
@@ -25251,7 +25257,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-.png",
       "metadata_file": "output/2026-08-08/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-.json",
-      "published_at_utc": "2026-08-07T22:01:49Z",
+      "published_at_utc": "2026-08-07T22:01:54Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/doge-s-wild-unverifiable-savings-claims-discredited-in-us-government-r.png": {
