@@ -24080,10 +24080,15 @@
     },
     "output/2026-08-07/disney-plus-tries-a-new-ai-powered-search.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a762839eb086b1202cabbcb",
+      "buffer_post_id": "6a7628488363eb6949998e51",
       "caption_file": "output/2026-08-07/disney-plus-tries-a-new-ai-powered-search.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a7628488363eb6949998e51",
+          "published_at_utc": "2026-08-07T18:47:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a762839eb086b1202cabbcb",
@@ -24092,7 +24097,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/disney-plus-tries-a-new-ai-powered-search.png",
       "metadata_file": "output/2026-08-07/disney-plus-tries-a-new-ai-powered-search.json",
-      "published_at_utc": "2026-08-07T18:47:31Z",
+      "published_at_utc": "2026-08-07T18:47:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/ebay-continues-to-bet-on-live-shopping-after-record-quarter-techcrunch.png": {
