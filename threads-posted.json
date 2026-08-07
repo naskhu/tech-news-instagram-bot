@@ -24400,6 +24400,23 @@
       "published_at_utc": "2026-08-07T09:58:10Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/microsoft-edge-is-about-to-lock-out-older-ad-blockers-just-like-chrome.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a761a6d8b39b04b79fdc155",
+      "caption_file": "output/2026-08-07/microsoft-edge-is-about-to-lock-out-older-ad-blockers-just-like-chrome.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a761a6d8b39b04b79fdc155",
+          "published_at_utc": "2026-08-07T17:48:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/microsoft-edge-is-about-to-lock-out-older-ad-blockers-just-like-chrome.png",
+      "metadata_file": "output/2026-08-07/microsoft-edge-is-about-to-lock-out-older-ad-blockers-just-like-chrome.json",
+      "published_at_utc": "2026-08-07T17:48:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/na-ve-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-runnin.png": {
       "buffer_due_at_utc": "2026-08-07T06:09:26.000Z",
       "buffer_mode": "customScheduled",
