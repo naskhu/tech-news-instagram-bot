@@ -23834,6 +23834,25 @@
       "published_at_utc": "2026-08-07T03:23:05Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-cus.png": {
+      "buffer_due_at_utc": "2026-08-07T05:48:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7568bb8b39b04b79f2d94e",
+      "caption_file": "output/2026-08-07/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-cus.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T05:48:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7568bb8b39b04b79f2d94e",
+          "published_at_utc": "2026-08-07T05:10:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-cus.png",
+      "metadata_file": "output/2026-08-07/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-cus.json",
+      "published_at_utc": "2026-08-07T05:10:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and.png": {
       "buffer_due_at_utc": "2026-08-07T00:41:36.000Z",
       "buffer_mode": "customScheduled",
