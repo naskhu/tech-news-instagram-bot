@@ -24010,12 +24010,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/openai-says-apple-s-own-security-practices-undermine-its-trade-secrets.png": {
-      "buffer_due_at_utc": "2026-08-07T08:35:34.000Z",
+      "buffer_due_at_utc": "2026-08-07T08:37:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a758fe0d445a81af5f08db7",
+      "buffer_post_id": "6a758fe597f5412944220ce5",
       "caption_file": "output/2026-08-07/openai-says-apple-s-own-security-practices-undermine-its-trade-secrets.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T08:37:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a758fe597f5412944220ce5",
+          "published_at_utc": "2026-08-07T07:57:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T08:35:34.000Z",
           "buffer_mode": "customScheduled",
@@ -24025,7 +24031,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/openai-says-apple-s-own-security-practices-undermine-its-trade-secrets.png",
       "metadata_file": "output/2026-08-07/openai-says-apple-s-own-security-practices-undermine-its-trade-secrets.json",
-      "published_at_utc": "2026-08-07T07:57:20Z",
+      "published_at_utc": "2026-08-07T07:57:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-fact.png": {
