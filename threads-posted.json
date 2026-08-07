@@ -23859,6 +23859,25 @@
       "published_at_utc": "2026-08-07T03:22:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/daft-punk-s-thomas-bangalter-might-be-a-robot-but-even-he-s-not-intere.png": {
+      "buffer_due_at_utc": "2026-08-07T14:01:17.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75e501eb086b1202c6b7d2",
+      "caption_file": "output/2026-08-07/daft-punk-s-thomas-bangalter-might-be-a-robot-but-even-he-s-not-intere.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T14:01:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75e501eb086b1202c6b7d2",
+          "published_at_utc": "2026-08-07T14:00:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/daft-punk-s-thomas-bangalter-might-be-a-robot-but-even-he-s-not-intere.png",
+      "metadata_file": "output/2026-08-07/daft-punk-s-thomas-bangalter-might-be-a-robot-but-even-he-s-not-intere.json",
+      "published_at_utc": "2026-08-07T14:00:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/defense-tech-hadrian-raises-1-37b-at-8b-valuation-techcrunch.png": {
       "buffer_due_at_utc": "2026-08-07T03:44:02.000Z",
       "buffer_mode": "customScheduled",
