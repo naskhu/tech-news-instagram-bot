@@ -25284,6 +25284,25 @@
       "metadata_file": "output/2026-08-08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moon-s-shadow.json",
       "published_at_utc": "2026-08-07T19:50:19Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-08/watching-roku-s-ai-channel-is-like-eating-from-a-trough.png": {
+      "buffer_due_at_utc": "2026-08-07T20:28:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7637008aa5e1393fa81c68",
+      "caption_file": "output/2026-08-08/watching-roku-s-ai-channel-is-like-eating-from-a-trough.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T20:28:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7637008aa5e1393fa81c68",
+          "published_at_utc": "2026-08-07T19:50:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/watching-roku-s-ai-channel-is-like-eating-from-a-trough.png",
+      "metadata_file": "output/2026-08-08/watching-roku-s-ai-channel-is-like-eating-from-a-trough.json",
+      "published_at_utc": "2026-08-07T19:50:25Z",
+      "publisher": "buffer_threads"
     }
   }
 }
