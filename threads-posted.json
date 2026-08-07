@@ -25385,6 +25385,25 @@
       "published_at_utc": "2026-08-07T21:22:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-08/how-snails-engineer-their-slime.png": {
+      "buffer_due_at_utc": "2026-08-07T22:44:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a765fa197f54129442e775c",
+      "caption_file": "output/2026-08-08/how-snails-engineer-their-slime.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T22:44:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a765fa197f54129442e775c",
+          "published_at_utc": "2026-08-07T22:43:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/how-snails-engineer-their-slime.png",
+      "metadata_file": "output/2026-08-08/how-snails-engineer-their-slime.json",
+      "published_at_utc": "2026-08-07T22:43:45Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-08/judge-rules-meta-caused-public-nuisance-and-must-fund-mental-health-tr.png": {
       "buffer_due_at_utc": "2026-08-07T20:58:09.000Z",
       "buffer_mode": "customScheduled",
