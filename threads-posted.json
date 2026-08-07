@@ -24409,6 +24409,25 @@
       "published_at_utc": "2026-08-07T07:57:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/samsung-s-z-fold-8-ultra-is-more-of-the-same-but-better-than-ever.png": {
+      "buffer_due_at_utc": "2026-08-07T16:30:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75ff288363eb694996fcd2",
+      "caption_file": "output/2026-08-07/samsung-s-z-fold-8-ultra-is-more-of-the-same-but-better-than-ever.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T16:30:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75ff288363eb694996fcd2",
+          "published_at_utc": "2026-08-07T15:52:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/samsung-s-z-fold-8-ultra-is-more-of-the-same-but-better-than-ever.png",
+      "metadata_file": "output/2026-08-07/samsung-s-z-fold-8-ultra-is-more-of-the-same-but-better-than-ever.json",
+      "published_at_utc": "2026-08-07T15:52:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/spacex-leaves-its-mark-on-the-moon.png": {
       "buffer_due_at_utc": "2026-08-07T13:10:15.000Z",
       "buffer_mode": "customScheduled",
