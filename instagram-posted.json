@@ -7886,6 +7886,17 @@
       "publish_result": "buffer_error_not_retried",
       "published_at_utc": "2026-08-07T10:33:23Z",
       "publisher": "buffer"
+    },
+    "output/2026-08-07/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-tho.png": {
+      "buffer_post_id": "6a75cf0b8aa5e1393fa1c3b0",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-07/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-tho.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-tho.png",
+      "metadata_file": "output/2026-08-07/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-tho.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-07T12:27:00Z",
+      "publisher": "buffer"
     }
   }
 }
