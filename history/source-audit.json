@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-07T08:50:52.105994+00:00",
+  "run_utc": "2026-08-07T09:55:26.337554+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-06T08:50:52.106143+00:00",
-  "eligible_story_count": 301,
+  "cutoff_utc": "2026-08-06T09:55:26.337710+00:00",
+  "eligible_story_count": 303,
   "sources": [
     {
       "source": "TechCrunch",
@@ -55,9 +55,9 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 18,
-      "already_processed": 11,
-      "older_than_window": 8,
+      "eligible_new": 12,
+      "already_processed": 15,
+      "older_than_window": 9,
       "metadata_errors": {}
     },
     {
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 15,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 28,
+      "eligible_new": 27,
       "already_processed": 0,
-      "older_than_window": 4,
+      "older_than_window": 5,
       "metadata_errors": {}
     },
     {
@@ -303,16 +303,16 @@
         {
           "url": "https://www.theinformation.com/",
           "status": 200,
-          "links": 20,
+          "links": 19,
           "error": ""
         }
       ],
       "rss_candidates": 8,
-      "page_links": 20,
-      "page_articles": 14,
+      "page_links": 19,
+      "page_articles": 13,
       "eligible_new": 8,
       "already_processed": 1,
-      "older_than_window": 7,
+      "older_than_window": 6,
       "metadata_errors": {
         "not_article_path": 6
       }
@@ -348,7 +348,7 @@
       "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 12,
+      "eligible_new": 20,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -390,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 64,
+      "eligible_new": 65,
       "already_processed": 0,
-      "older_than_window": 29,
+      "older_than_window": 30,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 1
@@ -461,7 +461,7 @@
       "page_articles": 40,
       "eligible_new": 19,
       "already_processed": 9,
-      "older_than_window": 40,
+      "older_than_window": 41,
       "metadata_errors": {}
     },
     {
