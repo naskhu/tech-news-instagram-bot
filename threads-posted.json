@@ -25311,12 +25311,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/well-that-s-a-way-to-promote-a-movie.png": {
-      "buffer_due_at_utc": "2026-08-07T20:47:32.000Z",
+      "buffer_due_at_utc": "2026-08-07T20:49:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a76370beb086b1202cb7102",
+      "buffer_post_id": "6a7637108363eb69499a47eb",
       "caption_file": "output/2026-08-08/well-that-s-a-way-to-promote-a-movie.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T20:49:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7637108363eb69499a47eb",
+          "published_at_utc": "2026-08-07T19:50:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T20:47:32.000Z",
           "buffer_mode": "customScheduled",
@@ -25326,7 +25332,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/well-that-s-a-way-to-promote-a-movie.png",
       "metadata_file": "output/2026-08-08/well-that-s-a-way-to-promote-a-movie.json",
-      "published_at_utc": "2026-08-07T19:50:35Z",
+      "published_at_utc": "2026-08-07T19:50:40Z",
       "publisher": "buffer_threads"
     }
   }
