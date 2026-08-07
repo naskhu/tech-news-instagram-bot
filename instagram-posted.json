@@ -7646,6 +7646,17 @@
       "published_at_utc": "2026-08-06T10:17:14Z",
       "publisher": "buffer"
     },
+    "output/2026-08-07/anthropic-is-hiring-an-insider-risk-investigator.png": {
+      "buffer_post_id": "6a75c1adab236f0ec58e4c31",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-07/anthropic-is-hiring-an-insider-risk-investigator.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/anthropic-is-hiring-an-insider-risk-investigator.png",
+      "metadata_file": "output/2026-08-07/anthropic-is-hiring-an-insider-risk-investigator.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-07T11:29:55Z",
+      "publisher": "buffer"
+    },
     "output/2026-08-07/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups-te.png": {
       "buffer_post_id": "6a756b8a8363eb69498e1406",
       "buffer_status": "error",
