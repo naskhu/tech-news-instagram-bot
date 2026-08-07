@@ -25236,12 +25236,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/the-odyssey-has-sailed-past-the-1-billion-mark.png": {
-      "buffer_due_at_utc": "2026-08-07T19:50:47.000Z",
+      "buffer_due_at_utc": "2026-08-07T19:52:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7636ec018a9e80fc8215e6",
+      "buffer_post_id": "6a7636f1eb086b1202cb6ff0",
       "caption_file": "output/2026-08-08/the-odyssey-has-sailed-past-the-1-billion-mark.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T19:52:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7636f1eb086b1202cb6ff0",
+          "published_at_utc": "2026-08-07T19:50:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T19:50:47.000Z",
           "buffer_mode": "customScheduled",
@@ -25251,7 +25257,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/the-odyssey-has-sailed-past-the-1-billion-mark.png",
       "metadata_file": "output/2026-08-08/the-odyssey-has-sailed-past-the-1-billion-mark.json",
-      "published_at_utc": "2026-08-07T19:50:04Z",
+      "published_at_utc": "2026-08-07T19:50:09Z",
       "publisher": "buffer_threads"
     }
   }
