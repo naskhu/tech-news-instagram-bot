@@ -24684,6 +24684,25 @@
       "published_at_utc": "2026-08-07T00:20:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/what-are-you-snagging-for-bandcamp-friday.png": {
+      "buffer_due_at_utc": "2026-08-07T14:58:02.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75e5228b39b04b79fa3422",
+      "caption_file": "output/2026-08-07/what-are-you-snagging-for-bandcamp-friday.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T14:58:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75e5228b39b04b79fa3422",
+          "published_at_utc": "2026-08-07T14:01:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/what-are-you-snagging-for-bandcamp-friday.png",
+      "metadata_file": "output/2026-08-07/what-are-you-snagging-for-bandcamp-friday.json",
+      "published_at_utc": "2026-08-07T14:01:06Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/why-does-apple-keep-banning-telegram-but-never-x.png": {
       "buffer_due_at_utc": "2026-08-07T12:41:52.000Z",
       "buffer_mode": "customScheduled",
