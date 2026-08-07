@@ -23960,12 +23960,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/jony-ive-s-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart.png": {
-      "buffer_due_at_utc": "2026-08-07T08:53:43.000Z",
+      "buffer_due_at_utc": "2026-08-07T08:55:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a759ceb018a9e80fc7856c4",
+      "buffer_post_id": "6a759cf1d445a81af5f14cc0",
       "caption_file": "output/2026-08-07/jony-ive-s-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T08:55:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a759cf1d445a81af5f14cc0",
+          "published_at_utc": "2026-08-07T08:53:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T08:53:43.000Z",
           "buffer_mode": "customScheduled",
@@ -23975,7 +23981,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/jony-ive-s-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart.png",
       "metadata_file": "output/2026-08-07/jony-ive-s-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart.json",
-      "published_at_utc": "2026-08-07T08:53:00Z",
+      "published_at_utc": "2026-08-07T08:53:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/na-ve-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-runnin.png": {
