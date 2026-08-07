@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-07T11:40:23.935426+00:00",
+  "run_utc": "2026-08-07T12:27:27.898967+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-06T11:40:23.935596+00:00",
-  "eligible_story_count": 299,
+  "cutoff_utc": "2026-08-06T12:27:27.899107+00:00",
+  "eligible_story_count": 291,
   "sources": [
     {
       "source": "TechCrunch",
@@ -20,14 +20,14 @@
         {
           "url": "https://techcrunch.com/latest/",
           "status": 200,
-          "links": 25,
+          "links": 26,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 25,
-      "page_articles": 25,
-      "eligible_new": 0,
+      "page_links": 26,
+      "page_articles": 26,
+      "eligible_new": 1,
       "already_processed": 25,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -55,9 +55,9 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 8,
+      "eligible_new": 5,
       "already_processed": 22,
-      "older_than_window": 7,
+      "older_than_window": 8,
       "metadata_errors": {}
     },
     {
@@ -111,9 +111,9 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 1,
+      "eligible_new": 0,
       "already_processed": 7,
-      "older_than_window": 28,
+      "older_than_window": 29,
       "metadata_errors": {}
     },
     {
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 17,
+      "eligible_new": 18,
       "already_processed": 8,
-      "older_than_window": 92,
+      "older_than_window": 89,
       "metadata_errors": {}
     },
     {
@@ -389,12 +389,12 @@
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
-      "eligible_new": 70,
+      "page_articles": 45,
+      "eligible_new": 69,
       "already_processed": 0,
-      "older_than_window": 21,
+      "older_than_window": 22,
       "metadata_errors": {
-        "no_article_metadata": 5,
+        "no_article_metadata": 4,
         "missing_title": 1
       }
     },
@@ -431,9 +431,9 @@
       "rss_candidates": 0,
       "page_links": 23,
       "page_articles": 23,
-      "eligible_new": 16,
+      "eligible_new": 15,
       "already_processed": 0,
-      "older_than_window": 7,
+      "older_than_window": 8,
       "metadata_errors": {}
     },
     {
@@ -459,9 +459,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 17,
+      "eligible_new": 15,
       "already_processed": 9,
-      "older_than_window": 46,
+      "older_than_window": 48,
       "metadata_errors": {}
     },
     {
@@ -488,13 +488,13 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 32,
+          "links": 31,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 8,
+          "links": 9,
           "error": ""
         }
       ],
@@ -502,8 +502,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 20,
-      "already_processed": 6,
-      "older_than_window": 25,
+      "already_processed": 5,
+      "older_than_window": 26,
       "metadata_errors": {}
     },
     {
@@ -568,12 +568,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 24,
-      "page_articles": 2,
+      "page_articles": 3,
       "eligible_new": 7,
       "already_processed": 0,
       "older_than_window": 8,
       "metadata_errors": {
-        "http_429": 22
+        "no_article_metadata": 1,
+        "http_429": 20
       }
     },
     {
@@ -605,9 +606,9 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 32,
+      "eligible_new": 30,
       "already_processed": 0,
-      "older_than_window": 80,
+      "older_than_window": 82,
       "metadata_errors": {}
     },
     {
@@ -673,9 +674,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 37,
-      "eligible_new": 13,
+      "eligible_new": 14,
       "already_processed": 2,
-      "older_than_window": 44,
+      "older_than_window": 42,
       "metadata_errors": {
         "no_article_metadata": 3
       }
