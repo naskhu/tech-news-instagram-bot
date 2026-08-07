@@ -1,0 +1,23 @@
+{
+  "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks | TechCrunch",
+  "summary": "The researchers found that some of the vendors’ buggy software, coupled with a lack of bug bounties and ways to report security flaws, are putting Poland’s public services at risk of hijacks and other attacks.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks",
+  "published_utc": "2026-08-07T21:00:08+00:00",
+  "output_day": "2026-08-08",
+  "date_source": "meta",
+  "generated_utc": "2026-08-07T21:21:13.571003+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/poland-cyber-internet-1232657831.jpg?resize=1200,800",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-08-08/security-researchers-scanned-the-polish-web-and-found-courts-hospitals.png",
+  "caption": "output/2026-08-08/security-researchers-scanned-the-polish-web-and-found-courts-hospitals.txt"
+}
