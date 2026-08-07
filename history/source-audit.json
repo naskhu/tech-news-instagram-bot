@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-07T06:34:55.525666+00:00",
+  "run_utc": "2026-08-07T07:55:04.211705+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-06T06:34:55.525815+00:00",
-  "eligible_story_count": 309,
+  "cutoff_utc": "2026-08-06T07:55:04.211848+00:00",
+  "eligible_story_count": 303,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 26,
       "page_articles": 26,
-      "eligible_new": 6,
-      "already_processed": 20,
+      "eligible_new": 2,
+      "already_processed": 24,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 15,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 17,
       "already_processed": 8,
-      "older_than_window": 91,
+      "older_than_window": 92,
       "metadata_errors": {}
     },
     {
@@ -390,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 65,
+      "eligible_new": 64,
       "already_processed": 0,
-      "older_than_window": 28,
+      "older_than_window": 29,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 1
@@ -535,9 +535,9 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 4,
+      "eligible_new": 3,
       "already_processed": 0,
-      "older_than_window": 3,
+      "older_than_window": 4,
       "metadata_errors": {}
     },
     {
@@ -568,12 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 24,
-      "page_articles": 3,
+      "page_articles": 6,
       "eligible_new": 7,
       "already_processed": 0,
-      "older_than_window": 8,
+      "older_than_window": 10,
       "metadata_errors": {
-        "http_429": 21
+        "http_429": 18
       }
     },
     {
