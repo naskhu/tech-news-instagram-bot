@@ -25461,12 +25461,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/watch-hank-green-describe-his-new-ai-policy.png": {
-      "buffer_due_at_utc": "2026-08-07T22:19:40.000Z",
+      "buffer_due_at_utc": "2026-08-07T22:21:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a764ca397f54129442d92fb",
+      "buffer_post_id": "6a764ca88b39b04b79005a8f",
       "caption_file": "output/2026-08-08/watch-hank-green-describe-his-new-ai-policy.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T22:21:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a764ca88b39b04b79005a8f",
+          "published_at_utc": "2026-08-07T21:22:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T22:19:40.000Z",
           "buffer_mode": "customScheduled",
@@ -25476,7 +25482,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/watch-hank-green-describe-his-new-ai-policy.png",
       "metadata_file": "output/2026-08-08/watch-hank-green-describe-his-new-ai-policy.json",
-      "published_at_utc": "2026-08-07T21:22:43Z",
+      "published_at_utc": "2026-08-07T21:22:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/watching-roku-s-ai-channel-is-like-eating-from-a-trough.png": {
