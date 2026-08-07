@@ -23659,6 +23659,25 @@
       "published_at_utc": "2026-08-06T00:16:51Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries.png": {
+      "buffer_due_at_utc": "2026-08-07T03:23:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a754f6f145b14b3da6329d2",
+      "caption_file": "output/2026-08-07/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T03:23:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a754f6f145b14b3da6329d2",
+          "published_at_utc": "2026-08-07T03:22:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries.png",
+      "metadata_file": "output/2026-08-07/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries.json",
+      "published_at_utc": "2026-08-07T03:22:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-tomorrow-tec.png": {
       "buffer_due_at_utc": "2026-08-07T00:22:41.000Z",
       "buffer_mode": "customScheduled",
