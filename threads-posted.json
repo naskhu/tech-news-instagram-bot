@@ -24160,12 +24160,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/gta-vi-preorders-have-gotten-off-to-an-exceptional-start.png": {
-      "buffer_due_at_utc": "2026-08-07T16:11:28.000Z",
+      "buffer_due_at_utc": "2026-08-07T16:13:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a75ff1e97f54129442936ab",
+      "buffer_post_id": "6a75ff23eb086b1202c857ec",
       "caption_file": "output/2026-08-07/gta-vi-preorders-have-gotten-off-to-an-exceptional-start.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T16:13:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75ff23eb086b1202c857ec",
+          "published_at_utc": "2026-08-07T15:52:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T16:11:28.000Z",
           "buffer_mode": "customScheduled",
@@ -24175,7 +24181,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/gta-vi-preorders-have-gotten-off-to-an-exceptional-start.png",
       "metadata_file": "output/2026-08-07/gta-vi-preorders-have-gotten-off-to-an-exceptional-start.json",
-      "published_at_utc": "2026-08-07T15:51:58Z",
+      "published_at_utc": "2026-08-07T15:52:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-cus.png": {
