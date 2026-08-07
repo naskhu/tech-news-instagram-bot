@@ -24785,12 +24785,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms.png": {
-      "buffer_due_at_utc": "2026-08-07T16:49:18.000Z",
+      "buffer_due_at_utc": "2026-08-07T16:51:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a75ff33018a9e80fc7eafd7",
+      "buffer_post_id": "6a75ff38018a9e80fc7eaffc",
       "caption_file": "output/2026-08-07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T16:51:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75ff38018a9e80fc7eaffc",
+          "published_at_utc": "2026-08-07T15:52:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T16:49:18.000Z",
           "buffer_mode": "customScheduled",
@@ -24800,7 +24806,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms.png",
       "metadata_file": "output/2026-08-07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms.json",
-      "published_at_utc": "2026-08-07T15:52:19Z",
+      "published_at_utc": "2026-08-07T15:52:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/trying-to-explain-one-night-only-s-tech-enforced-sex-dystopia.png": {
