@@ -25309,6 +25309,25 @@
       "metadata_file": "output/2026-08-08/watching-roku-s-ai-channel-is-like-eating-from-a-trough.json",
       "published_at_utc": "2026-08-07T19:50:30Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-08/well-that-s-a-way-to-promote-a-movie.png": {
+      "buffer_due_at_utc": "2026-08-07T20:47:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a76370beb086b1202cb7102",
+      "caption_file": "output/2026-08-08/well-that-s-a-way-to-promote-a-movie.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T20:47:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a76370beb086b1202cb7102",
+          "published_at_utc": "2026-08-07T19:50:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/well-that-s-a-way-to-promote-a-movie.png",
+      "metadata_file": "output/2026-08-08/well-that-s-a-way-to-promote-a-movie.json",
+      "published_at_utc": "2026-08-07T19:50:35Z",
+      "publisher": "buffer_threads"
     }
   }
 }
