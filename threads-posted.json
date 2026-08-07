@@ -24110,12 +24110,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/suno-shares-plans-to-combat-spammy-ai-music.png": {
-      "buffer_due_at_utc": "2026-08-07T10:36:26.000Z",
+      "buffer_due_at_utc": "2026-08-07T10:38:26.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a75ac38d445a81af5f22407",
+      "buffer_post_id": "6a75ac3dab236f0ec58cce5c",
       "caption_file": "output/2026-08-07/suno-shares-plans-to-combat-spammy-ai-music.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T10:38:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75ac3dab236f0ec58cce5c",
+          "published_at_utc": "2026-08-07T09:58:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T10:36:26.000Z",
           "buffer_mode": "customScheduled",
@@ -24125,7 +24131,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/suno-shares-plans-to-combat-spammy-ai-music.png",
       "metadata_file": "output/2026-08-07/suno-shares-plans-to-combat-spammy-ai-music.json",
-      "published_at_utc": "2026-08-07T09:58:16Z",
+      "published_at_utc": "2026-08-07T09:58:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/t-mobile-ceo-dismisses-starlink-mobile-threat.png": {
