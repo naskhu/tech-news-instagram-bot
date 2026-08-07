@@ -23685,12 +23685,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/defense-tech-hadrian-raises-1-37b-at-8b-valuation-techcrunch.png": {
-      "buffer_due_at_utc": "2026-08-07T03:42:02.000Z",
+      "buffer_due_at_utc": "2026-08-07T03:44:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a754f7b8363eb69498cc826",
+      "buffer_post_id": "6a754f808b39b04b79f1b1d7",
       "caption_file": "output/2026-08-07/defense-tech-hadrian-raises-1-37b-at-8b-valuation-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T03:44:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a754f808b39b04b79f1b1d7",
+          "published_at_utc": "2026-08-07T03:22:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T03:42:02.000Z",
           "buffer_mode": "customScheduled",
@@ -23700,7 +23706,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/defense-tech-hadrian-raises-1-37b-at-8b-valuation-techcrunch.png",
       "metadata_file": "output/2026-08-07/defense-tech-hadrian-raises-1-37b-at-8b-valuation-techcrunch.json",
-      "published_at_utc": "2026-08-07T03:22:35Z",
+      "published_at_utc": "2026-08-07T03:22:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-tomorrow-tec.png": {
