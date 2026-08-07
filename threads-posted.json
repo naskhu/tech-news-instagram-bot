@@ -23985,12 +23985,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/tiktok-lays-off-250-employees-shutters-its-nashville-office-techcrunch.png": {
-      "buffer_due_at_utc": "2026-08-07T07:34:23.000Z",
+      "buffer_due_at_utc": "2026-08-07T07:36:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a757d2197f54129442103fc",
+      "buffer_post_id": "6a757d26ab236f0ec58a2356",
       "caption_file": "output/2026-08-07/tiktok-lays-off-250-employees-shutters-its-nashville-office-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T07:36:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a757d26ab236f0ec58a2356",
+          "published_at_utc": "2026-08-07T06:37:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T07:34:23.000Z",
           "buffer_mode": "customScheduled",
@@ -24000,7 +24006,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/tiktok-lays-off-250-employees-shutters-its-nashville-office-techcrunch.png",
       "metadata_file": "output/2026-08-07/tiktok-lays-off-250-employees-shutters-its-nashville-office-techcrunch.json",
-      "published_at_utc": "2026-08-07T06:37:22Z",
+      "published_at_utc": "2026-08-07T06:37:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/vogue-just-gave-another-nod-of-approval-to-the-tech-world-techcrunch.png": {
