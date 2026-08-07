@@ -25234,6 +25234,25 @@
       "metadata_file": "output/2026-08-07/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-tho.json",
       "published_at_utc": "2026-08-07T00:20:31Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-08/the-odyssey-has-sailed-past-the-1-billion-mark.png": {
+      "buffer_due_at_utc": "2026-08-07T19:50:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7636ec018a9e80fc8215e6",
+      "caption_file": "output/2026-08-08/the-odyssey-has-sailed-past-the-1-billion-mark.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T19:50:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7636ec018a9e80fc8215e6",
+          "published_at_utc": "2026-08-07T19:50:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/the-odyssey-has-sailed-past-the-1-billion-mark.png",
+      "metadata_file": "output/2026-08-08/the-odyssey-has-sailed-past-the-1-billion-mark.json",
+      "published_at_utc": "2026-08-07T19:50:04Z",
+      "publisher": "buffer_threads"
     }
   }
 }
