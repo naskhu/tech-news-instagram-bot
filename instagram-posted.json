@@ -7865,6 +7865,17 @@
       "published_at_utc": "2026-08-07T12:30:00Z",
       "publisher": "buffer"
     },
+    "output/2026-08-07/suno-will-start-scanning-outputs-for-copyright-infringment.png": {
+      "buffer_post_id": "6a75f4e38b39b04b79fb55ba",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-07/suno-will-start-scanning-outputs-for-copyright-infringment.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/suno-will-start-scanning-outputs-for-copyright-infringment.png",
+      "metadata_file": "output/2026-08-07/suno-will-start-scanning-outputs-for-copyright-infringment.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-07T15:08:25Z",
+      "publisher": "buffer"
+    },
     "output/2026-08-07/t-mobile-ceo-dismisses-starlink-mobile-threat.png": {
       "buffer_post_id": "6a75ac1b97f541294423c194",
       "buffer_status": "error",
