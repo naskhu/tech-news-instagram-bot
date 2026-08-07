@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-07T00:17:57.818923+00:00",
+  "run_utc": "2026-08-07T03:20:09.468269+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-06T00:17:57.819002+00:00",
-  "eligible_story_count": 324,
+  "cutoff_utc": "2026-08-06T03:20:09.468417+00:00",
+  "eligible_story_count": 327,
   "sources": [
     {
       "source": "TechCrunch",
@@ -26,11 +26,13 @@
       ],
       "rss_candidates": 20,
       "page_links": 27,
-      "page_articles": 27,
-      "eligible_new": 18,
-      "already_processed": 9,
+      "page_articles": 25,
+      "eligible_new": 14,
+      "already_processed": 12,
       "older_than_window": 0,
-      "metadata_errors": {}
+      "metadata_errors": {
+        "http_403": 2
+      }
     },
     {
       "source": "The Verge",
@@ -248,7 +250,7 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 16,
+      "eligible_new": 17,
       "already_processed": 8,
       "older_than_window": 91,
       "metadata_errors": {}
@@ -310,9 +312,9 @@
       "rss_candidates": 8,
       "page_links": 20,
       "page_articles": 14,
-      "eligible_new": 7,
+      "eligible_new": 8,
       "already_processed": 1,
-      "older_than_window": 8,
+      "older_than_window": 7,
       "metadata_errors": {
         "not_article_path": 6
       }
@@ -377,25 +379,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 21,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 29,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 59,
+      "eligible_new": 64,
       "already_processed": 0,
-      "older_than_window": 33,
+      "older_than_window": 30,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 5
       }
     },
     {
@@ -431,9 +433,9 @@
       "rss_candidates": 0,
       "page_links": 23,
       "page_articles": 23,
-      "eligible_new": 18,
+      "eligible_new": 16,
       "already_processed": 0,
-      "older_than_window": 5,
+      "older_than_window": 7,
       "metadata_errors": {}
     },
     {
@@ -459,7 +461,7 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 28,
+      "eligible_new": 29,
       "already_processed": 3,
       "older_than_window": 27,
       "metadata_errors": {}
@@ -488,22 +490,22 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 33,
+          "links": 32,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 7,
+          "links": 8,
           "error": ""
         }
       ],
-      "rss_candidates": 29,
+      "rss_candidates": 31,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 18,
-      "already_processed": 7,
-      "older_than_window": 25,
+      "eligible_new": 19,
+      "already_processed": 6,
+      "older_than_window": 24,
       "metadata_errors": {}
     },
     {
@@ -592,13 +594,13 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 32,
+          "links": 33,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 8,
+          "links": 7,
           "error": ""
         }
       ],
@@ -607,7 +609,7 @@
       "page_articles": 40,
       "eligible_new": 33,
       "already_processed": 0,
-      "older_than_window": 80,
+      "older_than_window": 79,
       "metadata_errors": {}
     },
     {
@@ -626,22 +628,22 @@
         {
           "url": "https://9to5google.com/",
           "status": 200,
-          "links": 28,
+          "links": 25,
           "error": ""
         },
         {
           "url": "https://9to5google.com/guides/news/",
           "status": 200,
-          "links": 12,
+          "links": 15,
           "error": ""
         }
       ],
-      "rss_candidates": 93,
+      "rss_candidates": 94,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 15,
+      "eligible_new": 16,
       "already_processed": 17,
-      "older_than_window": 75,
+      "older_than_window": 78,
       "metadata_errors": {}
     },
     {
@@ -696,7 +698,7 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 30,
+          "links": 31,
           "error": ""
         },
         {
@@ -707,11 +709,11 @@
         }
       ],
       "rss_candidates": 20,
-      "page_links": 34,
-      "page_articles": 34,
+      "page_links": 35,
+      "page_articles": 35,
       "eligible_new": 20,
       "already_processed": 0,
-      "older_than_window": 14,
+      "older_than_window": 16,
       "metadata_errors": {}
     }
   ]
