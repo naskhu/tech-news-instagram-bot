@@ -25460,6 +25460,25 @@
       "published_at_utc": "2026-08-07T20:36:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-08/openai-s-expensive-smart-speaker-will-use-moving-parts-to-seem-more-al.png": {
+      "buffer_due_at_utc": "2026-08-07T23:03:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a765fab018a9e80fc842c4d",
+      "caption_file": "output/2026-08-08/openai-s-expensive-smart-speaker-will-use-moving-parts-to-seem-more-al.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T23:03:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a765fab018a9e80fc842c4d",
+          "published_at_utc": "2026-08-07T22:43:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/openai-s-expensive-smart-speaker-will-use-moving-parts-to-seem-more-al.png",
+      "metadata_file": "output/2026-08-08/openai-s-expensive-smart-speaker-will-use-moving-parts-to-seem-more-al.json",
+      "published_at_utc": "2026-08-07T22:43:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-08/security-researchers-scanned-the-polish-web-and-found-courts-hospitals.png": {
       "buffer_due_at_utc": "2026-08-07T22:02:45.000Z",
       "buffer_mode": "customScheduled",
