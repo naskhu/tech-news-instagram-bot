@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-07T09:55:26.337554+00:00",
+  "run_utc": "2026-08-07T10:45:50.856363+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-06T09:55:26.337710+00:00",
+  "cutoff_utc": "2026-08-06T10:45:50.856518+00:00",
   "eligible_story_count": 303,
   "sources": [
     {
@@ -55,9 +55,9 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 12,
-      "already_processed": 15,
-      "older_than_window": 9,
+      "eligible_new": 11,
+      "already_processed": 18,
+      "older_than_window": 8,
       "metadata_errors": {}
     },
     {
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 15,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 27,
+      "eligible_new": 26,
       "already_processed": 0,
-      "older_than_window": 5,
+      "older_than_window": 6,
       "metadata_errors": {}
     },
     {
@@ -249,8 +249,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 17,
-      "already_processed": 8,
-      "older_than_window": 90,
+      "already_processed": 9,
+      "older_than_window": 91,
       "metadata_errors": {}
     },
     {
@@ -307,10 +307,10 @@
           "error": ""
         }
       ],
-      "rss_candidates": 8,
+      "rss_candidates": 6,
       "page_links": 19,
       "page_articles": 13,
-      "eligible_new": 8,
+      "eligible_new": 7,
       "already_processed": 1,
       "older_than_window": 6,
       "metadata_errors": {
@@ -377,22 +377,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 21,
+          "links": 20,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 29,
+          "links": 30,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 65,
+      "eligible_new": 69,
       "already_processed": 0,
-      "older_than_window": 30,
+      "older_than_window": 25,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 1
@@ -459,9 +459,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 19,
+      "eligible_new": 18,
       "already_processed": 9,
-      "older_than_window": 41,
+      "older_than_window": 43,
       "metadata_errors": {}
     },
     {
@@ -488,23 +488,25 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 32,
+          "links": 33,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 8,
+          "links": 7,
           "error": ""
         }
       ],
-      "rss_candidates": 31,
+      "rss_candidates": 33,
       "page_links": 40,
-      "page_articles": 40,
+      "page_articles": 39,
       "eligible_new": 18,
       "already_processed": 6,
-      "older_than_window": 25,
-      "metadata_errors": {}
+      "older_than_window": 27,
+      "metadata_errors": {
+        "http_404": 1
+      }
     },
     {
       "source": "VentureBeat",
@@ -568,12 +570,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 24,
-      "page_articles": 6,
+      "page_articles": 4,
       "eligible_new": 7,
       "already_processed": 0,
-      "older_than_window": 10,
+      "older_than_window": 9,
       "metadata_errors": {
-        "http_429": 18
+        "http_429": 20
       }
     },
     {
@@ -592,13 +594,13 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 33,
+          "links": 32,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 7,
+          "links": 8,
           "error": ""
         }
       ],
@@ -675,7 +677,7 @@
       "page_articles": 37,
       "eligible_new": 14,
       "already_processed": 2,
-      "older_than_window": 43,
+      "older_than_window": 42,
       "metadata_errors": {
         "no_article_metadata": 3
       }
@@ -702,16 +704,16 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 4,
+          "links": 5,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 35,
-      "page_articles": 35,
+      "page_links": 36,
+      "page_articles": 36,
       "eligible_new": 20,
       "already_processed": 0,
-      "older_than_window": 15,
+      "older_than_window": 16,
       "metadata_errors": {}
     }
   ]
