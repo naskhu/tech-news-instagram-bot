@@ -23785,12 +23785,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking-.png": {
-      "buffer_due_at_utc": "2026-08-07T06:37:38.000Z",
+      "buffer_due_at_utc": "2026-08-07T06:39:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a757d058363eb69498ef40f",
+      "buffer_post_id": "6a757d0ad445a81af5efa1cf",
       "caption_file": "output/2026-08-07/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T06:39:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a757d0ad445a81af5efa1cf",
+          "published_at_utc": "2026-08-07T06:36:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T06:37:38.000Z",
           "buffer_mode": "customScheduled",
@@ -23800,7 +23806,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking-.png",
       "metadata_file": "output/2026-08-07/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking-.json",
-      "published_at_utc": "2026-08-07T06:36:53Z",
+      "published_at_utc": "2026-08-07T06:36:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-tomorrow-tec.png": {
