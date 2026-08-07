@@ -25236,12 +25236,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/doge-s-wild-unverifiable-savings-claims-discredited-in-us-government-r.png": {
-      "buffer_due_at_utc": "2026-08-07T21:22:55.000Z",
+      "buffer_due_at_utc": "2026-08-07T21:24:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a764c838363eb69499b6685",
+      "buffer_post_id": "6a764c89018a9e80fc83431e",
       "caption_file": "output/2026-08-08/doge-s-wild-unverifiable-savings-claims-discredited-in-us-government-r.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T21:24:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a764c89018a9e80fc83431e",
+          "published_at_utc": "2026-08-07T21:22:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T21:22:55.000Z",
           "buffer_mode": "customScheduled",
@@ -25251,7 +25257,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/doge-s-wild-unverifiable-savings-claims-discredited-in-us-government-r.png",
       "metadata_file": "output/2026-08-08/doge-s-wild-unverifiable-savings-claims-discredited-in-us-government-r.json",
-      "published_at_utc": "2026-08-07T21:22:12Z",
+      "published_at_utc": "2026-08-07T21:22:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/fenix-flexin-isn-t-even-denying-using-ai-to-make-rubberz-anymore.png": {
