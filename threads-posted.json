@@ -24109,6 +24109,25 @@
       "published_at_utc": "2026-08-07T05:10:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/openai-is-giving-chatgpt-free-users-unlimited-text-chats.png": {
+      "buffer_due_at_utc": "2026-08-07T11:26:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75b7f98b39b04b79f7156f",
+      "caption_file": "output/2026-08-07/openai-is-giving-chatgpt-free-users-unlimited-text-chats.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T11:26:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75b7f98b39b04b79f7156f",
+          "published_at_utc": "2026-08-07T10:48:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/openai-is-giving-chatgpt-free-users-unlimited-text-chats.png",
+      "metadata_file": "output/2026-08-07/openai-is-giving-chatgpt-free-users-unlimited-text-chats.json",
+      "published_at_utc": "2026-08-07T10:48:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and.png": {
       "buffer_due_at_utc": "2026-08-07T00:41:36.000Z",
       "buffer_mode": "customScheduled",
