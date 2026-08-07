@@ -24009,6 +24009,25 @@
       "published_at_utc": "2026-08-07T08:53:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/meta-ordered-to-pay-an-additional-567-million-in-public-nuisance-rulin.png": {
+      "buffer_due_at_utc": "2026-08-07T10:17:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75ac2c018a9e80fc792c81",
+      "caption_file": "output/2026-08-07/meta-ordered-to-pay-an-additional-567-million-in-public-nuisance-rulin.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T10:17:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75ac2c018a9e80fc792c81",
+          "published_at_utc": "2026-08-07T09:58:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/meta-ordered-to-pay-an-additional-567-million-in-public-nuisance-rulin.png",
+      "metadata_file": "output/2026-08-07/meta-ordered-to-pay-an-additional-567-million-in-public-nuisance-rulin.json",
+      "published_at_utc": "2026-08-07T09:58:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/na-ve-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-runnin.png": {
       "buffer_due_at_utc": "2026-08-07T06:09:26.000Z",
       "buffer_mode": "customScheduled",
