@@ -23709,6 +23709,25 @@
       "published_at_utc": "2026-08-07T07:57:05Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/apple-increases-trade-in-offers-and-adds-new-android-devices.png": {
+      "buffer_due_at_utc": "2026-08-07T11:43:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75c49f018a9e80fc7ad690",
+      "caption_file": "output/2026-08-07/apple-increases-trade-in-offers-and-adds-new-android-devices.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T11:43:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75c49f018a9e80fc7ad690",
+          "published_at_utc": "2026-08-07T11:42:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/apple-increases-trade-in-offers-and-adds-new-android-devices.png",
+      "metadata_file": "output/2026-08-07/apple-increases-trade-in-offers-and-adds-new-android-devices.json",
+      "published_at_utc": "2026-08-07T11:42:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/brendan-carr-officially-unleashes-broadcast-consolidation.png": {
       "buffer_due_at_utc": "2026-08-07T10:00:36.000Z",
       "buffer_mode": "customScheduled",
