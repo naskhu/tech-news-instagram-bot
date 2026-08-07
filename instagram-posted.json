@@ -7975,6 +7975,17 @@
       "published_at_utc": "2026-08-07T13:57:38Z",
       "publisher": "buffer"
     },
+    "output/2026-08-07/why-does-apple-keep-banning-telegram-but-never-x.png": {
+      "buffer_post_id": "6a75ff1a97f5412944293689",
+      "buffer_status": "error",
+      "caption_file": "output/2026-08-07/why-does-apple-keep-banning-telegram-but-never-x.txt",
+      "channel_id": "6a61cb85e2638b94d7bcbdb1",
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/why-does-apple-keep-banning-telegram-but-never-x.png",
+      "metadata_file": "output/2026-08-07/why-does-apple-keep-banning-telegram-but-never-x.json",
+      "publish_result": "buffer_error_not_retried",
+      "published_at_utc": "2026-08-07T15:52:05Z",
+      "publisher": "buffer"
+    },
     "output/2026-08-07/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-tho.png": {
       "buffer_post_id": "6a75cf0b8aa5e1393fa1c3b0",
       "buffer_status": "error",
