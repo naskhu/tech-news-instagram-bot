@@ -24309,6 +24309,25 @@
       "published_at_utc": "2026-08-07T08:53:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/the-messy-politics-behind-google-s-big-ai-shakeup.png": {
+      "buffer_due_at_utc": "2026-08-07T12:02:02.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75c4ab018a9e80fc7ad721",
+      "caption_file": "output/2026-08-07/the-messy-politics-behind-google-s-big-ai-shakeup.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T12:02:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75c4ab018a9e80fc7ad721",
+          "published_at_utc": "2026-08-07T11:42:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/the-messy-politics-behind-google-s-big-ai-shakeup.png",
+      "metadata_file": "output/2026-08-07/the-messy-politics-behind-google-s-big-ai-shakeup.json",
+      "published_at_utc": "2026-08-07T11:42:35Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/the-zelda-movie-s-ganondorf-casting-hints-at-more-movies.png": {
       "buffer_due_at_utc": "2026-08-07T10:57:21.000Z",
       "buffer_mode": "customScheduled",
