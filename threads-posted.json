@@ -23683,6 +23683,25 @@
       "metadata_file": "output/2026-08-07/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-tomorrow-tec.json",
       "published_at_utc": "2026-08-07T00:20:02Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-08-07/openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and.png": {
+      "buffer_due_at_utc": "2026-08-07T00:39:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a7524b7e66d34bb734ad0bf",
+      "caption_file": "output/2026-08-07/openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T00:39:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7524b7e66d34bb734ad0bf",
+          "published_at_utc": "2026-08-07T00:20:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and.png",
+      "metadata_file": "output/2026-08-07/openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and.json",
+      "published_at_utc": "2026-08-07T00:20:07Z",
+      "publisher": "buffer_threads"
     }
   }
 }
