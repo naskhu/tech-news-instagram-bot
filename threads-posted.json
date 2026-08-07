@@ -23660,12 +23660,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/ai-is-now-designing-brand-new-biological-viruses.png": {
-      "buffer_due_at_utc": "2026-08-07T10:48:50.000Z",
+      "buffer_due_at_utc": "2026-08-07T10:50:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a75b7e5018a9e80fc79f695",
+      "buffer_post_id": "6a75b7eb8b39b04b79f714cd",
       "caption_file": "output/2026-08-07/ai-is-now-designing-brand-new-biological-viruses.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T10:50:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75b7eb8b39b04b79f714cd",
+          "published_at_utc": "2026-08-07T10:48:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T10:48:50.000Z",
           "buffer_mode": "customScheduled",
@@ -23675,7 +23681,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/ai-is-now-designing-brand-new-biological-viruses.png",
       "metadata_file": "output/2026-08-07/ai-is-now-designing-brand-new-biological-viruses.json",
-      "published_at_utc": "2026-08-07T10:48:06Z",
+      "published_at_utc": "2026-08-07T10:48:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/anthropic-is-hiring-an-insider-risk-investigator.png": {
