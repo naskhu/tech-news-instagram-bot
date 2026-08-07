@@ -24485,12 +24485,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/sony-could-release-a-cheaper-version-of-its-wh-1000xm4-headphones-acco.png": {
-      "buffer_due_at_utc": "2026-08-07T17:27:00.000Z",
+      "buffer_due_at_utc": "2026-08-07T17:29:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a760c728363eb694997f1f5",
+      "buffer_post_id": "6a760c77eb086b1202c92ff5",
       "caption_file": "output/2026-08-07/sony-could-release-a-cheaper-version-of-its-wh-1000xm4-headphones-acco.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T17:29:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a760c77eb086b1202c92ff5",
+          "published_at_utc": "2026-08-07T16:48:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T17:27:00.000Z",
           "buffer_mode": "customScheduled",
@@ -24500,7 +24506,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/sony-could-release-a-cheaper-version-of-its-wh-1000xm4-headphones-acco.png",
       "metadata_file": "output/2026-08-07/sony-could-release-a-cheaper-version-of-its-wh-1000xm4-headphones-acco.json",
-      "published_at_utc": "2026-08-07T16:48:50Z",
+      "published_at_utc": "2026-08-07T16:48:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/spacex-leaves-its-mark-on-the-moon.png": {
