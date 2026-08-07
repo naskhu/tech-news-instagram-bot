@@ -24359,6 +24359,25 @@
       "published_at_utc": "2026-08-07T08:53:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/trying-to-explain-one-night-only-s-tech-enforced-sex-dystopia.png": {
+      "buffer_due_at_utc": "2026-08-07T11:45:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75b80397f541294424894b",
+      "caption_file": "output/2026-08-07/trying-to-explain-one-night-only-s-tech-enforced-sex-dystopia.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T11:45:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75b80397f541294424894b",
+          "published_at_utc": "2026-08-07T10:48:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/trying-to-explain-one-night-only-s-tech-enforced-sex-dystopia.png",
+      "metadata_file": "output/2026-08-07/trying-to-explain-one-night-only-s-tech-enforced-sex-dystopia.json",
+      "published_at_utc": "2026-08-07T10:48:35Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/two-men-convicted-in-france-over-the-death-of-a-kick-humiliation-strea.png": {
       "buffer_due_at_utc": "2026-08-07T09:52:28.000Z",
       "buffer_mode": "customScheduled",
