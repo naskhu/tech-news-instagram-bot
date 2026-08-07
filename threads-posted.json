@@ -23959,6 +23959,25 @@
       "published_at_utc": "2026-08-07T16:48:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/computer-maker-framework-notifies-all-customers-of-a-data-breach.png": {
+      "buffer_due_at_utc": "2026-08-07T17:08:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a760c658aa5e1393fa5cb5b",
+      "caption_file": "output/2026-08-07/computer-maker-framework-notifies-all-customers-of-a-data-breach.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T17:08:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a760c658aa5e1393fa5cb5b",
+          "published_at_utc": "2026-08-07T16:48:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/computer-maker-framework-notifies-all-customers-of-a-data-breach.png",
+      "metadata_file": "output/2026-08-07/computer-maker-framework-notifies-all-customers-of-a-data-breach.json",
+      "published_at_utc": "2026-08-07T16:48:37Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/daft-punk-s-thomas-bangalter-might-be-a-robot-but-even-he-s-not-intere.png": {
       "buffer_due_at_utc": "2026-08-07T14:03:17.000Z",
       "buffer_mode": "customScheduled",
