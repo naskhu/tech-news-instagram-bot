@@ -23759,6 +23759,25 @@
       "published_at_utc": "2026-08-07T05:10:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/canva-set-its-ai-ambitions-too-high.png": {
+      "buffer_due_at_utc": "2026-08-07T11:07:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75b7ef8b39b04b79f714fd",
+      "caption_file": "output/2026-08-07/canva-set-its-ai-ambitions-too-high.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T11:07:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75b7ef8b39b04b79f714fd",
+          "published_at_utc": "2026-08-07T10:48:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/canva-set-its-ai-ambitions-too-high.png",
+      "metadata_file": "output/2026-08-07/canva-set-its-ai-ambitions-too-high.json",
+      "published_at_utc": "2026-08-07T10:48:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/chatgpt-brings-unlimited-text-chats-to-free-users-techcrunch.png": {
       "buffer_due_at_utc": "2026-08-07T05:31:36.000Z",
       "buffer_mode": "customScheduled",
