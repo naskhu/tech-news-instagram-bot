@@ -23784,6 +23784,25 @@
       "published_at_utc": "2026-08-07T03:22:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/ebay-continues-to-bet-on-live-shopping-after-record-quarter-techcrunch.png": {
+      "buffer_due_at_utc": "2026-08-07T08:16:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a758fd68363eb69498ff9e0",
+      "caption_file": "output/2026-08-07/ebay-continues-to-bet-on-live-shopping-after-record-quarter-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T08:16:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a758fd68363eb69498ff9e0",
+          "published_at_utc": "2026-08-07T07:57:10Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/ebay-continues-to-bet-on-live-shopping-after-record-quarter-techcrunch.png",
+      "metadata_file": "output/2026-08-07/ebay-continues-to-bet-on-live-shopping-after-record-quarter-techcrunch.json",
+      "published_at_utc": "2026-08-07T07:57:10Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isn-t-it-techcr.png": {
       "buffer_due_at_utc": "2026-08-07T04:02:57.000Z",
       "buffer_mode": "customScheduled",
