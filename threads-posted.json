@@ -25336,12 +25336,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/the-only-instant-cameras-worth-your-money.png": {
-      "buffer_due_at_utc": "2026-08-07T21:33:59.000Z",
+      "buffer_due_at_utc": "2026-08-07T21:35:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a7641f0eb086b1202cc0aeb",
+      "buffer_post_id": "6a7641f68aa5e1393fa8b097",
       "caption_file": "output/2026-08-08/the-only-instant-cameras-worth-your-money.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T21:35:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a7641f68aa5e1393fa8b097",
+          "published_at_utc": "2026-08-07T20:37:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T21:33:59.000Z",
           "buffer_mode": "customScheduled",
@@ -25351,7 +25357,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/the-only-instant-cameras-worth-your-money.png",
       "metadata_file": "output/2026-08-08/the-only-instant-cameras-worth-your-money.json",
-      "published_at_utc": "2026-08-07T20:37:05Z",
+      "published_at_utc": "2026-08-07T20:37:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moon-s-shadow.png": {
