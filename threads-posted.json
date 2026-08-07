@@ -25285,6 +25285,25 @@
       "published_at_utc": "2026-08-07T20:36:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500.png": {
+      "buffer_due_at_utc": "2026-08-07T21:41:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a764c8eeb086b1202cc9208",
+      "caption_file": "output/2026-08-08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T21:41:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a764c8eeb086b1202cc9208",
+          "published_at_utc": "2026-08-07T21:22:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500.png",
+      "metadata_file": "output/2026-08-08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500.json",
+      "published_at_utc": "2026-08-07T21:22:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-08/judge-rules-meta-caused-public-nuisance-and-must-fund-mental-health-tr.png": {
       "buffer_due_at_utc": "2026-08-07T20:58:09.000Z",
       "buffer_mode": "customScheduled",
