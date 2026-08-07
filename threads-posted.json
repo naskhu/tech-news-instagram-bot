@@ -24034,6 +24034,25 @@
       "published_at_utc": "2026-08-07T07:57:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/t-mobile-ceo-dismisses-starlink-mobile-threat.png": {
+      "buffer_due_at_utc": "2026-08-07T08:54:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a758feaab236f0ec58b2a66",
+      "caption_file": "output/2026-08-07/t-mobile-ceo-dismisses-starlink-mobile-threat.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T08:54:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a758feaab236f0ec58b2a66",
+          "published_at_utc": "2026-08-07T07:57:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/t-mobile-ceo-dismisses-starlink-mobile-threat.png",
+      "metadata_file": "output/2026-08-07/t-mobile-ceo-dismisses-starlink-mobile-threat.json",
+      "published_at_utc": "2026-08-07T07:57:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-fact.png": {
       "buffer_due_at_utc": "2026-08-07T07:17:28.000Z",
       "buffer_mode": "customScheduled",
