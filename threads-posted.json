@@ -23885,12 +23885,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-re.png": {
-      "buffer_due_at_utc": "2026-08-07T15:10:56.000Z",
+      "buffer_due_at_utc": "2026-08-07T15:12:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a75f0f08363eb694996110b",
+      "buffer_post_id": "6a75f0f68aa5e1393fa3ee13",
       "caption_file": "output/2026-08-07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-re.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T15:12:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75f0f68aa5e1393fa3ee13",
+          "published_at_utc": "2026-08-07T14:51:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T15:10:56.000Z",
           "buffer_mode": "customScheduled",
@@ -23900,7 +23906,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-re.png",
       "metadata_file": "output/2026-08-07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-re.json",
-      "published_at_utc": "2026-08-07T14:51:28Z",
+      "published_at_utc": "2026-08-07T14:51:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/daft-punk-s-thomas-bangalter-might-be-a-robot-but-even-he-s-not-intere.png": {
