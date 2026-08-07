@@ -23685,12 +23685,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-se.png": {
-      "buffer_due_at_utc": "2026-08-07T14:52:01.000Z",
+      "buffer_due_at_utc": "2026-08-07T14:54:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a75f0e48b39b04b79fb098f",
+      "buffer_post_id": "6a75f0ea8b39b04b79fb09c2",
       "caption_file": "output/2026-08-07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-se.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-08-07T14:54:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75f0ea8b39b04b79fb09c2",
+          "published_at_utc": "2026-08-07T14:51:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-08-07T14:52:01.000Z",
           "buffer_mode": "customScheduled",
@@ -23700,7 +23706,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-se.png",
       "metadata_file": "output/2026-08-07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-se.json",
-      "published_at_utc": "2026-08-07T14:51:16Z",
+      "published_at_utc": "2026-08-07T14:51:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-08-07/anthropic-is-hiring-an-insider-risk-investigator.png": {
