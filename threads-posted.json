@@ -24209,6 +24209,25 @@
       "published_at_utc": "2026-08-07T08:53:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-07/the-zelda-movie-s-ganondorf-casting-hints-at-more-movies.png": {
+      "buffer_due_at_utc": "2026-08-07T10:55:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a75ac438b39b04b79f65cd8",
+      "caption_file": "output/2026-08-07/the-zelda-movie-s-ganondorf-casting-hints-at-more-movies.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-08-07T10:55:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a75ac438b39b04b79f65cd8",
+          "published_at_utc": "2026-08-07T09:58:27Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-07/the-zelda-movie-s-ganondorf-casting-hints-at-more-movies.png",
+      "metadata_file": "output/2026-08-07/the-zelda-movie-s-ganondorf-casting-hints-at-more-movies.json",
+      "published_at_utc": "2026-08-07T09:58:27Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-08-07/tiktok-lays-off-250-employees-shutters-its-nashville-office-techcrunch.png": {
       "buffer_due_at_utc": "2026-08-07T07:36:23.000Z",
       "buffer_mode": "customScheduled",
