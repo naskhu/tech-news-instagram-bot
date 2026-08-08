@@ -25837,6 +25837,25 @@
       "zernio_post_id": "6a7793edfd094ca7ad169297",
       "zernio_scheduled_for_utc": "2026-08-08T20:58:33.000Z"
     },
+    "output/2026-08-09/nasa-modded-space-station-s-laptops-so-everyone-could-use-the-same-cha.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/nasa-modded-space-station-s-laptops-so-everyone-could-use-the-same-cha.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-08T21:05:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a779a1ddf2344f6f3cdfcd1",
+          "zernio_scheduled_for_utc": "2026-08-08T21:25:06.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/nasa-modded-space-station-s-laptops-so-everyone-could-use-the-same-cha.png",
+      "metadata_file": "output/2026-08-09/nasa-modded-space-station-s-laptops-so-everyone-could-use-the-same-cha.json",
+      "published_at_utc": "2026-08-08T21:05:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a779a1ddf2344f6f3cdfcd1",
+      "zernio_scheduled_for_utc": "2026-08-08T21:25:06.000Z"
+    },
     "output/2026-08-09/openai-acquires-presentation-startup-nextslide.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/openai-acquires-presentation-startup-nextslide.txt",
