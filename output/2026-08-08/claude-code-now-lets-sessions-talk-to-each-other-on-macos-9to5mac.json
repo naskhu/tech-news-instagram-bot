@@ -1,0 +1,23 @@
+{
+  "title": "Claude Code now lets sessions talk to each other on macOS - 9to5Mac",
+  "summary": "It sends a summary (not your history or files), and the other session picks it up mid-task. pic.twitter.com/PtNsfXeQXP Cross-session messaging lets Claude deliver a message from one of your Claude Code sessions to another.",
+  "source": "9to5Mac",
+  "url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos",
+  "published_utc": "2026-08-07T22:29:59+00:00",
+  "output_day": "2026-08-08",
+  "date_source": "meta",
+  "generated_utc": "2026-08-08T11:47:40.014785+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/claude-code-message.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    255,
+    59,
+    48
+  ],
+  "image": "output/2026-08-08/claude-code-now-lets-sessions-talk-to-each-other-on-macos-9to5mac.png",
+  "caption": "output/2026-08-08/claude-code-now-lets-sessions-talk-to-each-other-on-macos-9to5mac.txt"
+}
