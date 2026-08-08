@@ -25932,6 +25932,25 @@
       "zernio_post_id": "6a779403fd094ca7ad1693f8",
       "zernio_scheduled_for_utc": "2026-08-08T21:23:46.000Z"
     },
+    "output/2026-08-09/what-is-the-lifespan-of-a-data-center-longer-than-you-might-think-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/what-is-the-lifespan-of-a-data-center-longer-than-you-might-think-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-08T21:05:45Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a779a29df2344f6f3ce01f7",
+          "zernio_scheduled_for_utc": "2026-08-08T22:02:56.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/what-is-the-lifespan-of-a-data-center-longer-than-you-might-think-bgr.png",
+      "metadata_file": "output/2026-08-09/what-is-the-lifespan-of-a-data-center-longer-than-you-might-think-bgr.json",
+      "published_at_utc": "2026-08-08T21:05:45Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a779a29df2344f6f3ce01f7",
+      "zernio_scheduled_for_utc": "2026-08-08T22:02:56.000Z"
+    },
     "output/2026-08-09/what-new-google-messages-features-are-rolling-out-august-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/what-new-google-messages-features-are-rolling-out-august-2026.txt",
