@@ -1,0 +1,23 @@
+{
+  "title": "Scientists Used AI to Create 16 New Viruses",
+  "summary": "This breakthrough opens up new possibilities for combating bacterial resistance . Of the 300 synthesized genomes, only 16 gave rise to fully functional bacteriophages, featuring previously unpublished sequences, different genes, new regulatory elements, and even varying genome sizes.",
+  "source": "Wired",
+  "url": "https://wired.com/story/scientists-used-ai-to-create-16-new-viruses",
+  "published_utc": "2026-08-07T14:13:57.339000+00:00",
+  "output_day": "2026-08-08",
+  "date_source": "meta",
+  "generated_utc": "2026-08-08T02:25:05.036177+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/master/pass/virusIA.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-08-08/scientists-used-ai-to-create-16-new-viruses.png",
+  "caption": "output/2026-08-08/scientists-used-ai-to-create-16-new-viruses.txt"
+}
