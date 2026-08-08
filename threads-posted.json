@@ -26084,6 +26084,25 @@
       "zernio_post_id": "6a779249fd608948abecb05a",
       "zernio_scheduled_for_utc": "2026-08-08T20:32:54.000Z"
     },
+    "output/2026-08-09/this-forgotten-sci-fi-robot-movie-has-been-waiting-to-be-discovered-on.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/this-forgotten-sci-fi-robot-movie-has-been-waiting-to-be-discovered-on.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-08T23:49:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a77c0a5a7b4fdb9e190e688",
+          "zernio_scheduled_for_utc": "2026-08-08T23:50:41.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/this-forgotten-sci-fi-robot-movie-has-been-waiting-to-be-discovered-on.png",
+      "metadata_file": "output/2026-08-09/this-forgotten-sci-fi-robot-movie-has-been-waiting-to-be-discovered-on.json",
+      "published_at_utc": "2026-08-08T23:49:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a77c0a5a7b4fdb9e190e688",
+      "zernio_scheduled_for_utc": "2026-08-08T23:50:41.000Z"
+    },
     "output/2026-08-09/two-factor-authentication-is-no-longer-as-safe-thanks-to-this-cybersec.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/two-factor-authentication-is-no-longer-as-safe-thanks-to-this-cybersec.txt",
