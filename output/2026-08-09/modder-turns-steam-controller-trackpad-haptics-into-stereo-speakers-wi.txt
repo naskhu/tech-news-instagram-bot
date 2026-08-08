@@ -1,0 +1,10 @@
+Modder turns Steam Controller trackpad haptics into stereo speakers with custom HID tool — Wired connection transmits 16-bit audio that sounds surprisingly full
+
+As such, Steam Haptics Player takes an audio file, downsamples it through FFmpeg, splits it into chunks of a PCM stream, and sends those packets directly to the controller, bypassing high-level software like Steam Input.
+
+Source: Tom's Hardware
+Read more: https://tomshardware.com/peripherals/controllers-gamepads/modder-turns-steam-controller-trackpad-haptics-into-stereo-speakers-with-custom-hid-tool-wired-connection-transmits-16-bit-audio-that-sounds-surprisingly-full
+
+Follow @news.world.tech for more tech news.
+
+#TechNews #Technology #AI #Innovation #Digital
