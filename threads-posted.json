@@ -25685,6 +25685,25 @@
       "published_at_utc": "2026-08-07T19:50:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-09/china-s-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platfo.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/china-s-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platfo.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-08T20:38:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7793ddb0b453e51f1aaed6",
+          "zernio_scheduled_for_utc": "2026-08-08T20:39:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/china-s-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platfo.png",
+      "metadata_file": "output/2026-08-09/china-s-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platfo.json",
+      "published_at_utc": "2026-08-08T20:38:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7793ddb0b453e51f1aaed6",
+      "zernio_scheduled_for_utc": "2026-08-08T20:39:38.000Z"
+    },
     "output/2026-08-09/iphone-17-pro-vs-iphone-18-pro-buy-now-or-wait-9to5mac.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/iphone-17-pro-vs-iphone-18-pro-buy-now-or-wait-9to5mac.txt",
