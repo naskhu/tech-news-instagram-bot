@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Buffer Threads publishing limits (rolling 24h, separate from Instagram)."""
+"""Threads publishing limits (rolling 24h, separate from Instagram)."""
 
 from __future__ import annotations
 
@@ -7,30 +7,25 @@ import os
 import time
 from datetime import datetime, timezone
 
-# Buffer Threads hard limit is 250 / rolling 24h. Count unique images (not
+# Threads hard limit is 250 / rolling 24h. Count unique images (not
 # per-channel fan-out) so dual profiles stay within the channel limit.
 DAILY_LIMIT = max(1, min(250, int(os.getenv("THREADS_DAILY_LIMIT", "250"))))
-# news.world.tech Threads channel — always published first when present.
-DEFAULT_PRIMARY_CHANNEL_ID = "6a64c576e2638b94d7d25d01"
 
 
 def parse_channel_ids(raw: str | None = None) -> list[str]:
-    """Parse comma/semicolon-separated Buffer Threads channel ids.
+    """Parse comma/semicolon-separated Zernio Threads account ids.
 
-    Primary channel (news.world.tech by default) is always ordered first so the
-    same story releases there before secondary profiles like naskhu.
+    The configured primary account is always ordered first.
     """
-    text = (raw if raw is not None else os.getenv("BUFFER_THREADS_CHANNEL_ID", "")).strip()
+    configured = os.getenv("ZERNIO_THREADS_ACCOUNT_IDS", "")
+    text = (raw if raw is not None else configured).strip()
     ids: list[str] = []
     for part in text.replace(";", ",").split(","):
         channel_id = part.strip()
         if channel_id and channel_id not in ids:
             ids.append(channel_id)
 
-    primary = (
-        os.getenv("BUFFER_THREADS_PRIMARY_CHANNEL_ID", DEFAULT_PRIMARY_CHANNEL_ID).strip()
-        or DEFAULT_PRIMARY_CHANNEL_ID
-    )
+    primary = os.getenv("ZERNIO_THREADS_PRIMARY_ACCOUNT_ID", "").strip()
     if primary and primary in ids:
         ids = [primary] + [channel_id for channel_id in ids if channel_id != primary]
     return ids
@@ -126,7 +121,7 @@ def count_posted_last_24h(state: dict) -> int:
         if not isinstance(entry, dict):
             continue
         publisher = str(entry.get("publisher", "buffer_threads")).lower()
-        if publisher not in {"buffer_threads", "buffer", ""}:
+        if publisher not in {"zernio_threads", "buffer_threads", "buffer", ""}:
             continue
         ts = entry_latest_publish_ts(entry)
         if ts is not None and ts >= cutoff:

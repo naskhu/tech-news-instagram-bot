@@ -51,8 +51,9 @@ jobs:
         env:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           MANUAL_MAX_POSTS: ${{ inputs.max_posts || 'all' }}
-          # Needed so pending count knows about dual-channel fan-out.
-          BUFFER_THREADS_CHANNEL_ID: ${{ secrets.BUFFER_THREADS_CHANNEL_ID }}
+          # Needed so pending count knows about dual-account fan-out.
+          ZERNIO_THREADS_ACCOUNT_IDS: ${{ secrets.ZERNIO_THREADS_ACCOUNT_IDS }}
+          ZERNIO_THREADS_PRIMARY_ACCOUNT_ID: ${{ secrets.ZERNIO_THREADS_PRIMARY_ACCOUNT_ID }}
           THREADS_DAILY_LIMIT: "250"
           THREADS_MAX_PER_SCHEDULE_TICK: "250"
           THREADS_MAX_PER_GENERATE_TICK: "250"
@@ -61,20 +62,20 @@ jobs:
           THREADS_SECONDARY_DELAY_SECONDS: "120"
         run: python3 choose_threads_publish_plan.py
 
-      - name: Require Buffer Threads secrets
+      - name: Require Zernio Threads secrets
         id: secrets
         if: steps.plan.outputs.should_publish == 'true'
         env:
-          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
-          BUFFER_THREADS_CHANNEL_ID: ${{ secrets.BUFFER_THREADS_CHANNEL_ID }}
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          ZERNIO_THREADS_ACCOUNT_IDS: ${{ secrets.ZERNIO_THREADS_ACCOUNT_IDS }}
         run: |
-          if [ -z "$BUFFER_ACCESS_TOKEN" ] || [ -z "$BUFFER_THREADS_CHANNEL_ID" ]; then
+          if [ -z "$ZERNIO_API_KEY" ] || [ -z "$ZERNIO_THREADS_ACCOUNT_IDS" ]; then
             echo "has_secrets=false" >> "$GITHUB_OUTPUT"
-            echo "::notice title=Threads secrets missing::Set BUFFER_ACCESS_TOKEN and BUFFER_THREADS_CHANNEL_ID (comma-separated Buffer Threads channel ids for dual profiles)."
+            echo "::notice title=Zernio Threads secrets missing::Set ZERNIO_API_KEY and ZERNIO_THREADS_ACCOUNT_IDS (comma-separated Zernio account ids)."
             exit 0
           fi
           echo "has_secrets=true" >> "$GITHUB_OUTPUT"
-          echo "Threads channel id(s): $BUFFER_THREADS_CHANNEL_ID"
+          echo "Zernio Threads account count: $(awk -F, '{print NF}' <<< "$ZERNIO_THREADS_ACCOUNT_IDS")"
 
       - name: Set up Python
         if: steps.plan.outputs.should_publish == 'true' && steps.secrets.outputs.has_secrets == 'true'
@@ -87,11 +88,12 @@ jobs:
         if: steps.plan.outputs.should_publish == 'true' && steps.secrets.outputs.has_secrets == 'true'
         run: python -m pip install --disable-pip-version-check requests==2.32.4
 
-      - name: Publish queued posts to Threads via Buffer
+      - name: Publish queued posts to Threads via Zernio
         if: steps.plan.outputs.should_publish == 'true' && steps.secrets.outputs.has_secrets == 'true'
         env:
-          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
-          BUFFER_THREADS_CHANNEL_ID: ${{ secrets.BUFFER_THREADS_CHANNEL_ID }}
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          ZERNIO_THREADS_ACCOUNT_IDS: ${{ secrets.ZERNIO_THREADS_ACCOUNT_IDS }}
+          ZERNIO_THREADS_PRIMARY_ACCOUNT_ID: ${{ secrets.ZERNIO_THREADS_PRIMARY_ACCOUNT_ID }}
           MAX_POSTS_PER_RUN: ${{ steps.plan.outputs.max_posts }}
           PUBLISH_MODE: ${{ steps.plan.outputs.mode }}
           DRAIN_WITHIN_SECONDS: ${{ steps.plan.outputs.drain_seconds }}
@@ -100,12 +102,11 @@ jobs:
           GITHUB_REF_NAME: main
           THREADS_DAILY_LIMIT: "250"
           THREADS_TOPIC: TechNews
-          # FIFO Buffer dueAt evenly spaced within the next hour (clamped to midnight).
+          # FIFO Zernio scheduledFor times within the next hour (clamped to midnight).
           # Plan switches to shareNow flush in the last ~90 minutes so leftovers are not missed.
           THREADS_SCHEDULE_WINDOW_SECONDS: "3600"
           THREADS_FLUSH_BEFORE_MIDNIGHT_SECONDS: "5400"
-          # Primary release: news.world.tech, then naskhu ~2 minutes later.
-          BUFFER_THREADS_PRIMARY_CHANNEL_ID: "6a64c576e2638b94d7d25d01"
+          # Primary account first, then secondary profiles ~2 minutes later.
           THREADS_SECONDARY_DELAY_SECONDS: "120"
         run: |
           echo "Pending unpublished posts: ${{ steps.plan.outputs.pending }}"
