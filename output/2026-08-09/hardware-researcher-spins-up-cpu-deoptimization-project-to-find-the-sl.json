@@ -1,0 +1,23 @@
+{
+  "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
+  "summary": "One hardware researcher, Christopher Domas (@xoreaxeaxeax on GitHub), is taking a different approach with the CPU Deoptimization leaderboard, which looks not to make Assembly instructions run as fast as possible, but as slow as possible to measure the single instruction with the…",
+  "source": "Tom's Hardware",
+  "url": "https://tomshardware.com/pc-components/cpus/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-slowest-machine-code-worst-offender-takes-198-billion-cycles-to-execute",
+  "published_utc": "2026-08-08T11:20:00+00:00",
+  "output_day": "2026-08-09",
+  "date_source": "meta",
+  "generated_utc": "2026-08-08T20:22:44.405007+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.mos.cms.futurecdn.net/DFYP2Cmq3awUVLaoNhZg2S-1280-80.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    102,
+    204
+  ],
+  "image": "output/2026-08-09/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-sl.png",
+  "caption": "output/2026-08-09/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-sl.txt"
+}
