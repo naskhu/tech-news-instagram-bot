@@ -1,0 +1,23 @@
+{
+  "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+  "summary": "Metabase SQLi zero-day exploited in customer data-theft attacks CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws N-able warns of N-central auth bypass flaw exploited in attacks Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors",
+  "published_utc": "2026-08-08T14:16:23+00:00",
+  "output_day": "2026-08-08",
+  "date_source": "rss",
+  "generated_utc": "2026-08-08T14:53:12.807915+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/05/19/box.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-08/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors.png",
+  "caption": "output/2026-08-08/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors.txt"
+}
