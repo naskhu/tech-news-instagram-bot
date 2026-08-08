@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish generated Tech News posts to Threads through Buffer's GraphQL API.
+"""Publish generated Tech News posts to Threads through Zernio.
 
 Uses the same public git-hosted images as Instagram publishing. Tracks progress
 in threads-posted.json so Instagram and Threads queues stay independent.
@@ -35,6 +35,13 @@ from publish_limits import (
     today_folder_name,
     today_output_dir,
 )
+from zernio_client import (
+    ZernioDailyLimitReached,
+    ZernioError,
+    ZernioRateLimitReached,
+    create_post,
+    request_id,
+)
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
@@ -44,11 +51,10 @@ MAX_POSTS = max(1, int(os.getenv("MAX_POSTS_PER_RUN", "1")))
 PUBLISH_MODE = os.getenv("PUBLISH_MODE", "batch").strip().lower() or "batch"
 DRAIN_WITHIN_SECONDS = max(0, int(os.getenv("DRAIN_WITHIN_SECONDS", "0")))
 COMMIT_STATE_EACH_POST = os.getenv("COMMIT_STATE_EACH_POST", "").strip() == "1"
-BUFFER_API_URL = os.getenv("BUFFER_API_URL", "https://api.buffer.com")
 THREADS_TOPIC = os.getenv("THREADS_TOPIC", "TechNews").strip() or "TechNews"
 # Threads hard limit is 500 characters per message.
 THREADS_MAX_CHARS = max(80, min(500, int(os.getenv("THREADS_MAX_CHARS", "500"))))
-# FIFO Buffer customScheduled times evenly spaced inside the next hour
+# FIFO Zernio scheduled times evenly spaced inside the next hour
 # (clamped to local midnight). Oldest pending posts go out first.
 PREFERRED_SCHEDULE_WINDOW_SECONDS = max(
     120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "3600"))
@@ -60,36 +66,17 @@ SCHEDULE_WINDOW_SECONDS = schedule_window_seconds_until_midnight(
 SCHEDULE_MIN_OFFSET_SECONDS = max(20, int(os.getenv("THREADS_SCHEDULE_MIN_OFFSET_SECONDS", "45")))
 # Delay secondary profiles (e.g. naskhu) after primary (news.world.tech) dueAt.
 SECONDARY_DELAY_SECONDS = max(0, min(600, int(os.getenv("THREADS_SECONDARY_DELAY_SECONDS", "120"))))
-# Small pause between Buffer API create calls (scheduling is handled by dueAt).
+# Small pause between Zernio API create calls.
 API_GAP_SECONDS = max(1, int(os.getenv("THREADS_API_GAP_SECONDS", "3")))
 MIDNIGHT_RESERVE_SECONDS = max(0, int(os.getenv("THREADS_MIDNIGHT_RESERVE_SECONDS", "180")))
 
-CREATE_POST_MUTATION = """
-mutation CreatePost($input: CreatePostInput!) {
-  createPost(input: $input) {
-    __typename
-    ... on PostActionSuccess {
-      post {
-        id
-        status
-        text
-        dueAt
-      }
-    }
-    ... on MutationError {
-      message
-    }
-  }
-}
-"""
-
 
 class DailyLimitReached(RuntimeError):
-    """Threads/Buffer daily scheduling limit was hit; retry later."""
+    """Threads daily scheduling limit was hit; retry later."""
 
 
-class RateLimitReached(RuntimeError):
-    """Buffer API rate limit was hit; retry after the window resets."""
+class RateLimitReached(ZernioRateLimitReached):
+    """Zernio API rate limit was hit; retry later."""
 
 
 class MissingPostFiles(RuntimeError):
@@ -121,6 +108,22 @@ def save_state(state: dict[str, Any]) -> None:
     )
 
 
+def generated_order_key(image: Path) -> tuple[str, str]:
+    """Stable FIFO key from committed metadata, independent of checkout mtime."""
+    metadata = image.with_suffix(".json")
+    if metadata.exists():
+        try:
+            loaded = json.loads(metadata.read_text(encoding="utf-8"))
+            if isinstance(loaded, dict):
+                generated = str(loaded.get("generated_utc") or "").strip()
+                if generated:
+                    return generated, image.as_posix()
+        except (OSError, json.JSONDecodeError):
+            pass
+    # Legacy posts without generated_utc remain deterministic.
+    return "", image.as_posix()
+
+
 def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | None]]:
     """Only today's local folder — never queue previous-day posts after rollover."""
     posted = state.get("posted", {})
@@ -133,7 +136,7 @@ def list_unpublished(state: dict[str, Any]) -> list[tuple[Path, Path, Path | Non
 
     images = sorted(
         day_dir.glob("*.png"),
-        key=lambda path: (path.stat().st_mtime, path.as_posix()),
+        key=generated_order_key,
     )
     for image in images:
         relative = image.as_posix()
@@ -176,7 +179,7 @@ def assert_daily_quota(state: dict[str, Any]) -> None:
             f"Threads rolling 24h cap reached ({used}/{DAILY_LIMIT}). "
             "Resume after older posts age out of the window."
         )
-    print(f"Threads Buffer usage (24h): {used}/{DAILY_LIMIT} ({left} left)")
+    print(f"Threads API usage (24h): {used}/{DAILY_LIMIT} ({left} left)")
 
 
 def public_image_url(image: Path) -> str:
@@ -203,25 +206,6 @@ def wait_for_public_image(image_url: str, attempts: int = 12, delay_seconds: flo
 
     raise MissingPostFiles(
         f"Image is not publicly available from git yet: {image_url} ({last_error})"
-    )
-
-
-def is_daily_limit_error(message: object) -> bool:
-    text = str(message or "").lower()
-    return (
-        "maximum number of posts" in text
-        or ("threads" in text and "limit" in text and "day" in text)
-        or ("daily" in text and "limit" in text)
-    )
-
-
-def is_rate_limit_error(message: object) -> bool:
-    text = str(message or "").lower()
-    return (
-        "rate_limit_exceeded" in text
-        or "too many requests" in text
-        or '"code": "rate_limit' in text
-        or "http 429" in text
     )
 
 
@@ -290,44 +274,6 @@ def build_threads_caption(caption_file: Path, metadata: Path | None) -> str:
     return f"{body}\n\n{topic_line}"
 
 
-def buffer_graphql(
-    access_token: str,
-    query: str,
-    variables: dict[str, Any] | None = None,
-) -> dict[str, Any]:
-    response = requests.post(
-        BUFFER_API_URL,
-        headers={
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {access_token}",
-        },
-        json={"query": query, "variables": variables or {}},
-        timeout=90,
-    )
-    try:
-        payload = response.json()
-    except ValueError as exc:
-        raise RuntimeError(
-            f"Buffer API returned non-JSON HTTP {response.status_code}: {response.text[:300]}"
-        ) from exc
-
-    if not response.ok:
-        body = json.dumps(payload)
-        if is_daily_limit_error(body):
-            raise DailyLimitReached(body)
-        if response.status_code == 429 or is_rate_limit_error(body):
-            raise RateLimitReached(body)
-        raise RuntimeError(f"Buffer API HTTP {response.status_code}: {body}")
-    if payload.get("errors"):
-        body = json.dumps(payload["errors"])
-        if is_daily_limit_error(body):
-            raise DailyLimitReached(body)
-        if is_rate_limit_error(body):
-            raise RateLimitReached(body)
-        raise RuntimeError(f"Buffer GraphQL errors: {body}")
-    return payload
-
-
 def allocate_due_ats(count: int) -> list[str]:
     """FIFO dueAt times evenly spaced inside the next schedule window (default 1h).
 
@@ -375,8 +321,8 @@ def shift_due_at(due_at: str | None, delay_seconds: int) -> str | None:
 
 
 def publish_post(
-    access_token: str,
-    channel_id: str,
+    api_key: str,
+    account_id: str,
     image: Path,
     caption_file: Path,
     metadata: Path | None,
@@ -393,58 +339,44 @@ def publish_post(
     image_url = public_image_url(image)
     wait_for_public_image(image_url)
 
-    post_input: dict[str, Any] = {
-        "text": caption,
-        "channelId": channel_id,
-        "schedulingType": "automatic",
-        "assets": [{"image": {"url": image_url}}],
-        "metadata": {
-            "threads": {
-                "type": "post",
-                "topic": THREADS_TOPIC.lstrip("#"),
-            }
-        },
-    }
     if due_at:
-        post_input["mode"] = "customScheduled"
-        post_input["dueAt"] = due_at
-        print(f"Creating Buffer Threads post for {image.as_posix()} dueAt={due_at}")
+        print(f"Creating Zernio Threads post for {image.as_posix()} scheduledFor={due_at}")
     else:
-        post_input["mode"] = "shareNow"
-        print(f"Creating Buffer Threads post for {image.as_posix()} (shareNow)")
+        print(f"Creating Zernio Threads post for {image.as_posix()} (publishNow)")
 
-    payload = buffer_graphql(
-        access_token,
-        CREATE_POST_MUTATION,
-        {"input": post_input},
-    )
-
-    result = (payload.get("data") or {}).get("createPost") or {}
-    typename = result.get("__typename")
-    if typename == "MutationError" or result.get("message"):
-        message = result.get("message") or result
-        if is_daily_limit_error(message):
-            raise DailyLimitReached(str(message))
-        if is_rate_limit_error(message):
-            raise RateLimitReached(str(message))
-        raise RuntimeError(f"Buffer rejected Threads post: {message}")
-    if typename != "PostActionSuccess" or not result.get("post", {}).get("id"):
-        raise RuntimeError(f"Unexpected Buffer createPost response: {json.dumps(result)}")
-
-    post_id = str(result["post"]["id"])
-    status = str(result["post"].get("status") or "").strip().lower()
-    print(f"Buffer Threads post created: id={post_id} status={status or 'unknown'}")
-    if status in {"error", "failed", "rejected"}:
-        raise RuntimeError(
-            f"Buffer created Threads post {post_id} but status={status}. "
-            "Check Buffer → Threads channel (connect Threads / plan limits)."
+    try:
+        created = create_post(
+            api_key,
+            platform="threads",
+            account_id=account_id,
+            content=caption,
+            image_url=image_url,
+            scheduled_for=due_at,
+            publish_now=not bool(due_at),
+            idempotency_key=request_id(
+                "threads",
+                account_id,
+                image.as_posix(),
+                due_at or "now",
+            ),
         )
-    return post_id, due_at
+    except ZernioDailyLimitReached as exc:
+        raise DailyLimitReached(str(exc)) from exc
+    except ZernioRateLimitReached as exc:
+        raise RateLimitReached(str(exc)) from exc
+    except ZernioError as exc:
+        raise RuntimeError(f"Zernio rejected Threads post: {exc}") from exc
+
+    print(
+        f"Zernio Threads post accepted: id={created.post_id} "
+        f"status={created.status}"
+    )
+    return created.post_id, due_at
 
 
 def record_post(
     state: dict[str, Any],
-    channel_id: str,
+    account_id: str,
     image: Path,
     caption: Path,
     metadata: Path | None,
@@ -477,33 +409,33 @@ def record_post(
             channels[old_id] = legacy
 
     channel_entry: dict[str, Any] = {
-        "buffer_post_id": post_id,
+        "zernio_post_id": post_id,
         "published_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
     }
     if due_at:
-        channel_entry["buffer_due_at_utc"] = due_at
-        channel_entry["buffer_mode"] = "customScheduled"
+        channel_entry["zernio_scheduled_for_utc"] = due_at
+        channel_entry["zernio_mode"] = "scheduled"
     else:
-        channel_entry["buffer_mode"] = "shareNow"
-    channels[channel_id] = channel_entry
+        channel_entry["zernio_mode"] = "publishNow"
+    channels[account_id] = channel_entry
 
     entry.update(
         {
             "channels": channels,
-            "channel_id": channel_id,
-            "buffer_post_id": post_id,
-            "publisher": "buffer_threads",
+            "account_id": account_id,
+            "zernio_post_id": post_id,
+            "publisher": "zernio_threads",
             "caption_file": caption.as_posix(),
             "metadata_file": metadata.as_posix() if metadata else None,
             "image_url": public_image_url(image),
             "published_at_utc": channel_entry["published_at_utc"],
-            "buffer_mode": channel_entry["buffer_mode"],
+            "zernio_mode": channel_entry["zernio_mode"],
         }
     )
     if due_at:
-        entry["buffer_due_at_utc"] = due_at
-    elif "buffer_due_at_utc" in entry:
-        entry.pop("buffer_due_at_utc", None)
+        entry["zernio_scheduled_for_utc"] = due_at
+    else:
+        entry.pop("zernio_scheduled_for_utc", None)
 
     state["posted"][relative] = entry
     save_state(state)
@@ -552,8 +484,8 @@ def commit_state_to_git() -> None:
 
 
 def publish_one_channel(
-    access_token: str,
-    channel_id: str,
+    api_key: str,
+    account_id: str,
     state: dict[str, Any],
     image: Path,
     caption: Path,
@@ -565,8 +497,8 @@ def publish_one_channel(
     if metadata is not None and not metadata.exists():
         metadata = None
     post_id, scheduled_due_at = publish_post(
-        access_token,
-        channel_id,
+        api_key,
+        account_id,
         image,
         caption,
         metadata,
@@ -574,7 +506,7 @@ def publish_one_channel(
     )
     record_post(
         state,
-        channel_id,
+        account_id,
         image,
         caption,
         metadata,
@@ -582,8 +514,8 @@ def publish_one_channel(
         due_at=scheduled_due_at,
     )
     print(
-        f"Published {image.as_posix()} to Threads channel {channel_id} "
-        f"as Buffer post {post_id}"
+        f"Published {image.as_posix()} to Threads account {account_id} "
+        f"as Zernio post {post_id}"
     )
     commit_state_to_git()
     refreshed = load_state()
@@ -592,8 +524,8 @@ def publish_one_channel(
 
 
 def publish_one(
-    access_token: str,
-    channel_ids: list[str],
+    api_key: str,
+    account_ids: list[str],
     state: dict[str, Any],
     image: Path,
     caption: Path,
@@ -604,29 +536,29 @@ def publish_one(
     assert_daily_quota(state)
     relative = image.as_posix()
     existing = state.get("posted", {}).get(relative)
-    pending_channels = missing_channel_ids(existing, channel_ids)
+    pending_channels = missing_channel_ids(existing, account_ids)
     if not pending_channels:
         print(f"Already fully posted on all Threads channels: {relative}")
         return
 
-    # channel_ids are primary-first; secondary profiles get a later dueAt.
-    primary_id = channel_ids[0] if channel_ids else ""
-    for index, channel_id in enumerate(pending_channels):
+    # Account ids are primary-first; secondary profiles get a later scheduledFor.
+    primary_id = account_ids[0] if account_ids else ""
+    for index, account_id in enumerate(pending_channels):
         channel_due_at = due_at
         if (
             due_at
             and primary_id
-            and channel_id != primary_id
+            and account_id != primary_id
             and SECONDARY_DELAY_SECONDS > 0
         ):
             channel_due_at = shift_due_at(due_at, SECONDARY_DELAY_SECONDS)
             print(
-                f"Secondary channel {channel_id}: dueAt delayed "
+                f"Secondary account {account_id}: scheduledFor delayed "
                 f"+{SECONDARY_DELAY_SECONDS}s after primary {primary_id}"
             )
         publish_one_channel(
-            access_token,
-            channel_id,
+            api_key,
+            account_id,
             state,
             image,
             caption,
@@ -637,7 +569,7 @@ def publish_one(
             time.sleep(API_GAP_SECONDS)
 
 
-def publish_batch(access_token: str, channel_ids: list[str]) -> int:
+def publish_batch(api_key: str, account_ids: list[str]) -> int:
     """Enqueue today's pending posts before local midnight.
 
     Normal mode: FIFO customScheduled dueAt evenly spaced within ~1 hour.
@@ -669,11 +601,11 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
     due_ats: list[str | None]
     if flush_mode:
         due_ats = [None] * target
-        channels_label = ", ".join(channel_ids)
+        channels_label = ", ".join(account_ids)
         print(
             f"Flushing up to {target} Threads post(s) from today only "
             f"({today_folder_name()}) with shareNow before midnight "
-            f"({until_midnight}s left); channel(s) [{channels_label}]."
+            f"({until_midnight}s left); account(s) [{channels_label}]."
         )
     else:
         due_ats = [
@@ -682,13 +614,13 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
             )
             for due in allocate_due_ats(target)
         ]
-        channels_label = ", ".join(channel_ids)
+        channels_label = ", ".join(account_ids)
         print(
             f"Scheduling up to {target} Threads post(s) from today only "
-            f"({today_folder_name()}); FIFO primary-first channel(s) "
+            f"({today_folder_name()}); FIFO primary-first account(s) "
             f"[{channels_label}] evenly within {SCHEDULE_WINDOW_SECONDS}s "
             f"(secondary +{SECONDARY_DELAY_SECONDS}s, never past local midnight) "
-            "via Buffer customScheduled."
+            "via Zernio scheduling."
         )
 
     while published < target:
@@ -719,8 +651,8 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
             )
         try:
             publish_one(
-                access_token,
-                channel_ids,
+                api_key,
+                account_ids,
                 state,
                 image,
                 caption,
@@ -745,7 +677,7 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
         except RateLimitReached as exc:
             leftover = len(list_unpublished(load_state()))
             print(
-                f"Buffer rate limit hit after {published} post(s): {exc}. "
+                f"Zernio rate limit hit after {published} post(s): {exc}. "
                 f"Leaving {leftover} queued for later automatic runs."
             )
             return published
@@ -758,21 +690,20 @@ def publish_batch(access_token: str, channel_ids: list[str]) -> int:
     return published
 
 
-def drain_queue(access_token: str, channel_ids: list[str]) -> int:
-    # Prefer Buffer-side scheduling; keep drain as a thin wrapper.
-    return publish_batch(access_token, channel_ids)
+def drain_queue(api_key: str, account_ids: list[str]) -> int:
+    return publish_batch(api_key, account_ids)
 
 
 def main() -> int:
-    access_token = required_env("BUFFER_ACCESS_TOKEN")
-    channel_ids = parse_channel_ids(required_env("BUFFER_THREADS_CHANNEL_ID"))
-    if not channel_ids:
-        raise RuntimeError("BUFFER_THREADS_CHANNEL_ID has no channel ids")
+    api_key = required_env("ZERNIO_API_KEY")
+    account_ids = parse_channel_ids(required_env("ZERNIO_THREADS_ACCOUNT_IDS"))
+    if not account_ids:
+        raise RuntimeError("ZERNIO_THREADS_ACCOUNT_IDS has no account ids")
 
     if PUBLISH_MODE == "drain" and DRAIN_WITHIN_SECONDS > 0:
-        published = drain_queue(access_token, channel_ids)
+        published = drain_queue(api_key, account_ids)
     else:
-        published = publish_batch(access_token, channel_ids)
+        published = publish_batch(api_key, account_ids)
 
     print(f"Finished Threads publish run. Posted {published} item(s).")
     return 0
@@ -790,7 +721,7 @@ if __name__ == "__main__":
         raise SystemExit(0)
     except RateLimitReached as exc:
         print(
-            f"Buffer rate limit reached: {exc}. "
+            f"Zernio rate limit reached: {exc}. "
             "Queued posts will retry after the API window resets.",
             file=sys.stderr,
         )

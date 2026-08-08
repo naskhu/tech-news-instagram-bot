@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Decide Buffer Threads publish plan (rolling 250 / 24h cap).
+"""Decide Zernio Threads publish plan (rolling 250 / 24h cap).
 
 Only today's local output folder is eligible. Previous-day posts are never
 queued after the next Maldives day starts. After Generate (and schedule
-backups), enqueue today's pending posts FIFO within the next hour so Buffer
+backups), enqueue today's pending posts FIFO within the next hour so Zernio
 releases them before local midnight.
 """
 
