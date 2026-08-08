@@ -25742,6 +25742,25 @@
       "zernio_post_id": "6a7792d72aef18b33556ddab",
       "zernio_scheduled_for_utc": "2026-08-08T20:35:15.000Z"
     },
+    "output/2026-08-09/openai-acquires-presentation-startup-nextslide.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/openai-acquires-presentation-startup-nextslide.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-08T20:39:04Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7793e8fd094ca7ad169097",
+          "zernio_scheduled_for_utc": "2026-08-08T20:52:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/openai-acquires-presentation-startup-nextslide.png",
+      "metadata_file": "output/2026-08-09/openai-acquires-presentation-startup-nextslide.json",
+      "published_at_utc": "2026-08-08T20:39:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7793e8fd094ca7ad169097",
+      "zernio_scheduled_for_utc": "2026-08-08T20:52:15.000Z"
+    },
     "output/2026-08-09/this-clip-from-2000-of-someone-creating-a-digital-doppelganger-is-weir.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/this-clip-from-2000-of-someone-creating-a-digital-doppelganger-is-weir.txt",
