@@ -1,0 +1,23 @@
+{
+  "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+  "summary": "On a benchmark of long-horizon questions over production repositories, a team of agents powered by AgentRadio nearly doubled task accuracy for four Claude Code agents working independently. The create_thread primitive opens a conversation between participating agents.",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+  "published_utc": "2026-08-07T21:45:39+00:00",
+  "output_day": "2026-08-08",
+  "date_source": "rss",
+  "generated_utc": "2026-08-08T07:34:44.354562+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5XSt4gOHH2WQdbifIoXK6w%2F00bfc6d7266a45109f92821ac8555cec%2FMulti-agent_cooperation.jpg%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-08/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-.png",
+  "caption": "output/2026-08-08/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-.txt"
+}
