@@ -25761,6 +25761,25 @@
       "zernio_post_id": "6a77ac7e77b47703e17cc1ac",
       "zernio_scheduled_for_utc": "2026-08-08T23:21:10.000Z"
     },
+    "output/2026-08-09/a-12-year-old-from-scotland-created-a-life-saving-solar-invention-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/a-12-year-old-from-scotland-created-a-life-saving-solar-invention-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-08T23:50:04Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a77c0ab0a35f61028b42662",
+          "zernio_scheduled_for_utc": "2026-08-09T00:09:36.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/a-12-year-old-from-scotland-created-a-life-saving-solar-invention-bgr.png",
+      "metadata_file": "output/2026-08-09/a-12-year-old-from-scotland-created-a-life-saving-solar-invention-bgr.json",
+      "published_at_utc": "2026-08-08T23:50:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a77c0ab0a35f61028b42662",
+      "zernio_scheduled_for_utc": "2026-08-09T00:09:36.000Z"
+    },
     "output/2026-08-09/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-.txt",
