@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-08T03:55:03.489677+00:00",
+  "run_utc": "2026-08-08T04:50:05.245106+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-07T03:55:03.489815+00:00",
-  "eligible_story_count": 213,
+  "cutoff_utc": "2026-08-07T04:50:05.245249+00:00",
+  "eligible_story_count": 208,
   "sources": [
     {
       "source": "TechCrunch",
@@ -26,11 +26,13 @@
       ],
       "rss_candidates": 20,
       "page_links": 27,
-      "page_articles": 27,
+      "page_articles": 26,
       "eligible_new": 0,
       "already_processed": 27,
       "older_than_window": 0,
-      "metadata_errors": {}
+      "metadata_errors": {
+        "http_403": 1
+      }
     },
     {
       "source": "The Verge",
@@ -145,8 +147,8 @@
       "already_processed": 0,
       "older_than_window": 19,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -252,7 +254,7 @@
       "page_articles": 40,
       "eligible_new": 12,
       "already_processed": 8,
-      "older_than_window": 95,
+      "older_than_window": 96,
       "metadata_errors": {}
     },
     {
@@ -392,12 +394,12 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 68,
+      "eligible_new": 67,
       "already_processed": 0,
-      "older_than_window": 29,
+      "older_than_window": 30,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 5
       }
     },
     {
@@ -461,8 +463,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 8,
-      "already_processed": 14,
+      "eligible_new": 4,
+      "already_processed": 18,
       "older_than_window": 47,
       "metadata_errors": {}
     },
@@ -558,7 +560,7 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 26,
+          "links": 24,
           "error": ""
         },
         {
@@ -569,13 +571,13 @@
         }
       ],
       "rss_candidates": 15,
-      "page_links": 29,
-      "page_articles": 13,
+      "page_links": 27,
+      "page_articles": 6,
       "eligible_new": 5,
       "already_processed": 0,
-      "older_than_window": 16,
+      "older_than_window": 13,
       "metadata_errors": {
-        "http_429": 16
+        "http_429": 21
       }
     },
     {
