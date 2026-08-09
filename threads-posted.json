@@ -26084,6 +26084,25 @@
       "zernio_post_id": "6a78391eba52450b4f08e061",
       "zernio_scheduled_for_utc": "2026-08-09T09:02:23.000Z"
     },
+    "output/2026-08-09/brand-your-products-not-your-customers.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/brand-your-products-not-your-customers.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T13:52:37Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a788625354e61a0d6568a72",
+          "zernio_scheduled_for_utc": "2026-08-09T14:12:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/brand-your-products-not-your-customers.png",
+      "metadata_file": "output/2026-08-09/brand-your-products-not-your-customers.json",
+      "published_at_utc": "2026-08-09T13:52:37Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a788625354e61a0d6568a72",
+      "zernio_scheduled_for_utc": "2026-08-09T14:12:11.000Z"
+    },
     "output/2026-08-09/china-s-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platfo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/china-s-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platfo.txt",
