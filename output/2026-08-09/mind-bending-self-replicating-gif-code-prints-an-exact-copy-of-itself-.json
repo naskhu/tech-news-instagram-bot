@@ -1,0 +1,23 @@
+{
+  "title": "Mind-bending self-replicating GIF code prints an exact copy of itself, is both a program and its own visual output — champion coder shows off 'Piet Quine' technique",
+  "summary": "Their latest confection is a Piet Quine – a GIF image that prints itself. The Piet interpreter scans the source GIF image in a ‘load data’ phase, followed by a read of the GIF file header and palette info.",
+  "source": "Tom's Hardware",
+  "url": "https://tomshardware.com/software/programming/mind-bending-self-replicating-gif-code-prints-an-exact-copy-of-itself-is-both-a-program-and-its-own-visual-output-champion-coder-shows-off-piet-quine-technique",
+  "published_utc": "2026-08-09T11:40:00+00:00",
+  "output_day": "2026-08-09",
+  "date_source": "meta",
+  "generated_utc": "2026-08-09T12:00:53.277968+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.mos.cms.futurecdn.net/ssqoE4QEPXAiApwKP3R6BG-1280-80.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    102,
+    204
+  ],
+  "image": "output/2026-08-09/mind-bending-self-replicating-gif-code-prints-an-exact-copy-of-itself-.png",
+  "caption": "output/2026-08-09/mind-bending-self-replicating-gif-code-prints-an-exact-copy-of-itself-.txt"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "The Reason Why Data Center GPUs Have Such Short Lifespans - BGR",
+  "summary": "However, even GPUs with a lower utilization rate will only last for a maximum of five years in a data center. Notably, the latest \"gigawatt data centers\" are equipped with hundreds of thousands of GPUs.",
+  "source": "BGR",
+  "url": "https://bgr.com/2229018/why-data-center-gpus-have-short-lifespans",
+  "published_utc": "2026-08-09T11:47:00+00:00",
+  "output_day": "2026-08-09",
+  "date_source": "meta",
+  "generated_utc": "2026-08-09T12:00:57.186146+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bgr.com/img/gallery/the-reason-why-data-center-gpus-have-such-short-lifespans/l-intro-1785423564.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    230,
+    57,
+    70
+  ],
+  "image": "output/2026-08-09/the-reason-why-data-center-gpus-have-such-short-lifespans-bgr.png",
+  "caption": "output/2026-08-09/the-reason-why-data-center-gpus-have-such-short-lifespans-bgr.txt"
+}
