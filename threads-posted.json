@@ -27805,6 +27805,25 @@
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a78be318a14104e8ab793c2"
     },
+    "output/2026-08-10/allow-mike-myers-cat-in-the-hat-costume-to-stalk-your-nightmares.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/allow-mike-myers-cat-in-the-hat-costume-to-stalk-your-nightmares.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T20:26:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a78e26ffef71b4dea195558",
+          "zernio_scheduled_for_utc": "2026-08-09T20:27:07.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/allow-mike-myers-cat-in-the-hat-costume-to-stalk-your-nightmares.png",
+      "metadata_file": "output/2026-08-10/allow-mike-myers-cat-in-the-hat-costume-to-stalk-your-nightmares.json",
+      "published_at_utc": "2026-08-09T20:26:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a78e26ffef71b4dea195558",
+      "zernio_scheduled_for_utc": "2026-08-09T20:27:07.000Z"
+    },
     "output/2026-08-10/anthropic-is-turning-claude-code-s-auto-mode-on-by-default-techcrunch.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/anthropic-is-turning-claude-code-s-auto-mode-on-by-default-techcrunch.txt",
