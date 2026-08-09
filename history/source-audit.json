@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-09T20:24:18.784646+00:00",
+  "run_utc": "2026-08-09T21:05:52.795251+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-08T20:24:18.784796+00:00",
+  "cutoff_utc": "2026-08-08T21:05:52.795434+00:00",
   "eligible_story_count": 65,
   "sources": [
     {
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 0,
-      "already_processed": 27,
+      "eligible_new": 1,
+      "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -56,7 +56,7 @@
       "page_links": 30,
       "page_articles": 30,
       "eligible_new": 1,
-      "already_processed": 23,
+      "already_processed": 21,
       "older_than_window": 9,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 20,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -303,18 +303,18 @@
         {
           "url": "https://www.theinformation.com/",
           "status": 200,
-          "links": 22,
+          "links": 23,
           "error": ""
         }
       ],
-      "rss_candidates": 12,
-      "page_links": 22,
+      "rss_candidates": 11,
+      "page_links": 23,
       "page_articles": 17,
       "eligible_new": 2,
       "already_processed": 1,
-      "older_than_window": 17,
+      "older_than_window": 16,
       "metadata_errors": {
-        "not_article_path": 5
+        "not_article_path": 6
       }
     },
     {
@@ -390,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 32,
+      "eligible_new": 33,
       "already_processed": 0,
-      "older_than_window": 64,
+      "older_than_window": 63,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 2
@@ -498,12 +498,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 31,
+      "rss_candidates": 32,
       "page_links": 40,
       "page_articles": 39,
-      "eligible_new": 5,
+      "eligible_new": 7,
       "already_processed": 16,
-      "older_than_window": 29,
+      "older_than_window": 27,
       "metadata_errors": {
         "http_404": 1
       }
@@ -570,13 +570,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 27,
-      "page_articles": 4,
+      "page_articles": 6,
       "eligible_new": 0,
       "already_processed": 6,
-      "older_than_window": 11,
+      "older_than_window": 13,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 22
+        "http_429": 21
       }
     },
     {
@@ -712,8 +711,8 @@
       "rss_candidates": 20,
       "page_links": 31,
       "page_articles": 31,
-      "eligible_new": 17,
-      "already_processed": 14,
+      "eligible_new": 15,
+      "already_processed": 16,
       "older_than_window": 0,
       "metadata_errors": {}
     }
