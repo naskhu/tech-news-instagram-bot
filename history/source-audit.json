@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-09T22:23:13.872554+00:00",
+  "run_utc": "2026-08-09T23:03:43.850865+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-08T22:23:13.872701+00:00",
-  "eligible_story_count": 61,
+  "cutoff_utc": "2026-08-08T23:03:43.851121+00:00",
+  "eligible_story_count": 59,
   "sources": [
     {
       "source": "TechCrunch",
@@ -26,13 +26,11 @@
       ],
       "rss_candidates": 20,
       "page_links": 27,
-      "page_articles": 26,
+      "page_articles": 27,
       "eligible_new": 0,
       "already_processed": 27,
       "older_than_window": 0,
-      "metadata_errors": {
-        "http_403": 1
-      }
+      "metadata_errors": {}
     },
     {
       "source": "The Verge",
@@ -379,25 +377,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 19,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 31,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
-      "eligible_new": 32,
+      "page_articles": 45,
+      "eligible_new": 33,
       "already_processed": 0,
-      "older_than_window": 64,
+      "older_than_window": 62,
       "metadata_errors": {
-        "missing_title": 2,
-        "no_article_metadata": 4
+        "no_article_metadata": 4,
+        "missing_title": 1
       }
     },
     {
@@ -502,12 +500,12 @@
       ],
       "rss_candidates": 32,
       "page_links": 40,
-      "page_articles": 39,
-      "eligible_new": 7,
+      "page_articles": 38,
+      "eligible_new": 6,
       "already_processed": 16,
-      "older_than_window": 27,
+      "older_than_window": 28,
       "metadata_errors": {
-        "http_404": 1
+        "http_404": 2
       }
     },
     {
@@ -572,12 +570,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 27,
-      "page_articles": 3,
+      "page_articles": 5,
       "eligible_new": 0,
       "already_processed": 6,
-      "older_than_window": 10,
+      "older_than_window": 12,
       "metadata_errors": {
-        "http_429": 24
+        "no_article_metadata": 1,
+        "http_429": 21
       }
     },
     {
@@ -700,21 +699,21 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 27,
+          "links": 28,
           "error": ""
         },
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 4,
+          "links": 3,
           "error": ""
         }
       ],
       "rss_candidates": 20,
       "page_links": 31,
       "page_articles": 31,
-      "eligible_new": 13,
-      "already_processed": 18,
+      "eligible_new": 10,
+      "already_processed": 21,
       "older_than_window": 0,
       "metadata_errors": {}
     }
