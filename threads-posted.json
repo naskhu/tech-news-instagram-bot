@@ -25685,6 +25685,25 @@
       "published_at_utc": "2026-08-07T19:50:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-08-09/15-home-office-upgrades-that-just-work-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/15-home-office-upgrades-that-just-work-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T05:35:29Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7811a1749b284a64d50ae8",
+          "zernio_scheduled_for_utc": "2026-08-09T06:32:42.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/15-home-office-upgrades-that-just-work-bgr.png",
+      "metadata_file": "output/2026-08-09/15-home-office-upgrades-that-just-work-bgr.json",
+      "published_at_utc": "2026-08-09T05:35:29Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7811a1749b284a64d50ae8",
+      "zernio_scheduled_for_utc": "2026-08-09T06:32:42.000Z"
+    },
     "output/2026-08-09/3-audio-brands-you-might-not-realize-are-owned-by-bose-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/3-audio-brands-you-might-not-realize-are-owned-by-bose-bgr.txt",
