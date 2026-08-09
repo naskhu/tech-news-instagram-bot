@@ -27862,6 +27862,25 @@
       "zernio_post_id": "6a78fe4d836640210bd9a70b",
       "zernio_scheduled_for_utc": "2026-08-09T22:44:50.000Z"
     },
+    "output/2026-08-10/9-cool-new-gadgets-you-can-only-find-in-china-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/9-cool-new-gadgets-you-can-only-find-in-china-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T23:06:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7907ed1fd5a9dffb53c92b",
+          "zernio_scheduled_for_utc": "2026-08-10T00:03:32.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/9-cool-new-gadgets-you-can-only-find-in-china-bgr.png",
+      "metadata_file": "output/2026-08-10/9-cool-new-gadgets-you-can-only-find-in-china-bgr.json",
+      "published_at_utc": "2026-08-09T23:06:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7907ed1fd5a9dffb53c92b",
+      "zernio_scheduled_for_utc": "2026-08-10T00:03:32.000Z"
+    },
     "output/2026-08-10/9-essential-fitness-apps-you-need-to-install-in-2026-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/9-essential-fitness-apps-you-need-to-install-in-2026-bgr.txt",
