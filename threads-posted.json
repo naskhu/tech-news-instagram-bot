@@ -27843,6 +27843,25 @@
       "zernio_post_id": "6a78dac98cd09115229742af",
       "zernio_scheduled_for_utc": "2026-08-09T20:13:19.000Z"
     },
+    "output/2026-08-10/battery-health-vs-cycle-count-which-one-matters-more-and-why-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/battery-health-vs-cycle-count-which-one-matters-more-and-why-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T19:53:51Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a78dacfbb4e21031f0f7407",
+          "zernio_scheduled_for_utc": "2026-08-09T20:32:14.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/battery-health-vs-cycle-count-which-one-matters-more-and-why-bgr.png",
+      "metadata_file": "output/2026-08-10/battery-health-vs-cycle-count-which-one-matters-more-and-why-bgr.json",
+      "published_at_utc": "2026-08-09T19:53:51Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a78dacfbb4e21031f0f7407",
+      "zernio_scheduled_for_utc": "2026-08-09T20:32:14.000Z"
+    },
     "output/2026-08-10/don-t-panic-film-nerds-but-letterboxd-is-down.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/don-t-panic-film-nerds-but-letterboxd-is-down.txt",
