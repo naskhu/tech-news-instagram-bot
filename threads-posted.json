@@ -28128,6 +28128,25 @@
       "zernio_post_id": "6a78ec368c258135d954b84a",
       "zernio_scheduled_for_utc": "2026-08-09T21:27:39.000Z"
     },
+    "output/2026-08-10/scientists-dressed-up-as-batman-had-an-unexpected-effect-on-local-resi.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/scientists-dressed-up-as-batman-had-an-unexpected-effect-on-local-resi.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T22:25:29Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a78fe592dac1aed8068b65b",
+          "zernio_scheduled_for_utc": "2026-08-09T23:22:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/scientists-dressed-up-as-batman-had-an-unexpected-effect-on-local-resi.png",
+      "metadata_file": "output/2026-08-10/scientists-dressed-up-as-batman-had-an-unexpected-effect-on-local-resi.json",
+      "published_at_utc": "2026-08-09T22:25:29Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a78fe592dac1aed8068b65b",
+      "zernio_scheduled_for_utc": "2026-08-09T23:22:40.000Z"
+    },
     "output/2026-08-10/the-reason-building-data-centers-in-antarctica-isn-t-a-solution-for-th.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/the-reason-building-data-centers-in-antarctica-isn-t-a-solution-for-th.txt",
