@@ -28242,6 +28242,25 @@
       "zernio_post_id": "6a78ec3b44aba046faa32afe",
       "zernio_scheduled_for_utc": "2026-08-09T21:46:34.000Z"
     },
+    "output/2026-08-10/why-did-apple-stop-making-white-macbooks-the-macbook-air-might-be-the-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/why-did-apple-stop-making-white-macbooks-the-macbook-air-might-be-the-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T23:06:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7907db1fd5a9dffb53c191",
+          "zernio_scheduled_for_utc": "2026-08-09T23:06:47.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/why-did-apple-stop-making-white-macbooks-the-macbook-air-might-be-the-.png",
+      "metadata_file": "output/2026-08-10/why-did-apple-stop-making-white-macbooks-the-macbook-air-might-be-the-.json",
+      "published_at_utc": "2026-08-09T23:06:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7907db1fd5a9dffb53c191",
+      "zernio_scheduled_for_utc": "2026-08-09T23:06:47.000Z"
+    },
     "output/2026-08-10/will-price-hikes-force-apple-to-stop-dragging-its-feet-on-certain-prod.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/will-price-hikes-force-apple-to-stop-dragging-its-feet-on-certain-prod.txt",
