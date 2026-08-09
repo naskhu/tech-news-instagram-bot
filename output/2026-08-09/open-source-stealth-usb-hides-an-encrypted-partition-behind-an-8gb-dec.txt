@@ -1,0 +1,10 @@
+Open-source stealth USB hides an encrypted partition behind an 8GB decoy drive — 'Phantom Drive' appears as a regular USB stick until you create a text file to unlock the hidden data
+
+It's coded to always look for a "password" string, so as soon as you create the unlock.txt file with "password:xyz" inside, it detects the "xyz" bit and copies it over to SRAM, while overwriting the raw data with a bunch of zeroes…
+
+Source: Tom's Hardware
+Read more: https://tomshardware.com/pc-components/usb-flash-drives/open-source-stealth-usb-hides-an-encrypted-partition-behind-an-8gb-decoy-drive-phantom-drive-appears-as-a-regular-usb-stick-until-you-create-a-text-file-to-unlock-the-hidden-data
+
+Follow @news.world.tech for more tech news.
+
+#TechNews #Technology #AI #Innovation #Digital
