@@ -26065,6 +26065,25 @@
       "zernio_post_id": "6a7793ddb0b453e51f1aaed6",
       "zernio_scheduled_for_utc": "2026-08-08T20:39:38.000Z"
     },
+    "output/2026-08-09/china-s-new-atomic-clock-is-more-than-just-ultra-precise-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/china-s-new-atomic-clock-is-more-than-just-ultra-precise-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T10:56:24Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a785cd8fe3fdb6c624b407c",
+          "zernio_scheduled_for_utc": "2026-08-09T11:53:34.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/china-s-new-atomic-clock-is-more-than-just-ultra-precise-bgr.png",
+      "metadata_file": "output/2026-08-09/china-s-new-atomic-clock-is-more-than-just-ultra-precise-bgr.json",
+      "published_at_utc": "2026-08-09T10:56:24Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a785cd8fe3fdb6c624b407c",
+      "zernio_scheduled_for_utc": "2026-08-09T11:53:34.000Z"
+    },
     "output/2026-08-09/claude-vs-chatgpt-how-these-ai-assistants-differ-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/claude-vs-chatgpt-how-these-ai-assistants-differ-engadget.txt",
