@@ -27919,6 +27919,25 @@
       "zernio_post_id": "6a78d2f0ea4389accba32bdd",
       "zernio_scheduled_for_utc": "2026-08-09T19:21:00.000Z"
     },
+    "output/2026-08-10/where-did-the-nothing-phone-s-name-come-from-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/where-did-the-nothing-phone-s-name-come-from-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T19:53:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a78dad542dfb2616e690a0b",
+          "zernio_scheduled_for_utc": "2026-08-09T20:51:09.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/where-did-the-nothing-phone-s-name-come-from-bgr.png",
+      "metadata_file": "output/2026-08-10/where-did-the-nothing-phone-s-name-come-from-bgr.json",
+      "published_at_utc": "2026-08-09T19:53:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a78dad542dfb2616e690a0b",
+      "zernio_scheduled_for_utc": "2026-08-09T20:51:09.000Z"
+    },
     "output/2026-08-10/will-price-hikes-force-apple-to-stop-dragging-its-feet-on-certain-prod.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/will-price-hikes-force-apple-to-stop-dragging-its-feet-on-certain-prod.txt",
