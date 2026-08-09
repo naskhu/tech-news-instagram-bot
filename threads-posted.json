@@ -27843,6 +27843,25 @@
       "zernio_post_id": "6a78ec41e5eb7c386ffa2f29",
       "zernio_scheduled_for_utc": "2026-08-09T22:05:29.000Z"
     },
+    "output/2026-08-10/9-cool-new-gadgets-that-change-the-way-you-travel-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/9-cool-new-gadgets-that-change-the-way-you-travel-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T22:25:17Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a78fe4d836640210bd9a70b",
+          "zernio_scheduled_for_utc": "2026-08-09T22:44:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/9-cool-new-gadgets-that-change-the-way-you-travel-bgr.png",
+      "metadata_file": "output/2026-08-10/9-cool-new-gadgets-that-change-the-way-you-travel-bgr.json",
+      "published_at_utc": "2026-08-09T22:25:17Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a78fe4d836640210bd9a70b",
+      "zernio_scheduled_for_utc": "2026-08-09T22:44:50.000Z"
+    },
     "output/2026-08-10/9-essential-fitness-apps-you-need-to-install-in-2026-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/9-essential-fitness-apps-you-need-to-install-in-2026-bgr.txt",
