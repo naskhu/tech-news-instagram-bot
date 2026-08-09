@@ -26996,6 +26996,25 @@
       "zernio_post_id": "6a7852152ab2da494acc983c",
       "zernio_scheduled_for_utc": "2026-08-09T10:30:02.000Z"
     },
+    "output/2026-08-09/the-ai-safety-test-is-becoming-a-safety-risk-techcrunch.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/the-ai-safety-test-is-becoming-a-safety-risk-techcrunch.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T15:07:15Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7897a35c42bb65e13e6dd1",
+          "zernio_scheduled_for_utc": "2026-08-09T15:26:49.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/the-ai-safety-test-is-becoming-a-safety-risk-techcrunch.png",
+      "metadata_file": "output/2026-08-09/the-ai-safety-test-is-becoming-a-safety-risk-techcrunch.json",
+      "published_at_utc": "2026-08-09T15:07:15Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7897a35c42bb65e13e6dd1",
+      "zernio_scheduled_for_utc": "2026-08-09T15:26:49.000Z"
+    },
     "output/2026-08-09/the-apple-watch-heart-rate-feature-you-probably-didn-t-realize-existed.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/the-apple-watch-heart-rate-feature-you-probably-didn-t-realize-existed.txt",
