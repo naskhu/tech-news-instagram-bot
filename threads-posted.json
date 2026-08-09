@@ -27338,6 +27338,23 @@
       "zernio_post_id": "6a779249fd608948abecb05a",
       "zernio_scheduled_for_utc": "2026-08-08T20:32:54.000Z"
     },
+    "output/2026-08-09/this-company-s-new-bladeless-wind-turbines-are-a-game-changer-for-ener.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/this-company-s-new-bladeless-wind-turbines-are-a-game-changer-for-ener.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T17:53:35Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a78be8636ca53efca153980"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/this-company-s-new-bladeless-wind-turbines-are-a-game-changer-for-ener.png",
+      "metadata_file": "output/2026-08-09/this-company-s-new-bladeless-wind-turbines-are-a-game-changer-for-ener.json",
+      "published_at_utc": "2026-08-09T17:53:35Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a78be8636ca53efca153980"
+    },
     "output/2026-08-09/this-expensive-gold-plated-nvidia-gpu-came-with-a-certificate-of-authe.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/this-expensive-gold-plated-nvidia-gpu-came-with-a-certificate-of-authe.txt",
