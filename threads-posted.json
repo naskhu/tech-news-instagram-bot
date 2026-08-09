@@ -26863,6 +26863,25 @@
       "zernio_post_id": "6a786c35f3803d885e50f26b",
       "zernio_scheduled_for_utc": "2026-08-09T12:02:42.000Z"
     },
+    "output/2026-08-09/the-reason-why-data-center-gpus-have-such-short-lifespans-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/the-reason-why-data-center-gpus-have-such-short-lifespans-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T12:02:13Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a786c4506fb34d2464a9674",
+          "zernio_scheduled_for_utc": "2026-08-09T12:59:27.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/the-reason-why-data-center-gpus-have-such-short-lifespans-bgr.png",
+      "metadata_file": "output/2026-08-09/the-reason-why-data-center-gpus-have-such-short-lifespans-bgr.json",
+      "published_at_utc": "2026-08-09T12:02:13Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a786c4506fb34d2464a9674",
+      "zernio_scheduled_for_utc": "2026-08-09T12:59:27.000Z"
+    },
     "output/2026-08-09/these-ai-barons-are-ready-to-give-away-their-fortunes.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/these-ai-barons-are-ready-to-give-away-their-fortunes.txt",
