@@ -26768,6 +26768,25 @@
       "zernio_post_id": "6a786c3b0c49c8fe27a29c9f",
       "zernio_scheduled_for_utc": "2026-08-09T12:21:37.000Z"
     },
+    "output/2026-08-09/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-bloc.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-09/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-bloc.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-09T15:52:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a78a227da24153d55f0762e",
+          "zernio_scheduled_for_utc": "2026-08-09T16:30:29.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-09/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-bloc.png",
+      "metadata_file": "output/2026-08-09/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-bloc.json",
+      "published_at_utc": "2026-08-09T15:52:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a78a227da24153d55f0762e",
+      "zernio_scheduled_for_utc": "2026-08-09T16:30:29.000Z"
+    },
     "output/2026-08-09/modder-turns-steam-controller-trackpad-haptics-into-stereo-speakers-wi.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-09/modder-turns-steam-controller-trackpad-haptics-into-stereo-speakers-wi.txt",
