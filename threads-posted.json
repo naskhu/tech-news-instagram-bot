@@ -29803,6 +29803,25 @@
       "zernio_post_id": "6a7a4eb24249d6ae59b4a852",
       "zernio_scheduled_for_utc": "2026-08-10T22:21:18.000Z"
     },
+    "output/2026-08-11/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-don-t-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-don-t-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T23:41:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7a61a75b5d48f65a34dcec",
+          "zernio_scheduled_for_utc": "2026-08-11T00:01:00.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-don-t-.png",
+      "metadata_file": "output/2026-08-11/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-don-t-.json",
+      "published_at_utc": "2026-08-10T23:41:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7a61a75b5d48f65a34dcec",
+      "zernio_scheduled_for_utc": "2026-08-11T00:01:00.000Z"
+    },
     "output/2026-08-11/trump-signs-executive-order-aimed-at-decreasing-vaccine-requirements-f.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/trump-signs-executive-order-aimed-at-decreasing-vaccine-requirements-f.txt",
