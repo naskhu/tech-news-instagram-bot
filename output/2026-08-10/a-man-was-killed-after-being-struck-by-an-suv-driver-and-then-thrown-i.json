@@ -1,0 +1,23 @@
+{
+  "title": "A man was killed after being struck by an SUV driver and then thrown into the path of a Waymo.",
+  "summary": "According to local reports, the man was crossing the street outside a crosswalk in Dallas when he was hit by an SUV driver, causing him to be thrown into a driverless Waymo vehicles.",
+  "source": "The Verge",
+  "url": "https://theverge.com/transportation/977473/a-man-was-killed-after-being-struck-by-an-suv-driver-and-then-thrown-into-the-path-of-a-waymo",
+  "published_utc": "2026-08-10T17:24:08+00:00",
+  "output_day": "2026-08-10",
+  "date_source": "meta",
+  "generated_utc": "2026-08-10T17:51:19.058488+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Gen6_ApronSunset_3840x2160.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-10/a-man-was-killed-after-being-struck-by-an-suv-driver-and-then-thrown-i.png",
+  "caption": "output/2026-08-10/a-man-was-killed-after-being-struck-by-an-suv-driver-and-then-thrown-i.txt"
+}
