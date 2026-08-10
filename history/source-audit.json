@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-10T03:19:54.489227+00:00",
+  "run_utc": "2026-08-10T04:59:40.440183+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-09T03:19:54.489376+00:00",
-  "eligible_story_count": 47,
+  "cutoff_utc": "2026-08-09T04:59:40.440307+00:00",
+  "eligible_story_count": 45,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 20,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 8,
-      "older_than_window": 106,
+      "older_than_window": 107,
       "metadata_errors": {}
     },
     {
@@ -390,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 28,
+      "eligible_new": 29,
       "already_processed": 0,
-      "older_than_window": 67,
+      "older_than_window": 65,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -501,9 +501,9 @@
       "rss_candidates": 34,
       "page_links": 40,
       "page_articles": 37,
-      "eligible_new": 6,
+      "eligible_new": 4,
       "already_processed": 17,
-      "older_than_window": 27,
+      "older_than_window": 29,
       "metadata_errors": {
         "http_404": 3
       }
@@ -570,13 +570,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 5,
+      "page_articles": 6,
       "eligible_new": 0,
       "already_processed": 6,
       "older_than_window": 9,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 19
+        "no_article_metadata": 2,
+        "http_429": 17
       }
     },
     {
@@ -699,21 +699,21 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 28,
+          "links": 29,
           "error": ""
         },
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 3,
+          "links": 2,
           "error": ""
         }
       ],
       "rss_candidates": 20,
       "page_links": 31,
       "page_articles": 31,
-      "eligible_new": 4,
-      "already_processed": 28,
+      "eligible_new": 1,
+      "already_processed": 30,
       "older_than_window": 0,
       "metadata_errors": {}
     }

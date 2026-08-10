@@ -1,0 +1,23 @@
+{
+  "title": "Optical Heart Sensor Vs. ECG: What's Actually Inside Your Smartwatch? - BGR",
+  "summary": "While most smartwatches feature a PPG (photoplethysmography) optical heart rate monitor, which uses a green light to measure how fast blood flows through your veins, others use an ECG (electrocardiogram) heart rate sensor that tracks your heart rate by measuring electrical signals…",
+  "source": "BGR",
+  "url": "https://bgr.com/2229132/optical-vs-electrical-heart-sensors-inside-smartwatch",
+  "published_utc": "2026-08-10T03:47:00+00:00",
+  "output_day": "2026-08-10",
+  "date_source": "meta",
+  "generated_utc": "2026-08-10T05:00:40.191346+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bgr.com/img/gallery/optical-heart-sensor-vs-ecg-whats-actually-inside-your-smartwatch/l-intro-1785440723.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    230,
+    57,
+    70
+  ],
+  "image": "output/2026-08-10/optical-heart-sensor-vs-ecg-what-s-actually-inside-your-smartwatch-bgr.png",
+  "caption": "output/2026-08-10/optical-heart-sensor-vs-ecg-what-s-actually-inside-your-smartwatch-bgr.txt"
+}
