@@ -28470,6 +28470,25 @@
       "zernio_post_id": "6a796c6bdc049ef5a7b6c89f",
       "zernio_scheduled_for_utc": "2026-08-10T06:53:17.000Z"
     },
+    "output/2026-08-10/the-fcc-wants-to-ban-drones-with-lidar-that-it-previously-approved-eng.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/the-fcc-wants-to-ban-drones-with-lidar-that-it-previously-approved-eng.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T08:08:52Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7987144e5f604e75ddc428",
+          "zernio_scheduled_for_utc": "2026-08-10T08:09:36.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/the-fcc-wants-to-ban-drones-with-lidar-that-it-previously-approved-eng.png",
+      "metadata_file": "output/2026-08-10/the-fcc-wants-to-ban-drones-with-lidar-that-it-previously-approved-eng.json",
+      "published_at_utc": "2026-08-10T08:08:52Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7987144e5f604e75ddc428",
+      "zernio_scheduled_for_utc": "2026-08-10T08:09:36.000Z"
+    },
     "output/2026-08-10/the-physics-challenges-holding-back-orbital-data-centers.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/the-physics-challenges-holding-back-orbital-data-centers.txt",
