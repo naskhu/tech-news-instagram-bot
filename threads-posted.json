@@ -28185,6 +28185,25 @@
       "zernio_post_id": "6a79b04bd433eb94608d6de1",
       "zernio_scheduled_for_utc": "2026-08-10T11:05:26.000Z"
     },
+    "output/2026-08-10/google-play-adds-venmo-as-a-payment-option.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/google-play-adds-venmo-as-a-payment-option.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T12:03:06Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a79bdfa3757727eb863a702",
+          "zernio_scheduled_for_utc": "2026-08-10T12:22:39.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/google-play-adds-venmo-as-a-payment-option.png",
+      "metadata_file": "output/2026-08-10/google-play-adds-venmo-as-a-payment-option.json",
+      "published_at_utc": "2026-08-10T12:03:06Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a79bdfa3757727eb863a702",
+      "zernio_scheduled_for_utc": "2026-08-10T12:22:39.000Z"
+    },
     "output/2026-08-10/grok-s-image-tools-get-a-professional-upgrade-with-templates-precise-e.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/grok-s-image-tools-get-a-professional-upgrade-with-templates-precise-e.txt",
