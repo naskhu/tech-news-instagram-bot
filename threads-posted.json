@@ -29460,6 +29460,25 @@
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a7a1d6d430c4076b47c6b7d"
+    },
+    "output/2026-08-11/bluesky-now-lets-you-hide-reposts-from-that-annoying-person-you-follow.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/bluesky-now-lets-you-hide-reposts-from-that-annoying-person-you-follow.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T19:53:52Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7a2c50d4d9d2238c837e84",
+          "zernio_scheduled_for_utc": "2026-08-10T19:54:36.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/bluesky-now-lets-you-hide-reposts-from-that-annoying-person-you-follow.png",
+      "metadata_file": "output/2026-08-11/bluesky-now-lets-you-hide-reposts-from-that-annoying-person-you-follow.json",
+      "published_at_utc": "2026-08-10T19:53:52Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7a2c50d4d9d2238c837e84",
+      "zernio_scheduled_for_utc": "2026-08-10T19:54:36.000Z"
     }
   }
 }
