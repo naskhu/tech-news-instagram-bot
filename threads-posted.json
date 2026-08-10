@@ -29426,6 +29426,23 @@
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a7a103bdeb6d9ffff2e1550"
+    },
+    "output/2026-08-10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-sta.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-sta.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T18:50:38Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7a1d6d430c4076b47c6b7d"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-sta.png",
+      "metadata_file": "output/2026-08-10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-sta.json",
+      "published_at_utc": "2026-08-10T18:50:38Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7a1d6d430c4076b47c6b7d"
     }
   }
 }
