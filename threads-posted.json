@@ -28033,6 +28033,25 @@
       "zernio_post_id": "6a78dac98cd09115229742af",
       "zernio_scheduled_for_utc": "2026-08-09T20:13:19.000Z"
     },
+    "output/2026-08-10/apple-will-stream-friday-night-baseball-live-in-vision-pro.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/apple-will-stream-friday-night-baseball-live-in-vision-pro.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T15:58:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a79f51cc8cb9d8f02d72858",
+          "zernio_scheduled_for_utc": "2026-08-10T16:55:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/apple-will-stream-friday-night-baseball-live-in-vision-pro.png",
+      "metadata_file": "output/2026-08-10/apple-will-stream-friday-night-baseball-live-in-vision-pro.json",
+      "published_at_utc": "2026-08-10T15:58:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a79f51cc8cb9d8f02d72858",
+      "zernio_scheduled_for_utc": "2026-08-10T16:55:30.000Z"
+    },
     "output/2026-08-10/archer-buys-former-rival-wisk-aero.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/archer-buys-former-rival-wisk-aero.txt",
