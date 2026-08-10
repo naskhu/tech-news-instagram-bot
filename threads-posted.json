@@ -28831,6 +28831,25 @@
       "zernio_post_id": "6a79be063757727eb863ac2b",
       "zernio_scheduled_for_utc": "2026-08-10T13:00:29.000Z"
     },
+    "output/2026-08-10/taylor-farms-is-recalling-guacamole-salsa-taco-dip-and-more.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/taylor-farms-is-recalling-guacamole-salsa-taco-dip-and-more.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T14:56:38Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a79e6a5977332eff46a7f89",
+          "zernio_scheduled_for_utc": "2026-08-10T15:53:49.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/taylor-farms-is-recalling-guacamole-salsa-taco-dip-and-more.png",
+      "metadata_file": "output/2026-08-10/taylor-farms-is-recalling-guacamole-salsa-taco-dip-and-more.json",
+      "published_at_utc": "2026-08-10T14:56:38Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a79e6a5977332eff46a7f89",
+      "zernio_scheduled_for_utc": "2026-08-10T15:53:49.000Z"
+    },
     "output/2026-08-10/the-downsides-of-switching-from-iphone-to-android-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/the-downsides-of-switching-from-iphone-to-android-engadget.txt",
