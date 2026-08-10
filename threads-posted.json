@@ -28166,6 +28166,25 @@
       "zernio_post_id": "6a79bdf4891679e4340ea298",
       "zernio_scheduled_for_utc": "2026-08-10T12:03:44.000Z"
     },
+    "output/2026-08-10/disney-plus-and-hulu-team-up-with-iheartmedia-for-more-video-podcasts.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/disney-plus-and-hulu-team-up-with-iheartmedia-for-more-video-podcasts.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T16:57:44Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7a03089d99ce931d71aa50",
+          "zernio_scheduled_for_utc": "2026-08-10T17:36:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/disney-plus-and-hulu-team-up-with-iheartmedia-for-more-video-podcasts.png",
+      "metadata_file": "output/2026-08-10/disney-plus-and-hulu-team-up-with-iheartmedia-for-more-video-podcasts.json",
+      "published_at_utc": "2026-08-10T16:57:44Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7a03089d99ce931d71aa50",
+      "zernio_scheduled_for_utc": "2026-08-10T17:36:05.000Z"
+    },
     "output/2026-08-10/don-t-just-turn-up-the-ac-try-this-cheaper-solution-instead-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/don-t-just-turn-up-the-ac-try-this-cheaper-solution-instead-bgr.txt",
