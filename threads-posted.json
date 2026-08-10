@@ -29499,6 +29499,25 @@
       "zernio_post_id": "6a7a2c50d4d9d2238c837e84",
       "zernio_scheduled_for_utc": "2026-08-10T19:54:36.000Z"
     },
+    "output/2026-08-11/cleanse-your-timeline-with-the-traffic-cone-bear.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/cleanse-your-timeline-with-the-traffic-cone-bear.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T23:02:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7a586df2831872a6f5dbcb",
+          "zernio_scheduled_for_utc": "2026-08-10T23:21:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/cleanse-your-timeline-with-the-traffic-cone-bear.png",
+      "metadata_file": "output/2026-08-11/cleanse-your-timeline-with-the-traffic-cone-bear.json",
+      "published_at_utc": "2026-08-10T23:02:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7a586df2831872a6f5dbcb",
+      "zernio_scheduled_for_utc": "2026-08-10T23:21:38.000Z"
+    },
     "output/2026-08-11/costco-s-great-switch-2-console-bundle-includes-over-100-in-free-stuff.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/costco-s-great-switch-2-console-bundle-includes-over-100-in-free-stuff.txt",
