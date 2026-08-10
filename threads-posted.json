@@ -29651,6 +29651,25 @@
       "zernio_post_id": "6a7a367d9d7049a72364cdc6",
       "zernio_scheduled_for_utc": "2026-08-10T20:38:01.000Z"
     },
+    "output/2026-08-11/this-one-is-for-my-fellow-dickheads.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/this-one-is-for-my-fellow-dickheads.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T22:20:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7a4eb24249d6ae59b4a852",
+          "zernio_scheduled_for_utc": "2026-08-10T22:21:18.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/this-one-is-for-my-fellow-dickheads.png",
+      "metadata_file": "output/2026-08-11/this-one-is-for-my-fellow-dickheads.json",
+      "published_at_utc": "2026-08-10T22:20:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7a4eb24249d6ae59b4a852",
+      "zernio_scheduled_for_utc": "2026-08-10T22:21:18.000Z"
+    },
     "output/2026-08-11/trump-signs-executive-order-aimed-at-decreasing-vaccine-requirements-f.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/trump-signs-executive-order-aimed-at-decreasing-vaccine-requirements-f.txt",
