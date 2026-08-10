@@ -1,0 +1,23 @@
+{
+  "title": "Tech industry is buzzing after a Claude agent hacked into a gym | TechCrunch",
+  "summary": "Although the news story was just published by Australian ABC news, proclaiming the incident to be the first documented AI agent hacking case in the country, the actual hack took place months ago.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym",
+  "published_utc": "2026-08-10T20:04:24+00:00",
+  "output_day": "2026-08-11",
+  "date_source": "meta",
+  "generated_utc": "2026-08-10T20:36:05.853190+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Claw-weight.png?resize=1200,600",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-08-11/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym-techcr.png",
+  "caption": "output/2026-08-11/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym-techcr.txt"
+}
