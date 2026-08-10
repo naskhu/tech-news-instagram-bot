@@ -28109,6 +28109,25 @@
       "zernio_post_id": "6a799f9d3cdca98901df0ad1",
       "zernio_scheduled_for_utc": "2026-08-10T10:13:06.000Z"
     },
+    "output/2026-08-10/boeing-is-selling-its-air-taxi-startups-to-archer-aviation.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/boeing-is-selling-its-air-taxi-startups-to-archer-aviation.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T16:57:51Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7a030f9d99ce931d71aca1",
+          "zernio_scheduled_for_utc": "2026-08-10T17:55:00.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/boeing-is-selling-its-air-taxi-startups-to-archer-aviation.png",
+      "metadata_file": "output/2026-08-10/boeing-is-selling-its-air-taxi-startups-to-archer-aviation.json",
+      "published_at_utc": "2026-08-10T16:57:51Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7a030f9d99ce931d71aca1",
+      "zernio_scheduled_for_utc": "2026-08-10T17:55:00.000Z"
+    },
     "output/2026-08-10/calibration-is-more-important-for-battery-health-than-you-think-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/calibration-is-more-important-for-battery-health-than-you-think-bgr.txt",
