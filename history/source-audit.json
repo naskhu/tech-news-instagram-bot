@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-09T23:49:08.234760+00:00",
+  "run_utc": "2026-08-10T01:13:06.069120+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-08T23:49:08.234969+00:00",
-  "eligible_story_count": 55,
+  "cutoff_utc": "2026-08-09T01:13:06.069243+00:00",
+  "eligible_story_count": 49,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 20,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 8,
-      "older_than_window": 105,
+      "older_than_window": 107,
       "metadata_errors": {}
     },
     {
@@ -377,25 +377,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 18,
+          "links": 17,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 32,
+          "links": 33,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 33,
+      "eligible_new": 29,
       "already_processed": 0,
-      "older_than_window": 61,
+      "older_than_window": 66,
       "metadata_errors": {
-        "no_article_metadata": 4,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 4
       }
     },
     {
@@ -570,12 +570,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 27,
-      "page_articles": 2,
+      "page_articles": 7,
       "eligible_new": 0,
       "already_processed": 6,
-      "older_than_window": 10,
+      "older_than_window": 13,
       "metadata_errors": {
-        "http_429": 25
+        "http_429": 20
       }
     },
     {
@@ -704,15 +704,15 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 1,
+          "links": 2,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 30,
-      "page_articles": 30,
-      "eligible_new": 6,
-      "already_processed": 24,
+      "page_links": 31,
+      "page_articles": 31,
+      "eligible_new": 4,
+      "already_processed": 27,
       "older_than_window": 0,
       "metadata_errors": {}
     }

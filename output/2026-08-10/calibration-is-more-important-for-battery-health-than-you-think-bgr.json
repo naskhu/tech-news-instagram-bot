@@ -1,0 +1,23 @@
+{
+  "title": "Calibration Is More Important For Battery Health Than You Think - BGR",
+  "summary": "In these cases, the battery isn't necessarily failing, the device's battery reporting system is. Features like adaptive charging, performance throttling, and even thermal management depend on accurate battery energy readings.",
+  "source": "BGR",
+  "url": "https://bgr.com/2225321/how-battery-calibration-effects-battery-health",
+  "published_utc": "2026-08-10T00:47:00+00:00",
+  "output_day": "2026-08-10",
+  "date_source": "meta",
+  "generated_utc": "2026-08-10T01:14:00.815514+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bgr.com/img/gallery/calibration-is-more-important-for-battery-health-than-you-think/l-intro-1785170101.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    230,
+    57,
+    70
+  ],
+  "image": "output/2026-08-10/calibration-is-more-important-for-battery-health-than-you-think-bgr.png",
+  "caption": "output/2026-08-10/calibration-is-more-important-for-battery-health-than-you-think-bgr.txt"
+}
