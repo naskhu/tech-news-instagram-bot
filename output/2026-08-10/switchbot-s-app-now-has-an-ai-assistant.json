@@ -1,0 +1,23 @@
+{
+  "title": "SwitchBot’s app now has an AI assistant.",
+  "summary": "Kata promises to “help users control devices, create automations, set up products, and troubleshoot issues simply by typing or speaking what they need.” It requires SwitchBot App version 9.29 or later.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/977285/switchbots-app-now-has-an-ai-assistant",
+  "published_utc": "2026-08-10T11:50:24+00:00",
+  "output_day": "2026-08-10",
+  "date_source": "meta",
+  "generated_utc": "2026-08-10T12:02:36.604381+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/SwitchBot-kata-AI-Assistant.png?quality=90&strip=all&crop=2.25,0,95.5,100",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-10/switchbot-s-app-now-has-an-ai-assistant.png",
+  "caption": "output/2026-08-10/switchbot-s-app-now-has-an-ai-assistant.txt"
+}
