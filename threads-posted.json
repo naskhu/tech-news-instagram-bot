@@ -28109,6 +28109,25 @@
       "zernio_post_id": "6a7912528ae43b9a8508b83b",
       "zernio_scheduled_for_utc": "2026-08-09T23:51:26.000Z"
     },
+    "output/2026-08-10/here-s-how-to-format-a-usb-drive-on-windows-engadget.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/here-s-how-to-format-a-usb-drive-on-windows-engadget.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T05:02:04Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a795b4bc8dc6246153342cf",
+          "zernio_scheduled_for_utc": "2026-08-10T05:40:24.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/here-s-how-to-format-a-usb-drive-on-windows-engadget.png",
+      "metadata_file": "output/2026-08-10/here-s-how-to-format-a-usb-drive-on-windows-engadget.json",
+      "published_at_utc": "2026-08-10T05:02:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a795b4bc8dc6246153342cf",
+      "zernio_scheduled_for_utc": "2026-08-10T05:40:24.000Z"
+    },
     "output/2026-08-10/homekit-weekly-why-the-eve-weather-sensor-is-a-must-have-for-apple-hom.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/homekit-weekly-why-the-eve-weather-sensor-is-a-must-have-for-apple-hom.txt",
