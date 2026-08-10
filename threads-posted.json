@@ -29480,6 +29480,25 @@
       "zernio_post_id": "6a7a41fd414817cb2bad37f2",
       "zernio_scheduled_for_utc": "2026-08-10T22:23:34.000Z"
     },
+    "output/2026-08-11/ars-live-ross-scott-discusses-the-stop-killing-games-movement.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/ars-live-ross-scott-discusses-the-stop-killing-games-movement.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T23:02:11Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7a58737713b660716f26ca",
+          "zernio_scheduled_for_utc": "2026-08-10T23:40:33.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/ars-live-ross-scott-discusses-the-stop-killing-games-movement.png",
+      "metadata_file": "output/2026-08-11/ars-live-ross-scott-discusses-the-stop-killing-games-movement.json",
+      "published_at_utc": "2026-08-10T23:02:11Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7a58737713b660716f26ca",
+      "zernio_scheduled_for_utc": "2026-08-10T23:40:33.000Z"
+    },
     "output/2026-08-11/bluesky-now-lets-you-hide-reposts-from-that-annoying-person-you-follow.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/bluesky-now-lets-you-hide-reposts-from-that-annoying-person-you-follow.txt",
