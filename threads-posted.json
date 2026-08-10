@@ -28622,6 +28622,25 @@
       "zernio_post_id": "6a795b3faa8c500672c6a3b4",
       "zernio_scheduled_for_utc": "2026-08-10T05:02:34.000Z"
     },
+    "output/2026-08-10/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T13:49:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a79d6d37497c864dc016062",
+          "zernio_scheduled_for_utc": "2026-08-10T14:46:18.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era.png",
+      "metadata_file": "output/2026-08-10/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era.json",
+      "published_at_utc": "2026-08-10T13:49:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a79d6d37497c864dc016062",
+      "zernio_scheduled_for_utc": "2026-08-10T14:46:18.000Z"
+    },
     "output/2026-08-10/scientists-dressed-up-as-batman-had-an-unexpected-effect-on-local-resi.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/scientists-dressed-up-as-batman-had-an-unexpected-effect-on-local-resi.txt",
