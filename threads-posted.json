@@ -28584,6 +28584,25 @@
       "zernio_post_id": "6a796c596d791e2a2c9c1f99",
       "zernio_scheduled_for_utc": "2026-08-10T06:15:27.000Z"
     },
+    "output/2026-08-10/space-mirrors-could-ruin-astronomy-and-your-eyes.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-10/space-mirrors-could-ruin-astronomy-and-your-eyes.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-10T11:04:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a79b051d433eb94608d6f3f",
+          "zernio_scheduled_for_utc": "2026-08-10T11:24:21.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-10/space-mirrors-could-ruin-astronomy-and-your-eyes.png",
+      "metadata_file": "output/2026-08-10/space-mirrors-could-ruin-astronomy-and-your-eyes.json",
+      "published_at_utc": "2026-08-10T11:04:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a79b051d433eb94608d6f3f",
+      "zernio_scheduled_for_utc": "2026-08-10T11:24:21.000Z"
+    },
     "output/2026-08-10/spotify-is-testing-a-skip-ahead-feature-to-bypass-podcast-ads.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-10/spotify-is-testing-a-skip-ahead-feature-to-bypass-podcast-ads.txt",
