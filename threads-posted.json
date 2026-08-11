@@ -30164,6 +30164,25 @@
       "zernio_post_id": "6a7ab40fcef6df51b3574e3b",
       "zernio_scheduled_for_utc": "2026-08-11T06:11:26.000Z"
     },
+    "output/2026-08-11/sony-coupons-45-off-sony-headphones-wf-1000xm6-earbuds-and-sony-camera.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/sony-coupons-45-off-sony-headphones-wf-1000xm6-earbuds-and-sony-camera.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T07:53:39Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7ad503f22f15e399a49cad",
+          "zernio_scheduled_for_utc": "2026-08-11T08:32:01.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/sony-coupons-45-off-sony-headphones-wf-1000xm6-earbuds-and-sony-camera.png",
+      "metadata_file": "output/2026-08-11/sony-coupons-45-off-sony-headphones-wf-1000xm6-earbuds-and-sony-camera.json",
+      "published_at_utc": "2026-08-11T07:53:39Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7ad503f22f15e399a49cad",
+      "zernio_scheduled_for_utc": "2026-08-11T08:32:01.000Z"
+    },
     "output/2026-08-11/taylor-farms-recalls-jalape-o-products-for-salmonella-amid-cyclospora-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/taylor-farms-recalls-jalape-o-products-for-salmonella-amid-cyclospora-.txt",
