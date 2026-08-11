@@ -29632,6 +29632,25 @@
       "zernio_post_id": "6a7a61b3debd0cccba66408b",
       "zernio_scheduled_for_utc": "2026-08-11T00:38:50.000Z"
     },
+    "output/2026-08-11/an-unreleased-anthropic-model-made-progress-on-one-of-math-s-biggest-u.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/an-unreleased-anthropic-model-made-progress-on-one-of-math-s-biggest-u.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T17:19:15Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b599334b3b79b44a7b33d",
+          "zernio_scheduled_for_utc": "2026-08-11T17:19:59.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/an-unreleased-anthropic-model-made-progress-on-one-of-math-s-biggest-u.png",
+      "metadata_file": "output/2026-08-11/an-unreleased-anthropic-model-made-progress-on-one-of-math-s-biggest-u.json",
+      "published_at_utc": "2026-08-11T17:19:15Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b599334b3b79b44a7b33d",
+      "zernio_scheduled_for_utc": "2026-08-11T17:19:59.000Z"
+    },
     "output/2026-08-11/anker-s-travel-charger-works-in-almost-any-country-and-is-down-to-20.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/anker-s-travel-charger-works-in-almost-any-country-and-is-down-to-20.txt",
