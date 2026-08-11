@@ -30316,6 +30316,25 @@
       "zernio_post_id": "6a7a367d9d7049a72364cdc6",
       "zernio_scheduled_for_utc": "2026-08-10T20:38:01.000Z"
     },
+    "output/2026-08-11/the-ai-slop-backlash-is-actually-having-an-impact.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/the-ai-slop-backlash-is-actually-having-an-impact.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T09:57:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7af2072dcec9098dee7e36",
+          "zernio_scheduled_for_utc": "2026-08-11T10:17:00.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/the-ai-slop-backlash-is-actually-having-an-impact.png",
+      "metadata_file": "output/2026-08-11/the-ai-slop-backlash-is-actually-having-an-impact.json",
+      "published_at_utc": "2026-08-11T09:57:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7af2072dcec9098dee7e36",
+      "zernio_scheduled_for_utc": "2026-08-11T10:17:00.000Z"
+    },
     "output/2026-08-11/the-first-tesla-cybercab-with-integrated-starlink.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/the-first-tesla-cybercab-with-integrated-starlink.txt",
