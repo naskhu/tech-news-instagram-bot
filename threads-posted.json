@@ -29841,6 +29841,25 @@
       "zernio_post_id": "6a7a2c55b56dcc9542030a70",
       "zernio_scheduled_for_utc": "2026-08-10T20:13:31.000Z"
     },
+    "output/2026-08-11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T16:16:41Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b4ae853c9e3797503bc63",
+          "zernio_scheduled_for_utc": "2026-08-11T16:36:13.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight.png",
+      "metadata_file": "output/2026-08-11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight.json",
+      "published_at_utc": "2026-08-11T16:16:41Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b4ae853c9e3797503bc63",
+      "zernio_scheduled_for_utc": "2026-08-11T16:36:13.000Z"
+    },
     "output/2026-08-11/developer-cold-iron-studios-shuts-down-cloud-version-of-60-game-with-n.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/developer-cold-iron-studios-shuts-down-cloud-version-of-60-game-with-n.txt",
