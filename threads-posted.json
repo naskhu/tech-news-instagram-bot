@@ -29461,6 +29461,25 @@
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a7a1d6d430c4076b47c6b7d"
     },
+    "output/2026-08-11/2026-subaru-outback-review-great-interior-refined-drive-divisive-looks.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/2026-subaru-outback-review-great-interior-refined-drive-divisive-looks.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T04:08:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7aa051df690577cfe901c5",
+          "zernio_scheduled_for_utc": "2026-08-11T04:47:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/2026-subaru-outback-review-great-interior-refined-drive-divisive-looks.png",
+      "metadata_file": "output/2026-08-11/2026-subaru-outback-review-great-interior-refined-drive-divisive-looks.json",
+      "published_at_utc": "2026-08-11T04:08:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7aa051df690577cfe901c5",
+      "zernio_scheduled_for_utc": "2026-08-11T04:47:11.000Z"
+    },
     "output/2026-08-11/amazon-backs-power-plant-that-may-become-top-source-of-us-climate-poll.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/amazon-backs-power-plant-that-may-become-top-source-of-us-climate-poll.txt",
