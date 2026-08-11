@@ -31334,6 +31334,25 @@
       "zernio_post_id": "6a7b944a75f49f29eb6873c1",
       "zernio_scheduled_for_utc": "2026-08-11T22:08:09.000Z"
     },
+    "output/2026-08-12/made-by-google-2026-all-the-pixel-news-and-announcements.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/made-by-google-2026-all-the-pixel-news-and-announcements.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T23:24:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7baf13668bd624e9e3aa19",
+          "zernio_scheduled_for_utc": "2026-08-12T00:21:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/made-by-google-2026-all-the-pixel-news-and-announcements.png",
+      "metadata_file": "output/2026-08-12/made-by-google-2026-all-the-pixel-news-and-announcements.json",
+      "published_at_utc": "2026-08-11T23:24:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7baf13668bd624e9e3aa19",
+      "zernio_scheduled_for_utc": "2026-08-12T00:21:15.000Z"
+    },
     "output/2026-08-12/megalag-is-still-digging-up-dirt-on-honey.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/megalag-is-still-digging-up-dirt-on-honey.txt",
