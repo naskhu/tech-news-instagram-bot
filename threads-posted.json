@@ -30088,6 +30088,25 @@
       "zernio_post_id": "6a7ac24f98639df8ad8d8b44",
       "zernio_scheduled_for_utc": "2026-08-11T06:34:35.000Z"
     },
+    "output/2026-08-11/sealy-promo-codes-100-off.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/sealy-promo-codes-100-off.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T06:34:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7ac25a98639df8ad8d9016",
+          "zernio_scheduled_for_utc": "2026-08-11T07:12:25.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/sealy-promo-codes-100-off.png",
+      "metadata_file": "output/2026-08-11/sealy-promo-codes-100-off.json",
+      "published_at_utc": "2026-08-11T06:34:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7ac25a98639df8ad8d9016",
+      "zernio_scheduled_for_utc": "2026-08-11T07:12:25.000Z"
+    },
     "output/2026-08-11/skullcandy-discount-code-30-off-august-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/skullcandy-discount-code-30-off-august-2026.txt",
