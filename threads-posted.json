@@ -29955,6 +29955,25 @@
       "zernio_post_id": "6a7a41edd850abd3b2dce8a9",
       "zernio_scheduled_for_utc": "2026-08-10T21:26:49.000Z"
     },
+    "output/2026-08-11/gurman-says-the-glass-iphone-is-still-on-track.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/gurman-says-the-glass-iphone-is-still-on-track.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T11:41:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b0a82fa0ac0bc58b71e7f",
+          "zernio_scheduled_for_utc": "2026-08-11T11:42:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/gurman-says-the-glass-iphone-is-still-on-track.png",
+      "metadata_file": "output/2026-08-11/gurman-says-the-glass-iphone-is-still-on-track.json",
+      "published_at_utc": "2026-08-11T11:41:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b0a82fa0ac0bc58b71e7f",
+      "zernio_scheduled_for_utc": "2026-08-11T11:42:38.000Z"
+    },
     "output/2026-08-11/has-ford-got-cheap-car-fever-a-25k-crossover-is-supposedly-on-the-way.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/has-ford-got-cheap-car-fever-a-25k-crossover-is-supposedly-on-the-way.txt",
