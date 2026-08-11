@@ -30103,6 +30103,23 @@
       "zernio_post_id": "6a7a89d2a05bb299b2ef48e3",
       "zernio_scheduled_for_utc": "2026-08-11T03:30:04.000Z"
     },
+    "output/2026-08-11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai-techcrunch.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai-techcrunch.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T18:13:04Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7b661aa3d72944d360893e"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai-techcrunch.png",
+      "metadata_file": "output/2026-08-11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai-techcrunch.json",
+      "published_at_utc": "2026-08-11T18:13:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7b661aa3d72944d360893e"
+    },
     "output/2026-08-11/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-b.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-b.txt",
