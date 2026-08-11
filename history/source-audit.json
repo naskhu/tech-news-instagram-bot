@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-11T09:55:06.424747+00:00",
+  "run_utc": "2026-08-11T10:44:31.304667+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-10T09:55:06.424910+00:00",
-  "eligible_story_count": 233,
+  "cutoff_utc": "2026-08-10T10:44:31.304839+00:00",
+  "eligible_story_count": 232,
   "sources": [
     {
       "source": "TechCrunch",
@@ -37,10 +37,10 @@
       "rss_attempts": [
         {
           "url": "https://www.theverge.com/rss/index.xml",
-          "status": 404,
-          "content_type": "text/html",
-          "entries": 0,
-          "error": "HTTPError:404 Client Error: Not Found for url: https://www.theverge.com/rss/index.xml",
+          "status": 200,
+          "content_type": "application/xml; charset=UTF-8",
+          "entries": 10,
+          "error": "",
           "redirected_to": "https://www.theverge.com/rss/index.xml"
         }
       ],
@@ -52,11 +52,11 @@
           "error": ""
         }
       ],
-      "rss_candidates": 0,
+      "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
       "eligible_new": 0,
-      "already_processed": 21,
+      "already_processed": 26,
       "older_than_window": 9,
       "metadata_errors": {}
     },
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 12,
       "already_processed": 7,
-      "older_than_window": 97,
+      "older_than_window": 96,
       "metadata_errors": {}
     },
     {
@@ -348,7 +348,7 @@
       "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 11,
+      "eligible_new": 10,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -377,25 +377,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 21,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 29,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 58,
+      "eligible_new": 61,
       "already_processed": 0,
-      "older_than_window": 33,
+      "older_than_window": 34,
       "metadata_errors": {
-        "missing_title": 1,
-        "no_article_metadata": 5
+        "no_article_metadata": 5,
+        "missing_title": 1
       }
     },
     {
@@ -459,9 +459,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 6,
-      "already_processed": 48,
-      "older_than_window": 14,
+      "eligible_new": 3,
+      "already_processed": 50,
+      "older_than_window": 16,
       "metadata_errors": {}
     },
     {
@@ -501,9 +501,9 @@
       "rss_candidates": 28,
       "page_links": 40,
       "page_articles": 39,
-      "eligible_new": 19,
+      "eligible_new": 18,
       "already_processed": 11,
-      "older_than_window": 19,
+      "older_than_window": 20,
       "metadata_errors": {
         "http_404": 1
       }
@@ -570,12 +570,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 24,
-      "page_articles": 3,
+      "page_articles": 5,
       "eligible_new": 10,
       "already_processed": 4,
-      "older_than_window": 1,
+      "older_than_window": 2,
       "metadata_errors": {
-        "http_429": 21
+        "http_429": 19
       }
     },
     {
@@ -607,9 +607,9 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 30,
+      "eligible_new": 31,
       "already_processed": 29,
-      "older_than_window": 57,
+      "older_than_window": 56,
       "metadata_errors": {}
     },
     {
@@ -675,9 +675,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 18,
+      "eligible_new": 17,
       "already_processed": 28,
-      "older_than_window": 19,
+      "older_than_window": 20,
       "metadata_errors": {
         "no_article_metadata": 2
       }
