@@ -29803,6 +29803,25 @@
       "zernio_post_id": "6a7ad4fdf22f15e399a49bd5",
       "zernio_scheduled_for_utc": "2026-08-11T08:13:06.000Z"
     },
+    "output/2026-08-11/elon-musk-sam-altman-and-the-misreading-of-science-fiction.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/elon-musk-sam-altman-and-the-misreading-of-science-fiction.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T10:47:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7afdaa2268b958b88edb6f",
+          "zernio_scheduled_for_utc": "2026-08-11T10:47:51.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/elon-musk-sam-altman-and-the-misreading-of-science-fiction.png",
+      "metadata_file": "output/2026-08-11/elon-musk-sam-altman-and-the-misreading-of-science-fiction.json",
+      "published_at_utc": "2026-08-11T10:47:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7afdaa2268b958b88edb6f",
+      "zernio_scheduled_for_utc": "2026-08-11T10:47:51.000Z"
+    },
     "output/2026-08-11/enjoy-the-satisfying-sound-of-this-trebuchet-launching-a-projectile-at.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/enjoy-the-satisfying-sound-of-this-trebuchet-launching-a-projectile-at.txt",
