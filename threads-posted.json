@@ -29765,6 +29765,25 @@
       "zernio_post_id": "6a7a2c50d4d9d2238c837e84",
       "zernio_scheduled_for_utc": "2026-08-10T19:54:36.000Z"
     },
+    "output/2026-08-11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T14:05:29Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b2c28c8779ad01f3f6fbe",
+          "zernio_scheduled_for_utc": "2026-08-11T14:06:12.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move.png",
+      "metadata_file": "output/2026-08-11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move.json",
+      "published_at_utc": "2026-08-11T14:05:29Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b2c28c8779ad01f3f6fbe",
+      "zernio_scheduled_for_utc": "2026-08-11T14:06:12.000Z"
+    },
     "output/2026-08-11/claude-will-apply-invisible-watermarks-to-ai-text-and-images.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/claude-will-apply-invisible-watermarks-to-ai-text-and-images.txt",
