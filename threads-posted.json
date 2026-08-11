@@ -31144,6 +31144,25 @@
       "zernio_post_id": "6a7ba1411b94f22c8930abd1",
       "zernio_scheduled_for_utc": "2026-08-11T22:44:36.000Z"
     },
+    "output/2026-08-12/an-fcc-filing-points-to-new-sonos-headphones-coming-soon.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/an-fcc-filing-points-to-new-sonos-headphones-coming-soon.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T22:25:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7ba14e0df656620fce54e5",
+          "zernio_scheduled_for_utc": "2026-08-11T23:22:26.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/an-fcc-filing-points-to-new-sonos-headphones-coming-soon.png",
+      "metadata_file": "output/2026-08-12/an-fcc-filing-points-to-new-sonos-headphones-coming-soon.json",
+      "published_at_utc": "2026-08-11T22:25:19Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7ba14e0df656620fce54e5",
+      "zernio_scheduled_for_utc": "2026-08-11T23:22:26.000Z"
+    },
     "output/2026-08-12/an-update-on-the-phoebe-gates-shopping-app-saga.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/an-update-on-the-phoebe-gates-shopping-app-saga.txt",
