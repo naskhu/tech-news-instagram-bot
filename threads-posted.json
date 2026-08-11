@@ -30563,6 +30563,25 @@
       "zernio_post_id": "6a7a41f8414817cb2bad372f",
       "zernio_scheduled_for_utc": "2026-08-10T22:04:39.000Z"
     },
+    "output/2026-08-11/uk-courts-are-banning-smart-glasses-too.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/uk-courts-are-banning-smart-glasses-too.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T11:42:00Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b0a88aa197fe53c8454c0",
+          "zernio_scheduled_for_utc": "2026-08-11T12:01:33.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/uk-courts-are-banning-smart-glasses-too.png",
+      "metadata_file": "output/2026-08-11/uk-courts-are-banning-smart-glasses-too.json",
+      "published_at_utc": "2026-08-11T11:42:00Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b0a88aa197fe53c8454c0",
+      "zernio_scheduled_for_utc": "2026-08-11T12:01:33.000Z"
+    },
     "output/2026-08-11/valve-slowly-expands-steamos-support-on-non-valve-hardware.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/valve-slowly-expands-steamos-support-on-non-valve-hardware.txt",
