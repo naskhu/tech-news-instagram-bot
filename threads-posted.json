@@ -30392,6 +30392,25 @@
       "zernio_post_id": "6a7ae21bae10da477110b9fb",
       "zernio_scheduled_for_utc": "2026-08-11T09:27:54.000Z"
     },
+    "output/2026-08-11/the-rise-of-the-1-am-job-interview.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/the-rise-of-the-1-am-job-interview.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T09:57:38Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7af2122dfd9bb56ed3351b",
+          "zernio_scheduled_for_utc": "2026-08-11T10:54:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/the-rise-of-the-1-am-job-interview.png",
+      "metadata_file": "output/2026-08-11/the-rise-of-the-1-am-job-interview.json",
+      "published_at_utc": "2026-08-11T09:57:38Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7af2122dfd9bb56ed3351b",
+      "zernio_scheduled_for_utc": "2026-08-11T10:54:50.000Z"
+    },
     "output/2026-08-11/this-one-is-for-my-fellow-dickheads.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/this-one-is-for-my-fellow-dickheads.txt",
