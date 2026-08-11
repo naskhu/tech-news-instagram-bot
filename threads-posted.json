@@ -31124,6 +31124,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a7a368fc656f6fc664ce06f",
       "zernio_scheduled_for_utc": "2026-08-10T21:34:46.000Z"
+    },
+    "output/2026-08-12/openai-launches-chatgpt-desktop-app-for-linux.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/openai-launches-chatgpt-desktop-app-for-linux.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T19:29:22Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b7812332133e7de943693",
+          "zernio_scheduled_for_utc": "2026-08-11T19:30:07.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/openai-launches-chatgpt-desktop-app-for-linux.png",
+      "metadata_file": "output/2026-08-12/openai-launches-chatgpt-desktop-app-for-linux.json",
+      "published_at_utc": "2026-08-11T19:29:22Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b7812332133e7de943693",
+      "zernio_scheduled_for_utc": "2026-08-11T19:30:07.000Z"
     }
   }
 }
