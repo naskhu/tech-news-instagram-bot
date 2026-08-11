@@ -30449,6 +30449,25 @@
       "zernio_post_id": "6a7af2072dcec9098dee7e36",
       "zernio_scheduled_for_utc": "2026-08-11T10:17:00.000Z"
     },
+    "output/2026-08-11/the-ai-takeover-of-mathematics-has-begun.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/the-ai-takeover-of-mathematics-has-begun.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T11:42:06Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b0a8eaa197fe53c845700",
+          "zernio_scheduled_for_utc": "2026-08-11T12:20:28.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/the-ai-takeover-of-mathematics-has-begun.png",
+      "metadata_file": "output/2026-08-11/the-ai-takeover-of-mathematics-has-begun.json",
+      "published_at_utc": "2026-08-11T11:42:06Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b0a8eaa197fe53c845700",
+      "zernio_scheduled_for_utc": "2026-08-11T12:20:28.000Z"
+    },
     "output/2026-08-11/the-first-tesla-cybercab-with-integrated-starlink.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/the-first-tesla-cybercab-with-integrated-starlink.txt",
