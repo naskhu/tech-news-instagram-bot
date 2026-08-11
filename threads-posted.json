@@ -30107,6 +30107,25 @@
       "zernio_post_id": "6a7a67caed6acb0b27c63d70",
       "zernio_scheduled_for_utc": "2026-08-11T00:08:22.000Z"
     },
+    "output/2026-08-11/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T08:49:26Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7ae21501db390a62189c91",
+          "zernio_scheduled_for_utc": "2026-08-11T09:08:59.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-.png",
+      "metadata_file": "output/2026-08-11/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-.json",
+      "published_at_utc": "2026-08-11T08:49:26Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7ae21501db390a62189c91",
+      "zernio_scheduled_for_utc": "2026-08-11T09:08:59.000Z"
+    },
     "output/2026-08-11/peacock-adds-another-ai-game.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/peacock-adds-another-ai-game.txt",
