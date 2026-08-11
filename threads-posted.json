@@ -30297,6 +30297,25 @@
       "zernio_post_id": "6a7a67d5c706dcde2e157682",
       "zernio_scheduled_for_utc": "2026-08-11T00:46:12.000Z"
     },
+    "output/2026-08-11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fb.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fb.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T14:05:35Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b2c2f5f4cafe0179eceaa",
+          "zernio_scheduled_for_utc": "2026-08-11T14:25:07.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fb.png",
+      "metadata_file": "output/2026-08-11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fb.json",
+      "published_at_utc": "2026-08-11T14:05:35Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b2c2f5f4cafe0179eceaa",
+      "zernio_scheduled_for_utc": "2026-08-11T14:25:07.000Z"
+    },
     "output/2026-08-11/now-rippling-is-counter-suing-tiny-startup-runlayer.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/now-rippling-is-counter-suing-tiny-startup-runlayer.txt",
