@@ -31296,6 +31296,25 @@
       "zernio_post_id": "6a7b78189c716b9441980b1a",
       "zernio_scheduled_for_utc": "2026-08-11T19:49:02.000Z"
     },
+    "output/2026-08-12/google-s-upcoming-pixel-phones-are-for-the-fans-even-if-its-launch-eve.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/google-s-upcoming-pixel-phones-are-for-the-fans-even-if-its-launch-eve.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T23:23:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7baf0d668bd624e9e3a7e0",
+          "zernio_scheduled_for_utc": "2026-08-12T00:02:20.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/google-s-upcoming-pixel-phones-are-for-the-fans-even-if-its-launch-eve.png",
+      "metadata_file": "output/2026-08-12/google-s-upcoming-pixel-phones-are-for-the-fans-even-if-its-launch-eve.json",
+      "published_at_utc": "2026-08-11T23:23:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7baf0d668bd624e9e3a7e0",
+      "zernio_scheduled_for_utc": "2026-08-12T00:02:20.000Z"
+    },
     "output/2026-08-12/linux-has-a-native-chatgpt-desktop-app-now.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/linux-has-a-native-chatgpt-desktop-app-now.txt",
