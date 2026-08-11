@@ -30050,6 +30050,25 @@
       "zernio_post_id": "6a7a2c60d4d9d2238c838479",
       "zernio_scheduled_for_utc": "2026-08-10T20:51:21.000Z"
     },
+    "output/2026-08-11/petlibro-offers-30-off-in-august-2026.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/petlibro-offers-30-off-in-august-2026.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T06:33:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7ac25598639df8ad8d8d89",
+          "zernio_scheduled_for_utc": "2026-08-11T06:53:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/petlibro-offers-30-off-in-august-2026.png",
+      "metadata_file": "output/2026-08-11/petlibro-offers-30-off-in-august-2026.json",
+      "published_at_utc": "2026-08-11T06:33:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7ac25598639df8ad8d8d89",
+      "zernio_scheduled_for_utc": "2026-08-11T06:53:30.000Z"
+    },
     "output/2026-08-11/playstation-discount-code-save-on-ps5-games-august-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/playstation-discount-code-save-on-ps5-games-august-2026.txt",
