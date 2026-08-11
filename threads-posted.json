@@ -31125,6 +31125,25 @@
       "zernio_post_id": "6a7a368fc656f6fc664ce06f",
       "zernio_scheduled_for_utc": "2026-08-10T21:34:46.000Z"
     },
+    "output/2026-08-12/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-st.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-st.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T20:24:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7b84ead0bd4f2ab51f939b",
+          "zernio_scheduled_for_utc": "2026-08-11T20:43:43.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-st.png",
+      "metadata_file": "output/2026-08-12/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-st.json",
+      "published_at_utc": "2026-08-11T20:24:10Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7b84ead0bd4f2ab51f939b",
+      "zernio_scheduled_for_utc": "2026-08-11T20:43:43.000Z"
+    },
     "output/2026-08-12/google-s-free-streaming-service-now-lets-you-pick-shows-and-movies-to-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/google-s-free-streaming-service-now-lets-you-pick-shows-and-movies-to-.txt",
