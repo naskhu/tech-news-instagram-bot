@@ -29537,6 +29537,25 @@
       "zernio_post_id": "6a7aa0576a6bd9d2ed4825c6",
       "zernio_scheduled_for_utc": "2026-08-11T05:06:06.000Z"
     },
+    "output/2026-08-11/ai-is-helping-solve-the-intricate-genetic-puzzle-of-schizophrenia.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-11/ai-is-helping-solve-the-intricate-genetic-puzzle-of-schizophrenia.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-11T09:57:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7af20104bb21af53758e9e",
+          "zernio_scheduled_for_utc": "2026-08-11T09:58:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-11/ai-is-helping-solve-the-intricate-genetic-puzzle-of-schizophrenia.png",
+      "metadata_file": "output/2026-08-11/ai-is-helping-solve-the-intricate-genetic-puzzle-of-schizophrenia.json",
+      "published_at_utc": "2026-08-11T09:57:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7af20104bb21af53758e9e",
+      "zernio_scheduled_for_utc": "2026-08-11T09:58:05.000Z"
+    },
     "output/2026-08-11/amazon-backs-power-plant-that-may-become-top-source-of-us-climate-poll.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-11/amazon-backs-power-plant-that-may-become-top-source-of-us-climate-poll.txt",
