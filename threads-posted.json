@@ -31581,6 +31581,25 @@
       "zernio_post_id": "6a7baf13668bd624e9e3aa19",
       "zernio_scheduled_for_utc": "2026-08-12T00:21:15.000Z"
     },
+    "output/2026-08-12/mcdonald-s-built-a-515-page-dossier-on-me-it-says-i-ll-never-stop-eati.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/mcdonald-s-built-a-515-page-dossier-on-me-it-says-i-ll-never-stop-eati.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T10:42:50Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c4e2a309aada3c305ed0a",
+          "zernio_scheduled_for_utc": "2026-08-12T11:40:02.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/mcdonald-s-built-a-515-page-dossier-on-me-it-says-i-ll-never-stop-eati.png",
+      "metadata_file": "output/2026-08-12/mcdonald-s-built-a-515-page-dossier-on-me-it-says-i-ll-never-stop-eati.json",
+      "published_at_utc": "2026-08-12T10:42:50Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c4e2a309aada3c305ed0a",
+      "zernio_scheduled_for_utc": "2026-08-12T11:40:02.000Z"
+    },
     "output/2026-08-12/megalag-is-still-digging-up-dirt-on-honey.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/megalag-is-still-digging-up-dirt-on-honey.txt",
