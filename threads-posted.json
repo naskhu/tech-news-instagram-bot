@@ -32637,6 +32637,25 @@
       "zernio_post_id": "6a7ce16783d1e4a238bd43a1",
       "zernio_scheduled_for_utc": "2026-08-12T21:11:47.000Z"
     },
+    "output/2026-08-13/pixel-11-event-live-blog-let-s-watch-trevor-noah-introduce-google-s-ne.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/pixel-11-event-live-blog-let-s-watch-trevor-noah-introduce-google-s-ne.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T22:06:47Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7cee76aa8a86a2ef319585",
+          "zernio_scheduled_for_utc": "2026-08-12T22:07:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/pixel-11-event-live-blog-let-s-watch-trevor-noah-introduce-google-s-ne.png",
+      "metadata_file": "output/2026-08-13/pixel-11-event-live-blog-let-s-watch-trevor-noah-introduce-google-s-ne.json",
+      "published_at_utc": "2026-08-12T22:06:47Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7cee76aa8a86a2ef319585",
+      "zernio_scheduled_for_utc": "2026-08-12T22:07:30.000Z"
+    },
     "output/2026-08-13/tesla-s-planning-to-build-a-10-million-solar-panel-factory-in-texas.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/tesla-s-planning-to-build-a-10-million-solar-panel-factory-in-texas.txt",
