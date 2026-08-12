@@ -32075,6 +32075,25 @@
       "zernio_post_id": "6a7c16e1632bdd8d3b233135",
       "zernio_scheduled_for_utc": "2026-08-12T06:47:41.000Z"
     },
+    "output/2026-08-12/wahoo-takes-on-garmin-and-strava.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/wahoo-takes-on-garmin-and-strava.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T12:31:16Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c67943a9fd0f2566e2418",
+          "zernio_scheduled_for_utc": "2026-08-12T12:50:48.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/wahoo-takes-on-garmin-and-strava.png",
+      "metadata_file": "output/2026-08-12/wahoo-takes-on-garmin-and-strava.json",
+      "published_at_utc": "2026-08-12T12:31:16Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c67943a9fd0f2566e2418",
+      "zernio_scheduled_for_utc": "2026-08-12T12:50:48.000Z"
+    },
     "output/2026-08-12/walmart-promo-codes-up-to-65-off-for-august-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/walmart-promo-codes-up-to-65-off-for-august-2026.txt",
