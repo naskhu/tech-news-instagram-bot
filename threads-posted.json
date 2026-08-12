@@ -32656,6 +32656,25 @@
       "zernio_post_id": "6a7cfcab07ebfb7faad6aba3",
       "zernio_scheduled_for_utc": "2026-08-12T23:45:45.000Z"
     },
+    "output/2026-08-13/ice-wants-to-give-agents-electrified-gloves-that-shock-people-into-com.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/ice-wants-to-give-agents-electrified-gloves-that-shock-people-into-com.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T23:07:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7cfcb3d87c689b49c522a4",
+          "zernio_scheduled_for_utc": "2026-08-13T00:04:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/ice-wants-to-give-agents-electrified-gloves-that-shock-people-into-com.png",
+      "metadata_file": "output/2026-08-13/ice-wants-to-give-agents-electrified-gloves-that-shock-people-into-com.json",
+      "published_at_utc": "2026-08-12T23:07:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7cfcb3d87c689b49c522a4",
+      "zernio_scheduled_for_utc": "2026-08-13T00:04:40.000Z"
+    },
     "output/2026-08-13/it-looks-like-apple-s-iphone-18-really-will-skip-the-fall-launch-this-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/it-looks-like-apple-s-iphone-18-really-will-skip-the-fall-launch-this-.txt",
