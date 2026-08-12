@@ -32769,6 +32769,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a7cd64c0f3a6542c2cd330e",
       "zernio_scheduled_for_utc": "2026-08-12T21:20:50.000Z"
+    },
+    "output/2026-08-13/twitch-streamers-can-now-opt-out-from-training-amazon-s-ai.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/twitch-streamers-can-now-opt-out-from-training-amazon-s-ai.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T22:07:04Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7cee8804807a335cd3941c",
+          "zernio_scheduled_for_utc": "2026-08-12T23:04:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/twitch-streamers-can-now-opt-out-from-training-amazon-s-ai.png",
+      "metadata_file": "output/2026-08-13/twitch-streamers-can-now-opt-out-from-training-amazon-s-ai.json",
+      "published_at_utc": "2026-08-12T22:07:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7cee8804807a335cd3941c",
+      "zernio_scheduled_for_utc": "2026-08-12T23:04:15.000Z"
     }
   }
 }
