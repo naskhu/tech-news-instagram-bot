@@ -31446,6 +31446,23 @@
       "zernio_post_id": "6a7be49bb456dbc09ecee9da",
       "zernio_scheduled_for_utc": "2026-08-12T03:32:01.000Z"
     },
+    "output/2026-08-12/everything-announced-at-made-by-google-26-pixel-11-pixel-watch-5-pixel.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/everything-announced-at-made-by-google-26-pixel-11-pixel-watch-5-pixel.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T18:14:00Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7cb7c6281e236a9e73b184"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/everything-announced-at-made-by-google-26-pixel-11-pixel-watch-5-pixel.png",
+      "metadata_file": "output/2026-08-12/everything-announced-at-made-by-google-26-pixel-11-pixel-watch-5-pixel.json",
+      "published_at_utc": "2026-08-12T18:14:00Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7cb7c6281e236a9e73b184"
+    },
     "output/2026-08-12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-a.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-a.txt",
