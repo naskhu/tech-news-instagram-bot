@@ -32504,6 +32504,25 @@
       "zernio_post_id": "6a7cc9f87cecea8a953387ec",
       "zernio_scheduled_for_utc": "2026-08-12T19:50:36.000Z"
     },
+    "output/2026-08-13/google-s-quick-share-adds-a-tap-to-share-mode-techcrunch.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/google-s-quick-share-adds-a-tap-to-share-mode-techcrunch.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T19:31:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7cc9fe61fbe72f6014d72f",
+          "zernio_scheduled_for_utc": "2026-08-12T20:09:31.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/google-s-quick-share-adds-a-tap-to-share-mode-techcrunch.png",
+      "metadata_file": "output/2026-08-13/google-s-quick-share-adds-a-tap-to-share-mode-techcrunch.json",
+      "published_at_utc": "2026-08-12T19:31:10Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7cc9fe61fbe72f6014d72f",
+      "zernio_scheduled_for_utc": "2026-08-12T20:09:31.000Z"
+    },
     "output/2026-08-13/grubhub-s-24m-ftc-settlement-is-finally-reaching-diners-and-drivers-te.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/grubhub-s-24m-ftc-settlement-is-finally-reaching-diners-and-drivers-te.txt",
