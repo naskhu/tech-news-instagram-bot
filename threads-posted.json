@@ -32598,6 +32598,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a7cd63f0f3a6542c2cd2c9f",
       "zernio_scheduled_for_utc": "2026-08-12T20:43:00.000Z"
+    },
+    "output/2026-08-13/this-week-in-the-big-ai-data-center-buildout.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/this-week-in-the-big-ai-data-center-buildout.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T20:23:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7cd6457c06b448d16f16e3",
+          "zernio_scheduled_for_utc": "2026-08-12T21:01:55.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/this-week-in-the-big-ai-data-center-buildout.png",
+      "metadata_file": "output/2026-08-13/this-week-in-the-big-ai-data-center-buildout.json",
+      "published_at_utc": "2026-08-12T20:23:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7cd6457c06b448d16f16e3",
+      "zernio_scheduled_for_utc": "2026-08-12T21:01:55.000Z"
     }
   }
 }
