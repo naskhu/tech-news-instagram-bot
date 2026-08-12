@@ -31201,6 +31201,25 @@
       "zernio_post_id": "6a7ba1411b94f22c8930abd1",
       "zernio_scheduled_for_utc": "2026-08-11T22:44:36.000Z"
     },
+    "output/2026-08-12/after-microsoft-threatened-legal-action-a-security-researcher-publishe.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/after-microsoft-threatened-legal-action-a-security-researcher-publishe.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T16:15:35Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c9c27e455d4a7a2694dbd",
+          "zernio_scheduled_for_utc": "2026-08-12T17:12:44.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/after-microsoft-threatened-legal-action-a-security-researcher-publishe.png",
+      "metadata_file": "output/2026-08-12/after-microsoft-threatened-legal-action-a-security-researcher-publishe.json",
+      "published_at_utc": "2026-08-12T16:15:35Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c9c27e455d4a7a2694dbd",
+      "zernio_scheduled_for_utc": "2026-08-12T17:12:44.000Z"
+    },
     "output/2026-08-12/ai-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x-in-les.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/ai-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x-in-les.txt",
