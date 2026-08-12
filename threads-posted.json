@@ -31448,6 +31448,25 @@
       "zernio_post_id": "6a7bc1635577c1507b961493",
       "zernio_scheduled_for_utc": "2026-08-12T01:01:45.000Z"
     },
+    "output/2026-08-12/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T06:47:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c16e7632bdd8d3b2332a6",
+          "zernio_scheduled_for_utc": "2026-08-12T07:06:36.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells.png",
+      "metadata_file": "output/2026-08-12/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells.json",
+      "published_at_utc": "2026-08-12T06:47:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c16e7632bdd8d3b2332a6",
+      "zernio_scheduled_for_utc": "2026-08-12T07:06:36.000Z"
+    },
     "output/2026-08-12/linux-has-a-native-chatgpt-desktop-app-now.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/linux-has-a-native-chatgpt-desktop-app-now.txt",
