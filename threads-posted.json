@@ -31562,6 +31562,25 @@
       "zernio_post_id": "6a7bffb9940ef0f39994b753",
       "zernio_scheduled_for_utc": "2026-08-12T05:46:31.000Z"
     },
+    "output/2026-08-12/new-surveillance-tech-links-your-phone-to-your-license-plate.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/new-surveillance-tech-links-your-phone-to-your-license-plate.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T08:14:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c2b63e845cbabcda46f7e",
+          "zernio_scheduled_for_utc": "2026-08-12T08:52:51.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/new-surveillance-tech-links-your-phone-to-your-license-plate.png",
+      "metadata_file": "output/2026-08-12/new-surveillance-tech-links-your-phone-to-your-license-plate.json",
+      "published_at_utc": "2026-08-12T08:14:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c2b63e845cbabcda46f7e",
+      "zernio_scheduled_for_utc": "2026-08-12T08:52:51.000Z"
+    },
     "output/2026-08-12/openai-launches-chatgpt-desktop-app-for-linux.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/openai-launches-chatgpt-desktop-app-for-linux.txt",
