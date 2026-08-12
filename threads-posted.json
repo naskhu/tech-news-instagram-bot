@@ -31410,6 +31410,25 @@
       "zernio_post_id": "6a7be49bb456dbc09ecee9da",
       "zernio_scheduled_for_utc": "2026-08-12T03:32:01.000Z"
     },
+    "output/2026-08-12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-a.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-a.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T16:15:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c9c1bb155d92ed8f0f6e5",
+          "zernio_scheduled_for_utc": "2026-08-12T16:34:54.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-a.png",
+      "metadata_file": "output/2026-08-12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-a.json",
+      "published_at_utc": "2026-08-12T16:15:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c9c1bb155d92ed8f0f6e5",
+      "zernio_scheduled_for_utc": "2026-08-12T16:34:54.000Z"
+    },
     "output/2026-08-12/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-st.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-st.txt",
