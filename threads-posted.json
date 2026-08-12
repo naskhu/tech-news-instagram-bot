@@ -31959,6 +31959,23 @@
       "zernio_post_id": "6a7c2b68ad7c9d7fe7e33a92",
       "zernio_scheduled_for_utc": "2026-08-12T09:11:46.000Z"
     },
+    "output/2026-08-12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T18:12:50Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7cb7967afa6fc2a39f42a3"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise-.png",
+      "metadata_file": "output/2026-08-12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise-.json",
+      "published_at_utc": "2026-08-12T18:12:50Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7cb7967afa6fc2a39f42a3"
+    },
     "output/2026-08-12/openai-launches-chatgpt-desktop-app-for-linux.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/openai-launches-chatgpt-desktop-app-for-linux.txt",
