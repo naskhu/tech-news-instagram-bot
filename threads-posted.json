@@ -31828,6 +31828,25 @@
       "zernio_post_id": "6a7bc15e5577c1507b9610e1",
       "zernio_scheduled_for_utc": "2026-08-12T00:42:50.000Z"
     },
+    "output/2026-08-12/sergey-brin-spends-over-100-million-to-fight-wealth-tax.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/sergey-brin-spends-over-100-million-to-fight-wealth-tax.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T11:31:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c59778dd5a9cf0ce3a68e",
+          "zernio_scheduled_for_utc": "2026-08-12T12:09:26.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/sergey-brin-spends-over-100-million-to-fight-wealth-tax.png",
+      "metadata_file": "output/2026-08-12/sergey-brin-spends-over-100-million-to-fight-wealth-tax.json",
+      "published_at_utc": "2026-08-12T11:31:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c59778dd5a9cf0ce3a68e",
+      "zernio_scheduled_for_utc": "2026-08-12T12:09:26.000Z"
+    },
     "output/2026-08-12/suno-has-struck-a-global-alliance-with-the-music-company-bmg.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/suno-has-struck-a-global-alliance-with-the-music-company-bmg.txt",
