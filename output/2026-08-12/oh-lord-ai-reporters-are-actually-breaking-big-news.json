@@ -1,0 +1,23 @@
+{
+  "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+  "summary": "He told me a story about how his AI agents had found a few actual scoops about startups by trawling company websites and that he’d retracted the stories after the companies named asked him to do so—not because they were inaccurate, but…",
+  "source": "Wired",
+  "url": "https://wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger",
+  "published_utc": "2026-08-12T10:30:00+00:00",
+  "output_day": "2026-08-12",
+  "date_source": "meta",
+  "generated_utc": "2026-08-12T10:41:18.782461+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a7ba72882c71ca2ec1d3267/master/pass/AI-Breaking-News-Business.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-08-12/oh-lord-ai-reporters-are-actually-breaking-big-news.png",
+  "caption": "output/2026-08-12/oh-lord-ai-reporters-are-actually-breaking-big-news.txt"
+}
