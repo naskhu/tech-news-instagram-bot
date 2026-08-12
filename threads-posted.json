@@ -32617,6 +32617,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a7cd6457c06b448d16f16e3",
       "zernio_scheduled_for_utc": "2026-08-12T21:01:55.000Z"
+    },
+    "output/2026-08-13/trump-sued-over-truth-social-subscription-that-offers-early-access-to-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/trump-sued-over-truth-social-subscription-that-offers-early-access-to-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T20:23:40Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7cd64c0f3a6542c2cd330e",
+          "zernio_scheduled_for_utc": "2026-08-12T21:20:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/trump-sued-over-truth-social-subscription-that-offers-early-access-to-.png",
+      "metadata_file": "output/2026-08-13/trump-sued-over-truth-social-subscription-that-offers-early-access-to-.json",
+      "published_at_utc": "2026-08-12T20:23:40Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7cd64c0f3a6542c2cd330e",
+      "zernio_scheduled_for_utc": "2026-08-12T21:20:50.000Z"
     }
   }
 }
