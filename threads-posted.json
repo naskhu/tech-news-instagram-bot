@@ -32337,6 +32337,23 @@
       "zernio_post_id": "6a7be4a1348eae6dbe99fe8d",
       "zernio_scheduled_for_utc": "2026-08-12T03:50:56.000Z"
     },
+    "output/2026-08-12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T18:13:20Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7cb7a78d6af3bf89d2977f"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-.png",
+      "metadata_file": "output/2026-08-12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-.json",
+      "published_at_utc": "2026-08-12T18:13:20Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7cb7a78d6af3bf89d2977f"
+    },
     "output/2026-08-12/uber-surprised-robotics-company-serve-by-selling-its-entire-stake.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/uber-surprised-robotics-company-serve-by-selling-its-entire-stake.txt",
