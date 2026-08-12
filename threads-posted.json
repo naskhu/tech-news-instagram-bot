@@ -31505,6 +31505,25 @@
       "zernio_post_id": "6a7baf0d668bd624e9e3a7e0",
       "zernio_scheduled_for_utc": "2026-08-12T00:02:20.000Z"
     },
+    "output/2026-08-12/grok-is-now-an-ai-teammate-you-can-assign-work.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/grok-is-now-an-ai-teammate-you-can-assign-work.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T12:31:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c679b816ec98c3823b3e9",
+          "zernio_scheduled_for_utc": "2026-08-12T13:09:43.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/grok-is-now-an-ai-teammate-you-can-assign-work.png",
+      "metadata_file": "output/2026-08-12/grok-is-now-an-ai-teammate-you-can-assign-work.json",
+      "published_at_utc": "2026-08-12T12:31:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c679b816ec98c3823b3e9",
+      "zernio_scheduled_for_utc": "2026-08-12T13:09:43.000Z"
+    },
     "output/2026-08-12/india-s-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand-tec.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/india-s-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand-tec.txt",
