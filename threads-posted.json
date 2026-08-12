@@ -31771,6 +31771,25 @@
       "zernio_post_id": "6a7bc15e5577c1507b9610e1",
       "zernio_scheduled_for_utc": "2026-08-12T00:42:50.000Z"
     },
+    "output/2026-08-12/suno-has-struck-a-global-alliance-with-the-music-company-bmg.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-12/suno-has-struck-a-global-alliance-with-the-music-company-bmg.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-12T10:42:39Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7c4e1e309aada3c305e923",
+          "zernio_scheduled_for_utc": "2026-08-12T11:02:12.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-12/suno-has-struck-a-global-alliance-with-the-music-company-bmg.png",
+      "metadata_file": "output/2026-08-12/suno-has-struck-a-global-alliance-with-the-music-company-bmg.json",
+      "published_at_utc": "2026-08-12T10:42:39Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7c4e1e309aada3c305e923",
+      "zernio_scheduled_for_utc": "2026-08-12T11:02:12.000Z"
+    },
     "output/2026-08-12/tesla-roadster-is-coming-very-soon-no-extra-really.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-12/tesla-roadster-is-coming-very-soon-no-extra-really.txt",
