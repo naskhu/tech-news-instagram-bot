@@ -33131,6 +33131,25 @@
       "zernio_post_id": "6a7ce16783d1e4a238bd43a1",
       "zernio_scheduled_for_utc": "2026-08-12T21:11:47.000Z"
     },
+    "output/2026-08-13/nvidia-s-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpu.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/nvidia-s-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpu.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T15:20:24Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7de0b87adbbfc62ef8ab2f",
+          "zernio_scheduled_for_utc": "2026-08-13T15:21:07.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/nvidia-s-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpu.png",
+      "metadata_file": "output/2026-08-13/nvidia-s-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpu.json",
+      "published_at_utc": "2026-08-13T15:20:24Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7de0b87adbbfc62ef8ab2f",
+      "zernio_scheduled_for_utc": "2026-08-13T15:21:07.000Z"
+    },
     "output/2026-08-13/pixel-11-event-live-blog-let-s-watch-trevor-noah-introduce-google-s-ne.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/pixel-11-event-live-blog-let-s-watch-trevor-noah-introduce-google-s-ne.txt",
