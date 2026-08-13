@@ -32846,6 +32846,23 @@
       "zernio_post_id": "6a7d9d61d31262490f8bc9e4",
       "zernio_scheduled_for_utc": "2026-08-13T11:30:15.000Z"
     },
+    "output/2026-08-13/gemini-spark-is-now-powered-by-google-s-upgraded-flash-model.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/gemini-spark-is-now-powered-by-google-s-upgraded-flash-model.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T18:12:15Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7e08eafd9aeda193ae6e92"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/gemini-spark-is-now-powered-by-google-s-upgraded-flash-model.png",
+      "metadata_file": "output/2026-08-13/gemini-spark-is-now-powered-by-google-s-upgraded-flash-model.json",
+      "published_at_utc": "2026-08-13T18:12:15Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7e08eafd9aeda193ae6e92"
+    },
     "output/2026-08-13/google-aims-for-influencers-with-the-pixel-11-creator-suite.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/google-aims-for-influencers-with-the-pixel-11-creator-suite.txt",
