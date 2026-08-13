@@ -34092,6 +34092,25 @@
       "zernio_post_id": "6a7e4e3fbed845d1f9e984b9",
       "zernio_scheduled_for_utc": "2026-08-13T23:08:27.000Z"
     },
+    "output/2026-08-14/microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilo.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilo.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T23:07:55Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7e4e4abed845d1f9e9891b",
+          "zernio_scheduled_for_utc": "2026-08-13T23:46:17.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilo.png",
+      "metadata_file": "output/2026-08-14/microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilo.json",
+      "published_at_utc": "2026-08-13T23:07:55Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7e4e4abed845d1f9e9891b",
+      "zernio_scheduled_for_utc": "2026-08-13T23:46:17.000Z"
+    },
     "output/2026-08-14/netflix-is-closing-two-game-studios.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/netflix-is-closing-two-game-studios.txt",
