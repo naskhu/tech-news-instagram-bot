@@ -1,0 +1,23 @@
+{
+  "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+  "summary": "Anthropic explained that a “detected mark provides a signal that content was processed by Claude, but is not fully conclusive.” The only real message the mark sends is that “the content may have been processed by Claude,” Anthropic said, and the mark…",
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now",
+  "published_utc": "2026-08-13T11:10:18+00:00",
+  "output_day": "2026-08-13",
+  "date_source": "meta",
+  "generated_utc": "2026-08-13T11:26:59.799110+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 5,
+  "theme_accent_rgb": [
+    245,
+    91,
+    46
+  ],
+  "image": "output/2026-08-13/claude-s-new-scarlet-letter-watermark-is-invisible-for-now.png",
+  "caption": "output/2026-08-13/claude-s-new-scarlet-letter-watermark-is-invisible-for-now.txt"
+}
