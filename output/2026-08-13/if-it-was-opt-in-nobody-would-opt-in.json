@@ -1,0 +1,23 @@
+{
+  "title": "‘If it was opt-in, nobody would opt in.’",
+  "summary": "According to Twitch chief product officer Mike Minton, that’s the “honest answer” as to why the streaming platform has started training Amazon’s generative AI models on users’ content by default.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/979392/twitch-ai-training-nobody-would-opt-in",
+  "published_utc": "2026-08-13T09:09:36+00:00",
+  "output_day": "2026-08-13",
+  "date_source": "meta",
+  "generated_utc": "2026-08-13T10:31:18.345117+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/petlibro-granary.webp?quality=90&strip=all&crop=10%2C0%2C80%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 10,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-13/if-it-was-opt-in-nobody-would-opt-in.png",
+  "caption": "output/2026-08-13/if-it-was-opt-in-nobody-would-opt-in.txt"
+}
