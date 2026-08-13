@@ -33625,6 +33625,25 @@
       "zernio_post_id": "6a7d89bb9991de3d08b4db47",
       "zernio_scheduled_for_utc": "2026-08-13T09:28:49.000Z"
     },
+    "output/2026-08-13/who-really-needs-a-cocktail-robot-techcrunch.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/who-really-needs-a-cocktail-robot-techcrunch.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T15:20:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7de0bea279695d26fea840",
+          "zernio_scheduled_for_utc": "2026-08-13T15:40:02.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/who-really-needs-a-cocktail-robot-techcrunch.png",
+      "metadata_file": "output/2026-08-13/who-really-needs-a-cocktail-robot-techcrunch.json",
+      "published_at_utc": "2026-08-13T15:20:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7de0bea279695d26fea840",
+      "zernio_scheduled_for_utc": "2026-08-13T15:40:02.000Z"
+    },
     "output/2026-08-13/youtube-s-ai-chatbot-search-comes-to-mobile.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/youtube-s-ai-chatbot-search-comes-to-mobile.txt",
