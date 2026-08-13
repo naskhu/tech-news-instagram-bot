@@ -32675,6 +32675,25 @@
       "zernio_post_id": "6a7cee82aa8a86a2ef3199b6",
       "zernio_scheduled_for_utc": "2026-08-12T22:45:20.000Z"
     },
+    "output/2026-08-13/formula-e-finds-a-new-home-on-disney-espn.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/formula-e-finds-a-new-home-on-disney-espn.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T10:33:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7d9d61d31262490f8bc9e4",
+          "zernio_scheduled_for_utc": "2026-08-13T11:30:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/formula-e-finds-a-new-home-on-disney-espn.png",
+      "metadata_file": "output/2026-08-13/formula-e-finds-a-new-home-on-disney-espn.json",
+      "published_at_utc": "2026-08-13T10:33:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7d9d61d31262490f8bc9e4",
+      "zernio_scheduled_for_utc": "2026-08-13T11:30:15.000Z"
+    },
     "output/2026-08-13/google-aims-for-influencers-with-the-pixel-11-creator-suite.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/google-aims-for-influencers-with-the-pixel-11-creator-suite.txt",
