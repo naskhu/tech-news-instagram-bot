@@ -33245,6 +33245,25 @@
       "zernio_post_id": "6a7de0b87adbbfc62ef8ab2f",
       "zernio_scheduled_for_utc": "2026-08-13T15:21:07.000Z"
     },
+    "output/2026-08-13/openai-hires-new-cro-as-executive-shake-up-continues.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/openai-hires-new-cro-as-executive-shake-up-continues.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T17:18:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7dfc5b5bccab1000b02d49",
+          "zernio_scheduled_for_utc": "2026-08-13T17:19:03.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/openai-hires-new-cro-as-executive-shake-up-continues.png",
+      "metadata_file": "output/2026-08-13/openai-hires-new-cro-as-executive-shake-up-continues.json",
+      "published_at_utc": "2026-08-13T17:18:19Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7dfc5b5bccab1000b02d49",
+      "zernio_scheduled_for_utc": "2026-08-13T17:19:03.000Z"
+    },
     "output/2026-08-13/pixel-11-event-live-blog-let-s-watch-trevor-noah-introduce-google-s-ne.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/pixel-11-event-live-blog-let-s-watch-trevor-noah-introduce-google-s-ne.txt",
