@@ -1,0 +1,23 @@
+{
+  "title": "The web’s newest weapon against AI scrapers is a font",
+  "summary": "On average, ShieldFont ends up replacing 24.5 percent of all words on a page, including 45.8 percent of all “content words,” marring the meaning of anywhere from 31 to 56 percent of individual passages (depending on the corpus studied).",
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers",
+  "published_utc": "2026-08-12T22:02:25+00:00",
+  "output_day": "2026-08-13",
+  "date_source": "meta",
+  "generated_utc": "2026-08-13T06:13:24.439565+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 9,
+  "theme_accent_rgb": [
+    245,
+    91,
+    46
+  ],
+  "image": "output/2026-08-13/the-web-s-newest-weapon-against-ai-scrapers-is-a-font.png",
+  "caption": "output/2026-08-13/the-web-s-newest-weapon-against-ai-scrapers-is-a-font.txt"
+}
