@@ -1,0 +1,23 @@
+{
+  "title": "Anthropic set AI agents loose on the same task. They started a turf war. | TechCrunch",
+  "summary": "While that incident shows that agents can work well together, with potentially large-scale consequences, Anthropic’s study shows what happens when agents’ goals are incompatible. Working together creates a new trust boundary; agents will have to judge information received from other agents.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
+  "published_utc": "2026-08-13T18:28:14+00:00",
+  "output_day": "2026-08-14",
+  "date_source": "meta",
+  "generated_utc": "2026-08-13T19:29:57.796005+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-08-14/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war.png",
+  "caption": "output/2026-08-14/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war.txt"
+}
