@@ -32960,6 +32960,25 @@
       "zernio_post_id": "6a7cd63f0f3a6542c2cd2c9f",
       "zernio_scheduled_for_utc": "2026-08-12T20:43:00.000Z"
     },
+    "output/2026-08-13/the-pixel-tag-is-google-s-answer-to-the-airtag.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/the-pixel-tag-is-google-s-answer-to-the-airtag.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T04:50:16Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7d4d07e4fe5db74ddeabad",
+          "zernio_scheduled_for_utc": "2026-08-13T05:09:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/the-pixel-tag-is-google-s-answer-to-the-airtag.png",
+      "metadata_file": "output/2026-08-13/the-pixel-tag-is-google-s-answer-to-the-airtag.json",
+      "published_at_utc": "2026-08-13T04:50:16Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7d4d07e4fe5db74ddeabad",
+      "zernio_scheduled_for_utc": "2026-08-13T05:09:50.000Z"
+    },
     "output/2026-08-13/this-8bitdo-mechanical-keyboard-has-an-extra-keypad-and-is-30-percent-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/this-8bitdo-mechanical-keyboard-has-an-extra-keypad-and-is-30-percent-.txt",
