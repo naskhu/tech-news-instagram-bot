@@ -33036,6 +33036,25 @@
       "zernio_post_id": "6a7cca04291a664cb74c1e33",
       "zernio_scheduled_for_utc": "2026-08-12T20:28:26.000Z"
     },
+    "output/2026-08-13/ninja-s-new-water-filter-is-speedier-than-a-brita.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/ninja-s-new-water-filter-is-speedier-than-a-brita.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T12:32:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7db9439dcb409bb9f042d9",
+          "zernio_scheduled_for_utc": "2026-08-13T12:32:47.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/ninja-s-new-water-filter-is-speedier-than-a-brita.png",
+      "metadata_file": "output/2026-08-13/ninja-s-new-water-filter-is-speedier-than-a-brita.json",
+      "published_at_utc": "2026-08-13T12:32:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7db9439dcb409bb9f042d9",
+      "zernio_scheduled_for_utc": "2026-08-13T12:32:47.000Z"
+    },
     "output/2026-08-13/northrop-s-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-wor.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/northrop-s-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-wor.txt",
