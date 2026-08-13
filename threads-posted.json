@@ -33997,6 +33997,25 @@
       "zernio_post_id": "6a7e1b8827415b014bdce422",
       "zernio_scheduled_for_utc": "2026-08-13T19:50:53.000Z"
     },
+    "output/2026-08-14/netflix-is-closing-two-game-studios.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/netflix-is-closing-two-game-studios.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T21:08:42Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7e325936ae89b993b7e59a",
+          "zernio_scheduled_for_utc": "2026-08-13T21:28:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/netflix-is-closing-two-game-studios.png",
+      "metadata_file": "output/2026-08-14/netflix-is-closing-two-game-studios.json",
+      "published_at_utc": "2026-08-13T21:08:42Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7e325936ae89b993b7e59a",
+      "zernio_scheduled_for_utc": "2026-08-13T21:28:15.000Z"
+    },
     "output/2026-08-14/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-.txt",
