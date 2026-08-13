@@ -33169,6 +33169,25 @@
       "zernio_post_id": "6a7d9d5b31109884e17a8146",
       "zernio_scheduled_for_utc": "2026-08-13T11:11:20.000Z"
     },
+    "output/2026-08-13/rivian-is-finally-getting-a-long-requested-feature-and-no-it-s-not-car.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/rivian-is-finally-getting-a-long-requested-feature-and-no-it-s-not-car.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T14:07:42Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7dcfae05083def807c8eb1",
+          "zernio_scheduled_for_utc": "2026-08-13T14:27:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/rivian-is-finally-getting-a-long-requested-feature-and-no-it-s-not-car.png",
+      "metadata_file": "output/2026-08-13/rivian-is-finally-getting-a-long-requested-feature-and-no-it-s-not-car.json",
+      "published_at_utc": "2026-08-13T14:07:42Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7dcfae05083def807c8eb1",
+      "zernio_scheduled_for_utc": "2026-08-13T14:27:15.000Z"
+    },
     "output/2026-08-13/some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-t.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-t.txt",
