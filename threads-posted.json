@@ -32675,6 +32675,25 @@
       "zernio_post_id": "6a7cee82aa8a86a2ef3199b6",
       "zernio_scheduled_for_utc": "2026-08-12T22:45:20.000Z"
     },
+    "output/2026-08-13/claude-s-new-scarlet-letter-watermark-is-invisible-for-now.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/claude-s-new-scarlet-letter-watermark-is-invisible-for-now.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T11:28:12Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7daa4b2c78021847b15656",
+          "zernio_scheduled_for_utc": "2026-08-13T11:28:56.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/claude-s-new-scarlet-letter-watermark-is-invisible-for-now.png",
+      "metadata_file": "output/2026-08-13/claude-s-new-scarlet-letter-watermark-is-invisible-for-now.json",
+      "published_at_utc": "2026-08-13T11:28:12Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7daa4b2c78021847b15656",
+      "zernio_scheduled_for_utc": "2026-08-13T11:28:56.000Z"
+    },
     "output/2026-08-13/formula-e-finds-a-new-home-on-disney-espn.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/formula-e-finds-a-new-home-on-disney-espn.txt",
