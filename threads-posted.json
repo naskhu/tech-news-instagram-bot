@@ -32542,6 +32542,25 @@
       "zernio_post_id": "6a7cd63947965f30d65203fd",
       "zernio_scheduled_for_utc": "2026-08-12T20:24:05.000Z"
     },
+    "output/2026-08-13/apple-reportedly-wants-to-use-content-from-publishers-to-make-siri-bet.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/apple-reportedly-wants-to-use-content-from-publishers-to-make-siri-bet.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T00:03:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7d09cb0952dede15823914",
+          "zernio_scheduled_for_utc": "2026-08-13T00:04:07.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/apple-reportedly-wants-to-use-content-from-publishers-to-make-siri-bet.png",
+      "metadata_file": "output/2026-08-13/apple-reportedly-wants-to-use-content-from-publishers-to-make-siri-bet.json",
+      "published_at_utc": "2026-08-13T00:03:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7d09cb0952dede15823914",
+      "zernio_scheduled_for_utc": "2026-08-13T00:04:07.000Z"
+    },
     "output/2026-08-13/cats-and-dogs-are-missing-meals-after-a-popular-smart-feeder-went-down.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/cats-and-dogs-are-missing-meals-after-a-popular-smart-feeder-went-down.txt",
