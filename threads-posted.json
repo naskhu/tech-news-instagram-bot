@@ -33868,6 +33868,23 @@
       "zernio_post_id": "6a7deda837e243bcfa937311",
       "zernio_scheduled_for_utc": "2026-08-13T16:16:20.000Z"
     },
+    "output/2026-08-13/x-will-let-users-see-if-the-algorithm-buried-their-posts.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/x-will-let-users-see-if-the-algorithm-buried-their-posts.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T18:13:07Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7e091feb567d9ae5fe7181"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/x-will-let-users-see-if-the-algorithm-buried-their-posts.png",
+      "metadata_file": "output/2026-08-13/x-will-let-users-see-if-the-algorithm-buried-their-posts.json",
+      "published_at_utc": "2026-08-13T18:13:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7e091feb567d9ae5fe7181"
+    },
     "output/2026-08-13/you-can-now-just-point-at-a-mess-and-this-robot-vacuum-will-suck-it-up.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/you-can-now-just-point-at-a-mess-and-this-robot-vacuum-will-suck-it-up.txt",
