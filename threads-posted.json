@@ -32827,6 +32827,25 @@
       "zernio_post_id": "6a7ce172d9c3ec861f21487d",
       "zernio_scheduled_for_utc": "2026-08-12T21:49:37.000Z"
     },
+    "output/2026-08-13/the-7-biggest-announcements-of-google-s-pixel-11-launch.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/the-7-biggest-announcements-of-google-s-pixel-11-launch.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T00:03:39Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7d09db998a542be6354bfd",
+          "zernio_scheduled_for_utc": "2026-08-13T01:00:52.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/the-7-biggest-announcements-of-google-s-pixel-11-launch.png",
+      "metadata_file": "output/2026-08-13/the-7-biggest-announcements-of-google-s-pixel-11-launch.json",
+      "published_at_utc": "2026-08-13T00:03:39Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7d09db998a542be6354bfd",
+      "zernio_scheduled_for_utc": "2026-08-13T01:00:52.000Z"
+    },
     "output/2026-08-13/the-next-big-indie-game-publisher-is-taking-some-exciting-swings.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/the-next-big-indie-game-publisher-is-taking-some-exciting-swings.txt",
