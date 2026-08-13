@@ -33207,6 +33207,25 @@
       "zernio_post_id": "6a7dcfae05083def807c8eb1",
       "zernio_scheduled_for_utc": "2026-08-13T14:27:15.000Z"
     },
+    "output/2026-08-13/samsung-s-1-900-z-fold-8-is-still-vulnerable-to-pocket-lint.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-13/samsung-s-1-900-z-fold-8-is-still-vulnerable-to-pocket-lint.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T14:07:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7dcfbaf781527a7adccd4b",
+          "zernio_scheduled_for_utc": "2026-08-13T15:05:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-13/samsung-s-1-900-z-fold-8-is-still-vulnerable-to-pocket-lint.png",
+      "metadata_file": "output/2026-08-13/samsung-s-1-900-z-fold-8-is-still-vulnerable-to-pocket-lint.json",
+      "published_at_utc": "2026-08-13T14:07:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7dcfbaf781527a7adccd4b",
+      "zernio_scheduled_for_utc": "2026-08-13T15:05:05.000Z"
+    },
     "output/2026-08-13/some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-t.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-13/some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-t.txt",
