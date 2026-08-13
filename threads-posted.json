@@ -33997,6 +33997,25 @@
       "zernio_post_id": "6a7e1b81a7be414739e0b6b8",
       "zernio_scheduled_for_utc": "2026-08-13T19:31:58.000Z"
     },
+    "output/2026-08-14/openai-is-losing-its-second-executive-this-week.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/openai-is-losing-its-second-executive-this-week.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-13T20:12:06Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7e2516f82995b828f906b1",
+          "zernio_scheduled_for_utc": "2026-08-13T20:50:29.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/openai-is-losing-its-second-executive-this-week.png",
+      "metadata_file": "output/2026-08-14/openai-is-losing-its-second-executive-this-week.json",
+      "published_at_utc": "2026-08-13T20:12:06Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7e2516f82995b828f906b1",
+      "zernio_scheduled_for_utc": "2026-08-13T20:50:29.000Z"
+    },
     "output/2026-08-14/this-school-friendly-laptop-from-hp-is-300-off.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/this-school-friendly-laptop-from-hp-is-300-off.txt",
