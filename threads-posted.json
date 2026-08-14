@@ -35881,6 +35881,25 @@
       "zernio_post_id": "6a7f942901a368f5f1a1179c",
       "zernio_scheduled_for_utc": "2026-08-14T22:56:38.000Z"
     },
+    "output/2026-08-15/there-s-a-new-ploopy-in-town.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/there-s-a-new-ploopy-in-town.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T23:17:45Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7fa219a5fd89ffa3e7ebed",
+          "zernio_scheduled_for_utc": "2026-08-14T23:37:19.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/there-s-a-new-ploopy-in-town.png",
+      "metadata_file": "output/2026-08-15/there-s-a-new-ploopy-in-town.json",
+      "published_at_utc": "2026-08-14T23:17:45Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7fa219a5fd89ffa3e7ebed",
+      "zernio_scheduled_for_utc": "2026-08-14T23:37:19.000Z"
+    },
     "output/2026-08-15/this-art-project-slows-down-citi-bikes-to-make-nyc-s-rent-crisis-feel-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/this-art-project-slows-down-citi-bikes-to-make-nyc-s-rent-crisis-feel-.txt",
