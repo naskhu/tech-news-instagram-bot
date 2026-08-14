@@ -33959,6 +33959,25 @@
       "zernio_post_id": "6a7f1614d50162b5fedcd8a8",
       "zernio_scheduled_for_utc": "2026-08-14T14:17:25.000Z"
     },
+    "output/2026-08-14/a-senate-subcommittee-has-opened-an-investigation-into-roblox-over-chi.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/a-senate-subcommittee-has-opened-an-investigation-into-roblox-over-chi.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T16:31:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f42df20445a5c73247b40",
+          "zernio_scheduled_for_utc": "2026-08-14T17:09:49.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/a-senate-subcommittee-has-opened-an-investigation-into-roblox-over-chi.png",
+      "metadata_file": "output/2026-08-14/a-senate-subcommittee-has-opened-an-investigation-into-roblox-over-chi.json",
+      "published_at_utc": "2026-08-14T16:31:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f42df20445a5c73247b40",
+      "zernio_scheduled_for_utc": "2026-08-14T17:09:49.000Z"
+    },
     "output/2026-08-14/anthropic-could-be-worth-2-trillion-when-it-goes-public.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/anthropic-could-be-worth-2-trillion-when-it-goes-public.txt",
