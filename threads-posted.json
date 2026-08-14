@@ -34529,6 +34529,25 @@
       "zernio_post_id": "6a7eca32dca208af5168e2b1",
       "zernio_scheduled_for_utc": "2026-08-14T07:57:18.000Z"
     },
+    "output/2026-08-14/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T13:20:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f160df44ea864c6efe939",
+          "zernio_scheduled_for_utc": "2026-08-14T13:58:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them.png",
+      "metadata_file": "output/2026-08-14/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them.json",
+      "published_at_utc": "2026-08-14T13:20:14Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f160df44ea864c6efe939",
+      "zernio_scheduled_for_utc": "2026-08-14T13:58:30.000Z"
+    },
     "output/2026-08-14/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed.txt",
