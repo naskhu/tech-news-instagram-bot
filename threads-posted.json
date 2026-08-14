@@ -34073,6 +34073,25 @@
       "zernio_post_id": "6a7f04248ec0ada2ceccb094",
       "zernio_scheduled_for_utc": "2026-08-14T12:04:32.000Z"
     },
+    "output/2026-08-14/cursor-is-officially-part-of-spacex.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/cursor-is-officially-part-of-spacex.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T14:30:59Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f26a2c3f48dc498e3ff1a",
+          "zernio_scheduled_for_utc": "2026-08-14T15:09:20.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/cursor-is-officially-part-of-spacex.png",
+      "metadata_file": "output/2026-08-14/cursor-is-officially-part-of-spacex.json",
+      "published_at_utc": "2026-08-14T14:30:59Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f26a2c3f48dc498e3ff1a",
+      "zernio_scheduled_for_utc": "2026-08-14T15:09:20.000Z"
+    },
     "output/2026-08-14/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at.txt",
