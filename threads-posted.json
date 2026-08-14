@@ -34225,6 +34225,23 @@
       "zernio_post_id": "6a7f15fdfc03c4fafd9eaf40",
       "zernio_scheduled_for_utc": "2026-08-14T13:20:40.000Z"
     },
+    "output/2026-08-14/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-elec.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-elec.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T18:34:33Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7f5fa2c7d43893396b3694"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-elec.png",
+      "metadata_file": "output/2026-08-14/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-elec.json",
+      "published_at_utc": "2026-08-14T18:34:33Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7f5fa2c7d43893396b3694"
+    },
     "output/2026-08-14/flock-can-t-tech-its-way-out-of-the-stalker-cop-problem-experts-say.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/flock-can-t-tech-its-way-out-of-the-stalker-cop-problem-experts-say.txt",
