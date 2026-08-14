@@ -34605,6 +34605,25 @@
       "zernio_post_id": "6a7eb18c9fcb465f8cd88449",
       "zernio_scheduled_for_utc": "2026-08-14T06:12:08.000Z"
     },
+    "output/2026-08-14/urban-arrow-s-longtail-electric-cargo-bike-comes-to-the-us.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/urban-arrow-s-longtail-electric-cargo-bike-comes-to-the-us.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T09:06:17Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7eda89b4c998a0a3403e91",
+          "zernio_scheduled_for_utc": "2026-08-14T09:25:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/urban-arrow-s-longtail-electric-cargo-bike-comes-to-the-us.png",
+      "metadata_file": "output/2026-08-14/urban-arrow-s-longtail-electric-cargo-bike-comes-to-the-us.json",
+      "published_at_utc": "2026-08-14T09:06:17Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7eda89b4c998a0a3403e91",
+      "zernio_scheduled_for_utc": "2026-08-14T09:25:50.000Z"
+    },
     "output/2026-08-14/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer.txt",
