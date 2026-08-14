@@ -1,0 +1,23 @@
+{
+  "title": "This is Instagram’s new logo",
+  "summary": "It’s the first change to Instagram’s wordmark in a decade. It’s the first change to Instagram’s wordmark in a decade.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/979583/this-is-instagrams-new-logo",
+  "published_utc": "2026-08-13T15:00:38+00:00",
+  "output_day": "2026-08-14",
+  "date_source": "meta",
+  "generated_utc": "2026-08-14T00:03:00.869628+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Instagram-wordmark-update.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-14/this-is-instagram-s-new-logo.png",
+  "caption": "output/2026-08-14/this-is-instagram-s-new-logo.txt"
+}

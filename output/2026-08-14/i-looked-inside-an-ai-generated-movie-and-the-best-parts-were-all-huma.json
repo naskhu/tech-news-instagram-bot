@@ -1,0 +1,23 @@
+{
+  "title": "I looked inside an AI generated movie, and the best parts were all human",
+  "summary": "Scrolling through Higgsfield’s official Cully Hill Boys page, it’s actually fascinating to see how many different iterations of individual shots the film’s creative team generated using text prompts. It’s evident there’s an extra bit of human work guiding this project.",
+  "source": "The Verge",
+  "url": "https://theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+  "published_utc": "2026-08-13T15:30:00+00:00",
+  "output_day": "2026-08-14",
+  "date_source": "meta",
+  "generated_utc": "2026-08-14T00:02:59.866434+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-13-at-10.46.09-AM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-14/i-looked-inside-an-ai-generated-movie-and-the-best-parts-were-all-huma.png",
+  "caption": "output/2026-08-14/i-looked-inside-an-ai-generated-movie-and-the-best-parts-were-all-huma.txt"
+}
