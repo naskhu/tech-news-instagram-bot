@@ -34149,6 +34149,25 @@
       "zernio_post_id": "6a7e4032ce12243dca274ce5",
       "zernio_scheduled_for_utc": "2026-08-13T22:08:30.000Z"
     },
+    "output/2026-08-14/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T12:04:02Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f0431d9205d342e5053d5",
+          "zernio_scheduled_for_utc": "2026-08-14T12:42:22.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination.png",
+      "metadata_file": "output/2026-08-14/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination.json",
+      "published_at_utc": "2026-08-14T12:04:02Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f0431d9205d342e5053d5",
+      "zernio_scheduled_for_utc": "2026-08-14T12:42:22.000Z"
+    },
     "output/2026-08-14/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-rele.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-rele.txt",
