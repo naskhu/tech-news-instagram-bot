@@ -35305,6 +35305,23 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a7e403dce12243dca274f53",
       "zernio_scheduled_for_utc": "2026-08-13T22:46:20.000Z"
+    },
+    "output/2026-08-14/you-can-now-turn-off-google-gemini-s-visible-watermarks.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/you-can-now-turn-off-google-gemini-s-visible-watermarks.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T17:37:36Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7f524b6922ca7c95f93906"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/you-can-now-turn-off-google-gemini-s-visible-watermarks.png",
+      "metadata_file": "output/2026-08-14/you-can-now-turn-off-google-gemini-s-visible-watermarks.json",
+      "published_at_utc": "2026-08-14T17:37:36Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7f524b6922ca7c95f93906"
     }
   }
 }
