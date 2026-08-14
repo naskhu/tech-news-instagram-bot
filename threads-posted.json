@@ -33921,6 +33921,25 @@
       "zernio_post_id": "6a7d7931ddb3525140720897",
       "zernio_scheduled_for_utc": "2026-08-13T07:59:25.000Z"
     },
+    "output/2026-08-14/2025-goty-clair-obscur-expedition-33-is-down-to-33.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/2025-goty-clair-obscur-expedition-33-is-down-to-33.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T15:30:11Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f3482325c19110d244979",
+          "zernio_scheduled_for_utc": "2026-08-14T16:27:17.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/2025-goty-clair-obscur-expedition-33-is-down-to-33.png",
+      "metadata_file": "output/2026-08-14/2025-goty-clair-obscur-expedition-33-is-down-to-33.json",
+      "published_at_utc": "2026-08-14T15:30:11Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f3482325c19110d244979",
+      "zernio_scheduled_for_utc": "2026-08-14T16:27:17.000Z"
+    },
     "output/2026-08-14/5-weird-tricks-for-having-a-brain.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/5-weird-tricks-for-having-a-brain.txt",
