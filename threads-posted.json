@@ -34092,6 +34092,25 @@
       "zernio_post_id": "6a7eec38f9c6a58ed1f8b792",
       "zernio_scheduled_for_utc": "2026-08-14T11:18:56.000Z"
     },
+    "output/2026-08-14/epic-games-employee-says-a-native-linux-launcher-is-coming-soon.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/epic-games-employee-says-a-native-linux-launcher-is-coming-soon.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T13:19:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f15fdfc03c4fafd9eaf40",
+          "zernio_scheduled_for_utc": "2026-08-14T13:20:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/epic-games-employee-says-a-native-linux-launcher-is-coming-soon.png",
+      "metadata_file": "output/2026-08-14/epic-games-employee-says-a-native-linux-launcher-is-coming-soon.json",
+      "published_at_utc": "2026-08-14T13:19:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f15fdfc03c4fafd9eaf40",
+      "zernio_scheduled_for_utc": "2026-08-14T13:20:40.000Z"
+    },
     "output/2026-08-14/flock-can-t-tech-its-way-out-of-the-stalker-cop-problem-experts-say.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/flock-can-t-tech-its-way-out-of-the-stalker-cop-problem-experts-say.txt",
