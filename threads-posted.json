@@ -35843,6 +35843,25 @@
       "zernio_post_id": "6a7f942901a368f5f1a1179c",
       "zernio_scheduled_for_utc": "2026-08-14T22:56:38.000Z"
     },
+    "output/2026-08-15/this-art-project-slows-down-citi-bikes-to-make-nyc-s-rent-crisis-feel-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/this-art-project-slows-down-citi-bikes-to-make-nyc-s-rent-crisis-feel-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T22:44:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f9a6601a988fe2c92f7e1",
+          "zernio_scheduled_for_utc": "2026-08-14T23:23:17.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/this-art-project-slows-down-citi-bikes-to-make-nyc-s-rent-crisis-feel-.png",
+      "metadata_file": "output/2026-08-15/this-art-project-slows-down-citi-bikes-to-make-nyc-s-rent-crisis-feel-.json",
+      "published_at_utc": "2026-08-14T22:44:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f9a6601a988fe2c92f7e1",
+      "zernio_scheduled_for_utc": "2026-08-14T23:23:17.000Z"
+    },
     "output/2026-08-15/thrive-s-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/thrive-s-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria.txt",
