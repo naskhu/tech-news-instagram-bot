@@ -1,0 +1,23 @@
+{
+  "title": "There’s a new Ploopy in town.",
+  "summary": "Ploopy just announced the A Plus trackball, the successor to the open-source, 3D-printed Adept . It has six buttons, two dials, a wrist rest, and RGB LEDs.",
+  "source": "The Verge",
+  "url": "https://theverge.com/gadgets/980622/theres-a-new-ploopy-in-town",
+  "published_utc": "2026-08-14T22:57:14+00:00",
+  "output_day": "2026-08-15",
+  "date_source": "meta",
+  "generated_utc": "2026-08-14T23:16:36.474648+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ploopyaplus.jpg?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-15/there-s-a-new-ploopy-in-town.png",
+  "caption": "output/2026-08-15/there-s-a-new-ploopy-in-town.txt"
+}
