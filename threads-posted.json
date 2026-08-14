@@ -34770,6 +34770,23 @@
       "zernio_post_id": "6a7eca32dca208af5168e2b1",
       "zernio_scheduled_for_utc": "2026-08-14T07:57:18.000Z"
     },
+    "output/2026-08-14/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-sto.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-sto.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T18:34:55Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a7f5fbf5273852622835a82"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-sto.png",
+      "metadata_file": "output/2026-08-14/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-sto.json",
+      "published_at_utc": "2026-08-14T18:34:55Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a7f5fbf5273852622835a82"
+    },
     "output/2026-08-14/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them.txt",
