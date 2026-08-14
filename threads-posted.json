@@ -34263,6 +34263,25 @@
       "zernio_post_id": "6a7e829fa46e962b23ee1a1a",
       "zernio_scheduled_for_utc": "2026-08-14T02:51:55.000Z"
     },
+    "output/2026-08-14/layla-sleep-coupon-save-up-to-600-in-august-2026.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/layla-sleep-coupon-save-up-to-600-in-august-2026.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T09:06:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7eda9774a7c10f2df44618",
+          "zernio_scheduled_for_utc": "2026-08-14T10:03:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/layla-sleep-coupon-save-up-to-600-in-august-2026.png",
+      "metadata_file": "output/2026-08-14/layla-sleep-coupon-save-up-to-600-in-august-2026.json",
+      "published_at_utc": "2026-08-14T09:06:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7eda9774a7c10f2df44618",
+      "zernio_scheduled_for_utc": "2026-08-14T10:03:40.000Z"
+    },
     "output/2026-08-14/microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app.txt",
