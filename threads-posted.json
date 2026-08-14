@@ -33997,6 +33997,25 @@
       "zernio_post_id": "6a7e5b782552b17dd83bd139",
       "zernio_scheduled_for_utc": "2026-08-14T00:04:52.000Z"
     },
+    "output/2026-08-14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-stor.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-stor.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T15:29:48Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f346b325c19110d2444f3",
+          "zernio_scheduled_for_utc": "2026-08-14T15:30:32.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-stor.png",
+      "metadata_file": "output/2026-08-14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-stor.json",
+      "published_at_utc": "2026-08-14T15:29:48Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f346b325c19110d2444f3",
+      "zernio_scheduled_for_utc": "2026-08-14T15:30:32.000Z"
+    },
     "output/2026-08-14/apple-trained-its-own-ai-model-for-china-with-help-from-alibaba.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/apple-trained-its-own-ai-model-for-china-with-help-from-alibaba.txt",
