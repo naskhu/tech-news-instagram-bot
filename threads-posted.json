@@ -34301,6 +34301,25 @@
       "zernio_post_id": "6a7e5b851197b18178289fb0",
       "zernio_scheduled_for_utc": "2026-08-14T00:42:42.000Z"
     },
+    "output/2026-08-14/i-wore-an-electrical-muscle-stimulation-body-suit-to-zap-myself-into-f.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/i-wore-an-electrical-muscle-stimulation-body-suit-to-zap-myself-into-f.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T13:20:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f1606fbfcbef719b5eb33",
+          "zernio_scheduled_for_utc": "2026-08-14T13:39:35.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/i-wore-an-electrical-muscle-stimulation-body-suit-to-zap-myself-into-f.png",
+      "metadata_file": "output/2026-08-14/i-wore-an-electrical-muscle-stimulation-body-suit-to-zap-myself-into-f.json",
+      "published_at_utc": "2026-08-14T13:20:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f1606fbfcbef719b5eb33",
+      "zernio_scheduled_for_utc": "2026-08-14T13:39:35.000Z"
+    },
     "output/2026-08-14/ibm-partners-with-openai-to-bolster-enterprise-ai-push.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/ibm-partners-with-openai-to-bolster-enterprise-ai-push.txt",
