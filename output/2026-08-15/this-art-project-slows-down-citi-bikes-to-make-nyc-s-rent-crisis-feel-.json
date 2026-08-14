@@ -1,0 +1,23 @@
+{
+  "title": "This Art Project Slows Down Citi Bikes to Make NYC’s Rent Crisis Feel Real",
+  "summary": "When the bike passes a block the dataset says has a higher percentage of rent insecurity, the microcontroller triggers a small motor that applies the brake to add resistance, and the bike gets physically harder to pedal.",
+  "source": "Wired",
+  "url": "https://wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real",
+  "published_utc": "2026-08-14T09:30:00+00:00",
+  "output_day": "2026-08-15",
+  "date_source": "meta",
+  "generated_utc": "2026-08-14T22:44:04.153961+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a7dca6eacd30154034861bd/master/pass/ground-truth-device-field-02.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-08-15/this-art-project-slows-down-citi-bikes-to-make-nyc-s-rent-crisis-feel-.png",
+  "caption": "output/2026-08-15/this-art-project-slows-down-citi-bikes-to-make-nyc-s-rent-crisis-feel-.txt"
+}
