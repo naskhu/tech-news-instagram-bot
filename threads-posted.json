@@ -35482,6 +35482,25 @@
       "zernio_post_id": "6a7f762c1219643a6618a66e",
       "zernio_scheduled_for_utc": "2026-08-14T20:48:41.000Z"
     },
+    "output/2026-08-15/fix-your-instagram-logo-with-this-one-weird-trick.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/fix-your-instagram-logo-with-this-one-weird-trick.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T21:22:41Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f8721c3a2ad73df44b1d5",
+          "zernio_scheduled_for_utc": "2026-08-14T21:23:21.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/fix-your-instagram-logo-with-this-one-weird-trick.png",
+      "metadata_file": "output/2026-08-15/fix-your-instagram-logo-with-this-one-weird-trick.json",
+      "published_at_utc": "2026-08-14T21:22:41Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f8721c3a2ad73df44b1d5",
+      "zernio_scheduled_for_utc": "2026-08-14T21:23:21.000Z"
+    },
     "output/2026-08-15/openai-s-enterprise-revenue-has-reportedly-surpassed-its-consumer-reve.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/openai-s-enterprise-revenue-has-reportedly-surpassed-its-consumer-reve.txt",
