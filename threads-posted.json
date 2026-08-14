@@ -33940,6 +33940,25 @@
       "zernio_post_id": "6a7e1b8e27415b014bdce680",
       "zernio_scheduled_for_utc": "2026-08-13T20:09:48.000Z"
     },
+    "output/2026-08-14/apple-and-epic-argue-over-how-much-apple-should-get-from-purchases-mad.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/apple-and-epic-argue-over-how-much-apple-should-get-from-purchases-mad.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T00:04:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7e5b782552b17dd83bd139",
+          "zernio_scheduled_for_utc": "2026-08-14T00:04:52.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/apple-and-epic-argue-over-how-much-apple-should-get-from-purchases-mad.png",
+      "metadata_file": "output/2026-08-14/apple-and-epic-argue-over-how-much-apple-should-get-from-purchases-mad.json",
+      "published_at_utc": "2026-08-14T00:04:09Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7e5b782552b17dd83bd139",
+      "zernio_scheduled_for_utc": "2026-08-14T00:04:52.000Z"
+    },
     "output/2026-08-14/chess-com-s-new-project-is-a-poker-site.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/chess-com-s-new-project-is-a-poker-site.txt",
