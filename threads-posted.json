@@ -35615,6 +35615,25 @@
       "zernio_post_id": "6a7f6e94bf354e76fffe9962",
       "zernio_scheduled_for_utc": "2026-08-14T19:38:41.000Z"
     },
+    "output/2026-08-15/vulnerability-giving-attackers-full-control-of-macs-is-under-active-ex.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/vulnerability-giving-attackers-full-control-of-macs-is-under-active-ex.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T20:51:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f7fbbd86f89503e7c4ffb",
+          "zernio_scheduled_for_utc": "2026-08-14T21:48:19.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/vulnerability-giving-attackers-full-control-of-macs-is-under-active-ex.png",
+      "metadata_file": "output/2026-08-15/vulnerability-giving-attackers-full-control-of-macs-is-under-active-ex.json",
+      "published_at_utc": "2026-08-14T20:51:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f7fbbd86f89503e7c4ffb",
+      "zernio_scheduled_for_utc": "2026-08-14T21:48:19.000Z"
+    },
     "output/2026-08-15/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities-te.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities-te.txt",
