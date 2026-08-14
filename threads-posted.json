@@ -34111,6 +34111,25 @@
       "zernio_post_id": "6a7eca38c6836b38aa162828",
       "zernio_scheduled_for_utc": "2026-08-14T08:16:13.000Z"
     },
+    "output/2026-08-14/help-build-a-monument-to-that-sad-little-bitch-elon-musk.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/help-build-a-monument-to-that-sad-little-bitch-elon-musk.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T09:06:11Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7eda83dd9ccb56313c8b71",
+          "zernio_scheduled_for_utc": "2026-08-14T09:06:55.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/help-build-a-monument-to-that-sad-little-bitch-elon-musk.png",
+      "metadata_file": "output/2026-08-14/help-build-a-monument-to-that-sad-little-bitch-elon-musk.json",
+      "published_at_utc": "2026-08-14T09:06:11Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7eda83dd9ccb56313c8b71",
+      "zernio_scheduled_for_utc": "2026-08-14T09:06:55.000Z"
+    },
     "output/2026-08-14/here-s-your-chance-to-name-a-spaceship-something-prescreened-and-dull.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/here-s-your-chance-to-name-a-spaceship-something-prescreened-and-dull.txt",
