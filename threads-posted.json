@@ -35539,6 +35539,25 @@
       "zernio_post_id": "6a7f6ea67f7c60bae002e9d8",
       "zernio_scheduled_for_utc": "2026-08-14T20:35:26.000Z"
     },
+    "output/2026-08-15/self-driving-trucks-are-officially-testing-on-california-highways.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/self-driving-trucks-are-officially-testing-on-california-highways.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T20:50:50Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f7fa958b3f7b1d130fd77",
+          "zernio_scheduled_for_utc": "2026-08-14T20:51:34.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/self-driving-trucks-are-officially-testing-on-california-highways.png",
+      "metadata_file": "output/2026-08-15/self-driving-trucks-are-officially-testing-on-california-highways.json",
+      "published_at_utc": "2026-08-14T20:50:50Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f7fa958b3f7b1d130fd77",
+      "zernio_scheduled_for_utc": "2026-08-14T20:51:34.000Z"
+    },
     "output/2026-08-15/thrive-s-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/thrive-s-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria.txt",
