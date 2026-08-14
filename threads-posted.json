@@ -35444,6 +35444,25 @@
       "zernio_post_id": "6a7f7632d95247d5fc656f91",
       "zernio_scheduled_for_utc": "2026-08-14T21:07:36.000Z"
     },
+    "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T21:22:59Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f8733848a3c6e04feeffe",
+          "zernio_scheduled_for_utc": "2026-08-14T22:20:06.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.png",
+      "metadata_file": "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.json",
+      "published_at_utc": "2026-08-14T21:22:59Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f8733848a3c6e04feeffe",
+      "zernio_scheduled_for_utc": "2026-08-14T22:20:06.000Z"
+    },
     "output/2026-08-15/disney-to-fcc-get-lost.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/disney-to-fcc-get-lost.txt",
