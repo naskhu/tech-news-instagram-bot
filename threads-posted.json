@@ -35444,6 +35444,25 @@
       "zernio_post_id": "6a7f761fd95247d5fc65691b",
       "zernio_scheduled_for_utc": "2026-08-14T20:10:51.000Z"
     },
+    "output/2026-08-15/england-and-wales-get-nationwide-emergency-alerts.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/england-and-wales-get-nationwide-emergency-alerts.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T20:10:20Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f762c1219643a6618a66e",
+          "zernio_scheduled_for_utc": "2026-08-14T20:48:41.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/england-and-wales-get-nationwide-emergency-alerts.png",
+      "metadata_file": "output/2026-08-15/england-and-wales-get-nationwide-emergency-alerts.json",
+      "published_at_utc": "2026-08-14T20:10:20Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f762c1219643a6618a66e",
+      "zernio_scheduled_for_utc": "2026-08-14T20:48:41.000Z"
+    },
     "output/2026-08-15/read-it-later-app-pocket-shut-down-down-here-are-the-best-alternatives.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/read-it-later-app-pocket-shut-down-down-here-are-the-best-alternatives.txt",
