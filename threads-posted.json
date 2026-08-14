@@ -35520,6 +35520,25 @@
       "zernio_post_id": "6a7f8721c3a2ad73df44b1d5",
       "zernio_scheduled_for_utc": "2026-08-14T21:23:21.000Z"
     },
+    "output/2026-08-15/judge-gives-google-one-week-to-fix-anticompetitive-app-store-download-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/judge-gives-google-one-week-to-fix-anticompetitive-app-store-download-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T21:47:26Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7f8cee848de552c29e1b99",
+          "zernio_scheduled_for_utc": "2026-08-14T21:48:10.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/judge-gives-google-one-week-to-fix-anticompetitive-app-store-download-.png",
+      "metadata_file": "output/2026-08-15/judge-gives-google-one-week-to-fix-anticompetitive-app-store-download-.json",
+      "published_at_utc": "2026-08-14T21:47:26Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7f8cee848de552c29e1b99",
+      "zernio_scheduled_for_utc": "2026-08-14T21:48:10.000Z"
+    },
     "output/2026-08-15/openai-s-enterprise-revenue-has-reportedly-surpassed-its-consumer-reve.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/openai-s-enterprise-revenue-has-reportedly-surpassed-its-consumer-reve.txt",
