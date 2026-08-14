@@ -34415,6 +34415,25 @@
       "zernio_post_id": "6a7e82a44ab5061ee81e0444",
       "zernio_scheduled_for_utc": "2026-08-14T03:10:50.000Z"
     },
+    "output/2026-08-14/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-14/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-14T04:46:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7e9dc107f78c37d5922a5c",
+          "zernio_scheduled_for_utc": "2026-08-14T05:06:31.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-14/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer.png",
+      "metadata_file": "output/2026-08-14/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer.json",
+      "published_at_utc": "2026-08-14T04:46:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7e9dc107f78c37d5922a5c",
+      "zernio_scheduled_for_utc": "2026-08-14T05:06:31.000Z"
+    },
     "output/2026-08-14/why-did-it-have-to-be-instagzam.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-14/why-did-it-have-to-be-instagzam.txt",
