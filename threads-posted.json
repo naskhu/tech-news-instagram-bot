@@ -37610,6 +37610,25 @@
       "zernio_post_id": "6a8082eda1367d328b141d68",
       "zernio_scheduled_for_utc": "2026-08-15T15:36:33.000Z"
     },
+    "output/2026-08-15/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d2.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d2.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T16:48:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8098435e13c5b450f6b1b5",
+          "zernio_scheduled_for_utc": "2026-08-15T17:07:37.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d2.png",
+      "metadata_file": "output/2026-08-15/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d2.json",
+      "published_at_utc": "2026-08-15T16:48:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8098435e13c5b450f6b1b5",
+      "zernio_scheduled_for_utc": "2026-08-15T17:07:37.000Z"
+    },
     "output/2026-08-15/stressed-parents-give-kids-more-screen-time-study-finds-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/stressed-parents-give-kids-more-screen-time-study-finds-cnet.txt",
