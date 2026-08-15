@@ -37458,6 +37458,25 @@
       "zernio_post_id": "6a7fe695ffd23eac29502b06",
       "zernio_scheduled_for_utc": "2026-08-15T04:29:30.000Z"
     },
+    "output/2026-08-15/the-first-trailer-for-visionquest-reunites-paul-bettany-and-james-spad.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/the-first-trailer-for-visionquest-reunites-paul-bettany-and-james-spad.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T14:45:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a807ba1717d841b6c1d8656",
+          "zernio_scheduled_for_utc": "2026-08-15T15:24:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/the-first-trailer-for-visionquest-reunites-paul-bettany-and-james-spad.png",
+      "metadata_file": "output/2026-08-15/the-first-trailer-for-visionquest-reunites-paul-bettany-and-james-spad.json",
+      "published_at_utc": "2026-08-15T14:45:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a807ba1717d841b6c1d8656",
+      "zernio_scheduled_for_utc": "2026-08-15T15:24:15.000Z"
+    },
     "output/2026-08-15/the-flippad-is-a-compact-game-controller-for-android-now-available-for.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/the-flippad-is-a-compact-game-controller-for-android-now-available-for.txt",
