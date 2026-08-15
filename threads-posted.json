@@ -35824,6 +35824,25 @@
       "zernio_post_id": "6a7ffdc66586e7cca7f9effb",
       "zernio_scheduled_for_utc": "2026-08-15T06:27:16.000Z"
     },
+    "output/2026-08-15/apple-weekend-deals-macbooks-up-to-540-off-airpods-up-to-100-off-apple.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/apple-weekend-deals-macbooks-up-to-540-off-airpods-up-to-100-off-apple.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T12:27:33Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a805b35ba966a59dbba4db4",
+          "zernio_scheduled_for_utc": "2026-08-15T13:05:55.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/apple-weekend-deals-macbooks-up-to-540-off-airpods-up-to-100-off-apple.png",
+      "metadata_file": "output/2026-08-15/apple-weekend-deals-macbooks-up-to-540-off-airpods-up-to-100-off-apple.json",
+      "published_at_utc": "2026-08-15T12:27:33Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a805b35ba966a59dbba4db4",
+      "zernio_scheduled_for_utc": "2026-08-15T13:05:55.000Z"
+    },
     "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.txt",
