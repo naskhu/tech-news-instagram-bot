@@ -35558,6 +35558,25 @@
       "zernio_post_id": "6a802fb6f3f0d08ad7914d6d",
       "zernio_scheduled_for_utc": "2026-08-15T09:22:43.000Z"
     },
+    "output/2026-08-15/amd-ryzen-7-7700x3d-vs-ryzen-7-7800x3d-faceoff-seeing-double-with-zen-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/amd-ryzen-7-7700x3d-vs-ryzen-7-7800x3d-faceoff-seeing-double-with-zen-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T13:48:28Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a806e2c57681ac0a147bc9f",
+          "zernio_scheduled_for_utc": "2026-08-15T14:45:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/amd-ryzen-7-7700x3d-vs-ryzen-7-7800x3d-faceoff-seeing-double-with-zen-.png",
+      "metadata_file": "output/2026-08-15/amd-ryzen-7-7700x3d-vs-ryzen-7-7800x3d-faceoff-seeing-double-with-zen-.json",
+      "published_at_utc": "2026-08-15T13:48:28Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a806e2c57681ac0a147bc9f",
+      "zernio_scheduled_for_utc": "2026-08-15T14:45:38.000Z"
+    },
     "output/2026-08-15/android-17-qpr2-adds-app-lock-to-pixel.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/android-17-qpr2-adds-app-lock-to-pixel.txt",
