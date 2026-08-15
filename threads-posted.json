@@ -35533,6 +35533,23 @@
       "zernio_post_id": "6a804383013875e94d057c80",
       "zernio_scheduled_for_utc": "2026-08-15T11:06:01.000Z"
     },
+    "output/2026-08-15/7-desk-gadgets-that-can-make-your-workday-better-techcrunch.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/7-desk-gadgets-that-can-make-your-workday-better-techcrunch.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T18:22:23Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a80ae4a6fcf3cd17631e939"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/7-desk-gadgets-that-can-make-your-workday-better-techcrunch.png",
+      "metadata_file": "output/2026-08-15/7-desk-gadgets-that-can-make-your-workday-better-techcrunch.json",
+      "published_at_utc": "2026-08-15T18:22:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a80ae4a6fcf3cd17631e939"
+    },
     "output/2026-08-15/9-trendy-tech-finds-from-sam-s-club-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/9-trendy-tech-finds-from-sam-s-club-bgr.txt",
