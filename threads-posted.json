@@ -35539,6 +35539,25 @@
       "zernio_post_id": "6a7ff078579b9abd1f5cebd4",
       "zernio_scheduled_for_utc": "2026-08-15T05:49:20.000Z"
     },
+    "output/2026-08-15/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T07:49:17Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8019fc8c4cf79c6f1f3335",
+          "zernio_scheduled_for_utc": "2026-08-15T08:08:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available.png",
+      "metadata_file": "output/2026-08-15/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available.json",
+      "published_at_utc": "2026-08-15T07:49:17Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8019fc8c4cf79c6f1f3335",
+      "zernio_scheduled_for_utc": "2026-08-15T08:08:50.000Z"
+    },
     "output/2026-08-15/apple-s-250-million-ai-iphone-settlement-is-coming-sooner-than-expecte.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/apple-s-250-million-ai-iphone-settlement-is-coming-sooner-than-expecte.txt",
