@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-14T23:41:04.180329+00:00",
+  "run_utc": "2026-08-14T23:59:16.588636+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-13T23:41:04.180476+00:00",
-  "eligible_story_count": 206,
+  "cutoff_utc": "2026-08-13T23:59:16.588776+00:00",
+  "eligible_story_count": 200,
   "sources": [
     {
       "source": "TechCrunch",
@@ -26,11 +26,13 @@
       ],
       "rss_candidates": 19,
       "page_links": 27,
-      "page_articles": 27,
+      "page_articles": 24,
       "eligible_new": 0,
-      "already_processed": 27,
+      "already_processed": 26,
       "older_than_window": 0,
-      "metadata_errors": {}
+      "metadata_errors": {
+        "http_403": 3
+      }
     },
     {
       "source": "The Verge",
@@ -390,12 +392,12 @@
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
+      "page_articles": 45,
       "eligible_new": 52,
       "already_processed": 0,
-      "older_than_window": 45,
+      "older_than_window": 47,
       "metadata_errors": {
-        "no_article_metadata": 5,
+        "no_article_metadata": 4,
         "missing_title": 1
       }
     },
@@ -405,15 +407,15 @@
       "page_attempts": [
         {
           "url": "https://www.reuters.com/technology/",
-          "status": 200,
-          "links": 1,
-          "error": ""
+          "status": 401,
+          "links": 0,
+          "error": "HTTPError:401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/"
         }
       ],
       "rss_candidates": 0,
-      "page_links": 1,
-      "page_articles": 1,
-      "eligible_new": 1,
+      "page_links": 0,
+      "page_articles": 0,
+      "eligible_new": 0,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -460,8 +462,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 3,
-      "already_processed": 29,
+      "eligible_new": 0,
+      "already_processed": 32,
       "older_than_window": 30,
       "metadata_errors": {}
     },
@@ -502,9 +504,9 @@
       "rss_candidates": 26,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 11,
-      "already_processed": 2,
-      "older_than_window": 36,
+      "eligible_new": 9,
+      "already_processed": 3,
+      "older_than_window": 37,
       "metadata_errors": {}
     },
     {
@@ -557,7 +559,7 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 31,
+          "links": 30,
           "error": ""
         },
         {
@@ -568,11 +570,11 @@
         }
       ],
       "rss_candidates": 15,
-      "page_links": 33,
-      "page_articles": 7,
+      "page_links": 32,
+      "page_articles": 6,
       "eligible_new": 9,
       "already_processed": 0,
-      "older_than_window": 9,
+      "older_than_window": 10,
       "metadata_errors": {
         "http_429": 26
       }
