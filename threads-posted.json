@@ -38756,6 +38756,25 @@
       "zernio_post_id": "6a80bbc01c7806e48838edca",
       "zernio_scheduled_for_utc": "2026-08-15T19:20:12.000Z"
     },
+    "output/2026-08-16/who-owns-oppo-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/who-owns-oppo-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T19:19:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a80bbd57d5360d2fd00a874",
+          "zernio_scheduled_for_utc": "2026-08-15T20:16:57.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/who-owns-oppo-bgr.png",
+      "metadata_file": "output/2026-08-16/who-owns-oppo-bgr.json",
+      "published_at_utc": "2026-08-15T19:19:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a80bbd57d5360d2fd00a874",
+      "zernio_scheduled_for_utc": "2026-08-15T20:16:57.000Z"
+    },
     "output/2026-08-16/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23-cnet.txt",
