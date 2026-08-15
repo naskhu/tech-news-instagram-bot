@@ -35539,6 +35539,25 @@
       "zernio_post_id": "6a8021bdc9c9b2345874450e",
       "zernio_scheduled_for_utc": "2026-08-15T09:00:44.000Z"
     },
+    "output/2026-08-15/android-17-qpr2-beta-3-for-pixel-rolling-out.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/android-17-qpr2-beta-3-for-pixel-rolling-out.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T08:52:01Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8028b1bf65f4a5f76a855d",
+          "zernio_scheduled_for_utc": "2026-08-15T09:49:12.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/android-17-qpr2-beta-3-for-pixel-rolling-out.png",
+      "metadata_file": "output/2026-08-15/android-17-qpr2-beta-3-for-pixel-rolling-out.json",
+      "published_at_utc": "2026-08-15T08:52:01Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8028b1bf65f4a5f76a855d",
+      "zernio_scheduled_for_utc": "2026-08-15T09:49:12.000Z"
+    },
     "output/2026-08-15/android-17-qpr2-brings-system-blur-to-the-pixel-lockscreen.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/android-17-qpr2-brings-system-blur-to-the-pixel-lockscreen.txt",
