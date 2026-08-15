@@ -39060,6 +39060,25 @@
       "zernio_post_id": "6a80cf6715cfb35ba37be803",
       "zernio_scheduled_for_utc": "2026-08-15T20:44:03.000Z"
     },
+    "output/2026-08-16/matt-groening-lets-slip-that-simpsons-hit-run-might-be-making-a-comeba.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/matt-groening-lets-slip-that-simpsons-hit-run-might-be-making-a-comeba.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T22:16:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a80e55672efabfed233fc79",
+          "zernio_scheduled_for_utc": "2026-08-15T22:17:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/matt-groening-lets-slip-that-simpsons-hit-run-might-be-making-a-comeba.png",
+      "metadata_file": "output/2026-08-16/matt-groening-lets-slip-that-simpsons-hit-run-might-be-making-a-comeba.json",
+      "published_at_utc": "2026-08-15T22:16:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a80e55672efabfed233fc79",
+      "zernio_scheduled_for_utc": "2026-08-15T22:17:38.000Z"
+    },
     "output/2026-08-16/sick-of-roku-s-sponsored-wallpapers-there-s-an-easy-way-to-turn-them-o.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/sick-of-roku-s-sponsored-wallpapers-there-s-an-easy-way-to-turn-them-o.txt",
