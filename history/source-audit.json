@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-15T04:49:39.057139+00:00",
+  "run_utc": "2026-08-15T05:19:16.728487+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-14T04:49:39.057302+00:00",
-  "eligible_story_count": 176,
+  "cutoff_utc": "2026-08-14T05:19:16.728642+00:00",
+  "eligible_story_count": 172,
   "sources": [
     {
       "source": "TechCrunch",
@@ -111,8 +111,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 1,
-      "already_processed": 7,
+      "eligible_new": 0,
+      "already_processed": 8,
       "older_than_window": 25,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 20,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -309,13 +309,13 @@
       ],
       "rss_candidates": 9,
       "page_links": 21,
-      "page_articles": 11,
+      "page_articles": 10,
       "eligible_new": 2,
       "already_processed": 1,
-      "older_than_window": 11,
+      "older_than_window": 10,
       "metadata_errors": {
         "not_article_path": 9,
-        "http_429": 1
+        "http_429": 2
       }
     },
     {
@@ -395,8 +395,8 @@
       "already_processed": 0,
       "older_than_window": 44,
       "metadata_errors": {
-        "no_article_metadata": 4,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 4
       }
     },
     {
@@ -461,7 +461,7 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 0,
-      "already_processed": 32,
+      "already_processed": 33,
       "older_than_window": 30,
       "metadata_errors": {}
     },
@@ -569,12 +569,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 30,
-      "page_articles": 7,
+      "page_articles": 3,
       "eligible_new": 0,
       "already_processed": 8,
-      "older_than_window": 11,
+      "older_than_window": 10,
       "metadata_errors": {
-        "http_429": 23
+        "http_429": 27
       }
     },
     {
@@ -606,8 +606,8 @@
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 24,
-      "already_processed": 0,
+      "eligible_new": 21,
+      "already_processed": 3,
       "older_than_window": 90,
       "metadata_errors": {}
     },
@@ -642,7 +642,7 @@
       "page_articles": 40,
       "eligible_new": 19,
       "already_processed": 9,
-      "older_than_window": 79,
+      "older_than_window": 78,
       "metadata_errors": {}
     },
     {
