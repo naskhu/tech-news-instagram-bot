@@ -36204,6 +36204,25 @@
       "zernio_post_id": "6a7f872d3454632ee781057f",
       "zernio_scheduled_for_utc": "2026-08-14T22:01:11.000Z"
     },
+    "output/2026-08-15/psa-claude-code-now-enables-auto-mode-as-default-anthropic-says-9to5ma.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/psa-claude-code-now-enables-auto-mode-as-default-anthropic-says-9to5ma.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T06:28:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a80070b6b74581419678034",
+          "zernio_scheduled_for_utc": "2026-08-15T06:48:00.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/psa-claude-code-now-enables-auto-mode-as-default-anthropic-says-9to5ma.png",
+      "metadata_file": "output/2026-08-15/psa-claude-code-now-enables-auto-mode-as-default-anthropic-says-9to5ma.json",
+      "published_at_utc": "2026-08-15T06:28:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a80070b6b74581419678034",
+      "zernio_scheduled_for_utc": "2026-08-15T06:48:00.000Z"
+    },
     "output/2026-08-15/pura-promo-codes-20-off-august-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/pura-promo-codes-20-off-august-2026.txt",
