@@ -36443,6 +36443,23 @@
       "zernio_post_id": "6a7f761fd95247d5fc65691b",
       "zernio_scheduled_for_utc": "2026-08-14T20:10:51.000Z"
     },
+    "output/2026-08-15/does-your-charging-port-feel-loose-this-might-be-why-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/does-your-charging-port-feel-loose-this-might-be-why-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T17:58:02Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a80a89702da6f4418a575da"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/does-your-charging-port-feel-loose-this-might-be-why-bgr.png",
+      "metadata_file": "output/2026-08-15/does-your-charging-port-feel-loose-this-might-be-why-bgr.json",
+      "published_at_utc": "2026-08-15T17:58:02Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a80a89702da6f4418a575da"
+    },
     "output/2026-08-15/don-t-overlook-elektron-s-budget-electronic-music-instruments.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/don-t-overlook-elektron-s-budget-electronic-music-instruments.txt",
