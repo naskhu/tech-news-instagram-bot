@@ -36964,6 +36964,25 @@
       "zernio_post_id": "6a7fdc288b0882b9a29b10bb",
       "zernio_scheduled_for_utc": "2026-08-15T04:03:50.000Z"
     },
+    "output/2026-08-15/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T11:17:08Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a804ab491dbd63ae59af205",
+          "zernio_scheduled_for_utc": "2026-08-15T11:36:41.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-.png",
+      "metadata_file": "output/2026-08-15/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-.json",
+      "published_at_utc": "2026-08-15T11:17:08Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a804ab491dbd63ae59af205",
+      "zernio_scheduled_for_utc": "2026-08-15T11:36:41.000Z"
+    },
     "output/2026-08-15/spacexai-completes-its-cursor-acquisition-following-grok-bot-and-grok-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/spacexai-completes-its-cursor-acquisition-following-grok-bot-and-grok-.txt",
