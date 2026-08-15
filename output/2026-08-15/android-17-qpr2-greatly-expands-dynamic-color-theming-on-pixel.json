@@ -1,0 +1,23 @@
+{
+  "title": "Android 17 QPR2 greatly expands Dynamic Color theming on Pixel",
+  "summary": "With Android 17 QPR2 Beta 3’s surprise Friday drop, Google is introducing expanded Dynamic Color theming options for Pixel devices. The paint palette icon above the carousel lets you access a “Select a color” slider to choose the main accent.",
+  "source": "9to5Google",
+  "url": "https://9to5google.com/2026/08/14/android-17-qpr2-dynamic-color",
+  "published_utc": "2026-08-14T22:20:50+00:00",
+  "output_day": "2026-08-15",
+  "date_source": "meta",
+  "generated_utc": "2026-08-15T08:50:47.454318+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 9,
+  "theme_accent_rgb": [
+    52,
+    168,
+    83
+  ],
+  "image": "output/2026-08-15/android-17-qpr2-greatly-expands-dynamic-color-theming-on-pixel.png",
+  "caption": "output/2026-08-15/android-17-qpr2-greatly-expands-dynamic-color-theming-on-pixel.txt"
+}
