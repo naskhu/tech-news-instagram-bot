@@ -37515,6 +37515,25 @@
       "zernio_post_id": "6a7f87272c1ab8b2a5f15fb5",
       "zernio_scheduled_for_utc": "2026-08-14T21:42:16.000Z"
     },
+    "output/2026-08-15/we-re-reaching-peak-camera-with-the-sony-a7r-vi.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/we-re-reaching-peak-camera-with-the-sony-a7r-vi.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T12:27:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a805b29b7dab6bef731577c",
+          "zernio_scheduled_for_utc": "2026-08-15T12:28:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/we-re-reaching-peak-camera-with-the-sony-a7r-vi.png",
+      "metadata_file": "output/2026-08-15/we-re-reaching-peak-camera-with-the-sony-a7r-vi.json",
+      "published_at_utc": "2026-08-15T12:27:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a805b29b7dab6bef731577c",
+      "zernio_scheduled_for_utc": "2026-08-15T12:28:05.000Z"
+    },
     "output/2026-08-15/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities-te.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities-te.txt",
