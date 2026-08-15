@@ -36546,6 +36546,25 @@
       "zernio_post_id": "6a7fac587231b9a2b70ce773",
       "zernio_scheduled_for_utc": "2026-08-15T00:02:12.000Z"
     },
+    "output/2026-08-15/looking-for-a-free-microsoft-365-replacement-try-this-program-cnet.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/looking-for-a-free-microsoft-365-replacement-try-this-program-cnet.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T11:55:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8053a2086ea60dfe10c617",
+          "zernio_scheduled_for_utc": "2026-08-15T11:55:57.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/looking-for-a-free-microsoft-365-replacement-try-this-program-cnet.png",
+      "metadata_file": "output/2026-08-15/looking-for-a-free-microsoft-365-replacement-try-this-program-cnet.json",
+      "published_at_utc": "2026-08-15T11:55:14Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8053a2086ea60dfe10c617",
+      "zernio_scheduled_for_utc": "2026-08-15T11:55:57.000Z"
+    },
     "output/2026-08-15/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks.txt",
