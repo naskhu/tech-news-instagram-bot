@@ -36527,6 +36527,25 @@
       "zernio_post_id": "6a7fd18e39a5c6e1b9ffe2d1",
       "zernio_scheduled_for_utc": "2026-08-15T02:59:45.000Z"
     },
+    "output/2026-08-15/i-finally-found-a-magnetic-phone-grip-i-never-want-to-remove.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/i-finally-found-a-magnetic-phone-grip-i-never-want-to-remove.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T14:18:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a807525a4c00154c677e477",
+          "zernio_scheduled_for_utc": "2026-08-15T14:18:57.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/i-finally-found-a-magnetic-phone-grip-i-never-want-to-remove.png",
+      "metadata_file": "output/2026-08-15/i-finally-found-a-magnetic-phone-grip-i-never-want-to-remove.json",
+      "published_at_utc": "2026-08-15T14:18:14Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a807525a4c00154c677e477",
+      "zernio_scheduled_for_utc": "2026-08-15T14:18:57.000Z"
+    },
     "output/2026-08-15/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade.txt",
