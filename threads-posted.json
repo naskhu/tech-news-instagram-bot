@@ -39060,6 +39060,25 @@
       "zernio_post_id": "6a80c42bcef591d02d3a2cd6",
       "zernio_scheduled_for_utc": "2026-08-15T19:56:07.000Z"
     },
+    "output/2026-08-16/visionquest-trailer-kicks-off-disney-s-d23-fan-event.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/visionquest-trailer-kicks-off-disney-s-d23-fan-event.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T21:39:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a80dc87101fb71f9845b105",
+          "zernio_scheduled_for_utc": "2026-08-15T21:58:51.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/visionquest-trailer-kicks-off-disney-s-d23-fan-event.png",
+      "metadata_file": "output/2026-08-16/visionquest-trailer-kicks-off-disney-s-d23-fan-event.json",
+      "published_at_utc": "2026-08-15T21:39:19Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a80dc87101fb71f9845b105",
+      "zernio_scheduled_for_utc": "2026-08-15T21:58:51.000Z"
+    },
     "output/2026-08-16/what-do-the-symbols-on-an-lg-tv-remote-mean-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/what-do-the-symbols-on-an-lg-tv-remote-mean-bgr.txt",
