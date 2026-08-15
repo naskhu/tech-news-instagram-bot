@@ -38908,6 +38908,25 @@
       "zernio_post_id": "6a80bbd57d5360d2fd00a874",
       "zernio_scheduled_for_utc": "2026-08-15T20:16:57.000Z"
     },
+    "output/2026-08-16/why-are-ram-prices-so-high-right-now-engadget.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/why-are-ram-prices-so-high-right-now-engadget.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T19:55:39Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a80c43bab4900f9e27c54af",
+          "zernio_scheduled_for_utc": "2026-08-15T20:52:52.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/why-are-ram-prices-so-high-right-now-engadget.png",
+      "metadata_file": "output/2026-08-16/why-are-ram-prices-so-high-right-now-engadget.json",
+      "published_at_utc": "2026-08-15T19:55:39Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a80c43bab4900f9e27c54af",
+      "zernio_scheduled_for_utc": "2026-08-15T20:52:52.000Z"
+    },
     "output/2026-08-16/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23-cnet.txt",
