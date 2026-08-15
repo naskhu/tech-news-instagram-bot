@@ -36644,6 +36644,23 @@
       "zernio_post_id": "6a8035fec5ea3ce00bb91c83",
       "zernio_scheduled_for_utc": "2026-08-15T10:45:58.000Z"
     },
+    "output/2026-08-15/george-clooney-directed-and-starred-in-a-100-million-sci-fi-movie-you-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/george-clooney-directed-and-starred-in-a-100-million-sci-fi-movie-you-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T18:54:09Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a80b5c08826ca9bd1025885"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/george-clooney-directed-and-starred-in-a-100-million-sci-fi-movie-you-.png",
+      "metadata_file": "output/2026-08-15/george-clooney-directed-and-starred-in-a-100-million-sci-fi-movie-you-.json",
+      "published_at_utc": "2026-08-15T18:54:09Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a80b5c08826ca9bd1025885"
+    },
     "output/2026-08-15/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-alread.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-alread.txt",
