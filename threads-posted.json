@@ -35482,6 +35482,25 @@
       "zernio_post_id": "6a7f9a6bf3cb0f31e5aa2d1e",
       "zernio_scheduled_for_utc": "2026-08-14T23:42:12.000Z"
     },
+    "output/2026-08-15/apple-s-once-futuristic-iphone-x-is-now-obsolete-cnet.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/apple-s-once-futuristic-iphone-x-is-now-obsolete-cnet.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T00:01:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7fac5dfa2a570bb8867c26",
+          "zernio_scheduled_for_utc": "2026-08-15T00:21:07.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/apple-s-once-futuristic-iphone-x-is-now-obsolete-cnet.png",
+      "metadata_file": "output/2026-08-15/apple-s-once-futuristic-iphone-x-is-now-obsolete-cnet.json",
+      "published_at_utc": "2026-08-15T00:01:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7fac5dfa2a570bb8867c26",
+      "zernio_scheduled_for_utc": "2026-08-15T00:21:07.000Z"
+    },
     "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.txt",
