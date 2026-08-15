@@ -35425,6 +35425,25 @@
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a7f524b6922ca7c95f93906"
     },
+    "output/2026-08-15/4-signs-your-rechargeable-batteries-are-no-longer-safe-to-use-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/4-signs-your-rechargeable-batteries-are-no-longer-safe-to-use-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T17:18:06Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a809f4ea48ff2d78c6f57c2",
+          "zernio_scheduled_for_utc": "2026-08-15T17:37:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/4-signs-your-rechargeable-batteries-are-no-longer-safe-to-use-bgr.png",
+      "metadata_file": "output/2026-08-15/4-signs-your-rechargeable-batteries-are-no-longer-safe-to-use-bgr.json",
+      "published_at_utc": "2026-08-15T17:18:06Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a809f4ea48ff2d78c6f57c2",
+      "zernio_scheduled_for_utc": "2026-08-15T17:37:38.000Z"
+    },
     "output/2026-08-15/6-best-apple-watch-accessories-to-upgrade-your-watch-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/6-best-apple-watch-accessories-to-upgrade-your-watch-2026.txt",
