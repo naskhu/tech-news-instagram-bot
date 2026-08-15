@@ -38090,6 +38090,23 @@
       "zernio_post_id": "6a7fa21f47852ad87336efab",
       "zernio_scheduled_for_utc": "2026-08-14T23:56:14.000Z"
     },
+    "output/2026-08-15/the-smartphone-accessory-most-users-should-skip-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/the-smartphone-accessory-most-users-should-skip-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T18:22:47Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a80ae646440aa9df8c49d09"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/the-smartphone-accessory-most-users-should-skip-bgr.png",
+      "metadata_file": "output/2026-08-15/the-smartphone-accessory-most-users-should-skip-bgr.json",
+      "published_at_utc": "2026-08-15T18:22:47Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a80ae646440aa9df8c49d09"
+    },
     "output/2026-08-15/the-surprise-must-see-movie-of-the-summer.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/the-surprise-must-see-movie-of-the-summer.txt",
