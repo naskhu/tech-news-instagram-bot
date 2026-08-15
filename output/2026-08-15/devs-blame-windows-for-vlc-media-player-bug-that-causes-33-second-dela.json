@@ -1,0 +1,23 @@
+{
+  "title": "Devs blame Windows for VLC media player bug that causes 33-second delay when playing MP3 files — creators allege Microsoft Defender blocking plugin cache is to blame",
+  "summary": "According to the VLC team, the bug is primarily due to a Microsoft Defender issue introduced through a Windows 11 update that conflicts with VLC's plugin cache. The VLC Windows installer includes a dedicated executable file to reset the cache files.",
+  "source": "Tom's Hardware",
+  "url": "https://tomshardware.com/software/windows/vlc-media-player-bug-reportedly-causes-33-second-delay-when-playing-mp3-files-on-windows-developers-say-microsoft-defender-is-to-blame",
+  "published_utc": "2026-08-15T13:30:00+00:00",
+  "output_day": "2026-08-15",
+  "date_source": "meta",
+  "generated_utc": "2026-08-15T13:46:55.033478+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.mos.cms.futurecdn.net/eEtLR2fZ2Wuz7PEoxUuNKk-1280-80.png",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    102,
+    204
+  ],
+  "image": "output/2026-08-15/devs-blame-windows-for-vlc-media-player-bug-that-causes-33-second-dela.png",
+  "caption": "output/2026-08-15/devs-blame-windows-for-vlc-media-player-bug-that-causes-33-second-dela.txt"
+}
