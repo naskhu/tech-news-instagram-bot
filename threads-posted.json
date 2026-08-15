@@ -36964,6 +36964,25 @@
       "zernio_post_id": "6a7f6ea67f7c60bae002e9d8",
       "zernio_scheduled_for_utc": "2026-08-14T20:35:26.000Z"
     },
+    "output/2026-08-15/samsung-is-working-on-over-ear-headphones-to-complement-its-galaxy-bud.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/samsung-is-working-on-over-ear-headphones-to-complement-its-galaxy-bud.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T11:38:56Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a804fd0ad71d1057fa4740c",
+          "zernio_scheduled_for_utc": "2026-08-15T11:58:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/samsung-is-working-on-over-ear-headphones-to-complement-its-galaxy-bud.png",
+      "metadata_file": "output/2026-08-15/samsung-is-working-on-over-ear-headphones-to-complement-its-galaxy-bud.json",
+      "published_at_utc": "2026-08-15T11:38:56Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a804fd0ad71d1057fa4740c",
+      "zernio_scheduled_for_utc": "2026-08-15T11:58:30.000Z"
+    },
     "output/2026-08-15/self-driving-trucks-are-officially-testing-on-california-highways.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/self-driving-trucks-are-officially-testing-on-california-highways.txt",
