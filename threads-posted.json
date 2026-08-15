@@ -38870,6 +38870,25 @@
       "zernio_post_id": "6a80c0dbf2d25751a21ec710",
       "zernio_scheduled_for_utc": "2026-08-15T20:19:36.000Z"
     },
+    "output/2026-08-16/have-a-laugh-at-ai-s-expense-by-roleplaying-as-a-chatbot.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/have-a-laugh-at-ai-s-expense-by-roleplaying-as-a-chatbot.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T21:17:11Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a80d75739551bde8953c90a",
+          "zernio_scheduled_for_utc": "2026-08-15T21:17:53.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/have-a-laugh-at-ai-s-expense-by-roleplaying-as-a-chatbot.png",
+      "metadata_file": "output/2026-08-16/have-a-laugh-at-ai-s-expense-by-roleplaying-as-a-chatbot.json",
+      "published_at_utc": "2026-08-15T21:17:11Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a80d75739551bde8953c90a",
+      "zernio_scheduled_for_utc": "2026-08-15T21:17:53.000Z"
+    },
     "output/2026-08-16/here-s-how-to-reset-your-asus-router-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/here-s-how-to-reset-your-asus-router-engadget.txt",
