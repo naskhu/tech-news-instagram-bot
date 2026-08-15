@@ -1,0 +1,23 @@
+{
+  "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+  "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. Update August 14, 11:51 EDT: Added SAP statement.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks",
+  "published_utc": "2026-08-14T13:45:18+00:00",
+  "output_day": "2026-08-15",
+  "date_source": "rss",
+  "generated_utc": "2026-08-15T03:24:04.106365+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/14/SAP.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-15/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks.png",
+  "caption": "output/2026-08-15/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks.txt"
+}

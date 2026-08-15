@@ -1,0 +1,23 @@
+{
+  "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+  "summary": "The pattern I'm describing, where an OAuth grant is used to access an account, read sensitive data from email and Drive, and use that access to move past the workspace, doesn't only describe what attackers do.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai",
+  "published_utc": "2026-08-14T14:00:10+00:00",
+  "output_day": "2026-08-15",
+  "date_source": "rss",
+  "generated_utc": "2026-08-15T03:24:02.618509+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/posts/2026/08/11/material-g-chains.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-15/the-modern-attack-chain-rethinking-google-workspace-security-in-the-ag.png",
+  "caption": "output/2026-08-15/the-modern-attack-chain-rethinking-google-workspace-security-in-the-ag.txt"
+}
