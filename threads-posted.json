@@ -36755,6 +36755,25 @@
       "zernio_post_id": "6a7ff7643c2b7162a8fabc1c",
       "zernio_scheduled_for_utc": "2026-08-15T06:00:05.000Z"
     },
+    "output/2026-08-15/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k-9to5mac.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k-9to5mac.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T07:12:37Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a801165e56d6902fecfc6ec",
+          "zernio_scheduled_for_utc": "2026-08-15T08:09:49.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k-9to5mac.png",
+      "metadata_file": "output/2026-08-15/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k-9to5mac.json",
+      "published_at_utc": "2026-08-15T07:12:37Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a801165e56d6902fecfc6ec",
+      "zernio_scheduled_for_utc": "2026-08-15T08:09:49.000Z"
+    },
     "output/2026-08-15/vulnerability-giving-attackers-full-control-of-macs-is-under-active-ex.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/vulnerability-giving-attackers-full-control-of-macs-is-under-active-ex.txt",
