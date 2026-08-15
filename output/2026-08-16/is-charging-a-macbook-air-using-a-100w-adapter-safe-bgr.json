@@ -1,0 +1,23 @@
+{
+  "title": "Is Charging A MacBook Air Using A 100W Adapter Safe? - BGR",
+  "summary": "Although Apple doesn't explicitly state the charging speeds of different MacBook Air models, the company mentions the required wattage for a power adapter to enable fast charging. The older M1 MacBook Air is, however, limited to 45W charging.",
+  "source": "BGR",
+  "url": "https://bgr.com/2233179/is-charging-macbook-air-at-100w-safe",
+  "published_utc": "2026-08-15T00:17:00+00:00",
+  "output_day": "2026-08-16",
+  "date_source": "meta",
+  "generated_utc": "2026-08-15T19:39:58.995952+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bgr.com/img/gallery/is-charging-a-macbook-air-using-a-100w-adapter-safe/l-intro-1786332681.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    230,
+    57,
+    70
+  ],
+  "image": "output/2026-08-16/is-charging-a-macbook-air-using-a-100w-adapter-safe-bgr.png",
+  "caption": "output/2026-08-16/is-charging-a-macbook-air-using-a-100w-adapter-safe-bgr.txt"
+}
