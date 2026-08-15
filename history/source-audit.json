@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-15T05:46:01.599647+00:00",
+  "run_utc": "2026-08-15T06:25:57.249523+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-14T05:46:01.599805+00:00",
-  "eligible_story_count": 167,
+  "cutoff_utc": "2026-08-14T06:25:57.249706+00:00",
+  "eligible_story_count": 164,
   "sources": [
     {
       "source": "TechCrunch",
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 11,
+      "eligible_new": 10,
       "already_processed": 0,
-      "older_than_window": 21,
+      "older_than_window": 22,
       "metadata_errors": {}
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 12,
       "already_processed": 5,
-      "older_than_window": 100,
+      "older_than_window": 98,
       "metadata_errors": {}
     },
     {
@@ -378,25 +378,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 18,
+          "links": 19,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 32,
+          "links": 31,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 54,
+      "eligible_new": 55,
       "already_processed": 0,
-      "older_than_window": 44,
+      "older_than_window": 42,
       "metadata_errors": {
-        "missing_title": 1,
-        "no_article_metadata": 4
+        "no_article_metadata": 4,
+        "missing_title": 1
       }
     },
     {
@@ -489,22 +489,22 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 34,
+          "links": 33,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 6,
+          "links": 7,
           "error": ""
         }
       ],
-      "rss_candidates": 28,
+      "rss_candidates": 27,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 4,
+      "eligible_new": 5,
       "already_processed": 11,
-      "older_than_window": 37,
+      "older_than_window": 35,
       "metadata_errors": {}
     },
     {
@@ -569,12 +569,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 30,
-      "page_articles": 7,
+      "page_articles": 3,
       "eligible_new": 0,
       "already_processed": 8,
-      "older_than_window": 11,
+      "older_than_window": 8,
       "metadata_errors": {
-        "http_429": 23
+        "http_429": 27
       }
     },
     {
@@ -606,8 +606,8 @@
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 17,
-      "already_processed": 7,
+      "eligible_new": 13,
+      "already_processed": 11,
       "older_than_window": 90,
       "metadata_errors": {}
     },
@@ -642,7 +642,7 @@
       "page_articles": 40,
       "eligible_new": 19,
       "already_processed": 9,
-      "older_than_window": 78,
+      "older_than_window": 79,
       "metadata_errors": {}
     },
     {
