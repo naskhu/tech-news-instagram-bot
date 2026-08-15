@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-15T05:19:16.728487+00:00",
+  "run_utc": "2026-08-15T05:46:01.599647+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-14T05:19:16.728642+00:00",
-  "eligible_story_count": 172,
+  "cutoff_utc": "2026-08-14T05:46:01.599805+00:00",
+  "eligible_story_count": 167,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 20,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 12,
+      "eligible_new": 11,
       "already_processed": 0,
-      "older_than_window": 20,
+      "older_than_window": 21,
       "metadata_errors": {}
     },
     {
@@ -309,12 +309,12 @@
       ],
       "rss_candidates": 9,
       "page_links": 21,
-      "page_articles": 10,
+      "page_articles": 9,
       "eligible_new": 2,
       "already_processed": 1,
       "older_than_window": 10,
       "metadata_errors": {
-        "not_article_path": 9,
+        "not_article_path": 10,
         "http_429": 2
       }
     },
@@ -502,7 +502,7 @@
       "rss_candidates": 28,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 3,
+      "eligible_new": 4,
       "already_processed": 11,
       "older_than_window": 37,
       "metadata_errors": {}
@@ -569,12 +569,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 30,
-      "page_articles": 3,
+      "page_articles": 7,
       "eligible_new": 0,
       "already_processed": 8,
-      "older_than_window": 10,
+      "older_than_window": 11,
       "metadata_errors": {
-        "http_429": 27
+        "http_429": 23
       }
     },
     {
@@ -606,8 +606,8 @@
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 21,
-      "already_processed": 3,
+      "eligible_new": 17,
+      "already_processed": 7,
       "older_than_window": 90,
       "metadata_errors": {}
     },
