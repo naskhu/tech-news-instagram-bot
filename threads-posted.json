@@ -35596,6 +35596,25 @@
       "zernio_post_id": "6a7ffdc16586e7cca7f9ed80",
       "zernio_scheduled_for_utc": "2026-08-15T06:08:21.000Z"
     },
+    "output/2026-08-15/apple-tv-has-15-new-movies-and-it-s-just-the-start-of-a-big-fall-lineu.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/apple-tv-has-15-new-movies-and-it-s-just-the-start-of-a-big-fall-lineu.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T05:48:55Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7ffdc66586e7cca7f9effb",
+          "zernio_scheduled_for_utc": "2026-08-15T06:27:16.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/apple-tv-has-15-new-movies-and-it-s-just-the-start-of-a-big-fall-lineu.png",
+      "metadata_file": "output/2026-08-15/apple-tv-has-15-new-movies-and-it-s-just-the-start-of-a-big-fall-lineu.json",
+      "published_at_utc": "2026-08-15T05:48:55Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7ffdc66586e7cca7f9effb",
+      "zernio_scheduled_for_utc": "2026-08-15T06:27:16.000Z"
+    },
     "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games.txt",
