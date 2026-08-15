@@ -36052,6 +36052,25 @@
       "zernio_post_id": "6a7f7fb5225b5da5dc9dc859",
       "zernio_scheduled_for_utc": "2026-08-14T21:29:24.000Z"
     },
+    "output/2026-08-15/ringcentral-data-breach-exposed-info-of-1-6-million-accounts.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/ringcentral-data-breach-exposed-info-of-1-6-million-accounts.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T03:25:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7fdc2e8b0882b9a29b1290",
+          "zernio_scheduled_for_utc": "2026-08-15T04:22:45.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/ringcentral-data-breach-exposed-info-of-1-6-million-accounts.png",
+      "metadata_file": "output/2026-08-15/ringcentral-data-breach-exposed-info-of-1-6-million-accounts.json",
+      "published_at_utc": "2026-08-15T03:25:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7fdc2e8b0882b9a29b1290",
+      "zernio_scheduled_for_utc": "2026-08-15T04:22:45.000Z"
+    },
     "output/2026-08-15/saber-says-its-rideshare-game-uses-ai-for-voices-music-and-missions.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/saber-says-its-rideshare-game-uses-ai-for-voices-music-and-missions.txt",
