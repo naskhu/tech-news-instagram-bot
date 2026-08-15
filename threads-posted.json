@@ -36946,6 +36946,23 @@
       "zernio_post_id": "6a7fd18e39a5c6e1b9ffe2d1",
       "zernio_scheduled_for_utc": "2026-08-15T02:59:45.000Z"
     },
+    "output/2026-08-15/how-to-cool-your-laptop-without-a-cooling-pad-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/how-to-cool-your-laptop-without-a-cooling-pad-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T18:54:34Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a80b5d725b58aee6d980fb3"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/how-to-cool-your-laptop-without-a-cooling-pad-bgr.png",
+      "metadata_file": "output/2026-08-15/how-to-cool-your-laptop-without-a-cooling-pad-bgr.json",
+      "published_at_utc": "2026-08-15T18:54:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a80b5d725b58aee6d980fb3"
+    },
     "output/2026-08-15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked.txt",
