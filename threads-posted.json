@@ -37211,6 +37211,25 @@
       "zernio_post_id": "6a7f9a6601a988fe2c92f7e1",
       "zernio_scheduled_for_utc": "2026-08-14T23:23:17.000Z"
     },
+    "output/2026-08-15/this-beautifully-weird-necklace-is-secretly-a-usb-drive.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/this-beautifully-weird-necklace-is-secretly-a-usb-drive.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T11:17:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a804abac20e524ee025c053",
+          "zernio_scheduled_for_utc": "2026-08-15T11:55:36.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/this-beautifully-weird-necklace-is-secretly-a-usb-drive.png",
+      "metadata_file": "output/2026-08-15/this-beautifully-weird-necklace-is-secretly-a-usb-drive.json",
+      "published_at_utc": "2026-08-15T11:17:14Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a804abac20e524ee025c053",
+      "zernio_scheduled_for_utc": "2026-08-15T11:55:36.000Z"
+    },
     "output/2026-08-15/this-scientist-is-helping-build-a-missing-map-of-childhood.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/this-scientist-is-helping-build-a-missing-map-of-childhood.txt",
