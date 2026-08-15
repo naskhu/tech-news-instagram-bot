@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-15T03:22:54.681430+00:00",
+  "run_utc": "2026-08-15T04:07:39.267117+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-14T03:22:54.681575+00:00",
-  "eligible_story_count": 184,
+  "cutoff_utc": "2026-08-14T04:07:39.267269+00:00",
+  "eligible_story_count": 180,
   "sources": [
     {
       "source": "TechCrunch",
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 12,
       "already_processed": 5,
-      "older_than_window": 98,
+      "older_than_window": 97,
       "metadata_errors": {}
     },
     {
@@ -557,24 +557,25 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 30,
+          "links": 29,
           "error": ""
         },
         {
           "url": "https://www.bleepingcomputer.com/news/",
           "status": 200,
-          "links": 2,
+          "links": 1,
           "error": ""
         }
       ],
       "rss_candidates": 15,
-      "page_links": 32,
-      "page_articles": 1,
-      "eligible_new": 5,
-      "already_processed": 3,
-      "older_than_window": 8,
+      "page_links": 30,
+      "page_articles": 6,
+      "eligible_new": 1,
+      "already_processed": 7,
+      "older_than_window": 9,
       "metadata_errors": {
-        "http_429": 31
+        "http_429": 21,
+        "no_article_metadata": 3
       }
     },
     {
