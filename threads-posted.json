@@ -35520,6 +35520,25 @@
       "zernio_post_id": "6a7f9a6bf3cb0f31e5aa2d1e",
       "zernio_scheduled_for_utc": "2026-08-14T23:42:12.000Z"
     },
+    "output/2026-08-15/amazon-can-use-your-twitch-content-to-train-its-ai-unless-you-opt-out.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/amazon-can-use-your-twitch-content-to-train-its-ai-unless-you-opt-out.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T09:21:58Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a802fb6f3f0d08ad7914d6d",
+          "zernio_scheduled_for_utc": "2026-08-15T09:22:43.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/amazon-can-use-your-twitch-content-to-train-its-ai-unless-you-opt-out.png",
+      "metadata_file": "output/2026-08-15/amazon-can-use-your-twitch-content-to-train-its-ai-unless-you-opt-out.json",
+      "published_at_utc": "2026-08-15T09:21:58Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a802fb6f3f0d08ad7914d6d",
+      "zernio_scheduled_for_utc": "2026-08-15T09:22:43.000Z"
+    },
     "output/2026-08-15/android-17-qpr2-adds-app-lock-to-pixel.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/android-17-qpr2-adds-app-lock-to-pixel.txt",
