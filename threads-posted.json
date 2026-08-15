@@ -36242,6 +36242,25 @@
       "zernio_post_id": "6a7f942f01a368f5f1a11952",
       "zernio_scheduled_for_utc": "2026-08-14T23:15:33.000Z"
     },
+    "output/2026-08-15/the-download-flock-s-new-rules-cloning-s-future-and-children-s-cells.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/the-download-flock-s-new-rules-cloning-s-future-and-children-s-cells.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T04:09:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7fe695ffd23eac29502b06",
+          "zernio_scheduled_for_utc": "2026-08-15T04:29:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/the-download-flock-s-new-rules-cloning-s-future-and-children-s-cells.png",
+      "metadata_file": "output/2026-08-15/the-download-flock-s-new-rules-cloning-s-future-and-children-s-cells.json",
+      "published_at_utc": "2026-08-15T04:09:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7fe695ffd23eac29502b06",
+      "zernio_scheduled_for_utc": "2026-08-15T04:29:30.000Z"
+    },
     "output/2026-08-15/the-modern-attack-chain-rethinking-google-workspace-security-in-the-ag.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/the-modern-attack-chain-rethinking-google-workspace-security-in-the-ag.txt",
