@@ -35482,6 +35482,25 @@
       "zernio_post_id": "6a800716232582de3b2fcbc3",
       "zernio_scheduled_for_utc": "2026-08-15T07:25:50.000Z"
     },
+    "output/2026-08-15/a-new-avengers-doomsday-trailer-focuses-on-robert-downey-jr-s-doom.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/a-new-avengers-doomsday-trailer-focuses-on-robert-downey-jr-s-doom.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T14:45:48Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a807b9b72e54b42d3494c99",
+          "zernio_scheduled_for_utc": "2026-08-15T15:05:20.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/a-new-avengers-doomsday-trailer-focuses-on-robert-downey-jr-s-doom.png",
+      "metadata_file": "output/2026-08-15/a-new-avengers-doomsday-trailer-focuses-on-robert-downey-jr-s-doom.json",
+      "published_at_utc": "2026-08-15T14:45:48Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a807b9b72e54b42d3494c99",
+      "zernio_scheduled_for_utc": "2026-08-15T15:05:20.000Z"
+    },
     "output/2026-08-15/a-ramageddon-guide-to-back-to-school-laptop-shopping.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/a-ramageddon-guide-to-back-to-school-laptop-shopping.txt",
