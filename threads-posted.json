@@ -38832,6 +38832,25 @@
       "zernio_post_id": "6a80f37f3f3afd442f697bcd",
       "zernio_scheduled_for_utc": "2026-08-15T23:55:42.000Z"
     },
+    "output/2026-08-16/amd-raises-4-75bn-in-its-biggest-ever-bond-sale.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/amd-raises-4-75bn-in-its-biggest-ever-bond-sale.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T23:39:25Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a80f8ad8585b078cd81051d",
+          "zernio_scheduled_for_utc": "2026-08-16T00:36:35.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/amd-raises-4-75bn-in-its-biggest-ever-bond-sale.png",
+      "metadata_file": "output/2026-08-16/amd-raises-4-75bn-in-its-biggest-ever-bond-sale.json",
+      "published_at_utc": "2026-08-15T23:39:25Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a80f8ad8585b078cd81051d",
+      "zernio_scheduled_for_utc": "2026-08-16T00:36:35.000Z"
+    },
     "output/2026-08-16/an-eval-harness-found-what-qualitative-review-couldn-t-ai-models-are-m.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/an-eval-harness-found-what-qualitative-review-couldn-t-ai-models-are-m.txt",
