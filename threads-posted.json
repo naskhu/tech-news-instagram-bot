@@ -35748,6 +35748,25 @@
       "zernio_post_id": "6a7fd1878eb898fb52acdc29",
       "zernio_scheduled_for_utc": "2026-08-15T02:40:50.000Z"
     },
+    "output/2026-08-15/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-15/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T02:40:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a7fd1948eb898fb52ace328",
+          "zernio_scheduled_for_utc": "2026-08-15T03:18:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-15/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw.png",
+      "metadata_file": "output/2026-08-15/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw.json",
+      "published_at_utc": "2026-08-15T02:40:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a7fd1948eb898fb52ace328",
+      "zernio_scheduled_for_utc": "2026-08-15T03:18:40.000Z"
+    },
     "output/2026-08-15/hellofresh-promo-codes-55-off-for-august-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-15/hellofresh-promo-codes-55-off-for-august-2026.txt",
