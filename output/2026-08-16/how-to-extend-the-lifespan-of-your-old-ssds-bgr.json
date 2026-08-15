@@ -1,0 +1,23 @@
+{
+  "title": "How To Extend The Lifespan Of Your Old SSDs - BGR",
+  "summary": "In an HDD, data is written on moving discs using a head, whereas an SSD stores data in NAND cells, with each cell only capable of going through a certain number of write cycles before it starts degrading.",
+  "source": "BGR",
+  "url": "https://bgr.com/2233602/how-to-extend-lifespan-old-ssd-guide",
+  "published_utc": "2026-08-15T21:17:00+00:00",
+  "output_day": "2026-08-16",
+  "date_source": "meta",
+  "generated_utc": "2026-08-15T21:38:45.074896+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bgr.com/img/gallery/how-to-extend-the-lifespan-of-your-old-ssds/l-intro-1785968804.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 5,
+  "theme_accent_rgb": [
+    230,
+    57,
+    70
+  ],
+  "image": "output/2026-08-16/how-to-extend-the-lifespan-of-your-old-ssds-bgr.png",
+  "caption": "output/2026-08-16/how-to-extend-the-lifespan-of-your-old-ssds-bgr.txt"
+}
