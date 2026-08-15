@@ -38775,6 +38775,25 @@
       "zernio_post_id": "6a80d7626d5e5fe40e9b3dcf",
       "zernio_scheduled_for_utc": "2026-08-15T21:55:43.000Z"
     },
+    "output/2026-08-16/5-everyday-gadgets-more-powerful-than-nasa-s-apollo-11-s-computers-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/5-everyday-gadgets-more-powerful-than-nasa-s-apollo-11-s-computers-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-15T23:56:01Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a80fc9065a6c7c03391c537",
+          "zernio_scheduled_for_utc": "2026-08-15T23:56:45.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/5-everyday-gadgets-more-powerful-than-nasa-s-apollo-11-s-computers-bgr.png",
+      "metadata_file": "output/2026-08-16/5-everyday-gadgets-more-powerful-than-nasa-s-apollo-11-s-computers-bgr.json",
+      "published_at_utc": "2026-08-15T23:56:01Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a80fc9065a6c7c03391c537",
+      "zernio_scheduled_for_utc": "2026-08-15T23:56:45.000Z"
+    },
     "output/2026-08-16/8-phone-blocking-apps-you-should-try-instead-of-brick-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/8-phone-blocking-apps-you-should-try-instead-of-brick-bgr.txt",
