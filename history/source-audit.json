@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-15T07:10:03.872580+00:00",
+  "run_utc": "2026-08-15T07:46:46.771958+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-14T07:10:03.872738+00:00",
-  "eligible_story_count": 162,
+  "cutoff_utc": "2026-08-14T07:46:46.772123+00:00",
+  "eligible_story_count": 158,
   "sources": [
     {
       "source": "TechCrunch",
@@ -249,8 +249,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 12,
-      "already_processed": 5,
-      "older_than_window": 100,
+      "already_processed": 6,
+      "older_than_window": 99,
       "metadata_errors": {}
     },
     {
@@ -309,12 +309,12 @@
       ],
       "rss_candidates": 9,
       "page_links": 21,
-      "page_articles": 9,
+      "page_articles": 11,
       "eligible_new": 2,
       "already_processed": 1,
-      "older_than_window": 10,
+      "older_than_window": 11,
       "metadata_errors": {
-        "not_article_path": 10,
+        "not_article_path": 8,
         "http_429": 2
       }
     },
@@ -378,13 +378,13 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 21,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 29,
           "error": ""
         }
       ],
@@ -569,12 +569,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 30,
-      "page_articles": 6,
+      "page_articles": 7,
       "eligible_new": 0,
       "already_processed": 8,
-      "older_than_window": 11,
+      "older_than_window": 10,
       "metadata_errors": {
-        "http_429": 24
+        "http_429": 23
       }
     },
     {
@@ -606,8 +606,8 @@
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 10,
-      "already_processed": 14,
+      "eligible_new": 6,
+      "already_processed": 18,
       "older_than_window": 90,
       "metadata_errors": {}
     },
