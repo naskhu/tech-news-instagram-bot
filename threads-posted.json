@@ -38851,6 +38851,25 @@
       "zernio_post_id": "6a80eba92d391debbcade21c",
       "zernio_scheduled_for_utc": "2026-08-15T23:41:06.000Z"
     },
+    "output/2026-08-16/a-phone-company-just-lost-1-6-million-records-to-a-phone-call.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/a-phone-company-just-lost-1-6-million-records-to-a-phone-call.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T03:18:17Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a812bf8f2df4def7ef74637",
+          "zernio_scheduled_for_utc": "2026-08-16T03:37:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/a-phone-company-just-lost-1-6-million-records-to-a-phone-call.png",
+      "metadata_file": "output/2026-08-16/a-phone-company-just-lost-1-6-million-records-to-a-phone-call.json",
+      "published_at_utc": "2026-08-16T03:18:17Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a812bf8f2df4def7ef74637",
+      "zernio_scheduled_for_utc": "2026-08-16T03:37:50.000Z"
+    },
     "output/2026-08-16/altman-says-four-years-of-college-may-be-more-than-the-world-now-needs.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/altman-says-four-years-of-college-may-be-more-than-the-world-now-needs.txt",
