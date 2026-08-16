@@ -40428,6 +40428,25 @@
       "zernio_post_id": "6a80f37a3f3afd442f697970",
       "zernio_scheduled_for_utc": "2026-08-15T23:36:47.000Z"
     },
+    "output/2026-08-16/the-first-ferrari-luce-off-the-assembly-line-just-sold-for-40-000-000.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/the-first-ferrari-luce-off-the-assembly-line-just-sold-for-40-000-000.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T13:18:48Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81b8b82a38cfebd0030596",
+          "zernio_scheduled_for_utc": "2026-08-16T13:19:32.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/the-first-ferrari-luce-off-the-assembly-line-just-sold-for-40-000-000.png",
+      "metadata_file": "output/2026-08-16/the-first-ferrari-luce-off-the-assembly-line-just-sold-for-40-000-000.json",
+      "published_at_utc": "2026-08-16T13:18:48Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81b8b82a38cfebd0030596",
+      "zernio_scheduled_for_utc": "2026-08-16T13:19:32.000Z"
+    },
     "output/2026-08-16/the-latest-google-health-update-lets-you-hide-the-ai-coach-and-i-ll-be.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/the-latest-google-health-update-lets-you-hide-the-ai-coach-and-i-ll-be.txt",
