@@ -42524,6 +42524,25 @@
       "zernio_post_id": "6a8224ea30ef51a3a888744d",
       "zernio_scheduled_for_utc": "2026-08-16T21:01:06.000Z"
     },
+    "output/2026-08-17/the-last-house-review-this-tedious-thriller-is-the-worst-netflix-movie.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/the-last-house-review-this-tedious-thriller-is-the-worst-netflix-movie.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T21:21:32Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8229dce165b9c35989d786",
+          "zernio_scheduled_for_utc": "2026-08-16T22:18:49.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/the-last-house-review-this-tedious-thriller-is-the-worst-netflix-movie.png",
+      "metadata_file": "output/2026-08-17/the-last-house-review-this-tedious-thriller-is-the-worst-netflix-movie.json",
+      "published_at_utc": "2026-08-16T21:21:32Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8229dce165b9c35989d786",
+      "zernio_scheduled_for_utc": "2026-08-16T22:18:49.000Z"
+    },
     "output/2026-08-17/the-pentagon-s-next-big-project-is-hypersonic-scramjet-cruise-missiles.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/the-pentagon-s-next-big-project-is-hypersonic-scramjet-cruise-missiles.txt",
