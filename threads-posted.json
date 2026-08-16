@@ -40270,6 +40270,23 @@
       "zernio_post_id": "6a8165748ff082fc96c69658",
       "zernio_scheduled_for_utc": "2026-08-16T08:01:56.000Z"
     },
+    "output/2026-08-16/i-was-shocked-when-i-found-out-how-much-my-pc-upgrade-will-cost-here-a.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/i-was-shocked-when-i-found-out-how-much-my-pc-upgrade-will-cost-here-a.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T17:56:45Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a81f9c2614e171f0d79183c"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/i-was-shocked-when-i-found-out-how-much-my-pc-upgrade-will-cost-here-a.png",
+      "metadata_file": "output/2026-08-16/i-was-shocked-when-i-found-out-how-much-my-pc-upgrade-will-cost-here-a.json",
+      "published_at_utc": "2026-08-16T17:56:45Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a81f9c2614e171f0d79183c"
+    },
     "output/2026-08-16/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-edit.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-edit.txt",
