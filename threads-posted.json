@@ -42391,6 +42391,25 @@
       "zernio_post_id": "6a820d3b9e04cf8daece0853",
       "zernio_scheduled_for_utc": "2026-08-16T19:20:08.000Z"
     },
+    "output/2026-08-17/open-mike-eagle-and-kenny-segal-crafted-a-hip-hop-breakup-masterpiece.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/open-mike-eagle-and-kenny-segal-crafted-a-hip-hop-breakup-masterpiece.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T20:43:32Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8220f36f78c79e403b5dd6",
+          "zernio_scheduled_for_utc": "2026-08-16T21:03:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/open-mike-eagle-and-kenny-segal-crafted-a-hip-hop-breakup-masterpiece.png",
+      "metadata_file": "output/2026-08-17/open-mike-eagle-and-kenny-segal-crafted-a-hip-hop-breakup-masterpiece.json",
+      "published_at_utc": "2026-08-16T20:43:32Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8220f36f78c79e403b5dd6",
+      "zernio_scheduled_for_utc": "2026-08-16T21:03:05.000Z"
+    },
     "output/2026-08-17/why-people-aren-t-buying-mark-zuckerberg-s-ai-future.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/why-people-aren-t-buying-mark-zuckerberg-s-ai-future.txt",
