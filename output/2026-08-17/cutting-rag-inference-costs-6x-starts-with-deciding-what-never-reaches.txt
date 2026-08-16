@@ -1,0 +1,10 @@
+Cutting RAG inference costs 6x starts with deciding what never reaches the LLM
+
+Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out.
+
+Source: VentureBeat
+Read more: https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm
+
+Follow @news.world.tech for more tech news.
+
+#TechNews #Technology #AI #Innovation #Digital

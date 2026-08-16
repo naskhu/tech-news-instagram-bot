@@ -1,0 +1,23 @@
+{
+  "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+  "summary": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out.",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+  "published_utc": "2026-08-16T20:45:00+00:00",
+  "output_day": "2026-08-17",
+  "date_source": "rss",
+  "generated_utc": "2026-08-16T20:59:06.729403+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F7uLwfjMYQqxK7sEOJclb9X%2Fc49147c0a943de6964f0ba5e817b75bf%2Fu7277289442_A_modern_IT_stack._Data_flowing._Colorful._Neon.__6bde8cd6-a885-48ae-82cf-7dbe164e3f5d_3.png%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-17/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches.png",
+  "caption": "output/2026-08-17/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches.txt"
+}
