@@ -40238,6 +40238,25 @@
       "zernio_post_id": "6a80e5685b9321200650a5da",
       "zernio_scheduled_for_utc": "2026-08-15T23:14:23.000Z"
     },
+    "output/2026-08-16/rogue-ai-aren-t-science-fiction-anymore.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/rogue-ai-aren-t-science-fiction-anymore.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T12:27:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81acaf586fba2d7b0c8155",
+          "zernio_scheduled_for_utc": "2026-08-16T12:28:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/rogue-ai-aren-t-science-fiction-anymore.png",
+      "metadata_file": "output/2026-08-16/rogue-ai-aren-t-science-fiction-anymore.json",
+      "published_at_utc": "2026-08-16T12:27:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81acaf586fba2d7b0c8155",
+      "zernio_scheduled_for_utc": "2026-08-16T12:28:11.000Z"
+    },
     "output/2026-08-16/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrie.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrie.txt",
