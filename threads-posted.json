@@ -40162,6 +40162,25 @@
       "zernio_post_id": "6a81520a5a085182af399762",
       "zernio_scheduled_for_utc": "2026-08-16T06:01:26.000Z"
     },
+    "output/2026-08-16/we-spend-most-of-our-time-putting-detail-back-in-that-s-been-incorrect.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/we-spend-most-of-our-time-putting-detail-back-in-that-s-been-incorrect.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T07:51:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a816c06c06276a91fb3364b",
+          "zernio_scheduled_for_utc": "2026-08-16T08:29:58.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/we-spend-most-of-our-time-putting-detail-back-in-that-s-been-incorrect.png",
+      "metadata_file": "output/2026-08-16/we-spend-most-of-our-time-putting-detail-back-in-that-s-been-incorrect.json",
+      "published_at_utc": "2026-08-16T07:51:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a816c06c06276a91fb3364b",
+      "zernio_scheduled_for_utc": "2026-08-16T08:29:58.000Z"
+    },
     "output/2026-08-16/what-do-the-symbols-on-an-lg-tv-remote-mean-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/what-do-the-symbols-on-an-lg-tv-remote-mean-bgr.txt",
