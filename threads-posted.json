@@ -39609,6 +39609,23 @@
       "zernio_post_id": "6a810aef3dd72b111f412b64",
       "zernio_scheduled_for_utc": "2026-08-16T00:58:03.000Z"
     },
+    "output/2026-08-16/do-data-centers-pollute-local-groundwater-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/do-data-centers-pollute-local-groundwater-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T17:39:43Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a81f5ca618e3e0bd2253606"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/do-data-centers-pollute-local-groundwater-bgr.png",
+      "metadata_file": "output/2026-08-16/do-data-centers-pollute-local-groundwater-bgr.json",
+      "published_at_utc": "2026-08-16T17:39:43Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a81f5ca618e3e0bd2253606"
+    },
     "output/2026-08-16/do-nothing-phones-run-stock-android-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/do-nothing-phones-run-stock-android-bgr.txt",
