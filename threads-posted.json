@@ -39383,6 +39383,25 @@
       "zernio_post_id": "6a81b8bea8a459a2aca82cf0",
       "zernio_scheduled_for_utc": "2026-08-16T13:38:27.000Z"
     },
+    "output/2026-08-16/disney-d23-movies-and-streaming-lineup-biggest-surprises-and-everythin.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/disney-d23-movies-and-streaming-lineup-biggest-surprises-and-everythin.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T14:19:01Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81c6d5035ba0b133af06c4",
+          "zernio_scheduled_for_utc": "2026-08-16T14:19:45.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/disney-d23-movies-and-streaming-lineup-biggest-surprises-and-everythin.png",
+      "metadata_file": "output/2026-08-16/disney-d23-movies-and-streaming-lineup-biggest-surprises-and-everythin.json",
+      "published_at_utc": "2026-08-16T14:19:01Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81c6d5035ba0b133af06c4",
+      "zernio_scheduled_for_utc": "2026-08-16T14:19:45.000Z"
+    },
     "output/2026-08-16/disney-is-giving-tomorrowland-a-long-overdue-update.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/disney-is-giving-tomorrowland-a-long-overdue-update.txt",
