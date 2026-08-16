@@ -1,0 +1,23 @@
+{
+  "title": "A phone company just lost 1.6 million records to a phone call",
+  "summary": "ShinyHunters listed RingCentral on its leak site on 27 July. Stolen contact details make the next voice-phishing call more credible, and the next call produces the next set of stolen contact details.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/shinyhunters-ringcentral-leak-voice-phishing-ey",
+  "published_utc": "2026-08-15T12:28:13+00:00",
+  "output_day": "2026-08-16",
+  "date_source": "meta",
+  "generated_utc": "2026-08-16T03:16:58.068145+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.thenextweb.com/2026/06/Call-center.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-08-16/a-phone-company-just-lost-1-6-million-records-to-a-phone-call.png",
+  "caption": "output/2026-08-16/a-phone-company-just-lost-1-6-million-records-to-a-phone-call.txt"
+}
