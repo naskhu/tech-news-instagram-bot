@@ -40010,6 +40010,25 @@
       "zernio_post_id": "6a80dc8c31fb8df66d261f11",
       "zernio_scheduled_for_utc": "2026-08-15T22:17:46.000Z"
     },
+    "output/2026-08-16/how-to-lease-an-iphone-instead-of-buying-one-engadget.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/how-to-lease-an-iphone-instead-of-buying-one-engadget.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T16:51:13Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81ea8160ac2300e4a6862d",
+          "zernio_scheduled_for_utc": "2026-08-16T17:10:46.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/how-to-lease-an-iphone-instead-of-buying-one-engadget.png",
+      "metadata_file": "output/2026-08-16/how-to-lease-an-iphone-instead-of-buying-one-engadget.json",
+      "published_at_utc": "2026-08-16T16:51:13Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81ea8160ac2300e4a6862d",
+      "zernio_scheduled_for_utc": "2026-08-16T17:10:46.000Z"
+    },
     "output/2026-08-16/how-to-protect-your-screen-without-a-screen-protector-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/how-to-protect-your-screen-without-a-screen-protector-bgr.txt",
