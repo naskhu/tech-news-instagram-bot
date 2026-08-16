@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-16T12:25:15.500527+00:00",
+  "run_utc": "2026-08-16T13:16:45.299465+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-15T12:25:15.500689+00:00",
-  "eligible_story_count": 6,
+  "cutoff_utc": "2026-08-15T13:16:45.299636+00:00",
+  "eligible_story_count": 14,
   "sources": [
     {
       "source": "TechCrunch",
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 0,
+      "eligible_new": 2,
       "already_processed": 18,
-      "older_than_window": 14,
+      "older_than_window": 12,
       "metadata_errors": {}
     },
     {
@@ -249,8 +249,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 1,
-      "already_processed": 5,
-      "older_than_window": 109,
+      "already_processed": 6,
+      "older_than_window": 108,
       "metadata_errors": {}
     },
     {
@@ -309,13 +309,12 @@
       ],
       "rss_candidates": 10,
       "page_links": 21,
-      "page_articles": 11,
+      "page_articles": 12,
       "eligible_new": 0,
       "already_processed": 3,
-      "older_than_window": 11,
+      "older_than_window": 12,
       "metadata_errors": {
-        "not_article_path": 9,
-        "http_429": 1
+        "not_article_path": 9
       }
     },
     {
@@ -391,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 6,
+      "eligible_new": 10,
       "already_processed": 34,
-      "older_than_window": 62,
+      "older_than_window": 58,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -432,8 +431,8 @@
       "rss_candidates": 0,
       "page_links": 24,
       "page_articles": 24,
-      "eligible_new": 1,
-      "already_processed": 4,
+      "eligible_new": 0,
+      "already_processed": 5,
       "older_than_window": 19,
       "metadata_errors": {}
     },
@@ -536,9 +535,9 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 0,
+      "eligible_new": 1,
       "already_processed": 2,
-      "older_than_window": 5,
+      "older_than_window": 4,
       "metadata_errors": {}
     },
     {
@@ -569,13 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 30,
-      "page_articles": 3,
+      "page_articles": 6,
       "eligible_new": 0,
       "already_processed": 9,
-      "older_than_window": 8,
+      "older_than_window": 10,
       "metadata_errors": {
-        "no_article_metadata": 2,
-        "http_429": 25
+        "http_429": 24
       }
     },
     {
@@ -628,20 +626,20 @@
         {
           "url": "https://9to5google.com/",
           "status": 200,
-          "links": 30,
+          "links": 29,
           "error": ""
         },
         {
           "url": "https://9to5google.com/guides/news/",
           "status": 200,
-          "links": 10,
+          "links": 11,
           "error": ""
         }
       ],
       "rss_candidates": 94,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
+      "eligible_new": 2,
       "already_processed": 29,
       "older_than_window": 78,
       "metadata_errors": {}
@@ -675,9 +673,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 1,
-      "already_processed": 25,
-      "older_than_window": 32,
+      "eligible_new": 2,
+      "already_processed": 26,
+      "older_than_window": 31,
       "metadata_errors": {
         "no_article_metadata": 2
       }
@@ -698,7 +696,7 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 29,
+          "links": 28,
           "error": ""
         },
         {
@@ -709,10 +707,10 @@
         }
       ],
       "rss_candidates": 20,
-      "page_links": 31,
-      "page_articles": 31,
+      "page_links": 30,
+      "page_articles": 30,
       "eligible_new": 1,
-      "already_processed": 30,
+      "already_processed": 29,
       "older_than_window": 0,
       "metadata_errors": {}
     }
