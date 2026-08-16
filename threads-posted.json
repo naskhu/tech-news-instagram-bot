@@ -40561,6 +40561,25 @@
       "zernio_post_id": "6a80bbd57d5360d2fd00a874",
       "zernio_scheduled_for_utc": "2026-08-15T20:16:57.000Z"
     },
+    "output/2026-08-16/who-owns-ultimate-ears-speakers-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/who-owns-ultimate-ears-speakers-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T09:58:56Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8189e08b2bce2dc0acd963",
+          "zernio_scheduled_for_utc": "2026-08-16T10:18:28.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/who-owns-ultimate-ears-speakers-bgr.png",
+      "metadata_file": "output/2026-08-16/who-owns-ultimate-ears-speakers-bgr.json",
+      "published_at_utc": "2026-08-16T09:58:56Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8189e08b2bce2dc0acd963",
+      "zernio_scheduled_for_utc": "2026-08-16T10:18:28.000Z"
+    },
     "output/2026-08-16/why-are-ram-prices-so-high-right-now-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/why-are-ram-prices-so-high-right-now-engadget.txt",
