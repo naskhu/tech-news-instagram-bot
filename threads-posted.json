@@ -42638,6 +42638,25 @@
       "zernio_post_id": "6a8240ed19e44f2568da9b3d",
       "zernio_scheduled_for_utc": "2026-08-16T23:28:57.000Z"
     },
+    "output/2026-08-17/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T23:55:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a824dddbae634a126b105dc",
+          "zernio_scheduled_for_utc": "2026-08-16T23:55:53.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale.png",
+      "metadata_file": "output/2026-08-17/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale.json",
+      "published_at_utc": "2026-08-16T23:55:09Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a824dddbae634a126b105dc",
+      "zernio_scheduled_for_utc": "2026-08-16T23:55:53.000Z"
+    },
     "output/2026-08-17/spotify-s-car-thing-is-resurrected-thanks-to-community-firmware-wizard.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/spotify-s-car-thing-is-resurrected-thanks-to-community-firmware-wizard.txt",
