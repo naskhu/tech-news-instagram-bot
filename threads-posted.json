@@ -38908,6 +38908,25 @@
       "zernio_post_id": "6a80f8ad8585b078cd81051d",
       "zernio_scheduled_for_utc": "2026-08-16T00:36:35.000Z"
     },
+    "output/2026-08-16/an-almighty-algorithm-s-grand-debut.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/an-almighty-algorithm-s-grand-debut.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T03:18:29Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a812c04c0070260980acf64",
+          "zernio_scheduled_for_utc": "2026-08-16T04:15:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/an-almighty-algorithm-s-grand-debut.png",
+      "metadata_file": "output/2026-08-16/an-almighty-algorithm-s-grand-debut.json",
+      "published_at_utc": "2026-08-16T03:18:29Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a812c04c0070260980acf64",
+      "zernio_scheduled_for_utc": "2026-08-16T04:15:40.000Z"
+    },
     "output/2026-08-16/an-eval-harness-found-what-qualitative-review-couldn-t-ai-models-are-m.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/an-eval-harness-found-what-qualitative-review-couldn-t-ai-models-are-m.txt",
