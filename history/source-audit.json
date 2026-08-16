@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-16T18:19:47.739480+00:00",
+  "run_utc": "2026-08-16T18:51:02.617714+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-15T18:19:47.739637+00:00",
-  "eligible_story_count": 10,
+  "cutoff_utc": "2026-08-15T18:51:02.617855+00:00",
+  "eligible_story_count": 7,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 20,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -213,8 +213,8 @@
       "page_links": 32,
       "page_articles": 32,
       "eligible_new": 1,
-      "already_processed": 25,
-      "older_than_window": 6,
+      "already_processed": 26,
+      "older_than_window": 5,
       "metadata_errors": {}
     },
     {
@@ -249,8 +249,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 1,
-      "already_processed": 5,
-      "older_than_window": 110,
+      "already_processed": 6,
+      "older_than_window": 109,
       "metadata_errors": {}
     },
     {
@@ -391,8 +391,8 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 10,
-      "already_processed": 38,
+      "eligible_new": 9,
+      "already_processed": 39,
       "older_than_window": 55,
       "metadata_errors": {
         "no_article_metadata": 4,
@@ -569,12 +569,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 30,
-      "page_articles": 6,
+      "page_articles": 3,
       "eligible_new": 0,
       "already_processed": 11,
-      "older_than_window": 8,
+      "older_than_window": 6,
       "metadata_errors": {
-        "http_429": 24
+        "http_429": 27
       }
     },
     {
@@ -703,15 +703,15 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 2,
+          "links": 3,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 31,
-      "page_articles": 31,
-      "eligible_new": 2,
-      "already_processed": 30,
+      "page_links": 32,
+      "page_articles": 32,
+      "eligible_new": 0,
+      "already_processed": 32,
       "older_than_window": 0,
       "metadata_errors": {}
     }
