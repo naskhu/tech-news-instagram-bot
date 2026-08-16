@@ -39174,6 +39174,25 @@
       "zernio_post_id": "6a80eb998fb8bad2efe6c467",
       "zernio_scheduled_for_utc": "2026-08-15T22:44:21.000Z"
     },
+    "output/2026-08-16/do-you-prefer-analog-style-liquid-glass-or-cartoon-characters-on-your-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/do-you-prefer-analog-style-liquid-glass-or-cartoon-characters-on-your-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T04:54:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a814287c09a59febe1190d3",
+          "zernio_scheduled_for_utc": "2026-08-16T05:32:54.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/do-you-prefer-analog-style-liquid-glass-or-cartoon-characters-on-your-.png",
+      "metadata_file": "output/2026-08-16/do-you-prefer-analog-style-liquid-glass-or-cartoon-characters-on-your-.json",
+      "published_at_utc": "2026-08-16T04:54:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a814287c09a59febe1190d3",
+      "zernio_scheduled_for_utc": "2026-08-16T05:32:54.000Z"
+    },
     "output/2026-08-16/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-mo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-mo.txt",
