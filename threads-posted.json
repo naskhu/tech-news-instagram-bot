@@ -39573,6 +39573,25 @@
       "zernio_post_id": "6a814287c09a59febe1190d3",
       "zernio_scheduled_for_utc": "2026-08-16T05:32:54.000Z"
     },
+    "output/2026-08-16/does-apple-still-support-itunes-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/does-apple-still-support-itunes-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T15:40:59Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81da0ab73db5ff2d4cd242",
+          "zernio_scheduled_for_utc": "2026-08-16T16:19:10.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/does-apple-still-support-itunes-bgr.png",
+      "metadata_file": "output/2026-08-16/does-apple-still-support-itunes-bgr.json",
+      "published_at_utc": "2026-08-16T15:40:59Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81da0ab73db5ff2d4cd242",
+      "zernio_scheduled_for_utc": "2026-08-16T16:19:10.000Z"
+    },
     "output/2026-08-16/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-mo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-mo.txt",
