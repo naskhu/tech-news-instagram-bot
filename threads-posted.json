@@ -39611,6 +39611,25 @@
       "zernio_post_id": "6a81da0ab73db5ff2d4cd242",
       "zernio_scheduled_for_utc": "2026-08-16T16:19:10.000Z"
     },
+    "output/2026-08-16/dolby-vision-is-on-netflix-but-you-ll-need-these-things-first-engadget.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/dolby-vision-is-on-netflix-but-you-ll-need-these-things-first-engadget.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T16:19:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81e306715dd9792c21eaed",
+          "zernio_scheduled_for_utc": "2026-08-16T16:57:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/dolby-vision-is-on-netflix-but-you-ll-need-these-things-first-engadget.png",
+      "metadata_file": "output/2026-08-16/dolby-vision-is-on-netflix-but-you-ll-need-these-things-first-engadget.json",
+      "published_at_utc": "2026-08-16T16:19:19Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81e306715dd9792c21eaed",
+      "zernio_scheduled_for_utc": "2026-08-16T16:57:40.000Z"
+    },
     "output/2026-08-16/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-mo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-mo.txt",
