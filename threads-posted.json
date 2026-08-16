@@ -39383,6 +39383,25 @@
       "zernio_post_id": "6a814281c09a59febe118ed5",
       "zernio_scheduled_for_utc": "2026-08-16T05:13:59.000Z"
     },
+    "output/2026-08-16/can-you-mount-a-ring-video-doorbell-sideways-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/can-you-mount-a-ring-video-doorbell-sideways-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T16:51:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81ea7b1df93eed460f6ef9",
+          "zernio_scheduled_for_utc": "2026-08-16T16:51:51.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/can-you-mount-a-ring-video-doorbell-sideways-bgr.png",
+      "metadata_file": "output/2026-08-16/can-you-mount-a-ring-video-doorbell-sideways-bgr.json",
+      "published_at_utc": "2026-08-16T16:51:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81ea7b1df93eed460f6ef9",
+      "zernio_scheduled_for_utc": "2026-08-16T16:51:51.000Z"
+    },
     "output/2026-08-16/chatgpt-s-computer-history-tracks-your-clicks-and-keystrokes.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/chatgpt-s-computer-history-tracks-your-clicks-and-keystrokes.txt",
