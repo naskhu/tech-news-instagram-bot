@@ -39174,6 +39174,25 @@
       "zernio_post_id": "6a816c0123236cb0df5350be",
       "zernio_scheduled_for_utc": "2026-08-16T08:11:03.000Z"
     },
+    "output/2026-08-16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust-tech.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust-tech.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T17:17:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81f0ab3a49f6f05ecfec14",
+          "zernio_scheduled_for_utc": "2026-08-16T17:18:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust-tech.png",
+      "metadata_file": "output/2026-08-16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust-tech.json",
+      "published_at_utc": "2026-08-16T17:17:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81f0ab3a49f6f05ecfec14",
+      "zernio_scheduled_for_utc": "2026-08-16T17:18:15.000Z"
+    },
     "output/2026-08-16/anthropic-is-watermarking-text-generated-by-claude-to-comply-with-eu-l.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/anthropic-is-watermarking-text-generated-by-claude-to-comply-with-eu-l.txt",
