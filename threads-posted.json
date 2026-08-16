@@ -40143,6 +40143,25 @@
       "zernio_post_id": "6a80c0e12a1c2ec6be6b1955",
       "zernio_scheduled_for_utc": "2026-08-15T20:38:31.000Z"
     },
+    "output/2026-08-16/is-the-macbook-pro-m5-still-worth-buying-after-the-price-hike-engadget.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/is-the-macbook-pro-m5-still-worth-buying-after-the-price-hike-engadget.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T15:59:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81de5a8179e4b45858429a",
+          "zernio_scheduled_for_utc": "2026-08-16T16:18:55.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/is-the-macbook-pro-m5-still-worth-buying-after-the-price-hike-engadget.png",
+      "metadata_file": "output/2026-08-16/is-the-macbook-pro-m5-still-worth-buying-after-the-price-hike-engadget.json",
+      "published_at_utc": "2026-08-16T15:59:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81de5a8179e4b45858429a",
+      "zernio_scheduled_for_utc": "2026-08-16T16:18:55.000Z"
+    },
     "output/2026-08-16/it-s-never-too-early-to-start-planning-for-the-next-two-solar-eclipses.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/it-s-never-too-early-to-start-planning-for-the-next-two-solar-eclipses.txt",
