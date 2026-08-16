@@ -40143,6 +40143,25 @@
       "zernio_post_id": "6a811ea81701cf7d042246a4",
       "zernio_scheduled_for_utc": "2026-08-16T02:41:01.000Z"
     },
+    "output/2026-08-16/someone-finally-fixed-installing-apps-on-a-mac.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/someone-finally-fixed-installing-apps-on-a-mac.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T10:45:32Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8194cc4fdab8f5eb7fbd95",
+          "zernio_scheduled_for_utc": "2026-08-16T11:05:06.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/someone-finally-fixed-installing-apps-on-a-mac.png",
+      "metadata_file": "output/2026-08-16/someone-finally-fixed-installing-apps-on-a-mac.json",
+      "published_at_utc": "2026-08-16T10:45:32Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8194cc4fdab8f5eb7fbd95",
+      "zernio_scheduled_for_utc": "2026-08-16T11:05:06.000Z"
+    },
     "output/2026-08-16/spacex-has-officially-acquired-ai-coding-startup-cursor-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/spacex-has-officially-acquired-ai-coding-startup-cursor-engadget.txt",
