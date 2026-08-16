@@ -39326,6 +39326,25 @@
       "zernio_post_id": "6a80c0ce0d297ade8525e19b",
       "zernio_scheduled_for_utc": "2026-08-15T19:41:46.000Z"
     },
+    "output/2026-08-16/critical-macos-screen-sharing-flaw-gives-attackers-remote-root-access-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/critical-macos-screen-sharing-flaw-gives-attackers-remote-root-access-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T13:49:59Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81c007118dd8235a936406",
+          "zernio_scheduled_for_utc": "2026-08-16T14:28:20.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/critical-macos-screen-sharing-flaw-gives-attackers-remote-root-access-.png",
+      "metadata_file": "output/2026-08-16/critical-macos-screen-sharing-flaw-gives-attackers-remote-root-access-.json",
+      "published_at_utc": "2026-08-16T13:49:59Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81c007118dd8235a936406",
+      "zernio_scheduled_for_utc": "2026-08-16T14:28:20.000Z"
+    },
     "output/2026-08-16/data-centers-vs-property-value-how-ai-could-change-the-price-of-your-h.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/data-centers-vs-property-value-how-ai-could-change-the-price-of-your-h.txt",
