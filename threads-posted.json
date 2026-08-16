@@ -40314,6 +40314,25 @@
       "zernio_post_id": "6a8189eb65e805bd28260201",
       "zernio_scheduled_for_utc": "2026-08-16T10:56:18.000Z"
     },
+    "output/2026-08-16/the-pc-age-began-45-years-ago-with-the-breakthrough-intel-8088-process.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/the-pc-age-began-45-years-ago-with-the-breakthrough-intel-8088-process.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T11:39:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81a176e6ad5e25841dc487",
+          "zernio_scheduled_for_utc": "2026-08-16T11:59:08.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/the-pc-age-began-45-years-ago-with-the-breakthrough-intel-8088-process.png",
+      "metadata_file": "output/2026-08-16/the-pc-age-began-45-years-ago-with-the-breakthrough-intel-8088-process.json",
+      "published_at_utc": "2026-08-16T11:39:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81a176e6ad5e25841dc487",
+      "zernio_scheduled_for_utc": "2026-08-16T11:59:08.000Z"
+    },
     "output/2026-08-16/the-qualcomm-chipset-offers-very-good-performance-for-still-image-proc.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/the-qualcomm-chipset-offers-very-good-performance-for-still-image-proc.txt",
