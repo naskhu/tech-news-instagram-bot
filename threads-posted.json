@@ -40675,6 +40675,25 @@
       "zernio_post_id": "6a80e55c5b9321200650a0ee",
       "zernio_scheduled_for_utc": "2026-08-15T22:36:33.000Z"
     },
+    "output/2026-08-16/star-trek-s-5-best-captains-not-counting-kirk-ranked-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/star-trek-s-5-best-captains-not-counting-kirk-ranked-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T15:18:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81d4c34199ab6c76132cbd",
+          "zernio_scheduled_for_utc": "2026-08-16T16:15:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/star-trek-s-5-best-captains-not-counting-kirk-ranked-bgr.png",
+      "metadata_file": "output/2026-08-16/star-trek-s-5-best-captains-not-counting-kirk-ranked-bgr.json",
+      "published_at_utc": "2026-08-16T15:18:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81d4c34199ab6c76132cbd",
+      "zernio_scheduled_for_utc": "2026-08-16T16:15:40.000Z"
+    },
     "output/2026-08-16/stripe-is-reportedly-in-talks-to-buy-paypal-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/stripe-is-reportedly-in-talks-to-buy-paypal-engadget.txt",
