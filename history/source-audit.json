@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-16T22:14:32.829703+00:00",
+  "run_utc": "2026-08-16T22:39:37.671082+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-15T22:14:32.829834+00:00",
+  "cutoff_utc": "2026-08-15T22:39:37.671253+00:00",
   "eligible_story_count": 2,
   "sources": [
     {
@@ -310,8 +310,8 @@
       "rss_candidates": 9,
       "page_links": 20,
       "page_articles": 12,
-      "eligible_new": 1,
-      "already_processed": 4,
+      "eligible_new": 0,
+      "already_processed": 5,
       "older_than_window": 9,
       "metadata_errors": {
         "not_article_path": 8
@@ -390,7 +390,7 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 3,
+      "eligible_new": 2,
       "already_processed": 48,
       "older_than_window": 53,
       "metadata_errors": {
@@ -568,13 +568,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 30,
-      "page_articles": 1,
-      "eligible_new": 0,
+      "page_articles": 6,
+      "eligible_new": 1,
       "already_processed": 11,
-      "older_than_window": 5,
+      "older_than_window": 6,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 28
+        "http_429": 23
       }
     },
     {
@@ -703,14 +703,14 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 3,
+          "links": 4,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 33,
-      "page_articles": 33,
-      "eligible_new": 0,
+      "page_links": 34,
+      "page_articles": 34,
+      "eligible_new": 1,
       "already_processed": 33,
       "older_than_window": 0,
       "metadata_errors": {}

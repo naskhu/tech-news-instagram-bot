@@ -1,0 +1,23 @@
+{
+  "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+  "summary": "Anthropic’s status page currently classifies Claude.ai, Claude Code, and Claude Cowork as experiencing a major outage. Update 1 : Anthropic said at 21:58 UTC on August 16 that it was investigating authentication issues affecting Claude.ai, Claude Code, and Claude Cowork.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services",
+  "published_utc": "2026-08-16T22:28:57+00:00",
+  "output_day": "2026-08-17",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-16T22:40:37.370247+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 8,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-17/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-s.png",
+  "caption": "output/2026-08-17/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-s.txt"
+}
