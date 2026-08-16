@@ -40143,6 +40143,25 @@
       "zernio_post_id": "6a80cf6715cfb35ba37be803",
       "zernio_scheduled_for_utc": "2026-08-15T20:44:03.000Z"
     },
+    "output/2026-08-16/maker-compresses-a-2-9mb-song-by-1000x-and-prints-it-on-paper-as-eight.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/maker-compresses-a-2-9mb-song-by-1000x-and-prints-it-on-paper-as-eight.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T14:45:18Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81ccfe8d0f2ab5a2a03a48",
+          "zernio_scheduled_for_utc": "2026-08-16T15:42:41.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/maker-compresses-a-2-9mb-song-by-1000x-and-prints-it-on-paper-as-eight.png",
+      "metadata_file": "output/2026-08-16/maker-compresses-a-2-9mb-song-by-1000x-and-prints-it-on-paper-as-eight.json",
+      "published_at_utc": "2026-08-16T14:45:18Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81ccfe8d0f2ab5a2a03a48",
+      "zernio_scheduled_for_utc": "2026-08-16T15:42:41.000Z"
+    },
     "output/2026-08-16/man-tried-to-prompt-engineer-his-way-to-a-legal-victory-it-didn-t-work.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/man-tried-to-prompt-engineer-his-way-to-a-legal-victory-it-didn-t-work.txt",
