@@ -42099,6 +42099,23 @@
       "zernio_post_id": "6a81a55b9e1cbaee1df10ca7",
       "zernio_scheduled_for_utc": "2026-08-16T12:53:23.000Z"
     },
+    "output/2026-08-16/you-might-want-to-skip-newegg-s-gpu-trade-in-program-engadget.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/you-might-want-to-skip-newegg-s-gpu-trade-in-program-engadget.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T18:23:13Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a81fffc7b5dbeea21f6a928"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/you-might-want-to-skip-newegg-s-gpu-trade-in-program-engadget.png",
+      "metadata_file": "output/2026-08-16/you-might-want-to-skip-newegg-s-gpu-trade-in-program-engadget.json",
+      "published_at_utc": "2026-08-16T18:23:13Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a81fffc7b5dbeea21f6a928"
+    },
     "output/2026-08-16/your-phone-gets-five-years-of-updates-by-law-your-car-gets-nothing.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/your-phone-gets-five-years-of-updates-by-law-your-car-gets-nothing.txt",
