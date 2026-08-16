@@ -40276,6 +40276,25 @@
       "zernio_post_id": "6a8149bee61946733aa66433",
       "zernio_scheduled_for_utc": "2026-08-16T05:26:02.000Z"
     },
+    "output/2026-08-16/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-c.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-c.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T15:18:16Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81d4b8038cad5750e23205",
+          "zernio_scheduled_for_utc": "2026-08-16T15:37:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-c.png",
+      "metadata_file": "output/2026-08-16/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-c.json",
+      "published_at_utc": "2026-08-16T15:18:16Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81d4b8038cad5750e23205",
+      "zernio_scheduled_for_utc": "2026-08-16T15:37:50.000Z"
+    },
     "output/2026-08-16/new-flock-style-scanners-can-now-pick-up-readings-from-the-devices-in-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/new-flock-style-scanners-can-now-pick-up-readings-from-the-devices-in-.txt",
