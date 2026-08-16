@@ -41283,6 +41283,25 @@
       "zernio_post_id": "6a80d76839551bde8953d007",
       "zernio_scheduled_for_utc": "2026-08-15T22:14:38.000Z"
     },
+    "output/2026-08-16/what-is-the-retro-app-for-and-how-do-you-use-it-engadget.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/what-is-the-retro-app-for-and-how-do-you-use-it-engadget.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T15:41:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81da10c323d131f605c706",
+          "zernio_scheduled_for_utc": "2026-08-16T16:38:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/what-is-the-retro-app-for-and-how-do-you-use-it-engadget.png",
+      "metadata_file": "output/2026-08-16/what-is-the-retro-app-for-and-how-do-you-use-it-engadget.json",
+      "published_at_utc": "2026-08-16T15:41:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81da10c323d131f605c706",
+      "zernio_scheduled_for_utc": "2026-08-16T16:38:05.000Z"
+    },
     "output/2026-08-16/what-s-the-usb-trident-symbol-for-how-to-know-what-kind-of-port-you-ha.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/what-s-the-usb-trident-symbol-for-how-to-know-what-kind-of-port-you-ha.txt",
