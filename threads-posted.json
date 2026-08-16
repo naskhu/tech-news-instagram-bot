@@ -40333,6 +40333,25 @@
       "zernio_post_id": "6a8149c9c438b3e859005ea7",
       "zernio_scheduled_for_utc": "2026-08-16T06:03:52.000Z"
     },
+    "output/2026-08-16/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-co.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-co.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T10:19:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a818e9e04b16d1c8c205e79",
+          "zernio_scheduled_for_utc": "2026-08-16T10:57:33.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-co.png",
+      "metadata_file": "output/2026-08-16/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-co.json",
+      "published_at_utc": "2026-08-16T10:19:10Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a818e9e04b16d1c8c205e79",
+      "zernio_scheduled_for_utc": "2026-08-16T10:57:33.000Z"
+    },
     "output/2026-08-16/usb4-vs-usb-c-what-s-the-difference-between-them-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/usb4-vs-usb-c-what-s-the-difference-between-them-engadget.txt",
