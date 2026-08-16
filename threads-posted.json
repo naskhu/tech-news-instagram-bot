@@ -39649,6 +39649,25 @@
       "zernio_post_id": "6a81656f5ebcf409bbc2b9ee",
       "zernio_scheduled_for_utc": "2026-08-16T07:43:01.000Z"
     },
+    "output/2026-08-16/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asi.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asi.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T13:50:04Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81c00c118dd8235a93666f",
+          "zernio_scheduled_for_utc": "2026-08-16T14:47:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asi.png",
+      "metadata_file": "output/2026-08-16/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asi.json",
+      "published_at_utc": "2026-08-16T13:50:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81c00c118dd8235a93666f",
+      "zernio_scheduled_for_utc": "2026-08-16T14:47:15.000Z"
+    },
     "output/2026-08-16/google-will-allow-users-to-remove-watermarks-from-gemini-s-output.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/google-will-allow-users-to-remove-watermarks-from-gemini-s-output.txt",
