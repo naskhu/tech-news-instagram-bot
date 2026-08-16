@@ -40162,6 +40162,25 @@
       "zernio_post_id": "6a80c42bcef591d02d3a2cd6",
       "zernio_scheduled_for_utc": "2026-08-15T19:56:07.000Z"
     },
+    "output/2026-08-16/this-massive-standing-desk-is-everything-i-need-and-more-and-best-of-a.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/this-massive-standing-desk-is-everything-i-need-and-more-and-best-of-a.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T08:55:08Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a817aec4cea165030d56d92",
+          "zernio_scheduled_for_utc": "2026-08-16T09:33:29.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/this-massive-standing-desk-is-everything-i-need-and-more-and-best-of-a.png",
+      "metadata_file": "output/2026-08-16/this-massive-standing-desk-is-everything-i-need-and-more-and-best-of-a.json",
+      "published_at_utc": "2026-08-16T08:55:08Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a817aec4cea165030d56d92",
+      "zernio_scheduled_for_utc": "2026-08-16T09:33:29.000Z"
+    },
     "output/2026-08-16/ukraine-s-new-secret-drone-weapon-could-be-this-25g-antenna-capable-of.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/ukraine-s-new-secret-drone-weapon-could-be-this-25g-antenna-capable-of.txt",
