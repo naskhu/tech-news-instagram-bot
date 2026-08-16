@@ -40922,6 +40922,25 @@
       "zernio_post_id": "6a8149c3baba20cf9d935681",
       "zernio_scheduled_for_utc": "2026-08-16T05:44:57.000Z"
     },
+    "output/2026-08-16/which-nvidia-gpu-is-equivalent-to-the-playstation-5-bgr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/which-nvidia-gpu-is-equivalent-to-the-playstation-5-bgr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T12:27:38Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a81acba0541381c1a5804e7",
+          "zernio_scheduled_for_utc": "2026-08-16T13:06:01.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/which-nvidia-gpu-is-equivalent-to-the-playstation-5-bgr.png",
+      "metadata_file": "output/2026-08-16/which-nvidia-gpu-is-equivalent-to-the-playstation-5-bgr.json",
+      "published_at_utc": "2026-08-16T12:27:38Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a81acba0541381c1a5804e7",
+      "zernio_scheduled_for_utc": "2026-08-16T13:06:01.000Z"
+    },
     "output/2026-08-16/who-owns-oppo-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/who-owns-oppo-bgr.txt",
