@@ -39858,6 +39858,25 @@
       "zernio_post_id": "6a8149bee61946733aa66433",
       "zernio_scheduled_for_utc": "2026-08-16T05:26:02.000Z"
     },
+    "output/2026-08-16/new-flock-style-scanners-can-now-pick-up-readings-from-the-devices-in-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/new-flock-style-scanners-can-now-pick-up-readings-from-the-devices-in-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T10:19:15Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a818ea327f90c2fdc7191d7",
+          "zernio_scheduled_for_utc": "2026-08-16T11:16:28.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/new-flock-style-scanners-can-now-pick-up-readings-from-the-devices-in-.png",
+      "metadata_file": "output/2026-08-16/new-flock-style-scanners-can-now-pick-up-readings-from-the-devices-in-.json",
+      "published_at_utc": "2026-08-16T10:19:15Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a818ea327f90c2fdc7191d7",
+      "zernio_scheduled_for_utc": "2026-08-16T11:16:28.000Z"
+    },
     "output/2026-08-16/not-asus-not-msi-consumer-reports-says-this-laptop-brand-is-the-most-r.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/not-asus-not-msi-consumer-reports-says-this-laptop-brand-is-the-most-r.txt",
