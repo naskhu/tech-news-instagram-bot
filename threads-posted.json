@@ -40504,6 +40504,25 @@
       "zernio_post_id": "6a80dc81727ca554856d4cbd",
       "zernio_scheduled_for_utc": "2026-08-15T21:39:56.000Z"
     },
+    "output/2026-08-16/x-men-97-season-3-everything-we-know-so-far-about-the-popular-marvel-a.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-16/x-men-97-season-3-everything-we-know-so-far-about-the-popular-marvel-a.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-16T08:55:02Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a817ae69dc9f09d4c1e0090",
+          "zernio_scheduled_for_utc": "2026-08-16T09:14:34.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-16/x-men-97-season-3-everything-we-know-so-far-about-the-popular-marvel-a.png",
+      "metadata_file": "output/2026-08-16/x-men-97-season-3-everything-we-know-so-far-about-the-popular-marvel-a.json",
+      "published_at_utc": "2026-08-16T08:55:02Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a817ae69dc9f09d4c1e0090",
+      "zernio_scheduled_for_utc": "2026-08-16T09:14:34.000Z"
+    },
     "output/2026-08-16/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-16/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23-cnet.txt",
