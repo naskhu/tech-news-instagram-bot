@@ -44769,6 +44769,25 @@
       "zernio_post_id": "6a83896e5dc0f875745d590c",
       "zernio_scheduled_for_utc": "2026-08-17T22:59:55.000Z"
     },
+    "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T22:47:56Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a838f9bdab6a0479ab5687a",
+          "zernio_scheduled_for_utc": "2026-08-17T23:07:28.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/microsoft-confirms-github-is-down-worldwide.png",
+      "metadata_file": "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.json",
+      "published_at_utc": "2026-08-17T22:47:56Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a838f9bdab6a0479ab5687a",
+      "zernio_scheduled_for_utc": "2026-08-17T23:07:28.000Z"
+    },
     "output/2026-08-18/peacock-is-testing-perks-for-long-term-subscribers.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/peacock-is-testing-perks-for-long-term-subscribers.txt",
