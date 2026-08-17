@@ -42619,6 +42619,25 @@
       "zernio_post_id": "6a826fa8a9bb510b30584e69",
       "zernio_scheduled_for_utc": "2026-08-17T02:38:54.000Z"
     },
+    "output/2026-08-17/french-tax-authority-data-breach-affects-678-000-individuals.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/french-tax-authority-data-breach-affects-678-000-individuals.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T10:40:25Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82e51965f20073db933096",
+          "zernio_scheduled_for_utc": "2026-08-17T11:18:48.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/french-tax-authority-data-breach-affects-678-000-individuals.png",
+      "metadata_file": "output/2026-08-17/french-tax-authority-data-breach-affects-678-000-individuals.json",
+      "published_at_utc": "2026-08-17T10:40:25Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82e51965f20073db933096",
+      "zernio_scheduled_for_utc": "2026-08-17T11:18:48.000Z"
+    },
     "output/2026-08-17/gemini-now-lets-you-turn-off-the-visible-watermark-on-your-ai-creation.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/gemini-now-lets-you-turn-off-the-visible-watermark-on-your-ai-creation.txt",
