@@ -42353,6 +42353,25 @@
       "zernio_post_id": "6a82126888aae02f720f70c8",
       "zernio_scheduled_for_utc": "2026-08-16T19:42:13.000Z"
     },
+    "output/2026-08-17/another-woman-joins-lawsuit-accusing-grok-of-generating-csam-engadget.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/another-woman-joins-lawsuit-accusing-grok-of-generating-csam-engadget.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T06:09:30Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82a59a492194ab0b64b1d5",
+          "zernio_scheduled_for_utc": "2026-08-17T06:10:13.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/another-woman-joins-lawsuit-accusing-grok-of-generating-csam-engadget.png",
+      "metadata_file": "output/2026-08-17/another-woman-joins-lawsuit-accusing-grok-of-generating-csam-engadget.json",
+      "published_at_utc": "2026-08-17T06:09:30Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82a59a492194ab0b64b1d5",
+      "zernio_scheduled_for_utc": "2026-08-17T06:10:13.000Z"
+    },
     "output/2026-08-17/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-s.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-s.txt",
