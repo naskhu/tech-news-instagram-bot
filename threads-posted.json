@@ -42524,6 +42524,25 @@
       "zernio_post_id": "6a82f74c87d92810c311524e",
       "zernio_scheduled_for_utc": "2026-08-17T12:17:38.000Z"
     },
+    "output/2026-08-17/apple-ordered-to-change-app-data-consent-prompts-on-iphones-and-ipads.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/apple-ordered-to-change-app-data-consent-prompts-on-iphones-and-ipads.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T15:23:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a832773635eb4004346cdbf",
+          "zernio_scheduled_for_utc": "2026-08-17T16:19:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/apple-ordered-to-change-app-data-consent-prompts-on-iphones-and-ipads.png",
+      "metadata_file": "output/2026-08-17/apple-ordered-to-change-app-data-consent-prompts-on-iphones-and-ipads.json",
+      "published_at_utc": "2026-08-17T15:23:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a832773635eb4004346cdbf",
+      "zernio_scheduled_for_utc": "2026-08-17T16:19:05.000Z"
+    },
     "output/2026-08-17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-e.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-e.txt",
