@@ -1,0 +1,23 @@
+{
+  "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+  "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders",
+  "published_utc": "2026-08-17T19:12:39+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-17T22:46:32.814842+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/17/pokemon-center.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-18/pok-mon-center-data-breach-exposes-customer-info-cancels-some-orders.png",
+  "caption": "output/2026-08-18/pok-mon-center-data-breach-exposes-customer-info-cancels-some-orders.txt"
+}

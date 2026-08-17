@@ -1,0 +1,23 @@
+{
+  "title": "Microsoft confirms GitHub is down worldwide",
+  "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. GitHub says archive downloads and raw repository content downloads are experiencing error rates of approximately 50%.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide",
+  "published_utc": "2026-08-17T14:47:08+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-17T22:46:35.275406+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/06/09/MS-GitHub.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.png",
+  "caption": "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.txt"
+}
