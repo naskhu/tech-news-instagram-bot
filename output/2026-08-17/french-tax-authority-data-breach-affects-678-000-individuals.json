@@ -1,0 +1,23 @@
+{
+  "title": "French tax authority data breach affects 678,000 individuals",
+  "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals",
+  "published_utc": "2026-08-17T10:09:48+00:00",
+  "output_day": "2026-08-17",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-17T10:39:01.573296+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2022/01/06/flag-of-france.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-17/french-tax-authority-data-breach-affects-678-000-individuals.png",
+  "caption": "output/2026-08-17/french-tax-authority-data-breach-affects-678-000-individuals.txt"
+}
