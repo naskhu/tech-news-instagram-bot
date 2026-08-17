@@ -1,0 +1,23 @@
+{
+  "title": "How Heidi built production-ready AI for healthcare at global scale",
+  "summary": "MongoDB gave the team the flexibility to accommodate rapidly changing AI data without constantly reshaping the underlying database. “The model is maybe 20% of the system, and the data architecture is what determines whether the other 80% holds up under real clinical…",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
+  "published_utc": "2026-08-17T14:30:00+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "rss",
+  "generated_utc": "2026-08-17T22:19:56.209538+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F1nCLzQa4Tgn03PPfS2aB0A%2Fe8319b09ef2f6fbaac11c34c12d6eae8%2FAdobeStock_650145795.jpeg%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-18/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale.png",
+  "caption": "output/2026-08-18/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale.txt"
+}

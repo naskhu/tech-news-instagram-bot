@@ -1,0 +1,23 @@
+{
+  "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+  "summary": "In total, the threat actor claims to have 3.64 million data records, with the most recent breach posted on Sunday, containing an alleged 1.7 million employee records from McDonalds. “I’m selling McDonald’s Corporation internal employee dump downloaded directly from Azure Tenant using…",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies",
+  "published_utc": "2026-08-17T19:35:01+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-17T22:19:58.798024+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/06/29/DataLeak.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-18/hacker-claims-3-6-million-azure-account-records-stolen-from-major-comp.png",
+  "caption": "output/2026-08-18/hacker-claims-3-6-million-azure-account-records-stolen-from-major-comp.txt"
+}
