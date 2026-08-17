@@ -42562,6 +42562,25 @@
       "zernio_post_id": "6a821acad6f9a5d995535b41",
       "zernio_scheduled_for_utc": "2026-08-16T21:14:38.000Z"
     },
+    "output/2026-08-17/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-i.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-i.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T10:02:45Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82dc451832faa3c892ffa4",
+          "zernio_scheduled_for_utc": "2026-08-17T10:22:18.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-i.png",
+      "metadata_file": "output/2026-08-17/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-i.json",
+      "published_at_utc": "2026-08-17T10:02:45Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82dc451832faa3c892ffa4",
+      "zernio_scheduled_for_utc": "2026-08-17T10:22:18.000Z"
+    },
     "output/2026-08-17/final-ui-for-googlebook-desktop-camera-app-revealed-gallery.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/final-ui-for-googlebook-desktop-camera-app-revealed-gallery.txt",
