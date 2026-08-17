@@ -44560,6 +44560,25 @@
       "zernio_post_id": "6a836d63cd0d08f49db33632",
       "zernio_scheduled_for_utc": "2026-08-17T21:19:08.000Z"
     },
+    "output/2026-08-18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27-9to.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27-9to.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T23:21:42Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8397861c6a14acc5195a7d",
+          "zernio_scheduled_for_utc": "2026-08-17T23:22:26.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27-9to.png",
+      "metadata_file": "output/2026-08-18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27-9to.json",
+      "published_at_utc": "2026-08-17T23:21:42Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8397861c6a14acc5195a7d",
+      "zernio_scheduled_for_utc": "2026-08-17T23:22:26.000Z"
+    },
     "output/2026-08-18/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-thei.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-thei.txt",
