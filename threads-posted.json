@@ -42904,6 +42904,25 @@
       "zernio_post_id": "6a82b65b51d0253de257d9b2",
       "zernio_scheduled_for_utc": "2026-08-17T08:18:17.000Z"
     },
+    "output/2026-08-17/lineageos-support-finally-comes-to-the-galaxy-s22-series.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/lineageos-support-finally-comes-to-the-galaxy-s22-series.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T11:03:35Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82ea8755d3eef3166d061f",
+          "zernio_scheduled_for_utc": "2026-08-17T11:23:08.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/lineageos-support-finally-comes-to-the-galaxy-s22-series.png",
+      "metadata_file": "output/2026-08-17/lineageos-support-finally-comes-to-the-galaxy-s22-series.json",
+      "published_at_utc": "2026-08-17T11:03:35Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82ea8755d3eef3166d061f",
+      "zernio_scheduled_for_utc": "2026-08-17T11:23:08.000Z"
+    },
     "output/2026-08-17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.txt",
