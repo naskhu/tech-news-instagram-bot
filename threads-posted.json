@@ -44788,6 +44788,25 @@
       "zernio_post_id": "6a8389753a1e81a40527d7aa",
       "zernio_scheduled_for_utc": "2026-08-17T23:18:50.000Z"
     },
+    "output/2026-08-18/here-s-what-s-new-with-ios-and-macos-27-beta-6-9to5mac.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/here-s-what-s-new-with-ios-and-macos-27-beta-6-9to5mac.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T23:44:53Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a839cf566dcf59376e93bfc",
+          "zernio_scheduled_for_utc": "2026-08-18T00:42:02.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/here-s-what-s-new-with-ios-and-macos-27-beta-6-9to5mac.png",
+      "metadata_file": "output/2026-08-18/here-s-what-s-new-with-ios-and-macos-27-beta-6-9to5mac.json",
+      "published_at_utc": "2026-08-17T23:44:53Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a839cf566dcf59376e93bfc",
+      "zernio_scheduled_for_utc": "2026-08-18T00:42:02.000Z"
+    },
     "output/2026-08-18/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai.txt",
