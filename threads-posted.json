@@ -44449,6 +44449,23 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8343d7a9601a24718b7bf0",
       "zernio_scheduled_for_utc": "2026-08-17T17:44:10.000Z"
+    },
+    "output/2026-08-17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing-techcr.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing-techcr.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T18:49:07Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a83578c1edc3c73804c457a"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing-techcr.png",
+      "metadata_file": "output/2026-08-17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing-techcr.json",
+      "published_at_utc": "2026-08-17T18:49:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a83578c1edc3c73804c457a"
     }
   }
 }
