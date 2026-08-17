@@ -44484,6 +44484,25 @@
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a83578c1edc3c73804c457a"
     },
+    "output/2026-08-18/abc-s-livestreamed-news-show-is-powered-by-trending-topics.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/abc-s-livestreamed-news-show-is-powered-by-trending-topics.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T21:22:30Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a837b966fdeb40eb9ae9618",
+          "zernio_scheduled_for_utc": "2026-08-17T21:42:04.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/abc-s-livestreamed-news-show-is-powered-by-trending-topics.png",
+      "metadata_file": "output/2026-08-18/abc-s-livestreamed-news-show-is-powered-by-trending-topics.json",
+      "published_at_utc": "2026-08-17T21:22:30Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a837b966fdeb40eb9ae9618",
+      "zernio_scheduled_for_utc": "2026-08-17T21:42:04.000Z"
+    },
     "output/2026-08-18/anthropic-s-claude-will-add-watermarks-to-ai-generated-text-and-files-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/anthropic-s-claude-will-add-watermarks-to-ai-generated-text-and-files-.txt",
