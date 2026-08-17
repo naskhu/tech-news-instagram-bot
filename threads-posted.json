@@ -44882,6 +44882,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a836d52d24f04411bf1b820",
       "zernio_scheduled_for_utc": "2026-08-17T20:22:23.000Z"
+    },
+    "output/2026-08-18/what-is-el-ni-o-here-s-what-it-means-for-weather-water-and-global-econ.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/what-is-el-ni-o-here-s-what-it-means-for-weather-water-and-global-econ.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T21:50:47Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a838237808763b0714aec89",
+          "zernio_scheduled_for_utc": "2026-08-17T22:10:19.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/what-is-el-ni-o-here-s-what-it-means-for-weather-water-and-global-econ.png",
+      "metadata_file": "output/2026-08-18/what-is-el-ni-o-here-s-what-it-means-for-weather-water-and-global-econ.json",
+      "published_at_utc": "2026-08-17T21:50:47Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a838237808763b0714aec89",
+      "zernio_scheduled_for_utc": "2026-08-17T22:10:19.000Z"
     }
   }
 }
