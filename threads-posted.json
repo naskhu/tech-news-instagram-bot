@@ -43398,6 +43398,25 @@
       "zernio_post_id": "6a82cf002e20f728c767e3dd",
       "zernio_scheduled_for_utc": "2026-08-17T09:44:29.000Z"
     },
+    "output/2026-08-17/whisker-s-ai-powered-litter-robot-thinks-my-cats-swapped-bodies.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/whisker-s-ai-powered-litter-robot-thinks-my-cats-swapped-bodies.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T11:35:13Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82f1f079bbb47188b17fba",
+          "zernio_scheduled_for_utc": "2026-08-17T11:54:45.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/whisker-s-ai-powered-litter-robot-thinks-my-cats-swapped-bodies.png",
+      "metadata_file": "output/2026-08-17/whisker-s-ai-powered-litter-robot-thinks-my-cats-swapped-bodies.json",
+      "published_at_utc": "2026-08-17T11:35:13Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82f1f079bbb47188b17fba",
+      "zernio_scheduled_for_utc": "2026-08-17T11:54:45.000Z"
+    },
     "output/2026-08-17/who-owns-commodore-the-retro-pc-brand-still-exists-but-a-lot-has-chang.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/who-owns-commodore-the-retro-pc-brand-still-exists-but-a-lot-has-chang.txt",
