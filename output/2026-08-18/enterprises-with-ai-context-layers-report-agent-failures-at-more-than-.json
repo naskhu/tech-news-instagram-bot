@@ -1,0 +1,23 @@
+{
+  "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+  "summary": "RAG remains the default context source, and nearly one in five enterprises are running agents on long-context loading or no structured context layer at all. Sixty-three percent of enterprises are already building or running a governed context layer.",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+  "published_utc": "2026-08-17T16:11:44+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "rss",
+  "generated_utc": "2026-08-17T20:49:51.176295+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F7HlP9eF4ws6aVTKtLKEI5z%2F3572d302cdc70c680790f21770fb69ed%2Fmissing-piece-smk1.jpg%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-18/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-.png",
+  "caption": "output/2026-08-18/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-.txt"
+}
