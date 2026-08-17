@@ -43132,6 +43132,25 @@
       "zernio_post_id": "6a82e51e72f0dffbfc64144c",
       "zernio_scheduled_for_utc": "2026-08-17T11:37:43.000Z"
     },
+    "output/2026-08-17/satellite-operators-are-in-panic-mode-due-to-a-worsening-launch-crisis.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/satellite-operators-are-in-panic-mode-due-to-a-worsening-launch-crisis.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T11:35:18Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82f1f60c167afc7a3d1193",
+          "zernio_scheduled_for_utc": "2026-08-17T12:13:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/satellite-operators-are-in-panic-mode-due-to-a-worsening-launch-crisis.png",
+      "metadata_file": "output/2026-08-17/satellite-operators-are-in-panic-mode-due-to-a-worsening-launch-crisis.json",
+      "published_at_utc": "2026-08-17T11:35:18Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82f1f60c167afc7a3d1193",
+      "zernio_scheduled_for_utc": "2026-08-17T12:13:40.000Z"
+    },
     "output/2026-08-17/securing-adoption-in-the-era-of-shadow-ai.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/securing-adoption-in-the-era-of-shadow-ai.txt",
