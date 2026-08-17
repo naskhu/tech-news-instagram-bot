@@ -44769,6 +44769,25 @@
       "zernio_post_id": "6a83896e5dc0f875745d590c",
       "zernio_scheduled_for_utc": "2026-08-17T22:59:55.000Z"
     },
+    "output/2026-08-18/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T22:48:08Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a838fa7b786b765820a0d3f",
+          "zernio_scheduled_for_utc": "2026-08-17T23:45:18.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-.png",
+      "metadata_file": "output/2026-08-18/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-.json",
+      "published_at_utc": "2026-08-17T22:48:08Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a838fa7b786b765820a0d3f",
+      "zernio_scheduled_for_utc": "2026-08-17T23:45:18.000Z"
+    },
     "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.txt",
