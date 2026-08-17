@@ -43645,6 +43645,23 @@
       "zernio_post_id": "6a82e50e72f0dffbfc641083",
       "zernio_scheduled_for_utc": "2026-08-17T10:40:58.000Z"
     },
+    "output/2026-08-17/sonic-is-coming-to-fortnite.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/sonic-is-coming-to-fortnite.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T18:02:18Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a834c9b9e0bdfe19c1c03a5"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/sonic-is-coming-to-fortnite.png",
+      "metadata_file": "output/2026-08-17/sonic-is-coming-to-fortnite.json",
+      "published_at_utc": "2026-08-17T18:02:18Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a834c9b9e0bdfe19c1c03a5"
+    },
     "output/2026-08-17/sonos-finally-added-live-activities-controls-for-your-iphone-lockscree.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/sonos-finally-added-live-activities-controls-for-your-iphone-lockscree.txt",
