@@ -1,0 +1,23 @@
+{
+  "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+  "summary": "Researchers published a working proof-of-concept on July 24, 2026, demonstrating that a low-privileged Active Directory user (holding nothing more than a standard domain account) can coerce an Enterprise CA into issuing a valid authentication certificate for a Domain Controller, then use that…",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority",
+  "published_utc": "2026-08-17T14:00:10+00:00",
+  "output_day": "2026-08-17",
+  "date_source": "rss",
+  "generated_utc": "2026-08-17T14:05:42.527434+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/images/news/security/b/beyondtrust/certighost/attack-flow.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-17/certighost-and-the-privilege-hiding-in-your-certificate-authority.png",
+  "caption": "output/2026-08-17/certighost-and-the-privilege-hiding-in-your-certificate-authority.txt"
+}

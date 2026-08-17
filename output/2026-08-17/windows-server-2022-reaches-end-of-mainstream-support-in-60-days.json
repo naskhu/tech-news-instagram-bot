@@ -1,0 +1,23 @@
+{
+  "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+  "summary": "The company announced Windows Server 2022 in March 2021, and it became generally available in September 2021 as the Long-Term Servicing Channel (LTSC) release, with 10 years of support. \"On October 13, 2026, Windows Server 2022 will reach end of mainstream support.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days",
+  "published_utc": "2026-08-17T12:33:11+00:00",
+  "output_day": "2026-08-17",
+  "date_source": "rss",
+  "generated_utc": "2026-08-17T14:05:44.356932+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/17/Windows_Server.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-17/windows-server-2022-reaches-end-of-mainstream-support-in-60-days.png",
+  "caption": "output/2026-08-17/windows-server-2022-reaches-end-of-mainstream-support-in-60-days.txt"
+}
