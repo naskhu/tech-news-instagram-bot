@@ -42429,6 +42429,25 @@
       "zernio_post_id": "6a823c70cf146b0028d938d9",
       "zernio_scheduled_for_utc": "2026-08-16T22:41:33.000Z"
     },
+    "output/2026-08-17/anthropic-explains-how-claude-s-invisible-text-watermarks-will-work.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/anthropic-explains-how-claude-s-invisible-text-watermarks-will-work.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T11:03:29Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82ea816d212cd05a07a2a7",
+          "zernio_scheduled_for_utc": "2026-08-17T11:04:13.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/anthropic-explains-how-claude-s-invisible-text-watermarks-will-work.png",
+      "metadata_file": "output/2026-08-17/anthropic-explains-how-claude-s-invisible-text-watermarks-will-work.json",
+      "published_at_utc": "2026-08-17T11:03:29Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82ea816d212cd05a07a2a7",
+      "zernio_scheduled_for_utc": "2026-08-17T11:04:13.000Z"
+    },
     "output/2026-08-17/anthropic-s-near-2tn-ipo-rests-on-a-revenue-forecast-for-2028.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/anthropic-s-near-2tn-ipo-rests-on-a-revenue-forecast-for-2028.txt",
