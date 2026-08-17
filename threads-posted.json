@@ -42372,6 +42372,23 @@
       "zernio_post_id": "6a82f747a68f8f57732cd651",
       "zernio_scheduled_for_utc": "2026-08-17T11:58:43.000Z"
     },
+    "output/2026-08-17/a-tesla-robotaxi-ran-over-some-bollards-and-kept-going.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/a-tesla-robotaxi-ran-over-some-bollards-and-kept-going.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T18:02:44Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a834cb07955512bbc3ad2b4"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/a-tesla-robotaxi-ran-over-some-bollards-and-kept-going.png",
+      "metadata_file": "output/2026-08-17/a-tesla-robotaxi-ran-over-some-bollards-and-kept-going.json",
+      "published_at_utc": "2026-08-17T18:02:44Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a834cb07955512bbc3ad2b4"
+    },
     "output/2026-08-17/actor-hayden-panettiere-has-died-at-age-36.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/actor-hayden-panettiere-has-died-at-age-36.txt",
