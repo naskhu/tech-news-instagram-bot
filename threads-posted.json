@@ -42334,6 +42334,25 @@
       "zernio_post_id": "6a821ac54ad83411999d176a",
       "zernio_scheduled_for_utc": "2026-08-16T20:17:53.000Z"
     },
+    "output/2026-08-17/a-half-price-galaxy-watch-8-headlines-samsung-s-august-secret-sale-and.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/a-half-price-galaxy-watch-8-headlines-samsung-s-august-secret-sale-and.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T06:09:36Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82a5a0492194ab0b64b3f1",
+          "zernio_scheduled_for_utc": "2026-08-17T07:06:58.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/a-half-price-galaxy-watch-8-headlines-samsung-s-august-secret-sale-and.png",
+      "metadata_file": "output/2026-08-17/a-half-price-galaxy-watch-8-headlines-samsung-s-august-secret-sale-and.json",
+      "published_at_utc": "2026-08-17T06:09:36Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82a5a0492194ab0b64b3f1",
+      "zernio_scheduled_for_utc": "2026-08-17T07:06:58.000Z"
+    },
     "output/2026-08-17/anker-vs-ugreen-which-mobile-accessory-brand-is-best-for-you-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/anker-vs-ugreen-which-mobile-accessory-brand-is-best-for-you-bgr.txt",
