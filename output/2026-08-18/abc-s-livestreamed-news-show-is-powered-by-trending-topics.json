@@ -1,0 +1,23 @@
+{
+  "title": "ABC’s livestreamed news show is powered by trending topics",
+  "summary": "Searched highlights news stories appearing in web searches and social media discussions. Searched highlights news stories appearing in web searches and social media discussions.",
+  "source": "The Verge",
+  "url": "https://theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+  "published_utc": "2026-08-17T20:59:23+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "meta",
+  "generated_utc": "2026-08-17T21:21:09.922010+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/abc-news-searched.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-18/abc-s-livestreamed-news-show-is-powered-by-trending-topics.png",
+  "caption": "output/2026-08-18/abc-s-livestreamed-news-show-is-powered-by-trending-topics.txt"
+}
