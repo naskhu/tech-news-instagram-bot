@@ -42961,6 +42961,25 @@
       "zernio_post_id": "6a8220eeb58fec586ed8687d",
       "zernio_scheduled_for_utc": "2026-08-16T20:44:10.000Z"
     },
+    "output/2026-08-17/wind-farms-are-having-a-surprising-impact-on-weather-radars-here-s-why.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/wind-farms-are-having-a-surprising-impact-on-weather-radars-here-s-why.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T03:17:28Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a827d472cf59fe6962fe319",
+          "zernio_scheduled_for_utc": "2026-08-17T03:18:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/wind-farms-are-having-a-surprising-impact-on-weather-radars-here-s-why.png",
+      "metadata_file": "output/2026-08-17/wind-farms-are-having-a-surprising-impact-on-weather-radars-here-s-why.json",
+      "published_at_utc": "2026-08-17T03:17:28Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a827d472cf59fe6962fe319",
+      "zernio_scheduled_for_utc": "2026-08-17T03:18:11.000Z"
+    },
     "output/2026-08-17/workday-s-potential-buyout-feeds-hope-saas-sell-off-is-over.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/workday-s-potential-buyout-feeds-hope-saas-sell-off-is-over.txt",
