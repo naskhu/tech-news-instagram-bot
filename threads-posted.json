@@ -42581,6 +42581,25 @@
       "zernio_post_id": "6a82320f2de4b7b6eb01d0ca",
       "zernio_scheduled_for_utc": "2026-08-16T21:57:15.000Z"
     },
+    "output/2026-08-17/certighost-and-the-privilege-hiding-in-your-certificate-authority.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/certighost-and-the-privilege-hiding-in-your-certificate-authority.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T14:07:04Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a83158780825cd5bb83c2f1",
+          "zernio_scheduled_for_utc": "2026-08-17T14:26:35.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/certighost-and-the-privilege-hiding-in-your-certificate-authority.png",
+      "metadata_file": "output/2026-08-17/certighost-and-the-privilege-hiding-in-your-certificate-authority.json",
+      "published_at_utc": "2026-08-17T14:07:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a83158780825cd5bb83c2f1",
+      "zernio_scheduled_for_utc": "2026-08-17T14:26:35.000Z"
+    },
     "output/2026-08-17/cherokee-nation-bans-hyperscale-data-centers-on-its-lands-won-t-suppor.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/cherokee-nation-bans-hyperscale-data-centers-on-its-lands-won-t-suppor.txt",
