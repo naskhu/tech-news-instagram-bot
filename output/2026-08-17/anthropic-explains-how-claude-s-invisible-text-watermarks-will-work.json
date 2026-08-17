@@ -1,0 +1,23 @@
+{
+  "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+  "summary": "﻿It’s using ‘a version’ of the open-source SynthID-Text system Google developed. ﻿It’s using ‘a version’ of the open-source SynthID-Text system Google developed. When watermarking is used, choices are still made at random, but the source of the randomness is different.",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+  "published_utc": "2026-08-17T10:57:13+00:00",
+  "output_day": "2026-08-17",
+  "date_source": "rss",
+  "generated_utc": "2026-08-17T11:01:45.242440+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-17/anthropic-explains-how-claude-s-invisible-text-watermarks-will-work.png",
+  "caption": "output/2026-08-17/anthropic-explains-how-claude-s-invisible-text-watermarks-will-work.txt"
+}
