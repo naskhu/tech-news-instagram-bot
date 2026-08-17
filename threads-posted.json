@@ -43968,6 +43968,25 @@
       "zernio_post_id": "6a830c33decd015b0069d200",
       "zernio_scheduled_for_utc": "2026-08-17T13:46:47.000Z"
     },
+    "output/2026-08-17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T15:22:45Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8327447d66052a2eb8ebfb",
+          "zernio_scheduled_for_utc": "2026-08-17T16:00:10.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-.png",
+      "metadata_file": "output/2026-08-17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-.json",
+      "published_at_utc": "2026-08-17T15:22:45Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8327447d66052a2eb8ebfb",
+      "zernio_scheduled_for_utc": "2026-08-17T16:00:10.000Z"
+    },
     "output/2026-08-17/workday-s-potential-buyout-feeds-hope-saas-sell-off-is-over.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/workday-s-potential-buyout-feeds-hope-saas-sell-off-is-over.txt",
