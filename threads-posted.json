@@ -42391,6 +42391,25 @@
       "zernio_post_id": "6a8224f284514822b31192ef",
       "zernio_scheduled_for_utc": "2026-08-16T21:20:01.000Z"
     },
+    "output/2026-08-17/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-wor.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-wor.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T02:19:15Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a826fa3a9bb510b30584ca0",
+          "zernio_scheduled_for_utc": "2026-08-17T02:19:59.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-wor.png",
+      "metadata_file": "output/2026-08-17/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-wor.json",
+      "published_at_utc": "2026-08-17T02:19:15Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a826fa3a9bb510b30584ca0",
+      "zernio_scheduled_for_utc": "2026-08-17T02:19:59.000Z"
+    },
     "output/2026-08-17/dario-amodei-admits-ai-companies-have-not-delivered-on-their-promises.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/dario-amodei-admits-ai-companies-have-not-delivered-on-their-promises.txt",
