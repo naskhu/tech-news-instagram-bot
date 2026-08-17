@@ -43474,6 +43474,25 @@
       "zernio_post_id": "6a82e50e72f0dffbfc641083",
       "zernio_scheduled_for_utc": "2026-08-17T10:40:58.000Z"
     },
+    "output/2026-08-17/sony-apparently-hasn-t-decided-exactly-when-the-playstation-6-will-be-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/sony-apparently-hasn-t-decided-exactly-when-the-playstation-6-will-be-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T15:47:36Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a832d1826591fa98161f40d",
+          "zernio_scheduled_for_utc": "2026-08-17T15:48:20.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/sony-apparently-hasn-t-decided-exactly-when-the-playstation-6-will-be-.png",
+      "metadata_file": "output/2026-08-17/sony-apparently-hasn-t-decided-exactly-when-the-playstation-6-will-be-.json",
+      "published_at_utc": "2026-08-17T15:47:36Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a832d1826591fa98161f40d",
+      "zernio_scheduled_for_utc": "2026-08-17T15:48:20.000Z"
+    },
     "output/2026-08-17/spotify-s-car-thing-is-resurrected-thanks-to-community-firmware-wizard.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/spotify-s-car-thing-is-resurrected-thanks-to-community-firmware-wizard.txt",
