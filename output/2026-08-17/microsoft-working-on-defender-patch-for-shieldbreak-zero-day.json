@@ -1,0 +1,23 @@
+{
+  "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+  "summary": "Since April, Nightmare Eclipse has disclosed multiple zero-day exploits targeting Microsoft Defender, BitLocker, and various other Windows components, now known as LegacyHive , RoguePlanet , BlueHammer , RedSun , YellowKey , GreenPlasma , MiniPlasma , and UnDefend .",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day",
+  "published_utc": "2026-08-17T09:05:33+00:00",
+  "output_day": "2026-08-17",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-17T10:01:27.553007+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft-Defender.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.png",
+  "caption": "output/2026-08-17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.txt"
+}
