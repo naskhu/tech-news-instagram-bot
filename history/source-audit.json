@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-17T02:16:53.888876+00:00",
+  "run_utc": "2026-08-17T03:15:12.536354+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-16T02:16:53.889005+00:00",
-  "eligible_story_count": 5,
+  "cutoff_utc": "2026-08-16T03:15:12.536497+00:00",
+  "eligible_story_count": 1,
   "sources": [
     {
       "source": "TechCrunch",
@@ -56,7 +56,7 @@
       "page_links": 30,
       "page_articles": 30,
       "eligible_new": 0,
-      "already_processed": 25,
+      "already_processed": 24,
       "older_than_window": 9,
       "metadata_errors": {}
     },
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 5,
-      "older_than_window": 110,
+      "older_than_window": 109,
       "metadata_errors": {}
     },
     {
@@ -501,9 +501,9 @@
       "rss_candidates": 34,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 5,
-      "already_processed": 16,
-      "older_than_window": 35,
+      "eligible_new": 3,
+      "already_processed": 17,
+      "older_than_window": 36,
       "metadata_errors": {}
     },
     {
@@ -568,12 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 6,
+      "page_articles": 2,
       "eligible_new": 0,
       "already_processed": 13,
       "older_than_window": 2,
       "metadata_errors": {
-        "http_429": 20
+        "http_429": 24
       }
     },
     {
@@ -639,8 +639,8 @@
       "rss_candidates": 94,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 1,
-      "already_processed": 31,
+      "eligible_new": 0,
+      "already_processed": 32,
       "older_than_window": 76,
       "metadata_errors": {}
     },
@@ -696,7 +696,7 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 32,
+          "links": 31,
           "error": ""
         },
         {
@@ -707,9 +707,9 @@
         }
       ],
       "rss_candidates": 20,
-      "page_links": 35,
-      "page_articles": 35,
-      "eligible_new": 3,
+      "page_links": 34,
+      "page_articles": 34,
+      "eligible_new": 1,
       "already_processed": 33,
       "older_than_window": 0,
       "metadata_errors": {}
