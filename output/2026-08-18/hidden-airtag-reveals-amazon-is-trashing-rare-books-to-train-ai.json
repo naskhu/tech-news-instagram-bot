@@ -1,0 +1,23 @@
+{
+  "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+  "summary": "And training models on text from rare books that are difficult to find would seemingly offer an advantage for Amazon, especially since rivals like Anthropic and xAI have publicly stated that they are not training on rare or antique books.",
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+  "published_utc": "2026-08-17T18:13:47+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "meta",
+  "generated_utc": "2026-08-17T19:24:28.252099+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 6,
+  "theme_accent_rgb": [
+    245,
+    91,
+    46
+  ],
+  "image": "output/2026-08-18/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai.png",
+  "caption": "output/2026-08-18/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai.txt"
+}

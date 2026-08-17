@@ -1,0 +1,23 @@
+{
+  "title": "These french fries told me I made a really good point.",
+  "summary": "AI terminology has broken containment so thoroughly that there’s actually something called “Fries GPT” on the menu at Dave & Buster’s , I regret to inform us.",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/981138/these-french-fries-told-me-i-made-a-really-good-point",
+  "published_utc": "2026-08-17T19:00:00+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "meta",
+  "generated_utc": "2026-08-17T19:24:26.229517+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/friesGPT.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-18/these-french-fries-told-me-i-made-a-really-good-point.png",
+  "caption": "output/2026-08-18/these-french-fries-told-me-i-made-a-really-good-point.txt"
+}
