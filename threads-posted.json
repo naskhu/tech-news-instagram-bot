@@ -42410,6 +42410,25 @@
       "zernio_post_id": "6a82ffa90467d540dbf338a3",
       "zernio_scheduled_for_utc": "2026-08-17T13:30:55.000Z"
     },
+    "output/2026-08-17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T16:54:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a833cd87222f74c4154985f",
+          "zernio_scheduled_for_utc": "2026-08-17T16:55:31.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-.png",
+      "metadata_file": "output/2026-08-17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-.json",
+      "published_at_utc": "2026-08-17T16:54:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a833cd87222f74c4154985f",
+      "zernio_scheduled_for_utc": "2026-08-17T16:55:31.000Z"
+    },
     "output/2026-08-17/anker-vs-ugreen-which-mobile-accessory-brand-is-best-for-you-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/anker-vs-ugreen-which-mobile-accessory-brand-is-best-for-you-bgr.txt",
