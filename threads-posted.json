@@ -43113,6 +43113,25 @@
       "zernio_post_id": "6a82ea8755d3eef3166d061f",
       "zernio_scheduled_for_utc": "2026-08-17T11:23:08.000Z"
     },
+    "output/2026-08-17/meet-the-only-known-trebuchet-casualty-in-history.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/meet-the-only-known-trebuchet-casualty-in-history.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T14:06:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8315811bed8a5c491f154f",
+          "zernio_scheduled_for_utc": "2026-08-17T14:07:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/meet-the-only-known-trebuchet-casualty-in-history.png",
+      "metadata_file": "output/2026-08-17/meet-the-only-known-trebuchet-casualty-in-history.json",
+      "published_at_utc": "2026-08-17T14:06:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8315811bed8a5c491f154f",
+      "zernio_scheduled_for_utc": "2026-08-17T14:07:40.000Z"
+    },
     "output/2026-08-17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.txt",
