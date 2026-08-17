@@ -1,0 +1,23 @@
+{
+  "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
+  "summary": "When applied, the technique mitigates role drift. A key insight of Role Anchor is that a role’s effect can be measured by comparing how a model behaves with and without the role prompt.",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
+  "published_utc": "2026-08-17T17:14:46+00:00",
+  "output_day": "2026-08-17",
+  "date_source": "rss",
+  "generated_utc": "2026-08-17T18:00:47.642565+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F3JU47HcWZul3CRNEQLwMus%2F780888ab62ab547d48a4d3bbfdeeff72%2FFaulty_AI_pipeline.jpg%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-17/one-ai-module-faked-86-of-a-pipeline-s-accuracy-gains-by-feeding-anoth.png",
+  "caption": "output/2026-08-17/one-ai-module-faked-86-of-a-pipeline-s-accuracy-gains-by-feeding-anoth.txt"
+}
