@@ -42733,6 +42733,25 @@
       "zernio_post_id": "6a820d3b9e04cf8daece0853",
       "zernio_scheduled_for_utc": "2026-08-16T19:20:08.000Z"
     },
+    "output/2026-08-17/lanterns-episode-1-makes-an-incredibly-bold-storytelling-choice-that-i.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/lanterns-episode-1-makes-an-incredibly-bold-storytelling-choice-that-i.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T07:21:00Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82b65b51d0253de257d9b2",
+          "zernio_scheduled_for_utc": "2026-08-17T08:18:17.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/lanterns-episode-1-makes-an-incredibly-bold-storytelling-choice-that-i.png",
+      "metadata_file": "output/2026-08-17/lanterns-episode-1-makes-an-incredibly-bold-storytelling-choice-that-i.json",
+      "published_at_utc": "2026-08-17T07:21:00Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82b65b51d0253de257d9b2",
+      "zernio_scheduled_for_utc": "2026-08-17T08:18:17.000Z"
+    },
     "output/2026-08-17/open-mike-eagle-and-kenny-segal-crafted-a-hip-hop-breakup-masterpiece.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/open-mike-eagle-and-kenny-segal-crafted-a-hip-hop-breakup-masterpiece.txt",
