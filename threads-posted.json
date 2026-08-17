@@ -42353,6 +42353,25 @@
       "zernio_post_id": "6a82a5a0492194ab0b64b3f1",
       "zernio_scheduled_for_utc": "2026-08-17T07:06:58.000Z"
     },
+    "output/2026-08-17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T11:57:59Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82f747a68f8f57732cd651",
+          "zernio_scheduled_for_utc": "2026-08-17T11:58:43.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited.png",
+      "metadata_file": "output/2026-08-17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited.json",
+      "published_at_utc": "2026-08-17T11:57:59Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82f747a68f8f57732cd651",
+      "zernio_scheduled_for_utc": "2026-08-17T11:58:43.000Z"
+    },
     "output/2026-08-17/actor-hayden-panettiere-has-died-at-age-36.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/actor-hayden-panettiere-has-died-at-age-36.txt",
