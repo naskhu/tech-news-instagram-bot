@@ -42790,6 +42790,25 @@
       "zernio_post_id": "6a82cefb2e20f728c767e30e",
       "zernio_scheduled_for_utc": "2026-08-17T09:25:34.000Z"
     },
+    "output/2026-08-17/how-to-take-better-photos-of-your-pets.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/how-to-take-better-photos-of-your-pets.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T11:35:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a82f1eb0c167afc7a3d0ff9",
+          "zernio_scheduled_for_utc": "2026-08-17T11:35:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/how-to-take-better-photos-of-your-pets.png",
+      "metadata_file": "output/2026-08-17/how-to-take-better-photos-of-your-pets.json",
+      "published_at_utc": "2026-08-17T11:35:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a82f1eb0c167afc7a3d0ff9",
+      "zernio_scheduled_for_utc": "2026-08-17T11:35:50.000Z"
+    },
     "output/2026-08-17/i-hike-for-a-living-and-these-are-the-5-best-gps-watches-i-ve-tested-o.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/i-hike-for-a-living-and-these-are-the-5-best-gps-watches-i-ve-tested-o.txt",
