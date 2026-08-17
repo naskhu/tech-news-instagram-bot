@@ -42600,6 +42600,25 @@
       "zernio_post_id": "6a82ffa364d4207146c4c86b",
       "zernio_scheduled_for_utc": "2026-08-17T13:12:00.000Z"
     },
+    "output/2026-08-17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-s.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-s.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-17T13:27:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a830c39b02a8864ebc317db",
+          "zernio_scheduled_for_utc": "2026-08-17T14:05:42.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-s.png",
+      "metadata_file": "output/2026-08-17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-s.json",
+      "published_at_utc": "2026-08-17T13:27:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a830c39b02a8864ebc317db",
+      "zernio_scheduled_for_utc": "2026-08-17T14:05:42.000Z"
+    },
     "output/2026-08-17/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-17/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches.txt",
