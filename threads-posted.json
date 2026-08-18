@@ -45738,6 +45738,25 @@
       "zernio_post_id": "6a841eca6c8c8e47d6756129",
       "zernio_scheduled_for_utc": "2026-08-18T08:59:34.000Z"
     },
+    "output/2026-08-18/my-parrot-ate-my-keyboard.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/my-parrot-ate-my-keyboard.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T12:36:37Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8451d57db91adca30b3974",
+          "zernio_scheduled_for_utc": "2026-08-18T13:33:47.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/my-parrot-ate-my-keyboard.png",
+      "metadata_file": "output/2026-08-18/my-parrot-ate-my-keyboard.json",
+      "published_at_utc": "2026-08-18T12:36:37Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8451d57db91adca30b3974",
+      "zernio_scheduled_for_utc": "2026-08-18T13:33:47.000Z"
+    },
     "output/2026-08-18/new-iphone-ultra-leaks-cover-release-timing-availability-and-name.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/new-iphone-ultra-leaks-cover-release-timing-availability-and-name.txt",
