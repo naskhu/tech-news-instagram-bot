@@ -47187,6 +47187,25 @@
       "zernio_post_id": "6a840b745e4f68bddfa7dc7d",
       "zernio_scheduled_for_utc": "2026-08-18T08:33:27.000Z"
     },
+    "output/2026-08-19/abc-sues-the-fcc-over-trump-and-carr-s-campaign-of-threats.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/abc-sues-the-fcc-over-trump-and-carr-s-campaign-of-threats.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T19:18:37Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84b00d5232c0fc79e925ff",
+          "zernio_scheduled_for_utc": "2026-08-18T20:15:46.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/abc-sues-the-fcc-over-trump-and-carr-s-campaign-of-threats.png",
+      "metadata_file": "output/2026-08-19/abc-sues-the-fcc-over-trump-and-carr-s-campaign-of-threats.json",
+      "published_at_utc": "2026-08-18T19:18:37Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84b00d5232c0fc79e925ff",
+      "zernio_scheduled_for_utc": "2026-08-18T20:15:46.000Z"
+    },
     "output/2026-08-19/comcast-is-turning-millions-of-its-routers-into-motion-detectors.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/comcast-is-turning-millions-of-its-routers-into-motion-detectors.txt",
