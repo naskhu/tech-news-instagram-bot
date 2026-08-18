@@ -45168,6 +45168,25 @@
       "zernio_post_id": "6a839ce1486065ddfa59c63b",
       "zernio_scheduled_for_utc": "2026-08-17T23:45:17.000Z"
     },
+    "output/2026-08-18/logitech-promo-codes-and-deals-up-to-100-off.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/logitech-promo-codes-and-deals-up-to-100-off.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T06:04:45Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a83f5fdda5a7431a13b0084",
+          "zernio_scheduled_for_utc": "2026-08-18T06:43:09.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/logitech-promo-codes-and-deals-up-to-100-off.png",
+      "metadata_file": "output/2026-08-18/logitech-promo-codes-and-deals-up-to-100-off.json",
+      "published_at_utc": "2026-08-18T06:04:45Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a83f5fdda5a7431a13b0084",
+      "zernio_scheduled_for_utc": "2026-08-18T06:43:09.000Z"
+    },
     "output/2026-08-18/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-.txt",
