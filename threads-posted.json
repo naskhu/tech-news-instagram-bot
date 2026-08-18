@@ -47377,6 +47377,25 @@
       "zernio_post_id": "6a84cd2386bd44342030b4d1",
       "zernio_scheduled_for_utc": "2026-08-18T22:01:04.000Z"
     },
+    "output/2026-08-19/garmin-watches-are-up-to-250-off-right-now-on-amazon-2026.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/garmin-watches-are-up-to-250-off-right-now-on-amazon-2026.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T21:45:33Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84d27deae918c089044165",
+          "zernio_scheduled_for_utc": "2026-08-18T22:23:54.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/garmin-watches-are-up-to-250-off-right-now-on-amazon-2026.png",
+      "metadata_file": "output/2026-08-19/garmin-watches-are-up-to-250-off-right-now-on-amazon-2026.json",
+      "published_at_utc": "2026-08-18T21:45:33Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84d27deae918c089044165",
+      "zernio_scheduled_for_utc": "2026-08-18T22:23:54.000Z"
+    },
     "output/2026-08-19/gemini-in-chrome-has-landed-on-android.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/gemini-in-chrome-has-landed-on-android.txt",
