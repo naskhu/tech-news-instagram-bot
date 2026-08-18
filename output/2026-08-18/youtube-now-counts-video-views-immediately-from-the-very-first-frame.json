@@ -1,0 +1,23 @@
+{
+  "title": "YouTube now counts video views immediately, ‘from the very first frame’",
+  "summary": "Starting next week, YouTube will change how view counts on a video are measured, with a view now being registered immediately as a viewer starts watching a video. Historically, we’ve used multiple view counting systems across different formats.",
+  "source": "9to5Google",
+  "url": "https://9to5google.com/2026/08/17/youtube-view-counts-change",
+  "published_utc": "2026-08-17T18:50:00+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "meta",
+  "generated_utc": "2026-08-18T07:34:44.747152+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/youtube-android.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    52,
+    168,
+    83
+  ],
+  "image": "output/2026-08-18/youtube-now-counts-video-views-immediately-from-the-very-first-frame.png",
+  "caption": "output/2026-08-18/youtube-now-counts-video-views-immediately-from-the-very-first-frame.txt"
+}
