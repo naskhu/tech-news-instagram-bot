@@ -1,0 +1,23 @@
+{
+  "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+  "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues",
+  "published_utc": "2026-08-18T09:24:49+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "rss",
+  "generated_utc": "2026-08-18T09:27:14.803073+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Microsoft365.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-18/microsoft-confirms-outage-affecting-search-in-microsoft-365-apps.png",
+  "caption": "output/2026-08-18/microsoft-confirms-outage-affecting-search-in-microsoft-365-apps.txt"
+}
