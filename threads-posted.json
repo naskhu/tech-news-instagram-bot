@@ -45073,6 +45073,25 @@
       "zernio_post_id": "6a840b6e5be4201a49ae26ce",
       "zernio_scheduled_for_utc": "2026-08-18T08:14:32.000Z"
     },
+    "output/2026-08-18/google-is-reportedly-stopping-pixel-production-in-china.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/google-is-reportedly-stopping-pixel-production-in-china.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T10:04:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a842e49995ba6abf50e768b",
+          "zernio_scheduled_for_utc": "2026-08-18T10:24:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/google-is-reportedly-stopping-pixel-production-in-china.png",
+      "metadata_file": "output/2026-08-18/google-is-reportedly-stopping-pixel-production-in-china.json",
+      "published_at_utc": "2026-08-18T10:04:57Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a842e49995ba6abf50e768b",
+      "zernio_scheduled_for_utc": "2026-08-18T10:24:30.000Z"
+    },
     "output/2026-08-18/google-just-bought-a-bunch-of-spirit-airlines-data-for-ai-training.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/google-just-bought-a-bunch-of-spirit-airlines-data-for-ai-training.txt",
