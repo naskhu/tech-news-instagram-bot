@@ -45966,6 +45966,25 @@
       "zernio_post_id": "6a8468b35f15fa7cd2b0ae09",
       "zernio_scheduled_for_utc": "2026-08-18T14:52:31.000Z"
     },
+    "output/2026-08-18/peacock-is-raising-prices-across-all-of-its-streaming-plans.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/peacock-is-raising-prices-across-all-of-its-streaming-plans.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T15:31:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a847ae59a3b51a1db29c99d",
+          "zernio_scheduled_for_utc": "2026-08-18T15:32:33.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/peacock-is-raising-prices-across-all-of-its-streaming-plans.png",
+      "metadata_file": "output/2026-08-18/peacock-is-raising-prices-across-all-of-its-streaming-plans.json",
+      "published_at_utc": "2026-08-18T15:31:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a847ae59a3b51a1db29c99d",
+      "zernio_scheduled_for_utc": "2026-08-18T15:32:33.000Z"
+    },
     "output/2026-08-18/peacock-is-raising-prices-by-up-to-3.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/peacock-is-raising-prices-by-up-to-3.txt",
