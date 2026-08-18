@@ -1,0 +1,23 @@
+{
+  "title": "Gemini in Chrome has landed on Android.",
+  "summary": "It adds a Gemini icon to the top-right of your toolbar that opens the familiar chatbot window, allowing Gemini to summarize web pages, answer questions, generate images, and more.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/981351/gemini-in-chrome-android-availability-usa",
+  "published_utc": "2026-08-18T19:00:00+00:00",
+  "output_day": "2026-08-19",
+  "date_source": "meta",
+  "generated_utc": "2026-08-18T19:16:44.739153+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-18-114514.jpg?quality=90&strip=all&crop=0,4.4926151877518,100,91.014769624496",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-19/gemini-in-chrome-has-landed-on-android.png",
+  "caption": "output/2026-08-19/gemini-in-chrome-has-landed-on-android.txt"
+}
