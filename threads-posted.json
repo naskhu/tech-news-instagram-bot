@@ -45016,6 +45016,25 @@
       "zernio_post_id": "6a838f96e7737e837a12bd78",
       "zernio_scheduled_for_utc": "2026-08-17T22:48:33.000Z"
     },
+    "output/2026-08-18/reddit-s-ai-is-turning-posts-into-podcasts-and-short-videos.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/reddit-s-ai-is-turning-posts-into-podcasts-and-short-videos.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T00:54:11Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a83ad32303bc08edebfdd7c",
+          "zernio_scheduled_for_utc": "2026-08-18T01:13:44.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/reddit-s-ai-is-turning-posts-into-podcasts-and-short-videos.png",
+      "metadata_file": "output/2026-08-18/reddit-s-ai-is-turning-posts-into-podcasts-and-short-videos.json",
+      "published_at_utc": "2026-08-18T00:54:11Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a83ad32303bc08edebfdd7c",
+      "zernio_scheduled_for_utc": "2026-08-18T01:13:44.000Z"
+    },
     "output/2026-08-18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21-te.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21-te.txt",
