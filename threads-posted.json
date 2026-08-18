@@ -47491,6 +47491,25 @@
       "zernio_post_id": "6a84da7235a5c0587f17b8d7",
       "zernio_scheduled_for_utc": "2026-08-18T22:57:51.000Z"
     },
+    "output/2026-08-19/meta-s-smart-glasses-are-now-prohibited-for-ice-staffers.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/meta-s-smart-glasses-are-now-prohibited-for-ice-staffers.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T23:21:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84e8e0e599dde0513bb0c4",
+          "zernio_scheduled_for_utc": "2026-08-18T23:21:48.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/meta-s-smart-glasses-are-now-prohibited-for-ice-staffers.png",
+      "metadata_file": "output/2026-08-19/meta-s-smart-glasses-are-now-prohibited-for-ice-staffers.json",
+      "published_at_utc": "2026-08-18T23:21:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84e8e0e599dde0513bb0c4",
+      "zernio_scheduled_for_utc": "2026-08-18T23:21:48.000Z"
+    },
     "output/2026-08-19/meta-says-states-can-t-prove-it-lied-about-safety-risks.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/meta-says-states-can-t-prove-it-lied-about-safety-risks.txt",
