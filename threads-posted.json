@@ -45016,6 +45016,25 @@
       "zernio_post_id": "6a8446d7aad15e1d390000eb",
       "zernio_scheduled_for_utc": "2026-08-18T12:09:15.000Z"
     },
+    "output/2026-08-18/control-resonant-s-physical-edition-has-been-slightly-delayed.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/control-resonant-s-physical-edition-has-been-slightly-delayed.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T16:08:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84838bd8fb0de0dc8ff289",
+          "zernio_scheduled_for_utc": "2026-08-18T17:05:47.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/control-resonant-s-physical-edition-has-been-slightly-delayed.png",
+      "metadata_file": "output/2026-08-18/control-resonant-s-physical-edition-has-been-slightly-delayed.json",
+      "published_at_utc": "2026-08-18T16:08:43Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84838bd8fb0de0dc8ff289",
+      "zernio_scheduled_for_utc": "2026-08-18T17:05:47.000Z"
+    },
     "output/2026-08-18/coyote-vs-acme-is-even-funnier-because-warner-bros-discovery-tried-to-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/coyote-vs-acme-is-even-funnier-because-warner-bros-discovery-tried-to-.txt",
