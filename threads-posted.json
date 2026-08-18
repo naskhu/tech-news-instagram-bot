@@ -47605,6 +47605,25 @@
       "zernio_post_id": "6a84e0ec374b30669d002ca5",
       "zernio_scheduled_for_utc": "2026-08-18T22:47:51.000Z"
     },
+    "output/2026-08-19/social-media-and-ai-want-your-attention-at-all-times-this-documentary-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/social-media-and-ai-want-your-attention-at-all-times-this-documentary-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T22:47:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84e0f8fb18839cb28bdc8c",
+          "zernio_scheduled_for_utc": "2026-08-18T23:25:41.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/social-media-and-ai-want-your-attention-at-all-times-this-documentary-.png",
+      "metadata_file": "output/2026-08-19/social-media-and-ai-want-your-attention-at-all-times-this-documentary-.json",
+      "published_at_utc": "2026-08-18T22:47:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84e0f8fb18839cb28bdc8c",
+      "zernio_scheduled_for_utc": "2026-08-18T23:25:41.000Z"
+    },
     "output/2026-08-19/squeeze-more-juice-out-of-a-dead-battery.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/squeeze-more-juice-out-of-a-dead-battery.txt",
