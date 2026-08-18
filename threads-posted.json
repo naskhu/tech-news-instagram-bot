@@ -45092,6 +45092,25 @@
       "zernio_post_id": "6a84131058a084b96d791a45",
       "zernio_scheduled_for_utc": "2026-08-18T08:09:32.000Z"
     },
+    "output/2026-08-18/google-says-pixel-11-s-new-mediatek-modem-is-faster-and-more-power-eff.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/google-says-pixel-11-s-new-mediatek-modem-is-faster-and-more-power-eff.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T08:59:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a841edb7664c93895246d3d",
+          "zernio_scheduled_for_utc": "2026-08-18T09:56:19.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/google-says-pixel-11-s-new-mediatek-modem-is-faster-and-more-power-eff.png",
+      "metadata_file": "output/2026-08-18/google-says-pixel-11-s-new-mediatek-modem-is-faster-and-more-power-eff.json",
+      "published_at_utc": "2026-08-18T08:59:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a841edb7664c93895246d3d",
+      "zernio_scheduled_for_utc": "2026-08-18T09:56:19.000Z"
+    },
     "output/2026-08-18/hacker-claims-3-6-million-azure-account-records-stolen-from-major-comp.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/hacker-claims-3-6-million-azure-account-records-stolen-from-major-comp.txt",
