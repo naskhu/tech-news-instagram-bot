@@ -1,0 +1,23 @@
+{
+  "title": "AI-generated text should be detectable, but Apple needs to avoid Anthropic’s huge error",
+  "summary": "This can be done using invisible characters, such as the one I just used to replace the space between the words ‘invisible’ and ‘characters.’ This would survive copying and pasting, although would be very easy to defeat using optical character recognition.",
+  "source": "9to5Mac",
+  "url": "https://9to5mac.com/2026/08/17/ai-generated-text-should-be-detectable-but-apple-needs-to-avoid-anthropics-huge-error",
+  "published_utc": "2026-08-17T13:30:47+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "rss",
+  "generated_utc": "2026-08-18T06:48:21.301944+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/AI-generated-text-should-be-detectable-but-Apple-needs-to-avoid-Anthropics-huge-error.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    255,
+    59,
+    48
+  ],
+  "image": "output/2026-08-18/ai-generated-text-should-be-detectable-but-apple-needs-to-avoid-anthro.png",
+  "caption": "output/2026-08-18/ai-generated-text-should-be-detectable-but-apple-needs-to-avoid-anthro.txt"
+}
