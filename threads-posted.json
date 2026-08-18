@@ -45453,6 +45453,25 @@
       "zernio_post_id": "6a838f9bdab6a0479ab5687a",
       "zernio_scheduled_for_utc": "2026-08-17T23:07:28.000Z"
     },
+    "output/2026-08-18/microsoft-confirms-outage-affecting-search-in-microsoft-365-apps.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/microsoft-confirms-outage-affecting-search-in-microsoft-365-apps.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T09:28:48Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8425d0a6528246f5b933fc",
+          "zernio_scheduled_for_utc": "2026-08-18T10:07:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/microsoft-confirms-outage-affecting-search-in-microsoft-365-apps.png",
+      "metadata_file": "output/2026-08-18/microsoft-confirms-outage-affecting-search-in-microsoft-365-apps.json",
+      "published_at_utc": "2026-08-18T09:28:48Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8425d0a6528246f5b933fc",
+      "zernio_scheduled_for_utc": "2026-08-18T10:07:11.000Z"
+    },
     "output/2026-08-18/microsoft-starts-removing-wmic-tool-used-by-cybercriminals.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/microsoft-starts-removing-wmic-tool-used-by-cybercriminals.txt",
