@@ -47205,6 +47205,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a84affb5232c0fc79e91ed5",
       "zernio_scheduled_for_utc": "2026-08-18T19:19:01.000Z"
+    },
+    "output/2026-08-19/meta-says-states-can-t-prove-it-lied-about-safety-risks.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/meta-says-states-can-t-prove-it-lied-about-safety-risks.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T19:18:25Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84b0015232c0fc79e9213b",
+          "zernio_scheduled_for_utc": "2026-08-18T19:37:56.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/meta-says-states-can-t-prove-it-lied-about-safety-risks.png",
+      "metadata_file": "output/2026-08-19/meta-says-states-can-t-prove-it-lied-about-safety-risks.json",
+      "published_at_utc": "2026-08-18T19:18:25Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84b0015232c0fc79e9213b",
+      "zernio_scheduled_for_utc": "2026-08-18T19:37:56.000Z"
     }
   }
 }
