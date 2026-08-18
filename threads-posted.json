@@ -45757,6 +45757,25 @@
       "zernio_post_id": "6a8425d0a6528246f5b933fc",
       "zernio_scheduled_for_utc": "2026-08-18T10:07:11.000Z"
     },
+    "output/2026-08-18/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T13:30:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a845e770ab2cc5ea800876c",
+          "zernio_scheduled_for_utc": "2026-08-18T14:27:37.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked.png",
+      "metadata_file": "output/2026-08-18/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked.json",
+      "published_at_utc": "2026-08-18T13:30:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a845e770ab2cc5ea800876c",
+      "zernio_scheduled_for_utc": "2026-08-18T14:27:37.000Z"
+    },
     "output/2026-08-18/microsoft-starts-removing-wmic-tool-used-by-cybercriminals.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/microsoft-starts-removing-wmic-tool-used-by-cybercriminals.txt",
