@@ -45871,6 +45871,25 @@
       "zernio_post_id": "6a8425ca70d3227d3f910b39",
       "zernio_scheduled_for_utc": "2026-08-18T09:48:16.000Z"
     },
+    "output/2026-08-18/the-role-of-the-astronaut-is-in-flux.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/the-role-of-the-astronaut-is-in-flux.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T09:28:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8425d6876c1d6840bef898",
+          "zernio_scheduled_for_utc": "2026-08-18T10:26:06.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/the-role-of-the-astronaut-is-in-flux.png",
+      "metadata_file": "output/2026-08-18/the-role-of-the-astronaut-is-in-flux.json",
+      "published_at_utc": "2026-08-18T09:28:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8425d6876c1d6840bef898",
+      "zernio_scheduled_for_utc": "2026-08-18T10:26:06.000Z"
+    },
     "output/2026-08-18/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time.txt",
