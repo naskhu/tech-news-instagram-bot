@@ -45092,6 +45092,25 @@
       "zernio_post_id": "6a843955805fff812316eaaa",
       "zernio_scheduled_for_utc": "2026-08-18T11:30:16.000Z"
     },
+    "output/2026-08-18/fairphone-s-latest-repairable-phone-is-going-on-sale-in-the-us.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/fairphone-s-latest-repairable-phone-is-going-on-sale-in-the-us.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T11:23:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a844098ff0f98e722226836",
+          "zernio_scheduled_for_utc": "2026-08-18T12:01:27.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/fairphone-s-latest-repairable-phone-is-going-on-sale-in-the-us.png",
+      "metadata_file": "output/2026-08-18/fairphone-s-latest-repairable-phone-is-going-on-sale-in-the-us.json",
+      "published_at_utc": "2026-08-18T11:23:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a844098ff0f98e722226836",
+      "zernio_scheduled_for_utc": "2026-08-18T12:01:27.000Z"
+    },
     "output/2026-08-18/find-hub-for-wear-os-adds-very-basic-find-people-app.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/find-hub-for-wear-os-adds-very-basic-find-people-app.txt",
