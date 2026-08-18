@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI institutes new safeguards after Hugging Face breach | TechCrunch",
+  "summary": "On Tuesday, OpenAI announced a new batch of security policies focused on containing security incidents while models are being tested. The new safeguards include stronger network isolation practices, although the specifics remain vague.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
+  "published_utc": "2026-08-18T18:00:00+00:00",
+  "output_day": "2026-08-18",
+  "date_source": "meta",
+  "generated_utc": "2026-08-18T18:41:20.223696+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "",
+  "hero_image_used": false,
+  "fallback_image_used": true,
+  "current_run_download_only": true,
+  "image_candidates_checked": 1,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-08-18/openai-institutes-new-safeguards-after-hugging-face-breach-techcrunch.png",
+  "caption": "output/2026-08-18/openai-institutes-new-safeguards-after-hugging-face-breach-techcrunch.txt"
+}
