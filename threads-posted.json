@@ -47339,6 +47339,25 @@
       "zernio_post_id": "6a84b91c49b6955070f542df",
       "zernio_scheduled_for_utc": "2026-08-18T20:35:29.000Z"
     },
+    "output/2026-08-19/robin-williams-instagram-account-brought-back-to-fight-ai-abuse.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/robin-williams-instagram-account-brought-back-to-fight-ai-abuse.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T20:19:28Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84be4fde884592c6dc0d08",
+          "zernio_scheduled_for_utc": "2026-08-18T20:57:44.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/robin-williams-instagram-account-brought-back-to-fight-ai-abuse.png",
+      "metadata_file": "output/2026-08-19/robin-williams-instagram-account-brought-back-to-fight-ai-abuse.json",
+      "published_at_utc": "2026-08-18T20:19:28Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84be4fde884592c6dc0d08",
+      "zernio_scheduled_for_utc": "2026-08-18T20:57:44.000Z"
+    },
     "output/2026-08-19/steelseries-comfy-wireless-gaming-headset-is-nearly-half-off.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/steelseries-comfy-wireless-gaming-headset-is-nearly-half-off.txt",
