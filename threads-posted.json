@@ -45757,6 +45757,25 @@
       "zernio_post_id": "6a83c045e4b1d74d7e3ba40a",
       "zernio_scheduled_for_utc": "2026-08-18T02:53:55.000Z"
     },
+    "output/2026-08-18/meta-faces-a-kids-safety-trial-that-could-cost-it-hundreds-of-billions.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/meta-faces-a-kids-safety-trial-that-could-cost-it-hundreds-of-billions.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T14:57:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8472c2fb49bc2b00cbf50b",
+          "zernio_scheduled_for_utc": "2026-08-18T15:35:25.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/meta-faces-a-kids-safety-trial-that-could-cost-it-hundreds-of-billions.png",
+      "metadata_file": "output/2026-08-18/meta-faces-a-kids-safety-trial-that-could-cost-it-hundreds-of-billions.json",
+      "published_at_utc": "2026-08-18T14:57:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8472c2fb49bc2b00cbf50b",
+      "zernio_scheduled_for_utc": "2026-08-18T15:35:25.000Z"
+    },
     "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.txt",
