@@ -44959,6 +44959,25 @@
       "zernio_post_id": "6a836040b5e537995c5a8607",
       "zernio_scheduled_for_utc": "2026-08-17T19:45:24.000Z"
     },
+    "output/2026-08-18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T16:08:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8483741504e4865a89db97",
+          "zernio_scheduled_for_utc": "2026-08-18T16:09:02.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack.png",
+      "metadata_file": "output/2026-08-18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack.json",
+      "published_at_utc": "2026-08-18T16:08:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8483741504e4865a89db97",
+      "zernio_scheduled_for_utc": "2026-08-18T16:09:02.000Z"
+    },
     "output/2026-08-18/can-ai-coexist-with-privacy-proton-s-andy-yen-says-it-will-have-to.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/can-ai-coexist-with-privacy-proton-s-andy-yen-says-it-will-have-to.txt",
