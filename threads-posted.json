@@ -44902,6 +44902,25 @@
       "zernio_post_id": "6a83e351291cdb9c6d535482",
       "zernio_scheduled_for_utc": "2026-08-18T05:04:34.000Z"
     },
+    "output/2026-08-18/deals-best-buy-60th-anniversary-sale-pixelsnap-cases-20-off-copilot-pc.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/deals-best-buy-60th-anniversary-sale-pixelsnap-cases-20-off-copilot-pc.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T08:59:02Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a841ed56c8c8e47d675653b",
+          "zernio_scheduled_for_utc": "2026-08-18T09:37:24.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/deals-best-buy-60th-anniversary-sale-pixelsnap-cases-20-off-copilot-pc.png",
+      "metadata_file": "output/2026-08-18/deals-best-buy-60th-anniversary-sale-pixelsnap-cases-20-off-copilot-pc.json",
+      "published_at_utc": "2026-08-18T08:59:02Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a841ed56c8c8e47d675653b",
+      "zernio_scheduled_for_utc": "2026-08-18T09:37:24.000Z"
+    },
     "output/2026-08-18/duolingo-expands-its-math-services-for-more-advanced-and-personalized-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/duolingo-expands-its-math-services-for-more-advanced-and-personalized-.txt",
