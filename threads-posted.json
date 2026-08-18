@@ -44845,6 +44845,25 @@
       "zernio_post_id": "6a8382432610e4e958af23ff",
       "zernio_scheduled_for_utc": "2026-08-17T22:48:09.000Z"
     },
+    "output/2026-08-18/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworker.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworker.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T11:49:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8446ddafdcf986bfece84a",
+          "zernio_scheduled_for_utc": "2026-08-18T12:28:10.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworker.png",
+      "metadata_file": "output/2026-08-18/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworker.json",
+      "published_at_utc": "2026-08-18T11:49:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8446ddafdcf986bfece84a",
+      "zernio_scheduled_for_utc": "2026-08-18T12:28:10.000Z"
+    },
     "output/2026-08-18/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value.txt",
