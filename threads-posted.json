@@ -45738,6 +45738,25 @@
       "zernio_post_id": "6a83ad32303bc08edebfdd7c",
       "zernio_scheduled_for_utc": "2026-08-18T01:13:44.000Z"
     },
+    "output/2026-08-18/right-clicking-without-the-clutter.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/right-clicking-without-the-clutter.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T10:51:59Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84394eee46f9847f022a2f",
+          "zernio_scheduled_for_utc": "2026-08-18T11:11:21.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/right-clicking-without-the-clutter.png",
+      "metadata_file": "output/2026-08-18/right-clicking-without-the-clutter.json",
+      "published_at_utc": "2026-08-18T10:51:59Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84394eee46f9847f022a2f",
+      "zernio_scheduled_for_utc": "2026-08-18T11:11:21.000Z"
+    },
     "output/2026-08-18/ring-promo-code-50-off.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/ring-promo-code-50-off.txt",
