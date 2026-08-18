@@ -46099,6 +46099,25 @@
       "zernio_post_id": "6a836d5ecd0d08f49db334ba",
       "zernio_scheduled_for_utc": "2026-08-17T21:00:13.000Z"
     },
+    "output/2026-08-18/the-cop-who-took-on-flock.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/the-cop-who-took-on-flock.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T11:49:55Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8446e24c56ea6612db42a4",
+          "zernio_scheduled_for_utc": "2026-08-18T12:47:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/the-cop-who-took-on-flock.png",
+      "metadata_file": "output/2026-08-18/the-cop-who-took-on-flock.json",
+      "published_at_utc": "2026-08-18T11:49:55Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8446e24c56ea6612db42a4",
+      "zernio_scheduled_for_utc": "2026-08-18T12:47:05.000Z"
+    },
     "output/2026-08-18/the-humanoid-robot-revolution-is-missing-some-parts-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/the-humanoid-robot-revolution-is-missing-some-parts-cnet.txt",
