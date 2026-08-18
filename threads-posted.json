@@ -47491,6 +47491,25 @@
       "zernio_post_id": "6a84be4fde884592c6dc0d08",
       "zernio_scheduled_for_utc": "2026-08-18T20:57:44.000Z"
     },
+    "output/2026-08-19/squeeze-more-juice-out-of-a-dead-battery.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/squeeze-more-juice-out-of-a-dead-battery.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T21:45:28Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84d2783b6f52250121cd0d",
+          "zernio_scheduled_for_utc": "2026-08-18T22:04:59.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/squeeze-more-juice-out-of-a-dead-battery.png",
+      "metadata_file": "output/2026-08-19/squeeze-more-juice-out-of-a-dead-battery.json",
+      "published_at_utc": "2026-08-18T21:45:28Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84d2783b6f52250121cd0d",
+      "zernio_scheduled_for_utc": "2026-08-18T22:04:59.000Z"
+    },
     "output/2026-08-19/steelseries-comfy-wireless-gaming-headset-is-nearly-half-off.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/steelseries-comfy-wireless-gaming-headset-is-nearly-half-off.txt",
