@@ -46232,6 +46232,25 @@
       "zernio_post_id": "6a8425d6876c1d6840bef898",
       "zernio_scheduled_for_utc": "2026-08-18T10:26:06.000Z"
     },
+    "output/2026-08-18/the-verge-guide-to-pets.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/the-verge-guide-to-pets.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T12:36:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8451cf9f33fd7230993307",
+          "zernio_scheduled_for_utc": "2026-08-18T13:14:52.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/the-verge-guide-to-pets.png",
+      "metadata_file": "output/2026-08-18/the-verge-guide-to-pets.json",
+      "published_at_utc": "2026-08-18T12:36:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8451cf9f33fd7230993307",
+      "zernio_scheduled_for_utc": "2026-08-18T13:14:52.000Z"
+    },
     "output/2026-08-18/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time.txt",
