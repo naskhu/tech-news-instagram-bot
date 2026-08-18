@@ -46716,6 +46716,23 @@
       "zernio_post_id": "6a8446e24c56ea6612db42a4",
       "zernio_scheduled_for_utc": "2026-08-18T12:47:05.000Z"
     },
+    "output/2026-08-18/the-download-is-so-big-because-it-s-full-of-secrets.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/the-download-is-so-big-because-it-s-full-of-secrets.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T18:45:28Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a84a832ce344d8972564325"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/the-download-is-so-big-because-it-s-full-of-secrets.png",
+      "metadata_file": "output/2026-08-18/the-download-is-so-big-because-it-s-full-of-secrets.json",
+      "published_at_utc": "2026-08-18T18:45:28Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a84a832ce344d8972564325"
+    },
     "output/2026-08-18/the-humanoid-robot-revolution-is-missing-some-parts-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/the-humanoid-robot-revolution-is-missing-some-parts-cnet.txt",
