@@ -45415,6 +45415,25 @@
       "zernio_post_id": "6a837441b753bc2e0509e637",
       "zernio_scheduled_for_utc": "2026-08-17T20:51:57.000Z"
     },
+    "output/2026-08-18/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T04:45:00Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a83e34c291cdb9c6d5351f4",
+          "zernio_scheduled_for_utc": "2026-08-18T04:45:39.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time.png",
+      "metadata_file": "output/2026-08-18/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time.json",
+      "published_at_utc": "2026-08-18T04:45:00Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a83e34c291cdb9c6d5351f4",
+      "zernio_scheduled_for_utc": "2026-08-18T04:45:39.000Z"
+    },
     "output/2026-08-18/these-french-fries-told-me-i-made-a-really-good-point.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/these-french-fries-told-me-i-made-a-really-good-point.txt",
