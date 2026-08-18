@@ -44978,6 +44978,25 @@
       "zernio_post_id": "6a838fa7b786b765820a0d3f",
       "zernio_scheduled_for_utc": "2026-08-17T23:45:18.000Z"
     },
+    "output/2026-08-18/magsafe-monday-the-urban-fit-is-my-favorite-budget-alternative-to-appl.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/magsafe-monday-the-urban-fit-is-my-favorite-budget-alternative-to-appl.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T02:15:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a83c045e4b1d74d7e3ba40a",
+          "zernio_scheduled_for_utc": "2026-08-18T02:53:55.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/magsafe-monday-the-urban-fit-is-my-favorite-budget-alternative-to-appl.png",
+      "metadata_file": "output/2026-08-18/magsafe-monday-the-urban-fit-is-my-favorite-budget-alternative-to-appl.json",
+      "published_at_utc": "2026-08-18T02:15:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a83c045e4b1d74d7e3ba40a",
+      "zernio_scheduled_for_utc": "2026-08-18T02:53:55.000Z"
+    },
     "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/microsoft-confirms-github-is-down-worldwide.txt",
