@@ -44997,6 +44997,25 @@
       "zernio_post_id": "6a83744db753bc2e0509e90a",
       "zernio_scheduled_for_utc": "2026-08-17T21:29:47.000Z"
     },
+    "output/2026-08-18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T10:51:52Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8439487c61ab804785903b",
+          "zernio_scheduled_for_utc": "2026-08-18T10:52:26.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet.png",
+      "metadata_file": "output/2026-08-18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet.json",
+      "published_at_utc": "2026-08-18T10:51:52Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8439487c61ab804785903b",
+      "zernio_scheduled_for_utc": "2026-08-18T10:52:26.000Z"
+    },
     "output/2026-08-18/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-.txt",
