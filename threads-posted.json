@@ -45928,6 +45928,25 @@
       "zernio_post_id": "6a838f96e7737e837a12bd78",
       "zernio_scheduled_for_utc": "2026-08-17T22:48:33.000Z"
     },
+    "output/2026-08-18/polaroid-s-new-pok-mon-collection-captures-memories-not-pikachus.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-18/polaroid-s-new-pok-mon-collection-captures-memories-not-pikachus.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-18T13:30:18Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a845e6ab105f68d23bb64b7",
+          "zernio_scheduled_for_utc": "2026-08-18T13:49:47.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-18/polaroid-s-new-pok-mon-collection-captures-memories-not-pikachus.png",
+      "metadata_file": "output/2026-08-18/polaroid-s-new-pok-mon-collection-captures-memories-not-pikachus.json",
+      "published_at_utc": "2026-08-18T13:30:18Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a845e6ab105f68d23bb64b7",
+      "zernio_scheduled_for_utc": "2026-08-18T13:49:47.000Z"
+    },
     "output/2026-08-18/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-18/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no.txt",
