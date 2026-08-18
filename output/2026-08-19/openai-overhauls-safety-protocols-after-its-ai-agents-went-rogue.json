@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+  "summary": "OpenAI is now sharing more about its internal response to the growing cybercapabilities of its AI models, and said it plans to release a more detailed postmortem of the Hugging Face incident in the coming days. “Obviously, everything that we’re doing is…",
+  "source": "Wired",
+  "url": "https://wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+  "published_utc": "2026-08-18T18:33:11.087000+00:00",
+  "output_day": "2026-08-19",
+  "date_source": "meta",
+  "generated_utc": "2026-08-18T21:43:56.505678+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a8499c64113fb1b06ff9ad3/master/pass/OpenAI-Announces-New-AI-Safety-Strategy-After-Hugging-Face-Hack-Business.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-08-19/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue.png",
+  "caption": "output/2026-08-19/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue.txt"
+}
