@@ -47700,6 +47700,25 @@
       "zernio_post_id": "6a84e8ed46615f0643214f15",
       "zernio_scheduled_for_utc": "2026-08-18T23:59:38.000Z"
     },
+    "output/2026-08-19/find-my-icloud-and-several-other-apple-services-are-currently-down-for.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/find-my-icloud-and-several-other-apple-services-are-currently-down-for.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T06:04:26Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85476a28b1c4b4f3d1e927",
+          "zernio_scheduled_for_utc": "2026-08-19T06:23:57.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/find-my-icloud-and-several-other-apple-services-are-currently-down-for.png",
+      "metadata_file": "output/2026-08-19/find-my-icloud-and-several-other-apple-services-are-currently-down-for.json",
+      "published_at_utc": "2026-08-19T06:04:26Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85476a28b1c4b4f3d1e927",
+      "zernio_scheduled_for_utc": "2026-08-19T06:23:57.000Z"
+    },
     "output/2026-08-19/firefox-s-ai-window-gets-new-features-meant-to-help-you-stay-on-task-a.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/firefox-s-ai-window-gets-new-features-meant-to-help-you-stay-on-task-a.txt",
