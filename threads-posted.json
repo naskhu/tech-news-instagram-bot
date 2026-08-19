@@ -47700,6 +47700,25 @@
       "zernio_post_id": "6a84d2833b6f52250121d2ee",
       "zernio_scheduled_for_utc": "2026-08-18T22:42:49.000Z"
     },
+    "output/2026-08-19/peacock-price-hike-streamer-ups-cost-of-all-subscriptions-cnet.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/peacock-price-hike-streamer-ups-cost-of-all-subscriptions-cnet.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T00:01:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a84f2413817159d2169d7a4",
+          "zernio_scheduled_for_utc": "2026-08-19T00:58:12.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/peacock-price-hike-streamer-ups-cost-of-all-subscriptions-cnet.png",
+      "metadata_file": "output/2026-08-19/peacock-price-hike-streamer-ups-cost-of-all-subscriptions-cnet.json",
+      "published_at_utc": "2026-08-19T00:01:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a84f2413817159d2169d7a4",
+      "zernio_scheduled_for_utc": "2026-08-19T00:58:12.000Z"
+    },
     "output/2026-08-19/peacock-raises-prices-by-18-percent-after-becoming-profitable.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/peacock-raises-prices-by-18-percent-after-becoming-profitable.txt",
