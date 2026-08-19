@@ -48251,6 +48251,25 @@
       "zernio_post_id": "6a84da6bd13f467300833755",
       "zernio_scheduled_for_utc": "2026-08-18T22:38:56.000Z"
     },
+    "output/2026-08-19/wayfair-coupons-up-to-80-off-august-2026.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/wayfair-coupons-up-to-80-off-august-2026.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T05:26:53Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a853e9c8d20f76d8d490db8",
+          "zernio_scheduled_for_utc": "2026-08-19T05:27:36.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/wayfair-coupons-up-to-80-off-august-2026.png",
+      "metadata_file": "output/2026-08-19/wayfair-coupons-up-to-80-off-august-2026.json",
+      "published_at_utc": "2026-08-19T05:26:53Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a853e9c8d20f76d8d490db8",
+      "zernio_scheduled_for_utc": "2026-08-19T05:27:36.000Z"
+    },
     "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.txt",
