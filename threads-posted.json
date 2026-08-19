@@ -48118,6 +48118,25 @@
       "zernio_post_id": "6a85536aa3673c30a09a9fc8",
       "zernio_scheduled_for_utc": "2026-08-19T06:56:23.000Z"
     },
+    "output/2026-08-19/hot-or-not-built-the-internet-we-re-still-swiping-through.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/hot-or-not-built-the-internet-we-re-still-swiping-through.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T10:05:44Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a857ff84d0847f8b3280447",
+          "zernio_scheduled_for_utc": "2026-08-19T10:25:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/hot-or-not-built-the-internet-we-re-still-swiping-through.png",
+      "metadata_file": "output/2026-08-19/hot-or-not-built-the-internet-we-re-still-swiping-through.json",
+      "published_at_utc": "2026-08-19T10:05:44Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a857ff84d0847f8b3280447",
+      "zernio_scheduled_for_utc": "2026-08-19T10:25:11.000Z"
+    },
     "output/2026-08-19/ikea-is-teasing-a-collaboration-with-xbox.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/ikea-is-teasing-a-collaboration-with-xbox.txt",
