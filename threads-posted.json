@@ -48612,6 +48612,25 @@
       "zernio_post_id": "6a85ba20fef7efdd7d948544",
       "zernio_scheduled_for_utc": "2026-08-19T15:11:00.000Z"
     },
+    "output/2026-08-19/ms-now-is-getting-its-own-streaming-service.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/ms-now-is-getting-its-own-streaming-service.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T16:53:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85df73fdb9c2d3f33a8f10",
+          "zernio_scheduled_for_utc": "2026-08-19T17:31:24.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/ms-now-is-getting-its-own-streaming-service.png",
+      "metadata_file": "output/2026-08-19/ms-now-is-getting-its-own-streaming-service.json",
+      "published_at_utc": "2026-08-19T16:53:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85df73fdb9c2d3f33a8f10",
+      "zernio_scheduled_for_utc": "2026-08-19T17:31:24.000Z"
+    },
     "output/2026-08-19/murderbot-gets-an-upgrade.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/murderbot-gets-an-upgrade.txt",
