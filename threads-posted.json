@@ -47529,6 +47529,25 @@
       "zernio_post_id": "6a84e8f3ba8777bec4e2a6ab",
       "zernio_scheduled_for_utc": "2026-08-19T00:18:33.000Z"
     },
+    "output/2026-08-19/child-monitoring-apps-might-need-a-reboot.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/child-monitoring-apps-might-need-a-reboot.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T09:33:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85786d089c017b63d7731b",
+          "zernio_scheduled_for_utc": "2026-08-19T10:11:54.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/child-monitoring-apps-might-need-a-reboot.png",
+      "metadata_file": "output/2026-08-19/child-monitoring-apps-might-need-a-reboot.json",
+      "published_at_utc": "2026-08-19T09:33:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85786d089c017b63d7731b",
+      "zernio_scheduled_for_utc": "2026-08-19T10:11:54.000Z"
+    },
     "output/2026-08-19/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs.txt",
