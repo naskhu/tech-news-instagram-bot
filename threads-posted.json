@@ -49144,6 +49144,25 @@
       "zernio_post_id": "6a84d272284c38dbbbe6dc7b",
       "zernio_scheduled_for_utc": "2026-08-18T21:46:04.000Z"
     },
+    "output/2026-08-19/you-can-venmo-your-college-tuition-for-some-reason-techcrunch.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/you-can-venmo-your-college-tuition-for-some-reason-techcrunch.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T12:35:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85a325596363feff4c5504",
+          "zernio_scheduled_for_utc": "2026-08-19T12:55:21.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/you-can-venmo-your-college-tuition-for-some-reason-techcrunch.png",
+      "metadata_file": "output/2026-08-19/you-can-venmo-your-college-tuition-for-some-reason-techcrunch.json",
+      "published_at_utc": "2026-08-19T12:35:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85a325596363feff4c5504",
+      "zernio_scheduled_for_utc": "2026-08-19T12:55:21.000Z"
+    },
     "output/2026-08-19/your-controls-block-known-attacks-what-about-the-behavior.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/your-controls-block-known-attacks-what-about-the-behavior.txt",
