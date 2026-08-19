@@ -49899,6 +49899,25 @@
       "zernio_post_id": "6a8592fb3ef47a11ea200db9",
       "zernio_scheduled_for_utc": "2026-08-19T11:46:21.000Z"
     },
+    "output/2026-08-20/a-sale-you-won-t-want-to-miss.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/a-sale-you-won-t-want-to-miss.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T20:24:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8610e3170cc04eee7be686",
+          "zernio_scheduled_for_utc": "2026-08-19T21:21:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/a-sale-you-won-t-want-to-miss.png",
+      "metadata_file": "output/2026-08-20/a-sale-you-won-t-want-to-miss.json",
+      "published_at_utc": "2026-08-19T20:24:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8610e3170cc04eee7be686",
+      "zernio_scheduled_for_utc": "2026-08-19T21:21:11.000Z"
+    },
     "output/2026-08-20/ai-was-supposed-to-win-people-over-by-now-it-hasn-t.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/ai-was-supposed-to-win-people-over-by-now-it-hasn-t.txt",
