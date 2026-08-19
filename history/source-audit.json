@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-19T04:19:33.828140+00:00",
+  "run_utc": "2026-08-19T04:56:17.280337+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-18T04:19:33.828257+00:00",
-  "eligible_story_count": 235,
+  "cutoff_utc": "2026-08-18T04:56:17.280481+00:00",
+  "eligible_story_count": 231,
   "sources": [
     {
       "source": "TechCrunch",
@@ -205,14 +205,14 @@
         {
           "url": "https://www.engadget.com/latest/",
           "status": 200,
-          "links": 0,
+          "links": 1,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 32,
-      "page_articles": 32,
-      "eligible_new": 29,
+      "page_links": 33,
+      "page_articles": 33,
+      "eligible_new": 30,
       "already_processed": 1,
       "older_than_window": 2,
       "metadata_errors": {}
@@ -309,12 +309,12 @@
       ],
       "rss_candidates": 10,
       "page_links": 24,
-      "page_articles": 10,
+      "page_articles": 9,
       "eligible_new": 7,
-      "already_processed": 3,
-      "older_than_window": 6,
+      "already_processed": 1,
+      "older_than_window": 7,
       "metadata_errors": {
-        "not_article_path": 9,
+        "not_article_path": 10,
         "http_429": 5
       }
     },
@@ -564,8 +564,8 @@
       "rss_candidates": 15,
       "page_links": 29,
       "page_articles": 6,
-      "eligible_new": 5,
-      "already_processed": 13,
+      "eligible_new": 1,
+      "already_processed": 18,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
@@ -669,9 +669,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 20,
+      "eligible_new": 19,
       "already_processed": 21,
-      "older_than_window": 20,
+      "older_than_window": 21,
       "metadata_errors": {
         "no_article_metadata": 2
       }

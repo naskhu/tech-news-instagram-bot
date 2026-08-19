@@ -1,0 +1,23 @@
+{
+  "title": "We still don’t know how people are really using AI",
+  "summary": "The latest Anthropic Economic AI Index , for example, is based on analysis of 1 million Claude conversations; OpenAI’s report on how people are using ChatGPT analyzed 1.5 million conversations.",
+  "source": "MIT Technology Review",
+  "url": "https://technologyreview.com/2026/08/18/1142226/how-people-use-ai",
+  "published_utc": "2026-08-18T10:06:43+00:00",
+  "output_day": "2026-08-19",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-19T04:57:35.752382+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    225,
+    45,
+    54
+  ],
+  "image": "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.png",
+  "caption": "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.txt"
+}
