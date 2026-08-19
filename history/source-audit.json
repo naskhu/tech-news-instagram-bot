@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-19T03:28:14.504320+00:00",
+  "run_utc": "2026-08-19T04:19:33.828140+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-18T03:28:14.504476+00:00",
-  "eligible_story_count": 237,
+  "cutoff_utc": "2026-08-18T04:19:33.828257+00:00",
+  "eligible_story_count": 235,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 1,
       "older_than_window": 14,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -391,9 +391,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 54,
+      "eligible_new": 55,
       "already_processed": 6,
-      "older_than_window": 38,
+      "older_than_window": 37,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 1
@@ -530,8 +530,8 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 4,
-      "already_processed": 3,
+      "eligible_new": 0,
+      "already_processed": 7,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -563,13 +563,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 29,
-      "page_articles": 5,
+      "page_articles": 6,
       "eligible_new": 5,
-      "already_processed": 12,
+      "already_processed": 13,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 23
+        "http_429": 22
       }
     },
     {
@@ -698,14 +698,14 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 1,
+          "links": 2,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 30,
-      "page_articles": 30,
-      "eligible_new": 29,
+      "page_links": 31,
+      "page_articles": 31,
+      "eligible_new": 30,
       "already_processed": 1,
       "older_than_window": 0,
       "metadata_errors": {}

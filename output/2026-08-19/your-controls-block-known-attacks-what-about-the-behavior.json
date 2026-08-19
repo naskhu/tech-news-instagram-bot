@@ -1,0 +1,23 @@
+{
+  "title": "Your Controls Block Known Attacks. What About the Behavior?",
+  "summary": "IOC-based testing asks whether a control recognizes known bad. Behavioral, TTP-based testing asks whether a control stops the action, by any route.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior",
+  "published_utc": "2026-08-18T14:01:11+00:00",
+  "output_day": "2026-08-19",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-19T04:20:33.642523+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/posts/2026/08/12/BleepingComputer-OrganicArticle-BlueReport2026-1600x900px.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-19/your-controls-block-known-attacks-what-about-the-behavior.png",
+  "caption": "output/2026-08-19/your-controls-block-known-attacks-what-about-the-behavior.txt"
+}
