@@ -49140,6 +49140,23 @@
       "zernio_post_id": "6a85b03c8a184cfca16dd99b",
       "zernio_scheduled_for_utc": "2026-08-19T14:28:51.000Z"
     },
+    "output/2026-08-19/sony-is-reportedly-rebooting-its-live-service-horizon-spinoff.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/sony-is-reportedly-rebooting-its-live-service-horizon-spinoff.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T17:58:56Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a85eec66e12a07e16bf8ce0"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/sony-is-reportedly-rebooting-its-live-service-horizon-spinoff.png",
+      "metadata_file": "output/2026-08-19/sony-is-reportedly-rebooting-its-live-service-horizon-spinoff.json",
+      "published_at_utc": "2026-08-19T17:58:56Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a85eec66e12a07e16bf8ce0"
+    },
     "output/2026-08-19/squeeze-more-juice-out-of-a-dead-battery.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/squeeze-more-juice-out-of-a-dead-battery.txt",
