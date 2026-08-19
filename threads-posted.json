@@ -50070,6 +50070,25 @@
       "zernio_post_id": "6a85ff9b1cbab860c10b6913",
       "zernio_scheduled_for_utc": "2026-08-19T19:11:02.000Z"
     },
+    "output/2026-08-20/google-pixel-11-series-review-is-the-magic-fading.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/google-pixel-11-series-review-is-the-magic-fading.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T21:49:00Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8624cc3cc4a2383a8bd35d",
+          "zernio_scheduled_for_utc": "2026-08-19T21:49:44.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/google-pixel-11-series-review-is-the-magic-fading.png",
+      "metadata_file": "output/2026-08-20/google-pixel-11-series-review-is-the-magic-fading.json",
+      "published_at_utc": "2026-08-19T21:49:00Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8624cc3cc4a2383a8bd35d",
+      "zernio_scheduled_for_utc": "2026-08-19T21:49:44.000Z"
+    },
     "output/2026-08-20/google-s-pixel-watch-5-is-promising-but-it-isn-t-finished.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/google-s-pixel-watch-5-is-promising-but-it-isn-t-finished.txt",
