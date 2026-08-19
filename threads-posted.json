@@ -48232,6 +48232,25 @@
       "zernio_post_id": "6a84da6bd13f467300833755",
       "zernio_scheduled_for_utc": "2026-08-18T22:38:56.000Z"
     },
+    "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T04:59:16Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85382495fd162a8b13d901",
+          "zernio_scheduled_for_utc": "2026-08-19T05:37:37.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.png",
+      "metadata_file": "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.json",
+      "published_at_utc": "2026-08-19T04:59:16Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85382495fd162a8b13d901",
+      "zernio_scheduled_for_utc": "2026-08-19T05:37:37.000Z"
+    },
     "output/2026-08-19/win-an-apple-watch-round-3-of-cnet-s-guessing-game-is-live-now-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/win-an-apple-watch-round-3-of-cnet-s-guessing-game-is-live-now-cnet.txt",
