@@ -47263,6 +47263,25 @@
       "zernio_post_id": "6a84b92349b6955070f54538",
       "zernio_scheduled_for_utc": "2026-08-18T20:54:24.000Z"
     },
+    "output/2026-08-19/ai-isn-t-close-to-curing-cancer-this-startup-says-it-knows-what-it-wil.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/ai-isn-t-close-to-curing-cancer-this-startup-says-it-knows-what-it-wil.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T12:35:44Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85a31fbe813e0311b62a3d",
+          "zernio_scheduled_for_utc": "2026-08-19T12:36:26.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/ai-isn-t-close-to-curing-cancer-this-startup-says-it-knows-what-it-wil.png",
+      "metadata_file": "output/2026-08-19/ai-isn-t-close-to-curing-cancer-this-startup-says-it-knows-what-it-wil.json",
+      "published_at_utc": "2026-08-19T12:35:44Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85a31fbe813e0311b62a3d",
+      "zernio_scheduled_for_utc": "2026-08-19T12:36:26.000Z"
+    },
     "output/2026-08-19/ai-s-recursive-self-improvement-might-not-come-so-quickly-after-all.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/ai-s-recursive-self-improvement-might-not-come-so-quickly-after-all.txt",
