@@ -48004,6 +48004,23 @@
       "zernio_post_id": "6a84ee7e1d7b953951077fb5",
       "zernio_scheduled_for_utc": "2026-08-19T00:42:13.000Z"
     },
+    "output/2026-08-19/drop-in-your-pixel-11-or-pixel-watch-5-questions.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/drop-in-your-pixel-11-or-pixel-watch-5-questions.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T18:39:53Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a85f839e6757d460da80898"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/drop-in-your-pixel-11-or-pixel-watch-5-questions.png",
+      "metadata_file": "output/2026-08-19/drop-in-your-pixel-11-or-pixel-watch-5-questions.json",
+      "published_at_utc": "2026-08-19T18:39:53Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a85f839e6757d460da80898"
+    },
     "output/2026-08-19/enterprises-are-overpaying-for-simple-ai-queries-snowflake-s-gateway-n.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/enterprises-are-overpaying-for-simple-ai-queries-snowflake-s-gateway-n.txt",
