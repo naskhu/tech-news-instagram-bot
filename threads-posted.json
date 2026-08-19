@@ -49505,6 +49505,25 @@
       "zernio_post_id": "6a858ad9dee0c65504d5976f",
       "zernio_scheduled_for_utc": "2026-08-19T11:11:40.000Z"
     },
+    "output/2026-08-19/we-reviewed-the-new-pixel-lineup-ask-us-anything.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/we-reviewed-the-new-pixel-lineup-ask-us-anything.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T16:53:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85df7a27dbc00368af7a63",
+          "zernio_scheduled_for_utc": "2026-08-19T17:50:19.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/we-reviewed-the-new-pixel-lineup-ask-us-anything.png",
+      "metadata_file": "output/2026-08-19/we-reviewed-the-new-pixel-lineup-ask-us-anything.json",
+      "published_at_utc": "2026-08-19T16:53:14Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85df7a27dbc00368af7a63",
+      "zernio_scheduled_for_utc": "2026-08-19T17:50:19.000Z"
+    },
     "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.txt",
