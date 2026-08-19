@@ -50374,6 +50374,25 @@
       "zernio_post_id": "6a8608611647ac27a26b1fe8",
       "zernio_scheduled_for_utc": "2026-08-19T20:44:48.000Z"
     },
+    "output/2026-08-20/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful-te.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful-te.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T22:21:51Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a862c7f7e4abfce3d7f94ce",
+          "zernio_scheduled_for_utc": "2026-08-19T23:00:13.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful-te.png",
+      "metadata_file": "output/2026-08-20/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful-te.json",
+      "published_at_utc": "2026-08-19T22:21:51Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a862c7f7e4abfce3d7f94ce",
+      "zernio_scheduled_for_utc": "2026-08-19T23:00:13.000Z"
+    },
     "output/2026-08-20/waymo-s-new-robotaxi-is-ready-for-more-passengers.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/waymo-s-new-robotaxi-is-ready-for-more-passengers.txt",
