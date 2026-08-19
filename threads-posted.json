@@ -48840,6 +48840,25 @@
       "zernio_post_id": "6a853e9c8d20f76d8d490db8",
       "zernio_scheduled_for_utc": "2026-08-19T05:27:36.000Z"
     },
+    "output/2026-08-19/we-bought-a-500-counterfeit-rolex-so-good-even-rolex-didn-t-spot-it.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/we-bought-a-500-counterfeit-rolex-so-good-even-rolex-didn-t-spot-it.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T10:52:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a858ad9dee0c65504d5976f",
+          "zernio_scheduled_for_utc": "2026-08-19T11:11:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/we-bought-a-500-counterfeit-rolex-so-good-even-rolex-didn-t-spot-it.png",
+      "metadata_file": "output/2026-08-19/we-bought-a-500-counterfeit-rolex-so-good-even-rolex-didn-t-spot-it.json",
+      "published_at_utc": "2026-08-19T10:52:09Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a858ad9dee0c65504d5976f",
+      "zernio_scheduled_for_utc": "2026-08-19T11:11:40.000Z"
+    },
     "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/we-still-don-t-know-how-people-are-really-using-ai.txt",
