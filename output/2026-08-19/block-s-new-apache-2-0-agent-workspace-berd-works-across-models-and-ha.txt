@@ -1,0 +1,10 @@
+Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally
+
+Architecturally, Berd is neither a new foundation model nor a new agent runtime. Goose runs quietly alongside Berd as a bundled “sidecar” process and handles the underlying agent loop; Berd handles projects, sessions, context, agents and configuration on top.
+
+Source: VentureBeat
+Read more: https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally
+
+Follow @news.world.tech for more tech news.
+
+#TechNews #Technology #AI #Innovation #Digital

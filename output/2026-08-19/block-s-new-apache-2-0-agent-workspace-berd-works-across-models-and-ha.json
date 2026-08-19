@@ -1,0 +1,23 @@
+{
+  "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+  "summary": "Architecturally, Berd is neither a new foundation model nor a new agent runtime. Goose runs quietly alongside Berd as a bundled “sidecar” process and handles the underlying agent loop; Berd handles projects, sessions, context, agents and configuration on top.",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+  "published_utc": "2026-08-18T23:23:22+00:00",
+  "output_day": "2026-08-19",
+  "date_source": "rss",
+  "generated_utc": "2026-08-19T03:29:14.286656+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5snXmmN8j5fhxpsVoMmT27%2F02e45a6299b8eb4f58ae6f178d4dbd55%2FChatGPT_Image_Aug_18__2026__07_16_56_PM.png%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-19/block-s-new-apache-2-0-agent-workspace-berd-works-across-models-and-ha.png",
+  "caption": "output/2026-08-19/block-s-new-apache-2-0-agent-workspace-berd-works-across-models-and-ha.txt"
+}
