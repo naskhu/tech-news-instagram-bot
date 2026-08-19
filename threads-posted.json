@@ -48308,6 +48308,25 @@
       "zernio_post_id": "6a84b0015232c0fc79e9213b",
       "zernio_scheduled_for_utc": "2026-08-18T19:37:56.000Z"
     },
+    "output/2026-08-19/microsoft-fixes-known-issue-causing-windows-defender-crashes.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/microsoft-fixes-known-issue-causing-windows-defender-crashes.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T11:27:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85930907681b27ae1723d4",
+          "zernio_scheduled_for_utc": "2026-08-19T12:24:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/microsoft-fixes-known-issue-causing-windows-defender-crashes.png",
+      "metadata_file": "output/2026-08-19/microsoft-fixes-known-issue-causing-windows-defender-crashes.json",
+      "published_at_utc": "2026-08-19T11:27:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85930907681b27ae1723d4",
+      "zernio_scheduled_for_utc": "2026-08-19T12:24:11.000Z"
+    },
     "output/2026-08-19/microsoft-tests-faster-windows-file-explorer-new-context-menu.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/microsoft-tests-faster-windows-file-explorer-new-context-menu.txt",
