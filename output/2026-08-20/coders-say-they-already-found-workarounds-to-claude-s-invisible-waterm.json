@@ -1,0 +1,23 @@
+{
+  "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+  "summary": "Within four hours of Anthropic confirming that Claude models would globally embed invisible, machine-readable watermarks into any AI-generated content, developer Guillaume Meyer had published his override. Anthropic itself acknowledged that heavily edited, paraphrased, or translated content might not carry a watermark.",
+  "source": "Wired",
+  "url": "https://wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks",
+  "published_utc": "2026-08-19T16:44:07.783000+00:00",
+  "output_day": "2026-08-20",
+  "date_source": "meta",
+  "generated_utc": "2026-08-19T23:19:31.353050+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a85ca54d0110f6d404e46bf/master/pass/081926_AI-Watermark-Removal.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-08-20/coders-say-they-already-found-workarounds-to-claude-s-invisible-waterm.png",
+  "caption": "output/2026-08-20/coders-say-they-already-found-workarounds-to-claude-s-invisible-waterm.txt"
+}
