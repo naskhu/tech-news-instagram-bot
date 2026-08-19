@@ -1,0 +1,23 @@
+{
+  "title": "Waymo’s new robotaxi is ready for more passengers.",
+  "summary": "The Zeekr RT minivan, which has been rebranded as Ojai , is now available to all riders in Phoenix, San Francisco, and Los Angeles ( after launching to select passengers last May).",
+  "source": "The Verge",
+  "url": "https://theverge.com/transportation/982445/waymos-new-robotaxi-is-ready-for-more-passengers",
+  "published_utc": "2026-08-19T19:21:49+00:00",
+  "output_day": "2026-08-20",
+  "date_source": "meta",
+  "generated_utc": "2026-08-19T19:44:21.167802+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ojai2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-20/waymo-s-new-robotaxi-is-ready-for-more-passengers.png",
+  "caption": "output/2026-08-20/waymo-s-new-robotaxi-is-ready-for-more-passengers.txt"
+}
