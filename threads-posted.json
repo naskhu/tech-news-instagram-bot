@@ -48270,6 +48270,23 @@
       "zernio_post_id": "6a8516cbe9496b4a09665ba6",
       "zernio_scheduled_for_utc": "2026-08-19T03:34:09.000Z"
     },
+    "output/2026-08-19/google-s-pixel-11-pro-fold-feels-like-the-end-of-an-era.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/google-s-pixel-11-pro-fold-feels-like-the-end-of-an-era.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T18:00:49Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a85ef3af1e2222ff251a1b6"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/google-s-pixel-11-pro-fold-feels-like-the-end-of-an-era.png",
+      "metadata_file": "output/2026-08-19/google-s-pixel-11-pro-fold-feels-like-the-end-of-an-era.json",
+      "published_at_utc": "2026-08-19T18:00:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a85ef3af1e2222ff251a1b6"
+    },
     "output/2026-08-19/gta-vi-keeps-leaking-ahead-of-its-gameplay-premiere.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/gta-vi-keeps-leaking-ahead-of-its-gameplay-premiere.txt",
