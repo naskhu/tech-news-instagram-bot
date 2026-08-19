@@ -49937,6 +49937,25 @@
       "zernio_post_id": "6a8608494bc8dc3deda3a5fa",
       "zernio_scheduled_for_utc": "2026-08-19T19:48:03.000Z"
     },
+    "output/2026-08-20/flight-attendants-freaked-out-that-google-is-buying-tons-of-spirit-emp.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/flight-attendants-freaked-out-that-google-is-buying-tons-of-spirit-emp.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T20:54:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8617f191248d5e6ed06085",
+          "zernio_scheduled_for_utc": "2026-08-19T21:51:19.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/flight-attendants-freaked-out-that-google-is-buying-tons-of-spirit-emp.png",
+      "metadata_file": "output/2026-08-20/flight-attendants-freaked-out-that-google-is-buying-tons-of-spirit-emp.json",
+      "published_at_utc": "2026-08-19T20:54:10Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8617f191248d5e6ed06085",
+      "zernio_scheduled_for_utc": "2026-08-19T21:51:19.000Z"
+    },
     "output/2026-08-20/framework-responds-to-complaints-that-bios-update-bricks-ryzen-7040-la.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/framework-responds-to-complaints-that-bios-update-bricks-ryzen-7040-la.txt",
