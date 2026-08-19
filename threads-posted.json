@@ -47548,6 +47548,25 @@
       "zernio_post_id": "6a84da7735a5c0587f17ba53",
       "zernio_scheduled_for_utc": "2026-08-18T23:16:46.000Z"
     },
+    "output/2026-08-19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-d.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-d.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T13:31:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85b02b675402eb36f2ed8b",
+          "zernio_scheduled_for_utc": "2026-08-19T13:32:06.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-d.png",
+      "metadata_file": "output/2026-08-19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-d.json",
+      "published_at_utc": "2026-08-19T13:31:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85b02b675402eb36f2ed8b",
+      "zernio_scheduled_for_utc": "2026-08-19T13:32:06.000Z"
+    },
     "output/2026-08-19/chatgpt-for-teens-launches-with-protections-and-features-to-promote-he.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/chatgpt-for-teens-launches-with-protections-and-features-to-promote-he.txt",
