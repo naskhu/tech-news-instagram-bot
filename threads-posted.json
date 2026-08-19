@@ -47529,6 +47529,25 @@
       "zernio_post_id": "6a8516b9e9496b4a09665633",
       "zernio_scheduled_for_utc": "2026-08-19T02:37:24.000Z"
     },
+    "output/2026-08-19/calendly-throws-its-hat-into-meeting-note-taker-circus.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/calendly-throws-its-hat-into-meeting-note-taker-circus.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T14:13:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85ba0df9c5c5df1ee45c05",
+          "zernio_scheduled_for_utc": "2026-08-19T14:14:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/calendly-throws-its-hat-into-meeting-note-taker-circus.png",
+      "metadata_file": "output/2026-08-19/calendly-throws-its-hat-into-meeting-note-taker-circus.json",
+      "published_at_utc": "2026-08-19T14:13:34Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85ba0df9c5c5df1ee45c05",
+      "zernio_scheduled_for_utc": "2026-08-19T14:14:15.000Z"
+    },
     "output/2026-08-19/can-the-upcoming-expanse-game-avoid-the-biggest-mistake-of-mass-effect.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/can-the-upcoming-expanse-game-avoid-the-biggest-mistake-of-mass-effect.txt",
