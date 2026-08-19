@@ -1,0 +1,23 @@
+{
+  "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+  "summary": "On the API, the price is unchanged from GLM-5.2: $1.40 per million input tokens and $4.40 per million output tokens . Cached input costs $0.26 per million tokens, while Z.ai currently lists cached-input storage as free for a limited time.",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+  "published_utc": "2026-08-19T02:00:00+00:00",
+  "output_day": "2026-08-19",
+  "date_source": "rss",
+  "generated_utc": "2026-08-19T02:35:02.216554+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F16anNQpfgOFlIDLBYTmOtA%2Fab9d2c337e6fc6333fb7f26efb1693cd%2FChatGPT_Image_Aug_18__2026__09_59_34_PM.png%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-19/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens.png",
+  "caption": "output/2026-08-19/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens.txt"
+}
