@@ -48498,6 +48498,25 @@
       "zernio_post_id": "6a855376a3673c30a09aa4bf",
       "zernio_scheduled_for_utc": "2026-08-19T07:34:13.000Z"
     },
+    "output/2026-08-19/nvidia-s-new-financial-strategy-does-not-compute.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/nvidia-s-new-financial-strategy-does-not-compute.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T12:36:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85a3341edf425d6165769d",
+          "zernio_scheduled_for_utc": "2026-08-19T13:33:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/nvidia-s-new-financial-strategy-does-not-compute.png",
+      "metadata_file": "output/2026-08-19/nvidia-s-new-financial-strategy-does-not-compute.json",
+      "published_at_utc": "2026-08-19T12:36:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85a3341edf425d6165769d",
+      "zernio_scheduled_for_utc": "2026-08-19T13:33:11.000Z"
+    },
     "output/2026-08-19/openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face.txt",
