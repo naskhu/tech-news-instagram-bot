@@ -47358,6 +47358,25 @@
       "zernio_post_id": "6a855370492520384ba68a7e",
       "zernio_scheduled_for_utc": "2026-08-19T07:15:18.000Z"
     },
+    "output/2026-08-19/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27-u-w.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27-u-w.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T07:36:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a855d163e4966a5b747c7e5",
+          "zernio_scheduled_for_utc": "2026-08-19T08:34:04.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27-u-w.png",
+      "metadata_file": "output/2026-08-19/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27-u-w.json",
+      "published_at_utc": "2026-08-19T07:36:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a855d163e4966a5b747c7e5",
+      "zernio_scheduled_for_utc": "2026-08-19T08:34:04.000Z"
+    },
     "output/2026-08-19/apple-wallet-driver-s-license-which-states-are-next-9to5mac.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/apple-wallet-driver-s-license-which-states-are-next-9to5mac.txt",
