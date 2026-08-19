@@ -48783,6 +48783,25 @@
       "zernio_post_id": "6a85381e95fd162a8b13d6e8",
       "zernio_scheduled_for_utc": "2026-08-19T05:18:42.000Z"
     },
+    "output/2026-08-19/the-everyday-tech-i-use-to-track-my-corgi.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/the-everyday-tech-i-use-to-track-my-corgi.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T11:48:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8597fac4fe51fb43d6e515",
+          "zernio_scheduled_for_utc": "2026-08-19T11:48:53.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/the-everyday-tech-i-use-to-track-my-corgi.png",
+      "metadata_file": "output/2026-08-19/the-everyday-tech-i-use-to-track-my-corgi.json",
+      "published_at_utc": "2026-08-19T11:48:10Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8597fac4fe51fb43d6e515",
+      "zernio_scheduled_for_utc": "2026-08-19T11:48:53.000Z"
+    },
     "output/2026-08-19/the-humanoid-robot-revolution-is-missing-some-parts-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/the-humanoid-robot-revolution-is-missing-some-parts-cnet.txt",
