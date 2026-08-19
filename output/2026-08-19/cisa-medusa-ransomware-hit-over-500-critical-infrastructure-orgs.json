@@ -1,0 +1,23 @@
+{
+  "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
+  "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. The Medusa ransomware operation surfaced five years ago, in January 2021.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs",
+  "published_utc": "2026-08-19T08:00:48+00:00",
+  "output_day": "2026-08-19",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-19T08:08:24.440952+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/19/Medusa.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-19/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs.png",
+  "caption": "output/2026-08-19/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs.txt"
+}
