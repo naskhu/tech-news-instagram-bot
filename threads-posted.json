@@ -47605,6 +47605,25 @@
       "zernio_post_id": "6a84ee6c1d7b953951077b31",
       "zernio_scheduled_for_utc": "2026-08-18T23:45:28.000Z"
     },
+    "output/2026-08-19/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T02:36:59Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8516cbe9496b4a09665ba6",
+          "zernio_scheduled_for_utc": "2026-08-19T03:34:09.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens.png",
+      "metadata_file": "output/2026-08-19/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens.json",
+      "published_at_utc": "2026-08-19T02:36:59Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8516cbe9496b4a09665ba6",
+      "zernio_scheduled_for_utc": "2026-08-19T03:34:09.000Z"
+    },
     "output/2026-08-19/hackers-tricked-a-major-retailer-s-ai-shopping-bot-to-do-something-it-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/hackers-tricked-a-major-retailer-s-ai-shopping-bot-to-do-something-it-.txt",
