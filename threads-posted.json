@@ -50013,6 +50013,25 @@
       "zernio_post_id": "6a8632e8ce5a2882ed2c7a55",
       "zernio_scheduled_for_utc": "2026-08-19T23:08:44.000Z"
     },
+    "output/2026-08-20/elon-musk-is-expected-to-point-his-money-machine-at-texas.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/elon-musk-is-expected-to-point-his-money-machine-at-texas.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T23:20:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a863a515a4fe9692889f55a",
+          "zernio_scheduled_for_utc": "2026-08-19T23:40:22.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/elon-musk-is-expected-to-point-his-money-machine-at-texas.png",
+      "metadata_file": "output/2026-08-20/elon-musk-is-expected-to-point-his-money-machine-at-texas.json",
+      "published_at_utc": "2026-08-19T23:20:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a863a515a4fe9692889f55a",
+      "zernio_scheduled_for_utc": "2026-08-19T23:40:22.000Z"
+    },
     "output/2026-08-20/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-tec.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-tec.txt",
