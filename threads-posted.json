@@ -48745,6 +48745,23 @@
       "zernio_post_id": "6a85a3341edf425d6165769d",
       "zernio_scheduled_for_utc": "2026-08-19T13:33:11.000Z"
     },
+    "output/2026-08-19/openai-hit-the-brakes-now-what.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/openai-hit-the-brakes-now-what.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T17:32:41Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a85e89d57b56479ea302367"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/openai-hit-the-brakes-now-what.png",
+      "metadata_file": "output/2026-08-19/openai-hit-the-brakes-now-what.json",
+      "published_at_utc": "2026-08-19T17:32:41Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a85e89d57b56479ea302367"
+    },
     "output/2026-08-19/openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face.txt",
