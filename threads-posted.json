@@ -47301,6 +47301,25 @@
       "zernio_post_id": "6a84b91249b6955070f53ec3",
       "zernio_scheduled_for_utc": "2026-08-18T20:16:34.000Z"
     },
+    "output/2026-08-19/apple-pledges-donation-in-support-of-indonesia-earthquake-relief-9to5m.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/apple-pledges-donation-in-support-of-indonesia-earthquake-relief-9to5m.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T07:36:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a855d0bdeea8e545e6e0af4",
+          "zernio_scheduled_for_utc": "2026-08-19T07:56:14.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/apple-pledges-donation-in-support-of-indonesia-earthquake-relief-9to5m.png",
+      "metadata_file": "output/2026-08-19/apple-pledges-donation-in-support-of-indonesia-earthquake-relief-9to5m.json",
+      "published_at_utc": "2026-08-19T07:36:43Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a855d0bdeea8e545e6e0af4",
+      "zernio_scheduled_for_utc": "2026-08-19T07:56:14.000Z"
+    },
     "output/2026-08-19/apple-pulls-ai-nudify-app-promoted-in-meta-ads-9to5mac.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/apple-pulls-ai-nudify-app-promoted-in-meta-ads-9to5mac.txt",
