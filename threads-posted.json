@@ -50146,6 +50146,25 @@
       "zernio_post_id": "6a8610d6421883b43386a9be",
       "zernio_scheduled_for_utc": "2026-08-19T20:43:21.000Z"
     },
+    "output/2026-08-20/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T21:49:11Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8624d73cc4a2383a8bd9dd",
+          "zernio_scheduled_for_utc": "2026-08-19T22:27:34.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians.png",
+      "metadata_file": "output/2026-08-20/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians.json",
+      "published_at_utc": "2026-08-19T21:49:11Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8624d73cc4a2383a8bd9dd",
+      "zernio_scheduled_for_utc": "2026-08-19T22:27:34.000Z"
+    },
     "output/2026-08-20/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-me.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-me.txt",
