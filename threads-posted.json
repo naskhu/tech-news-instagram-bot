@@ -47244,6 +47244,25 @@
       "zernio_post_id": "6a84b92349b6955070f54538",
       "zernio_scheduled_for_utc": "2026-08-18T20:54:24.000Z"
     },
+    "output/2026-08-19/ai-s-recursive-self-improvement-might-not-come-so-quickly-after-all.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/ai-s-recursive-self-improvement-might-not-come-so-quickly-after-all.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T04:59:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a85382917f004d4e0acb568",
+          "zernio_scheduled_for_utc": "2026-08-19T05:56:32.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/ai-s-recursive-self-improvement-might-not-come-so-quickly-after-all.png",
+      "metadata_file": "output/2026-08-19/ai-s-recursive-self-improvement-might-not-come-so-quickly-after-all.json",
+      "published_at_utc": "2026-08-19T04:59:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a85382917f004d4e0acb568",
+      "zernio_scheduled_for_utc": "2026-08-19T05:56:32.000Z"
+    },
     "output/2026-08-19/android-s-advanced-sideloading-flow-is-now-live.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/android-s-advanced-sideloading-flow-is-now-live.txt",
