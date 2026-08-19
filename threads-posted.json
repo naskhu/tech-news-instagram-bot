@@ -49432,6 +49432,23 @@
       "zernio_post_id": "6a84c499744c40cd84478ee2",
       "zernio_scheduled_for_utc": "2026-08-18T21:24:35.000Z"
     },
+    "output/2026-08-19/the-wearable-future-is-stuck-in-weird-experimental-existential-limbo.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-19/the-wearable-future-is-stuck-in-weird-experimental-existential-limbo.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T18:40:23Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a85f87fa58c1da4bd870313"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-19/the-wearable-future-is-stuck-in-weird-experimental-existential-limbo.png",
+      "metadata_file": "output/2026-08-19/the-wearable-future-is-stuck-in-weird-experimental-existential-limbo.json",
+      "published_at_utc": "2026-08-19T18:40:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a85f87fa58c1da4bd870313"
+    },
     "output/2026-08-19/the-women-s-soccer-league-trying-to-fix-fantasy-sports.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-19/the-women-s-soccer-league-trying-to-fix-fantasy-sports.txt",
