@@ -50393,6 +50393,25 @@
       "zernio_post_id": "6a862c74c004816015d062ed",
       "zernio_scheduled_for_utc": "2026-08-19T22:22:23.000Z"
     },
+    "output/2026-08-20/pixel-watch-5-review-one-week-later-we-still-have-unfinished-business.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/pixel-watch-5-review-one-week-later-we-still-have-unfinished-business.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-19T23:44:24Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a863fd8e1cf3653e097a0b3",
+          "zernio_scheduled_for_utc": "2026-08-20T00:41:35.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/pixel-watch-5-review-one-week-later-we-still-have-unfinished-business.png",
+      "metadata_file": "output/2026-08-20/pixel-watch-5-review-one-week-later-we-still-have-unfinished-business.json",
+      "published_at_utc": "2026-08-19T23:44:24Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a863fd8e1cf3653e097a0b3",
+      "zernio_scheduled_for_utc": "2026-08-20T00:41:35.000Z"
+    },
     "output/2026-08-20/researchers-say-openai-revoked-their-access-to-limited-cyber-program.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/researchers-say-openai-revoked-their-access-to-limited-cyber-program.txt",
