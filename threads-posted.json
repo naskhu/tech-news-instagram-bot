@@ -52732,6 +52732,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a87560979d381117acc8499",
       "zernio_scheduled_for_utc": "2026-08-20T19:50:53.000Z"
+    },
+    "output/2026-08-21/the-genesis-gv90-blows-the-bloody-doors-off-what-s-possible-in-ev-desi.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/the-genesis-gv90-blows-the-bloody-doors-off-what-s-possible-in-ev-desi.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T20:04:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a875dc3000517df30ed94e7",
+          "zernio_scheduled_for_utc": "2026-08-20T20:42:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/the-genesis-gv90-blows-the-bloody-doors-off-what-s-possible-in-ev-desi.png",
+      "metadata_file": "output/2026-08-21/the-genesis-gv90-blows-the-bloody-doors-off-what-s-possible-in-ev-desi.json",
+      "published_at_utc": "2026-08-20T20:04:19Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a875dc3000517df30ed94e7",
+      "zernio_scheduled_for_utc": "2026-08-20T20:42:38.000Z"
     }
   }
 }
