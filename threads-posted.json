@@ -52714,6 +52714,25 @@
       "zernio_post_id": "6a875db6aca9f11a4f2f071b",
       "zernio_scheduled_for_utc": "2026-08-20T20:04:48.000Z"
     },
+    "output/2026-08-21/ok-can-we-actually-cool-data-centers-with-our-pee.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/ok-can-we-actually-cool-data-centers-with-our-pee.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T21:03:39Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a876bab4e83777dd0cc1b4e",
+          "zernio_scheduled_for_utc": "2026-08-20T21:04:21.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/ok-can-we-actually-cool-data-centers-with-our-pee.png",
+      "metadata_file": "output/2026-08-21/ok-can-we-actually-cool-data-centers-with-our-pee.json",
+      "published_at_utc": "2026-08-20T21:03:39Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a876bab4e83777dd0cc1b4e",
+      "zernio_scheduled_for_utc": "2026-08-20T21:04:21.000Z"
+    },
     "output/2026-08-21/reverse-lookup-service-exposed-millions-of-photos-of-people-s-faces.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/reverse-lookup-service-exposed-millions-of-photos-of-people-s-faces.txt",
