@@ -50450,6 +50450,25 @@
       "zernio_post_id": "6a8617e67139af9df147d35a",
       "zernio_scheduled_for_utc": "2026-08-19T21:13:29.000Z"
     },
+    "output/2026-08-20/openai-pauses-training-of-new-ai-models-citing-cybersecurity-worries-c.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/openai-pauses-training-of-new-ai-models-citing-cybersecurity-worries-c.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T02:16:35Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a866383ff0d743aaf141b89",
+          "zernio_scheduled_for_utc": "2026-08-20T02:54:59.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/openai-pauses-training-of-new-ai-models-citing-cybersecurity-worries-c.png",
+      "metadata_file": "output/2026-08-20/openai-pauses-training-of-new-ai-models-citing-cybersecurity-worries-c.json",
+      "published_at_utc": "2026-08-20T02:16:35Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a866383ff0d743aaf141b89",
+      "zernio_scheduled_for_utc": "2026-08-20T02:54:59.000Z"
+    },
     "output/2026-08-20/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections.txt",
