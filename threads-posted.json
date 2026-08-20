@@ -50849,6 +50849,25 @@
       "zernio_post_id": "6a86896b84497300e6c898aa",
       "zernio_scheduled_for_utc": "2026-08-20T05:17:51.000Z"
     },
+    "output/2026-08-20/here-s-what-data-comcast-says-its-motion-detecting-routers-collect.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/here-s-what-data-comcast-says-its-motion-detecting-routers-collect.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T14:22:58Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a870dc2c95b1c18187461a5",
+          "zernio_scheduled_for_utc": "2026-08-20T15:01:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/here-s-what-data-comcast-says-its-motion-detecting-routers-collect.png",
+      "metadata_file": "output/2026-08-20/here-s-what-data-comcast-says-its-motion-detecting-routers-collect.json",
+      "published_at_utc": "2026-08-20T14:22:58Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a870dc2c95b1c18187461a5",
+      "zernio_scheduled_for_utc": "2026-08-20T15:01:15.000Z"
+    },
     "output/2026-08-20/hotels-com-coupon-codes-for-august-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/hotels-com-coupon-codes-for-august-2026.txt",
