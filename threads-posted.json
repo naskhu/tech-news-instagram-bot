@@ -51229,6 +51229,25 @@
       "zernio_post_id": "6a86507c6b4987f646de35f5",
       "zernio_scheduled_for_utc": "2026-08-20T01:33:41.000Z"
     },
+    "output/2026-08-20/nasa-gives-up-on-trying-to-rescue-the-swift-telescope.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/nasa-gives-up-on-trying-to-rescue-the-swift-telescope.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T15:44:02Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8720c20b0b345478d941b8",
+          "zernio_scheduled_for_utc": "2026-08-20T16:22:23.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/nasa-gives-up-on-trying-to-rescue-the-swift-telescope.png",
+      "metadata_file": "output/2026-08-20/nasa-gives-up-on-trying-to-rescue-the-swift-telescope.json",
+      "published_at_utc": "2026-08-20T15:44:02Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8720c20b0b345478d941b8",
+      "zernio_scheduled_for_utc": "2026-08-20T16:22:23.000Z"
+    },
     "output/2026-08-20/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices.txt",
