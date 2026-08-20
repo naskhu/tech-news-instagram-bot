@@ -52676,6 +52676,25 @@
       "zernio_post_id": "6a875602d281d649ee7a2031",
       "zernio_scheduled_for_utc": "2026-08-20T19:31:58.000Z"
     },
+    "output/2026-08-21/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T21:03:52Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a876bb84e83777dd0cc1d89",
+          "zernio_scheduled_for_utc": "2026-08-20T21:42:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted.png",
+      "metadata_file": "output/2026-08-21/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted.json",
+      "published_at_utc": "2026-08-20T21:03:52Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a876bb84e83777dd0cc1d89",
+      "zernio_scheduled_for_utc": "2026-08-20T21:42:11.000Z"
+    },
     "output/2026-08-21/i-used-this-mic-on-the-vergecast-and-it-s-just-15-right-now.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/i-used-this-mic-on-the-vergecast-and-it-s-just-15-right-now.txt",
