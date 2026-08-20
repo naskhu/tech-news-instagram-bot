@@ -49899,6 +49899,25 @@
       "zernio_post_id": "6a8592fb3ef47a11ea200db9",
       "zernio_scheduled_for_utc": "2026-08-19T11:46:21.000Z"
     },
+    "output/2026-08-20/9to5mac-daily-august-19-2026-apple-tv-4k-rumors-apple-maps-ads.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/9to5mac-daily-august-19-2026-apple-tv-4k-rumors-apple-maps-ads.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T07:00:22Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a86a6052c9e1a8554c547cf",
+          "zernio_scheduled_for_utc": "2026-08-20T07:38:37.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/9to5mac-daily-august-19-2026-apple-tv-4k-rumors-apple-maps-ads.png",
+      "metadata_file": "output/2026-08-20/9to5mac-daily-august-19-2026-apple-tv-4k-rumors-apple-maps-ads.json",
+      "published_at_utc": "2026-08-20T07:00:22Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a86a6052c9e1a8554c547cf",
+      "zernio_scheduled_for_utc": "2026-08-20T07:38:37.000Z"
+    },
     "output/2026-08-20/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer.txt",
