@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-20T17:23:06.452080+00:00",
+  "run_utc": "2026-08-20T18:00:57.225642+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-19T17:23:06.452247+00:00",
-  "eligible_story_count": 229,
+  "cutoff_utc": "2026-08-19T18:00:57.225790+00:00",
+  "eligible_story_count": 231,
   "sources": [
     {
       "source": "TechCrunch",
@@ -28,7 +28,7 @@
       "page_links": 27,
       "page_articles": 27,
       "eligible_new": 2,
-      "already_processed": 26,
+      "already_processed": 25,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -52,7 +52,7 @@
           "error": ""
         }
       ],
-      "rss_candidates": 9,
+      "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
       "eligible_new": 2,
@@ -139,9 +139,9 @@
       "rss_candidates": 18,
       "page_links": 10,
       "page_articles": 0,
-      "eligible_new": 6,
+      "eligible_new": 5,
       "already_processed": 1,
-      "older_than_window": 11,
+      "older_than_window": 12,
       "metadata_errors": {
         "no_article_metadata": 1,
         "missing_title": 9
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 13,
+      "eligible_new": 12,
       "already_processed": 5,
-      "older_than_window": 93,
+      "older_than_window": 94,
       "metadata_errors": {}
     },
     {
@@ -303,14 +303,14 @@
         {
           "url": "https://www.theinformation.com/",
           "status": 200,
-          "links": 21,
+          "links": 20,
           "error": ""
         }
       ],
       "rss_candidates": 10,
-      "page_links": 21,
-      "page_articles": 13,
-      "eligible_new": 6,
+      "page_links": 20,
+      "page_articles": 12,
+      "eligible_new": 5,
       "already_processed": 1,
       "older_than_window": 11,
       "metadata_errors": {
@@ -424,14 +424,14 @@
         {
           "url": "https://www.pcmag.com/news",
           "status": 200,
-          "links": 16,
+          "links": 17,
           "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 16,
-      "page_articles": 16,
-      "eligible_new": 15,
+      "page_links": 17,
+      "page_articles": 17,
+      "eligible_new": 16,
       "already_processed": 0,
       "older_than_window": 1,
       "metadata_errors": {}
@@ -493,17 +493,17 @@
         },
         {
           "url": "https://www.cnet.com/",
-          "status": null,
-          "links": 0,
-          "error": "ConnectionError:HTTPSConnectionPool(host='www.cnet.com', port=443): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cnet.com', port=443): Read timed out. (read timeout=25)\"))"
+          "status": 200,
+          "links": 7,
+          "error": ""
         }
       ],
-      "rss_candidates": 26,
-      "page_links": 33,
-      "page_articles": 33,
+      "rss_candidates": 25,
+      "page_links": 40,
+      "page_articles": 40,
       "eligible_new": 2,
-      "already_processed": 26,
-      "older_than_window": 17,
+      "already_processed": 28,
+      "older_than_window": 21,
       "metadata_errors": {}
     },
     {
@@ -535,8 +535,8 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 1,
-      "already_processed": 6,
+      "eligible_new": 2,
+      "already_processed": 5,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -568,12 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 36,
-      "page_articles": 4,
-      "eligible_new": 3,
+      "page_articles": 7,
+      "eligible_new": 4,
       "already_processed": 14,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 32
+        "http_429": 29
       }
     },
     {
@@ -592,22 +592,22 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 28,
+          "links": 29,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 12,
+          "links": 11,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 11,
-      "already_processed": 83,
-      "older_than_window": 19,
+      "eligible_new": 14,
+      "already_processed": 80,
+      "older_than_window": 18,
       "metadata_errors": {}
     },
     {
@@ -639,7 +639,7 @@
       "rss_candidates": 95,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 25,
+      "eligible_new": 24,
       "already_processed": 35,
       "older_than_window": 49,
       "metadata_errors": {}
