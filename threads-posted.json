@@ -50754,6 +50754,25 @@
       "zernio_post_id": "6a86d20c4321a02b73b1d9d6",
       "zernio_scheduled_for_utc": "2026-08-20T10:46:31.000Z"
     },
+    "output/2026-08-20/i-ruined-my-cats-toilet-time-with-a-motion-activated-neon-litter-box-s.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/i-ruined-my-cats-toilet-time-with-a-motion-activated-neon-litter-box-s.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T12:01:24Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a86ec94cc525b0e1dabe1fd",
+          "zernio_scheduled_for_utc": "2026-08-20T12:02:07.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/i-ruined-my-cats-toilet-time-with-a-motion-activated-neon-litter-box-s.png",
+      "metadata_file": "output/2026-08-20/i-ruined-my-cats-toilet-time-with-a-motion-activated-neon-litter-box-s.json",
+      "published_at_utc": "2026-08-20T12:01:24Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a86ec94cc525b0e1dabe1fd",
+      "zernio_scheduled_for_utc": "2026-08-20T12:02:07.000Z"
+    },
     "output/2026-08-20/i-saw-the-future-of-ai-in-a-robot-that-can-learn-on-the-spot.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/i-saw-the-future-of-ai-in-a-robot-that-can-learn-on-the-spot.txt",
