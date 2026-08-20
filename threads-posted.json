@@ -51438,6 +51438,25 @@
       "zernio_post_id": "6a861ebe0b2c08017f8cbc98",
       "zernio_scheduled_for_utc": "2026-08-19T21:42:42.000Z"
     },
+    "output/2026-08-20/the-piano-that-taught-my-cat-to-play-for-her-supper.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/the-piano-that-taught-my-cat-to-play-for-her-supper.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T11:23:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a86e3a8cdf8a9f9b8d40765",
+          "zernio_scheduled_for_utc": "2026-08-20T11:24:04.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/the-piano-that-taught-my-cat-to-play-for-her-supper.png",
+      "metadata_file": "output/2026-08-20/the-piano-that-taught-my-cat-to-play-for-her-supper.json",
+      "published_at_utc": "2026-08-20T11:23:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a86e3a8cdf8a9f9b8d40765",
+      "zernio_scheduled_for_utc": "2026-08-20T11:24:04.000Z"
+    },
     "output/2026-08-20/the-pixel-11-isn-t-the-best-pixel-of-2026-but-it-s-the-smartest-buy.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/the-pixel-11-isn-t-the-best-pixel-of-2026-but-it-s-the-smartest-buy.txt",
