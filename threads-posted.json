@@ -50374,6 +50374,25 @@
       "zernio_post_id": "6a8610d6421883b43386a9be",
       "zernio_scheduled_for_utc": "2026-08-19T20:43:21.000Z"
     },
+    "output/2026-08-20/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T04:58:25Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a868971793ee8024859e30c",
+          "zernio_scheduled_for_utc": "2026-08-20T05:36:46.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign.png",
+      "metadata_file": "output/2026-08-20/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign.json",
+      "published_at_utc": "2026-08-20T04:58:25Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a868971793ee8024859e30c",
+      "zernio_scheduled_for_utc": "2026-08-20T05:36:46.000Z"
+    },
     "output/2026-08-20/healthtech-firm-carecloud-data-breach-impacts-3-7-million-patients.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/healthtech-firm-carecloud-data-breach-impacts-3-7-million-patients.txt",
