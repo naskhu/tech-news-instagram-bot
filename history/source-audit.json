@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-20T18:54:26.393693+00:00",
+  "run_utc": "2026-08-20T19:26:47.498217+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-19T18:54:26.393819+00:00",
-  "eligible_story_count": 232,
+  "cutoff_utc": "2026-08-19T19:26:47.498370+00:00",
+  "eligible_story_count": 229,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 1,
-      "already_processed": 26,
+      "eligible_new": 3,
+      "already_processed": 24,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 3,
-      "already_processed": 30,
+      "eligible_new": 0,
+      "already_processed": 31,
       "older_than_window": 2,
       "metadata_errors": {}
     },
@@ -139,9 +139,9 @@
       "rss_candidates": 18,
       "page_links": 10,
       "page_articles": 0,
-      "eligible_new": 5,
+      "eligible_new": 3,
       "already_processed": 1,
-      "older_than_window": 12,
+      "older_than_window": 14,
       "metadata_errors": {
         "no_article_metadata": 1,
         "missing_title": 9
@@ -248,7 +248,7 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 12,
+      "eligible_new": 13,
       "already_processed": 5,
       "older_than_window": 93,
       "metadata_errors": {}
@@ -303,18 +303,18 @@
         {
           "url": "https://www.theinformation.com/",
           "status": 200,
-          "links": 19,
+          "links": 20,
           "error": ""
         }
       ],
       "rss_candidates": 10,
-      "page_links": 19,
+      "page_links": 20,
       "page_articles": 12,
-      "eligible_new": 4,
+      "eligible_new": 5,
       "already_processed": 1,
-      "older_than_window": 12,
+      "older_than_window": 11,
       "metadata_errors": {
-        "not_article_path": 7
+        "not_article_path": 8
       }
     },
     {
@@ -390,7 +390,7 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 65,
+      "eligible_new": 64,
       "already_processed": 0,
       "older_than_window": 36,
       "metadata_errors": {
@@ -461,7 +461,7 @@
       "page_articles": 40,
       "eligible_new": 2,
       "already_processed": 58,
-      "older_than_window": 8,
+      "older_than_window": 7,
       "metadata_errors": {}
     },
     {
@@ -488,22 +488,22 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 33,
+          "links": 31,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 7,
+          "links": 9,
           "error": ""
         }
       ],
-      "rss_candidates": 26,
+      "rss_candidates": 24,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 3,
-      "already_processed": 28,
-      "older_than_window": 22,
+      "eligible_new": 5,
+      "already_processed": 26,
+      "older_than_window": 21,
       "metadata_errors": {}
     },
     {
@@ -568,12 +568,11 @@
       ],
       "rss_candidates": 15,
       "page_links": 36,
-      "page_articles": 5,
+      "page_articles": 6,
       "eligible_new": 4,
-      "already_processed": 14,
+      "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
         "http_429": 30
       }
     },
@@ -640,9 +639,9 @@
       "rss_candidates": 94,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 25,
+      "eligible_new": 23,
       "already_processed": 35,
-      "older_than_window": 49,
+      "older_than_window": 50,
       "metadata_errors": {}
     },
     {
@@ -697,13 +696,13 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 28,
+          "links": 29,
           "error": ""
         },
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 7,
+          "links": 6,
           "error": ""
         }
       ],
