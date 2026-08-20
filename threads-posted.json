@@ -50013,6 +50013,25 @@
       "zernio_post_id": "6a86507084a4936e4ef3e950",
       "zernio_scheduled_for_utc": "2026-08-20T00:55:51.000Z"
     },
+    "output/2026-08-20/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T06:03:37Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8698b91f82b7291be67dbf",
+          "zernio_scheduled_for_utc": "2026-08-20T06:41:56.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more-.png",
+      "metadata_file": "output/2026-08-20/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more-.json",
+      "published_at_utc": "2026-08-20T06:03:37Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8698b91f82b7291be67dbf",
+      "zernio_scheduled_for_utc": "2026-08-20T06:41:56.000Z"
+    },
     "output/2026-08-20/coders-say-they-already-found-workarounds-to-claude-s-invisible-waterm.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/coders-say-they-already-found-workarounds-to-claude-s-invisible-waterm.txt",
