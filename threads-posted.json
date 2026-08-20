@@ -52063,6 +52063,23 @@
       "zernio_post_id": "6a861ebe0b2c08017f8cbc98",
       "zernio_scheduled_for_utc": "2026-08-19T21:42:42.000Z"
     },
+    "output/2026-08-20/the-investor-s-guide-to-techcrunch-disrupt-2026-everything-you-need-to.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/the-investor-s-guide-to-techcrunch-disrupt-2026-everything-you-need-to.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T18:05:04Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8741bc449aac433a137f8e"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/the-investor-s-guide-to-techcrunch-disrupt-2026-everything-you-need-to.png",
+      "metadata_file": "output/2026-08-20/the-investor-s-guide-to-techcrunch-disrupt-2026-everything-you-need-to.json",
+      "published_at_utc": "2026-08-20T18:05:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a8741bc449aac433a137f8e"
+    },
     "output/2026-08-20/the-piano-that-taught-my-cat-to-play-for-her-supper.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/the-piano-that-taught-my-cat-to-play-for-her-supper.txt",
