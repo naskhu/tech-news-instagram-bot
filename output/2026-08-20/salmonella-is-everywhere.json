@@ -1,0 +1,23 @@
+{
+  "title": "Salmonella Is Everywhere",
+  "summary": "Jalapeño peppers, eggs, granola, and even dog food are being recalled because of possible contamination with salmonella bacteria. A separate salmonella outbreak linked to eggs has sickened 98 people across 17 states.",
+  "source": "Wired",
+  "url": "https://wired.com/story/salmonella-is-everywhere",
+  "published_utc": "2026-08-20T09:00:00+00:00",
+  "output_day": "2026-08-20",
+  "date_source": "rss",
+  "generated_utc": "2026-08-20T09:40:14.240192+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a84e417f7b84b3670c55d44/master/pass/Science_WhySalmonellaIsEverywhere_v1.gif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-08-20/salmonella-is-everywhere.png",
+  "caption": "output/2026-08-20/salmonella-is-everywhere.txt"
+}
