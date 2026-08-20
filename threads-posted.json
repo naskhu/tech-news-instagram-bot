@@ -50488,6 +50488,25 @@
       "zernio_post_id": "6a8617e67139af9df147d35a",
       "zernio_scheduled_for_utc": "2026-08-19T21:13:29.000Z"
     },
+    "output/2026-08-20/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T04:04:38Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a867cd6c683801f7788c062",
+          "zernio_scheduled_for_utc": "2026-08-20T04:42:59.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail.png",
+      "metadata_file": "output/2026-08-20/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail.json",
+      "published_at_utc": "2026-08-20T04:04:38Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a867cd6c683801f7788c062",
+      "zernio_scheduled_for_utc": "2026-08-20T04:42:59.000Z"
+    },
     "output/2026-08-20/openai-pauses-training-of-new-ai-models-citing-cybersecurity-worries-c.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/openai-pauses-training-of-new-ai-models-citing-cybersecurity-worries-c.txt",
