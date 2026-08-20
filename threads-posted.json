@@ -50298,6 +50298,25 @@
       "zernio_post_id": "6a862c7a1ff782442ea4ab21",
       "zernio_scheduled_for_utc": "2026-08-19T22:41:18.000Z"
     },
+    "output/2026-08-20/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T12:01:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a86eca7cc525b0e1dabea44",
+          "zernio_scheduled_for_utc": "2026-08-20T12:58:52.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks.png",
+      "metadata_file": "output/2026-08-20/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks.json",
+      "published_at_utc": "2026-08-20T12:01:43Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a86eca7cc525b0e1dabea44",
+      "zernio_scheduled_for_utc": "2026-08-20T12:58:52.000Z"
+    },
     "output/2026-08-20/days-since-last-rebrand-256.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/days-since-last-rebrand-256.txt",
