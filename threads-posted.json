@@ -50469,6 +50469,25 @@
       "zernio_post_id": "6a8610cf1444b43cd966dece",
       "zernio_scheduled_for_utc": "2026-08-19T20:24:26.000Z"
     },
+    "output/2026-08-20/samsung-is-hosting-a-galaxy-event-next-week.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/samsung-is-hosting-a-galaxy-event-next-week.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T00:55:18Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a865076ebbe3ab5e49e31f3",
+          "zernio_scheduled_for_utc": "2026-08-20T01:14:46.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/samsung-is-hosting-a-galaxy-event-next-week.png",
+      "metadata_file": "output/2026-08-20/samsung-is-hosting-a-galaxy-event-next-week.json",
+      "published_at_utc": "2026-08-20T00:55:18Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a865076ebbe3ab5e49e31f3",
+      "zernio_scheduled_for_utc": "2026-08-20T01:14:46.000Z"
+    },
     "output/2026-08-20/scientists-find-closest-star-to-the-milky-way-s-central-black-hole.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/scientists-find-closest-star-to-the-milky-way-s-central-black-hole.txt",
