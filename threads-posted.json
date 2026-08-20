@@ -52638,6 +52638,25 @@
       "zernio_post_id": "6a87560fd281d649ee7a24f0",
       "zernio_scheduled_for_utc": "2026-08-20T20:09:48.000Z"
     },
+    "output/2026-08-21/genesis-joins-the-giant-electric-suv-club-with-new-gv90.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/genesis-joins-the-giant-electric-suv-club-with-new-gv90.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T20:04:25Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a875dc9000517df30ed9644",
+          "zernio_scheduled_for_utc": "2026-08-20T21:01:33.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/genesis-joins-the-giant-electric-suv-club-with-new-gv90.png",
+      "metadata_file": "output/2026-08-21/genesis-joins-the-giant-electric-suv-club-with-new-gv90.json",
+      "published_at_utc": "2026-08-20T20:04:25Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a875dc9000517df30ed9644",
+      "zernio_scheduled_for_utc": "2026-08-20T21:01:33.000Z"
+    },
     "output/2026-08-21/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses-te.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses-te.txt",
