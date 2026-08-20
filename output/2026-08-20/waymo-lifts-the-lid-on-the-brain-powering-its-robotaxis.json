@@ -1,0 +1,23 @@
+{
+  "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
+  "summary": "The leader in driverless technology is revealing, for the first time, key details about its hardware, including its custom silicon chip. Waymo’s robotaxis, festooned with cameras, lidar, and radar, take in massive streams of raw sensor data.",
+  "source": "The Verge",
+  "url": "https://theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
+  "published_utc": "2026-08-20T14:00:00+00:00",
+  "output_day": "2026-08-20",
+  "date_source": "meta",
+  "generated_utc": "2026-08-20T15:02:05.269135+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-20/waymo-lifts-the-lid-on-the-brain-powering-its-robotaxis.png",
+  "caption": "output/2026-08-20/waymo-lifts-the-lid-on-the-brain-powering-its-robotaxis.txt"
+}
