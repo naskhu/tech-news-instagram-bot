@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI Pauses Training of New AI Models, Citing Cybersecurity Worries - CNET",
+  "summary": "OpenAI says in its blog post: “Our current estimates put monitoring overhead at roughly 20% of the inference compute being monitored,” meaning that monitoring AI models during the training process accounts for a significant portion of OpenAI’s compute.",
+  "source": "CNET",
+  "url": "https://cnet.com/tech/services-and-software/openai-pauses-training-new-ai-models-cybersecurity-2026",
+  "published_utc": "2026-08-19T15:29:49+00:00",
+  "output_day": "2026-08-20",
+  "date_source": "meta",
+  "generated_utc": "2026-08-20T02:15:18.834386+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2265447532.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    229,
+    25,
+    55
+  ],
+  "image": "output/2026-08-20/openai-pauses-training-of-new-ai-models-citing-cybersecurity-worries-c.png",
+  "caption": "output/2026-08-20/openai-pauses-training-of-new-ai-models-citing-cybersecurity-worries-c.txt"
+}
