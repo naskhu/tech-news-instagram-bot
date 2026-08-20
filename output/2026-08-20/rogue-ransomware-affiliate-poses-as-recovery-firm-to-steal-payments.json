@@ -1,0 +1,23 @@
+{
+  "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
+  "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting victims before the attacks become public and claiming it can provide decryption keys and delete stolen data for a fee.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm",
+  "published_utc": "2026-08-19T20:59:58+00:00",
+  "output_day": "2026-08-20",
+  "date_source": "rss",
+  "generated_utc": "2026-08-20T04:03:04.556666+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/03/20/Extortion_hacker_scammer.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-20/rogue-ransomware-affiliate-poses-as-recovery-firm-to-steal-payments.png",
+  "caption": "output/2026-08-20/rogue-ransomware-affiliate-poses-as-recovery-firm-to-steal-payments.txt"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+  "summary": "Using the same model in each harness, Opus 4.8, TrueFoundry still claims a cost savings of roughly 30% using TrueForge compared to Claude Managed Agents ($8.50 vs $11.80). TrueFoundry TrueForge: General-purpose production agent harness designed for enterprise deployments.",
+  "source": "VentureBeat",
+  "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+  "published_utc": "2026-08-19T23:50:00+00:00",
+  "output_day": "2026-08-20",
+  "date_source": "rss",
+  "generated_utc": "2026-08-20T04:02:59.272214+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2FZu58wse6Ue2XSH7QjdasT%2Fcab01dedb55805687b566c53a20fd64d%2FCarl_Franzen_graphic_novel_flat_illustration_in_dominant_purple_b9eee842-b613-4cb0-82b6-f0d39acd0d96.png%3Fw%3D1000%26q%3D100&w=3840&q=85",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 5,
+  "theme_accent_rgb": [
+    30,
+    136,
+    229
+  ],
+  "image": "output/2026-08-20/truefoundry-s-open-source-ai-agent-harness-trueforge-boasts-30-75-chea.png",
+  "caption": "output/2026-08-20/truefoundry-s-open-source-ai-agent-harness-trueforge-boasts-30-75-chea.txt"
+}
