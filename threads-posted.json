@@ -51704,6 +51704,25 @@
       "zernio_post_id": "6a8690820d93e3c59c723a8c",
       "zernio_scheduled_for_utc": "2026-08-20T06:06:56.000Z"
     },
+    "output/2026-08-20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-o.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-o.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T12:51:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a86f839f7349236d67f61ea",
+          "zernio_scheduled_for_utc": "2026-08-20T12:51:47.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-o.png",
+      "metadata_file": "output/2026-08-20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-o.json",
+      "published_at_utc": "2026-08-20T12:51:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a86f839f7349236d67f61ea",
+      "zernio_scheduled_for_utc": "2026-08-20T12:51:47.000Z"
+    },
     "output/2026-08-20/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastruct.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastruct.txt",
