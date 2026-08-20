@@ -52046,6 +52046,25 @@
       "zernio_post_id": "6a860852f962578357b82429",
       "zernio_scheduled_for_utc": "2026-08-19T20:06:58.000Z"
     },
+    "output/2026-08-20/we-played-the-duskbloods-the-switch-2-s-wildest-new-exclusive.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/we-played-the-duskbloods-the-switch-2-s-wildest-new-exclusive.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T15:03:46Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8717526506bba1630814c6",
+          "zernio_scheduled_for_utc": "2026-08-20T15:23:19.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/we-played-the-duskbloods-the-switch-2-s-wildest-new-exclusive.png",
+      "metadata_file": "output/2026-08-20/we-played-the-duskbloods-the-switch-2-s-wildest-new-exclusive.json",
+      "published_at_utc": "2026-08-20T15:03:46Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8717526506bba1630814c6",
+      "zernio_scheduled_for_utc": "2026-08-20T15:23:19.000Z"
+    },
     "output/2026-08-20/what-to-know-about-anthropic-s-new-claude-watermarking-on-ai-generated.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/what-to-know-about-anthropic-s-new-claude-watermarking-on-ai-generated.txt",
