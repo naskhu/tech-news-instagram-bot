@@ -52733,6 +52733,25 @@
       "zernio_post_id": "6a875db6aca9f11a4f2f071b",
       "zernio_scheduled_for_utc": "2026-08-20T20:04:48.000Z"
     },
+    "output/2026-08-21/new-9-11-documentary-finds-hope-in-the-horror.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/new-9-11-documentary-finds-hope-in-the-horror.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T21:37:12Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a877388b553227c3fdd9068",
+          "zernio_scheduled_for_utc": "2026-08-20T21:56:42.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/new-9-11-documentary-finds-hope-in-the-horror.png",
+      "metadata_file": "output/2026-08-21/new-9-11-documentary-finds-hope-in-the-horror.json",
+      "published_at_utc": "2026-08-20T21:37:12Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a877388b553227c3fdd9068",
+      "zernio_scheduled_for_utc": "2026-08-20T21:56:42.000Z"
+    },
     "output/2026-08-21/now-chatgpt-connects-directly-to-apple-messages.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/now-chatgpt-connects-directly-to-apple-messages.txt",
