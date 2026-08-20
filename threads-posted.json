@@ -52027,6 +52027,25 @@
       "zernio_post_id": "6a86af5d11fda850ed64d58a",
       "zernio_scheduled_for_utc": "2026-08-20T07:59:41.000Z"
     },
+    "output/2026-08-20/waymo-lifts-the-lid-on-the-brain-powering-its-robotaxis.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/waymo-lifts-the-lid-on-the-brain-powering-its-robotaxis.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T15:03:58Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a87175e7a8d056a139c0ac2",
+          "zernio_scheduled_for_utc": "2026-08-20T16:01:09.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/waymo-lifts-the-lid-on-the-brain-powering-its-robotaxis.png",
+      "metadata_file": "output/2026-08-20/waymo-lifts-the-lid-on-the-brain-powering-its-robotaxis.json",
+      "published_at_utc": "2026-08-20T15:03:58Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a87175e7a8d056a139c0ac2",
+      "zernio_scheduled_for_utc": "2026-08-20T16:01:09.000Z"
+    },
     "output/2026-08-20/waymo-s-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-t.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/waymo-s-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-t.txt",
