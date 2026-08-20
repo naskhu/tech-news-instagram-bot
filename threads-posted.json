@@ -51039,6 +51039,25 @@
       "zernio_post_id": "6a86f848f7349236d67f6492",
       "zernio_scheduled_for_utc": "2026-08-20T13:29:37.000Z"
     },
+    "output/2026-08-20/lg-s-65-inch-b6-oled-is-300-lower-than-its-previous-best-price.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/lg-s-65-inch-b6-oled-is-300-lower-than-its-previous-best-price.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T15:43:56Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8720bc90c2d22ded6cf6bc",
+          "zernio_scheduled_for_utc": "2026-08-20T16:03:28.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/lg-s-65-inch-b6-oled-is-300-lower-than-its-previous-best-price.png",
+      "metadata_file": "output/2026-08-20/lg-s-65-inch-b6-oled-is-300-lower-than-its-previous-best-price.json",
+      "published_at_utc": "2026-08-20T15:43:56Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8720bc90c2d22ded6cf6bc",
+      "zernio_scheduled_for_utc": "2026-08-20T16:03:28.000Z"
+    },
     "output/2026-08-20/lg-s-new-oled-breakthrough-can-boost-display-lifespans.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/lg-s-new-oled-breakthrough-can-boost-display-lifespans.txt",
