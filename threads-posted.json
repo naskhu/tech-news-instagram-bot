@@ -50600,6 +50600,23 @@
       "zernio_post_id": "6a861eb8cbe5fba6df98359d",
       "zernio_scheduled_for_utc": "2026-08-19T21:23:47.000Z"
     },
+    "output/2026-08-20/fcc-officially-decides-gigabit-speeds-are-too-good-for-you.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/fcc-officially-decides-gigabit-speeds-are-too-good-for-you.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T18:05:51Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8741eb11e6e65cd6bd919d"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/fcc-officially-decides-gigabit-speeds-are-too-good-for-you.png",
+      "metadata_file": "output/2026-08-20/fcc-officially-decides-gigabit-speeds-are-too-good-for-you.json",
+      "published_at_utc": "2026-08-20T18:05:51Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a8741eb11e6e65cd6bd919d"
+    },
     "output/2026-08-20/flight-attendants-freaked-out-that-google-is-buying-tons-of-spirit-emp.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/flight-attendants-freaked-out-that-google-is-buying-tons-of-spirit-emp.txt",
