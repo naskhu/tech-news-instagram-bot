@@ -1,0 +1,23 @@
+{
+  "title": "ClarityCheck people-finder left millions of face photos exposed, likely without their knowledge",
+  "summary": "Farrell told ExpressVPN that more than nine million image files uploaded to ClarityCheck were left publicly accessible on a cloud server for several months, noting that these were primarily facial images, though this included some duplication in the form of cropped and…",
+  "source": "9to5Mac",
+  "url": "https://9to5mac.com/2026/08/19/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely-without-their-knowledge",
+  "published_utc": "2026-08-19T14:17:19+00:00",
+  "output_day": "2026-08-20",
+  "date_source": "meta",
+  "generated_utc": "2026-08-20T09:01:01.336948+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/ClarityCheck-people-finder-left-millions-of-face-photos-exposed.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    255,
+    59,
+    48
+  ],
+  "image": "output/2026-08-20/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely.png",
+  "caption": "output/2026-08-20/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely.txt"
+}
