@@ -50013,6 +50013,25 @@
       "zernio_post_id": "6a8698b31f82b7291be67b60",
       "zernio_scheduled_for_utc": "2026-08-20T06:23:01.000Z"
     },
+    "output/2026-08-20/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-20/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-20T08:20:32Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a86b8d05dd44782d76e827c",
+          "zernio_scheduled_for_utc": "2026-08-20T08:40:04.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-20/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long-.png",
+      "metadata_file": "output/2026-08-20/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long-.json",
+      "published_at_utc": "2026-08-20T08:20:32Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a86b8d05dd44782d76e827c",
+      "zernio_scheduled_for_utc": "2026-08-20T08:40:04.000Z"
+    },
     "output/2026-08-20/apple-reportedly-won-t-launch-airpods-with-cameras-until-next-year.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-20/apple-reportedly-won-t-launch-airpods-with-cameras-until-next-year.txt",
