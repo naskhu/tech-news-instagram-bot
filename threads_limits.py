@@ -12,6 +12,15 @@ from datetime import datetime, timezone
 DAILY_LIMIT = max(1, min(250, int(os.getenv("THREADS_DAILY_LIMIT", "250"))))
 
 
+def _split_csv(text: str) -> list[str]:
+    parts: list[str] = []
+    for part in text.replace(";", ",").split(","):
+        value = part.strip()
+        if value and value not in parts:
+            parts.append(value)
+    return parts
+
+
 def parse_channel_ids(raw: str | None = None) -> list[str]:
     """Parse comma/semicolon-separated Zernio Threads account ids.
 
@@ -19,16 +28,74 @@ def parse_channel_ids(raw: str | None = None) -> list[str]:
     """
     configured = os.getenv("ZERNIO_THREADS_ACCOUNT_IDS", "")
     text = (raw if raw is not None else configured).strip()
-    ids: list[str] = []
-    for part in text.replace(";", ",").split(","):
-        channel_id = part.strip()
-        if channel_id and channel_id not in ids:
-            ids.append(channel_id)
+    ids = _split_csv(text)
 
     primary = os.getenv("ZERNIO_THREADS_PRIMARY_ACCOUNT_ID", "").strip()
     if primary and primary in ids:
         ids = [primary] + [channel_id for channel_id in ids if channel_id != primary]
     return ids
+
+
+def parse_account_api_keys(
+    account_ids: list[str] | None = None,
+    *,
+    keys_raw: str | None = None,
+    fallback_key: str | None = None,
+) -> dict[str, str]:
+    """Map each Threads account id to its own Zernio API key.
+
+    Preferred: ``ZERNIO_THREADS_API_KEYS`` as a comma-separated list in the same
+    order as ``ZERNIO_THREADS_ACCOUNT_IDS`` (before primary reordering is fine;
+    keys are matched by index against that configured id list).
+
+    Fallback: a single ``ZERNIO_API_KEY`` used for every account.
+    """
+    ids = list(account_ids) if account_ids is not None else parse_channel_ids()
+    if not ids:
+        return {}
+
+    configured_ids = _split_csv(os.getenv("ZERNIO_THREADS_ACCOUNT_IDS", ""))
+    raw_keys = (
+        keys_raw
+        if keys_raw is not None
+        else os.getenv("ZERNIO_THREADS_API_KEYS", "")
+    ).strip()
+    # Do not de-dupe keys: two accounts may intentionally share one key.
+    key_list = [part.strip() for part in raw_keys.replace(";", ",").split(",") if part.strip()]
+    shared = (
+        fallback_key
+        if fallback_key is not None
+        else os.getenv("ZERNIO_API_KEY", "")
+    ).strip()
+
+    by_configured: dict[str, str] = {}
+    if key_list:
+        if len(key_list) == 1 and len(configured_ids) >= 1:
+            by_configured = {account_id: key_list[0] for account_id in configured_ids}
+        elif configured_ids and len(key_list) == len(configured_ids):
+            by_configured = dict(zip(configured_ids, key_list))
+        elif len(key_list) == len(ids):
+            by_configured = dict(zip(ids, key_list))
+        else:
+            raise RuntimeError(
+                "ZERNIO_THREADS_API_KEYS must have 1 key (shared) or the same "
+                "count as ZERNIO_THREADS_ACCOUNT_IDS "
+                f"(got {len(key_list)} keys for {len(configured_ids) or len(ids)} accounts)"
+            )
+    elif shared:
+        by_configured = {account_id: shared for account_id in ids}
+    else:
+        raise RuntimeError(
+            "Set ZERNIO_THREADS_API_KEYS (one per account) or ZERNIO_API_KEY"
+        )
+
+    missing = [account_id for account_id in ids if account_id not in by_configured]
+    if missing:
+        raise RuntimeError(
+            "No Zernio API key mapped for Threads account id(s): "
+            + ", ".join(missing)
+        )
+    return {account_id: by_configured[account_id] for account_id in ids}
 
 
 def backfill_missing_channels_enabled() -> bool:

@@ -67,11 +67,22 @@ jobs:
         if: steps.plan.outputs.should_publish == 'true'
         env:
           ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          ZERNIO_NEWS_WORLD_TECH_API_KEY: ${{ secrets.ZERNIO_NEWS_WORLD_TECH_API_KEY }}
+          ZERNIO_THREADS_API_KEYS: ${{ secrets.ZERNIO_THREADS_API_KEYS }}
           ZERNIO_THREADS_ACCOUNT_IDS: ${{ secrets.ZERNIO_THREADS_ACCOUNT_IDS }}
         run: |
-          if [ -z "$ZERNIO_API_KEY" ] || [ -z "$ZERNIO_THREADS_ACCOUNT_IDS" ]; then
+          if [ -z "$ZERNIO_THREADS_ACCOUNT_IDS" ]; then
             echo "has_secrets=false" >> "$GITHUB_OUTPUT"
-            echo "::notice title=Zernio Threads secrets missing::Set ZERNIO_API_KEY and ZERNIO_THREADS_ACCOUNT_IDS (comma-separated Zernio account ids)."
+            echo "::notice title=Zernio Threads secrets missing::Set ZERNIO_THREADS_ACCOUNT_IDS."
+            exit 0
+          fi
+          # Prefer explicit ZERNIO_THREADS_API_KEYS; otherwise news.world.tech key + naskhu key.
+          if [ -z "$ZERNIO_THREADS_API_KEYS" ] && [ -n "$ZERNIO_NEWS_WORLD_TECH_API_KEY" ] && [ -n "$ZERNIO_API_KEY" ]; then
+            ZERNIO_THREADS_API_KEYS="${ZERNIO_NEWS_WORLD_TECH_API_KEY},${ZERNIO_API_KEY}"
+          fi
+          if [ -z "$ZERNIO_THREADS_API_KEYS" ] && [ -z "$ZERNIO_API_KEY" ]; then
+            echo "has_secrets=false" >> "$GITHUB_OUTPUT"
+            echo "::notice title=Zernio Threads secrets missing::Set ZERNIO_THREADS_API_KEYS, or ZERNIO_NEWS_WORLD_TECH_API_KEY + ZERNIO_API_KEY."
             exit 0
           fi
           echo "has_secrets=true" >> "$GITHUB_OUTPUT"
@@ -92,6 +103,8 @@ jobs:
         if: steps.plan.outputs.should_publish == 'true' && steps.secrets.outputs.has_secrets == 'true'
         env:
           ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          ZERNIO_NEWS_WORLD_TECH_API_KEY: ${{ secrets.ZERNIO_NEWS_WORLD_TECH_API_KEY }}
+          ZERNIO_THREADS_API_KEYS: ${{ secrets.ZERNIO_THREADS_API_KEYS }}
           ZERNIO_THREADS_ACCOUNT_IDS: ${{ secrets.ZERNIO_THREADS_ACCOUNT_IDS }}
           ZERNIO_THREADS_PRIMARY_ACCOUNT_ID: ${{ secrets.ZERNIO_THREADS_PRIMARY_ACCOUNT_ID }}
           MAX_POSTS_PER_RUN: ${{ steps.plan.outputs.max_posts }}
@@ -109,6 +122,10 @@ jobs:
           # Primary account first, then secondary profiles ~2 minutes later.
           THREADS_SECONDARY_DELAY_SECONDS: "120"
         run: |
+          # Account order: news.world.tech, then naskhu. Keys must match that order.
+          if [ -z "$ZERNIO_THREADS_API_KEYS" ] && [ -n "$ZERNIO_NEWS_WORLD_TECH_API_KEY" ] && [ -n "$ZERNIO_API_KEY" ]; then
+            export ZERNIO_THREADS_API_KEYS="${ZERNIO_NEWS_WORLD_TECH_API_KEY},${ZERNIO_API_KEY}"
+          fi
           echo "Pending unpublished posts: ${{ steps.plan.outputs.pending }}"
           echo "Mode: ${{ steps.plan.outputs.mode }}"
           echo "Drain window seconds: ${{ steps.plan.outputs.drain_seconds }}"

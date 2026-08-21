@@ -1,10 +1,12 @@
 from __future__ import annotations
 
+import os
 import unittest
 from pathlib import Path
 from tempfile import TemporaryDirectory
 from unittest.mock import Mock, patch
 
+from threads_limits import parse_account_api_keys
 from threads_publish import generated_order_key
 from zernio_client import (
     ZernioRateLimitReached,
@@ -102,6 +104,27 @@ class ZernioClientTests(unittest.TestCase):
 
             ordered = sorted([newer, older], key=generated_order_key)
             self.assertEqual(ordered, [older, newer])
+
+    def test_maps_separate_api_keys_per_account(self) -> None:
+        os.environ["ZERNIO_THREADS_ACCOUNT_IDS"] = "news-id,naskhu-id"
+        os.environ["ZERNIO_THREADS_PRIMARY_ACCOUNT_ID"] = "news-id"
+        os.environ["ZERNIO_THREADS_API_KEYS"] = "sk_news,sk_naskhu"
+        os.environ.pop("ZERNIO_API_KEY", None)
+        try:
+            mapping = parse_account_api_keys()
+            self.assertEqual(
+                mapping,
+                {"news-id": "sk_news", "naskhu-id": "sk_naskhu"},
+            )
+            self.assertEqual(mapping["news-id"], "sk_news")
+            self.assertEqual(mapping["naskhu-id"], "sk_naskhu")
+        finally:
+            for name in (
+                "ZERNIO_THREADS_ACCOUNT_IDS",
+                "ZERNIO_THREADS_PRIMARY_ACCOUNT_ID",
+                "ZERNIO_THREADS_API_KEYS",
+            ):
+                os.environ.pop(name, None)
 
 
 if __name__ == "__main__":

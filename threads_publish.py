@@ -25,6 +25,7 @@ from threads_limits import (
     count_posted_last_24h,
     missing_channel_ids,
     needs_publish,
+    parse_account_api_keys,
     parse_channel_ids,
     quota_left_24h,
 )
@@ -524,7 +525,7 @@ def publish_one_channel(
 
 
 def publish_one(
-    api_key: str,
+    api_keys: dict[str, str],
     account_ids: list[str],
     state: dict[str, Any],
     image: Path,
@@ -544,6 +545,9 @@ def publish_one(
     # Account ids are primary-first; secondary profiles get a later scheduledFor.
     primary_id = account_ids[0] if account_ids else ""
     for index, account_id in enumerate(pending_channels):
+        api_key = api_keys.get(account_id, "").strip()
+        if not api_key:
+            raise RuntimeError(f"No Zernio API key configured for Threads account {account_id}")
         channel_due_at = due_at
         if (
             due_at
@@ -569,7 +573,7 @@ def publish_one(
             time.sleep(API_GAP_SECONDS)
 
 
-def publish_batch(api_key: str, account_ids: list[str]) -> int:
+def publish_batch(api_keys: dict[str, str], account_ids: list[str]) -> int:
     """Enqueue today's pending posts before local midnight.
 
     Normal mode: FIFO customScheduled dueAt evenly spaced within ~1 hour.
@@ -651,7 +655,7 @@ def publish_batch(api_key: str, account_ids: list[str]) -> int:
             )
         try:
             publish_one(
-                api_key,
+                api_keys,
                 account_ids,
                 state,
                 image,
@@ -690,20 +694,24 @@ def publish_batch(api_key: str, account_ids: list[str]) -> int:
     return published
 
 
-def drain_queue(api_key: str, account_ids: list[str]) -> int:
-    return publish_batch(api_key, account_ids)
+def drain_queue(api_keys: dict[str, str], account_ids: list[str]) -> int:
+    return publish_batch(api_keys, account_ids)
 
 
 def main() -> int:
-    api_key = required_env("ZERNIO_API_KEY")
     account_ids = parse_channel_ids(required_env("ZERNIO_THREADS_ACCOUNT_IDS"))
     if not account_ids:
         raise RuntimeError("ZERNIO_THREADS_ACCOUNT_IDS has no account ids")
+    api_keys = parse_account_api_keys(account_ids)
+    print(
+        f"Zernio Threads accounts configured: {len(account_ids)} "
+        f"(separate API keys: {len(set(api_keys.values()))})"
+    )
 
     if PUBLISH_MODE == "drain" and DRAIN_WITHIN_SECONDS > 0:
-        published = drain_queue(api_key, account_ids)
+        published = drain_queue(api_keys, account_ids)
     else:
-        published = publish_batch(api_key, account_ids)
+        published = publish_batch(api_keys, account_ids)
 
     print(f"Finished Threads publish run. Posted {published} item(s).")
     return 0

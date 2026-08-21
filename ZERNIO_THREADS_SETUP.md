@@ -2,17 +2,24 @@
 
 Instagram publishing remains on Buffer. Only Threads uses Zernio.
 
-1. Sign in at <https://zernio.com/>.
-2. Connect each Threads profile in the Zernio dashboard. Threads profiles must
-   be backed by an Instagram Business or Creator account.
+Each Threads profile can use its **own** Zernio API key (for example
+`news.world.tech` and `naskhu` on separate Zernio accounts).
+
+1. Sign in at <https://zernio.com/> for each Zernio account.
+2. Connect the Threads profile in that dashboard. Threads profiles must be
+   backed by an Instagram Business or Creator account.
 3. Create an API key under **Dashboard → API Keys**.
-4. Copy the Zernio account ID for each connected Threads profile.
+4. Copy the Zernio account ID for the connected Threads profile.
 5. Add these GitHub Actions repository secrets:
 
-   - `ZERNIO_API_KEY`: the API key
    - `ZERNIO_THREADS_ACCOUNT_IDS`: comma-separated account IDs, primary first
-   - `ZERNIO_THREADS_PRIMARY_ACCOUNT_ID`: primary account ID (optional when it
-     is already first in the list)
+     (example: `news_world_tech_id,naskhu_id`)
+   - `ZERNIO_THREADS_PRIMARY_ACCOUNT_ID`: primary account ID (`news.world.tech`)
+   - `ZERNIO_NEWS_WORLD_TECH_API_KEY`: API key for the `news.world.tech` Zernio
+     account
+   - `ZERNIO_API_KEY`: API key for the `naskhu` Zernio account
+   - Optional override: `ZERNIO_THREADS_API_KEYS` as comma-separated keys in the
+     same order as `ZERNIO_THREADS_ACCOUNT_IDS` (skips the two named keys above)
 
 The workflow schedules today's pending posts FIFO inside the next hour. The
 secondary account is scheduled two minutes after the primary. Near Maldives
