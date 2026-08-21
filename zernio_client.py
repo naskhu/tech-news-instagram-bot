@@ -46,10 +46,21 @@ def _error_text(payload: object) -> str:
 
 def _looks_like_daily_limit(message: object) -> bool:
     text = str(message or "").lower()
+    if "per hour" in text or "posts/hour" in text:
+        return False
     return (
         ("daily" in text and "limit" in text)
         or "250 api-published posts" in text
         or "maximum number of posts" in text
+    )
+
+
+def _looks_like_hourly_limit(message: object) -> bool:
+    text = str(message or "").lower()
+    return (
+        "per hour" in text
+        or "posts/hour" in text
+        or ("25 posts" in text and "hour" in text)
     )
 
 
@@ -104,7 +115,7 @@ def create_post(
             return CreatedPost(str(existing_id), "duplicate", existing=True)
 
     message = _error_text(payload)
-    if response.status_code == 429:
+    if response.status_code == 429 or _looks_like_hourly_limit(message):
         retry_after = response.headers.get("Retry-After")
         suffix = f" Retry-After={retry_after}s." if retry_after else ""
         if _looks_like_daily_limit(message):
