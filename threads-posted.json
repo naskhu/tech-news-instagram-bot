@@ -53728,7 +53728,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T05:57:48.000Z"
     },
     "output/2026-08-21/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53736,15 +53736,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a87560979d381117acc8499",
           "zernio_scheduled_for_utc": "2026-08-20T19:50:53.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:51:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882dbe1ee4fd9f26103115",
+          "zernio_scheduled_for_utc": "2026-08-21T10:52:26.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary.png",
       "metadata_file": "output/2026-08-21/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary.json",
-      "published_at_utc": "2026-08-20T19:31:21Z",
+      "published_at_utc": "2026-08-21T10:51:43Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a87560979d381117acc8499",
-      "zernio_scheduled_for_utc": "2026-08-20T19:50:53.000Z"
+      "zernio_post_id": "6a882dbe1ee4fd9f26103115",
+      "zernio_scheduled_for_utc": "2026-08-21T10:52:26.000Z"
     },
     "output/2026-08-21/serval-s-super-agent-catalyst-creates-roving-background-agents-to-iden.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
