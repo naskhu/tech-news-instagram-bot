@@ -56096,9 +56096,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T20:24:21.000Z"
     },
     "output/2026-08-22/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T20:21:50Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88b35eabb772d261009afd",
+          "zernio_scheduled_for_utc": "2026-08-21T21:01:49.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T20:21:44Z",
           "zernio_mode": "scheduled",
@@ -56108,11 +56114,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-.png",
       "metadata_file": "output/2026-08-22/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-.json",
-      "published_at_utc": "2026-08-21T20:21:44Z",
+      "published_at_utc": "2026-08-21T20:21:50Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88b357abb772d261009821",
-      "zernio_scheduled_for_utc": "2026-08-21T20:59:49.000Z"
+      "zernio_post_id": "6a88b35eabb772d261009afd",
+      "zernio_scheduled_for_utc": "2026-08-21T21:01:49.000Z"
     },
     "output/2026-08-22/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-toda.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
