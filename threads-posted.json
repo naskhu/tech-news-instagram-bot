@@ -54270,9 +54270,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T11:47:45.000Z"
     },
     "output/2026-08-21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tra.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tra.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T14:58:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a886792324def426d83f744",
+          "zernio_scheduled_for_utc": "2026-08-21T15:01:03.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T14:58:19Z",
           "zernio_mode": "scheduled",
@@ -54282,11 +54288,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tra.png",
       "metadata_file": "output/2026-08-21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tra.json",
-      "published_at_utc": "2026-08-21T14:58:19Z",
+      "published_at_utc": "2026-08-21T14:58:27Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88678b776212fc159d3436",
-      "zernio_scheduled_for_utc": "2026-08-21T14:59:03.000Z"
+      "zernio_post_id": "6a886792324def426d83f744",
+      "zernio_scheduled_for_utc": "2026-08-21T15:01:03.000Z"
     },
     "output/2026-08-21/oura-faces-lawsuit-over-alleged-inaccurate-ai-sleep-tracking-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
