@@ -53161,9 +53161,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T05:40:35.000Z"
     },
     "output/2026-08-21/eliminate-spam-calls-with-this-iphone-trick-cnet.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/eliminate-spam-calls-with-this-iphone-trick-cnet.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T11:49:50Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a883b5e477180874af4a9c6",
+          "zernio_scheduled_for_utc": "2026-08-21T12:02:40.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "note": "Cleared news.world.tech backlog; only new posts after this timestamp will publish.",
           "publish_result": "cleared_old_queue",
@@ -53171,10 +53177,13 @@
           "zernio_mode": "skipped_backfill"
         }
       },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/eliminate-spam-calls-with-this-iphone-trick-cnet.png",
       "metadata_file": "output/2026-08-21/eliminate-spam-calls-with-this-iphone-trick-cnet.json",
-      "published_at_utc": "2026-08-21T11:43:28Z",
+      "published_at_utc": "2026-08-21T11:49:50Z",
       "publisher": "zernio_threads",
-      "zernio_mode": "skipped_backfill"
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a883b5e477180874af4a9c6",
+      "zernio_scheduled_for_utc": "2026-08-21T12:02:40.000Z"
     },
     "output/2026-08-21/enable-this-feature-and-your-iphone-will-reprimand-you-if-your-lens-is.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
