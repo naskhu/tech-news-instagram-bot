@@ -56046,9 +56046,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T15:38:53.000Z"
     },
     "output/2026-08-22/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T19:25:35Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88a62f5b422c8200917ebb",
+          "zernio_scheduled_for_utc": "2026-08-21T20:24:21.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T19:25:29Z",
           "zernio_mode": "scheduled",
@@ -56058,11 +56064,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars.png",
       "metadata_file": "output/2026-08-22/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars.json",
-      "published_at_utc": "2026-08-21T19:25:29Z",
+      "published_at_utc": "2026-08-21T19:25:35Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88a629c2a26516cd93ab7b",
-      "zernio_scheduled_for_utc": "2026-08-21T20:22:21.000Z"
+      "zernio_post_id": "6a88a62f5b422c8200917ebb",
+      "zernio_scheduled_for_utc": "2026-08-21T20:24:21.000Z"
     },
     "output/2026-08-22/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-toda.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
