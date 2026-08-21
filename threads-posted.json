@@ -52657,6 +52657,25 @@
       "zernio_post_id": "6a87877d4eae596deca03aff",
       "zernio_scheduled_for_utc": "2026-08-20T23:59:34.000Z"
     },
+    "output/2026-08-21/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T07:12:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a87fa6bcc142d0e2f453274",
+          "zernio_scheduled_for_utc": "2026-08-21T07:32:15.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-.png",
+      "metadata_file": "output/2026-08-21/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-.json",
+      "published_at_utc": "2026-08-21T07:12:43Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a87fa6bcc142d0e2f453274",
+      "zernio_scheduled_for_utc": "2026-08-21T07:32:15.000Z"
+    },
     "output/2026-08-21/apple-reportedly-lays-off-vision-employees-amid-shifting-priorities-9t.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/apple-reportedly-lays-off-vision-employees-amid-shifting-priorities-9t.txt",
