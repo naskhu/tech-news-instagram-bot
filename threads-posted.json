@@ -56346,9 +56346,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T20:23:59.000Z"
     },
     "output/2026-08-22/the-dead-internet-theory-may-be-coming-true-pew-research-findings-show.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/the-dead-internet-theory-may-be-coming-true-pew-research-findings-show.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T20:47:51Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88b9777be17e8221fc31b1",
+          "zernio_scheduled_for_utc": "2026-08-21T21:27:55.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T20:47:45Z",
           "zernio_mode": "scheduled",
@@ -56358,11 +56364,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/the-dead-internet-theory-may-be-coming-true-pew-research-findings-show.png",
       "metadata_file": "output/2026-08-22/the-dead-internet-theory-may-be-coming-true-pew-research-findings-show.json",
-      "published_at_utc": "2026-08-21T20:47:45Z",
+      "published_at_utc": "2026-08-21T20:47:51Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88b971928e305d6c574c82",
-      "zernio_scheduled_for_utc": "2026-08-21T21:25:55.000Z"
+      "zernio_post_id": "6a88b9777be17e8221fc31b1",
+      "zernio_scheduled_for_utc": "2026-08-21T21:27:55.000Z"
     },
     "output/2026-08-22/thunder-fiber-optic-cabling-used-for-seismic-imaging.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
