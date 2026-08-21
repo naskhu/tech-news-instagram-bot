@@ -52639,7 +52639,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T01:17:53.000Z"
     },
     "output/2026-08-21/ai-labels-are-big-tech-s-most-basic-responsibility-even-those-claude-w.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/ai-labels-are-big-tech-s-most-basic-responsibility-even-those-claude-w.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -52647,15 +52647,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a87877d4eae596deca03aff",
           "zernio_scheduled_for_utc": "2026-08-20T23:59:34.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T11:24:13Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88355d68c054c4c4c24d54",
+          "zernio_scheduled_for_utc": "2026-08-21T11:56:42.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/ai-labels-are-big-tech-s-most-basic-responsibility-even-those-claude-w.png",
       "metadata_file": "output/2026-08-21/ai-labels-are-big-tech-s-most-basic-responsibility-even-those-claude-w.json",
-      "published_at_utc": "2026-08-20T23:02:21Z",
+      "published_at_utc": "2026-08-21T11:24:13Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a87877d4eae596deca03aff",
-      "zernio_scheduled_for_utc": "2026-08-20T23:59:34.000Z"
+      "zernio_post_id": "6a88355d68c054c4c4c24d54",
+      "zernio_scheduled_for_utc": "2026-08-21T11:56:42.000Z"
     },
     "output/2026-08-21/airpods-4-vs-airpods-pro-3-which-should-you-buy-in-2026-9to5mac.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
