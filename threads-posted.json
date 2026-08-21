@@ -52895,9 +52895,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T12:08:39.000Z"
     },
     "output/2026-08-21/as-demand-for-meta-ai-glasses-explodes-it-s-harder-to-avoid-creepy-rec.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/as-demand-for-meta-ai-glasses-explodes-it-s-harder-to-avoid-creepy-rec.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T11:50:13Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a883b74daa423644b4daf98",
+          "zernio_scheduled_for_utc": "2026-08-21T12:23:18.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "note": "Cleared news.world.tech backlog; only new posts after this timestamp will publish.",
           "publish_result": "cleared_old_queue",
@@ -52905,10 +52911,13 @@
           "zernio_mode": "skipped_backfill"
         }
       },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/as-demand-for-meta-ai-glasses-explodes-it-s-harder-to-avoid-creepy-rec.png",
       "metadata_file": "output/2026-08-21/as-demand-for-meta-ai-glasses-explodes-it-s-harder-to-avoid-creepy-rec.json",
-      "published_at_utc": "2026-08-21T11:43:28Z",
+      "published_at_utc": "2026-08-21T11:50:13Z",
       "publisher": "zernio_threads",
-      "zernio_mode": "skipped_backfill"
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a883b74daa423644b4daf98",
+      "zernio_scheduled_for_utc": "2026-08-21T12:23:18.000Z"
     },
     "output/2026-08-21/best-early-tech-labor-day-sales-i-d-shop-myself-2026-airtags-dyson-and.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
