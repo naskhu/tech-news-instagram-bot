@@ -53044,6 +53044,25 @@
       "zernio_post_id": "6a882e2f95dd6e71b7bbe55f",
       "zernio_scheduled_for_utc": "2026-08-21T11:03:55.000Z"
     },
+    "output/2026-08-21/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-21/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T12:36:17Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88464116610900219007e3",
+          "zernio_scheduled_for_utc": "2026-08-21T13:14:28.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws.png",
+      "metadata_file": "output/2026-08-21/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws.json",
+      "published_at_utc": "2026-08-21T12:36:17Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88464116610900219007e3",
+      "zernio_scheduled_for_utc": "2026-08-21T13:14:28.000Z"
+    },
     "output/2026-08-21/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible.txt",
