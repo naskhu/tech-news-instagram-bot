@@ -53811,9 +53811,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T09:33:33.000Z"
     },
     "output/2026-08-21/my-big-fat-technophobic-cat.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/my-big-fat-technophobic-cat.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T11:50:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a883b6f8056cae19350239a",
+          "zernio_scheduled_for_utc": "2026-08-21T12:18:09.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "note": "Cleared news.world.tech backlog; only new posts after this timestamp will publish.",
           "publish_result": "cleared_old_queue",
@@ -53821,10 +53827,13 @@
           "zernio_mode": "skipped_backfill"
         }
       },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/my-big-fat-technophobic-cat.png",
       "metadata_file": "output/2026-08-21/my-big-fat-technophobic-cat.json",
-      "published_at_utc": "2026-08-21T11:43:28Z",
+      "published_at_utc": "2026-08-21T11:50:07Z",
       "publisher": "zernio_threads",
-      "zernio_mode": "skipped_backfill"
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a883b6f8056cae19350239a",
+      "zernio_scheduled_for_utc": "2026-08-21T12:18:09.000Z"
     },
     "output/2026-08-21/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-a.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
