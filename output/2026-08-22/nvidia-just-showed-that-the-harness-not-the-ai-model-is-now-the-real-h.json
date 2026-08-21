@@ -1,0 +1,23 @@
+{
+  "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+  "summary": "The harness is what makes a model an agent: it handles memory, context, feedback. “Generally speaking the world interprets an agent almost as an API of the model,” Adel El Hallack, vice president of product in Nvidia’s AI unit (pictured above), tells…",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+  "published_utc": "2026-08-21T19:43:39+00:00",
+  "output_day": "2026-08-22",
+  "date_source": "rss",
+  "generated_utc": "2026-08-21T19:55:06.347953+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-08-22/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-h.png",
+  "caption": "output/2026-08-22/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-h.txt"
+}
