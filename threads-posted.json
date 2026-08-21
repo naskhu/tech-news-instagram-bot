@@ -53878,7 +53878,7 @@
       "zernio_scheduled_for_utc": "2026-08-20T23:40:39.000Z"
     },
     "output/2026-08-21/someone-targeted-security-researchers-using-a-fake-crypto-conference-a.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/someone-targeted-security-researchers-using-a-fake-crypto-conference-a.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53886,15 +53886,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a8766166848c55e3537e9c8",
           "zernio_scheduled_for_utc": "2026-08-20T20:40:32.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:52:26Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882de995dd6e71b7bbba78",
+          "zernio_scheduled_for_utc": "2026-08-21T10:57:10.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/someone-targeted-security-researchers-using-a-fake-crypto-conference-a.png",
       "metadata_file": "output/2026-08-21/someone-targeted-security-researchers-using-a-fake-crypto-conference-a.json",
-      "published_at_utc": "2026-08-20T20:39:51Z",
+      "published_at_utc": "2026-08-21T10:52:26Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8766166848c55e3537e9c8",
-      "zernio_scheduled_for_utc": "2026-08-20T20:40:32.000Z"
+      "zernio_post_id": "6a882de995dd6e71b7bbba78",
+      "zernio_scheduled_for_utc": "2026-08-21T10:57:10.000Z"
     },
     "output/2026-08-21/spacex-s-orbital-data-centers-would-create-a-new-category-of-e-waste.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
