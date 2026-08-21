@@ -1,0 +1,23 @@
+{
+  "title": "Apollo, a major player in GPU-backed loans, hacked.",
+  "summary": "Sounds like the hackers stole a bunch of the usual things, like employees’ social security numbers . If they stole interesting things, like internal data on the AI deals Apollo has been making, that wasn’t disclosed in the breach notification.",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/983406/apollo-a-major-player-in-gpu-backed-loans-hacked",
+  "published_utc": "2026-08-21T18:37:35+00:00",
+  "output_day": "2026-08-21",
+  "date_source": "meta",
+  "generated_utc": "2026-08-21T18:46:30.787788+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-8.45.31-AM.webp?quality=90&strip=all&crop=0%2C0.51546391752577%2C100%2C98.969072164948&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-21/apollo-a-major-player-in-gpu-backed-loans-hacked.png",
+  "caption": "output/2026-08-21/apollo-a-major-player-in-gpu-backed-loans-hacked.txt"
+}
