@@ -53082,7 +53082,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T06:27:22.000Z"
     },
     "output/2026-08-21/genesis-joins-the-giant-electric-suv-club-with-new-gv90.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/genesis-joins-the-giant-electric-suv-club-with-new-gv90.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53090,15 +53090,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a875dc9000517df30ed9644",
           "zernio_scheduled_for_utc": "2026-08-20T21:01:33.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:52:20Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882de495dd6e71b7bbb8c6",
+          "zernio_scheduled_for_utc": "2026-08-21T10:56:29.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/genesis-joins-the-giant-electric-suv-club-with-new-gv90.png",
       "metadata_file": "output/2026-08-21/genesis-joins-the-giant-electric-suv-club-with-new-gv90.json",
-      "published_at_utc": "2026-08-20T20:04:25Z",
+      "published_at_utc": "2026-08-21T10:52:20Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a875dc9000517df30ed9644",
-      "zernio_scheduled_for_utc": "2026-08-20T21:01:33.000Z"
+      "zernio_post_id": "6a882de495dd6e71b7bbb8c6",
+      "zernio_scheduled_for_utc": "2026-08-21T10:56:29.000Z"
     },
     "output/2026-08-21/genki-s-new-customizable-controller-has-a-big-screen-and-adjustable-bu.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
