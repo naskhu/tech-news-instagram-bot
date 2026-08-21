@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-21T07:10:22.158552+00:00",
+  "run_utc": "2026-08-21T08:00:17.659463+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-20T07:10:22.158677+00:00",
-  "eligible_story_count": 207,
+  "cutoff_utc": "2026-08-20T08:00:17.659661+00:00",
+  "eligible_story_count": 204,
   "sources": [
     {
       "source": "TechCrunch",
@@ -252,7 +252,7 @@
       "page_articles": 40,
       "eligible_new": 13,
       "already_processed": 6,
-      "older_than_window": 94,
+      "older_than_window": 95,
       "metadata_errors": {}
     },
     {
@@ -395,7 +395,7 @@
       "page_articles": 44,
       "eligible_new": 62,
       "already_processed": 1,
-      "older_than_window": 37,
+      "older_than_window": 38,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 1
@@ -573,7 +573,7 @@
       "page_links": 36,
       "page_articles": 6,
       "eligible_new": 0,
-      "already_processed": 19,
+      "already_processed": 18,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
@@ -609,8 +609,8 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 20,
-      "already_processed": 74,
+      "eligible_new": 16,
+      "already_processed": 78,
       "older_than_window": 18,
       "metadata_errors": {}
     },
