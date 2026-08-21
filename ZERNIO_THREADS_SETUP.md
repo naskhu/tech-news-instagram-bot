@@ -21,7 +21,8 @@ Each Threads profile can use its **own** Zernio API key (for example
    - Optional override: `ZERNIO_THREADS_API_KEYS` as comma-separated keys in the
      same order as `ZERNIO_THREADS_ACCOUNT_IDS` (skips the two named keys above)
 
-The workflow schedules today's pending posts FIFO inside the next hour. The
-secondary account is scheduled two minutes after the primary. Near Maldives
-midnight, it publishes immediately rather than spilling posts into the next
-day.
+The workflow schedules up to **20 posts per run** (under Zernio's 25/hour
+account limit), FIFO inside the next hour, and runs about every 30 minutes so
+leftovers keep draining. The secondary account is scheduled two minutes after
+the primary. Near Maldives midnight, it publishes immediately rather than
+spilling posts into the next day.

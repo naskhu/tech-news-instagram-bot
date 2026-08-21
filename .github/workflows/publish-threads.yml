@@ -8,13 +8,13 @@ on:
   workflow_dispatch:
     inputs:
       max_posts:
-        description: Maximum unpublished posts to publish to Threads (all = drain today's queue under 250/24h before midnight; never previous days)
+        description: Max posts this run (default all = up to 20/hour under Zernio limit; never previous days)
         required: false
         default: "all"
   schedule:
-    # Hourly backup tick (V2 already triggers publish after each generate).
+    # Every 30 minutes so leftovers drain under Zernio's 25 posts/hour cap.
     # FIFO dueAt within the next hour; never past Maldives midnight.
-    - cron: "20 * * * *"
+    - cron: "5,35 * * * *"
 
 permissions:
   contents: write
@@ -55,8 +55,9 @@ jobs:
           ZERNIO_THREADS_ACCOUNT_IDS: ${{ secrets.ZERNIO_THREADS_ACCOUNT_IDS }}
           ZERNIO_THREADS_PRIMARY_ACCOUNT_ID: ${{ secrets.ZERNIO_THREADS_PRIMARY_ACCOUNT_ID }}
           THREADS_DAILY_LIMIT: "250"
-          THREADS_MAX_PER_SCHEDULE_TICK: "250"
-          THREADS_MAX_PER_GENERATE_TICK: "250"
+          # Zernio account limit is 25 posts/hour; keep headroom.
+          THREADS_MAX_PER_SCHEDULE_TICK: "20"
+          THREADS_MAX_PER_GENERATE_TICK: "20"
           THREADS_SCHEDULE_WINDOW_SECONDS: "3600"
           THREADS_FLUSH_BEFORE_MIDNIGHT_SECONDS: "5400"
           THREADS_SECONDARY_DELAY_SECONDS: "120"
