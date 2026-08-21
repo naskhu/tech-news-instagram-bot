@@ -54228,7 +54228,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T10:08:12.000Z"
     },
     "output/2026-08-21/the-us-decides-maybe-it-shouldn-t-ban-all-foreign-inverters-just-ones-.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/the-us-decides-maybe-it-shouldn-t-ban-all-foreign-inverters-just-ones-.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -54236,15 +54236,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a877922f88687fa88f28ed8",
           "zernio_scheduled_for_utc": "2026-08-20T22:20:36.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:53:53Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882e411ee4fd9f26105315",
+          "zernio_scheduled_for_utc": "2026-08-21T11:05:57.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/the-us-decides-maybe-it-shouldn-t-ban-all-foreign-inverters-just-ones-.png",
       "metadata_file": "output/2026-08-21/the-us-decides-maybe-it-shouldn-t-ban-all-foreign-inverters-just-ones-.json",
-      "published_at_utc": "2026-08-20T22:01:06Z",
+      "published_at_utc": "2026-08-21T10:53:53Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a877922f88687fa88f28ed8",
-      "zernio_scheduled_for_utc": "2026-08-20T22:20:36.000Z"
+      "zernio_post_id": "6a882e411ee4fd9f26105315",
+      "zernio_scheduled_for_utc": "2026-08-21T11:05:57.000Z"
     },
     "output/2026-08-21/this-company-s-plans-to-deploy-space-mirrors-could-jeopardize-the-nigh.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
