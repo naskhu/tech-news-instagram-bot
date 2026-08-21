@@ -53377,7 +53377,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T00:29:16.000Z"
     },
     "output/2026-08-21/hyperx-s-new-cloud-alpha-air-is-its-first-open-back-gaming-headset.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/hyperx-s-new-cloud-alpha-air-is-its-first-open-back-gaming-headset.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53385,15 +53385,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a877fda931b30a89b6c102e",
           "zernio_scheduled_for_utc": "2026-08-20T22:49:19.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T11:23:37Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8835392d12a4c4dfcf964a",
+          "zernio_scheduled_for_utc": "2026-08-21T11:38:47.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/hyperx-s-new-cloud-alpha-air-is-its-first-open-back-gaming-headset.png",
       "metadata_file": "output/2026-08-21/hyperx-s-new-cloud-alpha-air-is-its-first-open-back-gaming-headset.json",
-      "published_at_utc": "2026-08-20T22:29:46Z",
+      "published_at_utc": "2026-08-21T11:23:37Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a877fda931b30a89b6c102e",
-      "zernio_scheduled_for_utc": "2026-08-20T22:49:19.000Z"
+      "zernio_post_id": "6a8835392d12a4c4dfcf964a",
+      "zernio_scheduled_for_utc": "2026-08-21T11:38:47.000Z"
     },
     "output/2026-08-21/i-used-this-mic-on-the-vergecast-and-it-s-just-15-right-now.png": {
       "account_id": "6a88238877555aae01f162b8",
