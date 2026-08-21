@@ -1,0 +1,23 @@
+{
+  "title": "SickKids data breach exposes employee and job applicant info",
+  "summary": "The Hospital for Sick Children (SickKids) has disclosed that the personal information of some current and former employees, as well as job applicants, was exposed in a \"cybersecurity incident.\" The hospital says the breach stemmed from a flaw in third-party software.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info",
+  "published_utc": "2026-08-21T10:10:42+00:00",
+  "output_day": "2026-08-21",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-21T10:52:22.348328+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2023/01/01/sickkids.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-21/sickkids-data-breach-exposes-employee-and-job-applicant-info.png",
+  "caption": "output/2026-08-21/sickkids-data-breach-exposes-employee-and-job-applicant-info.txt"
+}
