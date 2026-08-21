@@ -52733,6 +52733,25 @@
       "zernio_post_id": "6a877390b553227c3fdd940c",
       "zernio_scheduled_for_utc": "2026-08-20T22:15:37.000Z"
     },
+    "output/2026-08-21/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T05:02:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a87dbd0ba65cf07c3d5d551",
+          "zernio_scheduled_for_utc": "2026-08-21T05:21:40.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible.png",
+      "metadata_file": "output/2026-08-21/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible.json",
+      "published_at_utc": "2026-08-21T05:02:09Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a87dbd0ba65cf07c3d5d551",
+      "zernio_scheduled_for_utc": "2026-08-21T05:21:40.000Z"
+    },
     "output/2026-08-21/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks.txt",
