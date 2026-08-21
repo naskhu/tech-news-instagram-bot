@@ -53303,6 +53303,25 @@
       "zernio_post_id": "6a87b6c146c0469d26adfe6f",
       "zernio_scheduled_for_utc": "2026-08-21T02:53:01.000Z"
     },
+    "output/2026-08-21/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-c.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-c.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T03:36:46Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a87c7ce76e578dced32982d",
+          "zernio_scheduled_for_utc": "2026-08-21T04:15:08.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-c.png",
+      "metadata_file": "output/2026-08-21/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-c.json",
+      "published_at_utc": "2026-08-21T03:36:46Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a87c7ce76e578dced32982d",
+      "zernio_scheduled_for_utc": "2026-08-21T04:15:08.000Z"
+    },
     "output/2026-08-21/some-new-samsung-device-owners-are-running-into-rcs-messaging-issues-c.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/some-new-samsung-device-owners-are-running-into-rcs-messaging-issues-c.txt",
