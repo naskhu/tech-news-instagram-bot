@@ -52620,9 +52620,14 @@
       "zernio_scheduled_for_utc": "2026-08-19T23:27:39.000Z"
     },
     "output/2026-08-21/100-best-buy-gift-cards-will-be-60-at-stores-saturday.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/100-best-buy-gift-cards-will-be-60-at-stores-saturday.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T18:05:20Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a88934ec6911078baa42ca5"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T18:04:56Z",
           "zernio_mode": "publishNow",
@@ -52631,10 +52636,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/100-best-buy-gift-cards-will-be-60-at-stores-saturday.png",
       "metadata_file": "output/2026-08-21/100-best-buy-gift-cards-will-be-60-at-stores-saturday.json",
-      "published_at_utc": "2026-08-21T18:04:56Z",
+      "published_at_utc": "2026-08-21T18:05:20Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a88933386f82dbf99cb39de"
+      "zernio_post_id": "6a88934ec6911078baa42ca5"
     },
     "output/2026-08-21/6-tips-for-protecting-your-identity-online-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
