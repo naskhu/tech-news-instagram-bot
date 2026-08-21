@@ -56896,9 +56896,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T23:00:33.000Z"
     },
     "output/2026-08-22/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T23:44:56Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88e2f879612ee565fbf96d",
+          "zernio_scheduled_for_utc": "2026-08-21T23:47:34.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T23:44:50Z",
           "zernio_mode": "scheduled",
@@ -56908,11 +56914,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches.png",
       "metadata_file": "output/2026-08-22/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches.json",
-      "published_at_utc": "2026-08-21T23:44:50Z",
+      "published_at_utc": "2026-08-21T23:44:56Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88e2f2eac5b584eb73d5e4",
-      "zernio_scheduled_for_utc": "2026-08-21T23:45:34.000Z"
+      "zernio_post_id": "6a88e2f879612ee565fbf96d",
+      "zernio_scheduled_for_utc": "2026-08-21T23:47:34.000Z"
     },
     "output/2026-08-22/walmart-apple-pay-rollout-when-it-launches-in-your-state-9to5mac.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
