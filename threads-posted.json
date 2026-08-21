@@ -54043,7 +54043,7 @@
       "zernio_scheduled_for_utc": "2026-08-20T22:01:06.000Z"
     },
     "output/2026-08-21/the-genesis-gv90-blows-the-bloody-doors-off-what-s-possible-in-ev-desi.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/the-genesis-gv90-blows-the-bloody-doors-off-what-s-possible-in-ev-desi.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -54051,15 +54051,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a875dc3000517df30ed94e7",
           "zernio_scheduled_for_utc": "2026-08-20T20:42:38.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:52:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882ddd1ee4fd9f26103d2d",
+          "zernio_scheduled_for_utc": "2026-08-21T10:55:49.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/the-genesis-gv90-blows-the-bloody-doors-off-what-s-possible-in-ev-desi.png",
       "metadata_file": "output/2026-08-21/the-genesis-gv90-blows-the-bloody-doors-off-what-s-possible-in-ev-desi.json",
-      "published_at_utc": "2026-08-20T20:04:19Z",
+      "published_at_utc": "2026-08-21T10:52:14Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a875dc3000517df30ed94e7",
-      "zernio_scheduled_for_utc": "2026-08-20T20:42:38.000Z"
+      "zernio_post_id": "6a882ddd1ee4fd9f26103d2d",
+      "zernio_scheduled_for_utc": "2026-08-21T10:55:49.000Z"
     },
     "output/2026-08-21/the-next-big-thing-in-hydrogen-could-be-underground.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
