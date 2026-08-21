@@ -53151,7 +53151,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T09:07:39.000Z"
     },
     "output/2026-08-21/google-discover-is-getting-an-ai-chatbot-tuned-feed.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/google-discover-is-getting-an-ai-chatbot-tuned-feed.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53159,15 +53159,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a87791b2ecf6284cdab48c7",
           "zernio_scheduled_for_utc": "2026-08-20T22:01:41.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:53:47Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882e3b95dd6e71b7bbe953",
+          "zernio_scheduled_for_utc": "2026-08-21T11:05:16.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/google-discover-is-getting-an-ai-chatbot-tuned-feed.png",
       "metadata_file": "output/2026-08-21/google-discover-is-getting-an-ai-chatbot-tuned-feed.json",
-      "published_at_utc": "2026-08-20T22:01:00Z",
+      "published_at_utc": "2026-08-21T10:53:47Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a87791b2ecf6284cdab48c7",
-      "zernio_scheduled_for_utc": "2026-08-20T22:01:41.000Z"
+      "zernio_post_id": "6a882e3b95dd6e71b7bbe953",
+      "zernio_scheduled_for_utc": "2026-08-21T11:05:16.000Z"
     },
     "output/2026-08-21/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses-te.png": {
       "account_id": "6a88238877555aae01f162b8",
