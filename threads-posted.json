@@ -53395,9 +53395,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T11:06:37.000Z"
     },
     "output/2026-08-21/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T16:57:26Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88837570e19dcb901365c1",
+          "zernio_scheduled_for_utc": "2026-08-21T17:56:10.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T16:57:19Z",
           "zernio_mode": "scheduled",
@@ -53407,11 +53413,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site.png",
       "metadata_file": "output/2026-08-21/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site.json",
-      "published_at_utc": "2026-08-21T16:57:19Z",
+      "published_at_utc": "2026-08-21T16:57:26Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88836f68fcefaaa61a4696",
-      "zernio_scheduled_for_utc": "2026-08-21T17:54:10.000Z"
+      "zernio_post_id": "6a88837570e19dcb901365c1",
+      "zernio_scheduled_for_utc": "2026-08-21T17:56:10.000Z"
     },
     "output/2026-08-21/from-the-original-bluey-pilot-to-the-movie-at-d23-we-got-an-exclusive-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
