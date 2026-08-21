@@ -53213,7 +53213,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T10:16:16.000Z"
     },
     "output/2026-08-21/google-is-making-it-easier-to-add-a-website-as-a-preferred-source.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/google-is-making-it-easier-to-add-a-website-as-a-preferred-source.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53221,15 +53221,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a877fe6a3515ceb236ffa87",
           "zernio_scheduled_for_utc": "2026-08-20T23:27:09.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T11:23:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8835452d12a4c4dfcf9a2a",
+          "zernio_scheduled_for_utc": "2026-08-21T11:44:45.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/google-is-making-it-easier-to-add-a-website-as-a-preferred-source.png",
       "metadata_file": "output/2026-08-21/google-is-making-it-easier-to-add-a-website-as-a-preferred-source.json",
-      "published_at_utc": "2026-08-20T22:29:58Z",
+      "published_at_utc": "2026-08-21T11:23:49Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a877fe6a3515ceb236ffa87",
-      "zernio_scheduled_for_utc": "2026-08-20T23:27:09.000Z"
+      "zernio_post_id": "6a8835452d12a4c4dfcf9a2a",
+      "zernio_scheduled_for_utc": "2026-08-21T11:44:45.000Z"
     },
     "output/2026-08-21/google-s-pixel-11-is-predictably-slick-but-all-the-same-as-last-year-s.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
