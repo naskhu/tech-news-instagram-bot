@@ -56069,6 +56069,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a88a60b23db1649e842d2e7",
       "zernio_scheduled_for_utc": "2026-08-21T19:27:36.000Z"
+    },
+    "output/2026-08-22/new-york-replaces-san-francisco-as-the-top-spot-for-tech-jobs.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/new-york-replaces-san-francisco-as-the-top-spot-for-tech-jobs.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T19:25:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88a611a44ee15d2ffb8351",
+          "zernio_scheduled_for_utc": "2026-08-21T19:44:31.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/new-york-replaces-san-francisco-as-the-top-spot-for-tech-jobs.png",
+      "metadata_file": "output/2026-08-22/new-york-replaces-san-francisco-as-the-top-spot-for-tech-jobs.json",
+      "published_at_utc": "2026-08-21T19:25:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88a611a44ee15d2ffb8351",
+      "zernio_scheduled_for_utc": "2026-08-21T19:44:31.000Z"
     }
   }
 }
