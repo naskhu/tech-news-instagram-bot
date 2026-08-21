@@ -52999,6 +52999,25 @@
       "zernio_post_id": "6a875db6aca9f11a4f2f071b",
       "zernio_scheduled_for_utc": "2026-08-20T20:04:48.000Z"
     },
+    "output/2026-08-21/netflix-drops-trailers-for-blue-eye-samurai-season-2-cyberpunk-edgerun.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/netflix-drops-trailers-for-blue-eye-samurai-season-2-cyberpunk-edgerun.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T00:58:32Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a87a2b883dd1acf69d0a16f",
+          "zernio_scheduled_for_utc": "2026-08-21T01:55:43.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/netflix-drops-trailers-for-blue-eye-samurai-season-2-cyberpunk-edgerun.png",
+      "metadata_file": "output/2026-08-21/netflix-drops-trailers-for-blue-eye-samurai-season-2-cyberpunk-edgerun.json",
+      "published_at_utc": "2026-08-21T00:58:32Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a87a2b883dd1acf69d0a16f",
+      "zernio_scheduled_for_utc": "2026-08-21T01:55:43.000Z"
+    },
     "output/2026-08-21/new-9-11-documentary-finds-hope-in-the-horror.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/new-9-11-documentary-finds-hope-in-the-horror.txt",
