@@ -53627,7 +53627,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T11:03:15.000Z"
     },
     "output/2026-08-21/no-mic-needed-you-can-create-music-and-speech-with-adobe-s-ai-audio-to.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/no-mic-needed-you-can-create-music-and-speech-with-adobe-s-ai-audio-to.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53635,15 +53635,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a8794b48a68f1e8e417b0a9",
           "zernio_scheduled_for_utc": "2026-08-21T00:55:56.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T11:25:08Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a883594e45cabec7d7349be",
+          "zernio_scheduled_for_utc": "2026-08-21T12:17:37.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/no-mic-needed-you-can-create-music-and-speech-with-adobe-s-ai-audio-to.png",
       "metadata_file": "output/2026-08-21/no-mic-needed-you-can-create-music-and-speech-with-adobe-s-ai-audio-to.json",
-      "published_at_utc": "2026-08-20T23:58:44Z",
+      "published_at_utc": "2026-08-21T11:25:08Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8794b48a68f1e8e417b0a9",
-      "zernio_scheduled_for_utc": "2026-08-21T00:55:56.000Z"
+      "zernio_post_id": "6a883594e45cabec7d7349be",
+      "zernio_scheduled_for_utc": "2026-08-21T12:17:37.000Z"
     },
     "output/2026-08-21/now-chatgpt-connects-directly-to-apple-messages.png": {
       "account_id": "6a88238877555aae01f162b8",
