@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-21T14:12:25.168736+00:00",
+  "run_utc": "2026-08-21T14:55:54.512311+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-20T14:12:25.168896+00:00",
+  "cutoff_utc": "2026-08-20T14:55:54.512451+00:00",
   "eligible_story_count": 193,
   "sources": [
     {
@@ -27,7 +27,7 @@
       "rss_candidates": 19,
       "page_links": 25,
       "page_articles": 25,
-      "eligible_new": 3,
+      "eligible_new": 2,
       "already_processed": 24,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 1,
-      "already_processed": 30,
+      "eligible_new": 3,
+      "already_processed": 29,
       "older_than_window": 3,
       "metadata_errors": {}
     },
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 21,
+      "eligible_new": 20,
       "already_processed": 0,
-      "older_than_window": 11,
+      "older_than_window": 12,
       "metadata_errors": {}
     },
     {
@@ -303,19 +303,19 @@
         {
           "url": "https://www.theinformation.com/",
           "status": 200,
-          "links": 22,
+          "links": 21,
           "error": ""
         }
       ],
       "rss_candidates": 11,
-      "page_links": 22,
+      "page_links": 21,
       "page_articles": 9,
-      "eligible_new": 4,
+      "eligible_new": 5,
       "already_processed": 1,
-      "older_than_window": 11,
+      "older_than_window": 10,
       "metadata_errors": {
         "not_article_path": 10,
-        "http_429": 3
+        "http_429": 2
       }
     },
     {
@@ -390,13 +390,14 @@
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 43,
-      "eligible_new": 59,
+      "page_articles": 42,
+      "eligible_new": 58,
       "already_processed": 1,
       "older_than_window": 40,
       "metadata_errors": {
         "no_article_metadata": 5,
-        "missing_title": 2
+        "missing_title": 2,
+        "http_404": 1
       }
     },
     {
@@ -432,9 +433,9 @@
       "rss_candidates": 0,
       "page_links": 19,
       "page_articles": 19,
-      "eligible_new": 18,
+      "eligible_new": 16,
       "already_processed": 0,
-      "older_than_window": 1,
+      "older_than_window": 3,
       "metadata_errors": {}
     },
     {
@@ -499,12 +500,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 32,
+      "rss_candidates": 29,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 4,
+      "eligible_new": 3,
       "already_processed": 29,
-      "older_than_window": 19,
+      "older_than_window": 18,
       "metadata_errors": {}
     },
     {
@@ -570,8 +571,8 @@
       "rss_candidates": 15,
       "page_links": 30,
       "page_articles": 6,
-      "eligible_new": 3,
-      "already_processed": 14,
+      "eligible_new": 4,
+      "already_processed": 13,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
@@ -628,13 +629,13 @@
         {
           "url": "https://9to5google.com/",
           "status": 200,
-          "links": 28,
+          "links": 27,
           "error": ""
         },
         {
           "url": "https://9to5google.com/guides/news/",
           "status": 200,
-          "links": 12,
+          "links": 13,
           "error": ""
         }
       ],
@@ -642,8 +643,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 20,
-      "already_processed": 35,
-      "older_than_window": 53,
+      "already_processed": 34,
+      "older_than_window": 54,
       "metadata_errors": {}
     },
     {
@@ -675,8 +676,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 19,
-      "already_processed": 1,
+      "eligible_new": 20,
+      "already_processed": 2,
       "older_than_window": 39,
       "metadata_errors": {
         "no_article_metadata": 2
@@ -698,22 +699,22 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 29,
+          "links": 28,
           "error": ""
         },
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 4,
+          "links": 5,
           "error": ""
         }
       ],
       "rss_candidates": 20,
       "page_links": 33,
       "page_articles": 33,
-      "eligible_new": 18,
+      "eligible_new": 19,
       "already_processed": 0,
-      "older_than_window": 16,
+      "older_than_window": 15,
       "metadata_errors": {}
     }
   ]
