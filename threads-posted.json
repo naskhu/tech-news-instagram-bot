@@ -56344,6 +56344,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a88b343dbc7968e8f92a3ca",
       "zernio_scheduled_for_utc": "2026-08-21T20:23:59.000Z"
+    },
+    "output/2026-08-22/tiktok-reaches-400m-settlement-over-children-s-privacy-lawsuit.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/tiktok-reaches-400m-settlement-over-children-s-privacy-lawsuit.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T20:47:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88b95925ff7dcfff3a44f1",
+          "zernio_scheduled_for_utc": "2026-08-21T20:48:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/tiktok-reaches-400m-settlement-over-children-s-privacy-lawsuit.png",
+      "metadata_file": "output/2026-08-22/tiktok-reaches-400m-settlement-over-children-s-privacy-lawsuit.json",
+      "published_at_utc": "2026-08-21T20:47:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88b95925ff7dcfff3a44f1",
+      "zernio_scheduled_for_utc": "2026-08-21T20:48:05.000Z"
     }
   }
 }
