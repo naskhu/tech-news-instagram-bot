@@ -1,0 +1,23 @@
+{
+  "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+  "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. Such devices may install drivers or code components with file names similar to inpoutx64.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices",
+  "published_utc": "2026-08-21T14:54:49+00:00",
+  "output_day": "2026-08-21",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-21T16:04:20.831264+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2022/03/11/gamer.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-21/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices.png",
+  "caption": "output/2026-08-21/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices.txt"
+}
