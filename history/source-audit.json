@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-21T03:33:04.147882+00:00",
+  "run_utc": "2026-08-21T04:21:00.786940+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-20T03:33:04.148037+00:00",
-  "eligible_story_count": 221,
+  "cutoff_utc": "2026-08-20T04:21:00.787091+00:00",
+  "eligible_story_count": 216,
   "sources": [
     {
       "source": "TechCrunch",
@@ -145,8 +145,8 @@
       "already_processed": 1,
       "older_than_window": 14,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -252,7 +252,7 @@
       "page_articles": 40,
       "eligible_new": 13,
       "already_processed": 6,
-      "older_than_window": 93,
+      "older_than_window": 94,
       "metadata_errors": {}
     },
     {
@@ -504,8 +504,8 @@
       "rss_candidates": 30,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 6,
-      "already_processed": 27,
+      "eligible_new": 4,
+      "already_processed": 29,
       "older_than_window": 17,
       "metadata_errors": {}
     },
@@ -538,8 +538,8 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 4,
-      "already_processed": 3,
+      "eligible_new": 2,
+      "already_processed": 5,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -571,12 +571,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 36,
-      "page_articles": 7,
+      "page_articles": 8,
       "eligible_new": 4,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 29
+        "no_article_metadata": 3,
+        "http_429": 25
       }
     },
     {
@@ -642,9 +643,9 @@
       "rss_candidates": 95,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 23,
+      "eligible_new": 22,
       "already_processed": 35,
-      "older_than_window": 50,
+      "older_than_window": 51,
       "metadata_errors": {}
     },
     {

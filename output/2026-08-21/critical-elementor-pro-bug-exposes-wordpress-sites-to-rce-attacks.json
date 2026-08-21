@@ -1,0 +1,23 @@
+{
+  "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+  "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. Patchstack notes that updating does not remove malicious files uploaded during the exposure period and recommends a thorough examination.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks",
+  "published_utc": "2026-08-20T14:39:48+00:00",
+  "output_day": "2026-08-21",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-21T04:22:20.214347+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2025/11/03/WordPress.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-21/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks.png",
+  "caption": "output/2026-08-21/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks.txt"
+}
