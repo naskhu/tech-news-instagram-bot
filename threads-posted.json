@@ -56070,6 +56070,25 @@
       "zernio_post_id": "6a88ad7165e049c8bfaee6bb",
       "zernio_scheduled_for_utc": "2026-08-21T20:17:52.000Z"
     },
+    "output/2026-08-22/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-team.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-team.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T21:20:20Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88c114527407a794287906",
+          "zernio_scheduled_for_utc": "2026-08-21T21:21:04.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-team.png",
+      "metadata_file": "output/2026-08-22/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-team.json",
+      "published_at_utc": "2026-08-21T21:20:20Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88c114527407a794287906",
+      "zernio_scheduled_for_utc": "2026-08-21T21:21:04.000Z"
+    },
     "output/2026-08-22/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars.txt",
