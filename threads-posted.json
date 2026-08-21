@@ -53594,6 +53594,25 @@
       "zernio_post_id": "6a8835639dec57b09db2e50c",
       "zernio_scheduled_for_utc": "2026-08-21T11:59:42.000Z"
     },
+    "output/2026-08-21/google-s-pixel-11-makes-the-most-compelling-case-yet-to-switch-from-an.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-21/google-s-pixel-11-makes-the-most-compelling-case-yet-to-switch-from-an.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T16:06:56Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88779ff37b4e4204da3897",
+          "zernio_scheduled_for_utc": "2026-08-21T16:26:20.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/google-s-pixel-11-makes-the-most-compelling-case-yet-to-switch-from-an.png",
+      "metadata_file": "output/2026-08-21/google-s-pixel-11-makes-the-most-compelling-case-yet-to-switch-from-an.json",
+      "published_at_utc": "2026-08-21T16:06:56Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88779ff37b4e4204da3897",
+      "zernio_scheduled_for_utc": "2026-08-21T16:26:20.000Z"
+    },
     "output/2026-08-21/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted.png": {
       "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted.txt",
