@@ -53170,9 +53170,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T05:21:40.000Z"
     },
     "output/2026-08-21/consumer-reports-issues-stark-warning-about-electric-scooters.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/consumer-reports-issues-stark-warning-about-electric-scooters.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T16:56:50Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88835175ab0be4f1ac334f",
+          "zernio_scheduled_for_utc": "2026-08-21T16:59:25.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T16:56:41Z",
           "zernio_mode": "scheduled",
@@ -53182,11 +53188,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/consumer-reports-issues-stark-warning-about-electric-scooters.png",
       "metadata_file": "output/2026-08-21/consumer-reports-issues-stark-warning-about-electric-scooters.json",
-      "published_at_utc": "2026-08-21T16:56:41Z",
+      "published_at_utc": "2026-08-21T16:56:50Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8883492aa0f1c035cf27a0",
-      "zernio_scheduled_for_utc": "2026-08-21T16:57:25.000Z"
+      "zernio_post_id": "6a88835175ab0be4f1ac334f",
+      "zernio_scheduled_for_utc": "2026-08-21T16:59:25.000Z"
     },
     "output/2026-08-21/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
