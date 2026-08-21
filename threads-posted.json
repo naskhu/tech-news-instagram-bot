@@ -56670,6 +56670,25 @@
       "zernio_post_id": "6a88c747c077404e539481ae",
       "zernio_scheduled_for_utc": "2026-08-21T21:49:24.000Z"
     },
+    "output/2026-08-22/tesla-s-door-handles-lead-to-its-biggest-recall-yet.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/tesla-s-door-handles-lead-to-its-biggest-recall-yet.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T23:20:25Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88dd3854fac019f706b03a",
+          "zernio_scheduled_for_utc": "2026-08-21T23:39:44.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/tesla-s-door-handles-lead-to-its-biggest-recall-yet.png",
+      "metadata_file": "output/2026-08-22/tesla-s-door-handles-lead-to-its-biggest-recall-yet.json",
+      "published_at_utc": "2026-08-21T23:20:25Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88dd3854fac019f706b03a",
+      "zernio_scheduled_for_utc": "2026-08-21T23:39:44.000Z"
+    },
     "output/2026-08-22/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch-techcrunch.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch-techcrunch.txt",
