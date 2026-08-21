@@ -54645,9 +54645,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T12:12:59.000Z"
     },
     "output/2026-08-21/personalized-pricing-is-abhorrent-but-ftc-limits-may-increase-costs-cr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/personalized-pricing-is-abhorrent-but-ftc-limits-may-increase-costs-cr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T17:26:12Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a888a3477c91cd8edace11a",
+          "zernio_scheduled_for_utc": "2026-08-21T18:06:11.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T17:26:05Z",
           "zernio_mode": "scheduled",
@@ -54657,11 +54663,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/personalized-pricing-is-abhorrent-but-ftc-limits-may-increase-costs-cr.png",
       "metadata_file": "output/2026-08-21/personalized-pricing-is-abhorrent-but-ftc-limits-may-increase-costs-cr.json",
-      "published_at_utc": "2026-08-21T17:26:05Z",
+      "published_at_utc": "2026-08-21T17:26:12Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a888a2d77c91cd8edacdf39",
-      "zernio_scheduled_for_utc": "2026-08-21T18:04:11.000Z"
+      "zernio_post_id": "6a888a3477c91cd8edace11a",
+      "zernio_scheduled_for_utc": "2026-08-21T18:06:11.000Z"
     },
     "output/2026-08-21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targ.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
