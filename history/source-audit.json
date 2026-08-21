@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-21T19:53:15.033427+00:00",
+  "run_utc": "2026-08-21T20:18:48.870406+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-20T19:53:15.033629+00:00",
-  "eligible_story_count": 194,
+  "cutoff_utc": "2026-08-20T20:18:48.870569+00:00",
+  "eligible_story_count": 195,
   "sources": [
     {
       "source": "TechCrunch",
@@ -20,17 +20,19 @@
         {
           "url": "https://techcrunch.com/latest/",
           "status": 200,
-          "links": 25,
+          "links": 26,
           "error": ""
         }
       ],
       "rss_candidates": 18,
-      "page_links": 25,
+      "page_links": 26,
       "page_articles": 25,
       "eligible_new": 1,
-      "already_processed": 25,
+      "already_processed": 24,
       "older_than_window": 0,
-      "metadata_errors": {}
+      "metadata_errors": {
+        "http_403": 1
+      }
     },
     {
       "source": "The Verge",
@@ -56,8 +58,8 @@
       "page_links": 30,
       "page_articles": 30,
       "eligible_new": 1,
-      "already_processed": 31,
-      "older_than_window": 3,
+      "already_processed": 32,
+      "older_than_window": 2,
       "metadata_errors": {}
     },
     {
@@ -250,7 +252,7 @@
       "page_articles": 40,
       "eligible_new": 10,
       "already_processed": 6,
-      "older_than_window": 98,
+      "older_than_window": 97,
       "metadata_errors": {}
     },
     {
@@ -377,13 +379,13 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 21,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 29,
           "error": ""
         }
       ],
@@ -392,10 +394,10 @@
       "page_articles": 43,
       "eligible_new": 57,
       "already_processed": 1,
-      "older_than_window": 37,
+      "older_than_window": 36,
       "metadata_errors": {
-        "missing_title": 1,
         "no_article_metadata": 5,
+        "missing_title": 1,
         "http_404": 1
       }
     },
@@ -459,11 +461,13 @@
       ],
       "rss_candidates": 50,
       "page_links": 40,
-      "page_articles": 40,
+      "page_articles": 39,
       "eligible_new": 0,
       "already_processed": 62,
       "older_than_window": 6,
-      "metadata_errors": {}
+      "metadata_errors": {
+        "http_500": 1
+      }
     },
     {
       "source": "CNET",
@@ -494,19 +498,19 @@
         },
         {
           "url": "https://www.cnet.com/",
-          "status": 200,
-          "links": 7,
-          "error": ""
+          "status": 403,
+          "links": 0,
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://www.cnet.com/"
         }
       ],
       "rss_candidates": 22,
-      "page_links": 40,
-      "page_articles": 10,
+      "page_links": 33,
+      "page_articles": 0,
       "eligible_new": 0,
-      "already_processed": 22,
-      "older_than_window": 4,
+      "already_processed": 18,
+      "older_than_window": 2,
       "metadata_errors": {
-        "http_502": 30
+        "http_403": 33
       }
     },
     {
@@ -571,12 +575,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 29,
-      "page_articles": 8,
-      "eligible_new": 2,
-      "already_processed": 17,
+      "page_articles": 5,
+      "eligible_new": 1,
+      "already_processed": 16,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 21
+        "http_429": 24
       }
     },
     {
@@ -610,7 +614,7 @@
       "page_articles": 38,
       "eligible_new": 16,
       "already_processed": 71,
-      "older_than_window": 29,
+      "older_than_window": 28,
       "metadata_errors": {
         "http_403": 2
       }
@@ -644,9 +648,9 @@
       "rss_candidates": 94,
       "page_links": 40,
       "page_articles": 35,
-      "eligible_new": 16,
+      "eligible_new": 17,
       "already_processed": 25,
-      "older_than_window": 65,
+      "older_than_window": 67,
       "metadata_errors": {
         "http_403": 5
       }
@@ -709,14 +713,14 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 6,
+          "links": 7,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 34,
-      "page_articles": 34,
-      "eligible_new": 20,
+      "page_links": 35,
+      "page_articles": 35,
+      "eligible_new": 21,
       "already_processed": 0,
       "older_than_window": 14,
       "metadata_errors": {}
