@@ -54594,6 +54594,25 @@
       "zernio_post_id": "6a88358741d85273c8ad3bc7",
       "zernio_scheduled_for_utc": "2026-08-21T12:11:38.000Z"
     },
+    "output/2026-08-21/tesla-sunsets-its-solar-roof-tiles.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-21/tesla-sunsets-its-solar-roof-tiles.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T12:35:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88462916610900218ffe85",
+          "zernio_scheduled_for_utc": "2026-08-21T12:36:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/tesla-sunsets-its-solar-roof-tiles.png",
+      "metadata_file": "output/2026-08-21/tesla-sunsets-its-solar-roof-tiles.json",
+      "published_at_utc": "2026-08-21T12:35:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88462916610900218ffe85",
+      "zernio_scheduled_for_utc": "2026-08-21T12:36:38.000Z"
+    },
     "output/2026-08-21/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-.png": {
       "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-.txt",
