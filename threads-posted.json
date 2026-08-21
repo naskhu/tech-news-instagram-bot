@@ -52911,7 +52911,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T08:59:11.000Z"
     },
     "output/2026-08-21/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -52919,15 +52919,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a877390b553227c3fdd940c",
           "zernio_scheduled_for_utc": "2026-08-20T22:15:37.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:53:35Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882e2f95dd6e71b7bbe55f",
+          "zernio_scheduled_for_utc": "2026-08-21T11:03:55.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-.png",
       "metadata_file": "output/2026-08-21/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-.json",
-      "published_at_utc": "2026-08-20T21:37:20Z",
+      "published_at_utc": "2026-08-21T10:53:35Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a877390b553227c3fdd940c",
-      "zernio_scheduled_for_utc": "2026-08-20T22:15:37.000Z"
+      "zernio_post_id": "6a882e2f95dd6e71b7bbe55f",
+      "zernio_scheduled_for_utc": "2026-08-21T11:03:55.000Z"
     },
     "output/2026-08-21/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
