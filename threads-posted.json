@@ -56146,9 +56146,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T20:05:26.000Z"
     },
     "output/2026-08-22/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T19:56:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88ad8882dc5e62a2003470",
+          "zernio_scheduled_for_utc": "2026-08-21T20:55:42.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T19:56:51Z",
           "zernio_mode": "scheduled",
@@ -56158,11 +56164,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users.png",
       "metadata_file": "output/2026-08-22/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users.json",
-      "published_at_utc": "2026-08-21T19:56:51Z",
+      "published_at_utc": "2026-08-21T19:56:57Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88ad83fc7660e303a456d2",
-      "zernio_scheduled_for_utc": "2026-08-21T20:53:42.000Z"
+      "zernio_post_id": "6a88ad8882dc5e62a2003470",
+      "zernio_scheduled_for_utc": "2026-08-21T20:55:42.000Z"
     },
     "output/2026-08-22/motorola-s-grapheneos-phones-will-launch-in-2027-priced-higher-than-pi.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
