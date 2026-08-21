@@ -53795,9 +53795,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T11:52:21.000Z"
     },
     "output/2026-08-21/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T16:07:15Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8877b243c4c6445b1c4dc6",
+          "zernio_scheduled_for_utc": "2026-08-21T16:47:15.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T16:07:09Z",
           "zernio_mode": "scheduled",
@@ -53807,11 +53813,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts.png",
       "metadata_file": "output/2026-08-21/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts.json",
-      "published_at_utc": "2026-08-21T16:07:09Z",
+      "published_at_utc": "2026-08-21T16:07:15Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8877acd19bc27be13d8144",
-      "zernio_scheduled_for_utc": "2026-08-21T16:45:15.000Z"
+      "zernio_post_id": "6a8877b243c4c6445b1c4dc6",
+      "zernio_scheduled_for_utc": "2026-08-21T16:47:15.000Z"
     },
     "output/2026-08-21/hyperx-s-new-cloud-alpha-air-is-its-first-open-back-gaming-headset.png": {
       "account_id": "6a88238877555aae01f162b8",
