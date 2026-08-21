@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-21T11:47:26.125987+00:00",
+  "run_utc": "2026-08-21T12:33:35.812960+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-20T11:47:26.126153+00:00",
-  "eligible_story_count": 197,
+  "cutoff_utc": "2026-08-20T12:33:35.813110+00:00",
+  "eligible_story_count": 192,
   "sources": [
     {
       "source": "TechCrunch",
@@ -57,7 +57,7 @@
       "page_articles": 29,
       "eligible_new": 1,
       "already_processed": 31,
-      "older_than_window": 3,
+      "older_than_window": 2,
       "metadata_errors": {
         "no_article_metadata": 1
       }
@@ -113,7 +113,7 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 0,
+      "eligible_new": 1,
       "already_processed": 15,
       "older_than_window": 19,
       "metadata_errors": {}
@@ -154,35 +154,35 @@
       "rss_attempts": [
         {
           "url": "https://blogs.microsoft.com/?feed=rss2",
-          "status": 200,
-          "content_type": "application/rss+xml; charset=UTF-8",
-          "entries": 10,
-          "error": "",
-          "redirected_to": "https://blogs.microsoft.com/feed/"
+          "status": 403,
+          "content_type": "text/html; charset=UTF-8",
+          "entries": 0,
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://blogs.microsoft.com/?feed=rss2",
+          "redirected_to": "https://blogs.microsoft.com/?feed=rss2"
         },
         {
           "url": "https://blogs.microsoft.com/feed/",
-          "status": 200,
-          "content_type": "application/rss+xml; charset=UTF-8",
-          "entries": 10,
-          "error": "",
+          "status": 403,
+          "content_type": "text/html; charset=UTF-8",
+          "entries": 0,
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://blogs.microsoft.com/feed/",
           "redirected_to": "https://blogs.microsoft.com/feed/"
         }
       ],
       "page_attempts": [
         {
           "url": "https://blogs.microsoft.com/",
-          "status": 200,
-          "links": 14,
-          "error": ""
+          "status": 403,
+          "links": 0,
+          "error": "HTTPError:403 Client Error: Forbidden for url: https://blogs.microsoft.com/"
         }
       ],
-      "rss_candidates": 20,
-      "page_links": 14,
-      "page_articles": 14,
+      "rss_candidates": 0,
+      "page_links": 0,
+      "page_articles": 0,
       "eligible_new": 0,
-      "already_processed": 2,
-      "older_than_window": 12,
+      "already_processed": 0,
+      "older_than_window": 0,
       "metadata_errors": {}
     },
     {
@@ -214,9 +214,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 21,
+      "eligible_new": 19,
       "already_processed": 0,
-      "older_than_window": 11,
+      "older_than_window": 13,
       "metadata_errors": {}
     },
     {
@@ -252,7 +252,7 @@
       "page_articles": 40,
       "eligible_new": 13,
       "already_processed": 6,
-      "older_than_window": 96,
+      "older_than_window": 93,
       "metadata_errors": {}
     },
     {
@@ -351,7 +351,7 @@
       "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 12,
+      "eligible_new": 10,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -380,22 +380,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 21,
+          "links": 22,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 29,
+          "links": 28,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 43,
-      "eligible_new": 61,
+      "eligible_new": 58,
       "already_processed": 1,
-      "older_than_window": 38,
+      "older_than_window": 40,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 2
@@ -462,8 +462,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 3,
-      "already_processed": 59,
+      "eligible_new": 0,
+      "already_processed": 62,
       "older_than_window": 7,
       "metadata_errors": {}
     },
@@ -491,22 +491,22 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 34,
+          "links": 33,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 6,
+          "links": 7,
           "error": ""
         }
       ],
-      "rss_candidates": 33,
+      "rss_candidates": 30,
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 4,
       "already_processed": 29,
-      "older_than_window": 18,
+      "older_than_window": 17,
       "metadata_errors": {}
     },
     {
@@ -559,25 +559,25 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 28,
+          "links": 29,
           "error": ""
         },
         {
           "url": "https://www.bleepingcomputer.com/news/",
           "status": 200,
-          "links": 4,
+          "links": 3,
           "error": ""
         }
       ],
       "rss_candidates": 15,
       "page_links": 32,
-      "page_articles": 3,
-      "eligible_new": 2,
+      "page_articles": 6,
+      "eligible_new": 3,
       "already_processed": 13,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 28
+        "http_429": 25
       }
     },
     {
@@ -609,9 +609,9 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 6,
+      "eligible_new": 5,
       "already_processed": 86,
-      "older_than_window": 21,
+      "older_than_window": 22,
       "metadata_errors": {}
     },
     {
@@ -643,9 +643,9 @@
       "rss_candidates": 95,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 21,
+      "eligible_new": 22,
       "already_processed": 35,
-      "older_than_window": 52,
+      "older_than_window": 51,
       "metadata_errors": {}
     },
     {
@@ -677,9 +677,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 17,
+      "eligible_new": 19,
       "already_processed": 3,
-      "older_than_window": 43,
+      "older_than_window": 40,
       "metadata_errors": {
         "no_article_metadata": 2
       }
@@ -706,16 +706,16 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 4,
+          "links": 5,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 33,
-      "page_articles": 33,
+      "page_links": 34,
+      "page_articles": 34,
       "eligible_new": 19,
       "already_processed": 0,
-      "older_than_window": 15,
+      "older_than_window": 16,
       "metadata_errors": {}
     }
   ]
