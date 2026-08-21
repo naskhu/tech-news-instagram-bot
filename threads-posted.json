@@ -53676,7 +53676,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T00:00:53.000Z"
     },
     "output/2026-08-21/reverse-lookup-service-exposed-millions-of-photos-of-people-s-faces.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/reverse-lookup-service-exposed-millions-of-photos-of-people-s-faces.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53684,15 +53684,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a87662cf105cc9239f50ad0",
           "zernio_scheduled_for_utc": "2026-08-20T21:37:17.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:52:44Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882dfca6c594b10582f4a3",
+          "zernio_scheduled_for_utc": "2026-08-21T10:59:11.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/reverse-lookup-service-exposed-millions-of-photos-of-people-s-faces.png",
       "metadata_file": "output/2026-08-21/reverse-lookup-service-exposed-millions-of-photos-of-people-s-faces.json",
-      "published_at_utc": "2026-08-20T20:40:12Z",
+      "published_at_utc": "2026-08-21T10:52:44Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a87662cf105cc9239f50ad0",
-      "zernio_scheduled_for_utc": "2026-08-20T21:37:17.000Z"
+      "zernio_post_id": "6a882dfca6c594b10582f4a3",
+      "zernio_scheduled_for_utc": "2026-08-21T10:59:11.000Z"
     },
     "output/2026-08-21/riot-is-ending-development-on-its-league-of-legends-fighting-game.png": {
       "account_id": "6a88238877555aae01f162b8",
