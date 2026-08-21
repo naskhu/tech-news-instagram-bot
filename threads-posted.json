@@ -55745,9 +55745,14 @@
       "zernio_scheduled_for_utc": "2026-08-21T15:52:25.000Z"
     },
     "output/2026-08-21/waymo-hands-over-documents-in-nhtsa-s-child-collision-probe.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/waymo-hands-over-documents-in-nhtsa-s-child-collision-probe.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T18:04:28Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a88931d4fa99d3d330903dd"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T18:04:04Z",
           "zernio_mode": "publishNow",
@@ -55756,10 +55761,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/waymo-hands-over-documents-in-nhtsa-s-child-collision-probe.png",
       "metadata_file": "output/2026-08-21/waymo-hands-over-documents-in-nhtsa-s-child-collision-probe.json",
-      "published_at_utc": "2026-08-21T18:04:04Z",
+      "published_at_utc": "2026-08-21T18:04:28Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a8892fcd08f14e173d69d8e"
+      "zernio_post_id": "6a88931d4fa99d3d330903dd"
     },
     "output/2026-08-21/welcome-back-to-the-pitt.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
