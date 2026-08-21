@@ -53745,9 +53745,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T11:57:31.000Z"
     },
     "output/2026-08-21/las-vegas-is-about-to-become-robotaxi-city.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/las-vegas-is-about-to-become-robotaxi-city.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T14:11:13Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a885c81d691ed0883bbb40f",
+          "zernio_scheduled_for_utc": "2026-08-21T14:32:31.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T14:11:07Z",
           "zernio_mode": "scheduled",
@@ -53757,11 +53763,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/las-vegas-is-about-to-become-robotaxi-city.png",
       "metadata_file": "output/2026-08-21/las-vegas-is-about-to-become-robotaxi-city.json",
-      "published_at_utc": "2026-08-21T14:11:07Z",
+      "published_at_utc": "2026-08-21T14:11:13Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a885c7b3757e728c7a9b06f",
-      "zernio_scheduled_for_utc": "2026-08-21T14:30:31.000Z"
+      "zernio_post_id": "6a885c81d691ed0883bbb40f",
+      "zernio_scheduled_for_utc": "2026-08-21T14:32:31.000Z"
     },
     "output/2026-08-21/lenovo-coupon-codes-15-off-in-august-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
