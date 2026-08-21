@@ -53645,9 +53645,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T11:38:47.000Z"
     },
     "output/2026-08-21/i-tried-the-best-robotic-pool-cleaners-of-2026-beatbot-igarden-dreame.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/i-tried-the-best-robotic-pool-cleaners-of-2026-beatbot-igarden-dreame.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T11:50:41Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a883b9111552380cb15ec01",
+          "zernio_scheduled_for_utc": "2026-08-21T12:38:47.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T11:50:35Z",
           "zernio_mode": "scheduled",
@@ -53657,11 +53663,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/i-tried-the-best-robotic-pool-cleaners-of-2026-beatbot-igarden-dreame.png",
       "metadata_file": "output/2026-08-21/i-tried-the-best-robotic-pool-cleaners-of-2026-beatbot-igarden-dreame.json",
-      "published_at_utc": "2026-08-21T11:50:35Z",
+      "published_at_utc": "2026-08-21T11:50:41Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a883b8b19b3ed31705d8089",
-      "zernio_scheduled_for_utc": "2026-08-21T12:36:47.000Z"
+      "zernio_post_id": "6a883b9111552380cb15ec01",
+      "zernio_scheduled_for_utc": "2026-08-21T12:38:47.000Z"
     },
     "output/2026-08-21/i-used-this-mic-on-the-vergecast-and-it-s-just-15-right-now.png": {
       "account_id": "6a88238877555aae01f162b8",
