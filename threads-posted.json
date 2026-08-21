@@ -56794,6 +56794,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a88c13d2ac6f08a8e7df719",
       "zernio_scheduled_for_utc": "2026-08-21T22:19:49.000Z"
+    },
+    "output/2026-08-22/youtube-is-going-to-let-creators-make-24-7-streaming-stations.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/youtube-is-going-to-let-creators-make-24-7-streaming-stations.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T22:48:28Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88d5bce11a30ff7e112cc9",
+          "zernio_scheduled_for_utc": "2026-08-21T23:26:41.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/youtube-is-going-to-let-creators-make-24-7-streaming-stations.png",
+      "metadata_file": "output/2026-08-22/youtube-is-going-to-let-creators-make-24-7-streaming-stations.json",
+      "published_at_utc": "2026-08-21T22:48:28Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88d5bce11a30ff7e112cc9",
+      "zernio_scheduled_for_utc": "2026-08-21T23:26:41.000Z"
     }
   }
 }
