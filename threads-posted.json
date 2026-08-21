@@ -54319,6 +54319,25 @@
       "zernio_post_id": "6a883b69c9e26e8dfcf742f3",
       "zernio_scheduled_for_utc": "2026-08-21T12:12:59.000Z"
     },
+    "output/2026-08-21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targ.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targ.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T14:15:24Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a885d7b74ab5617685fc987",
+          "zernio_scheduled_for_utc": "2026-08-21T14:53:26.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targ.png",
+      "metadata_file": "output/2026-08-21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targ.json",
+      "published_at_utc": "2026-08-21T14:15:24Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a885d7b74ab5617685fc987",
+      "zernio_scheduled_for_utc": "2026-08-21T14:53:26.000Z"
+    },
     "output/2026-08-21/reverse-lookup-service-exposed-millions-of-photos-of-people-s-faces.png": {
       "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/reverse-lookup-service-exposed-millions-of-photos-of-people-s-faces.txt",
