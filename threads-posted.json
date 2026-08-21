@@ -56096,9 +56096,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T21:23:04.000Z"
     },
     "output/2026-08-22/best-vpn-service-for-2026-the-top-ranked-vpns-in-our-testing.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/best-vpn-service-for-2026-the-top-ranked-vpns-in-our-testing.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T21:20:38Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88c126527407a794287e13",
+          "zernio_scheduled_for_utc": "2026-08-21T21:41:59.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T21:20:33Z",
           "zernio_mode": "scheduled",
@@ -56108,11 +56114,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/best-vpn-service-for-2026-the-top-ranked-vpns-in-our-testing.png",
       "metadata_file": "output/2026-08-22/best-vpn-service-for-2026-the-top-ranked-vpns-in-our-testing.json",
-      "published_at_utc": "2026-08-21T21:20:33Z",
+      "published_at_utc": "2026-08-21T21:20:38Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88c121c8482384946a9920",
-      "zernio_scheduled_for_utc": "2026-08-21T21:39:59.000Z"
+      "zernio_post_id": "6a88c126527407a794287e13",
+      "zernio_scheduled_for_utc": "2026-08-21T21:41:59.000Z"
     },
     "output/2026-08-22/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
