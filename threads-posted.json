@@ -56271,9 +56271,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T21:01:49.000Z"
     },
     "output/2026-08-22/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes-9to.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes-9to.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T23:20:41Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88dd49adb9fcaac212a940",
+          "zernio_scheduled_for_utc": "2026-08-22T00:00:39.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T23:20:35Z",
           "zernio_mode": "scheduled",
@@ -56283,11 +56289,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes-9to.png",
       "metadata_file": "output/2026-08-22/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes-9to.json",
-      "published_at_utc": "2026-08-21T23:20:35Z",
+      "published_at_utc": "2026-08-21T23:20:41Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88dd4354fac019f706b608",
-      "zernio_scheduled_for_utc": "2026-08-21T23:58:39.000Z"
+      "zernio_post_id": "6a88dd49adb9fcaac212a940",
+      "zernio_scheduled_for_utc": "2026-08-22T00:00:39.000Z"
     },
     "output/2026-08-22/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
