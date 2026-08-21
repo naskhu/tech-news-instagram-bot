@@ -56146,9 +56146,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T20:05:26.000Z"
     },
     "output/2026-08-22/meta-may-be-working-on-a-physical-kill-switch-for-smart-glasses-sensor.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/meta-may-be-working-on-a-physical-kill-switch-for-smart-glasses-sensor.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T20:21:38Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88b351424b190942d982e8",
+          "zernio_scheduled_for_utc": "2026-08-21T20:42:54.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T20:21:30Z",
           "zernio_mode": "scheduled",
@@ -56158,11 +56164,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/meta-may-be-working-on-a-physical-kill-switch-for-smart-glasses-sensor.png",
       "metadata_file": "output/2026-08-22/meta-may-be-working-on-a-physical-kill-switch-for-smart-glasses-sensor.json",
-      "published_at_utc": "2026-08-21T20:21:30Z",
+      "published_at_utc": "2026-08-21T20:21:38Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88b34a7d89c4f6ed38b8b9",
-      "zernio_scheduled_for_utc": "2026-08-21T20:40:54.000Z"
+      "zernio_post_id": "6a88b351424b190942d982e8",
+      "zernio_scheduled_for_utc": "2026-08-21T20:42:54.000Z"
     },
     "output/2026-08-22/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
