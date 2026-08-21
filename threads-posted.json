@@ -52733,6 +52733,25 @@
       "zernio_post_id": "6a877390b553227c3fdd940c",
       "zernio_scheduled_for_utc": "2026-08-20T22:15:37.000Z"
     },
+    "output/2026-08-21/dave-bautista-is-now-kratos.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/dave-bautista-is-now-kratos.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T00:58:26Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a87a2b2655bd138a39e2d20",
+          "zernio_scheduled_for_utc": "2026-08-21T01:36:48.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/dave-bautista-is-now-kratos.png",
+      "metadata_file": "output/2026-08-21/dave-bautista-is-now-kratos.json",
+      "published_at_utc": "2026-08-21T00:58:26Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a87a2b2655bd138a39e2d20",
+      "zernio_scheduled_for_utc": "2026-08-21T01:36:48.000Z"
+    },
     "output/2026-08-21/europe-cancels-planned-upgrades-for-ariane-6-rocket.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/europe-cancels-planned-upgrades-for-ariane-6-rocket.txt",
