@@ -53740,6 +53740,25 @@
       "zernio_post_id": "6a87c7c2370a7f40cfc586df",
       "zernio_scheduled_for_utc": "2026-08-21T03:37:18.000Z"
     },
+    "output/2026-08-21/the-single-english-county-saying-no-to-palantir.png": {
+      "account_id": "6a778c2dd0fe733d1a563307",
+      "caption_file": "output/2026-08-21/the-single-english-county-saying-no-to-palantir.txt",
+      "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T06:07:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a87eb2f9481f3a98c23b516",
+          "zernio_scheduled_for_utc": "2026-08-21T06:08:27.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/the-single-english-county-saying-no-to-palantir.png",
+      "metadata_file": "output/2026-08-21/the-single-english-county-saying-no-to-palantir.json",
+      "published_at_utc": "2026-08-21T06:07:43Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a87eb2f9481f3a98c23b516",
+      "zernio_scheduled_for_utc": "2026-08-21T06:08:27.000Z"
+    },
     "output/2026-08-21/the-us-decides-maybe-it-shouldn-t-ban-all-foreign-inverters-just-ones-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-21/the-us-decides-maybe-it-shouldn-t-ban-all-foreign-inverters-just-ones-.txt",
