@@ -53581,7 +53581,7 @@
       "zernio_scheduled_for_utc": "2026-08-20T21:23:16.000Z"
     },
     "output/2026-08-21/ok-can-we-actually-cool-data-centers-with-our-pee.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/ok-can-we-actually-cool-data-centers-with-our-pee.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53589,15 +53589,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a876bab4e83777dd0cc1b4e",
           "zernio_scheduled_for_utc": "2026-08-20T21:04:21.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T10:52:51Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a882e038ddcfb35f4ddf1df",
+          "zernio_scheduled_for_utc": "2026-08-21T10:59:52.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/ok-can-we-actually-cool-data-centers-with-our-pee.png",
       "metadata_file": "output/2026-08-21/ok-can-we-actually-cool-data-centers-with-our-pee.json",
-      "published_at_utc": "2026-08-20T21:03:39Z",
+      "published_at_utc": "2026-08-21T10:52:51Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a876bab4e83777dd0cc1b4e",
-      "zernio_scheduled_for_utc": "2026-08-20T21:04:21.000Z"
+      "zernio_post_id": "6a882e038ddcfb35f4ddf1df",
+      "zernio_scheduled_for_utc": "2026-08-21T10:59:52.000Z"
     },
     "output/2026-08-21/one-in-five-enterprises-can-t-stop-a-runaway-ai-agent-s-spending-in-re.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
