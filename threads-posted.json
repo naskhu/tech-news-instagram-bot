@@ -53955,7 +53955,7 @@
       "zernio_scheduled_for_utc": "2026-08-21T04:15:08.000Z"
     },
     "output/2026-08-21/some-new-samsung-device-owners-are-running-into-rcs-messaging-issues-c.png": {
-      "account_id": "6a778c2dd0fe733d1a563307",
+      "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/some-new-samsung-device-owners-are-running-into-rcs-messaging-issues-c.txt",
       "channels": {
         "6a778c2dd0fe733d1a563307": {
@@ -53963,15 +53963,21 @@
           "zernio_mode": "scheduled",
           "zernio_post_id": "6a878778af0e21aa819c12d2",
           "zernio_scheduled_for_utc": "2026-08-20T23:40:39.000Z"
+        },
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T11:24:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88355727c8e588bd4276d6",
+          "zernio_scheduled_for_utc": "2026-08-21T11:53:43.000Z"
         }
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/some-new-samsung-device-owners-are-running-into-rcs-messaging-issues-c.png",
       "metadata_file": "output/2026-08-21/some-new-samsung-device-owners-are-running-into-rcs-messaging-issues-c.json",
-      "published_at_utc": "2026-08-20T23:02:16Z",
+      "published_at_utc": "2026-08-21T11:24:07Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a878778af0e21aa819c12d2",
-      "zernio_scheduled_for_utc": "2026-08-20T23:40:39.000Z"
+      "zernio_post_id": "6a88355727c8e588bd4276d6",
+      "zernio_scheduled_for_utc": "2026-08-21T11:53:43.000Z"
     },
     "output/2026-08-21/someone-targeted-security-researchers-using-a-fake-crypto-conference-a.png": {
       "account_id": "6a88238877555aae01f162b8",
