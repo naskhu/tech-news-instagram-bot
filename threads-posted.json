@@ -53519,6 +53519,25 @@
       "zernio_post_id": "6a8835452d12a4c4dfcf9a2a",
       "zernio_scheduled_for_utc": "2026-08-21T11:44:45.000Z"
     },
+    "output/2026-08-21/google-s-pixel-10a-is-a-great-deal-at-15-percent-off.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-21/google-s-pixel-10a-is-a-great-deal-at-15-percent-off.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-21T15:30:47Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a886f26cd6c5df7e79ed87c",
+          "zernio_scheduled_for_utc": "2026-08-21T15:31:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-21/google-s-pixel-10a-is-a-great-deal-at-15-percent-off.png",
+      "metadata_file": "output/2026-08-21/google-s-pixel-10a-is-a-great-deal-at-15-percent-off.json",
+      "published_at_utc": "2026-08-21T15:30:47Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a886f26cd6c5df7e79ed87c",
+      "zernio_scheduled_for_utc": "2026-08-21T15:31:30.000Z"
+    },
     "output/2026-08-21/google-s-pixel-11-is-predictably-slick-but-all-the-same-as-last-year-s.png": {
       "account_id": "6a88238877555aae01f162b8",
       "caption_file": "output/2026-08-21/google-s-pixel-11-is-predictably-slick-but-all-the-same-as-last-year-s.txt",
