@@ -56046,9 +56046,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T15:38:53.000Z"
     },
     "output/2026-08-22/anthropic-s-opus-4-6-is-a-smut-machine.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/anthropic-s-opus-4-6-is-a-smut-machine.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-21T23:20:18Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88dd32adb9fcaac212a276",
+          "zernio_scheduled_for_utc": "2026-08-21T23:22:49.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-21T23:20:09Z",
           "zernio_mode": "scheduled",
@@ -56058,11 +56064,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/anthropic-s-opus-4-6-is-a-smut-machine.png",
       "metadata_file": "output/2026-08-22/anthropic-s-opus-4-6-is-a-smut-machine.json",
-      "published_at_utc": "2026-08-21T23:20:09Z",
+      "published_at_utc": "2026-08-21T23:20:18Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88dd276ddc5a5aeac4add1",
-      "zernio_scheduled_for_utc": "2026-08-21T23:20:49.000Z"
+      "zernio_post_id": "6a88dd32adb9fcaac212a276",
+      "zernio_scheduled_for_utc": "2026-08-21T23:22:49.000Z"
     },
     "output/2026-08-22/apple-is-laying-off-staffers-working-on-the-vision-pro-and-siri.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
