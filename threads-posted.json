@@ -60309,6 +60309,25 @@
       "zernio_post_id": "6a89ff0652fbbf6e266b4be9",
       "zernio_scheduled_for_utc": "2026-08-22T19:59:32.000Z"
     },
+    "output/2026-08-23/8-popular-3d-printer-brands-ranked-bgr.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/8-popular-3d-printer-brands-ranked-bgr.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T20:18:17Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a040930447705671b1d36",
+          "zernio_scheduled_for_utc": "2026-08-22T20:19:01.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/8-popular-3d-printer-brands-ranked-bgr.png",
+      "metadata_file": "output/2026-08-23/8-popular-3d-printer-brands-ranked-bgr.json",
+      "published_at_utc": "2026-08-22T20:18:17Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8a040930447705671b1d36",
+      "zernio_scheduled_for_utc": "2026-08-22T20:19:01.000Z"
+    },
     "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.txt",
