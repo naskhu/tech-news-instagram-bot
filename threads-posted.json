@@ -57671,9 +57671,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T07:55:01.000Z"
     },
     "output/2026-08-22/supermicro-fires-several-employees-following-investigation-into-2-5-bi.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/supermicro-fires-several-employees-following-investigation-into-2-5-bi.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T08:55:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89641d5d893e342048ccec",
+          "zernio_scheduled_for_utc": "2026-08-22T09:17:10.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T08:55:52Z",
           "zernio_mode": "scheduled",
@@ -57683,11 +57689,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/supermicro-fires-several-employees-following-investigation-into-2-5-bi.png",
       "metadata_file": "output/2026-08-22/supermicro-fires-several-employees-following-investigation-into-2-5-bi.json",
-      "published_at_utc": "2026-08-22T08:55:52Z",
+      "published_at_utc": "2026-08-22T08:55:57Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a896418f0b046d1fcdd1e8d",
-      "zernio_scheduled_for_utc": "2026-08-22T09:15:10.000Z"
+      "zernio_post_id": "6a89641d5d893e342048ccec",
+      "zernio_scheduled_for_utc": "2026-08-22T09:17:10.000Z"
     },
     "output/2026-08-22/tesla-s-door-handles-lead-to-its-biggest-recall-yet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
