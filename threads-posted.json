@@ -58171,9 +58171,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T22:50:51.000Z"
     },
     "output/2026-08-22/openai-says-california-should-strengthen-its-ai-safety-bill.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/openai-says-california-should-strengthen-its-ai-safety-bill.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T16:46:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89d256666b281b70fea816",
+          "zernio_scheduled_for_utc": "2026-08-22T16:48:50.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T16:46:06Z",
           "zernio_mode": "scheduled",
@@ -58183,11 +58189,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/openai-says-california-should-strengthen-its-ai-safety-bill.png",
       "metadata_file": "output/2026-08-22/openai-says-california-should-strengthen-its-ai-safety-bill.json",
-      "published_at_utc": "2026-08-22T16:46:06Z",
+      "published_at_utc": "2026-08-22T16:46:14Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89d24e666b281b70fea4a4",
-      "zernio_scheduled_for_utc": "2026-08-22T16:46:50.000Z"
+      "zernio_post_id": "6a89d256666b281b70fea816",
+      "zernio_scheduled_for_utc": "2026-08-22T16:48:50.000Z"
     },
     "output/2026-08-22/over-one-million-people-have-clicked-linkedin-s-ai-slop-button.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
