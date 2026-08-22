@@ -59521,9 +59521,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T15:59:44.000Z"
     },
     "output/2026-08-22/why-did-evga-stop-making-gpus-bgr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/why-did-evga-stop-making-gpus-bgr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T15:57:30Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89c6ea38dbb67e9707323c",
+          "zernio_scheduled_for_utc": "2026-08-22T16:37:34.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T15:57:25Z",
           "zernio_mode": "scheduled",
@@ -59533,11 +59539,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/why-did-evga-stop-making-gpus-bgr.png",
       "metadata_file": "output/2026-08-22/why-did-evga-stop-making-gpus-bgr.json",
-      "published_at_utc": "2026-08-22T15:57:25Z",
+      "published_at_utc": "2026-08-22T15:57:30Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89c6e48455d3d30b6c0a3e",
-      "zernio_scheduled_for_utc": "2026-08-22T16:35:34.000Z"
+      "zernio_post_id": "6a89c6ea38dbb67e9707323c",
+      "zernio_scheduled_for_utc": "2026-08-22T16:37:34.000Z"
     },
     "output/2026-08-22/why-do-companies-switch-from-google-workspace-to-microsoft-365-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
