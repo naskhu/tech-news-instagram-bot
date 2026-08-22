@@ -57196,9 +57196,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T02:19:20.000Z"
     },
     "output/2026-08-22/micron-commits-10-billion-to-new-us-based-research-labs-boise-hub-to-t.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/micron-commits-10-billion-to-new-us-based-research-labs-boise-hub-to-t.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T08:56:20Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8964340594c72255367e24",
+          "zernio_scheduled_for_utc": "2026-08-22T09:55:00.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T08:56:15Z",
           "zernio_mode": "scheduled",
@@ -57208,11 +57214,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/micron-commits-10-billion-to-new-us-based-research-labs-boise-hub-to-t.png",
       "metadata_file": "output/2026-08-22/micron-commits-10-billion-to-new-us-based-research-labs-boise-hub-to-t.json",
-      "published_at_utc": "2026-08-22T08:56:15Z",
+      "published_at_utc": "2026-08-22T08:56:20Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89642ebb355929602fc326",
-      "zernio_scheduled_for_utc": "2026-08-22T09:53:00.000Z"
+      "zernio_post_id": "6a8964340594c72255367e24",
+      "zernio_scheduled_for_utc": "2026-08-22T09:55:00.000Z"
     },
     "output/2026-08-22/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
