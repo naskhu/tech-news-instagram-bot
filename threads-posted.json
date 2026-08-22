@@ -59993,9 +59993,14 @@
       "zernio_scheduled_for_utc": "2026-08-22T11:08:07.000Z"
     },
     "output/2026-08-22/your-oled-tv-screen-was-probably-made-by-lg-here-s-why-bgr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/your-oled-tv-screen-was-probably-made-by-lg-here-s-why-bgr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T17:43:16Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a89dfa435b5676ce1e18cfc"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T17:42:54Z",
           "zernio_mode": "publishNow",
@@ -60004,10 +60009,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/your-oled-tv-screen-was-probably-made-by-lg-here-s-why-bgr.png",
       "metadata_file": "output/2026-08-22/your-oled-tv-screen-was-probably-made-by-lg-here-s-why-bgr.json",
-      "published_at_utc": "2026-08-22T17:42:54Z",
+      "published_at_utc": "2026-08-22T17:43:16Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a89df8f33aa86f2670315ae"
+      "zernio_post_id": "6a89dfa435b5676ce1e18cfc"
     },
     "output/2026-08-22/youtube-is-going-to-let-creators-make-24-7-streaming-stations.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
