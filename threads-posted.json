@@ -57996,9 +57996,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T10:01:07.000Z"
     },
     "output/2026-08-22/spending-on-physical-games-falls-to-lowest-on-record-since-1995-us-con.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/spending-on-physical-games-falls-to-lowest-on-record-since-1995-us-con.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T10:46:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a897e2191c1b1f61df6068e",
+          "zernio_scheduled_for_utc": "2026-08-22T11:27:02.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T10:46:52Z",
           "zernio_mode": "scheduled",
@@ -58008,11 +58014,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/spending-on-physical-games-falls-to-lowest-on-record-since-1995-us-con.png",
       "metadata_file": "output/2026-08-22/spending-on-physical-games-falls-to-lowest-on-record-since-1995-us-con.json",
-      "published_at_utc": "2026-08-22T10:46:52Z",
+      "published_at_utc": "2026-08-22T10:46:57Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a897e1b91c1b1f61df60440",
-      "zernio_scheduled_for_utc": "2026-08-22T11:25:02.000Z"
+      "zernio_post_id": "6a897e2191c1b1f61df6068e",
+      "zernio_scheduled_for_utc": "2026-08-22T11:27:02.000Z"
     },
     "output/2026-08-22/supermicro-fires-several-employees-following-investigation-into-2-5-bi.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
