@@ -60535,9 +60535,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T20:41:17.000Z"
     },
     "output/2026-08-23/this-handy-google-pixel-feature-can-help-solve-annoying-android-blueto.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/this-handy-google-pixel-feature-can-help-solve-annoying-android-blueto.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T19:57:17Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89ff1d6a9a2aa6b0e16dc3",
+          "zernio_scheduled_for_utc": "2026-08-22T20:37:22.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T19:57:12Z",
           "zernio_mode": "scheduled",
@@ -60547,11 +60553,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/this-handy-google-pixel-feature-can-help-solve-annoying-android-blueto.png",
       "metadata_file": "output/2026-08-23/this-handy-google-pixel-feature-can-help-solve-annoying-android-blueto.json",
-      "published_at_utc": "2026-08-22T19:57:12Z",
+      "published_at_utc": "2026-08-22T19:57:17Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89ff1752fbbf6e266b4ffb",
-      "zernio_scheduled_for_utc": "2026-08-22T20:35:22.000Z"
+      "zernio_post_id": "6a89ff1d6a9a2aa6b0e16dc3",
+      "zernio_scheduled_for_utc": "2026-08-22T20:37:22.000Z"
     }
   }
 }
