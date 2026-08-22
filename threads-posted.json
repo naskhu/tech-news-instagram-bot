@@ -56496,9 +56496,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T06:28:33.000Z"
     },
     "output/2026-08-22/elegoo-centauri-2-combo-review-a-budget-friendly-printer-made-even-mor.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/elegoo-centauri-2-combo-review-a-budget-friendly-printer-made-even-mor.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T07:52:57Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89555912bc468305261485",
+          "zernio_scheduled_for_utc": "2026-08-22T08:51:46.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T07:52:52Z",
           "zernio_mode": "scheduled",
@@ -56508,11 +56514,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/elegoo-centauri-2-combo-review-a-budget-friendly-printer-made-even-mor.png",
       "metadata_file": "output/2026-08-22/elegoo-centauri-2-combo-review-a-budget-friendly-printer-made-even-mor.json",
-      "published_at_utc": "2026-08-22T07:52:52Z",
+      "published_at_utc": "2026-08-22T07:52:57Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a895553be524bfd3fa40254",
-      "zernio_scheduled_for_utc": "2026-08-22T08:49:46.000Z"
+      "zernio_post_id": "6a89555912bc468305261485",
+      "zernio_scheduled_for_utc": "2026-08-22T08:51:46.000Z"
     },
     "output/2026-08-22/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes-9to.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
