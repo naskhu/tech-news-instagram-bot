@@ -57853,9 +57853,14 @@
       "zernio_scheduled_for_utc": "2026-08-22T16:39:35.000Z"
     },
     "output/2026-08-22/is-nintendo-switch-online-still-worth-it-in-2026-engadget.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/is-nintendo-switch-online-still-worth-it-in-2026-engadget.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T18:27:29Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a89e9fd9a9927b43d0c2d56"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T18:27:03Z",
           "zernio_mode": "publishNow",
@@ -57864,10 +57869,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/is-nintendo-switch-online-still-worth-it-in-2026-engadget.png",
       "metadata_file": "output/2026-08-22/is-nintendo-switch-online-still-worth-it-in-2026-engadget.json",
-      "published_at_utc": "2026-08-22T18:27:03Z",
+      "published_at_utc": "2026-08-22T18:27:29Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a89e9e09a9927b43d0c21af"
+      "zernio_post_id": "6a89e9fd9a9927b43d0c2d56"
     },
     "output/2026-08-22/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
