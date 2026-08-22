@@ -57670,6 +57670,23 @@
       "zernio_post_id": "6a88e326592ebd65ffaa04b1",
       "zernio_scheduled_for_utc": "2026-08-22T00:44:19.000Z"
     },
+    "output/2026-08-22/iphone-18-pro-event-date-when-apple-announced-its-event-over-the-last-.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/iphone-18-pro-event-date-when-apple-announced-its-event-over-the-last-.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T17:42:13Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a89df6533aa86f267030d98"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/iphone-18-pro-event-date-when-apple-announced-its-event-over-the-last-.png",
+      "metadata_file": "output/2026-08-22/iphone-18-pro-event-date-when-apple-announced-its-event-over-the-last-.json",
+      "published_at_utc": "2026-08-22T17:42:13Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a89df6533aa86f267030d98"
+    },
     "output/2026-08-22/iphone-18-pro-release-date-here-s-when-apple-s-new-flagship-is-coming-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/iphone-18-pro-release-date-here-s-when-apple-s-new-flagship-is-coming-.txt",
