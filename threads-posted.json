@@ -59071,9 +59071,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T09:03:45.000Z"
     },
     "output/2026-08-22/us-authorities-say-siemens-controllers-used-for-water-and-other-infras.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/us-authorities-say-siemens-controllers-used-for-water-and-other-infras.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T14:44:08Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89b5b7993912520d665b76",
+          "zernio_scheduled_for_utc": "2026-08-22T15:24:14.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T14:44:02Z",
           "zernio_mode": "scheduled",
@@ -59083,11 +59089,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/us-authorities-say-siemens-controllers-used-for-water-and-other-infras.png",
       "metadata_file": "output/2026-08-22/us-authorities-say-siemens-controllers-used-for-water-and-other-infras.json",
-      "published_at_utc": "2026-08-22T14:44:02Z",
+      "published_at_utc": "2026-08-22T14:44:08Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89b5b2a1fbbb81fe8bc046",
-      "zernio_scheduled_for_utc": "2026-08-22T15:22:14.000Z"
+      "zernio_post_id": "6a89b5b7993912520d665b76",
+      "zernio_scheduled_for_utc": "2026-08-22T15:24:14.000Z"
     },
     "output/2026-08-22/walk-through-a-3d-cyberpunk-city-built-purely-from-ascii-characters-a-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
