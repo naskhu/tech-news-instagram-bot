@@ -58171,9 +58171,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T17:18:37.000Z"
     },
     "output/2026-08-22/not-futura-not-times-new-roman-this-is-2026-s-most-popular-font-on-the.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/not-futura-not-times-new-roman-this-is-2026-s-most-popular-font-on-the.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T17:19:12Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89da0f46312f35beba8d43",
+          "zernio_scheduled_for_utc": "2026-08-22T17:40:32.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T17:19:06Z",
           "zernio_mode": "scheduled",
@@ -58183,11 +58189,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/not-futura-not-times-new-roman-this-is-2026-s-most-popular-font-on-the.png",
       "metadata_file": "output/2026-08-22/not-futura-not-times-new-roman-this-is-2026-s-most-popular-font-on-the.json",
-      "published_at_utc": "2026-08-22T17:19:06Z",
+      "published_at_utc": "2026-08-22T17:19:12Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89da0946312f35beba8a6a",
-      "zernio_scheduled_for_utc": "2026-08-22T17:38:32.000Z"
+      "zernio_post_id": "6a89da0f46312f35beba8d43",
+      "zernio_scheduled_for_utc": "2026-08-22T17:40:32.000Z"
     },
     "output/2026-08-22/novelkeys-made-a-beige-mouse-to-go-with-its-beige-keyboards.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
