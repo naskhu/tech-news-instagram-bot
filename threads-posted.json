@@ -60584,6 +60584,25 @@
       "zernio_post_id": "6a89fba93b94010f1245ae1a",
       "zernio_scheduled_for_utc": "2026-08-22T20:41:17.000Z"
     },
+    "output/2026-08-23/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-you-.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-you-.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T20:18:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a041730447705671b2005",
+          "zernio_scheduled_for_utc": "2026-08-22T20:37:56.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-you-.png",
+      "metadata_file": "output/2026-08-23/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-you-.json",
+      "published_at_utc": "2026-08-22T20:18:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8a041730447705671b2005",
+      "zernio_scheduled_for_utc": "2026-08-22T20:37:56.000Z"
+    },
     "output/2026-08-23/this-handy-google-pixel-feature-can-help-solve-annoying-android-blueto.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/this-handy-google-pixel-feature-can-help-solve-annoying-android-blueto.txt",
