@@ -58421,9 +58421,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T10:22:53.000Z"
     },
     "output/2026-08-22/save-532-on-a-480-hz-oled-gaming-monitor-amazon-drops-a-massive-53-dis.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/save-532-on-a-480-hz-oled-gaming-monitor-amazon-drops-a-massive-53-dis.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T14:44:20Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89b5c4a6beb224f0a1739e",
+          "zernio_scheduled_for_utc": "2026-08-22T15:43:09.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T14:44:14Z",
           "zernio_mode": "scheduled",
@@ -58433,11 +58439,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/save-532-on-a-480-hz-oled-gaming-monitor-amazon-drops-a-massive-53-dis.png",
       "metadata_file": "output/2026-08-22/save-532-on-a-480-hz-oled-gaming-monitor-amazon-drops-a-massive-53-dis.json",
-      "published_at_utc": "2026-08-22T14:44:14Z",
+      "published_at_utc": "2026-08-22T14:44:20Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89b5bea6beb224f0a172ec",
-      "zernio_scheduled_for_utc": "2026-08-22T15:41:09.000Z"
+      "zernio_post_id": "6a89b5c4a6beb224f0a1739e",
+      "zernio_scheduled_for_utc": "2026-08-22T15:43:09.000Z"
     },
     "output/2026-08-22/save-900-on-this-2-in-1-asus-rog-touchscreen-gaming-laptop-with-64gb-r.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
