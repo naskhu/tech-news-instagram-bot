@@ -60285,9 +60285,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T06:34:11.000Z"
     },
     "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T19:04:44Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89f2cc515dde0e80fefefb",
+          "zernio_scheduled_for_utc": "2026-08-22T19:26:03.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T19:04:38Z",
           "zernio_mode": "scheduled",
@@ -60297,11 +60303,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.png",
       "metadata_file": "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.json",
-      "published_at_utc": "2026-08-22T19:04:38Z",
+      "published_at_utc": "2026-08-22T19:04:44Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89f2c6b69675f6d61eef85",
-      "zernio_scheduled_for_utc": "2026-08-22T19:24:03.000Z"
+      "zernio_post_id": "6a89f2cc515dde0e80fefefb",
+      "zernio_scheduled_for_utc": "2026-08-22T19:26:03.000Z"
     },
     "output/2026-08-23/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperfo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
