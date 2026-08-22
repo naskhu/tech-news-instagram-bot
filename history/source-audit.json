@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-22T09:56:00.190041+00:00",
+  "run_utc": "2026-08-22T10:16:54.549241+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-21T09:56:00.190242+00:00",
-  "eligible_story_count": 129,
+  "cutoff_utc": "2026-08-21T10:16:54.549365+00:00",
+  "eligible_story_count": 125,
   "sources": [
     {
       "source": "TechCrunch",
@@ -56,7 +56,7 @@
       "page_links": 30,
       "page_articles": 30,
       "eligible_new": 0,
-      "already_processed": 32,
+      "already_processed": 31,
       "older_than_window": 2,
       "metadata_errors": {}
     },
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 13,
+      "eligible_new": 12,
       "already_processed": 0,
-      "older_than_window": 19,
+      "older_than_window": 20,
       "metadata_errors": {}
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 10,
       "already_processed": 7,
-      "older_than_window": 97,
+      "older_than_window": 100,
       "metadata_errors": {}
     },
     {
@@ -392,7 +392,7 @@
       "page_articles": 43,
       "eligible_new": 53,
       "already_processed": 0,
-      "older_than_window": 40,
+      "older_than_window": 39,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 1,
@@ -569,12 +569,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 28,
-      "page_articles": 7,
+      "page_articles": 8,
       "eligible_new": 0,
       "already_processed": 18,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 21
+        "http_429": 20
       }
     },
     {
@@ -674,9 +674,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 4,
-      "already_processed": 18,
-      "older_than_window": 40,
+      "eligible_new": 1,
+      "already_processed": 22,
+      "older_than_window": 38,
       "metadata_errors": {
         "no_article_metadata": 2
       }
