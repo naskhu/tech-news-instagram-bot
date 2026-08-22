@@ -60660,9 +60660,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T21:21:33.000Z"
     },
     "output/2026-08-23/sending-a-text-with-90s-tech-looked-totally-different-than-today-bgr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/sending-a-text-with-90s-tech-looked-totally-different-than-today-bgr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T21:19:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a124b3949d5807b33c89d",
+          "zernio_scheduled_for_utc": "2026-08-22T21:40:28.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T21:19:01Z",
           "zernio_mode": "scheduled",
@@ -60672,11 +60678,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/sending-a-text-with-90s-tech-looked-totally-different-than-today-bgr.png",
       "metadata_file": "output/2026-08-23/sending-a-text-with-90s-tech-looked-totally-different-than-today-bgr.json",
-      "published_at_utc": "2026-08-22T21:19:01Z",
+      "published_at_utc": "2026-08-22T21:19:07Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a1245303a39f83fa182dc",
-      "zernio_scheduled_for_utc": "2026-08-22T21:38:28.000Z"
+      "zernio_post_id": "6a8a124b3949d5807b33c89d",
+      "zernio_scheduled_for_utc": "2026-08-22T21:40:28.000Z"
     },
     "output/2026-08-23/the-difference-between-shot-with-imax-and-filmed-for-imax-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
