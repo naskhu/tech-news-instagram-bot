@@ -57071,9 +57071,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T20:05:26.000Z"
     },
     "output/2026-08-22/lg-display-introduces-new-oled-deposition-technique-that-uses-lithogra.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/lg-display-introduces-new-oled-deposition-technique-that-uses-lithogra.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T08:23:51Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a895c976e94af5604d34c7d",
+          "zernio_scheduled_for_utc": "2026-08-22T09:22:40.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T08:23:46Z",
           "zernio_mode": "scheduled",
@@ -57083,11 +57089,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/lg-display-introduces-new-oled-deposition-technique-that-uses-lithogra.png",
       "metadata_file": "output/2026-08-22/lg-display-introduces-new-oled-deposition-technique-that-uses-lithogra.json",
-      "published_at_utc": "2026-08-22T08:23:46Z",
+      "published_at_utc": "2026-08-22T08:23:51Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a895c91cdc16d2d6a471644",
-      "zernio_scheduled_for_utc": "2026-08-22T09:20:40.000Z"
+      "zernio_post_id": "6a895c976e94af5604d34c7d",
+      "zernio_scheduled_for_utc": "2026-08-22T09:22:40.000Z"
     },
     "output/2026-08-22/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-ts.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
