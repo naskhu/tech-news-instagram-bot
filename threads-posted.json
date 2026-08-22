@@ -56371,9 +56371,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T22:00:54.000Z"
     },
     "output/2026-08-22/asrock-steel-legend-sl-1200p-power-supply-review-combines-genuine-plat.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/asrock-steel-legend-sl-1200p-power-supply-review-combines-genuine-plat.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T11:18:22Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89857ea96de6ad9398e118",
+          "zernio_scheduled_for_utc": "2026-08-22T11:58:27.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T11:18:17Z",
           "zernio_mode": "scheduled",
@@ -56383,11 +56389,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/asrock-steel-legend-sl-1200p-power-supply-review-combines-genuine-plat.png",
       "metadata_file": "output/2026-08-22/asrock-steel-legend-sl-1200p-power-supply-review-combines-genuine-plat.json",
-      "published_at_utc": "2026-08-22T11:18:17Z",
+      "published_at_utc": "2026-08-22T11:18:22Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a898578a288920de0959da1",
-      "zernio_scheduled_for_utc": "2026-08-22T11:56:27.000Z"
+      "zernio_post_id": "6a89857ea96de6ad9398e118",
+      "zernio_scheduled_for_utc": "2026-08-22T11:58:27.000Z"
     },
     "output/2026-08-22/back-to-back-amazon-cpu-scam-delivers-empty-ryzen-5-9600x-boxes-in-72-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
