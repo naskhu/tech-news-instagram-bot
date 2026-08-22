@@ -60909,6 +60909,25 @@
       "zernio_post_id": "6a8a124b3949d5807b33c89d",
       "zernio_scheduled_for_utc": "2026-08-22T21:40:28.000Z"
     },
+    "output/2026-08-23/the-company-that-just-opened-america-s-newest-battery-plant-says-solid.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/the-company-that-just-opened-america-s-newest-battery-plant-says-solid.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T21:59:22Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a1bbaae2212d569a38f17",
+          "zernio_scheduled_for_utc": "2026-08-22T22:56:16.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/the-company-that-just-opened-america-s-newest-battery-plant-says-solid.png",
+      "metadata_file": "output/2026-08-23/the-company-that-just-opened-america-s-newest-battery-plant-says-solid.json",
+      "published_at_utc": "2026-08-22T21:59:22Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8a1bbaae2212d569a38f17",
+      "zernio_scheduled_for_utc": "2026-08-22T22:56:16.000Z"
+    },
     "output/2026-08-23/the-difference-between-shot-with-imax-and-filmed-for-imax-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/the-difference-between-shot-with-imax-and-filmed-for-imax-engadget.txt",
