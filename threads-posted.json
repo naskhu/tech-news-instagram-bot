@@ -56392,6 +56392,23 @@
       "zernio_post_id": "6a89277a08023d23548c434b",
       "zernio_scheduled_for_utc": "2026-08-22T04:58:32.000Z"
     },
+    "output/2026-08-22/amazon-devices-are-the-latest-casualties-of-the-memory-shortage-price-.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/amazon-devices-are-the-latest-casualties-of-the-memory-shortage-price-.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T18:27:50Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a89ea179a9927b43d0c37c3"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/amazon-devices-are-the-latest-casualties-of-the-memory-shortage-price-.png",
+      "metadata_file": "output/2026-08-22/amazon-devices-are-the-latest-casualties-of-the-memory-shortage-price-.json",
+      "published_at_utc": "2026-08-22T18:27:50Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a89ea179a9927b43d0c37c3"
+    },
     "output/2026-08-22/amazon-just-hiked-the-prices-for-echo-fire-tv-and-kindle-products-by-u.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/amazon-just-hiked-the-prices-for-echo-fire-tv-and-kindle-products-by-u.txt",
