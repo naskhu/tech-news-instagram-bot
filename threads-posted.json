@@ -60535,9 +60535,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T20:18:27.000Z"
     },
     "output/2026-08-23/how-to-limit-instagram-from-using-your-data-for-ai-and-ads-engadget.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/how-to-limit-instagram-from-using-your-data-for-ai-and-ads-engadget.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T20:46:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a0a8f1c990830007107a6",
+          "zernio_scheduled_for_utc": "2026-08-22T21:44:56.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T20:46:02Z",
           "zernio_mode": "scheduled",
@@ -60547,11 +60553,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/how-to-limit-instagram-from-using-your-data-for-ai-and-ads-engadget.png",
       "metadata_file": "output/2026-08-23/how-to-limit-instagram-from-using-your-data-for-ai-and-ads-engadget.json",
-      "published_at_utc": "2026-08-22T20:46:02Z",
+      "published_at_utc": "2026-08-22T20:46:07Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a0a89d6ea406b52f12391",
-      "zernio_scheduled_for_utc": "2026-08-22T21:42:56.000Z"
+      "zernio_post_id": "6a8a0a8f1c990830007107a6",
+      "zernio_scheduled_for_utc": "2026-08-22T21:44:56.000Z"
     },
     "output/2026-08-23/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-o.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
