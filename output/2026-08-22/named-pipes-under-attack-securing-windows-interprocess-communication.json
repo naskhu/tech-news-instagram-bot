@@ -1,0 +1,23 @@
+{
+  "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+  "summary": "Even an authenticated client may send: A privileged service that converts such input directly into file, registry, process, or command-line operations may become a confused deputy: the attacker supplies the instruction, while the service supplies the privileges.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication",
+  "published_utc": "2026-08-22T13:00:09+00:00",
+  "output_day": "2026-08-22",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-22T13:18:00.271927+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/posts/2026/08/18/0_named-pipe-header-image.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 3,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-22/named-pipes-under-attack-securing-windows-interprocess-communication.png",
+  "caption": "output/2026-08-22/named-pipes-under-attack-securing-windows-interprocess-communication.txt"
+}
