@@ -60935,9 +60935,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T23:18:16.000Z"
     },
     "output/2026-08-23/nasa-axes-link-rescue-mission-to-save-swift-space-telescope.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/nasa-axes-link-rescue-mission-to-save-swift-space-telescope.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T23:17:58Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a2e25a6f752548a1b184c",
+          "zernio_scheduled_for_utc": "2026-08-23T00:16:45.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T23:17:52Z",
           "zernio_mode": "scheduled",
@@ -60947,11 +60953,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/nasa-axes-link-rescue-mission-to-save-swift-space-telescope.png",
       "metadata_file": "output/2026-08-23/nasa-axes-link-rescue-mission-to-save-swift-space-telescope.json",
-      "published_at_utc": "2026-08-22T23:17:52Z",
+      "published_at_utc": "2026-08-22T23:17:58Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a2e20b290b99308290e45",
-      "zernio_scheduled_for_utc": "2026-08-23T00:14:45.000Z"
+      "zernio_post_id": "6a8a2e25a6f752548a1b184c",
+      "zernio_scheduled_for_utc": "2026-08-23T00:16:45.000Z"
     },
     "output/2026-08-23/no-ai-probably-won-t-cure-cancer-anytime-soon-scientists-say.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
