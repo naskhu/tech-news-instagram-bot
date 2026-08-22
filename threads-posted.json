@@ -56345,6 +56345,25 @@
       "zernio_post_id": "6a88c7535ed8b894e354d6cf",
       "zernio_scheduled_for_utc": "2026-08-21T22:08:19.000Z"
     },
+    "output/2026-08-22/grok-had-a-generation-glitch-that-caused-it-to-send-users-pure-nonsens.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/grok-had-a-generation-glitch-that-caused-it-to-send-users-pure-nonsens.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T00:54:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88f33d99673e2ed31f1dec",
+          "zernio_scheduled_for_utc": "2026-08-22T00:55:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/grok-had-a-generation-glitch-that-caused-it-to-send-users-pure-nonsens.png",
+      "metadata_file": "output/2026-08-22/grok-had-a-generation-glitch-that-caused-it-to-send-users-pure-nonsens.json",
+      "published_at_utc": "2026-08-22T00:54:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a88f33d99673e2ed31f1dec",
+      "zernio_scheduled_for_utc": "2026-08-22T00:55:05.000Z"
+    },
     "output/2026-08-22/gta-6-leaks-prompt-take-two-to-seek-subpoenas-for-microsoft-discord-da.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/gta-6-leaks-prompt-take-two-to-seek-subpoenas-for-microsoft-discord-da.txt",
