@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-22T21:16:04.845302+00:00",
+  "run_utc": "2026-08-22T21:41:47.180260+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-21T21:16:04.845478+00:00",
-  "eligible_story_count": 53,
+  "cutoff_utc": "2026-08-21T21:41:47.180413+00:00",
+  "eligible_story_count": 51,
   "sources": [
     {
       "source": "TechCrunch",
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 1,
-      "already_processed": 28,
+      "eligible_new": 0,
+      "already_processed": 29,
       "older_than_window": 3,
       "metadata_errors": {}
     },
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 0,
+      "eligible_new": 1,
       "already_processed": 17,
-      "older_than_window": 15,
+      "older_than_window": 14,
       "metadata_errors": {}
     },
     {
@@ -310,9 +310,9 @@
       "rss_candidates": 10,
       "page_links": 17,
       "page_articles": 10,
-      "eligible_new": 3,
+      "eligible_new": 2,
       "already_processed": 1,
-      "older_than_window": 10,
+      "older_than_window": 11,
       "metadata_errors": {
         "not_article_path": 7
       }
@@ -348,8 +348,8 @@
       "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 10,
-      "already_processed": 0,
+      "eligible_new": 8,
+      "already_processed": 2,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -535,8 +535,8 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 0,
-      "already_processed": 7,
+      "eligible_new": 1,
+      "already_processed": 6,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -568,13 +568,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 6,
+      "page_articles": 5,
       "eligible_new": 0,
-      "already_processed": 18,
+      "already_processed": 17,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 19
+        "http_429": 20
       }
     },
     {
