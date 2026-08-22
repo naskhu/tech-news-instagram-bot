@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-22T20:15:57.116084+00:00",
+  "run_utc": "2026-08-22T20:43:13.720760+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-21T20:15:57.116213+00:00",
+  "cutoff_utc": "2026-08-21T20:43:13.720874+00:00",
   "eligible_story_count": 61,
   "sources": [
     {
@@ -27,8 +27,8 @@
       "rss_candidates": 19,
       "page_links": 24,
       "page_articles": 24,
-      "eligible_new": 0,
-      "already_processed": 24,
+      "eligible_new": 1,
+      "already_processed": 23,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 1,
       "older_than_window": 17,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 4,
-      "already_processed": 13,
-      "older_than_window": 15,
+      "eligible_new": 2,
+      "already_processed": 16,
+      "older_than_window": 14,
       "metadata_errors": {}
     },
     {
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 2,
+      "eligible_new": 1,
       "already_processed": 7,
-      "older_than_window": 106,
+      "older_than_window": 107,
       "metadata_errors": {}
     },
     {
@@ -390,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 43,
+      "eligible_new": 44,
       "already_processed": 1,
-      "older_than_window": 49,
+      "older_than_window": 47,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -498,12 +498,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 32,
+      "rss_candidates": 34,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
+      "eligible_new": 3,
       "already_processed": 30,
-      "older_than_window": 20,
+      "older_than_window": 19,
       "metadata_errors": {}
     },
     {
@@ -568,13 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 9,
+      "page_articles": 5,
       "eligible_new": 0,
-      "already_processed": 19,
+      "already_processed": 17,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 16
+        "http_429": 21
       }
     },
     {
@@ -606,8 +605,8 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
-      "already_processed": 86,
+      "eligible_new": 1,
+      "already_processed": 85,
       "older_than_window": 28,
       "metadata_errors": {}
     },
@@ -697,7 +696,7 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 29,
+          "links": 28,
           "error": ""
         },
         {
@@ -708,11 +707,11 @@
         }
       ],
       "rss_candidates": 20,
-      "page_links": 32,
-      "page_articles": 32,
+      "page_links": 31,
+      "page_articles": 31,
       "eligible_new": 1,
       "already_processed": 30,
-      "older_than_window": 1,
+      "older_than_window": 0,
       "metadata_errors": {}
     }
   ]
