@@ -60960,9 +60960,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T23:18:16.000Z"
     },
     "output/2026-08-23/linkedin-says-users-love-its-anti-ai-slop-button.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/linkedin-says-users-love-its-anti-ai-slop-button.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T23:40:41Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a3379ec1e91765b0f37ef",
+          "zernio_scheduled_for_utc": "2026-08-23T00:20:46.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T23:40:35Z",
           "zernio_mode": "scheduled",
@@ -60972,11 +60978,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/linkedin-says-users-love-its-anti-ai-slop-button.png",
       "metadata_file": "output/2026-08-23/linkedin-says-users-love-its-anti-ai-slop-button.json",
-      "published_at_utc": "2026-08-22T23:40:35Z",
+      "published_at_utc": "2026-08-22T23:40:41Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a33737f843830d89ab4aa",
-      "zernio_scheduled_for_utc": "2026-08-23T00:18:46.000Z"
+      "zernio_post_id": "6a8a3379ec1e91765b0f37ef",
+      "zernio_scheduled_for_utc": "2026-08-23T00:20:46.000Z"
     },
     "output/2026-08-23/nasa-axes-link-rescue-mission-to-save-swift-space-telescope.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
