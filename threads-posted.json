@@ -57320,6 +57320,25 @@
       "zernio_post_id": "6a894dbb89dc7d4d52c5ff00",
       "zernio_scheduled_for_utc": "2026-08-22T07:41:44.000Z"
     },
+    "output/2026-08-22/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T09:23:24Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a896a8c566aa8bd6f10c367",
+          "zernio_scheduled_for_utc": "2026-08-22T09:24:08.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope.png",
+      "metadata_file": "output/2026-08-22/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope.json",
+      "published_at_utc": "2026-08-22T09:23:24Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a896a8c566aa8bd6f10c367",
+      "zernio_scheduled_for_utc": "2026-08-22T09:24:08.000Z"
+    },
     "output/2026-08-22/new-york-replaces-san-francisco-as-the-top-spot-for-tech-jobs.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/new-york-replaces-san-francisco-as-the-top-spot-for-tech-jobs.txt",
