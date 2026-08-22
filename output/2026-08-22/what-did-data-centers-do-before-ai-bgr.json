@@ -1,0 +1,23 @@
+{
+  "title": "What Did Data Centers Do Before AI? - BGR",
+  "summary": "There's a wide array of needs that data centers fulfill, and unique types of data centers to serve each purpose. They too come in multiple subtypes, namely training AI data centers and inference AI data centers.",
+  "source": "BGR",
+  "url": "https://bgr.com/2238261/what-did-data-centers-do-before-ai",
+  "published_utc": "2026-08-22T00:17:00+00:00",
+  "output_day": "2026-08-22",
+  "date_source": "meta",
+  "generated_utc": "2026-08-22T11:56:45.992355+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bgr.com/img/gallery/what-did-data-centers-do-before-ai/l-intro-1786807929.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 5,
+  "theme_accent_rgb": [
+    230,
+    57,
+    70
+  ],
+  "image": "output/2026-08-22/what-did-data-centers-do-before-ai-bgr.png",
+  "caption": "output/2026-08-22/what-did-data-centers-do-before-ai-bgr.txt"
+}
