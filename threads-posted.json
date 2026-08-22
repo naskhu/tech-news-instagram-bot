@@ -60635,9 +60635,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T21:44:56.000Z"
     },
     "output/2026-08-23/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T21:44:30Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a183e85aeeb868f54a142",
+          "zernio_scheduled_for_utc": "2026-08-22T22:24:34.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T21:44:24Z",
           "zernio_mode": "scheduled",
@@ -60647,11 +60653,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5.png",
       "metadata_file": "output/2026-08-23/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5.json",
-      "published_at_utc": "2026-08-22T21:44:24Z",
+      "published_at_utc": "2026-08-22T21:44:30Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a183885aeeb868f54a02e",
-      "zernio_scheduled_for_utc": "2026-08-22T22:22:34.000Z"
+      "zernio_post_id": "6a8a183e85aeeb868f54a142",
+      "zernio_scheduled_for_utc": "2026-08-22T22:24:34.000Z"
     },
     "output/2026-08-23/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-o.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
