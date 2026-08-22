@@ -60710,9 +60710,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T20:22:22.000Z"
     },
     "output/2026-08-23/projectors-vs-outdoor-tvs-which-is-best-for-watching-movies-outside-bg.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/projectors-vs-outdoor-tvs-which-is-best-for-watching-movies-outside-bg.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T21:44:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a1832b5aa02e624123b03",
+          "zernio_scheduled_for_utc": "2026-08-22T22:05:39.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T21:44:13Z",
           "zernio_mode": "scheduled",
@@ -60722,11 +60728,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/projectors-vs-outdoor-tvs-which-is-best-for-watching-movies-outside-bg.png",
       "metadata_file": "output/2026-08-23/projectors-vs-outdoor-tvs-which-is-best-for-watching-movies-outside-bg.json",
-      "published_at_utc": "2026-08-22T21:44:13Z",
+      "published_at_utc": "2026-08-22T21:44:19Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a182d85aeeb868f549ceb",
-      "zernio_scheduled_for_utc": "2026-08-22T22:03:39.000Z"
+      "zernio_post_id": "6a8a1832b5aa02e624123b03",
+      "zernio_scheduled_for_utc": "2026-08-22T22:05:39.000Z"
     },
     "output/2026-08-23/retrotink-s-next-upscaler-aims-for-a-1440p-sweet-spot-instead-of-4k-or.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
