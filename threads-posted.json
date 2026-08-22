@@ -59121,9 +59121,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T15:24:14.000Z"
     },
     "output/2026-08-22/w-kamau-bell-has-the-most-practical-most-indispensable-tool.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/w-kamau-bell-has-the-most-practical-most-indispensable-tool.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T15:17:11Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89bd7712b259fb47fe51f4",
+          "zernio_scheduled_for_utc": "2026-08-22T15:19:49.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T15:17:06Z",
           "zernio_mode": "scheduled",
@@ -59133,11 +59139,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/w-kamau-bell-has-the-most-practical-most-indispensable-tool.png",
       "metadata_file": "output/2026-08-22/w-kamau-bell-has-the-most-practical-most-indispensable-tool.json",
-      "published_at_utc": "2026-08-22T15:17:06Z",
+      "published_at_utc": "2026-08-22T15:17:11Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a89bd71b16d0607ddb9f0a3",
-      "zernio_scheduled_for_utc": "2026-08-22T15:17:49.000Z"
+      "zernio_post_id": "6a89bd7712b259fb47fe51f4",
+      "zernio_scheduled_for_utc": "2026-08-22T15:19:49.000Z"
     },
     "output/2026-08-22/walk-through-a-3d-cyberpunk-city-built-purely-from-ascii-characters-a-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
