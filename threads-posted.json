@@ -57870,6 +57870,25 @@
       "zernio_post_id": "6a8964340594c72255367e24",
       "zernio_scheduled_for_utc": "2026-08-22T09:55:00.000Z"
     },
+    "output/2026-08-22/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-22/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T16:46:20Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89d25c666b281b70feaaf0",
+          "zernio_scheduled_for_utc": "2026-08-22T17:05:45.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-.png",
+      "metadata_file": "output/2026-08-22/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-.json",
+      "published_at_utc": "2026-08-22T16:46:20Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a89d25c666b281b70feaaf0",
+      "zernio_scheduled_for_utc": "2026-08-22T17:05:45.000Z"
+    },
     "output/2026-08-22/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users.txt",
