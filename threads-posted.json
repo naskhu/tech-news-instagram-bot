@@ -60860,9 +60860,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T21:44:56.000Z"
     },
     "output/2026-08-23/i-ve-scoured-the-web-for-the-best-google-pixel-11-pro-fold-cases-here-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/i-ve-scoured-the-web-for-the-best-google-pixel-11-pro-fold-cases-here-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T23:59:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a37c865cf691b9850ffc8",
+          "zernio_scheduled_for_utc": "2026-08-23T00:57:54.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T23:58:59Z",
           "zernio_mode": "scheduled",
@@ -60872,11 +60878,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/i-ve-scoured-the-web-for-the-best-google-pixel-11-pro-fold-cases-here-.png",
       "metadata_file": "output/2026-08-23/i-ve-scoured-the-web-for-the-best-google-pixel-11-pro-fold-cases-here-.json",
-      "published_at_utc": "2026-08-22T23:58:59Z",
+      "published_at_utc": "2026-08-22T23:59:05Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a37c3f3335a9806c36b23",
-      "zernio_scheduled_for_utc": "2026-08-23T00:55:54.000Z"
+      "zernio_post_id": "6a8a37c865cf691b9850ffc8",
+      "zernio_scheduled_for_utc": "2026-08-23T00:57:54.000Z"
     },
     "output/2026-08-23/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
