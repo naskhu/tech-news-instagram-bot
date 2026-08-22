@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-22T03:10:15.401567+00:00",
+  "run_utc": "2026-08-22T03:58:49.130702+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-21T03:10:15.401741+00:00",
-  "eligible_story_count": 172,
+  "cutoff_utc": "2026-08-21T03:58:49.130858+00:00",
+  "eligible_story_count": 169,
   "sources": [
     {
       "source": "TechCrunch",
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 15,
+      "eligible_new": 16,
       "already_processed": 0,
-      "older_than_window": 17,
+      "older_than_window": 16,
       "metadata_errors": {}
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 10,
       "already_processed": 7,
-      "older_than_window": 98,
+      "older_than_window": 97,
       "metadata_errors": {}
     },
     {
@@ -501,11 +501,13 @@
       ],
       "rss_candidates": 32,
       "page_links": 40,
-      "page_articles": 40,
+      "page_articles": 38,
       "eligible_new": 3,
-      "already_processed": 29,
-      "older_than_window": 18,
-      "metadata_errors": {}
+      "already_processed": 28,
+      "older_than_window": 17,
+      "metadata_errors": {
+        "http_403": 2
+      }
     },
     {
       "source": "VentureBeat",
@@ -571,7 +573,7 @@
       "page_links": 29,
       "page_articles": 6,
       "eligible_new": 0,
-      "already_processed": 18,
+      "already_processed": 17,
       "older_than_window": 0,
       "metadata_errors": {
         "http_429": 23
@@ -606,8 +608,8 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 10,
-      "already_processed": 77,
+      "eligible_new": 6,
+      "already_processed": 81,
       "older_than_window": 29,
       "metadata_errors": {}
     },
