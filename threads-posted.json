@@ -57821,9 +57821,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T10:22:53.000Z"
     },
     "output/2026-08-22/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-sms-tr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-sms-tr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T09:58:33Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8972c90a03f28095b730e8",
+          "zernio_scheduled_for_utc": "2026-08-22T10:01:07.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T09:58:26Z",
           "zernio_mode": "scheduled",
@@ -57833,11 +57839,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-sms-tr.png",
       "metadata_file": "output/2026-08-22/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-sms-tr.json",
-      "published_at_utc": "2026-08-22T09:58:26Z",
+      "published_at_utc": "2026-08-22T09:58:33Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8972c22951a13115c5e862",
-      "zernio_scheduled_for_utc": "2026-08-22T09:59:07.000Z"
+      "zernio_post_id": "6a8972c90a03f28095b730e8",
+      "zernio_scheduled_for_utc": "2026-08-22T10:01:07.000Z"
     },
     "output/2026-08-22/supermicro-fires-several-employees-following-investigation-into-2-5-bi.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
