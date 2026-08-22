@@ -60460,9 +60460,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T20:58:51.000Z"
     },
     "output/2026-08-23/apple-s-vision-pro-siri-teams-set-for-major-job-cuts.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/apple-s-vision-pro-siri-teams-set-for-major-job-cuts.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T23:17:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a2e0e130ce1b642cf764d",
+          "zernio_scheduled_for_utc": "2026-08-22T23:38:55.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T23:17:29Z",
           "zernio_mode": "scheduled",
@@ -60472,11 +60478,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/apple-s-vision-pro-siri-teams-set-for-major-job-cuts.png",
       "metadata_file": "output/2026-08-23/apple-s-vision-pro-siri-teams-set-for-major-job-cuts.json",
-      "published_at_utc": "2026-08-22T23:17:29Z",
+      "published_at_utc": "2026-08-22T23:17:34Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a2e091810735f3db59d36",
-      "zernio_scheduled_for_utc": "2026-08-22T23:36:55.000Z"
+      "zernio_post_id": "6a8a2e0e130ce1b642cf764d",
+      "zernio_scheduled_for_utc": "2026-08-22T23:38:55.000Z"
     },
     "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
