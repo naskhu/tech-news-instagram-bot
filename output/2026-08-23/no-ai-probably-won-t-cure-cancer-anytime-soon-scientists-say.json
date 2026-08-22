@@ -1,0 +1,23 @@
+{
+  "title": "No, AI Probably Won’t Cure Cancer Anytime Soon, Scientists Say",
+  "summary": "He considers himself a Demis Hassabis superfan, and when I spoke to him, he enthusiastically recounted scoring a blurb from the Google DeepMind chair for “Super Agers,” Topol’s bestselling 2025 book on longevity. “He’s a hero of mine,” said Topol.",
+  "source": "The Information",
+  "url": "https://theinformation.com/articles/ai-probably-cure-cancer-anytime-soon-scientists-say",
+  "published_utc": "2026-08-22T14:17:10+00:00",
+  "output_day": "2026-08-23",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-22T22:43:20.888473+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://tii.imgix.net/production/articles/17687/24a37c6a-ae33-4255-98ed-8efe92bf4058.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-08-23/no-ai-probably-won-t-cure-cancer-anytime-soon-scientists-say.png",
+  "caption": "output/2026-08-23/no-ai-probably-won-t-cure-cancer-anytime-soon-scientists-say.txt"
+}

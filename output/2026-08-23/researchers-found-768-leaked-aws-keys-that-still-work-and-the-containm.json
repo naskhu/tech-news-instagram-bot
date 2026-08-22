@@ -1,0 +1,23 @@
+{
+  "title": "Researchers found 768 leaked AWS keys that still work, and the containment policy leaves plenty possible",
+  "summary": "Truffle Security found 768 leaked AWS keys granting full control of corporate accounts, including 526 root keys, with 88% of tested credentials still active. Researchers have found 768 leaked Amazon Web Services keys that still give full control of a company’s account.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/researchers-found-768-leaked-aws-keys-that-still-work-and-the-containment-policy-leaves-plenty-possible",
+  "published_utc": "2026-08-22T10:35:10+00:00",
+  "output_day": "2026-08-23",
+  "date_source": "meta",
+  "generated_utc": "2026-08-22T22:43:16.609839+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.thenextweb.com/2026/07/aws-billing-bug-billion-dollar-estimates.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-08-23/researchers-found-768-leaked-aws-keys-that-still-work-and-the-containm.png",
+  "caption": "output/2026-08-23/researchers-found-768-leaked-aws-keys-that-still-work-and-the-containm.txt"
+}
