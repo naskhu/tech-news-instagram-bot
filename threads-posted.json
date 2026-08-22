@@ -61210,9 +61210,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T21:17:46.000Z"
     },
     "output/2026-08-23/what-made-the-cmf-by-nothing-phones-so-much-cheaper-bgr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/what-made-the-cmf-by-nothing-phones-so-much-cheaper-bgr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T23:17:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a2e03f31004ded09ce5b1",
+          "zernio_scheduled_for_utc": "2026-08-22T23:20:00.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T23:17:16Z",
           "zernio_mode": "scheduled",
@@ -61222,11 +61228,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/what-made-the-cmf-by-nothing-phones-so-much-cheaper-bgr.png",
       "metadata_file": "output/2026-08-23/what-made-the-cmf-by-nothing-phones-so-much-cheaper-bgr.json",
-      "published_at_utc": "2026-08-22T23:17:16Z",
+      "published_at_utc": "2026-08-22T23:17:23Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a2dfcb290b99308290b9c",
-      "zernio_scheduled_for_utc": "2026-08-22T23:18:00.000Z"
+      "zernio_post_id": "6a8a2e03f31004ded09ce5b1",
+      "zernio_scheduled_for_utc": "2026-08-22T23:20:00.000Z"
     },
     "output/2026-08-23/will-the-doj-s-investigation-into-a16z-spook-other-vcs-techcrunch.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
