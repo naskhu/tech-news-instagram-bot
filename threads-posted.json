@@ -60359,6 +60359,25 @@
       "zernio_post_id": "6a8a1bb4ae2212d569a38d85",
       "zernio_scheduled_for_utc": "2026-08-22T22:39:21.000Z"
     },
+    "output/2026-08-23/ai-data-centres-are-taking-the-capacitors-carmakers-need.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/ai-data-centres-are-taking-the-capacitors-carmakers-need.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T22:19:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a205ec013056f0feba349",
+          "zernio_scheduled_for_utc": "2026-08-22T22:57:21.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/ai-data-centres-are-taking-the-capacitors-carmakers-need.png",
+      "metadata_file": "output/2026-08-23/ai-data-centres-are-taking-the-capacitors-carmakers-need.json",
+      "published_at_utc": "2026-08-22T22:19:10Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8a205ec013056f0feba349",
+      "zernio_scheduled_for_utc": "2026-08-22T22:57:21.000Z"
+    },
     "output/2026-08-23/apollo-finds-ai-is-hitting-paychecks-rather-than-payrolls.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/apollo-finds-ai-is-hitting-paychecks-rather-than-payrolls.txt",
