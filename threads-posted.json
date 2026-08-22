@@ -60560,9 +60560,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T21:07:06.000Z"
     },
     "output/2026-08-23/harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T21:58:53Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a1b9d2d7600d0bff801ea",
+          "zernio_scheduled_for_utc": "2026-08-22T22:01:31.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T21:58:47Z",
           "zernio_mode": "scheduled",
@@ -60572,11 +60578,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors.png",
       "metadata_file": "output/2026-08-23/harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors.json",
-      "published_at_utc": "2026-08-22T21:58:47Z",
+      "published_at_utc": "2026-08-22T21:58:53Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a1b979ef235f1dba77139",
-      "zernio_scheduled_for_utc": "2026-08-22T21:59:31.000Z"
+      "zernio_post_id": "6a8a1b9d2d7600d0bff801ea",
+      "zernio_scheduled_for_utc": "2026-08-22T22:01:31.000Z"
     },
     "output/2026-08-23/here-s-what-you-ll-need-to-watch-netflix-in-4k-on-chrome-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
