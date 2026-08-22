@@ -56471,9 +56471,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T09:36:05.000Z"
     },
     "output/2026-08-22/ddr5-scalper-bots-now-outnumber-shoppers-10-to-1-automated-scraping-hi.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/ddr5-scalper-bots-now-outnumber-shoppers-10-to-1-automated-scraping-hi.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T09:59:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8972edba3c4295dcf7afb0",
+          "zernio_scheduled_for_utc": "2026-08-22T10:57:52.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T09:59:04Z",
           "zernio_mode": "scheduled",
@@ -56483,11 +56489,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/ddr5-scalper-bots-now-outnumber-shoppers-10-to-1-automated-scraping-hi.png",
       "metadata_file": "output/2026-08-22/ddr5-scalper-bots-now-outnumber-shoppers-10-to-1-automated-scraping-hi.json",
-      "published_at_utc": "2026-08-22T09:59:04Z",
+      "published_at_utc": "2026-08-22T09:59:10Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8972e8ba3c4295dcf7adde",
-      "zernio_scheduled_for_utc": "2026-08-22T10:55:52.000Z"
+      "zernio_post_id": "6a8972edba3c4295dcf7afb0",
+      "zernio_scheduled_for_utc": "2026-08-22T10:57:52.000Z"
     },
     "output/2026-08-22/deals-m5-pro-macbook-pro-500-off-airtag-2-from-20-find-my-wallet-card-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
