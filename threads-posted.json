@@ -60283,6 +60283,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8942465ccbc24dbab5ab42",
       "zernio_scheduled_for_utc": "2026-08-22T06:34:11.000Z"
+    },
+    "output/2026-08-23/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperfo.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperfo.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T19:04:24Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a89f2b83d7044291fdc230c",
+          "zernio_scheduled_for_utc": "2026-08-22T19:05:08.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperfo.png",
+      "metadata_file": "output/2026-08-23/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperfo.json",
+      "published_at_utc": "2026-08-22T19:04:24Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a89f2b83d7044291fdc230c",
+      "zernio_scheduled_for_utc": "2026-08-22T19:05:08.000Z"
     }
   }
 }
