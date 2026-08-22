@@ -57046,9 +57046,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T22:19:49.000Z"
     },
     "output/2026-08-22/xbox-series-x-special-edition-pricing-confirms-2026-is-a-bad-year-for-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/xbox-series-x-special-edition-pricing-confirms-2026-is-a-bad-year-for-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T00:54:40Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a88f35099673e2ed31f268c",
+          "zernio_scheduled_for_utc": "2026-08-22T01:16:00.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T00:54:34Z",
           "zernio_mode": "scheduled",
@@ -57058,11 +57064,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/xbox-series-x-special-edition-pricing-confirms-2026-is-a-bad-year-for-.png",
       "metadata_file": "output/2026-08-22/xbox-series-x-special-edition-pricing-confirms-2026-is-a-bad-year-for-.json",
-      "published_at_utc": "2026-08-22T00:54:34Z",
+      "published_at_utc": "2026-08-22T00:54:40Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a88f34a4a0fd5aaa1123e00",
-      "zernio_scheduled_for_utc": "2026-08-22T01:14:00.000Z"
+      "zernio_post_id": "6a88f35099673e2ed31f268c",
+      "zernio_scheduled_for_utc": "2026-08-22T01:16:00.000Z"
     },
     "output/2026-08-22/youtube-is-going-to-let-creators-make-24-7-streaming-stations.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
