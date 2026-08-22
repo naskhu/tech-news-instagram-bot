@@ -60384,6 +60384,25 @@
       "zernio_post_id": "6a8a20654d1ae5525217e91f",
       "zernio_scheduled_for_utc": "2026-08-22T22:59:21.000Z"
     },
+    "output/2026-08-23/america-really-really-hates-data-centers.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/america-really-really-hates-data-centers.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-22T22:44:50Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a266206e5cb443af7b7e3",
+          "zernio_scheduled_for_utc": "2026-08-22T23:23:04.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/america-really-really-hates-data-centers.png",
+      "metadata_file": "output/2026-08-23/america-really-really-hates-data-centers.json",
+      "published_at_utc": "2026-08-22T22:44:50Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8a266206e5cb443af7b7e3",
+      "zernio_scheduled_for_utc": "2026-08-22T23:23:04.000Z"
+    },
     "output/2026-08-23/apollo-finds-ai-is-hitting-paychecks-rather-than-payrolls.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/apollo-finds-ai-is-hitting-paychecks-rather-than-payrolls.txt",
