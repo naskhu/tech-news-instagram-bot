@@ -56446,9 +56446,15 @@
       "zernio_scheduled_for_utc": "2026-08-21T21:01:49.000Z"
     },
     "output/2026-08-22/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-i.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-22/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-i.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-22T08:56:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a896429c15e906924328f51",
+          "zernio_scheduled_for_utc": "2026-08-22T09:36:05.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-22T08:56:03Z",
           "zernio_mode": "scheduled",
@@ -56458,11 +56464,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-22/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-i.png",
       "metadata_file": "output/2026-08-22/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-i.json",
-      "published_at_utc": "2026-08-22T08:56:03Z",
+      "published_at_utc": "2026-08-22T08:56:09Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8964230594c72255367a65",
-      "zernio_scheduled_for_utc": "2026-08-22T09:34:05.000Z"
+      "zernio_post_id": "6a896429c15e906924328f51",
+      "zernio_scheduled_for_utc": "2026-08-22T09:36:05.000Z"
     },
     "output/2026-08-22/deals-m5-pro-macbook-pro-500-off-airtag-2-from-20-find-my-wallet-card-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
