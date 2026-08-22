@@ -1,0 +1,23 @@
+{
+  "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
+  "summary": "At the Usenix Cybersecurity Conference last week, researchers at the University of Massachusetts Amherst warned that fraudsters could make contactless payments using expired credit cards issued by Visa by proxying them through a man-in-the-middle app that relays the credit card’s data through…",
+  "source": "Wired",
+  "url": "https://wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments",
+  "published_utc": "2026-08-22T10:30:00+00:00",
+  "output_day": "2026-08-22",
+  "date_source": "meta",
+  "generated_utc": "2026-08-22T10:45:08.897845+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a88b7f32773ab7e6c76bdb4/master/pass/SecurityRoundUp_Week0821_v1.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-08-22/your-expired-visa-card-could-be-zombified-to-make-contactless-payments.png",
+  "caption": "output/2026-08-22/your-expired-visa-card-could-be-zombified-to-make-contactless-payments.txt"
+}
