@@ -62960,9 +62960,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T21:40:28.000Z"
     },
     "output/2026-08-23/sick-of-youtube-tv-spoiling-sports-scores-enable-this-setting-bgr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/sick-of-youtube-tv-spoiling-sports-scores-enable-this-setting-bgr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T16:00:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b193653cc1a879e6057f7",
+          "zernio_scheduled_for_utc": "2026-08-23T16:02:52.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T16:00:45Z",
           "zernio_mode": "scheduled",
@@ -62972,11 +62978,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/sick-of-youtube-tv-spoiling-sports-scores-enable-this-setting-bgr.png",
       "metadata_file": "output/2026-08-23/sick-of-youtube-tv-spoiling-sports-scores-enable-this-setting-bgr.json",
-      "published_at_utc": "2026-08-23T16:00:45Z",
+      "published_at_utc": "2026-08-23T16:00:54Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8b1922e31b3034796c78b9",
-      "zernio_scheduled_for_utc": "2026-08-23T16:00:52.000Z"
+      "zernio_post_id": "6a8b193653cc1a879e6057f7",
+      "zernio_scheduled_for_utc": "2026-08-23T16:02:52.000Z"
     },
     "output/2026-08-23/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
