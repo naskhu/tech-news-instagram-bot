@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-23T17:38:35.272533+00:00",
+  "run_utc": "2026-08-23T17:54:19.094452+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-22T17:38:35.272680+00:00",
-  "eligible_story_count": 16,
+  "cutoff_utc": "2026-08-22T17:54:19.094604+00:00",
+  "eligible_story_count": 14,
   "sources": [
     {
       "source": "TechCrunch",
@@ -205,16 +205,16 @@
         {
           "url": "https://www.engadget.com/latest/",
           "status": 200,
-          "links": 1,
+          "links": 0,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 33,
-      "page_articles": 33,
+      "page_links": 32,
+      "page_articles": 32,
       "eligible_new": 1,
-      "already_processed": 24,
-      "older_than_window": 8,
+      "already_processed": 25,
+      "older_than_window": 6,
       "metadata_errors": {}
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 7,
-      "older_than_window": 107,
+      "older_than_window": 106,
       "metadata_errors": {}
     },
     {
@@ -431,8 +431,8 @@
       "rss_candidates": 0,
       "page_links": 17,
       "page_articles": 17,
-      "eligible_new": 5,
-      "already_processed": 5,
+      "eligible_new": 3,
+      "already_processed": 7,
       "older_than_window": 7,
       "metadata_errors": {}
     },
@@ -568,13 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 8,
+      "page_articles": 5,
       "eligible_new": 0,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 3,
-        "http_429": 14
+        "http_429": 20
       }
     },
     {
@@ -703,15 +702,15 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 2,
+          "links": 1,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 32,
-      "page_articles": 32,
+      "page_links": 31,
+      "page_articles": 31,
       "eligible_new": 1,
-      "already_processed": 31,
+      "already_processed": 30,
       "older_than_window": 0,
       "metadata_errors": {}
     }
