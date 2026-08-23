@@ -62685,9 +62685,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T09:06:20.000Z"
     },
     "output/2026-08-23/these-popular-motorola-phones-are-losing-software-support-in-2026-bgr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/these-popular-motorola-phones-are-losing-software-support-in-2026-bgr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T11:58:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ae051d7d24763dc214a54",
+          "zernio_scheduled_for_utc": "2026-08-23T12:19:31.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T11:58:04Z",
           "zernio_mode": "scheduled",
@@ -62697,11 +62703,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/these-popular-motorola-phones-are-losing-software-support-in-2026-bgr.png",
       "metadata_file": "output/2026-08-23/these-popular-motorola-phones-are-losing-software-support-in-2026-bgr.json",
-      "published_at_utc": "2026-08-23T11:58:04Z",
+      "published_at_utc": "2026-08-23T11:58:09Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ae04ce6210cef7a2b80c1",
-      "zernio_scheduled_for_utc": "2026-08-23T12:17:31.000Z"
+      "zernio_post_id": "6a8ae051d7d24763dc214a54",
+      "zernio_scheduled_for_utc": "2026-08-23T12:19:31.000Z"
     },
     "output/2026-08-23/this-handy-google-pixel-feature-can-help-solve-annoying-android-blueto.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
