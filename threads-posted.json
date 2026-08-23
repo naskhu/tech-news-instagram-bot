@@ -63484,6 +63484,25 @@
       "zernio_post_id": "6a8ae0682e7690be4e2be144",
       "zernio_scheduled_for_utc": "2026-08-23T12:57:21.000Z"
     },
+    "output/2026-08-23/we-re-all-going-to-the-world-s-fair-is-an-intimate-coming-of-age-horro.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/we-re-all-going-to-the-world-s-fair-is-an-intimate-coming-of-age-horro.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T15:19:39Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b0f8b229de69fdfa165c1",
+          "zernio_scheduled_for_utc": "2026-08-23T15:39:06.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/we-re-all-going-to-the-world-s-fair-is-an-intimate-coming-of-age-horro.png",
+      "metadata_file": "output/2026-08-23/we-re-all-going-to-the-world-s-fair-is-an-intimate-coming-of-age-horro.json",
+      "published_at_utc": "2026-08-23T15:19:39Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b0f8b229de69fdfa165c1",
+      "zernio_scheduled_for_utc": "2026-08-23T15:39:06.000Z"
+    },
     "output/2026-08-23/what-does-ssd-stand-for-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/what-does-ssd-stand-for-bgr.txt",
