@@ -61085,9 +61085,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T21:46:44.000Z"
     },
     "output/2026-08-23/enthusiast-mods-gtx-1080-ti-with-a-dual-tower-cpu-cooler-sees-up-to-32.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/enthusiast-mods-gtx-1080-ti-with-a-dual-tower-cpu-cooler-sees-up-to-32.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T10:20:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ac965410942f2d73e8de6",
+          "zernio_scheduled_for_utc": "2026-08-23T10:41:37.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T10:20:15Z",
           "zernio_mode": "scheduled",
@@ -61097,11 +61103,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/enthusiast-mods-gtx-1080-ti-with-a-dual-tower-cpu-cooler-sees-up-to-32.png",
       "metadata_file": "output/2026-08-23/enthusiast-mods-gtx-1080-ti-with-a-dual-tower-cpu-cooler-sees-up-to-32.json",
-      "published_at_utc": "2026-08-23T10:20:15Z",
+      "published_at_utc": "2026-08-23T10:20:21Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ac95fe5f92062a69b82e5",
-      "zernio_scheduled_for_utc": "2026-08-23T10:39:37.000Z"
+      "zernio_post_id": "6a8ac965410942f2d73e8de6",
+      "zernio_scheduled_for_utc": "2026-08-23T10:41:37.000Z"
     },
     "output/2026-08-23/europe-s-next-gen-rocket-concept-could-be-way-more-efficient-than-spac.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
