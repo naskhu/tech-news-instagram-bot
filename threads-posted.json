@@ -62285,9 +62285,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T22:43:29.000Z"
     },
     "output/2026-08-23/nvidia-reportedly-warns-biggest-customers-of-15-price-hikes-on-ai-serv.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/nvidia-reportedly-warns-biggest-customers-of-15-price-hikes-on-ai-serv.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T13:20:56Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8af3b89d2b3808a8689d5a",
+          "zernio_scheduled_for_utc": "2026-08-23T14:01:00.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T13:20:51Z",
           "zernio_mode": "scheduled",
@@ -62297,11 +62303,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/nvidia-reportedly-warns-biggest-customers-of-15-price-hikes-on-ai-serv.png",
       "metadata_file": "output/2026-08-23/nvidia-reportedly-warns-biggest-customers-of-15-price-hikes-on-ai-serv.json",
-      "published_at_utc": "2026-08-23T13:20:51Z",
+      "published_at_utc": "2026-08-23T13:20:56Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8af3b30d6a5d4cc592f9e8",
-      "zernio_scheduled_for_utc": "2026-08-23T13:59:00.000Z"
+      "zernio_post_id": "6a8af3b89d2b3808a8689d5a",
+      "zernio_scheduled_for_utc": "2026-08-23T14:01:00.000Z"
     },
     "output/2026-08-23/nvidia-s-ai-chips-are-about-to-get-more-expensive-too.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
