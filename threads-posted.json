@@ -60960,9 +60960,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T00:01:51.000Z"
     },
     "output/2026-08-23/experts-warn-2-000-hacked-wordpress-sites-were-secretly-running-a-glob.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/experts-warn-2-000-hacked-wordpress-sites-were-secretly-running-a-glob.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T06:47:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a976793690ce7149398fb",
+          "zernio_scheduled_for_utc": "2026-08-23T07:08:24.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T06:46:58Z",
           "zernio_mode": "scheduled",
@@ -60972,11 +60978,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/experts-warn-2-000-hacked-wordpress-sites-were-secretly-running-a-glob.png",
       "metadata_file": "output/2026-08-23/experts-warn-2-000-hacked-wordpress-sites-were-secretly-running-a-glob.json",
-      "published_at_utc": "2026-08-23T06:46:58Z",
+      "published_at_utc": "2026-08-23T06:47:03Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a976102d0a8accd2f8995",
-      "zernio_scheduled_for_utc": "2026-08-23T07:06:24.000Z"
+      "zernio_post_id": "6a8a976793690ce7149398fb",
+      "zernio_scheduled_for_utc": "2026-08-23T07:08:24.000Z"
     },
     "output/2026-08-23/fcc-shoots-down-chinese-drone-maker-s-claim-that-it-got-around-the-us-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
