@@ -60885,9 +60885,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T21:07:06.000Z"
     },
     "output/2026-08-23/gta-6-s-netflix-timed-exclusive-and-gamers-defense-of-it-sums-up-why-t.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/gta-6-s-netflix-timed-exclusive-and-gamers-defense-of-it-sums-up-why-t.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T04:22:54Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a759e721f0504f59905d6",
+          "zernio_scheduled_for_utc": "2026-08-23T05:21:45.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T04:22:49Z",
           "zernio_mode": "scheduled",
@@ -60897,11 +60903,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/gta-6-s-netflix-timed-exclusive-and-gamers-defense-of-it-sums-up-why-t.png",
       "metadata_file": "output/2026-08-23/gta-6-s-netflix-timed-exclusive-and-gamers-defense-of-it-sums-up-why-t.json",
-      "published_at_utc": "2026-08-23T04:22:49Z",
+      "published_at_utc": "2026-08-23T04:22:54Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a75992c547d1c6d7bad5a",
-      "zernio_scheduled_for_utc": "2026-08-23T05:19:45.000Z"
+      "zernio_post_id": "6a8a759e721f0504f59905d6",
+      "zernio_scheduled_for_utc": "2026-08-23T05:21:45.000Z"
     },
     "output/2026-08-23/harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
