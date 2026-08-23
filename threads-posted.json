@@ -65261,6 +65261,25 @@
       "zernio_post_id": "6a8b640acad7f3cf2ebd9d70",
       "zernio_scheduled_for_utc": "2026-08-23T22:18:52.000Z"
     },
+    "output/2026-08-24/what-is-a-vesa-mount-and-how-to-know-what-type-your-tv-has-engadget.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/what-is-a-vesa-mount-and-how-to-know-what-type-your-tv-has-engadget.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T21:43:51Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b699744bdddda62764c00",
+          "zernio_scheduled_for_utc": "2026-08-23T22:03:18.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/what-is-a-vesa-mount-and-how-to-know-what-type-your-tv-has-engadget.png",
+      "metadata_file": "output/2026-08-24/what-is-a-vesa-mount-and-how-to-know-what-type-your-tv-has-engadget.json",
+      "published_at_utc": "2026-08-23T21:43:51Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b699744bdddda62764c00",
+      "zernio_scheduled_for_utc": "2026-08-23T22:03:18.000Z"
+    },
     "output/2026-08-24/who-s-behind-the-new-stealth-model-ox-alpha-techcrunch.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/who-s-behind-the-new-stealth-model-ox-alpha-techcrunch.txt",
