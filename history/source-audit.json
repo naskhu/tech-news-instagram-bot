@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-23T18:20:59.777962+00:00",
+  "run_utc": "2026-08-23T18:53:09.053785+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-22T18:20:59.778109+00:00",
-  "eligible_story_count": 15,
+  "cutoff_utc": "2026-08-22T18:53:09.053917+00:00",
+  "eligible_story_count": 13,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 1,
       "older_than_window": 17,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -212,8 +212,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 1,
-      "already_processed": 26,
+      "eligible_new": 2,
+      "already_processed": 25,
       "older_than_window": 5,
       "metadata_errors": {}
     },
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 7,
-      "older_than_window": 107,
+      "older_than_window": 106,
       "metadata_errors": {}
     },
     {
@@ -431,8 +431,8 @@
       "rss_candidates": 0,
       "page_links": 17,
       "page_articles": 17,
-      "eligible_new": 4,
-      "already_processed": 7,
+      "eligible_new": 3,
+      "already_processed": 8,
       "older_than_window": 6,
       "metadata_errors": {}
     },
@@ -568,13 +568,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 6,
+      "page_articles": 5,
       "eligible_new": 0,
-      "already_processed": 16,
+      "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 18
+        "http_429": 19
       }
     },
     {
@@ -710,8 +710,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 2,
-      "already_processed": 30,
+      "eligible_new": 0,
+      "already_processed": 32,
       "older_than_window": 0,
       "metadata_errors": {}
     }
