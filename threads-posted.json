@@ -61885,9 +61885,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T00:20:46.000Z"
     },
     "output/2026-08-23/local-officials-face-death-threats-and-gunfire-over-ai-data-center-pro.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/local-officials-face-death-threats-and-gunfire-over-ai-data-center-pro.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T10:47:12Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8acfaf476f1eb68c41fb9f",
+          "zernio_scheduled_for_utc": "2026-08-23T11:08:33.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T10:47:06Z",
           "zernio_mode": "scheduled",
@@ -61897,11 +61903,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/local-officials-face-death-threats-and-gunfire-over-ai-data-center-pro.png",
       "metadata_file": "output/2026-08-23/local-officials-face-death-threats-and-gunfire-over-ai-data-center-pro.json",
-      "published_at_utc": "2026-08-23T10:47:06Z",
+      "published_at_utc": "2026-08-23T10:47:12Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8acfaa40f468555a9cf712",
-      "zernio_scheduled_for_utc": "2026-08-23T11:06:33.000Z"
+      "zernio_post_id": "6a8acfaf476f1eb68c41fb9f",
+      "zernio_scheduled_for_utc": "2026-08-23T11:08:33.000Z"
     },
     "output/2026-08-23/location-is-the-obvious-way-to-connect-data-i-spoke-to-ordnance-survey.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
