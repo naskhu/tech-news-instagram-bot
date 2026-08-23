@@ -64987,9 +64987,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T20:48:25.000Z"
     },
     "output/2026-08-24/how-is-android-auto-different-from-android-automotive-engadget.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/how-is-android-auto-different-from-android-automotive-engadget.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T20:46:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b5c12305a0ea74c1f6c1b",
+          "zernio_scheduled_for_utc": "2026-08-23T21:26:15.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T20:46:05Z",
           "zernio_mode": "scheduled",
@@ -64999,11 +65005,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/how-is-android-auto-different-from-android-automotive-engadget.png",
       "metadata_file": "output/2026-08-24/how-is-android-auto-different-from-android-automotive-engadget.json",
-      "published_at_utc": "2026-08-23T20:46:05Z",
+      "published_at_utc": "2026-08-23T20:46:10Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8b5c0db7216710a8fc1ca3",
-      "zernio_scheduled_for_utc": "2026-08-23T21:24:15.000Z"
+      "zernio_post_id": "6a8b5c12305a0ea74c1f6c1b",
+      "zernio_scheduled_for_utc": "2026-08-23T21:26:15.000Z"
     },
     "output/2026-08-24/how-to-stop-siri-from-interrupting-while-you-re-using-carplay-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
