@@ -61684,6 +61684,25 @@
       "zernio_post_id": "6a8a33857f843830d89abb69",
       "zernio_scheduled_for_utc": "2026-08-23T00:39:41.000Z"
     },
+    "output/2026-08-23/rebelle-8-review-this-impressive-painting-software-let-me-turn-my-macb.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/rebelle-8-review-this-impressive-painting-software-let-me-turn-my-macb.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T06:02:44Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a8d0479bb67c388cfc253",
+          "zernio_scheduled_for_utc": "2026-08-23T06:59:34.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/rebelle-8-review-this-impressive-painting-software-let-me-turn-my-macb.png",
+      "metadata_file": "output/2026-08-23/rebelle-8-review-this-impressive-painting-software-let-me-turn-my-macb.json",
+      "published_at_utc": "2026-08-23T06:02:44Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8a8d0479bb67c388cfc253",
+      "zernio_scheduled_for_utc": "2026-08-23T06:59:34.000Z"
+    },
     "output/2026-08-23/researchers-found-768-leaked-aws-keys-that-still-work-and-the-containm.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/researchers-found-768-leaked-aws-keys-that-still-work-and-the-containm.txt",
