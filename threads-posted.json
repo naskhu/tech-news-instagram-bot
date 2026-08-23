@@ -61010,9 +61010,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T22:21:31.000Z"
     },
     "output/2026-08-23/chatgpt-for-iphone-now-grabs-your-recent-photos-with-a-long-press.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/chatgpt-for-iphone-now-grabs-your-recent-photos-with-a-long-press.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T11:58:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ae05dd7d24763dc214ef6",
+          "zernio_scheduled_for_utc": "2026-08-23T12:38:26.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T11:58:15Z",
           "zernio_mode": "scheduled",
@@ -61022,11 +61028,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/chatgpt-for-iphone-now-grabs-your-recent-photos-with-a-long-press.png",
       "metadata_file": "output/2026-08-23/chatgpt-for-iphone-now-grabs-your-recent-photos-with-a-long-press.json",
-      "published_at_utc": "2026-08-23T11:58:15Z",
+      "published_at_utc": "2026-08-23T11:58:21Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ae057d7d24763dc214cb6",
-      "zernio_scheduled_for_utc": "2026-08-23T12:36:26.000Z"
+      "zernio_post_id": "6a8ae05dd7d24763dc214ef6",
+      "zernio_scheduled_for_utc": "2026-08-23T12:38:26.000Z"
     },
     "output/2026-08-23/chatgpt-s-new-voice-was-driving-me-mad-so-i-counted-its-umms-and-hmms-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
