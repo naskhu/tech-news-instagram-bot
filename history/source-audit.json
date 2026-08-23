@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-23T20:15:33.494325+00:00",
+  "run_utc": "2026-08-23T20:43:04.741815+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-22T20:15:33.494477+00:00",
+  "cutoff_utc": "2026-08-22T20:43:04.741958+00:00",
   "eligible_story_count": 10,
   "sources": [
     {
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 23,
       "page_articles": 23,
-      "eligible_new": 1,
-      "already_processed": 22,
+      "eligible_new": 0,
+      "already_processed": 23,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 1,
-      "already_processed": 27,
+      "eligible_new": 0,
+      "already_processed": 28,
       "older_than_window": 5,
       "metadata_errors": {}
     },
@@ -349,7 +349,7 @@
       "page_links": 10,
       "page_articles": 10,
       "eligible_new": 1,
-      "already_processed": 10,
+      "already_processed": 9,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -390,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 43,
-      "eligible_new": 9,
+      "eligible_new": 10,
       "already_processed": 43,
-      "older_than_window": 49,
+      "older_than_window": 47,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 2
@@ -498,10 +498,10 @@
           "error": ""
         }
       ],
-      "rss_candidates": 31,
+      "rss_candidates": 32,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
+      "eligible_new": 3,
       "already_processed": 31,
       "older_than_window": 21,
       "metadata_errors": {}
@@ -568,13 +568,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 25,
-      "page_articles": 3,
+      "page_articles": 7,
       "eligible_new": 0,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 21
+        "http_429": 17
       }
     },
     {
@@ -606,9 +606,9 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
+      "eligible_new": 1,
       "already_processed": 87,
-      "older_than_window": 30,
+      "older_than_window": 29,
       "metadata_errors": {}
     },
     {
@@ -703,15 +703,15 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 2,
+          "links": 3,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 32,
-      "page_articles": 32,
+      "page_links": 33,
+      "page_articles": 33,
       "eligible_new": 1,
-      "already_processed": 31,
+      "already_processed": 32,
       "older_than_window": 0,
       "metadata_errors": {}
     }
