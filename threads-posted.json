@@ -61473,9 +61473,14 @@
       "zernio_scheduled_for_utc": "2026-08-23T10:22:42.000Z"
     },
     "output/2026-08-23/does-analogue-3d-really-make-retro-games-4k-here-s-what-you-should-kno.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/does-analogue-3d-really-make-retro-games-4k-here-s-what-you-should-kno.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T18:26:52Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8b3b57eaf04c2597f50318"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T18:26:25Z",
           "zernio_mode": "publishNow",
@@ -61484,10 +61489,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/does-analogue-3d-really-make-retro-games-4k-here-s-what-you-should-kno.png",
       "metadata_file": "output/2026-08-23/does-analogue-3d-really-make-retro-games-4k-here-s-what-you-should-kno.json",
-      "published_at_utc": "2026-08-23T18:26:25Z",
+      "published_at_utc": "2026-08-23T18:26:52Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a8b3b40a8ebe182716ee95f"
+      "zernio_post_id": "6a8b3b57eaf04c2597f50318"
     },
     "output/2026-08-23/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
