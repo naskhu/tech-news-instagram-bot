@@ -60909,6 +60909,25 @@
       "zernio_post_id": "6a8a2e0e130ce1b642cf764d",
       "zernio_scheduled_for_utc": "2026-08-22T23:38:55.000Z"
     },
+    "output/2026-08-23/apple-stores-preparing-significant-changes-for-new-home-product-launch.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/apple-stores-preparing-significant-changes-for-new-home-product-launch.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T14:47:26Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b07fe59ca9609ba3d6416",
+          "zernio_scheduled_for_utc": "2026-08-23T15:44:16.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/apple-stores-preparing-significant-changes-for-new-home-product-launch.png",
+      "metadata_file": "output/2026-08-23/apple-stores-preparing-significant-changes-for-new-home-product-launch.json",
+      "published_at_utc": "2026-08-23T14:47:26Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b07fe59ca9609ba3d6416",
+      "zernio_scheduled_for_utc": "2026-08-23T15:44:16.000Z"
+    },
     "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.txt",
