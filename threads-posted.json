@@ -63473,9 +63473,14 @@
       "zernio_scheduled_for_utc": "2026-08-22T20:39:56.000Z"
     },
     "output/2026-08-23/the-poco-f8-pro-is-the-best-affordable-flagship-phone-i-ve-used-in-rec.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/the-poco-f8-pro-is-the-best-affordable-flagship-phone-i-ve-used-in-rec.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T18:00:20Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8b351827a5507c039603ce"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T17:59:46Z",
           "zernio_mode": "publishNow",
@@ -63484,10 +63489,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/the-poco-f8-pro-is-the-best-affordable-flagship-phone-i-ve-used-in-rec.png",
       "metadata_file": "output/2026-08-23/the-poco-f8-pro-is-the-best-affordable-flagship-phone-i-ve-used-in-rec.json",
-      "published_at_utc": "2026-08-23T17:59:46Z",
+      "published_at_utc": "2026-08-23T18:00:20Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a8b34fd27a5507c0395f995"
+      "zernio_post_id": "6a8b351827a5507c039603ce"
     },
     "output/2026-08-23/the-reasons-siri-may-not-work-on-carplay-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
