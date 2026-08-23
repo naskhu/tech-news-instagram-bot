@@ -60635,9 +60635,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T19:44:58.000Z"
     },
     "output/2026-08-23/best-buy-s-60th-anniversary-sale-has-some-seriously-tempting-tcl-tv-de.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/best-buy-s-60th-anniversary-sale-has-some-seriously-tempting-tcl-tv-de.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T03:35:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a6a95463130efe4b5957b",
+          "zernio_scheduled_for_utc": "2026-08-23T04:34:37.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T03:35:44Z",
           "zernio_mode": "scheduled",
@@ -60647,11 +60653,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/best-buy-s-60th-anniversary-sale-has-some-seriously-tempting-tcl-tv-de.png",
       "metadata_file": "output/2026-08-23/best-buy-s-60th-anniversary-sale-has-some-seriously-tempting-tcl-tv-de.json",
-      "published_at_utc": "2026-08-23T03:35:44Z",
+      "published_at_utc": "2026-08-23T03:35:49Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a6a909b73e8f5215620c6",
-      "zernio_scheduled_for_utc": "2026-08-23T04:32:37.000Z"
+      "zernio_post_id": "6a8a6a95463130efe4b5957b",
+      "zernio_scheduled_for_utc": "2026-08-23T04:34:37.000Z"
     },
     "output/2026-08-23/betting-brands-are-off-premier-league-shirts-enterprise-software-moved.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
