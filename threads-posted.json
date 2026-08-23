@@ -62235,9 +62235,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T10:28:45.000Z"
     },
     "output/2026-08-23/modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T13:52:22Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8afb1535b2731efc30511f",
+          "zernio_scheduled_for_utc": "2026-08-23T14:51:10.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T13:52:16Z",
           "zernio_mode": "scheduled",
@@ -62247,11 +62253,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-.png",
       "metadata_file": "output/2026-08-23/modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-.json",
-      "published_at_utc": "2026-08-23T13:52:16Z",
+      "published_at_utc": "2026-08-23T13:52:22Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8afb1035b2731efc304eaf",
-      "zernio_scheduled_for_utc": "2026-08-23T14:49:10.000Z"
+      "zernio_post_id": "6a8afb1535b2731efc30511f",
+      "zernio_scheduled_for_utc": "2026-08-23T14:51:10.000Z"
     },
     "output/2026-08-23/nasa-axes-link-rescue-mission-to-save-swift-space-telescope.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
