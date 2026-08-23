@@ -65460,6 +65460,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8b699144bdddda62764a23",
       "zernio_scheduled_for_utc": "2026-08-23T21:46:23.000Z"
+    },
+    "output/2026-08-24/why-are-paranoid-claude-agents-launching-a-turf-war-and-deploying-self.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/why-are-paranoid-claude-agents-launching-a-turf-war-and-deploying-self.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T21:59:55Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b6d5be067ddec18c5e266",
+          "zernio_scheduled_for_utc": "2026-08-23T22:56:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/why-are-paranoid-claude-agents-launching-a-turf-war-and-deploying-self.png",
+      "metadata_file": "output/2026-08-24/why-are-paranoid-claude-agents-launching-a-turf-war-and-deploying-self.json",
+      "published_at_utc": "2026-08-23T21:59:55Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b6d5be067ddec18c5e266",
+      "zernio_scheduled_for_utc": "2026-08-23T22:56:50.000Z"
     }
   }
 }
