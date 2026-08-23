@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-23T03:32:46.479371+00:00",
+  "run_utc": "2026-08-23T04:19:57.272878+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-22T03:32:46.479535+00:00",
-  "eligible_story_count": 30,
+  "cutoff_utc": "2026-08-22T04:19:57.273038+00:00",
+  "eligible_story_count": 27,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 25,
       "page_articles": 25,
-      "eligible_new": 1,
-      "already_processed": 24,
+      "eligible_new": 0,
+      "already_processed": 25,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -249,7 +249,7 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 1,
-      "already_processed": 8,
+      "already_processed": 7,
       "older_than_window": 108,
       "metadata_errors": {}
     },
@@ -390,8 +390,8 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 35,
-      "already_processed": 7,
+      "eligible_new": 33,
+      "already_processed": 9,
       "older_than_window": 52,
       "metadata_errors": {
         "no_article_metadata": 4,
@@ -556,7 +556,7 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 21,
+          "links": 20,
           "error": ""
         },
         {
@@ -567,14 +567,13 @@
         }
       ],
       "rss_candidates": 15,
-      "page_links": 25,
-      "page_articles": 6,
+      "page_links": 24,
+      "page_articles": 5,
       "eligible_new": 0,
-      "already_processed": 15,
+      "already_processed": 17,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 18
+        "http_429": 19
       }
     },
     {
@@ -703,15 +702,15 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 4,
+          "links": 3,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 33,
-      "page_articles": 33,
+      "page_links": 32,
+      "page_articles": 32,
       "eligible_new": 1,
-      "already_processed": 32,
+      "already_processed": 31,
       "older_than_window": 0,
       "metadata_errors": {}
     }
