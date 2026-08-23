@@ -61079,9 +61079,14 @@
       "zernio_scheduled_for_utc": "2026-08-23T15:46:16.000Z"
     },
     "output/2026-08-23/applecare-vs-carrier-insurance-which-iphone-protection-plan-has-better.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/applecare-vs-carrier-insurance-which-iphone-protection-plan-has-better.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T18:25:06Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8b3aede6eec0448297f56c"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T18:24:38Z",
           "zernio_mode": "publishNow",
@@ -61090,10 +61095,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/applecare-vs-carrier-insurance-which-iphone-protection-plan-has-better.png",
       "metadata_file": "output/2026-08-23/applecare-vs-carrier-insurance-which-iphone-protection-plan-has-better.json",
-      "published_at_utc": "2026-08-23T18:24:38Z",
+      "published_at_utc": "2026-08-23T18:25:06Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a8b3ad3a0477a61f97bb477"
+      "zernio_post_id": "6a8b3aede6eec0448297f56c"
     },
     "output/2026-08-23/are-digital-cameras-still-worth-buying-in-2026-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
