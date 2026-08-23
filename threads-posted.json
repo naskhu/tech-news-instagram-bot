@@ -64785,6 +64785,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8b4825ba0311a30c2cafb6",
       "zernio_scheduled_for_utc": "2026-08-23T19:23:45.000Z"
+    },
+    "output/2026-08-24/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T19:43:29Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b4d61d0143e4182bc34f4",
+          "zernio_scheduled_for_utc": "2026-08-23T19:44:13.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions.png",
+      "metadata_file": "output/2026-08-24/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions.json",
+      "published_at_utc": "2026-08-23T19:43:29Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b4d61d0143e4182bc34f4",
+      "zernio_scheduled_for_utc": "2026-08-23T19:44:13.000Z"
     }
   }
 }
