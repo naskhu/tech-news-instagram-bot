@@ -60460,9 +60460,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T22:39:21.000Z"
     },
     "output/2026-08-23/a-generational-call-of-duty-game-after-almost-ten-hours-hands-on-i-thi.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/a-generational-call-of-duty-game-after-almost-ten-hours-hands-on-i-thi.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T06:02:25Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a8cf113eddeafe89b1fe7",
+          "zernio_scheduled_for_utc": "2026-08-23T06:23:44.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T06:02:19Z",
           "zernio_mode": "scheduled",
@@ -60472,11 +60478,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/a-generational-call-of-duty-game-after-almost-ten-hours-hands-on-i-thi.png",
       "metadata_file": "output/2026-08-23/a-generational-call-of-duty-game-after-almost-ten-hours-hands-on-i-thi.json",
-      "published_at_utc": "2026-08-23T06:02:19Z",
+      "published_at_utc": "2026-08-23T06:02:25Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a8ceabc849395ae0e99b6",
-      "zernio_scheduled_for_utc": "2026-08-23T06:21:44.000Z"
+      "zernio_post_id": "6a8a8cf113eddeafe89b1fe7",
+      "zernio_scheduled_for_utc": "2026-08-23T06:23:44.000Z"
     },
     "output/2026-08-23/a-thoroughly-intriguing-contest-i-tested-lg-s-latest-flagship-oled-aga.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
