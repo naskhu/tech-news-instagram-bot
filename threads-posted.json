@@ -62810,9 +62810,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T12:19:31.000Z"
     },
     "output/2026-08-23/this-asus-monitor-fixes-one-of-the-main-gripes-over-oled.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/this-asus-monitor-fixes-one-of-the-main-gripes-over-oled.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T13:20:34Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8af3a20d6a5d4cc592efd6",
+          "zernio_scheduled_for_utc": "2026-08-23T13:23:10.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T13:20:26Z",
           "zernio_mode": "scheduled",
@@ -62822,11 +62828,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/this-asus-monitor-fixes-one-of-the-main-gripes-over-oled.png",
       "metadata_file": "output/2026-08-23/this-asus-monitor-fixes-one-of-the-main-gripes-over-oled.json",
-      "published_at_utc": "2026-08-23T13:20:26Z",
+      "published_at_utc": "2026-08-23T13:20:34Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8af39a456265fd7a9a2181",
-      "zernio_scheduled_for_utc": "2026-08-23T13:21:10.000Z"
+      "zernio_post_id": "6a8af3a20d6a5d4cc592efd6",
+      "zernio_scheduled_for_utc": "2026-08-23T13:23:10.000Z"
     },
     "output/2026-08-23/this-handy-google-pixel-feature-can-help-solve-annoying-android-blueto.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
