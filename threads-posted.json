@@ -64886,6 +64886,25 @@
       "zernio_post_id": "6a8b63efcad7f3cf2ebd9240",
       "zernio_scheduled_for_utc": "2026-08-23T21:41:02.000Z"
     },
+    "output/2026-08-24/do-all-usb-c-ports-support-video-bgr.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/do-all-usb-c-ports-support-video-bgr.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T22:19:41Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b71fd924f242d42aa5ed7",
+          "zernio_scheduled_for_utc": "2026-08-23T22:39:07.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/do-all-usb-c-ports-support-video-bgr.png",
+      "metadata_file": "output/2026-08-24/do-all-usb-c-ports-support-video-bgr.json",
+      "published_at_utc": "2026-08-23T22:19:41Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b71fd924f242d42aa5ed7",
+      "zernio_scheduled_for_utc": "2026-08-23T22:39:07.000Z"
+    },
     "output/2026-08-24/dr-dre-and-jimmy-iovine-on-music-and-ai.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/dr-dre-and-jimmy-iovine-on-music-and-ai.txt",
