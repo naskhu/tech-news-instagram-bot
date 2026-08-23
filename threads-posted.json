@@ -62684,6 +62684,25 @@
       "zernio_post_id": "6a8a041c14ee9eed70106c79",
       "zernio_scheduled_for_utc": "2026-08-22T20:39:56.000Z"
     },
+    "output/2026-08-23/the-robots-are-stumbling-on-their-way-to-the-revolution-cnet.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/the-robots-are-stumbling-on-their-way-to-the-revolution-cnet.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T13:20:40Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8af3a8b747d678511c0957",
+          "zernio_scheduled_for_utc": "2026-08-23T13:40:05.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/the-robots-are-stumbling-on-their-way-to-the-revolution-cnet.png",
+      "metadata_file": "output/2026-08-23/the-robots-are-stumbling-on-their-way-to-the-revolution-cnet.json",
+      "published_at_utc": "2026-08-23T13:20:40Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8af3a8b747d678511c0957",
+      "zernio_scheduled_for_utc": "2026-08-23T13:40:05.000Z"
+    },
     "output/2026-08-23/the-terra-kaffe-demi-espresso-machine-might-only-have-a-four-drink-men.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/the-terra-kaffe-demi-espresso-machine-might-only-have-a-four-drink-men.txt",
