@@ -62145,9 +62145,14 @@
       "zernio_scheduled_for_utc": "2026-08-23T16:52:58.000Z"
     },
     "output/2026-08-23/humanoid-robots-have-beaten-usain-bolt-s-100-meter-dash-record-engadge.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/humanoid-robots-have-beaten-usain-bolt-s-100-meter-dash-record-engadge.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T18:56:02Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8b4231530c124f920dbabd"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T18:55:38Z",
           "zernio_mode": "publishNow",
@@ -62156,10 +62161,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/humanoid-robots-have-beaten-usain-bolt-s-100-meter-dash-record-engadge.png",
       "metadata_file": "output/2026-08-23/humanoid-robots-have-beaten-usain-bolt-s-100-meter-dash-record-engadge.json",
-      "published_at_utc": "2026-08-23T18:55:38Z",
+      "published_at_utc": "2026-08-23T18:56:02Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a8b421a530c124f920daf80"
+      "zernio_post_id": "6a8b4231530c124f920dbabd"
     },
     "output/2026-08-23/humanoid-robots-shatter-usain-bolt-s-100m-record-hits-23-8-mph-before-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
