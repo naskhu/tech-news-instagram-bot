@@ -64711,6 +64711,25 @@
       "zernio_post_id": "6a8b483eb559bdd98a3089d2",
       "zernio_scheduled_for_utc": "2026-08-23T20:01:35.000Z"
     },
+    "output/2026-08-24/ai-isn-t-killing-jobs-yet-over-50-of-businesses-say-ai-is-creating-rol.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/ai-isn-t-killing-jobs-yet-over-50-of-businesses-say-ai-is-creating-rol.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T19:21:40Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b48443b88d8180a60a37f",
+          "zernio_scheduled_for_utc": "2026-08-23T20:18:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/ai-isn-t-killing-jobs-yet-over-50-of-businesses-say-ai-is-creating-rol.png",
+      "metadata_file": "output/2026-08-24/ai-isn-t-killing-jobs-yet-over-50-of-businesses-say-ai-is-creating-rol.json",
+      "published_at_utc": "2026-08-23T19:21:40Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b48443b88d8180a60a37f",
+      "zernio_scheduled_for_utc": "2026-08-23T20:18:30.000Z"
+    },
     "output/2026-08-24/elon-musk-endorses-murder-and-starvation.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/elon-musk-endorses-murder-and-starvation.txt",
