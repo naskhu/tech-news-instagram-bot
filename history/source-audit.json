@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-23T04:56:18.719736+00:00",
+  "run_utc": "2026-08-23T05:23:32.193097+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-22T04:56:18.719884+00:00",
-  "eligible_story_count": 23,
+  "cutoff_utc": "2026-08-22T05:23:32.193277+00:00",
+  "eligible_story_count": 18,
   "sources": [
     {
       "source": "TechCrunch",
@@ -20,15 +20,15 @@
         {
           "url": "https://techcrunch.com/latest/",
           "status": 200,
-          "links": 25,
+          "links": 24,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 25,
-      "page_articles": 25,
+      "page_links": 24,
+      "page_articles": 24,
       "eligible_new": 0,
-      "already_processed": 25,
+      "already_processed": 24,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -390,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 30,
-      "already_processed": 12,
-      "older_than_window": 52,
+      "eligible_new": 25,
+      "already_processed": 16,
+      "older_than_window": 53,
       "metadata_errors": {
         "missing_title": 1,
         "no_article_metadata": 4
@@ -573,8 +573,7 @@
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 17
+        "http_429": 18
       }
     },
     {
