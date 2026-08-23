@@ -60709,6 +60709,25 @@
       "zernio_post_id": "6a8a2e1a130ce1b642cf7896",
       "zernio_scheduled_for_utc": "2026-08-22T23:57:50.000Z"
     },
+    "output/2026-08-23/floating-10-mw-nuclear-reactor-proposed-for-california-barge-mounted-s.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/floating-10-mw-nuclear-reactor-proposed-for-california-barge-mounted-s.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T00:58:41Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a45c1a11c8a788eab56b6",
+          "zernio_scheduled_for_utc": "2026-08-23T01:55:37.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/floating-10-mw-nuclear-reactor-proposed-for-california-barge-mounted-s.png",
+      "metadata_file": "output/2026-08-23/floating-10-mw-nuclear-reactor-proposed-for-california-barge-mounted-s.json",
+      "published_at_utc": "2026-08-23T00:58:41Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8a45c1a11c8a788eab56b6",
+      "zernio_scheduled_for_utc": "2026-08-23T01:55:37.000Z"
+    },
     "output/2026-08-23/google-s-new-pixel-11-offers-an-incredible-camera-feature-that-apple-s.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/google-s-new-pixel-11-offers-an-incredible-camera-feature-that-apple-s.txt",
