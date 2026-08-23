@@ -61534,6 +61534,25 @@
       "zernio_post_id": "6a8a043231e85b84c7eacf8e",
       "zernio_scheduled_for_utc": "2026-08-22T21:17:46.000Z"
     },
+    "output/2026-08-23/what-does-ssd-stand-for-bgr.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/what-does-ssd-stand-for-bgr.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T02:25:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a5a033812d5665519789e",
+          "zernio_scheduled_for_utc": "2026-08-23T02:25:51.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/what-does-ssd-stand-for-bgr.png",
+      "metadata_file": "output/2026-08-23/what-does-ssd-stand-for-bgr.json",
+      "published_at_utc": "2026-08-23T02:25:07Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8a5a033812d5665519789e",
+      "zernio_scheduled_for_utc": "2026-08-23T02:25:51.000Z"
+    },
     "output/2026-08-23/what-does-the-battery-symbol-next-to-a-usb-port-mean-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/what-does-the-battery-symbol-next-to-a-usb-port-mean-bgr.txt",
