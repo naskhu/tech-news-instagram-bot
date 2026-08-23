@@ -1,0 +1,23 @@
+{
+  "title": "Harvey’s first in-house model for legal work is here",
+  "summary": "Harvey has launched Tenet, its first proprietary model for legal work, post-trained on Kimi K3, the open-weight model from Chinese startup Moonshot. The company is backed by OpenAI, whose models Tenet is designed to displace inside Harvey’s own product.",
+  "source": "The Next Web",
+  "url": "https://thenextweb.com/news/harvey-tenet-legal-model-kimi-k3-chinese-base",
+  "published_utc": "2026-08-23T09:25:58+00:00",
+  "output_day": "2026-08-23",
+  "date_source": "meta",
+  "generated_utc": "2026-08-23T10:45:47.969113+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.thenextweb.com/2026/08/harvey-ai-legal.avif",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 8,
+  "theme_accent_rgb": [
+    84,
+    153,
+    255
+  ],
+  "image": "output/2026-08-23/harvey-s-first-in-house-model-for-legal-work-is-here.png",
+  "caption": "output/2026-08-23/harvey-s-first-in-house-model-for-legal-work-is-here.txt"
+}
