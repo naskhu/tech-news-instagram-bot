@@ -65186,6 +65186,25 @@
       "zernio_post_id": "6a8b5118e455259cbeb9820b",
       "zernio_scheduled_for_utc": "2026-08-23T20:39:26.000Z"
     },
+    "output/2026-08-24/the-razer-soma-chroma-has-a-silly-name-silly-price-tag-and-sillily-req.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/the-razer-soma-chroma-has-a-silly-name-silly-price-tag-and-sillily-req.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T21:19:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b63f50ff2488576539be0",
+          "zernio_scheduled_for_utc": "2026-08-23T21:57:57.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/the-razer-soma-chroma-has-a-silly-name-silly-price-tag-and-sillily-req.png",
+      "metadata_file": "output/2026-08-24/the-razer-soma-chroma-has-a-silly-name-silly-price-tag-and-sillily-req.json",
+      "published_at_utc": "2026-08-23T21:19:49Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b63f50ff2488576539be0",
+      "zernio_scheduled_for_utc": "2026-08-23T21:57:57.000Z"
+    },
     "output/2026-08-24/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions.txt",
