@@ -60460,9 +60460,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T22:39:21.000Z"
     },
     "output/2026-08-23/after-one-month-with-the-samsung-galaxy-z-fold-8-i-m-convinced-that-it.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/after-one-month-with-the-samsung-galaxy-z-fold-8-i-m-convinced-that-it.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T04:59:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a7e227169e4dc81edba6f",
+          "zernio_scheduled_for_utc": "2026-08-23T05:58:06.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T04:59:08Z",
           "zernio_mode": "scheduled",
@@ -60472,11 +60478,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/after-one-month-with-the-samsung-galaxy-z-fold-8-i-m-convinced-that-it.png",
       "metadata_file": "output/2026-08-23/after-one-month-with-the-samsung-galaxy-z-fold-8-i-m-convinced-that-it.json",
-      "published_at_utc": "2026-08-23T04:59:08Z",
+      "published_at_utc": "2026-08-23T04:59:14Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a7e1c1feaa1849228481c",
-      "zernio_scheduled_for_utc": "2026-08-23T05:56:06.000Z"
+      "zernio_post_id": "6a8a7e227169e4dc81edba6f",
+      "zernio_scheduled_for_utc": "2026-08-23T05:58:06.000Z"
     },
     "output/2026-08-23/ai-data-centres-are-taking-the-capacitors-carmakers-need.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
