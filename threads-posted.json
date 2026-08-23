@@ -61585,9 +61585,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T04:43:55.000Z"
     },
     "output/2026-08-23/the-best-kindle-alternatives-excellent-ereaders-for-anyone-who-s-had-e.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/the-best-kindle-alternatives-excellent-ereaders-for-anyone-who-s-had-e.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T04:58:53Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8a7e0d8da9440bf9b02d8a",
+          "zernio_scheduled_for_utc": "2026-08-23T05:20:16.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T04:58:48Z",
           "zernio_mode": "scheduled",
@@ -61597,11 +61603,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/the-best-kindle-alternatives-excellent-ereaders-for-anyone-who-s-had-e.png",
       "metadata_file": "output/2026-08-23/the-best-kindle-alternatives-excellent-ereaders-for-anyone-who-s-had-e.json",
-      "published_at_utc": "2026-08-23T04:58:48Z",
+      "published_at_utc": "2026-08-23T04:58:53Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8a7e070173e20655f06862",
-      "zernio_scheduled_for_utc": "2026-08-23T05:18:16.000Z"
+      "zernio_post_id": "6a8a7e0d8da9440bf9b02d8a",
+      "zernio_scheduled_for_utc": "2026-08-23T05:20:16.000Z"
     },
     "output/2026-08-23/the-company-that-just-opened-america-s-newest-battery-plant-says-solid.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
