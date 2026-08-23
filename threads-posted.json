@@ -62784,6 +62784,25 @@
       "zernio_post_id": "6a8a2e03f31004ded09ce5b1",
       "zernio_scheduled_for_utc": "2026-08-22T23:20:00.000Z"
     },
+    "output/2026-08-23/what-s-the-best-kindle-of-2026-so-far.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-23/what-s-the-best-kindle-of-2026-so-far.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T11:18:12Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ad6f47e7aba5c3000160c",
+          "zernio_scheduled_for_utc": "2026-08-23T11:37:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/what-s-the-best-kindle-of-2026-so-far.png",
+      "metadata_file": "output/2026-08-23/what-s-the-best-kindle-of-2026-so-far.json",
+      "published_at_utc": "2026-08-23T11:18:12Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8ad6f47e7aba5c3000160c",
+      "zernio_scheduled_for_utc": "2026-08-23T11:37:38.000Z"
+    },
     "output/2026-08-23/why-did-laptop-manufacturers-stop-making-netbooks-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/why-did-laptop-manufacturers-stop-making-netbooks-bgr.txt",
