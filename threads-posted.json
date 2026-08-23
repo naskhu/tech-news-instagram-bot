@@ -64985,6 +64985,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8b4d69e51833b86652cdab",
       "zernio_scheduled_for_utc": "2026-08-23T19:46:13.000Z"
+    },
+    "output/2026-08-24/who-s-behind-the-new-stealth-model-ox-alpha-techcrunch.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/who-s-behind-the-new-stealth-model-ox-alpha-techcrunch.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-23T20:18:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8b557b1e3a5c11d755d026",
+          "zernio_scheduled_for_utc": "2026-08-23T20:18:47.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/who-s-behind-the-new-stealth-model-ox-alpha-techcrunch.png",
+      "metadata_file": "output/2026-08-24/who-s-behind-the-new-stealth-model-ox-alpha-techcrunch.json",
+      "published_at_utc": "2026-08-23T20:18:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8b557b1e3a5c11d755d026",
+      "zernio_scheduled_for_utc": "2026-08-23T20:18:47.000Z"
     }
   }
 }
