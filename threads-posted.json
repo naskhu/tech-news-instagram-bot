@@ -61660,9 +61660,15 @@
       "zernio_scheduled_for_utc": "2026-08-22T19:07:08.000Z"
     },
     "output/2026-08-23/is-expensive-bottled-water-actually-better-for-you.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/is-expensive-bottled-water-actually-better-for-you.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T09:48:29Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ac1ed96a9317271bf7d50",
+          "zernio_scheduled_for_utc": "2026-08-23T10:09:50.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T09:48:24Z",
           "zernio_mode": "scheduled",
@@ -61672,11 +61678,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/is-expensive-bottled-water-actually-better-for-you.png",
       "metadata_file": "output/2026-08-23/is-expensive-bottled-water-actually-better-for-you.json",
-      "published_at_utc": "2026-08-23T09:48:24Z",
+      "published_at_utc": "2026-08-23T09:48:29Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ac1e7fa9ef60c861197d2",
-      "zernio_scheduled_for_utc": "2026-08-23T10:07:50.000Z"
+      "zernio_post_id": "6a8ac1ed96a9317271bf7d50",
+      "zernio_scheduled_for_utc": "2026-08-23T10:09:50.000Z"
     },
     "output/2026-08-23/kevin-costner-s-underrated-post-apocalyptic-90s-sci-fi-flop-is-streami.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
