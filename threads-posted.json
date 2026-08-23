@@ -62685,9 +62685,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T03:37:52.000Z"
     },
     "output/2026-08-23/volcanoes-that-made-history.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/volcanoes-that-made-history.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T11:18:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ad6ee7e7aba5c300013e4",
+          "zernio_scheduled_for_utc": "2026-08-23T11:20:43.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T11:17:59Z",
           "zernio_mode": "scheduled",
@@ -62697,11 +62703,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/volcanoes-that-made-history.png",
       "metadata_file": "output/2026-08-23/volcanoes-that-made-history.json",
-      "published_at_utc": "2026-08-23T11:17:59Z",
+      "published_at_utc": "2026-08-23T11:18:07Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ad6e77e7aba5c300010e0",
-      "zernio_scheduled_for_utc": "2026-08-23T11:18:43.000Z"
+      "zernio_post_id": "6a8ad6ee7e7aba5c300013e4",
+      "zernio_scheduled_for_utc": "2026-08-23T11:20:43.000Z"
     },
     "output/2026-08-23/what-does-ssd-stand-for-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
