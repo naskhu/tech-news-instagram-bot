@@ -1,0 +1,23 @@
+{
+  "title": "Do All USB-C Ports Support Video? - BGR",
+  "summary": "Not every USB-C port or cable supports video output. USB-C docks can take an incoming USB-C video signal and route it to the devices plugged into its dedicated video ports, such as DisplayPort, VGA, HDMI, and also USB-C.",
+  "source": "BGR",
+  "url": "https://bgr.com/2239690/do-all-usb-c-ports-support-video",
+  "published_utc": "2026-08-23T22:17:00+00:00",
+  "output_day": "2026-08-24",
+  "date_source": "meta",
+  "generated_utc": "2026-08-23T22:18:15.051737+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bgr.com/img/gallery/do-all-usb-c-ports-support-video/l-intro-1787095963.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    230,
+    57,
+    70
+  ],
+  "image": "output/2026-08-24/do-all-usb-c-ports-support-video-bgr.png",
+  "caption": "output/2026-08-24/do-all-usb-c-ports-support-video-bgr.txt"
+}
