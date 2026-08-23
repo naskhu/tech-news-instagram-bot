@@ -63395,9 +63395,14 @@
       "zernio_scheduled_for_utc": "2026-08-23T10:49:38.000Z"
     },
     "output/2026-08-23/the-7-best-robot-lawn-mowers-that-can-trim-over-an-acre-daily-bgr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-23/the-7-best-robot-lawn-mowers-that-can-trim-over-an-acre-daily-bgr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-23T18:26:02Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8b3b27a8ebe182716ee33a"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-23T18:25:37Z",
           "zernio_mode": "publishNow",
@@ -63406,10 +63411,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-23/the-7-best-robot-lawn-mowers-that-can-trim-over-an-acre-daily-bgr.png",
       "metadata_file": "output/2026-08-23/the-7-best-robot-lawn-mowers-that-can-trim-over-an-acre-daily-bgr.json",
-      "published_at_utc": "2026-08-23T18:25:37Z",
+      "published_at_utc": "2026-08-23T18:26:02Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a8b3b08c049089d467b1c2f"
+      "zernio_post_id": "6a8b3b27a8ebe182716ee33a"
     },
     "output/2026-08-23/the-best-kindle-alternatives-excellent-ereaders-for-anyone-who-s-had-e.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
