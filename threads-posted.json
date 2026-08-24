@@ -67673,6 +67673,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8c991ef709b6860df23489",
       "zernio_scheduled_for_utc": "2026-08-24T19:40:12.000Z"
+    },
+    "output/2026-08-25/zillow-and-redfin-settle-ftc-antitrust-case.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/zillow-and-redfin-settle-ftc-antitrust-case.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-24T21:10:18Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8cb33a9f4463180e8a3977",
+          "zernio_scheduled_for_utc": "2026-08-24T21:11:01.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/zillow-and-redfin-settle-ftc-antitrust-case.png",
+      "metadata_file": "output/2026-08-25/zillow-and-redfin-settle-ftc-antitrust-case.json",
+      "published_at_utc": "2026-08-24T21:10:18Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8cb33a9f4463180e8a3977",
+      "zernio_scheduled_for_utc": "2026-08-24T21:11:01.000Z"
     }
   }
 }
