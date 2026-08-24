@@ -66012,9 +66012,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T09:53:17.000Z"
     },
     "output/2026-08-24/netflix-reportedly-considers-opening-its-app-to-other-streamers.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/netflix-reportedly-considers-opening-its-app-to-other-streamers.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T14:42:11Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c5843bc4eb7ea4a8884c1",
+          "zernio_scheduled_for_utc": "2026-08-24T15:40:53.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T14:42:05Z",
           "zernio_mode": "scheduled",
@@ -66024,11 +66030,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/netflix-reportedly-considers-opening-its-app-to-other-streamers.png",
       "metadata_file": "output/2026-08-24/netflix-reportedly-considers-opening-its-app-to-other-streamers.json",
-      "published_at_utc": "2026-08-24T14:42:05Z",
+      "published_at_utc": "2026-08-24T14:42:11Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8c583cbc4eb7ea4a888116",
-      "zernio_scheduled_for_utc": "2026-08-24T15:38:53.000Z"
+      "zernio_post_id": "6a8c5843bc4eb7ea4a8884c1",
+      "zernio_scheduled_for_utc": "2026-08-24T15:40:53.000Z"
     },
     "output/2026-08-24/new-zealand-joins-the-global-push-to-keep-under-16s-off-social-media.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
