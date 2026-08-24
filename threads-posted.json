@@ -67724,6 +67724,25 @@
       "zernio_post_id": "6a8cb35027ecce6de0c47d15",
       "zernio_scheduled_for_utc": "2026-08-24T21:31:56.000Z"
     },
+    "output/2026-08-25/til-you-should-read-the-instructions-first-even-for-a-popsocket.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/til-you-should-read-the-instructions-first-even-for-a-popsocket.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-24T21:50:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8cbca7a54962adc0d124d8",
+          "zernio_scheduled_for_utc": "2026-08-24T22:09:52.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/til-you-should-read-the-instructions-first-even-for-a-popsocket.png",
+      "metadata_file": "output/2026-08-25/til-you-should-read-the-instructions-first-even-for-a-popsocket.json",
+      "published_at_utc": "2026-08-24T21:50:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8cbca7a54962adc0d124d8",
+      "zernio_scheduled_for_utc": "2026-08-24T22:09:52.000Z"
+    },
     "output/2026-08-25/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo.txt",
