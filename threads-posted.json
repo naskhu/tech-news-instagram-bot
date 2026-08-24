@@ -67424,6 +67424,25 @@
       "zernio_post_id": "6a8c992b4e577c56255d1d12",
       "zernio_scheduled_for_utc": "2026-08-24T19:59:07.000Z"
     },
+    "output/2026-08-25/feds-deepen-probe-into-general-motors-brake-failures.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/feds-deepen-probe-into-general-motors-brake-failures.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-24T19:54:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ca16e256a6d96dd101cfd",
+          "zernio_scheduled_for_utc": "2026-08-24T20:32:27.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/feds-deepen-probe-into-general-motors-brake-failures.png",
+      "metadata_file": "output/2026-08-25/feds-deepen-probe-into-general-motors-brake-failures.json",
+      "published_at_utc": "2026-08-24T19:54:23Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8ca16e256a6d96dd101cfd",
+      "zernio_scheduled_for_utc": "2026-08-24T20:32:27.000Z"
+    },
     "output/2026-08-25/instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-conce.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-conce.txt",
