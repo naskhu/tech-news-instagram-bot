@@ -65112,9 +65112,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T23:21:05.000Z"
     },
     "output/2026-08-24/even-sam-altman-does-not-yearn-for-automation.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/even-sam-altman-does-not-yearn-for-automation.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T11:02:06Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c24ae55db83c10ab1c2d4",
+          "zernio_scheduled_for_utc": "2026-08-24T11:23:24.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T11:02:00Z",
           "zernio_mode": "scheduled",
@@ -65124,11 +65130,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/even-sam-altman-does-not-yearn-for-automation.png",
       "metadata_file": "output/2026-08-24/even-sam-altman-does-not-yearn-for-automation.json",
-      "published_at_utc": "2026-08-24T11:02:00Z",
+      "published_at_utc": "2026-08-24T11:02:06Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8c24a864367d6575c2b228",
-      "zernio_scheduled_for_utc": "2026-08-24T11:21:24.000Z"
+      "zernio_post_id": "6a8c24ae55db83c10ab1c2d4",
+      "zernio_scheduled_for_utc": "2026-08-24T11:23:24.000Z"
     },
     "output/2026-08-24/galbot-robots-complete-100-consecutive-rallies-against-a-tennis-champi.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
