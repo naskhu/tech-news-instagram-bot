@@ -1,0 +1,23 @@
+{
+  "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red handed",
+  "summary": "Chinese retailer AliExpress has been caught fingerprinting visitors after one of the metrics—an outdated technique that measures inaudible sounds it sends to browsers—impeded a researcher’s ability to use his bluetooth headphones. Each time he loaded AliExpress, the phone audio stopped.",
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers",
+  "published_utc": "2026-08-24T19:19:21+00:00",
+  "output_day": "2026-08-25",
+  "date_source": "meta",
+  "generated_utc": "2026-08-24T19:51:30.624572+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    245,
+    91,
+    46
+  ],
+  "image": "output/2026-08-25/inaudible-sounds-used-to-fingerprint-browsers-catch-aliexpress-red-han.png",
+  "caption": "output/2026-08-25/inaudible-sounds-used-to-fingerprint-browsers-catch-aliexpress-red-han.txt"
+}
