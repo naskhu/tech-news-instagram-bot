@@ -1,0 +1,23 @@
+{
+  "title": "Microsoft Teams now lets admins block external bots from meetings",
+  "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings",
+  "published_utc": "2026-08-24T14:00:19+00:00",
+  "output_day": "2026-08-25",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-24T23:42:32.195551+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2025/11/13/Microsoft_Teams.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-25/microsoft-teams-now-lets-admins-block-external-bots-from-meetings.png",
+  "caption": "output/2026-08-25/microsoft-teams-now-lets-admins-block-external-bots-from-meetings.txt"
+}

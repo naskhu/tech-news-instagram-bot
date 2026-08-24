@@ -1,0 +1,23 @@
+{
+  "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+  "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks",
+  "published_utc": "2026-08-24T19:26:32+00:00",
+  "output_day": "2026-08-25",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-24T23:42:29.188209+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/24/miniorange.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-25/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks.png",
+  "caption": "output/2026-08-25/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks.txt"
+}
