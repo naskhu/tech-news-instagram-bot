@@ -1,0 +1,23 @@
+{
+  "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+  "summary": "The complete list of impacted platforms includes both Windows client releases (including the latest versions of Windows 10 and Windows 11) and Windows Server (from Windows Server 2012 up to Windows Server 2025).",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps",
+  "published_utc": "2026-08-24T12:40:21+00:00",
+  "output_day": "2026-08-24",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-24T12:53:56.130654+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/24/Printer-printing-error.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-24/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps.png",
+  "caption": "output/2026-08-24/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps.txt"
+}
