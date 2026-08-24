@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-24T23:41:26.007491+00:00",
+  "run_utc": "2026-08-24T23:57:55.938629+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-23T23:41:26.007632+00:00",
-  "eligible_story_count": 190,
+  "cutoff_utc": "2026-08-23T23:57:55.938773+00:00",
+  "eligible_story_count": 187,
   "sources": [
     {
       "source": "TechCrunch",
@@ -55,8 +55,8 @@
       "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 29,
-      "eligible_new": 1,
-      "already_processed": 28,
+      "eligible_new": 0,
+      "already_processed": 29,
       "older_than_window": 5,
       "metadata_errors": {
         "no_article_metadata": 1
@@ -379,24 +379,24 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 19,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 31,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
+      "page_articles": 45,
       "eligible_new": 48,
-      "already_processed": 29,
+      "already_processed": 30,
       "older_than_window": 16,
       "metadata_errors": {
-        "no_article_metadata": 5,
+        "no_article_metadata": 4,
         "missing_title": 1
       }
     },
@@ -490,21 +490,21 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 32,
+          "links": 33,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 8,
+          "links": 7,
           "error": ""
         }
       ],
-      "rss_candidates": 29,
+      "rss_candidates": 30,
       "page_links": 40,
       "page_articles": 37,
-      "eligible_new": 3,
-      "already_processed": 32,
+      "eligible_new": 4,
+      "already_processed": 31,
       "older_than_window": 14,
       "metadata_errors": {
         "http_404": 3
@@ -573,8 +573,8 @@
       "rss_candidates": 15,
       "page_links": 26,
       "page_articles": 7,
-      "eligible_new": 4,
-      "already_processed": 11,
+      "eligible_new": 1,
+      "already_processed": 14,
       "older_than_window": 0,
       "metadata_errors": {
         "http_429": 19
