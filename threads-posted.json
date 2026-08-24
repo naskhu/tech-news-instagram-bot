@@ -65512,9 +65512,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T19:23:45.000Z"
     },
     "output/2026-08-24/looking-for-the-most-accurate-3d-printer-our-exclusive-testing-reveals.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/looking-for-the-most-accurate-3d-printer-our-exclusive-testing-reveals.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T10:25:00Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c1bfc28eb87a427c1a798",
+          "zernio_scheduled_for_utc": "2026-08-24T11:05:04.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T10:24:54Z",
           "zernio_mode": "scheduled",
@@ -65524,11 +65530,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/looking-for-the-most-accurate-3d-printer-our-exclusive-testing-reveals.png",
       "metadata_file": "output/2026-08-24/looking-for-the-most-accurate-3d-printer-our-exclusive-testing-reveals.json",
-      "published_at_utc": "2026-08-24T10:24:54Z",
+      "published_at_utc": "2026-08-24T10:25:00Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8c1bf6d859633173da818a",
-      "zernio_scheduled_for_utc": "2026-08-24T11:03:04.000Z"
+      "zernio_post_id": "6a8c1bfc28eb87a427c1a798",
+      "zernio_scheduled_for_utc": "2026-08-24T11:05:04.000Z"
     },
     "output/2026-08-24/nasa-s-new-space-telescope-is-poised-to-discover-hidden-facets-of-the-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
