@@ -67373,6 +67373,25 @@
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a8c800b80d41ba6de565b29"
+    },
+    "output/2026-08-25/instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-conce.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-conce.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-24T19:18:35Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c990af8db607c5f703636",
+          "zernio_scheduled_for_utc": "2026-08-24T19:19:17.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-conce.png",
+      "metadata_file": "output/2026-08-25/instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-conce.json",
+      "published_at_utc": "2026-08-24T19:18:35Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8c990af8db607c5f703636",
+      "zernio_scheduled_for_utc": "2026-08-24T19:19:17.000Z"
     }
   }
 }
