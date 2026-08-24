@@ -66312,9 +66312,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T12:31:28.000Z"
     },
     "output/2026-08-24/robotaxis-are-real-now-so-is-the-pushback.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/robotaxis-are-real-now-so-is-the-pushback.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T16:47:14Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c7592386d6674ced671fd",
+          "zernio_scheduled_for_utc": "2026-08-24T16:49:51.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T16:47:07Z",
           "zernio_mode": "scheduled",
@@ -66324,11 +66330,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/robotaxis-are-real-now-so-is-the-pushback.png",
       "metadata_file": "output/2026-08-24/robotaxis-are-real-now-so-is-the-pushback.json",
-      "published_at_utc": "2026-08-24T16:47:07Z",
+      "published_at_utc": "2026-08-24T16:47:14Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8c758ba1cfb1aee09282d2",
-      "zernio_scheduled_for_utc": "2026-08-24T16:47:51.000Z"
+      "zernio_post_id": "6a8c7592386d6674ced671fd",
+      "zernio_scheduled_for_utc": "2026-08-24T16:49:51.000Z"
     },
     "output/2026-08-24/samsung-galaxy-s27-ultra-archives.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
