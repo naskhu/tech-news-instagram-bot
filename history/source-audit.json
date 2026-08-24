@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-24T07:31:34.163897+00:00",
+  "run_utc": "2026-08-24T08:24:50.189072+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-23T07:31:34.164038+00:00",
-  "eligible_story_count": 2,
+  "cutoff_utc": "2026-08-23T08:24:50.189193+00:00",
+  "eligible_story_count": 3,
   "sources": [
     {
       "source": "TechCrunch",
@@ -143,8 +143,8 @@
       "already_processed": 1,
       "older_than_window": 17,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 7,
-      "older_than_window": 108,
+      "older_than_window": 107,
       "metadata_errors": {}
     },
     {
@@ -389,13 +389,13 @@
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
+      "page_articles": 45,
       "eligible_new": 4,
       "already_processed": 51,
-      "older_than_window": 42,
+      "older_than_window": 41,
       "metadata_errors": {
-        "missing_title": 1,
-        "no_article_metadata": 5
+        "no_article_metadata": 4,
+        "missing_title": 1
       }
     },
     {
@@ -431,9 +431,9 @@
       "rss_candidates": 0,
       "page_links": 17,
       "page_articles": 17,
-      "eligible_new": 3,
+      "eligible_new": 4,
       "already_processed": 8,
-      "older_than_window": 6,
+      "older_than_window": 5,
       "metadata_errors": {}
     },
     {
@@ -501,9 +501,9 @@
       "rss_candidates": 33,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 3,
+      "eligible_new": 2,
       "already_processed": 31,
-      "older_than_window": 23,
+      "older_than_window": 24,
       "metadata_errors": {}
     },
     {
@@ -573,8 +573,7 @@
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 18
+        "http_429": 19
       }
     },
     {
