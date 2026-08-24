@@ -66380,6 +66380,23 @@
       "zernio_post_id": "6a8b5118e455259cbeb9820b",
       "zernio_scheduled_for_utc": "2026-08-23T20:39:26.000Z"
     },
+    "output/2026-08-24/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-24T17:34:21Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8c808c31c234c771249432"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach.png",
+      "metadata_file": "output/2026-08-24/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach.json",
+      "published_at_utc": "2026-08-24T17:34:21Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a8c808c31c234c771249432"
+    },
     "output/2026-08-24/review-chuwi-s-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/review-chuwi-s-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo.txt",
