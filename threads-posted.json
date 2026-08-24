@@ -65812,9 +65812,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T11:05:04.000Z"
     },
     "output/2026-08-24/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T12:56:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c3f77ffb9d8d297efb49a",
+          "zernio_scheduled_for_utc": "2026-08-24T13:55:08.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T12:56:17Z",
           "zernio_mode": "scheduled",
@@ -65824,11 +65830,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps.png",
       "metadata_file": "output/2026-08-24/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps.json",
-      "published_at_utc": "2026-08-24T12:56:17Z",
+      "published_at_utc": "2026-08-24T12:56:23Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8c3f716568667f5aefe509",
-      "zernio_scheduled_for_utc": "2026-08-24T13:53:08.000Z"
+      "zernio_post_id": "6a8c3f77ffb9d8d297efb49a",
+      "zernio_scheduled_for_utc": "2026-08-24T13:55:08.000Z"
     },
     "output/2026-08-24/microsoft-shares-temporary-fix-for-windows-11-gaming-issues.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
