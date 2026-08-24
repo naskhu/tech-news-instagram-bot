@@ -65812,9 +65812,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T22:18:52.000Z"
     },
     "output/2026-08-24/what-can-happen-if-you-never-restart-your-router-bgr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/what-can-happen-if-you-never-restart-your-router-bgr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T04:29:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8bc8b7a5a650bd11df4ae6",
+          "zernio_scheduled_for_utc": "2026-08-24T05:28:56.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T04:29:38Z",
           "zernio_mode": "scheduled",
@@ -65824,11 +65830,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/what-can-happen-if-you-never-restart-your-router-bgr.png",
       "metadata_file": "output/2026-08-24/what-can-happen-if-you-never-restart-your-router-bgr.json",
-      "published_at_utc": "2026-08-24T04:29:38Z",
+      "published_at_utc": "2026-08-24T04:29:43Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8bc8b2a5a650bd11df495f",
-      "zernio_scheduled_for_utc": "2026-08-24T05:26:56.000Z"
+      "zernio_post_id": "6a8bc8b7a5a650bd11df4ae6",
+      "zernio_scheduled_for_utc": "2026-08-24T05:28:56.000Z"
     },
     "output/2026-08-24/what-is-a-vesa-mount-and-how-to-know-what-type-your-tv-has-engadget.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
