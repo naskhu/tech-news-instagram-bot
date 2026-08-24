@@ -64837,9 +64837,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T21:22:07.000Z"
     },
     "output/2026-08-24/a-line-has-been-crossed-in-ai-warfare.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/a-line-has-been-crossed-in-ai-warfare.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T11:32:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c2bb73d16193e8c811cd9",
+          "zernio_scheduled_for_utc": "2026-08-24T11:34:43.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T11:32:00Z",
           "zernio_mode": "scheduled",
@@ -64849,11 +64855,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/a-line-has-been-crossed-in-ai-warfare.png",
       "metadata_file": "output/2026-08-24/a-line-has-been-crossed-in-ai-warfare.json",
-      "published_at_utc": "2026-08-24T11:32:00Z",
+      "published_at_utc": "2026-08-24T11:32:07Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8c2baf13bcc2a19625d334",
-      "zernio_scheduled_for_utc": "2026-08-24T11:32:43.000Z"
+      "zernio_post_id": "6a8c2bb73d16193e8c811cd9",
+      "zernio_scheduled_for_utc": "2026-08-24T11:34:43.000Z"
     },
     "output/2026-08-24/after-nearly-two-weeks-the-power-is-still-out-for-more-than-20-000-peo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
