@@ -65887,9 +65887,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T21:59:57.000Z"
     },
     "output/2026-08-24/the-robots-are-stumbling-on-their-way-to-the-revolution-cnet.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/the-robots-are-stumbling-on-their-way-to-the-revolution-cnet.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T09:32:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c0f99989dceff3b80c2d0",
+          "zernio_scheduled_for_utc": "2026-08-24T10:12:12.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T09:32:04Z",
           "zernio_mode": "scheduled",
@@ -65899,11 +65905,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/the-robots-are-stumbling-on-their-way-to-the-revolution-cnet.png",
       "metadata_file": "output/2026-08-24/the-robots-are-stumbling-on-their-way-to-the-revolution-cnet.json",
-      "published_at_utc": "2026-08-24T09:32:04Z",
+      "published_at_utc": "2026-08-24T09:32:09Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8c0f93989dceff3b80c039",
-      "zernio_scheduled_for_utc": "2026-08-24T10:10:12.000Z"
+      "zernio_post_id": "6a8c0f99989dceff3b80c2d0",
+      "zernio_scheduled_for_utc": "2026-08-24T10:12:12.000Z"
     },
     "output/2026-08-24/the-us-is-now-home-to-15-of-the-world-s-20-biggest-ai-data-centers-wit.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
