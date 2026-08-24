@@ -67374,6 +67374,25 @@
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a8c800b80d41ba6de565b29"
     },
+    "output/2026-08-25/ads-and-tracking-infiltrated-tvs-now-they-re-coming-for-monitors.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/ads-and-tracking-infiltrated-tvs-now-they-re-coming-for-monitors.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-24T21:10:47Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8cb35773534e73979d32da",
+          "zernio_scheduled_for_utc": "2026-08-24T21:48:51.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/ads-and-tracking-infiltrated-tvs-now-they-re-coming-for-monitors.png",
+      "metadata_file": "output/2026-08-25/ads-and-tracking-infiltrated-tvs-now-they-re-coming-for-monitors.json",
+      "published_at_utc": "2026-08-24T21:10:47Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8cb35773534e73979d32da",
+      "zernio_scheduled_for_utc": "2026-08-24T21:48:51.000Z"
+    },
     "output/2026-08-25/alabama-launches-investigation-into-openai-s-hack-of-hugging-face-tech.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/alabama-launches-investigation-into-openai-s-hack-of-hugging-face-tech.txt",
