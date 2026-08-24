@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-24T20:23:09.237821+00:00",
+  "run_utc": "2026-08-24T21:03:40.546436+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-23T20:23:09.237972+00:00",
-  "eligible_story_count": 183,
+  "cutoff_utc": "2026-08-23T21:03:40.546581+00:00",
+  "eligible_story_count": 188,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 26,
       "page_articles": 26,
-      "eligible_new": 4,
-      "already_processed": 23,
+      "eligible_new": 1,
+      "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -214,8 +214,8 @@
       "rss_candidates": 20,
       "page_links": 33,
       "page_articles": 32,
-      "eligible_new": 15,
-      "already_processed": 13,
+      "eligible_new": 16,
+      "already_processed": 12,
       "older_than_window": 5,
       "metadata_errors": {
         "http_404": 1
@@ -252,9 +252,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 10,
+      "eligible_new": 11,
       "already_processed": 6,
-      "older_than_window": 98,
+      "older_than_window": 97,
       "metadata_errors": {}
     },
     {
@@ -307,18 +307,18 @@
         {
           "url": "https://www.theinformation.com/",
           "status": 200,
-          "links": 21,
+          "links": 20,
           "error": ""
         }
       ],
       "rss_candidates": 12,
-      "page_links": 21,
+      "page_links": 20,
       "page_articles": 13,
       "eligible_new": 5,
       "already_processed": 7,
       "older_than_window": 5,
       "metadata_errors": {
-        "not_article_path": 8
+        "not_article_path": 7
       }
     },
     {
@@ -394,9 +394,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 44,
-      "already_processed": 32,
-      "older_than_window": 19,
+      "eligible_new": 45,
+      "already_processed": 30,
+      "older_than_window": 18,
       "metadata_errors": {
         "missing_title": 1,
         "no_article_metadata": 5
@@ -463,8 +463,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 1,
-      "already_processed": 57,
+      "eligible_new": 3,
+      "already_processed": 56,
       "older_than_window": 6,
       "metadata_errors": {}
     },
@@ -492,22 +492,22 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 31,
+          "links": 32,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 9,
+          "links": 8,
           "error": ""
         }
       ],
-      "rss_candidates": 27,
+      "rss_candidates": 28,
       "page_links": 40,
       "page_articles": 37,
-      "eligible_new": 5,
-      "already_processed": 31,
-      "older_than_window": 14,
+      "eligible_new": 6,
+      "already_processed": 30,
+      "older_than_window": 13,
       "metadata_errors": {
         "http_404": 3
       }
@@ -574,13 +574,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 6,
+      "page_articles": 3,
       "eligible_new": 4,
       "already_processed": 11,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 19
+        "http_429": 22
       }
     },
     {
@@ -599,22 +599,22 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 28,
+          "links": 29,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 12,
+          "links": 11,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 20,
-      "already_processed": 69,
-      "older_than_window": 25,
+      "eligible_new": 21,
+      "already_processed": 68,
+      "older_than_window": 24,
       "metadata_errors": {}
     },
     {
@@ -716,9 +716,9 @@
       "rss_candidates": 20,
       "page_links": 33,
       "page_articles": 33,
-      "eligible_new": 26,
-      "already_processed": 7,
-      "older_than_window": 0,
+      "eligible_new": 27,
+      "already_processed": 4,
+      "older_than_window": 2,
       "metadata_errors": {}
     }
   ]
