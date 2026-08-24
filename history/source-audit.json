@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-24T06:07:34.462489+00:00",
+  "run_utc": "2026-08-24T07:31:34.163897+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-23T06:07:34.462642+00:00",
-  "eligible_story_count": 0,
+  "cutoff_utc": "2026-08-23T07:31:34.164038+00:00",
+  "eligible_story_count": 2,
   "sources": [
     {
       "source": "TechCrunch",
@@ -152,35 +152,35 @@
       "rss_attempts": [
         {
           "url": "https://blogs.microsoft.com/?feed=rss2",
-          "status": 403,
-          "content_type": "text/html; charset=UTF-8",
-          "entries": 0,
-          "error": "HTTPError:403 Client Error: Forbidden for url: https://blogs.microsoft.com/?feed=rss2",
-          "redirected_to": "https://blogs.microsoft.com/?feed=rss2"
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "entries": 10,
+          "error": "",
+          "redirected_to": "https://blogs.microsoft.com/feed/"
         },
         {
           "url": "https://blogs.microsoft.com/feed/",
-          "status": 403,
-          "content_type": "text/html; charset=UTF-8",
-          "entries": 0,
-          "error": "HTTPError:403 Client Error: Forbidden for url: https://blogs.microsoft.com/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "entries": 10,
+          "error": "",
           "redirected_to": "https://blogs.microsoft.com/feed/"
         }
       ],
       "page_attempts": [
         {
           "url": "https://blogs.microsoft.com/",
-          "status": 403,
-          "links": 0,
-          "error": "HTTPError:403 Client Error: Forbidden for url: https://blogs.microsoft.com/"
+          "status": 200,
+          "links": 14,
+          "error": ""
         }
       ],
-      "rss_candidates": 0,
-      "page_links": 0,
-      "page_articles": 0,
+      "rss_candidates": 20,
+      "page_links": 14,
+      "page_articles": 14,
       "eligible_new": 0,
-      "already_processed": 0,
-      "older_than_window": 0,
+      "already_processed": 2,
+      "older_than_window": 12,
       "metadata_errors": {}
     },
     {
@@ -348,8 +348,8 @@
       "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 0,
-      "already_processed": 10,
+      "eligible_new": 2,
+      "already_processed": 8,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -394,8 +394,8 @@
       "already_processed": 51,
       "older_than_window": 42,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 5
       }
     },
     {
