@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-08-23T23:55:31.770320+00:00",
+  "run_utc": "2026-08-24T00:54:23.774435+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-22T23:55:31.770469+00:00",
+  "cutoff_utc": "2026-08-23T00:54:23.774599+00:00",
   "eligible_story_count": 2,
   "sources": [
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 7,
-      "older_than_window": 107,
+      "older_than_window": 108,
       "metadata_errors": {}
     },
     {
@@ -377,25 +377,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 21,
+          "links": 20,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 29,
+          "links": 30,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 43,
-      "eligible_new": 4,
-      "already_processed": 49,
+      "eligible_new": 3,
+      "already_processed": 50,
       "older_than_window": 46,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 2
+        "missing_title": 2,
+        "no_article_metadata": 5
       }
     },
     {
@@ -710,8 +710,8 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 1,
-      "already_processed": 31,
+      "eligible_new": 2,
+      "already_processed": 30,
       "older_than_window": 0,
       "metadata_errors": {}
     }
