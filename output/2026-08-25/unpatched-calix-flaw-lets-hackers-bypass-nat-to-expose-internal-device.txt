@@ -1,0 +1,10 @@
+Unpatched Calix flaw lets hackers bypass NAT to expose internal devices
+
+The CVE-2026-75501 vulnerability is caused by the device exposing "the MiniUPnPd control endpoint on the WAN interface on TCP port 5000 without access controls." “In affected firmware versions, the router binds its UPnP WANIPConnection SOAP service to the public WAN interface on…
+
+Source: BleepingComputer
+Read more: https://bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices
+
+Follow @news.world.tech for more tech news.
+
+#TechNews #Technology #AI #Innovation #Digital
