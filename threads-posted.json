@@ -64937,9 +64937,15 @@
       "zernio_scheduled_for_utc": "2026-08-23T21:41:02.000Z"
     },
     "output/2026-08-24/claude-outage-hits-multiple-models-again.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/claude-outage-hits-multiple-models-again.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T07:34:36Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8bf40c17b9f78770d2fffe",
+          "zernio_scheduled_for_utc": "2026-08-24T08:33:47.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T07:34:31Z",
           "zernio_mode": "scheduled",
@@ -64949,11 +64955,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/claude-outage-hits-multiple-models-again.png",
       "metadata_file": "output/2026-08-24/claude-outage-hits-multiple-models-again.json",
-      "published_at_utc": "2026-08-24T07:34:31Z",
+      "published_at_utc": "2026-08-24T07:34:36Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8bf4060a23f3bf451add4a",
-      "zernio_scheduled_for_utc": "2026-08-24T08:31:47.000Z"
+      "zernio_post_id": "6a8bf40c17b9f78770d2fffe",
+      "zernio_scheduled_for_utc": "2026-08-24T08:33:47.000Z"
     },
     "output/2026-08-24/do-all-usb-c-ports-support-video-bgr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
