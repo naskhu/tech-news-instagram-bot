@@ -67425,9 +67425,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T21:12:25.000Z"
     },
     "output/2026-08-25/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-te.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-te.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-24T20:32:35Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8caa63cd20ac981ae679d7",
+          "zernio_scheduled_for_utc": "2026-08-24T21:31:20.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-24T20:32:29Z",
           "zernio_mode": "scheduled",
@@ -67437,11 +67443,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-te.png",
       "metadata_file": "output/2026-08-25/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-te.json",
-      "published_at_utc": "2026-08-24T20:32:29Z",
+      "published_at_utc": "2026-08-24T20:32:35Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8caa5dcd20ac981ae677e6",
-      "zernio_scheduled_for_utc": "2026-08-24T21:29:20.000Z"
+      "zernio_post_id": "6a8caa63cd20ac981ae679d7",
+      "zernio_scheduled_for_utc": "2026-08-24T21:31:20.000Z"
     },
     "output/2026-08-25/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
