@@ -65586,6 +65586,25 @@
       "zernio_post_id": "6a8b4d8fc29014f8adf140b0",
       "zernio_scheduled_for_utc": "2026-08-23T20:42:58.000Z"
     },
+    "output/2026-08-24/i-watched-a-family-of-chickadees-grow-up-in-this-smart-birdhouse.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-24/i-watched-a-family-of-chickadees-grow-up-in-this-smart-birdhouse.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-24T12:02:55Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8c32ee8a634f1c87fd5460",
+          "zernio_scheduled_for_utc": "2026-08-24T12:22:19.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-24/i-watched-a-family-of-chickadees-grow-up-in-this-smart-birdhouse.png",
+      "metadata_file": "output/2026-08-24/i-watched-a-family-of-chickadees-grow-up-in-this-smart-birdhouse.json",
+      "published_at_utc": "2026-08-24T12:02:55Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8c32ee8a634f1c87fd5460",
+      "zernio_scheduled_for_utc": "2026-08-24T12:22:19.000Z"
+    },
     "output/2026-08-24/if-your-car-s-12v-port-is-charging-your-devices-slowly-this-might-be-w.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-24/if-your-car-s-12v-port-is-charging-your-devices-slowly-this-might-be-w.txt",
