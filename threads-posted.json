@@ -70626,9 +70626,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T20:39:48.000Z"
     },
     "output/2026-08-26/nokia-s-new-dumbphone-doubles-as-a-smartphone-charger.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/nokia-s-new-dumbphone-doubles-as-a-smartphone-charger.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T20:02:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8df4d72d38593ca17be3b4",
+          "zernio_scheduled_for_utc": "2026-08-25T20:05:07.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T20:02:23Z",
           "zernio_mode": "scheduled",
@@ -70638,11 +70644,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/nokia-s-new-dumbphone-doubles-as-a-smartphone-charger.png",
       "metadata_file": "output/2026-08-26/nokia-s-new-dumbphone-doubles-as-a-smartphone-charger.json",
-      "published_at_utc": "2026-08-25T20:02:23Z",
+      "published_at_utc": "2026-08-25T20:02:31Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8df4cf2d38593ca17be0c8",
-      "zernio_scheduled_for_utc": "2026-08-25T20:03:07.000Z"
+      "zernio_post_id": "6a8df4d72d38593ca17be3b4",
+      "zernio_scheduled_for_utc": "2026-08-25T20:05:07.000Z"
     },
     "output/2026-08-26/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana-techcr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
