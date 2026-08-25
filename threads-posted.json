@@ -68225,9 +68225,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T20:15:32.000Z"
     },
     "output/2026-08-25/magsafe-monday-the-tucch-mag-wallet-feels-like-a-real-wallet-not-just-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/magsafe-monday-the-tucch-mag-wallet-feels-like-a-real-wallet-not-just-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T05:03:47Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d22324aa19173c3bb5e76",
+          "zernio_scheduled_for_utc": "2026-08-25T05:43:47.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T05:03:40Z",
           "zernio_mode": "scheduled",
@@ -68237,11 +68243,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/magsafe-monday-the-tucch-mag-wallet-feels-like-a-real-wallet-not-just-.png",
       "metadata_file": "output/2026-08-25/magsafe-monday-the-tucch-mag-wallet-feels-like-a-real-wallet-not-just-.json",
-      "published_at_utc": "2026-08-25T05:03:40Z",
+      "published_at_utc": "2026-08-25T05:03:47Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d222c4aa19173c3bb5c69",
-      "zernio_scheduled_for_utc": "2026-08-25T05:41:47.000Z"
+      "zernio_post_id": "6a8d22324aa19173c3bb5e76",
+      "zernio_scheduled_for_utc": "2026-08-25T05:43:47.000Z"
     },
     "output/2026-08-25/microsoft-teams-now-lets-admins-block-external-bots-from-meetings.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
