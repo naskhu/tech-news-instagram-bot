@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-25T10:05:21.182531+00:00",
+  "run_utc": "2026-08-25T10:53:07.494351+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-24T10:05:21.182700+00:00",
-  "eligible_story_count": 170,
+  "cutoff_utc": "2026-08-24T10:53:07.494477+00:00",
+  "eligible_story_count": 172,
   "sources": [
     {
       "source": "TechCrunch",
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 2,
-      "already_processed": 29,
+      "eligible_new": 1,
+      "already_processed": 30,
       "older_than_window": 3,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 16,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 12,
       "already_processed": 7,
-      "older_than_window": 98,
+      "older_than_window": 97,
       "metadata_errors": {}
     },
     {
@@ -341,14 +341,14 @@
         {
           "url": "https://thenextweb.com/latest",
           "status": 200,
-          "links": 10,
+          "links": 11,
           "error": ""
         }
       ],
       "rss_candidates": 10,
-      "page_links": 10,
-      "page_articles": 10,
-      "eligible_new": 10,
+      "page_links": 11,
+      "page_articles": 11,
+      "eligible_new": 11,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -390,9 +390,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 53,
-      "already_processed": 23,
-      "older_than_window": 23,
+      "eligible_new": 56,
+      "already_processed": 21,
+      "older_than_window": 24,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 2
@@ -431,9 +431,9 @@
       "rss_candidates": 0,
       "page_links": 21,
       "page_articles": 21,
-      "eligible_new": 20,
+      "eligible_new": 19,
       "already_processed": 0,
-      "older_than_window": 1,
+      "older_than_window": 2,
       "metadata_errors": {}
     },
     {
@@ -459,8 +459,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 2,
-      "already_processed": 55,
+      "eligible_new": 1,
+      "already_processed": 56,
       "older_than_window": 7,
       "metadata_errors": {}
     },
@@ -498,7 +498,7 @@
           "error": ""
         }
       ],
-      "rss_candidates": 29,
+      "rss_candidates": 30,
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 5,
@@ -568,12 +568,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 6,
-      "eligible_new": 0,
-      "already_processed": 15,
+      "page_articles": 4,
+      "eligible_new": 1,
+      "already_processed": 14,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 20
+        "http_429": 22
       }
     },
     {
@@ -605,7 +605,7 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 0,
+      "eligible_new": 1,
       "already_processed": 90,
       "older_than_window": 22,
       "metadata_errors": {}
@@ -660,22 +660,22 @@
         {
           "url": "https://www.tomshardware.com/news",
           "status": 200,
-          "links": 13,
+          "links": 12,
           "error": ""
         },
         {
           "url": "https://www.tomshardware.com/",
           "status": 200,
-          "links": 27,
+          "links": 28,
           "error": ""
         }
       ],
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 18,
-      "already_processed": 34,
-      "older_than_window": 7,
+      "eligible_new": 17,
+      "already_processed": 33,
+      "older_than_window": 10,
       "metadata_errors": {
         "no_article_metadata": 2
       }
@@ -696,7 +696,7 @@
         {
           "url": "https://bgr.com/",
           "status": 200,
-          "links": 29,
+          "links": 28,
           "error": ""
         },
         {
@@ -707,10 +707,10 @@
         }
       ],
       "rss_candidates": 20,
-      "page_links": 29,
-      "page_articles": 29,
+      "page_links": 28,
+      "page_articles": 28,
       "eligible_new": 25,
-      "already_processed": 2,
+      "already_processed": 1,
       "older_than_window": 2,
       "metadata_errors": {}
     }
