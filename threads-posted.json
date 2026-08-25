@@ -67724,6 +67724,25 @@
       "zernio_post_id": "6a8cffb29558b057d50eaf0a",
       "zernio_scheduled_for_utc": "2026-08-25T03:16:31.000Z"
     },
+    "output/2026-08-25/apple-starts-testing-ai-shopping-assistant-in-the-apple-store-app.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/apple-starts-testing-ai-shopping-assistant-in-the-apple-store-app.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T07:15:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d410e89fd501f3d2a6d90",
+          "zernio_scheduled_for_utc": "2026-08-25T07:53:31.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/apple-starts-testing-ai-shopping-assistant-in-the-apple-store-app.png",
+      "metadata_file": "output/2026-08-25/apple-starts-testing-ai-shopping-assistant-in-the-apple-store-app.json",
+      "published_at_utc": "2026-08-25T07:15:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8d410e89fd501f3d2a6d90",
+      "zernio_scheduled_for_utc": "2026-08-25T07:53:31.000Z"
+    },
     "output/2026-08-25/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026.txt",
