@@ -68100,9 +68100,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T20:34:35.000Z"
     },
     "output/2026-08-25/south-korean-startup-platform-breach-exposes-key-management-failures.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/south-korean-startup-platform-breach-exposes-key-management-failures.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T00:02:56Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8cdbaf79ef9cc1f638944c",
+          "zernio_scheduled_for_utc": "2026-08-25T00:24:14.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T00:02:50Z",
           "zernio_mode": "scheduled",
@@ -68112,11 +68118,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/south-korean-startup-platform-breach-exposes-key-management-failures.png",
       "metadata_file": "output/2026-08-25/south-korean-startup-platform-breach-exposes-key-management-failures.json",
-      "published_at_utc": "2026-08-25T00:02:50Z",
+      "published_at_utc": "2026-08-25T00:02:56Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8cdba9e0cf8b921e2247d1",
-      "zernio_scheduled_for_utc": "2026-08-25T00:22:14.000Z"
+      "zernio_post_id": "6a8cdbaf79ef9cc1f638944c",
+      "zernio_scheduled_for_utc": "2026-08-25T00:24:14.000Z"
     },
     "output/2026-08-25/the-best-kitchen-gadget-to-prevent-salmonella-is-a-good-meat-probe.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
