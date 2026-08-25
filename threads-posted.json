@@ -70651,9 +70651,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T20:05:07.000Z"
     },
     "output/2026-08-26/nothing-os-5-0-brings-a-new-glyph-interface-app-and-a-more-customizabl.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/nothing-os-5-0-brings-a-new-glyph-interface-app-and-a-more-customizabl.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T20:02:44Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8df4e42f9c3830456c26ef",
+          "zernio_scheduled_for_utc": "2026-08-25T20:24:02.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T20:02:38Z",
           "zernio_mode": "scheduled",
@@ -70663,11 +70669,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/nothing-os-5-0-brings-a-new-glyph-interface-app-and-a-more-customizabl.png",
       "metadata_file": "output/2026-08-26/nothing-os-5-0-brings-a-new-glyph-interface-app-and-a-more-customizabl.json",
-      "published_at_utc": "2026-08-25T20:02:38Z",
+      "published_at_utc": "2026-08-25T20:02:44Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8df4de2f9c3830456c24ce",
-      "zernio_scheduled_for_utc": "2026-08-25T20:22:02.000Z"
+      "zernio_post_id": "6a8df4e42f9c3830456c26ef",
+      "zernio_scheduled_for_utc": "2026-08-25T20:24:02.000Z"
     },
     "output/2026-08-26/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana-techcr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
