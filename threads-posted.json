@@ -68725,9 +68725,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T20:18:02.000Z"
     },
     "output/2026-08-25/pixel-10-vs-pixel-11-where-are-the-upgrades-video.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/pixel-10-vs-pixel-11-where-are-the-upgrades-video.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T08:05:28Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d4cc8604a4e33b01e45ca",
+          "zernio_scheduled_for_utc": "2026-08-25T09:04:14.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T08:05:23Z",
           "zernio_mode": "scheduled",
@@ -68737,11 +68743,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/pixel-10-vs-pixel-11-where-are-the-upgrades-video.png",
       "metadata_file": "output/2026-08-25/pixel-10-vs-pixel-11-where-are-the-upgrades-video.json",
-      "published_at_utc": "2026-08-25T08:05:23Z",
+      "published_at_utc": "2026-08-25T08:05:28Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d4cc3d39c9f4ef7dc3d23",
-      "zernio_scheduled_for_utc": "2026-08-25T09:02:14.000Z"
+      "zernio_post_id": "6a8d4cc8604a4e33b01e45ca",
+      "zernio_scheduled_for_utc": "2026-08-25T09:04:14.000Z"
     },
     "output/2026-08-25/privacy-focused-grapheneos-is-coming-to-motorola-phones-in-2027-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
