@@ -68750,9 +68750,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T19:40:12.000Z"
     },
     "output/2026-08-25/your-phone-is-filthier-than-you-think-here-s-the-right-way-to-clean-it.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/your-phone-is-filthier-than-you-think-here-s-the-right-way-to-clean-it.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T05:03:22Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d2219376b9c7b851be91f",
+          "zernio_scheduled_for_utc": "2026-08-25T05:05:57.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T05:03:14Z",
           "zernio_mode": "scheduled",
@@ -68762,11 +68768,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/your-phone-is-filthier-than-you-think-here-s-the-right-way-to-clean-it.png",
       "metadata_file": "output/2026-08-25/your-phone-is-filthier-than-you-think-here-s-the-right-way-to-clean-it.json",
-      "published_at_utc": "2026-08-25T05:03:14Z",
+      "published_at_utc": "2026-08-25T05:03:22Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d22124aa19173c3bb5667",
-      "zernio_scheduled_for_utc": "2026-08-25T05:03:57.000Z"
+      "zernio_post_id": "6a8d2219376b9c7b851be91f",
+      "zernio_scheduled_for_utc": "2026-08-25T05:05:57.000Z"
     },
     "output/2026-08-25/zillow-and-redfin-settle-ftc-antitrust-case.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
