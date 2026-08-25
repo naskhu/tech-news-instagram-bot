@@ -68075,9 +68075,14 @@
       "zernio_scheduled_for_utc": "2026-08-25T10:49:53.000Z"
     },
     "output/2026-08-25/bose-s-smallest-bluetooth-speaker-is-a-great-deal-at-35-percent-off.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/bose-s-smallest-bluetooth-speaker-is-a-great-deal-at-35-percent-off.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T17:45:14Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8dd4946c695c01c1280646"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T17:44:41Z",
           "zernio_mode": "publishNow",
@@ -68086,10 +68091,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/bose-s-smallest-bluetooth-speaker-is-a-great-deal-at-35-percent-off.png",
       "metadata_file": "output/2026-08-25/bose-s-smallest-bluetooth-speaker-is-a-great-deal-at-35-percent-off.json",
-      "published_at_utc": "2026-08-25T17:44:41Z",
+      "published_at_utc": "2026-08-25T17:45:14Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a8dd474736ba3536dc4264f"
+      "zernio_post_id": "6a8dd4946c695c01c1280646"
     },
     "output/2026-08-25/can-you-kill-salmonella-in-eggs-without-cooking-them-i-tried-it.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
