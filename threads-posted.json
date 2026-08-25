@@ -70776,9 +70776,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T21:01:52.000Z"
     },
     "output/2026-08-26/preserving-glow-in-the-dark-art-and-fashion-for-future-generations.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/preserving-glow-in-the-dark-art-and-fashion-for-future-generations.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T20:35:40Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8dfc9cd00e0159153a2618",
+          "zernio_scheduled_for_utc": "2026-08-25T21:34:19.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T20:35:32Z",
           "zernio_mode": "scheduled",
@@ -70788,11 +70794,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/preserving-glow-in-the-dark-art-and-fashion-for-future-generations.png",
       "metadata_file": "output/2026-08-26/preserving-glow-in-the-dark-art-and-fashion-for-future-generations.json",
-      "published_at_utc": "2026-08-25T20:35:32Z",
+      "published_at_utc": "2026-08-25T20:35:40Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8dfc9423f93ae33de29ba1",
-      "zernio_scheduled_for_utc": "2026-08-25T21:32:19.000Z"
+      "zernio_post_id": "6a8dfc9cd00e0159153a2618",
+      "zernio_scheduled_for_utc": "2026-08-25T21:34:19.000Z"
     },
     "output/2026-08-26/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana-techcr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
