@@ -70190,6 +70190,23 @@
       "zernio_post_id": "6a8ceb76c8132b1585fa179d",
       "zernio_scheduled_for_utc": "2026-08-25T01:31:34.000Z"
     },
+    "output/2026-08-25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disru.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disru.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T18:20:54Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8ddcf299c630d0d2d8f240"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disru.png",
+      "metadata_file": "output/2026-08-25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disru.json",
+      "published_at_utc": "2026-08-25T18:20:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a8ddcf299c630d0d2d8f240"
+    },
     "output/2026-08-25/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo.txt",
