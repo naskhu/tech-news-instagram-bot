@@ -67875,9 +67875,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T04:46:09.000Z"
     },
     "output/2026-08-25/deals-airtag-2-best-price-ever-from-20-each-airpods-m5-macbook-pro-320.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/deals-airtag-2-best-price-ever-from-20-each-airpods-m5-macbook-pro-320.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T06:07:07Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d310bfd9f2fdd62de00fa",
+          "zernio_scheduled_for_utc": "2026-08-25T06:28:27.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T06:07:01Z",
           "zernio_mode": "scheduled",
@@ -67887,11 +67893,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/deals-airtag-2-best-price-ever-from-20-each-airpods-m5-macbook-pro-320.png",
       "metadata_file": "output/2026-08-25/deals-airtag-2-best-price-ever-from-20-each-airpods-m5-macbook-pro-320.json",
-      "published_at_utc": "2026-08-25T06:07:01Z",
+      "published_at_utc": "2026-08-25T06:07:07Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d3105fd8ed21a625176aa",
-      "zernio_scheduled_for_utc": "2026-08-25T06:26:27.000Z"
+      "zernio_post_id": "6a8d310bfd9f2fdd62de00fa",
+      "zernio_scheduled_for_utc": "2026-08-25T06:28:27.000Z"
     },
     "output/2026-08-25/energy-hungry-ai-data-centers-spur-new-power-transformer-technology.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
