@@ -68963,9 +68963,14 @@
       "zernio_scheduled_for_utc": "2026-08-25T05:05:04.000Z"
     },
     "output/2026-08-25/it-s-almost-time-for-opening-night-live.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/it-s-almost-time-for-opening-night-live.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T18:24:06Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8dddb7c3034f66052f233e"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T18:23:44Z",
           "zernio_mode": "publishNow",
@@ -68974,10 +68979,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/it-s-almost-time-for-opening-night-live.png",
       "metadata_file": "output/2026-08-25/it-s-almost-time-for-opening-night-live.json",
-      "published_at_utc": "2026-08-25T18:23:44Z",
+      "published_at_utc": "2026-08-25T18:24:06Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a8ddd9a806ca8c7fd13a5ed"
+      "zernio_post_id": "6a8dddb7c3034f66052f233e"
     },
     "output/2026-08-25/it-should-be-harder-to-apply-for-a-job-no-really.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
