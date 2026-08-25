@@ -68171,6 +68171,23 @@
       "zernio_post_id": "6a8cd20ecf1764481ff37902",
       "zernio_scheduled_for_utc": "2026-08-25T00:01:52.000Z"
     },
+    "output/2026-08-25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T18:21:54Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a8ddd2bede9584ab5433877"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat.png",
+      "metadata_file": "output/2026-08-25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat.json",
+      "published_at_utc": "2026-08-25T18:21:54Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a8ddd2bede9584ab5433877"
+    },
     "output/2026-08-25/data-centers-are-driving-an-alarming-gas-power-expansion-in-the-us.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/data-centers-are-driving-an-alarming-gas-power-expansion-in-the-us.txt",
