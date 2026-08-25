@@ -70550,6 +70550,25 @@
       "zernio_post_id": "6a8cb3423dc9f9d132e777ae",
       "zernio_scheduled_for_utc": "2026-08-24T21:13:01.000Z"
     },
+    "output/2026-08-26/dreame-s-dream-of-a-rocket-powered-car-is-dead.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/dreame-s-dream-of-a-rocket-powered-car-is-dead.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T19:11:58Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8de8fedd86269fcba6bada",
+          "zernio_scheduled_for_utc": "2026-08-25T19:49:59.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/dreame-s-dream-of-a-rocket-powered-car-is-dead.png",
+      "metadata_file": "output/2026-08-26/dreame-s-dream-of-a-rocket-powered-car-is-dead.json",
+      "published_at_utc": "2026-08-25T19:11:58Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8de8fedd86269fcba6bada",
+      "zernio_scheduled_for_utc": "2026-08-25T19:49:59.000Z"
+    },
     "output/2026-08-26/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana-techcr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana-techcr.txt",
