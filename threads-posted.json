@@ -70600,6 +70600,25 @@
       "zernio_post_id": "6a8dfc813cd95c563211706d",
       "zernio_scheduled_for_utc": "2026-08-25T20:56:29.000Z"
     },
+    "output/2026-08-26/apple-s-new-desktop-computers-are-designed-specifically-for-local-ai-d.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/apple-s-new-desktop-computers-are-designed-specifically-for-local-ai-d.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T23:31:50Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e25e6ab9b3fba914a489e",
+          "zernio_scheduled_for_utc": "2026-08-26T00:09:55.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/apple-s-new-desktop-computers-are-designed-specifically-for-local-ai-d.png",
+      "metadata_file": "output/2026-08-26/apple-s-new-desktop-computers-are-designed-specifically-for-local-ai-d.json",
+      "published_at_utc": "2026-08-25T23:31:50Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8e25e6ab9b3fba914a489e",
+      "zernio_scheduled_for_utc": "2026-08-26T00:09:55.000Z"
+    },
     "output/2026-08-26/apple-s-new-mac-mini-has-fresh-m6-and-m5-pro-chip-offerings-and-higher.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/apple-s-new-mac-mini-has-fresh-m6-and-m5-pro-chip-offerings-and-higher.txt",
