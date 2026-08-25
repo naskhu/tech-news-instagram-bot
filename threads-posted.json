@@ -68175,9 +68175,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T09:36:03.000Z"
     },
     "output/2026-08-25/greenworks-maximusz-electric-riding-mower-has-five-motors-and-a-few-co.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/greenworks-maximusz-electric-riding-mower-has-five-motors-and-a-few-co.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T11:25:47Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d7bbbac0c56f1d526d15a",
+          "zernio_scheduled_for_utc": "2026-08-25T11:28:21.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T11:25:39Z",
           "zernio_mode": "scheduled",
@@ -68187,11 +68193,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/greenworks-maximusz-electric-riding-mower-has-five-motors-and-a-few-co.png",
       "metadata_file": "output/2026-08-25/greenworks-maximusz-electric-riding-mower-has-five-motors-and-a-few-co.json",
-      "published_at_utc": "2026-08-25T11:25:39Z",
+      "published_at_utc": "2026-08-25T11:25:47Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d7bb392bfee88497f3607",
-      "zernio_scheduled_for_utc": "2026-08-25T11:26:21.000Z"
+      "zernio_post_id": "6a8d7bbbac0c56f1d526d15a",
+      "zernio_scheduled_for_utc": "2026-08-25T11:28:21.000Z"
     },
     "output/2026-08-25/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
