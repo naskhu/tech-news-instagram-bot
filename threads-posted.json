@@ -69125,9 +69125,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T00:20:47.000Z"
     },
     "output/2026-08-25/what-s-new-in-android-s-august-2026-google-system-updates-u.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/what-s-new-in-android-s-august-2026-google-system-updates-u.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T08:05:17Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d4cbda245f691613a3cf4",
+          "zernio_scheduled_for_utc": "2026-08-25T08:45:19.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T08:05:11Z",
           "zernio_mode": "scheduled",
@@ -69137,11 +69143,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/what-s-new-in-android-s-august-2026-google-system-updates-u.png",
       "metadata_file": "output/2026-08-25/what-s-new-in-android-s-august-2026-google-system-updates-u.json",
-      "published_at_utc": "2026-08-25T08:05:11Z",
+      "published_at_utc": "2026-08-25T08:05:17Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d4cb7604a4e33b01e403e",
-      "zernio_scheduled_for_utc": "2026-08-25T08:43:19.000Z"
+      "zernio_post_id": "6a8d4cbda245f691613a3cf4",
+      "zernio_scheduled_for_utc": "2026-08-25T08:45:19.000Z"
     },
     "output/2026-08-25/wholly-ai-generated-music-excluded-from-australian-charts.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
