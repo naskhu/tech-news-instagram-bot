@@ -71050,6 +71050,25 @@
       "zernio_post_id": "6a8dfc8e5cb7e79951f0bf29",
       "zernio_scheduled_for_utc": "2026-08-25T21:15:24.000Z"
     },
+    "output/2026-08-26/the-witcher-3-is-getting-a-remaster.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/the-witcher-3-is-getting-a-remaster.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T22:00:15Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e106cc4d35f2720d07e1c",
+          "zernio_scheduled_for_utc": "2026-08-25T22:19:32.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/the-witcher-3-is-getting-a-remaster.png",
+      "metadata_file": "output/2026-08-26/the-witcher-3-is-getting-a-remaster.json",
+      "published_at_utc": "2026-08-25T22:00:15Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8e106cc4d35f2720d07e1c",
+      "zernio_scheduled_for_utc": "2026-08-25T22:19:32.000Z"
+    },
     "output/2026-08-26/there-s-a-surge-of-new-gas-projects-being-built-to-power-data-centers-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/there-s-a-surge-of-new-gas-projects-being-built-to-power-data-centers-.txt",
