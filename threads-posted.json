@@ -68999,6 +68999,25 @@
       "zernio_post_id": "6a8cffa636d77e9548ba9d2d",
       "zernio_scheduled_for_utc": "2026-08-25T02:57:36.000Z"
     },
+    "output/2026-08-25/openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale-benchmarks.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale-benchmarks.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T14:46:18Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8daab976acd9709e94b44c",
+          "zernio_scheduled_for_utc": "2026-08-25T14:47:01.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale-benchmarks.png",
+      "metadata_file": "output/2026-08-25/openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale-benchmarks.json",
+      "published_at_utc": "2026-08-25T14:46:18Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8daab976acd9709e94b44c",
+      "zernio_scheduled_for_utc": "2026-08-25T14:47:01.000Z"
+    },
     "output/2026-08-25/openai-subpoenaed-by-alabama-ag-over-hugging-face-hack.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/openai-subpoenaed-by-alabama-ag-over-hugging-face-hack.txt",
