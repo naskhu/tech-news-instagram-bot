@@ -67425,9 +67425,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T21:50:51.000Z"
     },
     "output/2026-08-25/affordable-iphone-accessories-for-carplay-worth-trying-9to5mac.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/affordable-iphone-accessories-for-carplay-worth-trying-9to5mac.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T06:07:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d31172ba68d6e2b1fed40",
+          "zernio_scheduled_for_utc": "2026-08-25T06:47:22.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T06:07:13Z",
           "zernio_mode": "scheduled",
@@ -67437,11 +67443,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/affordable-iphone-accessories-for-carplay-worth-trying-9to5mac.png",
       "metadata_file": "output/2026-08-25/affordable-iphone-accessories-for-carplay-worth-trying-9to5mac.json",
-      "published_at_utc": "2026-08-25T06:07:13Z",
+      "published_at_utc": "2026-08-25T06:07:19Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d3111995064f588a52578",
-      "zernio_scheduled_for_utc": "2026-08-25T06:45:22.000Z"
+      "zernio_post_id": "6a8d31172ba68d6e2b1fed40",
+      "zernio_scheduled_for_utc": "2026-08-25T06:47:22.000Z"
     },
     "output/2026-08-25/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
