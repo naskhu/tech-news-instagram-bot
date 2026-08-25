@@ -67775,9 +67775,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T00:01:52.000Z"
     },
     "output/2026-08-25/data-centers-are-driving-an-alarming-gas-power-expansion-in-the-us.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/data-centers-are-driving-an-alarming-gas-power-expansion-in-the-us.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T04:24:48Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d1910fb7b8c6295961a1e",
+          "zernio_scheduled_for_utc": "2026-08-25T04:46:09.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T04:24:42Z",
           "zernio_mode": "scheduled",
@@ -67787,11 +67793,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/data-centers-are-driving-an-alarming-gas-power-expansion-in-the-us.png",
       "metadata_file": "output/2026-08-25/data-centers-are-driving-an-alarming-gas-power-expansion-in-the-us.json",
-      "published_at_utc": "2026-08-25T04:24:42Z",
+      "published_at_utc": "2026-08-25T04:24:48Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d190afd83b470d5ebda28",
-      "zernio_scheduled_for_utc": "2026-08-25T04:44:09.000Z"
+      "zernio_post_id": "6a8d1910fb7b8c6295961a1e",
+      "zernio_scheduled_for_utc": "2026-08-25T04:46:09.000Z"
     },
     "output/2026-08-25/energy-hungry-ai-data-centers-spur-new-power-transformer-technology.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
