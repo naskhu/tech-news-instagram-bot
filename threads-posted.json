@@ -68075,9 +68075,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T20:34:27.000Z"
     },
     "output/2026-08-25/gemini-on-pixel-11-pro-testing-device-help-tool.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/gemini-on-pixel-11-pro-testing-device-help-tool.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T08:55:59Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d589e9ecd0a6890c08c83",
+          "zernio_scheduled_for_utc": "2026-08-25T09:36:03.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T08:55:53Z",
           "zernio_mode": "scheduled",
@@ -68087,11 +68093,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/gemini-on-pixel-11-pro-testing-device-help-tool.png",
       "metadata_file": "output/2026-08-25/gemini-on-pixel-11-pro-testing-device-help-tool.json",
-      "published_at_utc": "2026-08-25T08:55:53Z",
+      "published_at_utc": "2026-08-25T08:55:59Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d58993168f85d6d22fb6b",
-      "zernio_scheduled_for_utc": "2026-08-25T09:34:03.000Z"
+      "zernio_post_id": "6a8d589e9ecd0a6890c08c83",
+      "zernio_scheduled_for_utc": "2026-08-25T09:36:03.000Z"
     },
     "output/2026-08-25/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
