@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-25T04:21:31.678625+00:00",
+  "run_utc": "2026-08-25T04:59:58.684759+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-24T04:21:31.678781+00:00",
-  "eligible_story_count": 183,
+  "cutoff_utc": "2026-08-24T04:59:58.684909+00:00",
+  "eligible_story_count": 180,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 1,
-      "already_processed": 27,
+      "eligible_new": 0,
+      "already_processed": 28,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -213,11 +213,13 @@
       ],
       "rss_candidates": 20,
       "page_links": 33,
-      "page_articles": 33,
+      "page_articles": 32,
       "eligible_new": 18,
       "already_processed": 10,
       "older_than_window": 5,
-      "metadata_errors": {}
+      "metadata_errors": {
+        "http_404": 1
+      }
     },
     {
       "source": "Lifehacker",
@@ -461,8 +463,8 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 1,
-      "already_processed": 58,
+      "eligible_new": 0,
+      "already_processed": 59,
       "older_than_window": 7,
       "metadata_errors": {}
     },
@@ -490,24 +492,24 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 33,
+          "links": 32,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 7,
+          "links": 8,
           "error": ""
         }
       ],
-      "rss_candidates": 30,
+      "rss_candidates": 29,
       "page_links": 40,
-      "page_articles": 37,
-      "eligible_new": 3,
-      "already_processed": 31,
-      "older_than_window": 14,
+      "page_articles": 39,
+      "eligible_new": 4,
+      "already_processed": 32,
+      "older_than_window": 13,
       "metadata_errors": {
-        "http_404": 3
+        "http_404": 1
       }
     },
     {
@@ -572,12 +574,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 7,
+      "page_articles": 6,
       "eligible_new": 0,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 19
+        "http_429": 20
       }
     },
     {
@@ -609,8 +611,8 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 16,
-      "already_processed": 74,
+      "eligible_new": 14,
+      "already_processed": 76,
       "older_than_window": 22,
       "metadata_errors": {}
     },
