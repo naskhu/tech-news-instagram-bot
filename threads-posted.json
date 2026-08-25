@@ -67374,6 +67374,25 @@
       "zernio_mode": "publishNow",
       "zernio_post_id": "6a8c800b80d41ba6de565b29"
     },
+    "output/2026-08-25/9to5mac-daily-august-24-2026-walmart-apple-pay-rollout-apple-layoffs.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-25/9to5mac-daily-august-24-2026-walmart-apple-pay-rollout-apple-layoffs.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T04:25:06Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d1922fb7b8c629596208b",
+          "zernio_scheduled_for_utc": "2026-08-25T05:21:59.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/9to5mac-daily-august-24-2026-walmart-apple-pay-rollout-apple-layoffs.png",
+      "metadata_file": "output/2026-08-25/9to5mac-daily-august-24-2026-walmart-apple-pay-rollout-apple-layoffs.json",
+      "published_at_utc": "2026-08-25T04:25:06Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8d1922fb7b8c629596208b",
+      "zernio_scheduled_for_utc": "2026-08-25T05:21:59.000Z"
+    },
     "output/2026-08-25/ads-and-tracking-infiltrated-tvs-now-they-re-coming-for-monitors.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/ads-and-tracking-infiltrated-tvs-now-they-re-coming-for-monitors.txt",
