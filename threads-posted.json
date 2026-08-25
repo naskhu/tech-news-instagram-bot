@@ -70600,6 +70600,25 @@
       "zernio_post_id": "6a8defae866073615ca72526",
       "zernio_scheduled_for_utc": "2026-08-25T19:43:03.000Z"
     },
+    "output/2026-08-26/instagram-s-first-draft-trims-your-reels-clips-for-you.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/instagram-s-first-draft-trims-your-reels-clips-for-you.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T19:41:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8defcfad00ce5c963afc4a",
+          "zernio_scheduled_for_utc": "2026-08-25T20:37:48.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/instagram-s-first-draft-trims-your-reels-clips-for-you.png",
+      "metadata_file": "output/2026-08-26/instagram-s-first-draft-trims-your-reels-clips-for-you.json",
+      "published_at_utc": "2026-08-25T19:41:03Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8defcfad00ce5c963afc4a",
+      "zernio_scheduled_for_utc": "2026-08-25T20:37:48.000Z"
+    },
     "output/2026-08-26/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana-techcr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana-techcr.txt",
