@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-25T04:59:58.684759+00:00",
+  "run_utc": "2026-08-25T05:34:47.855096+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-24T04:59:58.684909+00:00",
-  "eligible_story_count": 180,
+  "cutoff_utc": "2026-08-24T05:34:47.855295+00:00",
+  "eligible_story_count": 179,
   "sources": [
     {
       "source": "TechCrunch",
@@ -145,8 +145,8 @@
       "already_processed": 0,
       "older_than_window": 16,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -214,8 +214,8 @@
       "rss_candidates": 20,
       "page_links": 33,
       "page_articles": 32,
-      "eligible_new": 18,
-      "already_processed": 10,
+      "eligible_new": 19,
+      "already_processed": 9,
       "older_than_window": 5,
       "metadata_errors": {
         "http_404": 1
@@ -394,7 +394,7 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 51,
+      "eligible_new": 53,
       "already_processed": 28,
       "older_than_window": 17,
       "metadata_errors": {
@@ -505,8 +505,8 @@
       "rss_candidates": 29,
       "page_links": 40,
       "page_articles": 39,
-      "eligible_new": 4,
-      "already_processed": 32,
+      "eligible_new": 3,
+      "already_processed": 33,
       "older_than_window": 13,
       "metadata_errors": {
         "http_404": 1
@@ -574,12 +574,12 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 6,
+      "page_articles": 1,
       "eligible_new": 0,
       "already_processed": 15,
       "older_than_window": 0,
       "metadata_errors": {
-        "http_429": 20
+        "http_429": 25
       }
     },
     {
@@ -611,8 +611,8 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 14,
-      "already_processed": 76,
+      "eligible_new": 11,
+      "already_processed": 79,
       "older_than_window": 22,
       "metadata_errors": {}
     },
