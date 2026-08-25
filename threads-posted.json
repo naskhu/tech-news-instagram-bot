@@ -67800,9 +67800,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T23:32:37.000Z"
     },
     "output/2026-08-25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap-techcr.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap-techcr.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T15:34:24Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8db600e14486b99c6ffd0f",
+          "zernio_scheduled_for_utc": "2026-08-25T15:55:39.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T15:34:17Z",
           "zernio_mode": "scheduled",
@@ -67812,11 +67818,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap-techcr.png",
       "metadata_file": "output/2026-08-25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap-techcr.json",
-      "published_at_utc": "2026-08-25T15:34:17Z",
+      "published_at_utc": "2026-08-25T15:34:24Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8db5f88fc0c73207b8dd19",
-      "zernio_scheduled_for_utc": "2026-08-25T15:53:39.000Z"
+      "zernio_post_id": "6a8db600e14486b99c6ffd0f",
+      "zernio_scheduled_for_utc": "2026-08-25T15:55:39.000Z"
     },
     "output/2026-08-25/apple-reverses-planned-hide-my-email-domain-change-after-user-pushback.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
