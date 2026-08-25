@@ -68700,9 +68700,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T20:15:32.000Z"
     },
     "output/2026-08-25/macbook-lock-aims-to-keep-your-laptop-safe-in-coffee-shops-9to5mac.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/macbook-lock-aims-to-keep-your-laptop-safe-in-coffee-shops-9to5mac.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T12:03:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d84872c576f2d2cf28545",
+          "zernio_scheduled_for_utc": "2026-08-25T12:43:22.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T12:03:13Z",
           "zernio_mode": "scheduled",
@@ -68712,11 +68718,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/macbook-lock-aims-to-keep-your-laptop-safe-in-coffee-shops-9to5mac.png",
       "metadata_file": "output/2026-08-25/macbook-lock-aims-to-keep-your-laptop-safe-in-coffee-shops-9to5mac.json",
-      "published_at_utc": "2026-08-25T12:03:13Z",
+      "published_at_utc": "2026-08-25T12:03:19Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d848132c604c338af8ffb",
-      "zernio_scheduled_for_utc": "2026-08-25T12:41:22.000Z"
+      "zernio_post_id": "6a8d84872c576f2d2cf28545",
+      "zernio_scheduled_for_utc": "2026-08-25T12:43:22.000Z"
     },
     "output/2026-08-25/macos-27-golden-gate-developer-beta-7-now-available-here-s-how-to-inst.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
