@@ -68300,9 +68300,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T13:16:12.000Z"
     },
     "output/2026-08-25/gamma-acquires-accel-backed-design-startup-lica-techcrunch.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/gamma-acquires-accel-backed-design-startup-lica-techcrunch.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T15:34:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8db5f1efd982ae00cd3e99",
+          "zernio_scheduled_for_utc": "2026-08-25T15:36:44.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T15:34:01Z",
           "zernio_mode": "scheduled",
@@ -68312,11 +68318,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/gamma-acquires-accel-backed-design-startup-lica-techcrunch.png",
       "metadata_file": "output/2026-08-25/gamma-acquires-accel-backed-design-startup-lica-techcrunch.json",
-      "published_at_utc": "2026-08-25T15:34:01Z",
+      "published_at_utc": "2026-08-25T15:34:09Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8db5e98fc0c73207b8d6db",
-      "zernio_scheduled_for_utc": "2026-08-25T15:34:44.000Z"
+      "zernio_post_id": "6a8db5f1efd982ae00cd3e99",
+      "zernio_scheduled_for_utc": "2026-08-25T15:36:44.000Z"
     },
     "output/2026-08-25/gemini-on-pixel-11-pro-testing-device-help-tool.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
