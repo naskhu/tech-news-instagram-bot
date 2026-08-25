@@ -70600,6 +70600,25 @@
       "zernio_post_id": "6a8dfc72ad0cdad5aed6a85a",
       "zernio_scheduled_for_utc": "2026-08-25T20:37:34.000Z"
     },
+    "output/2026-08-26/cyberpunk-commodore-cyberdeck.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/cyberpunk-commodore-cyberdeck.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T21:06:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e03c2c6e426ea4c00a683",
+          "zernio_scheduled_for_utc": "2026-08-25T21:25:34.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/cyberpunk-commodore-cyberdeck.png",
+      "metadata_file": "output/2026-08-26/cyberpunk-commodore-cyberdeck.json",
+      "published_at_utc": "2026-08-25T21:06:10Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8e03c2c6e426ea4c00a683",
+      "zernio_scheduled_for_utc": "2026-08-25T21:25:34.000Z"
+    },
     "output/2026-08-26/dreame-s-dream-of-a-rocket-powered-car-is-dead.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/dreame-s-dream-of-a-rocket-powered-car-is-dead.txt",
