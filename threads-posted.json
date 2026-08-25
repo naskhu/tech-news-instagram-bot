@@ -69100,9 +69100,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T00:20:47.000Z"
     },
     "output/2026-08-25/wholly-ai-generated-music-excluded-from-australian-charts.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/wholly-ai-generated-music-excluded-from-australian-charts.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T08:04:53Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d4ca5d39c9f4ef7dc3664",
+          "zernio_scheduled_for_utc": "2026-08-25T08:07:29.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T08:04:46Z",
           "zernio_mode": "scheduled",
@@ -69112,11 +69118,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/wholly-ai-generated-music-excluded-from-australian-charts.png",
       "metadata_file": "output/2026-08-25/wholly-ai-generated-music-excluded-from-australian-charts.json",
-      "published_at_utc": "2026-08-25T08:04:46Z",
+      "published_at_utc": "2026-08-25T08:04:53Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d4c9e604a4e33b01e36ba",
-      "zernio_scheduled_for_utc": "2026-08-25T08:05:29.000Z"
+      "zernio_post_id": "6a8d4ca5d39c9f4ef7dc3664",
+      "zernio_scheduled_for_utc": "2026-08-25T08:07:29.000Z"
     },
     "output/2026-08-25/your-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass-is-bac.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
