@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-25T11:22:51.178586+00:00",
+  "run_utc": "2026-08-25T11:59:59.541479+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-24T11:22:51.178698+00:00",
-  "eligible_story_count": 179,
+  "cutoff_utc": "2026-08-24T11:59:59.541589+00:00",
+  "eligible_story_count": 174,
   "sources": [
     {
       "source": "TechCrunch",
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 2,
-      "already_processed": 28,
+      "eligible_new": 0,
+      "already_processed": 30,
       "older_than_window": 4,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 16,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 12,
+      "eligible_new": 13,
       "already_processed": 7,
-      "older_than_window": 98,
+      "older_than_window": 96,
       "metadata_errors": {}
     },
     {
@@ -348,7 +348,7 @@
       "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 11,
+      "eligible_new": 10,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -377,24 +377,24 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 20,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 30,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
-      "eligible_new": 58,
+      "page_articles": 43,
+      "eligible_new": 55,
       "already_processed": 19,
-      "older_than_window": 25,
+      "older_than_window": 27,
       "metadata_errors": {
-        "no_article_metadata": 4,
+        "no_article_metadata": 5,
         "missing_title": 2
       }
     },
@@ -459,9 +459,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 2,
-      "already_processed": 55,
-      "older_than_window": 7,
+      "eligible_new": 0,
+      "already_processed": 56,
+      "older_than_window": 8,
       "metadata_errors": {}
     },
     {
@@ -488,13 +488,13 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 32,
+          "links": 31,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 8,
+          "links": 9,
           "error": ""
         }
       ],
@@ -502,7 +502,7 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 3,
-      "already_processed": 32,
+      "already_processed": 33,
       "older_than_window": 14,
       "metadata_errors": {}
     },
@@ -573,8 +573,8 @@
       "already_processed": 14,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "http_429": 21
+        "http_429": 21,
+        "no_article_metadata": 1
       }
     },
     {
@@ -606,8 +606,8 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 2,
-      "already_processed": 88,
+      "eligible_new": 4,
+      "already_processed": 87,
       "older_than_window": 22,
       "metadata_errors": {}
     },
@@ -641,7 +641,7 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 7,
-      "already_processed": 34,
+      "already_processed": 33,
       "older_than_window": 70,
       "metadata_errors": {}
     },
@@ -674,9 +674,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 20,
+      "eligible_new": 21,
       "already_processed": 28,
-      "older_than_window": 11,
+      "older_than_window": 9,
       "metadata_errors": {
         "no_article_metadata": 2
       }
