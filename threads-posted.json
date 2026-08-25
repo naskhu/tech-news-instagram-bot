@@ -70601,9 +70601,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T20:37:34.000Z"
     },
     "output/2026-08-26/at-just-8-you-owe-it-to-yourself-to-grab-inscryption.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/at-just-8-you-owe-it-to-yourself-to-grab-inscryption.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T21:35:12Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e0a90c78a476cf9556336",
+          "zernio_scheduled_for_utc": "2026-08-25T22:33:55.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T21:35:06Z",
           "zernio_mode": "scheduled",
@@ -70613,11 +70619,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/at-just-8-you-owe-it-to-yourself-to-grab-inscryption.png",
       "metadata_file": "output/2026-08-26/at-just-8-you-owe-it-to-yourself-to-grab-inscryption.json",
-      "published_at_utc": "2026-08-25T21:35:06Z",
+      "published_at_utc": "2026-08-25T21:35:12Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8e0a8ac78a476cf95560aa",
-      "zernio_scheduled_for_utc": "2026-08-25T22:31:55.000Z"
+      "zernio_post_id": "6a8e0a90c78a476cf9556336",
+      "zernio_scheduled_for_utc": "2026-08-25T22:33:55.000Z"
     },
     "output/2026-08-26/bluesky-now-supports-videos-that-are-up-to-10-minutes-long.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
