@@ -70725,6 +70725,25 @@
       "zernio_post_id": "6a8e03c8204f558aa9bfccb6",
       "zernio_scheduled_for_utc": "2026-08-25T21:27:34.000Z"
     },
+    "output/2026-08-26/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillanc.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillanc.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-25T23:32:02Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e25f2b69f8413fca6408e",
+          "zernio_scheduled_for_utc": "2026-08-26T00:28:50.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillanc.png",
+      "metadata_file": "output/2026-08-26/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillanc.json",
+      "published_at_utc": "2026-08-25T23:32:02Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8e25f2b69f8413fca6408e",
+      "zernio_scheduled_for_utc": "2026-08-26T00:28:50.000Z"
+    },
     "output/2026-08-26/dolly-parton-has-died-at-80.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/dolly-parton-has-died-at-80.txt",
