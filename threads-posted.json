@@ -68300,9 +68300,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T22:11:52.000Z"
     },
     "output/2026-08-25/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-9to5ma.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-9to5ma.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T01:10:15Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ceb76c8132b1585fa179d",
+          "zernio_scheduled_for_utc": "2026-08-25T01:31:34.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T01:10:09Z",
           "zernio_mode": "scheduled",
@@ -68312,11 +68318,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-9to5ma.png",
       "metadata_file": "output/2026-08-25/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-9to5ma.json",
-      "published_at_utc": "2026-08-25T01:10:09Z",
+      "published_at_utc": "2026-08-25T01:10:15Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ceb70d398b8c0bc5b47dd",
-      "zernio_scheduled_for_utc": "2026-08-25T01:29:34.000Z"
+      "zernio_post_id": "6a8ceb76c8132b1585fa179d",
+      "zernio_scheduled_for_utc": "2026-08-25T01:31:34.000Z"
     },
     "output/2026-08-25/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
