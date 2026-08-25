@@ -68225,9 +68225,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T22:25:39.000Z"
     },
     "output/2026-08-25/i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i-saw.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-25/i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i-saw.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T09:33:51Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8d617f7bb0de9b3ad8a8a3",
+          "zernio_scheduled_for_utc": "2026-08-25T10:32:33.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T09:33:45Z",
           "zernio_mode": "scheduled",
@@ -68237,11 +68243,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-25/i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i-saw.png",
       "metadata_file": "output/2026-08-25/i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i-saw.json",
-      "published_at_utc": "2026-08-25T09:33:45Z",
+      "published_at_utc": "2026-08-25T09:33:51Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8d617841e7045a37fab4f5",
-      "zernio_scheduled_for_utc": "2026-08-25T10:30:33.000Z"
+      "zernio_post_id": "6a8d617f7bb0de9b3ad8a8a3",
+      "zernio_scheduled_for_utc": "2026-08-25T10:32:33.000Z"
     },
     "output/2026-08-25/if-you-don-t-want-smart-glasses-to-spy-try-a-bluetooth-detector-app-cn.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
