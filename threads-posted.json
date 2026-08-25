@@ -70901,9 +70901,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T22:59:22.000Z"
     },
     "output/2026-08-26/google-s-pixel-11-pro-fold-is-better-but-not-the-best.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/google-s-pixel-11-pro-fold-is-better-but-not-the-best.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T23:58:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e2c0bd7613e4eac21fd65",
+          "zernio_scheduled_for_utc": "2026-08-26T00:19:26.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T23:57:58Z",
           "zernio_mode": "scheduled",
@@ -70913,11 +70919,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/google-s-pixel-11-pro-fold-is-better-but-not-the-best.png",
       "metadata_file": "output/2026-08-26/google-s-pixel-11-pro-fold-is-better-but-not-the-best.json",
-      "published_at_utc": "2026-08-25T23:57:58Z",
+      "published_at_utc": "2026-08-25T23:58:03Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8e2c05d0789cddc90e61c6",
-      "zernio_scheduled_for_utc": "2026-08-26T00:17:26.000Z"
+      "zernio_post_id": "6a8e2c0bd7613e4eac21fd65",
+      "zernio_scheduled_for_utc": "2026-08-26T00:19:26.000Z"
     },
     "output/2026-08-26/instagram-s-first-draft-feature-aims-to-make-editing-reels-less-tediou.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
