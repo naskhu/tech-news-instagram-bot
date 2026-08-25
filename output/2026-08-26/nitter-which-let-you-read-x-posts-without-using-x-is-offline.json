@@ -1,0 +1,23 @@
+{
+  "title": "Nitter, which let you read X posts without using X, is offline.",
+  "summary": "The GitHub page for the open source project says that, on Monday, “cease and desist letters were sent by X Corp. demanding a permanent takedown of Nitter instances and the project’s repository.” X claims Nitter unlawfully used X’s API, TechCrunch reports .",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/984819/nitter-which-let-you-read-x-posts-without-using-x-is-offline",
+  "published_utc": "2026-08-25T23:07:33+00:00",
+  "output_day": "2026-08-26",
+  "date_source": "meta",
+  "generated_utc": "2026-08-25T23:29:30.146350+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-08-26/nitter-which-let-you-read-x-posts-without-using-x-is-offline.png",
+  "caption": "output/2026-08-26/nitter-which-let-you-read-x-posts-without-using-x-is-offline.txt"
+}
