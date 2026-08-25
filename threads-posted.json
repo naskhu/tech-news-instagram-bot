@@ -70601,9 +70601,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T20:37:34.000Z"
     },
     "output/2026-08-26/bluesky-now-supports-videos-that-are-up-to-10-minutes-long.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/bluesky-now-supports-videos-that-are-up-to-10-minutes-long.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-25T21:35:00Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e0a83c56963c1d974adb6",
+          "zernio_scheduled_for_utc": "2026-08-25T22:15:00.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-25T21:34:54Z",
           "zernio_mode": "scheduled",
@@ -70613,11 +70619,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/bluesky-now-supports-videos-that-are-up-to-10-minutes-long.png",
       "metadata_file": "output/2026-08-26/bluesky-now-supports-videos-that-are-up-to-10-minutes-long.json",
-      "published_at_utc": "2026-08-25T21:34:54Z",
+      "published_at_utc": "2026-08-25T21:35:00Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8e0a7d02b8ba903a94ca67",
-      "zernio_scheduled_for_utc": "2026-08-25T22:13:00.000Z"
+      "zernio_post_id": "6a8e0a83c56963c1d974adb6",
+      "zernio_scheduled_for_utc": "2026-08-25T22:15:00.000Z"
     },
     "output/2026-08-26/cyberpunk-commodore-cyberdeck.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
