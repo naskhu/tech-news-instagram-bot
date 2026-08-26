@@ -1,0 +1,23 @@
+{
+  "title": "Massive DDoS attack disrupts Norway’s government digital services",
+  "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway’s shared government digital infrastructure since Monday, affecting services used by the public sector. The Norwegian National Security Authority (NSM) and the Norwegian Data Protection Authority (Datatilsynet) have been notified accordingly.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services",
+  "published_utc": "2026-08-25T15:52:36+00:00",
+  "output_day": "2026-08-26",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-26T08:23:35.405921+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/25/0_norway.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-26/massive-ddos-attack-disrupts-norway-s-government-digital-services.png",
+  "caption": "output/2026-08-26/massive-ddos-attack-disrupts-norway-s-government-digital-services.txt"
+}

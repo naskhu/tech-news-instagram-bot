@@ -1,0 +1,23 @@
+{
+  "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+  "summary": "Security teams have spent years hardening authentication, with controls like multi-factor authentication (MFA) and conditional access now commonplace. Solutions like Specops Verified ID add another layer of assurance and helps service desk agents confidently confirm identity before sensitive actions take place.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk",
+  "published_utc": "2026-08-25T14:01:11+00:00",
+  "output_day": "2026-08-26",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-26T08:23:40.603055+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/posts/2026/08/19/specops-lock-laptop.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-26/from-fake-workers-to-account-recovery-the-growing-identity-verificatio.png",
+  "caption": "output/2026-08-26/from-fake-workers-to-account-recovery-the-growing-identity-verificatio.txt"
+}
