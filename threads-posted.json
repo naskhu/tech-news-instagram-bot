@@ -71976,9 +71976,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T22:02:37.000Z"
     },
     "output/2026-08-26/tuft-needle-promo-codes-30-off-august-2026.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/tuft-needle-promo-codes-30-off-august-2026.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T05:56:21Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e80058193f5dffbc751f6",
+          "zernio_scheduled_for_utc": "2026-08-26T06:17:43.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T05:56:16Z",
           "zernio_mode": "scheduled",
@@ -71988,11 +71994,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/tuft-needle-promo-codes-30-off-august-2026.png",
       "metadata_file": "output/2026-08-26/tuft-needle-promo-codes-30-off-august-2026.json",
-      "published_at_utc": "2026-08-26T05:56:16Z",
+      "published_at_utc": "2026-08-26T05:56:21Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8e8000ae9ac6adbe6b48b3",
-      "zernio_scheduled_for_utc": "2026-08-26T06:15:43.000Z"
+      "zernio_post_id": "6a8e80058193f5dffbc751f6",
+      "zernio_scheduled_for_utc": "2026-08-26T06:17:43.000Z"
     },
     "output/2026-08-26/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-con.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
