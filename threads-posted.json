@@ -72026,9 +72026,15 @@
       "zernio_scheduled_for_utc": "2026-08-26T17:01:40.000Z"
     },
     "output/2026-08-26/meta-is-planning-an-ad-blitz-urging-tiktok-and-youtube-to-follow-its-l.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/meta-is-planning-an-ad-blitz-urging-tiktok-and-youtube-to-follow-its-l.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T16:59:49Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8f1b8410eceffa95445f7d",
+          "zernio_scheduled_for_utc": "2026-08-26T17:58:25.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T16:59:43Z",
           "zernio_mode": "scheduled",
@@ -72038,11 +72044,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/meta-is-planning-an-ad-blitz-urging-tiktok-and-youtube-to-follow-its-l.png",
       "metadata_file": "output/2026-08-26/meta-is-planning-an-ad-blitz-urging-tiktok-and-youtube-to-follow-its-l.json",
-      "published_at_utc": "2026-08-26T16:59:43Z",
+      "published_at_utc": "2026-08-26T16:59:49Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8f1b7f7b7acb1de6806217",
-      "zernio_scheduled_for_utc": "2026-08-26T17:56:25.000Z"
+      "zernio_post_id": "6a8f1b8410eceffa95445f7d",
+      "zernio_scheduled_for_utc": "2026-08-26T17:58:25.000Z"
     },
     "output/2026-08-26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-socia.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
