@@ -70601,9 +70601,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T20:56:29.000Z"
     },
     "output/2026-08-26/apple-refreshes-the-mac-mini-and-mac-studio-both-with-new-ai-ready-chi.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/apple-refreshes-the-mac-mini-and-mac-studio-both-with-new-ai-ready-chi.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T00:58:09Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e3a21b4c548167696994c",
+          "zernio_scheduled_for_utc": "2026-08-26T01:38:11.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T00:58:03Z",
           "zernio_mode": "scheduled",
@@ -70613,11 +70619,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/apple-refreshes-the-mac-mini-and-mac-studio-both-with-new-ai-ready-chi.png",
       "metadata_file": "output/2026-08-26/apple-refreshes-the-mac-mini-and-mac-studio-both-with-new-ai-ready-chi.json",
-      "published_at_utc": "2026-08-26T00:58:03Z",
+      "published_at_utc": "2026-08-26T00:58:09Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8e3a1befffd85a11b232b7",
-      "zernio_scheduled_for_utc": "2026-08-26T01:36:11.000Z"
+      "zernio_post_id": "6a8e3a21b4c548167696994c",
+      "zernio_scheduled_for_utc": "2026-08-26T01:38:11.000Z"
     },
     "output/2026-08-26/apple-s-new-desktop-computers-are-designed-specifically-for-local-ai-d.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
