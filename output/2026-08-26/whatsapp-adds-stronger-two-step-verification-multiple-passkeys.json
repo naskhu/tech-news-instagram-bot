@@ -1,0 +1,23 @@
+{
+  "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+  "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. According to WhatsApp, more than 3 billion people in over 180 countries use its messaging service to communicate with family and friends.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys",
+  "published_utc": "2026-08-25T13:00:00+00:00",
+  "output_day": "2026-08-26",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-26T10:57:02.389530+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/03/26/whatsapp.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-26/whatsapp-adds-stronger-two-step-verification-multiple-passkeys.png",
+  "caption": "output/2026-08-26/whatsapp-adds-stronger-two-step-verification-multiple-passkeys.txt"
+}
