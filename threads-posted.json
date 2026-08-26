@@ -70926,9 +70926,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T22:33:55.000Z"
     },
     "output/2026-08-26/bill-gates-is-deeply-worried-about-ai-and-he-s-no-longer-staying-quiet.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/bill-gates-is-deeply-worried-about-ai-and-he-s-no-longer-staying-quiet.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T11:27:40Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ecdaca58fb630c860bc69",
+          "zernio_scheduled_for_utc": "2026-08-26T11:48:58.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T11:27:34Z",
           "zernio_mode": "scheduled",
@@ -70938,11 +70944,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/bill-gates-is-deeply-worried-about-ai-and-he-s-no-longer-staying-quiet.png",
       "metadata_file": "output/2026-08-26/bill-gates-is-deeply-worried-about-ai-and-he-s-no-longer-staying-quiet.json",
-      "published_at_utc": "2026-08-26T11:27:34Z",
+      "published_at_utc": "2026-08-26T11:27:40Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ecda6a84c42d80a85d07d",
-      "zernio_scheduled_for_utc": "2026-08-26T11:46:58.000Z"
+      "zernio_post_id": "6a8ecdaca58fb630c860bc69",
+      "zernio_scheduled_for_utc": "2026-08-26T11:48:58.000Z"
     },
     "output/2026-08-26/bluesky-now-supports-videos-that-are-up-to-10-minutes-long.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
