@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-26T11:24:38.039073+00:00",
+  "run_utc": "2026-08-26T12:01:38.345283+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-25T11:24:38.039221+00:00",
-  "eligible_story_count": 270,
+  "cutoff_utc": "2026-08-25T12:01:38.345432+00:00",
+  "eligible_story_count": 275,
   "sources": [
     {
       "source": "TechCrunch",
@@ -28,7 +28,7 @@
       "page_links": 27,
       "page_articles": 27,
       "eligible_new": 1,
-      "already_processed": 26,
+      "already_processed": 27,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -56,7 +56,7 @@
       "page_links": 30,
       "page_articles": 30,
       "eligible_new": 1,
-      "already_processed": 30,
+      "already_processed": 29,
       "older_than_window": 5,
       "metadata_errors": {}
     },
@@ -83,8 +83,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 2,
-      "already_processed": 28,
+      "eligible_new": 0,
+      "already_processed": 30,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -207,14 +207,14 @@
         {
           "url": "https://www.engadget.com/latest/",
           "status": 200,
-          "links": 0,
+          "links": 1,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 32,
-      "page_articles": 32,
-      "eligible_new": 30,
+      "page_links": 33,
+      "page_articles": 33,
+      "eligible_new": 31,
       "already_processed": 0,
       "older_than_window": 2,
       "metadata_errors": {}
@@ -350,7 +350,7 @@
       "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 10,
+      "eligible_new": 11,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -379,22 +379,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 20,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 30,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 65,
+      "eligible_new": 68,
       "already_processed": 5,
-      "older_than_window": 27,
+      "older_than_window": 26,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -462,8 +462,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 1,
-      "already_processed": 63,
-      "older_than_window": 5,
+      "already_processed": 62,
+      "older_than_window": 6,
       "metadata_errors": {}
     },
     {
@@ -503,7 +503,7 @@
       "rss_candidates": 32,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 3,
+      "eligible_new": 4,
       "already_processed": 34,
       "older_than_window": 13,
       "metadata_errors": {}
@@ -572,7 +572,7 @@
       "page_links": 29,
       "page_articles": 6,
       "eligible_new": 2,
-      "already_processed": 16,
+      "already_processed": 17,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
@@ -595,13 +595,13 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 27,
+          "links": 28,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 13,
+          "links": 12,
           "error": ""
         }
       ],
@@ -609,7 +609,7 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 26,
-      "already_processed": 70,
+      "already_processed": 69,
       "older_than_window": 18,
       "metadata_errors": {}
     },
@@ -676,9 +676,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 27,
+      "eligible_new": 28,
       "already_processed": 4,
-      "older_than_window": 27,
+      "older_than_window": 26,
       "metadata_errors": {
         "no_article_metadata": 2
       }
