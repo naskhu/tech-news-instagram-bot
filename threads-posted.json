@@ -73524,6 +73524,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8f465b38bdf89ce523886f",
       "zernio_scheduled_for_utc": "2026-08-26T20:42:35.000Z"
+    },
+    "output/2026-08-27/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-departme.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-27/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-departme.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-26T20:02:45Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8f4665ee0d8332efb23fd5",
+          "zernio_scheduled_for_utc": "2026-08-26T20:59:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-27/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-departme.png",
+      "metadata_file": "output/2026-08-27/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-departme.json",
+      "published_at_utc": "2026-08-26T20:02:45Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8f4665ee0d8332efb23fd5",
+      "zernio_scheduled_for_utc": "2026-08-26T20:59:30.000Z"
     }
   }
 }
