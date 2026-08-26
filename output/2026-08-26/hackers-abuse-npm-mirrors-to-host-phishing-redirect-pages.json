@@ -1,0 +1,23 @@
+{
+  "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+  "summary": "OX says this technique effectively turns npm mirrors into \"free frontend hosts for malicious HTML pages and potentially other payloads as well.\" The malicious HTML impersonates a Cloudflare security verification page that embeds Cloudflare's legitimate Turnstile CAPTCHA service.",
+  "source": "BleepingComputer",
+  "url": "https://bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages",
+  "published_utc": "2026-08-25T21:39:01+00:00",
+  "output_day": "2026-08-26",
+  "date_source": "json_ld",
+  "generated_utc": "2026-08-26T07:32:05.734736+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://www.bleepstatic.com/content/hl-images/2026/05/15/npm.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 7,
+  "theme_accent_rgb": [
+    232,
+    93,
+    4
+  ],
+  "image": "output/2026-08-26/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages.png",
+  "caption": "output/2026-08-26/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages.txt"
+}

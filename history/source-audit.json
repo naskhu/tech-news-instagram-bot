@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-26T06:37:10.164594+00:00",
+  "run_utc": "2026-08-26T07:30:47.143296+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-25T06:37:10.164748+00:00",
-  "eligible_story_count": 270,
+  "cutoff_utc": "2026-08-25T07:30:47.143463+00:00",
+  "eligible_story_count": 275,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 0,
-      "already_processed": 27,
+      "eligible_new": 1,
+      "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 0,
-      "already_processed": 30,
+      "eligible_new": 1,
+      "already_processed": 29,
       "older_than_window": 5,
       "metadata_errors": {}
     },
@@ -112,7 +112,7 @@
       "page_links": 30,
       "page_articles": 30,
       "eligible_new": 10,
-      "already_processed": 13,
+      "already_processed": 12,
       "older_than_window": 17,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 12,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -212,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 29,
+      "eligible_new": 30,
       "already_processed": 0,
-      "older_than_window": 3,
+      "older_than_window": 2,
       "metadata_errors": {}
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 16,
       "already_processed": 7,
-      "older_than_window": 92,
+      "older_than_window": 91,
       "metadata_errors": {}
     },
     {
@@ -307,14 +307,14 @@
           "error": ""
         }
       ],
-      "rss_candidates": 12,
+      "rss_candidates": 13,
       "page_links": 22,
-      "page_articles": 14,
-      "eligible_new": 7,
+      "page_articles": 13,
+      "eligible_new": 8,
       "already_processed": 2,
-      "older_than_window": 10,
+      "older_than_window": 9,
       "metadata_errors": {
-        "not_article_path": 7,
+        "not_article_path": 8,
         "http_429": 1
       }
     },
@@ -342,14 +342,14 @@
         {
           "url": "https://thenextweb.com/latest",
           "status": 200,
-          "links": 10,
+          "links": 11,
           "error": ""
         }
       ],
       "rss_candidates": 10,
-      "page_links": 10,
-      "page_articles": 10,
-      "eligible_new": 10,
+      "page_links": 11,
+      "page_articles": 11,
+      "eligible_new": 11,
       "already_processed": 0,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -391,9 +391,9 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 63,
+      "eligible_new": 67,
       "already_processed": 6,
-      "older_than_window": 30,
+      "older_than_window": 24,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -502,8 +502,8 @@
       "rss_candidates": 32,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 6,
-      "already_processed": 30,
+      "eligible_new": 4,
+      "already_processed": 32,
       "older_than_window": 12,
       "metadata_errors": {}
     },
@@ -536,8 +536,8 @@
       "rss_candidates": 7,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 2,
-      "already_processed": 5,
+      "eligible_new": 0,
+      "already_processed": 7,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -569,13 +569,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 28,
-      "page_articles": 2,
+      "page_articles": 5,
       "eligible_new": 9,
-      "already_processed": 6,
+      "already_processed": 8,
       "older_than_window": 0,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 25
+        "http_429": 22
       }
     },
     {
