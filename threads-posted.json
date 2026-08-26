@@ -71676,9 +71676,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T23:34:05.000Z"
     },
     "output/2026-08-26/microsoft-powertoys-adds-alt-tab-style-switching-for-an-app-s-windows.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/microsoft-powertoys-adds-alt-tab-style-switching-for-an-app-s-windows.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T10:14:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ebc7fcf11a5fd9bc7cd42",
+          "zernio_scheduled_for_utc": "2026-08-26T11:13:08.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T10:14:18Z",
           "zernio_mode": "scheduled",
@@ -71688,11 +71694,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/microsoft-powertoys-adds-alt-tab-style-switching-for-an-app-s-windows.png",
       "metadata_file": "output/2026-08-26/microsoft-powertoys-adds-alt-tab-style-switching-for-an-app-s-windows.json",
-      "published_at_utc": "2026-08-26T10:14:18Z",
+      "published_at_utc": "2026-08-26T10:14:23Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ebc79d7a3e5239eb157eb",
-      "zernio_scheduled_for_utc": "2026-08-26T11:11:08.000Z"
+      "zernio_post_id": "6a8ebc7fcf11a5fd9bc7cd42",
+      "zernio_scheduled_for_utc": "2026-08-26T11:13:08.000Z"
     },
     "output/2026-08-26/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
