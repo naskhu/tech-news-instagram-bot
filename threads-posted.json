@@ -70551,9 +70551,15 @@
       "zernio_scheduled_for_utc": "2026-08-24T21:13:01.000Z"
     },
     "output/2026-08-26/add-the-airpods-5-beats-360-to-rumored-apple-headphones-coming-soon-cn.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/add-the-airpods-5-beats-360-to-rumored-apple-headphones-coming-soon-cn.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T03:40:10Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e601a7562ec0dc7d0a02f",
+          "zernio_scheduled_for_utc": "2026-08-26T04:38:56.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T03:40:04Z",
           "zernio_mode": "scheduled",
@@ -70563,11 +70569,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/add-the-airpods-5-beats-360-to-rumored-apple-headphones-coming-soon-cn.png",
       "metadata_file": "output/2026-08-26/add-the-airpods-5-beats-360-to-rumored-apple-headphones-coming-soon-cn.json",
-      "published_at_utc": "2026-08-26T03:40:04Z",
+      "published_at_utc": "2026-08-26T03:40:10Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8e6014632985e9e9d3636e",
-      "zernio_scheduled_for_utc": "2026-08-26T04:36:56.000Z"
+      "zernio_post_id": "6a8e601a7562ec0dc7d0a02f",
+      "zernio_scheduled_for_utc": "2026-08-26T04:38:56.000Z"
     },
     "output/2026-08-26/ai-won-t-replace-radiologists-but-it-will-dramatically-change-their-jo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
