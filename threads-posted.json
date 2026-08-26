@@ -73501,9 +73501,15 @@
       "zernio_scheduled_for_utc": "2026-08-26T21:41:07.000Z"
     },
     "output/2026-08-27/how-do-we-explain-openai-s-executive-exodus-techcrunch.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-27/how-do-we-explain-openai-s-executive-exodus-techcrunch.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T21:38:45Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8f5ce4af33d7df457961a9",
+          "zernio_scheduled_for_utc": "2026-08-26T22:00:02.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T21:38:37Z",
           "zernio_mode": "scheduled",
@@ -73513,11 +73519,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-27/how-do-we-explain-openai-s-executive-exodus-techcrunch.png",
       "metadata_file": "output/2026-08-27/how-do-we-explain-openai-s-executive-exodus-techcrunch.json",
-      "published_at_utc": "2026-08-26T21:38:37Z",
+      "published_at_utc": "2026-08-26T21:38:45Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8f5cddb5e0c1a42a07804d",
-      "zernio_scheduled_for_utc": "2026-08-26T21:58:02.000Z"
+      "zernio_post_id": "6a8f5ce4af33d7df457961a9",
+      "zernio_scheduled_for_utc": "2026-08-26T22:00:02.000Z"
     },
     "output/2026-08-27/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
