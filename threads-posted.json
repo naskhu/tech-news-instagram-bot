@@ -72476,9 +72476,15 @@
       "zernio_scheduled_for_utc": "2026-08-26T09:48:16.000Z"
     },
     "output/2026-08-26/the-second-generation-bose-quietcomfort-headphones-are-good-but-don-t-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/the-second-generation-bose-quietcomfort-headphones-are-good-but-don-t-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T12:04:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ed65be4f23b5f62090867",
+          "zernio_scheduled_for_utc": "2026-08-26T12:26:03.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T12:04:37Z",
           "zernio_mode": "scheduled",
@@ -72488,11 +72494,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/the-second-generation-bose-quietcomfort-headphones-are-good-but-don-t-.png",
       "metadata_file": "output/2026-08-26/the-second-generation-bose-quietcomfort-headphones-are-good-but-don-t-.json",
-      "published_at_utc": "2026-08-26T12:04:37Z",
+      "published_at_utc": "2026-08-26T12:04:43Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ed655e27ac0e6cfe276e7",
-      "zernio_scheduled_for_utc": "2026-08-26T12:24:03.000Z"
+      "zernio_post_id": "6a8ed65be4f23b5f62090867",
+      "zernio_scheduled_for_utc": "2026-08-26T12:26:03.000Z"
     },
     "output/2026-08-26/the-supreme-court-s-mail-in-ballot-ruling-is-a-step-toward-chaos-in-th.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
