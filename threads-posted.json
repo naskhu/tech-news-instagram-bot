@@ -70625,6 +70625,25 @@
       "zernio_post_id": "6a8e1f3cebe9cd6bb6367b4d",
       "zernio_scheduled_for_utc": "2026-08-26T00:02:09.000Z"
     },
+    "output/2026-08-26/americans-want-to-know-when-their-healthcare-providers-use-ai-cnet.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/americans-want-to-know-when-their-healthcare-providers-use-ai-cnet.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-26T04:25:06Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e6aa29cdee61734eb561c",
+          "zernio_scheduled_for_utc": "2026-08-26T05:03:11.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/americans-want-to-know-when-their-healthcare-providers-use-ai-cnet.png",
+      "metadata_file": "output/2026-08-26/americans-want-to-know-when-their-healthcare-providers-use-ai-cnet.json",
+      "published_at_utc": "2026-08-26T04:25:06Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8e6aa29cdee61734eb561c",
+      "zernio_scheduled_for_utc": "2026-08-26T05:03:11.000Z"
+    },
     "output/2026-08-26/anthropic-unifies-memory-across-claude-and-cowork-cnet.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/anthropic-unifies-memory-across-claude-and-cowork-cnet.txt",
