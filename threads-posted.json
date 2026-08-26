@@ -70951,9 +70951,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T19:51:59.000Z"
     },
     "output/2026-08-26/foldable-iphone-ultra-iphone-18-pro-and-other-phones-we-expect-to-laun.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/foldable-iphone-ultra-iphone-18-pro-and-other-phones-we-expect-to-laun.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T04:25:23Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e6ab342785fcf45382348",
+          "zernio_scheduled_for_utc": "2026-08-26T05:24:06.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T04:25:17Z",
           "zernio_mode": "scheduled",
@@ -70963,11 +70969,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/foldable-iphone-ultra-iphone-18-pro-and-other-phones-we-expect-to-laun.png",
       "metadata_file": "output/2026-08-26/foldable-iphone-ultra-iphone-18-pro-and-other-phones-we-expect-to-laun.json",
-      "published_at_utc": "2026-08-26T04:25:17Z",
+      "published_at_utc": "2026-08-26T04:25:23Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8e6aad42785fcf453820e2",
-      "zernio_scheduled_for_utc": "2026-08-26T05:22:06.000Z"
+      "zernio_post_id": "6a8e6ab342785fcf45382348",
+      "zernio_scheduled_for_utc": "2026-08-26T05:24:06.000Z"
     },
     "output/2026-08-26/garmin-s-new-fenix-9-adds-brighter-screens-and-smoother-map-panning.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
