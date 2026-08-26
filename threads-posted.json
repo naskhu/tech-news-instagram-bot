@@ -71126,9 +71126,15 @@
       "zernio_scheduled_for_utc": "2026-08-26T05:24:06.000Z"
     },
     "output/2026-08-26/from-fake-workers-to-account-recovery-the-growing-identity-verificatio.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/from-fake-workers-to-account-recovery-the-growing-identity-verificatio.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T08:25:50Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ea30e00ab937b3d074f3a",
+          "zernio_scheduled_for_utc": "2026-08-26T09:24:37.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T08:25:45Z",
           "zernio_mode": "scheduled",
@@ -71138,11 +71144,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/from-fake-workers-to-account-recovery-the-growing-identity-verificatio.png",
       "metadata_file": "output/2026-08-26/from-fake-workers-to-account-recovery-the-growing-identity-verificatio.json",
-      "published_at_utc": "2026-08-26T08:25:45Z",
+      "published_at_utc": "2026-08-26T08:25:50Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ea309888a9f053be8efa1",
-      "zernio_scheduled_for_utc": "2026-08-26T09:22:37.000Z"
+      "zernio_post_id": "6a8ea30e00ab937b3d074f3a",
+      "zernio_scheduled_for_utc": "2026-08-26T09:24:37.000Z"
     },
     "output/2026-08-26/garmin-s-new-fenix-9-adds-brighter-screens-and-smoother-map-panning.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
