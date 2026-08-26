@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-08-26T10:55:41.301989+00:00",
+  "run_utc": "2026-08-26T11:24:38.039073+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-08-25T10:55:41.302140+00:00",
-  "eligible_story_count": 267,
+  "cutoff_utc": "2026-08-25T11:24:38.039221+00:00",
+  "eligible_story_count": 270,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 0,
-      "already_processed": 27,
+      "eligible_new": 1,
+      "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 0,
-      "already_processed": 31,
+      "eligible_new": 1,
+      "already_processed": 30,
       "older_than_window": 5,
       "metadata_errors": {}
     },
@@ -83,8 +83,8 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 0,
-      "already_processed": 30,
+      "eligible_new": 2,
+      "already_processed": 28,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -145,8 +145,8 @@
       "already_processed": 0,
       "older_than_window": 12,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -252,7 +252,7 @@
       "page_articles": 40,
       "eligible_new": 16,
       "already_processed": 7,
-      "older_than_window": 92,
+      "older_than_window": 91,
       "metadata_errors": {}
     },
     {
@@ -379,13 +379,13 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 20,
+          "links": 19,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 30,
+          "links": 31,
           "error": ""
         }
       ],
@@ -394,7 +394,7 @@
       "page_articles": 45,
       "eligible_new": 65,
       "already_processed": 5,
-      "older_than_window": 24,
+      "older_than_window": 27,
       "metadata_errors": {
         "no_article_metadata": 4,
         "missing_title": 1
@@ -463,7 +463,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 63,
-      "older_than_window": 6,
+      "older_than_window": 5,
       "metadata_errors": {}
     },
     {
@@ -500,12 +500,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 33,
+      "rss_candidates": 32,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 5,
-      "already_processed": 32,
-      "older_than_window": 14,
+      "eligible_new": 3,
+      "already_processed": 34,
+      "older_than_window": 13,
       "metadata_errors": {}
     },
     {
@@ -564,19 +564,19 @@
         {
           "url": "https://www.bleepingcomputer.com/news/",
           "status": 200,
-          "links": 1,
+          "links": 2,
           "error": ""
         }
       ],
       "rss_candidates": 15,
-      "page_links": 28,
-      "page_articles": 15,
+      "page_links": 29,
+      "page_articles": 6,
       "eligible_new": 2,
-      "already_processed": 17,
+      "already_processed": 16,
       "older_than_window": 0,
       "metadata_errors": {
-        "no_article_metadata": 6,
-        "http_429": 7
+        "no_article_metadata": 1,
+        "http_429": 22
       }
     },
     {
@@ -595,22 +595,22 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 26,
+          "links": 27,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 14,
+          "links": 13,
           "error": ""
         }
       ],
       "rss_candidates": 99,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 25,
-      "already_processed": 71,
-      "older_than_window": 19,
+      "eligible_new": 26,
+      "already_processed": 70,
+      "older_than_window": 18,
       "metadata_errors": {}
     },
     {
@@ -642,9 +642,9 @@
       "rss_candidates": 95,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 17,
+      "eligible_new": 16,
       "already_processed": 26,
-      "older_than_window": 68,
+      "older_than_window": 69,
       "metadata_errors": {}
     },
     {
@@ -676,9 +676,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 38,
-      "eligible_new": 26,
-      "already_processed": 8,
-      "older_than_window": 25,
+      "eligible_new": 27,
+      "already_processed": 4,
+      "older_than_window": 27,
       "metadata_errors": {
         "no_article_metadata": 2
       }

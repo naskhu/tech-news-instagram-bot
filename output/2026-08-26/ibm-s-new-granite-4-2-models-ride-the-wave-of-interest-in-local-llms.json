@@ -1,0 +1,23 @@
+{
+  "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+  "summary": "IBM has rolled out the newest models in its family of open-weight large language models designed to be downloaded and self-hosted. IBM’s Granite family of models rarely grabs headlines for being the fastest or most aggressively innovative.",
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms",
+  "published_utc": "2026-08-26T11:10:49+00:00",
+  "output_day": "2026-08-26",
+  "date_source": "meta",
+  "generated_utc": "2026-08-26T11:25:47.992483+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 4,
+  "theme_accent_rgb": [
+    245,
+    91,
+    46
+  ],
+  "image": "output/2026-08-26/ibm-s-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms.png",
+  "caption": "output/2026-08-26/ibm-s-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms.txt"
+}
