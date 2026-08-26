@@ -71275,6 +71275,25 @@
       "zernio_post_id": "6a8de90ab30b97315b8b9f8f",
       "zernio_scheduled_for_utc": "2026-08-25T19:51:59.000Z"
     },
+    "output/2026-08-26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor-techcr.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor-techcr.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-26T16:05:04Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8f0eaf445716ff54cb6487",
+          "zernio_scheduled_for_utc": "2026-08-26T16:24:27.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor-techcr.png",
+      "metadata_file": "output/2026-08-26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor-techcr.json",
+      "published_at_utc": "2026-08-26T16:05:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8f0eaf445716ff54cb6487",
+      "zernio_scheduled_for_utc": "2026-08-26T16:24:27.000Z"
+    },
     "output/2026-08-26/fitbit-founders-launch-250-wearable-that-looks-like-a-pair-of-aaa-batt.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/fitbit-founders-launch-250-wearable-that-looks-like-a-pair-of-aaa-batt.txt",
