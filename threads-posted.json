@@ -72876,9 +72876,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T21:08:39.000Z"
     },
     "output/2026-08-26/xtracycle-s-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/xtracycle-s-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T11:28:03Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ecdc36ba7f957f2687dd9",
+          "zernio_scheduled_for_utc": "2026-08-26T12:26:48.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T11:27:57Z",
           "zernio_mode": "scheduled",
@@ -72888,11 +72894,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/xtracycle-s-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo.png",
       "metadata_file": "output/2026-08-26/xtracycle-s-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo.json",
-      "published_at_utc": "2026-08-26T11:27:57Z",
+      "published_at_utc": "2026-08-26T11:28:03Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8ecdbda84c42d80a85d674",
-      "zernio_scheduled_for_utc": "2026-08-26T12:24:48.000Z"
+      "zernio_post_id": "6a8ecdc36ba7f957f2687dd9",
+      "zernio_scheduled_for_utc": "2026-08-26T12:26:48.000Z"
     },
     "output/2026-08-26/you-can-stream-backrooms-on-hbo-max-starting-next-month.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
