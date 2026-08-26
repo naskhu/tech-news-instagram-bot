@@ -70675,6 +70675,25 @@
       "zernio_post_id": "6a8e6a9acecb1995af520d36",
       "zernio_scheduled_for_utc": "2026-08-26T04:46:16.000Z"
     },
+    "output/2026-08-26/ai-slop-is-ruining-cute-animals-on-the-internet.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/ai-slop-is-ruining-cute-animals-on-the-internet.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-26T12:04:48Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8ed66058e9dfe9733747ca",
+          "zernio_scheduled_for_utc": "2026-08-26T12:42:58.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/ai-slop-is-ruining-cute-animals-on-the-internet.png",
+      "metadata_file": "output/2026-08-26/ai-slop-is-ruining-cute-animals-on-the-internet.json",
+      "published_at_utc": "2026-08-26T12:04:48Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8ed66058e9dfe9733747ca",
+      "zernio_scheduled_for_utc": "2026-08-26T12:42:58.000Z"
+    },
     "output/2026-08-26/ai-won-t-replace-radiologists-but-it-will-dramatically-change-their-jo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/ai-won-t-replace-radiologists-but-it-will-dramatically-change-their-jo.txt",
