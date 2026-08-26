@@ -73449,6 +73449,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8de8f65a5d34860d1d4b1b",
       "zernio_scheduled_for_utc": "2026-08-25T19:33:04.000Z"
+    },
+    "output/2026-08-27/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-27/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-26T20:02:02Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8f463a958917ad63fd337f",
+          "zernio_scheduled_for_utc": "2026-08-26T20:02:45.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-27/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open.png",
+      "metadata_file": "output/2026-08-27/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open.json",
+      "published_at_utc": "2026-08-26T20:02:02Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8f463a958917ad63fd337f",
+      "zernio_scheduled_for_utc": "2026-08-26T20:02:45.000Z"
     }
   }
 }
