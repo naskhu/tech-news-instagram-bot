@@ -70575,6 +70575,25 @@
       "zernio_post_id": "6a8e601a7562ec0dc7d0a02f",
       "zernio_scheduled_for_utc": "2026-08-26T04:38:56.000Z"
     },
+    "output/2026-08-26/ai-agents-are-a-cybersecurity-nightmare-that-s-only-just-begun-cnet.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-26/ai-agents-are-a-cybersecurity-nightmare-that-s-only-just-begun-cnet.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-26T04:24:53Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8e6a94cecb1995af520b3e",
+          "zernio_scheduled_for_utc": "2026-08-26T04:44:16.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/ai-agents-are-a-cybersecurity-nightmare-that-s-only-just-begun-cnet.png",
+      "metadata_file": "output/2026-08-26/ai-agents-are-a-cybersecurity-nightmare-that-s-only-just-begun-cnet.json",
+      "published_at_utc": "2026-08-26T04:24:53Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8e6a94cecb1995af520b3e",
+      "zernio_scheduled_for_utc": "2026-08-26T04:44:16.000Z"
+    },
     "output/2026-08-26/ai-won-t-replace-radiologists-but-it-will-dramatically-change-their-jo.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/ai-won-t-replace-radiologists-but-it-will-dramatically-change-their-jo.txt",
