@@ -72751,9 +72751,15 @@
       "zernio_scheduled_for_utc": "2026-08-25T20:01:58.000Z"
     },
     "output/2026-08-26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model-techc.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model-techc.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-26T16:59:37Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8f1b7810eceffa95445b50",
+          "zernio_scheduled_for_utc": "2026-08-26T17:39:30.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-26T16:59:30Z",
           "zernio_mode": "scheduled",
@@ -72763,11 +72769,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model-techc.png",
       "metadata_file": "output/2026-08-26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model-techc.json",
-      "published_at_utc": "2026-08-26T16:59:30Z",
+      "published_at_utc": "2026-08-26T16:59:37Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8f1b71a50d919b62c71efe",
-      "zernio_scheduled_for_utc": "2026-08-26T17:37:30.000Z"
+      "zernio_post_id": "6a8f1b7810eceffa95445b50",
+      "zernio_scheduled_for_utc": "2026-08-26T17:39:30.000Z"
     },
     "output/2026-08-26/take-a-look-at-microsoft-s-new-25th-anniversary-halo-accessories.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
