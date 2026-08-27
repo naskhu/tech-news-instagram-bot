@@ -73875,6 +73875,25 @@
       "zernio_post_id": "6a90a70e3e332e76cffd89e1",
       "zernio_scheduled_for_utc": "2026-08-27T21:28:43.000Z"
     },
+    "output/2026-08-28/buried-in-meta-s-18b-settlement-is-a-legal-pass-on-kids-data-techcrunc.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-28/buried-in-meta-s-18b-settlement-is-a-legal-pass-on-kids-data-techcrunc.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-27T21:07:32Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a90a714f03773fc75270abb",
+          "zernio_scheduled_for_utc": "2026-08-27T21:45:38.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-28/buried-in-meta-s-18b-settlement-is-a-legal-pass-on-kids-data-techcrunc.png",
+      "metadata_file": "output/2026-08-28/buried-in-meta-s-18b-settlement-is-a-legal-pass-on-kids-data-techcrunc.json",
+      "published_at_utc": "2026-08-27T21:07:32Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a90a714f03773fc75270abb",
+      "zernio_scheduled_for_utc": "2026-08-27T21:45:38.000Z"
+    },
     "output/2026-08-28/rivian-s-cfo-is-leaving-the-company-techcrunch.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-28/rivian-s-cfo-is-leaving-the-company-techcrunch.txt",
