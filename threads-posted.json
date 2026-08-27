@@ -73924,6 +73924,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a90a7026635e8d23ca4a257",
       "zernio_scheduled_for_utc": "2026-08-27T21:09:48.000Z"
+    },
+    "output/2026-08-28/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-fro.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-28/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-fro.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-27T21:07:44Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a90a720276c905e5545af9c",
+          "zernio_scheduled_for_utc": "2026-08-27T22:04:33.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-28/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-fro.png",
+      "metadata_file": "output/2026-08-28/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-fro.json",
+      "published_at_utc": "2026-08-27T21:07:44Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a90a720276c905e5545af9c",
+      "zernio_scheduled_for_utc": "2026-08-27T22:04:33.000Z"
     }
   }
 }
