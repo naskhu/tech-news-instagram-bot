@@ -73601,9 +73601,15 @@
       "zernio_scheduled_for_utc": "2026-08-26T20:23:40.000Z"
     },
     "output/2026-08-27/meta-s-18b-child-safety-deal-hinges-on-age-verification-tech-that-does.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-27/meta-s-18b-child-safety-deal-hinges-on-age-verification-tech-that-does.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-27T01:08:16Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8f8e0091ca1a06578a9b18",
+          "zernio_scheduled_for_utc": "2026-08-27T01:48:20.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-27T01:08:11Z",
           "zernio_mode": "scheduled",
@@ -73613,11 +73619,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-27/meta-s-18b-child-safety-deal-hinges-on-age-verification-tech-that-does.png",
       "metadata_file": "output/2026-08-27/meta-s-18b-child-safety-deal-hinges-on-age-verification-tech-that-does.json",
-      "published_at_utc": "2026-08-27T01:08:11Z",
+      "published_at_utc": "2026-08-27T01:08:16Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a8f8dfb6142549be26ce923",
-      "zernio_scheduled_for_utc": "2026-08-27T01:46:20.000Z"
+      "zernio_post_id": "6a8f8e0091ca1a06578a9b18",
+      "zernio_scheduled_for_utc": "2026-08-27T01:48:20.000Z"
     },
     "output/2026-08-27/openai-releases-its-official-report-on-the-hugging-face-breach-techcru.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
