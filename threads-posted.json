@@ -73799,6 +73799,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8f8de86142549be26ce4f1",
       "zernio_scheduled_for_utc": "2026-08-27T01:10:30.000Z"
+    },
+    "output/2026-08-27/xiaomi-s-new-redmi-phone-lasts-for-three-days-on-a-single-charge.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-27/xiaomi-s-new-redmi-phone-lasts-for-three-days-on-a-single-charge.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-27T11:16:55Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a901ca7dec7f73e47b94969",
+          "zernio_scheduled_for_utc": "2026-08-27T11:55:04.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-27/xiaomi-s-new-redmi-phone-lasts-for-three-days-on-a-single-charge.png",
+      "metadata_file": "output/2026-08-27/xiaomi-s-new-redmi-phone-lasts-for-three-days-on-a-single-charge.json",
+      "published_at_utc": "2026-08-27T11:16:55Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a901ca7dec7f73e47b94969",
+      "zernio_scheduled_for_utc": "2026-08-27T11:55:04.000Z"
     }
   }
 }
