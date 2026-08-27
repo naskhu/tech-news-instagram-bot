@@ -73649,6 +73649,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a8f466bee0d8332efb24209",
       "zernio_scheduled_for_utc": "2026-08-26T21:01:30.000Z"
+    },
+    "output/2026-08-27/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valu.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-27/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valu.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-27T01:07:46Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a8f8de296b996f4963efbdb",
+          "zernio_scheduled_for_utc": "2026-08-27T01:08:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-27/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valu.png",
+      "metadata_file": "output/2026-08-27/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valu.json",
+      "published_at_utc": "2026-08-27T01:07:46Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a8f8de296b996f4963efbdb",
+      "zernio_scheduled_for_utc": "2026-08-27T01:08:30.000Z"
     }
   }
 }
