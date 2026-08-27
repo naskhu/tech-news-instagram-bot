@@ -73849,6 +73849,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a901cac9ba57dfc1a62ce33",
       "zernio_scheduled_for_utc": "2026-08-27T11:57:04.000Z"
+    },
+    "output/2026-08-28/rivian-s-cfo-is-leaving-the-company-techcrunch.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-28/rivian-s-cfo-is-leaving-the-company-techcrunch.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-27T21:07:05Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a90a6f980ff21931a94d82b",
+          "zernio_scheduled_for_utc": "2026-08-27T21:07:48.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-28/rivian-s-cfo-is-leaving-the-company-techcrunch.png",
+      "metadata_file": "output/2026-08-28/rivian-s-cfo-is-leaving-the-company-techcrunch.json",
+      "published_at_utc": "2026-08-27T21:07:05Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a90a6f980ff21931a94d82b",
+      "zernio_scheduled_for_utc": "2026-08-27T21:07:48.000Z"
     }
   }
 }
