@@ -73650,6 +73650,25 @@
       "zernio_post_id": "6a8f8e0091ca1a06578a9b18",
       "zernio_scheduled_for_utc": "2026-08-27T01:48:20.000Z"
     },
+    "output/2026-08-27/nvidia-closes-in-on-hugging-face-acquisition-techcrunch.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-27/nvidia-closes-in-on-hugging-face-acquisition-techcrunch.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-27T11:16:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a901c8fd6e4d0e5187d2511",
+          "zernio_scheduled_for_utc": "2026-08-27T11:17:14.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-27/nvidia-closes-in-on-hugging-face-acquisition-techcrunch.png",
+      "metadata_file": "output/2026-08-27/nvidia-closes-in-on-hugging-face-acquisition-techcrunch.json",
+      "published_at_utc": "2026-08-27T11:16:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a901c8fd6e4d0e5187d2511",
+      "zernio_scheduled_for_utc": "2026-08-27T11:17:14.000Z"
+    },
     "output/2026-08-27/openai-releases-its-official-report-on-the-hugging-face-breach-techcru.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-27/openai-releases-its-official-report-on-the-hugging-face-breach-techcru.txt",
