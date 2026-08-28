@@ -74023,9 +74023,14 @@
       "zernio_post_id": "6a91c9301366f5c9fa0d1b02"
     },
     "output/2026-08-28/more-americans-oppose-police-license-plate-cameras-than-support-them-s.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-28/more-americans-oppose-police-license-plate-cameras-than-support-them-s.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-28T17:46:25Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a91c95dd8d7ad090434b0c8"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-28T17:45:57Z",
           "zernio_mode": "publishNow",
@@ -74034,10 +74039,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-28/more-americans-oppose-police-license-plate-cameras-than-support-them-s.png",
       "metadata_file": "output/2026-08-28/more-americans-oppose-police-license-plate-cameras-than-support-them-s.json",
-      "published_at_utc": "2026-08-28T17:45:57Z",
+      "published_at_utc": "2026-08-28T17:46:25Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a91c9491366f5c9fa0d2273"
+      "zernio_post_id": "6a91c95dd8d7ad090434b0c8"
     },
     "output/2026-08-28/rivian-s-cfo-is-leaving-the-company-techcrunch.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
