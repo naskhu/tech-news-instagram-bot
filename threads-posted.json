@@ -73875,6 +73875,25 @@
       "zernio_post_id": "6a911cfd4abae27107e12b8c",
       "zernio_scheduled_for_utc": "2026-08-28T05:33:07.000Z"
     },
+    "output/2026-08-28/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-20.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-28/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-20.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-28T05:30:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a911d032f2fe1a1fc1ec16e",
+          "zernio_scheduled_for_utc": "2026-08-28T05:50:02.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-28/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-20.png",
+      "metadata_file": "output/2026-08-28/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-20.json",
+      "published_at_utc": "2026-08-28T05:30:43Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a911d032f2fe1a1fc1ec16e",
+      "zernio_scheduled_for_utc": "2026-08-28T05:50:02.000Z"
+    },
     "output/2026-08-28/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-don-t-want-t.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-28/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-don-t-want-t.txt",
