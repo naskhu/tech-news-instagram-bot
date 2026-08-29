@@ -74527,9 +74527,15 @@
       "zernio_post_id": "6a9317e680979e057467dbf3"
     },
     "output/2026-08-30/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellec.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-30/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellec.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-29T20:02:00Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a933ab88d7270452181bd9c",
+          "zernio_scheduled_for_utc": "2026-08-29T20:04:32.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-29T20:01:51Z",
           "zernio_mode": "scheduled",
@@ -74539,11 +74545,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-30/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellec.png",
       "metadata_file": "output/2026-08-30/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellec.json",
-      "published_at_utc": "2026-08-29T20:01:51Z",
+      "published_at_utc": "2026-08-29T20:02:00Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a933aae615bbe14d5ebe80e",
-      "zernio_scheduled_for_utc": "2026-08-29T20:02:32.000Z"
+      "zernio_post_id": "6a933ab88d7270452181bd9c",
+      "zernio_scheduled_for_utc": "2026-08-29T20:04:32.000Z"
     }
   }
 }
