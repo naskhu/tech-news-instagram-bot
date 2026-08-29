@@ -74164,9 +74164,15 @@
       "zernio_scheduled_for_utc": "2026-08-29T02:25:36.000Z"
     },
     "output/2026-08-29/brave-s-browser-one-ups-chrome-with-its-new-support-for-email-aliases-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-29/brave-s-browser-one-ups-chrome-with-its-new-support-for-email-aliases-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-29T08:23:06Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a9296ea2ea1c1f92182766f",
+          "zernio_scheduled_for_utc": "2026-08-29T08:25:42.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-29T08:22:59Z",
           "zernio_mode": "scheduled",
@@ -74176,11 +74182,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-29/brave-s-browser-one-ups-chrome-with-its-new-support-for-email-aliases-.png",
       "metadata_file": "output/2026-08-29/brave-s-browser-one-ups-chrome-with-its-new-support-for-email-aliases-.json",
-      "published_at_utc": "2026-08-29T08:22:59Z",
+      "published_at_utc": "2026-08-29T08:23:06Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a9296e2f3cf0f3ada6e188e",
-      "zernio_scheduled_for_utc": "2026-08-29T08:23:42.000Z"
+      "zernio_post_id": "6a9296ea2ea1c1f92182766f",
+      "zernio_scheduled_for_utc": "2026-08-29T08:25:42.000Z"
     },
     "output/2026-08-29/chinese-automakers-are-following-tesla-s-bet-that-robots-are-the-next-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
