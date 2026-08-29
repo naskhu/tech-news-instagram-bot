@@ -74386,9 +74386,14 @@
       "zernio_scheduled_for_utc": "2026-08-29T02:06:41.000Z"
     },
     "output/2026-08-29/nfl-teams-are-sticking-gopros-on-their-qbs.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-29/nfl-teams-are-sticking-gopros-on-their-qbs.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-29T17:34:48Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a93182177bbb76a31a84b53"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-29T17:34:19Z",
           "zernio_mode": "publishNow",
@@ -74397,10 +74402,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-29/nfl-teams-are-sticking-gopros-on-their-qbs.png",
       "metadata_file": "output/2026-08-29/nfl-teams-are-sticking-gopros-on-their-qbs.json",
-      "published_at_utc": "2026-08-29T17:34:19Z",
+      "published_at_utc": "2026-08-29T17:34:48Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a93180869c79b22838ea94d"
+      "zernio_post_id": "6a93182177bbb76a31a84b53"
     },
     "output/2026-08-29/nvidia-s-ai-advantage-is-moving-beyond-the-gpu-techcrunch.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
