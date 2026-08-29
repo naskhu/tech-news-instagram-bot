@@ -74164,9 +74164,15 @@
       "zernio_scheduled_for_utc": "2026-08-29T01:28:51.000Z"
     },
     "output/2026-08-29/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses-techcrunch.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-29/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses-techcrunch.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-29T01:26:29Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a9235455bc90e8c32a7c4af",
+          "zernio_scheduled_for_utc": "2026-08-29T01:47:46.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-29T01:26:23Z",
           "zernio_mode": "scheduled",
@@ -74176,11 +74182,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-29/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses-techcrunch.png",
       "metadata_file": "output/2026-08-29/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses-techcrunch.json",
-      "published_at_utc": "2026-08-29T01:26:23Z",
+      "published_at_utc": "2026-08-29T01:26:29Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a92353f70d5f1c8005e4a46",
-      "zernio_scheduled_for_utc": "2026-08-29T01:45:46.000Z"
+      "zernio_post_id": "6a9235455bc90e8c32a7c4af",
+      "zernio_scheduled_for_utc": "2026-08-29T01:47:46.000Z"
     }
   }
 }
