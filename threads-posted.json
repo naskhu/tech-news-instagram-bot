@@ -74459,6 +74459,23 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a92e4f704250b3bf21a6e48",
       "zernio_scheduled_for_utc": "2026-08-29T14:36:06.000Z"
+    },
+    "output/2026-08-29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy-techcrunc.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy-techcrunc.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-29T17:33:20Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a9317c6b4d65aa44e7735ab"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy-techcrunc.png",
+      "metadata_file": "output/2026-08-29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy-techcrunc.json",
+      "published_at_utc": "2026-08-29T17:33:20Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "publishNow",
+      "zernio_post_id": "6a9317c6b4d65aa44e7735ab"
     }
   }
 }
