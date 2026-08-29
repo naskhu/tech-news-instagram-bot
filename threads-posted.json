@@ -74314,9 +74314,15 @@
       "zernio_scheduled_for_utc": "2026-08-29T01:47:46.000Z"
     },
     "output/2026-08-29/musicians-turned-detectives-are-hunting-for-ai-grifters.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-29/musicians-turned-detectives-are-hunting-for-ai-grifters.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-29T13:56:20Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a92e504407a1635decf2861",
+          "zernio_scheduled_for_utc": "2026-08-29T14:55:01.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-29T13:56:14Z",
           "zernio_mode": "scheduled",
@@ -74326,11 +74332,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-29/musicians-turned-detectives-are-hunting-for-ai-grifters.png",
       "metadata_file": "output/2026-08-29/musicians-turned-detectives-are-hunting-for-ai-grifters.json",
-      "published_at_utc": "2026-08-29T13:56:14Z",
+      "published_at_utc": "2026-08-29T13:56:20Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a92e4fe407a1635decf2614",
-      "zernio_scheduled_for_utc": "2026-08-29T14:53:01.000Z"
+      "zernio_post_id": "6a92e504407a1635decf2861",
+      "zernio_scheduled_for_utc": "2026-08-29T14:55:01.000Z"
     },
     "output/2026-08-29/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips-techcrunch.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
