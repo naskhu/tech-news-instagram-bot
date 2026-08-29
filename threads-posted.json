@@ -74188,6 +74188,25 @@
       "zernio_post_id": "6a92355d5bc90e8c32a7ce19",
       "zernio_scheduled_for_utc": "2026-08-29T02:25:36.000Z"
     },
+    "output/2026-08-29/anthropic-gets-its-first-court-win-over-the-pentagon-s-supply-chain-ri.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-29/anthropic-gets-its-first-court-win-over-the-pentagon-s-supply-chain-ri.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-29T08:23:37Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a929709f3cf0f3ada6e236b",
+          "zernio_scheduled_for_utc": "2026-08-29T09:20:27.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-29/anthropic-gets-its-first-court-win-over-the-pentagon-s-supply-chain-ri.png",
+      "metadata_file": "output/2026-08-29/anthropic-gets-its-first-court-win-over-the-pentagon-s-supply-chain-ri.json",
+      "published_at_utc": "2026-08-29T08:23:37Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a929709f3cf0f3ada6e236b",
+      "zernio_scheduled_for_utc": "2026-08-29T09:20:27.000Z"
+    },
     "output/2026-08-29/brave-s-browser-one-ups-chrome-with-its-new-support-for-email-aliases-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-29/brave-s-browser-one-ups-chrome-with-its-new-support-for-email-aliases-.txt",
