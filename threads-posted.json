@@ -74752,9 +74752,15 @@
       "zernio_scheduled_for_utc": "2026-08-29T20:04:32.000Z"
     },
     "output/2026-08-30/the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-30/the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-30T05:51:19Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a93c4d6629e22032454a17b",
+          "zernio_scheduled_for_utc": "2026-08-30T06:12:38.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-30T05:51:13Z",
           "zernio_mode": "scheduled",
@@ -74764,11 +74770,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-30/the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn.png",
       "metadata_file": "output/2026-08-30/the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn.json",
-      "published_at_utc": "2026-08-30T05:51:13Z",
+      "published_at_utc": "2026-08-30T05:51:19Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a93c4d1d9a014059569473f",
-      "zernio_scheduled_for_utc": "2026-08-30T06:10:38.000Z"
+      "zernio_post_id": "6a93c4d6629e22032454a17b",
+      "zernio_scheduled_for_utc": "2026-08-30T06:12:38.000Z"
     },
     "output/2026-08-30/trump-s-teleprompter-operator-fined-172-000-for-betting-on-speeches.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
