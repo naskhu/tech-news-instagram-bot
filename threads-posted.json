@@ -74996,9 +74996,14 @@
       "zernio_scheduled_for_utc": "2026-08-29T20:04:32.000Z"
     },
     "output/2026-08-30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis-techcrunch.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis-techcrunch.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-30T18:53:49Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a947c295964e3df310ed928"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-30T18:53:20Z",
           "zernio_mode": "publishNow",
@@ -75007,10 +75012,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis-techcrunch.png",
       "metadata_file": "output/2026-08-30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis-techcrunch.json",
-      "published_at_utc": "2026-08-30T18:53:20Z",
+      "published_at_utc": "2026-08-30T18:53:49Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a947c0e24f27949655ff721"
+      "zernio_post_id": "6a947c295964e3df310ed928"
     },
     "output/2026-08-30/the-best-label-makers-that-ll-transform-anyone-into-an-organizational-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
