@@ -74676,6 +74676,25 @@
       "zernio_post_id": "6a944bdc47e772f807ef97af",
       "zernio_scheduled_for_utc": "2026-08-30T15:48:35.000Z"
     },
+    "output/2026-08-30/google-capitulates-in-trump-s-attempt-to-rename-lake-ontario.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-30/google-capitulates-in-trump-s-attempt-to-rename-lake-ontario.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-30T15:27:31Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a944be3f281ecb709e08fe8",
+          "zernio_scheduled_for_utc": "2026-08-30T16:05:30.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-30/google-capitulates-in-trump-s-attempt-to-rename-lake-ontario.png",
+      "metadata_file": "output/2026-08-30/google-capitulates-in-trump-s-attempt-to-rename-lake-ontario.json",
+      "published_at_utc": "2026-08-30T15:27:31Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a944be3f281ecb709e08fe8",
+      "zernio_scheduled_for_utc": "2026-08-30T16:05:30.000Z"
+    },
     "output/2026-08-30/how-to-escape-group-chat-hell.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-30/how-to-escape-group-chat-hell.txt",
