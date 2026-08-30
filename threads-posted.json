@@ -74627,9 +74627,15 @@
       "zernio_scheduled_for_utc": "2026-08-29T22:51:46.000Z"
     },
     "output/2026-08-30/how-to-escape-group-chat-hell.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-30/how-to-escape-group-chat-hell.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-30T11:04:55Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a940e57a7dbc6417f478792",
+          "zernio_scheduled_for_utc": "2026-08-30T11:44:45.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-30T11:04:45Z",
           "zernio_mode": "scheduled",
@@ -74639,11 +74645,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-30/how-to-escape-group-chat-hell.png",
       "metadata_file": "output/2026-08-30/how-to-escape-group-chat-hell.json",
-      "published_at_utc": "2026-08-30T11:04:45Z",
+      "published_at_utc": "2026-08-30T11:04:55Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a940e4da7dbc6417f478426",
-      "zernio_scheduled_for_utc": "2026-08-30T11:42:45.000Z"
+      "zernio_post_id": "6a940e57a7dbc6417f478792",
+      "zernio_scheduled_for_utc": "2026-08-30T11:44:45.000Z"
     },
     "output/2026-08-30/how-to-run-a-chatbot-on-your-own-computer.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
