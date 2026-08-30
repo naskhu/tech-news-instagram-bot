@@ -74702,9 +74702,15 @@
       "zernio_scheduled_for_utc": "2026-08-30T05:53:43.000Z"
     },
     "output/2026-08-30/psilocybin-might-make-your-brain-live-in-the-moment.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-30/psilocybin-might-make-your-brain-live-in-the-moment.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-30T05:51:43Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a93c4ef629e22032454a5b4",
+          "zernio_scheduled_for_utc": "2026-08-30T06:50:28.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-30T05:51:37Z",
           "zernio_mode": "scheduled",
@@ -74714,11 +74720,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-30/psilocybin-might-make-your-brain-live-in-the-moment.png",
       "metadata_file": "output/2026-08-30/psilocybin-might-make-your-brain-live-in-the-moment.json",
-      "published_at_utc": "2026-08-30T05:51:37Z",
+      "published_at_utc": "2026-08-30T05:51:43Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a93c4e90b6da48d102970bc",
-      "zernio_scheduled_for_utc": "2026-08-30T06:48:28.000Z"
+      "zernio_post_id": "6a93c4ef629e22032454a5b4",
+      "zernio_scheduled_for_utc": "2026-08-30T06:50:28.000Z"
     },
     "output/2026-08-30/see-snes-carts-in-an-xbox-ally-and-doom-on-a-canon-powershot-hear-hot-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
