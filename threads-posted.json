@@ -74824,9 +74824,14 @@
       "zernio_post_id": "6a947bc5d8b1e810530e99a6"
     },
     "output/2026-08-30/musk-s-faster-path-to-more-gas-turbines-comes-with-pollution-problem-t.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-30/musk-s-faster-path-to-more-gas-turbines-comes-with-pollution-problem-t.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-30T18:52:55Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a947bf4de558b4a6c354136"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-30T18:52:29Z",
           "zernio_mode": "publishNow",
@@ -74835,10 +74840,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-30/musk-s-faster-path-to-more-gas-turbines-comes-with-pollution-problem-t.png",
       "metadata_file": "output/2026-08-30/musk-s-faster-path-to-more-gas-turbines-comes-with-pollution-problem-t.json",
-      "published_at_utc": "2026-08-30T18:52:29Z",
+      "published_at_utc": "2026-08-30T18:52:55Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a947bdb0a12258449545273"
+      "zernio_post_id": "6a947bf4de558b4a6c354136"
     },
     "output/2026-08-30/nasa-s-nancy-grace-roman-space-telescope-has-a-hidden-technological-le.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
