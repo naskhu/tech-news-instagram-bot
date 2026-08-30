@@ -74577,9 +74577,14 @@
       "zernio_scheduled_for_utc": "2026-08-29T21:01:17.000Z"
     },
     "output/2026-08-30/apple-tested-a-stylus-for-the-foldable-iphone-but-probably-won-t-ship-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-30/apple-tested-a-stylus-for-the-foldable-iphone-but-probably-won-t-ship-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-30T18:54:37Z",
+          "zernio_mode": "publishNow",
+          "zernio_post_id": "6a947c5a061e8aa58c242a71"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-30T18:54:10Z",
           "zernio_mode": "publishNow",
@@ -74588,10 +74593,10 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-30/apple-tested-a-stylus-for-the-foldable-iphone-but-probably-won-t-ship-.png",
       "metadata_file": "output/2026-08-30/apple-tested-a-stylus-for-the-foldable-iphone-but-probably-won-t-ship-.json",
-      "published_at_utc": "2026-08-30T18:54:10Z",
+      "published_at_utc": "2026-08-30T18:54:37Z",
       "publisher": "zernio_threads",
       "zernio_mode": "publishNow",
-      "zernio_post_id": "6a947c44e863b11bf368497a"
+      "zernio_post_id": "6a947c5a061e8aa58c242a71"
     },
     "output/2026-08-30/at-techbbq-europe-s-ai-conversations-kept-coming-back-to-who-s-actuall.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
