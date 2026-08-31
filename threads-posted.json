@@ -75290,9 +75290,15 @@
       "zernio_scheduled_for_utc": "2026-08-31T00:33:08.000Z"
     },
     "output/2026-08-31/google-wants-disney-universal-and-other-studios-to-license-characters-.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-31/google-wants-disney-universal-and-other-studios-to-license-characters-.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-31T12:27:02Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a957316ca1dfadeb70fa541",
+          "zernio_scheduled_for_utc": "2026-08-31T12:29:33.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-31T12:26:51Z",
           "zernio_mode": "scheduled",
@@ -75302,11 +75308,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-31/google-wants-disney-universal-and-other-studios-to-license-characters-.png",
       "metadata_file": "output/2026-08-31/google-wants-disney-universal-and-other-studios-to-license-characters-.json",
-      "published_at_utc": "2026-08-31T12:26:51Z",
+      "published_at_utc": "2026-08-31T12:27:02Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a95730bca1dfadeb70fa2c6",
-      "zernio_scheduled_for_utc": "2026-08-31T12:27:33.000Z"
+      "zernio_post_id": "6a957316ca1dfadeb70fa541",
+      "zernio_scheduled_for_utc": "2026-08-31T12:29:33.000Z"
     },
     "output/2026-08-31/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
