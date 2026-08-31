@@ -75339,6 +75339,25 @@
       "zernio_post_id": "6a94a607880ae3a9fdebe569",
       "zernio_scheduled_for_utc": "2026-08-30T22:32:04.000Z"
     },
+    "output/2026-08-31/texas-governor-abbott-blocks-funding-for-more-flock-cameras.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-31/texas-governor-abbott-blocks-funding-for-more-flock-cameras.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-31T00:12:16Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a94c6e07725c7ed9b2057bc",
+          "zernio_scheduled_for_utc": "2026-08-31T01:08:58.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-31/texas-governor-abbott-blocks-funding-for-more-flock-cameras.png",
+      "metadata_file": "output/2026-08-31/texas-governor-abbott-blocks-funding-for-more-flock-cameras.json",
+      "published_at_utc": "2026-08-31T00:12:16Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a94c6e07725c7ed9b2057bc",
+      "zernio_scheduled_for_utc": "2026-08-31T01:08:58.000Z"
+    },
     "output/2026-08-31/the-nancy-grace-roman-space-telescope-launches-to-study-dark-matter-an.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-31/the-nancy-grace-roman-space-telescope-launches-to-study-dark-matter-an.txt",
