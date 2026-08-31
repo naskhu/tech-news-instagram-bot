@@ -75214,6 +75214,25 @@
       "zernio_post_id": "6a940e365bb3316e4a5ee816",
       "zernio_scheduled_for_utc": "2026-08-30T11:06:55.000Z"
     },
+    "output/2026-08-31/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-hist.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-08-31/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-hist.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-31T05:45:30Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a9514faf388d5dc5d5357fb",
+          "zernio_scheduled_for_utc": "2026-08-31T06:42:00.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-31/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-hist.png",
+      "metadata_file": "output/2026-08-31/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-hist.json",
+      "published_at_utc": "2026-08-31T05:45:30Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a9514faf388d5dc5d5357fb",
+      "zernio_scheduled_for_utc": "2026-08-31T06:42:00.000Z"
+    },
     "output/2026-08-31/a-peek-at-the-pok-mon-fitbit.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-31/a-peek-at-the-pok-mon-fitbit.txt",
