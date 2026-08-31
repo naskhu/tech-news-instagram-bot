@@ -75215,9 +75215,15 @@
       "zernio_scheduled_for_utc": "2026-08-30T11:06:55.000Z"
     },
     "output/2026-08-31/a-peek-at-the-pok-mon-fitbit.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-08-31/a-peek-at-the-pok-mon-fitbit.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-31T00:11:47Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a94c6c3c0cc76182cd5012e",
+          "zernio_scheduled_for_utc": "2026-08-31T00:14:13.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-31T00:11:34Z",
           "zernio_mode": "scheduled",
@@ -75227,11 +75233,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-08-31/a-peek-at-the-pok-mon-fitbit.png",
       "metadata_file": "output/2026-08-31/a-peek-at-the-pok-mon-fitbit.json",
-      "published_at_utc": "2026-08-31T00:11:34Z",
+      "published_at_utc": "2026-08-31T00:11:47Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a94c6b6632a0790425d911d",
-      "zernio_scheduled_for_utc": "2026-08-31T00:12:13.000Z"
+      "zernio_post_id": "6a94c6c3c0cc76182cd5012e",
+      "zernio_scheduled_for_utc": "2026-08-31T00:14:13.000Z"
     },
     "output/2026-08-31/mapquest-knows-this-whole-thing-is-ridiculous.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
