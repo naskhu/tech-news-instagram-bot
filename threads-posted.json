@@ -75640,9 +75640,15 @@
       "zernio_scheduled_for_utc": "2026-08-31T19:20:46.000Z"
     },
     "output/2026-09-01/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-pol.png": {
-      "account_id": "6a88238877555aae01f162b8",
+      "account_id": "6a778c2dd0fe733d1a563307",
       "caption_file": "output/2026-09-01/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-pol.txt",
       "channels": {
+        "6a778c2dd0fe733d1a563307": {
+          "published_at_utc": "2026-08-31T19:19:08Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a95d3ab53fa038944d41446",
+          "zernio_scheduled_for_utc": "2026-08-31T20:17:31.000Z"
+        },
         "6a88238877555aae01f162b8": {
           "published_at_utc": "2026-08-31T19:18:58Z",
           "zernio_mode": "scheduled",
@@ -75652,11 +75658,11 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-01/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-pol.png",
       "metadata_file": "output/2026-09-01/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-pol.json",
-      "published_at_utc": "2026-08-31T19:18:58Z",
+      "published_at_utc": "2026-08-31T19:19:08Z",
       "publisher": "zernio_threads",
       "zernio_mode": "scheduled",
-      "zernio_post_id": "6a95d3a21cec02bbfcaec2d8",
-      "zernio_scheduled_for_utc": "2026-08-31T20:15:31.000Z"
+      "zernio_post_id": "6a95d3ab53fa038944d41446",
+      "zernio_scheduled_for_utc": "2026-08-31T20:17:31.000Z"
     },
     "output/2026-09-01/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets-techcr.png": {
       "account_id": "6a778c2dd0fe733d1a563307",
