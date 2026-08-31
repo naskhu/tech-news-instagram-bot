@@ -75613,6 +75613,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a9514f39a5b3a10193ff575",
       "zernio_scheduled_for_utc": "2026-08-31T06:25:05.000Z"
+    },
+    "output/2026-09-01/apple-s-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-09-01/apple-s-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-08-31T19:18:04Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a95d36c5fb8c838d502f8cf",
+          "zernio_scheduled_for_utc": "2026-08-31T19:18:46.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-01/apple-s-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-.png",
+      "metadata_file": "output/2026-09-01/apple-s-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-.json",
+      "published_at_utc": "2026-08-31T19:18:04Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a95d36c5fb8c838d502f8cf",
+      "zernio_scheduled_for_utc": "2026-08-31T19:18:46.000Z"
     }
   }
 }
