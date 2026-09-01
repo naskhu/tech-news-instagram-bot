@@ -75832,6 +75832,25 @@
       "zernio_mode": "scheduled",
       "zernio_post_id": "6a960b92febc887fb2bd3fd9",
       "zernio_scheduled_for_utc": "2026-08-31T23:57:41.000Z"
+    },
+    "output/2026-09-02/anthropic-s-new-fable-release-is-cheaper-less-restrictive.png": {
+      "account_id": "6a88238877555aae01f162b8",
+      "caption_file": "output/2026-09-02/anthropic-s-new-fable-release-is-cheaper-less-restrictive.txt",
+      "channels": {
+        "6a88238877555aae01f162b8": {
+          "published_at_utc": "2026-09-01T19:46:27Z",
+          "zernio_mode": "scheduled",
+          "zernio_post_id": "6a972b933ca4d247fb974784",
+          "zernio_scheduled_for_utc": "2026-09-01T19:47:10.000Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/anthropic-s-new-fable-release-is-cheaper-less-restrictive.png",
+      "metadata_file": "output/2026-09-02/anthropic-s-new-fable-release-is-cheaper-less-restrictive.json",
+      "published_at_utc": "2026-09-01T19:46:27Z",
+      "publisher": "zernio_threads",
+      "zernio_mode": "scheduled",
+      "zernio_post_id": "6a972b933ca4d247fb974784",
+      "zernio_scheduled_for_utc": "2026-09-01T19:47:10.000Z"
     }
   }
 }
