@@ -76161,6 +76161,25 @@
       "metadata_file": "output/2026-09-02/google-s-android-update-tackles-motion-sickness-accessibility-and-more.json",
       "published_at_utc": "2026-09-02T13:45:59Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-02/google-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-des.png": {
+      "buffer_due_at_utc": "2026-09-02T13:53:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a98289c2ccce291db72c9be",
+      "caption_file": "output/2026-09-02/google-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-des.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-02T13:53:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a98289c2ccce291db72c9be",
+          "published_at_utc": "2026-09-02T13:46:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/google-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-des.png",
+      "metadata_file": "output/2026-09-02/google-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-des.json",
+      "published_at_utc": "2026-09-02T13:46:04Z",
+      "publisher": "buffer_threads"
     }
   }
 }
