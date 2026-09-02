@@ -76086,6 +76086,25 @@
       "metadata_file": "output/2026-09-02/fambot-introduces-an-ai-chief-of-staff-for-families-techcrunch.json",
       "published_at_utc": "2026-09-02T13:36:19Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-02/google-needs-hollywood-more-than-the-studios-need-ai.png": {
+      "buffer_due_at_utc": "2026-09-02T14:02:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a982659370b3ab90cb9988b",
+      "caption_file": "output/2026-09-02/google-needs-hollywood-more-than-the-studios-need-ai.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-02T14:02:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a982659370b3ab90cb9988b",
+          "published_at_utc": "2026-09-02T13:36:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/google-needs-hollywood-more-than-the-studios-need-ai.png",
+      "metadata_file": "output/2026-09-02/google-needs-hollywood-more-than-the-studios-need-ai.json",
+      "published_at_utc": "2026-09-02T13:36:25Z",
+      "publisher": "buffer_threads"
     }
   }
 }
