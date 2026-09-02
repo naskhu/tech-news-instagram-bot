@@ -76503,6 +76503,23 @@
       "metadata_file": "output/2026-09-02/uber-is-laying-off-10-of-staff-or-3-300-people-techcrunch.json",
       "published_at_utc": "2026-09-02T17:37:45Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-02/us-government-sides-with-openai-on-issue-of-training-llms-on-copyright.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a985eefb85185cae22374d9",
+      "caption_file": "output/2026-09-02/us-government-sides-with-openai-on-issue-of-training-llms-on-copyright.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a985eefb85185cae22374d9",
+          "published_at_utc": "2026-09-02T17:37:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/us-government-sides-with-openai-on-issue-of-training-llms-on-copyright.png",
+      "metadata_file": "output/2026-09-02/us-government-sides-with-openai-on-issue-of-training-llms-on-copyright.json",
+      "published_at_utc": "2026-09-02T17:37:59Z",
+      "publisher": "buffer_threads"
     }
   }
 }
