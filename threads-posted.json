@@ -76087,6 +76087,23 @@
       "published_at_utc": "2026-09-02T13:36:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fer.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a985e9ef4b73e9c3c10592f",
+      "caption_file": "output/2026-09-02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fer.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a985e9ef4b73e9c3c10592f",
+          "published_at_utc": "2026-09-02T17:36:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fer.png",
+      "metadata_file": "output/2026-09-02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fer.json",
+      "published_at_utc": "2026-09-02T17:36:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-02/fambot-introduces-an-ai-chief-of-staff-for-families-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-02T14:01:24.000Z",
       "buffer_mode": "customScheduled",
