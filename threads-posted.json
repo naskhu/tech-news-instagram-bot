@@ -76388,12 +76388,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-02/reliance-s-jiohotstar-takes-its-streaming-empire-global-without-sports.png": {
-      "buffer_due_at_utc": "2026-09-02T17:55:51.000Z",
+      "buffer_due_at_utc": "2026-09-02T17:57:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a985b1fdaa2e9bf15cb5a43",
+      "buffer_post_id": "6a985b24f4b73e9c3c101480",
       "caption_file": "output/2026-09-02/reliance-s-jiohotstar-takes-its-streaming-empire-global-without-sports.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-02T17:57:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a985b24f4b73e9c3c101480",
+          "published_at_utc": "2026-09-02T17:21:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-02T17:55:51.000Z",
           "buffer_mode": "customScheduled",
@@ -76403,7 +76409,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/reliance-s-jiohotstar-takes-its-streaming-empire-global-without-sports.png",
       "metadata_file": "output/2026-09-02/reliance-s-jiohotstar-takes-its-streaming-empire-global-without-sports.json",
-      "published_at_utc": "2026-09-02T17:21:35Z",
+      "published_at_utc": "2026-09-02T17:21:40Z",
       "publisher": "buffer_threads"
     }
   }
