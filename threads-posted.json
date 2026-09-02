@@ -76594,10 +76594,15 @@
     },
     "output/2026-09-02/x-shifts-us-creator-payouts-from-stripe-to-x-money-techcrunch.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a985f6d4af15ca970b7e1d7",
+      "buffer_post_id": "6a985f7d1a0de4b492a15a9c",
       "caption_file": "output/2026-09-02/x-shifts-us-creator-payouts-from-stripe-to-x-money-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a985f7d1a0de4b492a15a9c",
+          "published_at_utc": "2026-09-02T17:40:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a985f6d4af15ca970b7e1d7",
@@ -76606,7 +76611,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/x-shifts-us-creator-payouts-from-stripe-to-x-money-techcrunch.png",
       "metadata_file": "output/2026-09-02/x-shifts-us-creator-payouts-from-stripe-to-x-money-techcrunch.json",
-      "published_at_utc": "2026-09-02T17:40:08Z",
+      "published_at_utc": "2026-09-02T17:40:24Z",
       "publisher": "buffer_threads"
     }
   }
