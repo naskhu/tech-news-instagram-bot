@@ -76547,6 +76547,23 @@
       "metadata_file": "output/2026-09-02/who-is-john-ternus-the-new-apple-ceo-techcrunch.json",
       "published_at_utc": "2026-09-02T17:38:47Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months-tech.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a985f2dbe55e45013b7a78c",
+      "caption_file": "output/2026-09-02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a985f2dbe55e45013b7a78c",
+          "published_at_utc": "2026-09-02T17:39:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months-tech.png",
+      "metadata_file": "output/2026-09-02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months-tech.json",
+      "published_at_utc": "2026-09-02T17:39:03Z",
+      "publisher": "buffer_threads"
     }
   }
 }
