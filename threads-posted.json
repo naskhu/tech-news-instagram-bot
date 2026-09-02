@@ -76011,6 +76011,25 @@
       "metadata_file": "output/2026-09-02/apple-maps-follows-google-in-renaming-lake-ontario.json",
       "published_at_utc": "2026-09-02T13:35:44Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-02/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-.png": {
+      "buffer_due_at_utc": "2026-09-02T13:53:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a982636a00c49cc666e1275",
+      "caption_file": "output/2026-09-02/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-02T13:53:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a982636a00c49cc666e1275",
+          "published_at_utc": "2026-09-02T13:35:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-.png",
+      "metadata_file": "output/2026-09-02/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-.json",
+      "published_at_utc": "2026-09-02T13:35:50Z",
+      "publisher": "buffer_threads"
     }
   }
 }
