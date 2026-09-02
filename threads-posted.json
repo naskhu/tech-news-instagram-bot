@@ -76765,12 +76765,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/openai-s-new-reasoning-technique-alarms-ai-safety-experts-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-02T23:22:50.000Z",
+      "buffer_due_at_utc": "2026-09-02T23:24:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a98a6d6ea0debfb4f6cd942",
+      "buffer_post_id": "6a98a6db5dac19360a277500",
       "caption_file": "output/2026-09-03/openai-s-new-reasoning-technique-alarms-ai-safety-experts-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-02T23:24:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a98a6db5dac19360a277500",
+          "published_at_utc": "2026-09-02T22:44:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-02T23:22:50.000Z",
           "buffer_mode": "customScheduled",
@@ -76780,7 +76786,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/openai-s-new-reasoning-technique-alarms-ai-safety-experts-techcrunch.png",
       "metadata_file": "output/2026-09-03/openai-s-new-reasoning-technique-alarms-ai-safety-experts-techcrunch.json",
-      "published_at_utc": "2026-09-02T22:44:38Z",
+      "published_at_utc": "2026-09-02T22:44:43Z",
       "publisher": "buffer_threads"
     }
   }
