@@ -76061,6 +76061,25 @@
       "metadata_file": "output/2026-09-02/dell-s-newest-laptop-sounds-a-lot-like-a-macbook-neo.json",
       "published_at_utc": "2026-09-02T13:36:08Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-02/fambot-introduces-an-ai-chief-of-staff-for-families-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-02T13:59:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a98264ea00c49cc666e13c7",
+      "caption_file": "output/2026-09-02/fambot-introduces-an-ai-chief-of-staff-for-families-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-02T13:59:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a98264ea00c49cc666e13c7",
+          "published_at_utc": "2026-09-02T13:36:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/fambot-introduces-an-ai-chief-of-staff-for-families-techcrunch.png",
+      "metadata_file": "output/2026-09-02/fambot-introduces-an-ai-chief-of-staff-for-families-techcrunch.json",
+      "published_at_utc": "2026-09-02T13:36:14Z",
+      "publisher": "buffer_threads"
     }
   }
 }
