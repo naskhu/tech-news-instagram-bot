@@ -1,28 +1,35 @@
-# Zernio setup for Threads
+# Threads publishing (Buffer)
 
-Instagram publishing remains on Buffer. Only Threads uses Zernio.
+Instagram and Threads both publish through **Buffer** again.
 
-Each Threads profile can use its **own** Zernio API key (for example
-`news.world.tech` and `naskhu` on separate Zernio accounts).
+Zernio was tried briefly but is no longer used (account paused / billing).
 
-1. Sign in at <https://zernio.com/> for each Zernio account.
-2. Connect the Threads profile in that dashboard. Threads profiles must be
-   backed by an Instagram Business or Creator account.
-3. Create an API key under **Dashboard → API Keys**.
-4. Copy the Zernio account ID for the connected Threads profile.
-5. Add these GitHub Actions repository secrets:
+## GitHub secrets
 
-   - `ZERNIO_THREADS_ACCOUNT_IDS`: comma-separated account IDs, primary first
-     (example: `news_world_tech_id,naskhu_id`)
-   - `ZERNIO_THREADS_PRIMARY_ACCOUNT_ID`: primary account ID (`news.world.tech`)
-   - `ZERNIO_NEWS_WORLD_TECH_API_KEY`: API key for the `news.world.tech` Zernio
-     account
-   - `ZERNIO_API_KEY`: API key for the `naskhu` Zernio account
-   - Optional override: `ZERNIO_THREADS_API_KEYS` as comma-separated keys in the
-     same order as `ZERNIO_THREADS_ACCOUNT_IDS` (skips the two named keys above)
+- `BUFFER_ACCESS_TOKEN`
+- `BUFFER_THREADS_CHANNEL_ID` — comma-separated Buffer Threads channel ids;
+  **news.world.tech first**, then `naskhu`
 
-The workflow schedules up to **20 posts per run** (under Zernio's 25/hour
-account limit), FIFO inside the next hour, and runs about every 30 minutes so
-leftovers keep draining. The secondary account is scheduled two minutes after
-the primary. Near Maldives midnight, it publishes immediately rather than
-spilling posts into the next day.
+Optional:
+
+- `BUFFER_THREADS_PRIMARY_CHANNEL_ID` — defaults to news.world.tech channel
+  `6a64c576e2638b94d7d25d01`
+
+## Find channel ids
+
+```bash
+export BUFFER_ACCESS_TOKEN=...
+python3 list_buffer_channels.py
+```
+
+## Workflow
+
+**Publish to Threads** (`publish-threads.yml`):
+
+- Runs after Generate V2 and every 30 minutes
+- Up to **20 posts per run** (gentle on Buffer API limits)
+- Rolling **250 / 24h** cap (Buffer Threads limit)
+- Primary **news.world.tech** first, **naskhu** ~2 minutes later
+
+Zernio secrets (`ZERNIO_*`) are no longer required and can be removed from
+GitHub when convenient.

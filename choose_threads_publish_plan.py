@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Decide Zernio Threads publish plan (rolling 250 / 24h + 25 / hour caps).
+"""Decide Buffer Threads publish plan (rolling 250 / 24h + gentle hourly caps).
 
 Only today's local output folder is eligible. Previous-day posts are never
 queued after the next Maldives day starts. Each run enqueues at most ~20
-posts (under Zernio's 25/hour account limit) FIFO within the next hour;
-hourly backups continue draining the rest before local midnight.
+posts FIFO within the next hour; scheduled backups continue draining the
+rest before local midnight.
 """
 
 from __future__ import annotations
@@ -31,10 +31,9 @@ from threads_limits import (
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 STATE_FILE = Path(os.getenv("THREADS_STATE_FILE", "threads-posted.json"))
-# Zernio enforces ~25 posts/hour per account. Stay under that so creates are
-# not rejected and scheduled posts do not fail at preflight.
-MAX_PER_SCHEDULE_TICK = max(1, min(25, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "20"))))
-MAX_PER_GENERATE_TICK = max(1, min(25, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "20"))))
+# Stay under Buffer's rolling API limits so creates are not rejected.
+MAX_PER_SCHEDULE_TICK = max(1, min(250, int(os.getenv("THREADS_MAX_PER_SCHEDULE_TICK", "20"))))
+MAX_PER_GENERATE_TICK = max(1, min(250, int(os.getenv("THREADS_MAX_PER_GENERATE_TICK", "20"))))
 # Prefer FIFO scheduling across the next hour (clamped to local midnight).
 PREFERRED_SCHEDULE_WINDOW_SECONDS = max(
     120, int(os.getenv("THREADS_SCHEDULE_WINDOW_SECONDS", "3600"))

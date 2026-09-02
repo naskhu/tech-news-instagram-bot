@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Threads publishing limits (rolling 24h, separate from Instagram)."""
+"""Buffer Threads publishing limits (rolling 24h, separate from Instagram)."""
 
 from __future__ import annotations
 
@@ -7,95 +7,46 @@ import os
 import time
 from datetime import datetime, timezone
 
-# Threads hard limit is 250 / rolling 24h. Count unique images (not
+# Buffer Threads hard limit is 250 / rolling 24h. Count unique images (not
 # per-channel fan-out) so dual profiles stay within the channel limit.
 DAILY_LIMIT = max(1, min(250, int(os.getenv("THREADS_DAILY_LIMIT", "250"))))
+# news.world.tech Threads channel — always published first when present.
+DEFAULT_PRIMARY_CHANNEL_ID = "6a64c576e2638b94d7d25d01"
+# Zernio account ids from the brief Zernio migration — treated as done for the
+# matching Buffer channel so cleared/skipped backlog is not republished.
+ZERNIO_NEWS_ACCOUNT_ID = "6a88238877555aae01f162b8"
+ZERNIO_NASKHU_ACCOUNT_ID = "6a778c2dd0fe733d1a563307"
 
 
-def _split_csv(text: str) -> list[str]:
-    parts: list[str] = []
-    for part in text.replace(";", ",").split(","):
-        value = part.strip()
-        if value and value not in parts:
-            parts.append(value)
-    return parts
+def zernio_to_buffer_aliases() -> dict[str, str]:
+    aliases = {ZERNIO_NEWS_ACCOUNT_ID: DEFAULT_PRIMARY_CHANNEL_ID}
+    for channel_id in parse_channel_ids():
+        if channel_id != DEFAULT_PRIMARY_CHANNEL_ID:
+            aliases[ZERNIO_NASKHU_ACCOUNT_ID] = channel_id
+            break
+    return aliases
 
 
 def parse_channel_ids(raw: str | None = None) -> list[str]:
-    """Parse comma/semicolon-separated Zernio Threads account ids.
+    """Parse comma/semicolon-separated Buffer Threads channel ids.
 
-    The configured primary account is always ordered first.
+    Primary channel (news.world.tech by default) is always ordered first so the
+    same story releases there before secondary profiles like naskhu.
     """
-    configured = os.getenv("ZERNIO_THREADS_ACCOUNT_IDS", "")
-    text = (raw if raw is not None else configured).strip()
-    ids = _split_csv(text)
+    text = (raw if raw is not None else os.getenv("BUFFER_THREADS_CHANNEL_ID", "")).strip()
+    ids: list[str] = []
+    for part in text.replace(";", ",").split(","):
+        channel_id = part.strip()
+        if channel_id and channel_id not in ids:
+            ids.append(channel_id)
 
-    primary = os.getenv("ZERNIO_THREADS_PRIMARY_ACCOUNT_ID", "").strip()
+    primary = (
+        os.getenv("BUFFER_THREADS_PRIMARY_CHANNEL_ID", DEFAULT_PRIMARY_CHANNEL_ID).strip()
+        or DEFAULT_PRIMARY_CHANNEL_ID
+    )
     if primary and primary in ids:
         ids = [primary] + [channel_id for channel_id in ids if channel_id != primary]
     return ids
-
-
-def parse_account_api_keys(
-    account_ids: list[str] | None = None,
-    *,
-    keys_raw: str | None = None,
-    fallback_key: str | None = None,
-) -> dict[str, str]:
-    """Map each Threads account id to its own Zernio API key.
-
-    Preferred: ``ZERNIO_THREADS_API_KEYS`` as a comma-separated list in the same
-    order as ``ZERNIO_THREADS_ACCOUNT_IDS`` (before primary reordering is fine;
-    keys are matched by index against that configured id list).
-
-    Fallback: a single ``ZERNIO_API_KEY`` used for every account.
-    """
-    ids = list(account_ids) if account_ids is not None else parse_channel_ids()
-    if not ids:
-        return {}
-
-    configured_ids = _split_csv(os.getenv("ZERNIO_THREADS_ACCOUNT_IDS", ""))
-    raw_keys = (
-        keys_raw
-        if keys_raw is not None
-        else os.getenv("ZERNIO_THREADS_API_KEYS", "")
-    ).strip()
-    # Do not de-dupe keys: two accounts may intentionally share one key.
-    key_list = [part.strip() for part in raw_keys.replace(";", ",").split(",") if part.strip()]
-    shared = (
-        fallback_key
-        if fallback_key is not None
-        else os.getenv("ZERNIO_API_KEY", "")
-    ).strip()
-
-    by_configured: dict[str, str] = {}
-    if key_list:
-        if len(key_list) == 1 and len(configured_ids) >= 1:
-            by_configured = {account_id: key_list[0] for account_id in configured_ids}
-        elif configured_ids and len(key_list) == len(configured_ids):
-            by_configured = dict(zip(configured_ids, key_list))
-        elif len(key_list) == len(ids):
-            by_configured = dict(zip(ids, key_list))
-        else:
-            raise RuntimeError(
-                "ZERNIO_THREADS_API_KEYS must have 1 key (shared) or the same "
-                "count as ZERNIO_THREADS_ACCOUNT_IDS "
-                f"(got {len(key_list)} keys for {len(configured_ids) or len(ids)} accounts)"
-            )
-    elif shared:
-        by_configured = {account_id: shared for account_id in ids}
-    else:
-        raise RuntimeError(
-            "Set ZERNIO_THREADS_API_KEYS (one per account) or ZERNIO_API_KEY"
-        )
-
-    missing = [account_id for account_id in ids if account_id not in by_configured]
-    if missing:
-        raise RuntimeError(
-            "No Zernio API key mapped for Threads account id(s): "
-            + ", ".join(missing)
-        )
-    return {account_id: by_configured[account_id] for account_id in ids}
 
 
 def backfill_missing_channels_enabled() -> bool:
@@ -107,10 +58,18 @@ def entry_done_channel_ids(entry: object) -> set[str]:
     if not isinstance(entry, dict):
         return set()
     channels = entry.get("channels")
+    done: set[str] = set()
     if isinstance(channels, dict):
-        return {str(key) for key in channels.keys() if str(key).strip()}
-    old_id = str(entry.get("channel_id") or "").strip()
-    return {old_id} if old_id else set()
+        done = {str(key) for key in channels.keys() if str(key).strip()}
+    else:
+        old_id = str(entry.get("channel_id") or "").strip()
+        if old_id:
+            done = {old_id}
+    aliases = zernio_to_buffer_aliases()
+    for zernio_id, buffer_id in aliases.items():
+        if zernio_id in done and buffer_id:
+            done.add(buffer_id)
+    return done
 
 
 def is_fully_posted(entry: object, needed: list[str] | None = None) -> bool:
@@ -188,7 +147,7 @@ def count_posted_last_24h(state: dict) -> int:
         if not isinstance(entry, dict):
             continue
         publisher = str(entry.get("publisher", "buffer_threads")).lower()
-        if publisher not in {"zernio_threads", "buffer_threads", "buffer", ""}:
+        if publisher not in {"buffer_threads", "buffer", "zernio_threads", ""}:
             continue
         ts = entry_latest_publish_ts(entry)
         if ts is not None and ts >= cutoff:
