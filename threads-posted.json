@@ -75963,12 +75963,18 @@
       "zernio_scheduled_for_utc": "2026-09-01T19:47:10.000Z"
     },
     "output/2026-09-02/apple-follows-google-in-adopting-trump-s-lake-america-name.png": {
-      "buffer_due_at_utc": "2026-09-02T13:47:27.000Z",
+      "buffer_due_at_utc": "2026-09-02T13:49:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a98261f63debb19968788d1",
+      "buffer_post_id": "6a98262552f2a32bd6ce3543",
       "caption_file": "output/2026-09-02/apple-follows-google-in-adopting-trump-s-lake-america-name.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-02T13:49:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a98262552f2a32bd6ce3543",
+          "published_at_utc": "2026-09-02T13:35:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-02T13:47:27.000Z",
           "buffer_mode": "customScheduled",
@@ -75978,7 +75984,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/apple-follows-google-in-adopting-trump-s-lake-america-name.png",
       "metadata_file": "output/2026-09-02/apple-follows-google-in-adopting-trump-s-lake-america-name.json",
-      "published_at_utc": "2026-09-02T13:35:27Z",
+      "published_at_utc": "2026-09-02T13:35:33Z",
       "publisher": "buffer_threads"
     }
   }
