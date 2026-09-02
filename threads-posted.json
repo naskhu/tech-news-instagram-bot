@@ -75833,6 +75833,25 @@
       "zernio_post_id": "6a960b92febc887fb2bd3fd9",
       "zernio_scheduled_for_utc": "2026-08-31T23:57:41.000Z"
     },
+    "output/2026-09-02/adobe-is-making-its-tools-available-in-slack-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-02T13:46:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a98288b9aa0296f945a7948",
+      "caption_file": "output/2026-09-02/adobe-is-making-its-tools-available-in-slack-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-02T13:46:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a98288b9aa0296f945a7948",
+          "published_at_utc": "2026-09-02T13:45:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/adobe-is-making-its-tools-available-in-slack-techcrunch.png",
+      "metadata_file": "output/2026-09-02/adobe-is-making-its-tools-available-in-slack-techcrunch.json",
+      "published_at_utc": "2026-09-02T13:45:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-02/afterquery-reportedly-becomes-y-combinator-s-fastest-ever-unicorn-now-.png": {
       "buffer_due_at_utc": "2026-09-02T10:38:28.000Z",
       "buffer_mode": "customScheduled",
