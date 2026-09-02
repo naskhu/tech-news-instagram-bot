@@ -75859,12 +75859,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-02/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-.png": {
-      "buffer_due_at_utc": "2026-09-02T13:35:30.000Z",
+      "buffer_due_at_utc": "2026-09-02T13:37:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9825f652f2a32bd6ce30e1",
+      "buffer_post_id": "6a9825fba00c49cc666e0ccf",
       "caption_file": "output/2026-09-02/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-02T13:37:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9825fba00c49cc666e0ccf",
+          "published_at_utc": "2026-09-02T13:34:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-02T13:35:30.000Z",
           "buffer_mode": "customScheduled",
@@ -75874,7 +75880,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-.png",
       "metadata_file": "output/2026-09-02/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-.json",
-      "published_at_utc": "2026-09-02T13:34:46Z",
+      "published_at_utc": "2026-09-02T13:34:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-02/anthropic-s-new-fable-release-is-cheaper-less-restrictive.png": {
