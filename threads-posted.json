@@ -76460,12 +76460,16 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-02/tim-cook-s-final-apple-store-visit-as-ceo.png": {
-      "buffer_due_at_utc": "2026-09-02T18:04:35.000Z",
-      "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a985b35f4b73e9c3c10153a",
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a985ebf894c33cbc1056e7f",
       "caption_file": "output/2026-09-02/tim-cook-s-final-apple-store-visit-as-ceo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a985ebf894c33cbc1056e7f",
+          "published_at_utc": "2026-09-02T17:37:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-02T18:04:35.000Z",
           "buffer_mode": "customScheduled",
@@ -76475,7 +76479,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/tim-cook-s-final-apple-store-visit-as-ceo.png",
       "metadata_file": "output/2026-09-02/tim-cook-s-final-apple-store-visit-as-ceo.json",
-      "published_at_utc": "2026-09-02T17:21:57Z",
+      "published_at_utc": "2026-09-02T17:37:13Z",
       "publisher": "buffer_threads"
     }
   }
