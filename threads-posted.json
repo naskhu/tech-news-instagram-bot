@@ -76740,12 +76740,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/mapquest-is-now-the-no-1-us-app-after-bucking-trump-s-lake-america-ren.png": {
-      "buffer_due_at_utc": "2026-09-02T23:03:55.000Z",
+      "buffer_due_at_utc": "2026-09-02T23:05:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a98a6cb3436328cb042de73",
+      "buffer_post_id": "6a98a6d0ee76bbf0f6113c77",
       "caption_file": "output/2026-09-03/mapquest-is-now-the-no-1-us-app-after-bucking-trump-s-lake-america-ren.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-02T23:05:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a98a6d0ee76bbf0f6113c77",
+          "published_at_utc": "2026-09-02T22:44:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-02T23:03:55.000Z",
           "buffer_mode": "customScheduled",
@@ -76755,7 +76761,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/mapquest-is-now-the-no-1-us-app-after-bucking-trump-s-lake-america-ren.png",
       "metadata_file": "output/2026-09-03/mapquest-is-now-the-no-1-us-app-after-bucking-trump-s-lake-america-ren.json",
-      "published_at_utc": "2026-09-02T22:44:27Z",
+      "published_at_utc": "2026-09-02T22:44:32Z",
       "publisher": "buffer_threads"
     }
   }
