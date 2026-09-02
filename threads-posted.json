@@ -76591,6 +76591,23 @@
       "metadata_file": "output/2026-09-02/x-says-attackers-are-targeting-user-accounts-after-the-launch-of-x-mon.json",
       "published_at_utc": "2026-09-02T17:39:51Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-02/x-shifts-us-creator-payouts-from-stripe-to-x-money-techcrunch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a985f6d4af15ca970b7e1d7",
+      "caption_file": "output/2026-09-02/x-shifts-us-creator-payouts-from-stripe-to-x-money-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a985f6d4af15ca970b7e1d7",
+          "published_at_utc": "2026-09-02T17:40:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/x-shifts-us-creator-payouts-from-stripe-to-x-money-techcrunch.png",
+      "metadata_file": "output/2026-09-02/x-shifts-us-creator-payouts-from-stripe-to-x-money-techcrunch.json",
+      "published_at_utc": "2026-09-02T17:40:08Z",
+      "publisher": "buffer_threads"
     }
   }
 }
