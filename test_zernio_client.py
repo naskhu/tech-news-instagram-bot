@@ -6,7 +6,7 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 from unittest.mock import Mock, patch
 
-from threads_limits import parse_account_api_keys
+from threads_limits import entry_done_channel_ids, needs_publish, parse_channel_ids
 from threads_publish import generated_order_key
 from zernio_client import (
     ZernioRateLimitReached,
@@ -105,26 +105,24 @@ class ZernioClientTests(unittest.TestCase):
             ordered = sorted([newer, older], key=generated_order_key)
             self.assertEqual(ordered, [older, newer])
 
-    def test_maps_separate_api_keys_per_account(self) -> None:
-        os.environ["ZERNIO_THREADS_ACCOUNT_IDS"] = "news-id,naskhu-id"
-        os.environ["ZERNIO_THREADS_PRIMARY_ACCOUNT_ID"] = "news-id"
-        os.environ["ZERNIO_THREADS_API_KEYS"] = "sk_news,sk_naskhu"
-        os.environ.pop("ZERNIO_API_KEY", None)
+    def test_zernio_account_ids_count_as_buffer_channels(self) -> None:
+        os.environ["BUFFER_THREADS_CHANNEL_ID"] = (
+            "6a64c576e2638b94d7d25d01,6a63a4c9e2638b94d7ca2b3f"
+        )
         try:
-            mapping = parse_account_api_keys()
-            self.assertEqual(
-                mapping,
-                {"news-id": "sk_news", "naskhu-id": "sk_naskhu"},
-            )
-            self.assertEqual(mapping["news-id"], "sk_news")
-            self.assertEqual(mapping["naskhu-id"], "sk_naskhu")
+            entry = {
+                "channels": {
+                    "6a88238877555aae01f162b8": {
+                        "publish_result": "cleared_old_queue",
+                    }
+                }
+            }
+            needed = parse_channel_ids()
+            done = entry_done_channel_ids(entry)
+            self.assertIn("6a64c576e2638b94d7d25d01", done)
+            self.assertTrue(needs_publish(entry, needed))
         finally:
-            for name in (
-                "ZERNIO_THREADS_ACCOUNT_IDS",
-                "ZERNIO_THREADS_PRIMARY_ACCOUNT_ID",
-                "ZERNIO_THREADS_API_KEYS",
-            ):
-                os.environ.pop(name, None)
+            os.environ.pop("BUFFER_THREADS_CHANNEL_ID", None)
 
 
 if __name__ == "__main__":
