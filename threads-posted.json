@@ -76413,12 +76413,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-02/thrive-s-kushner-defends-involvement-in-fifa-mess-hires-elon-s-go-to-l.png": {
-      "buffer_due_at_utc": "2026-09-02T18:00:13.000Z",
+      "buffer_due_at_utc": "2026-09-02T18:02:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a985b2adaa2e9bf15cb5b55",
+      "buffer_post_id": "6a985b2fdaa2e9bf15cb5b79",
       "caption_file": "output/2026-09-02/thrive-s-kushner-defends-involvement-in-fifa-mess-hires-elon-s-go-to-l.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-02T18:02:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a985b2fdaa2e9bf15cb5b79",
+          "published_at_utc": "2026-09-02T17:21:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-02T18:00:13.000Z",
           "buffer_mode": "customScheduled",
@@ -76428,7 +76434,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/thrive-s-kushner-defends-involvement-in-fifa-mess-hires-elon-s-go-to-l.png",
       "metadata_file": "output/2026-09-02/thrive-s-kushner-defends-involvement-in-fifa-mess-hires-elon-s-go-to-l.json",
-      "published_at_utc": "2026-09-02T17:21:46Z",
+      "published_at_utc": "2026-09-02T17:21:51Z",
       "publisher": "buffer_threads"
     }
   }
