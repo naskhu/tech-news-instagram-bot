@@ -76525,6 +76525,23 @@
       "metadata_file": "output/2026-09-02/us-government-sides-with-openai-on-issue-of-training-llms-on-copyright.json",
       "published_at_utc": "2026-09-02T17:38:15Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-02/who-is-john-ternus-the-new-apple-ceo-techcrunch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a985f0ddaa2e9bf15cba1cf",
+      "caption_file": "output/2026-09-02/who-is-john-ternus-the-new-apple-ceo-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a985f0ddaa2e9bf15cba1cf",
+          "published_at_utc": "2026-09-02T17:38:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/who-is-john-ternus-the-new-apple-ceo-techcrunch.png",
+      "metadata_file": "output/2026-09-02/who-is-john-ternus-the-new-apple-ceo-techcrunch.json",
+      "published_at_utc": "2026-09-02T17:38:31Z",
+      "publisher": "buffer_threads"
     }
   }
 }
