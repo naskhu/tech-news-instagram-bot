@@ -76338,12 +76338,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-02/open-ai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-com.png": {
-      "buffer_due_at_utc": "2026-09-02T17:47:08.000Z",
+      "buffer_due_at_utc": "2026-09-02T17:49:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a985b09894c33cbc1052b27",
+      "buffer_post_id": "6a985b0edaa2e9bf15cb5964",
       "caption_file": "output/2026-09-02/open-ai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-com.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-02T17:49:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a985b0edaa2e9bf15cb5964",
+          "published_at_utc": "2026-09-02T17:21:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-02T17:47:08.000Z",
           "buffer_mode": "customScheduled",
@@ -76353,7 +76359,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-02/open-ai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-com.png",
       "metadata_file": "output/2026-09-02/open-ai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-com.json",
-      "published_at_utc": "2026-09-02T17:21:13Z",
+      "published_at_utc": "2026-09-02T17:21:18Z",
       "publisher": "buffer_threads"
     }
   }
