@@ -77057,10 +77057,15 @@
     },
     "output/2026-09-03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a99b771212adfa0388af74d",
+      "buffer_post_id": "6a99b7814ec8950525fcca32",
       "caption_file": "output/2026-09-03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a99b7814ec8950525fcca32",
+          "published_at_utc": "2026-09-03T18:08:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a99b771212adfa0388af74d",
@@ -77069,7 +77074,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into.png",
       "metadata_file": "output/2026-09-03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into.json",
-      "published_at_utc": "2026-09-03T18:07:55Z",
+      "published_at_utc": "2026-09-03T18:08:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/techcrunch-disrupt-2026-s-new-real-world-ai-stage-features-nvidia-robo.png": {
