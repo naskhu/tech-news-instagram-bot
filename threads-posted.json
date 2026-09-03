@@ -77064,6 +77064,25 @@
       "published_at_utc": "2026-09-03T05:28:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-03/this-rugged-laptop-runs-on-sunshine.png": {
+      "buffer_due_at_utc": "2026-09-03T11:05:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9947157e6d6fadb15da16f",
+      "caption_file": "output/2026-09-03/this-rugged-laptop-runs-on-sunshine.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-03T11:05:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9947157e6d6fadb15da16f",
+          "published_at_utc": "2026-09-03T10:08:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/this-rugged-laptop-runs-on-sunshine.png",
+      "metadata_file": "output/2026-09-03/this-rugged-laptop-runs-on-sunshine.json",
+      "published_at_utc": "2026-09-03T10:08:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-03/uber-beats-waymo-as-first-to-launch-robotaxis-in-london.png": {
       "buffer_due_at_utc": "2026-09-03T06:27:20.000Z",
       "buffer_mode": "customScheduled",
