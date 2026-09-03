@@ -76839,6 +76839,25 @@
       "published_at_utc": "2026-09-02T22:44:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-03/microsoft-discloses-azure-revenue-as-part-of-major-financial-reporting.png": {
+      "buffer_due_at_utc": "2026-09-03T10:46:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9947092da58d9c726fa9e0",
+      "caption_file": "output/2026-09-03/microsoft-discloses-azure-revenue-as-part-of-major-financial-reporting.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-03T10:46:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9947092da58d9c726fa9e0",
+          "published_at_utc": "2026-09-03T10:08:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/microsoft-discloses-azure-revenue-as-part-of-major-financial-reporting.png",
+      "metadata_file": "output/2026-09-03/microsoft-discloses-azure-revenue-as-part-of-major-financial-reporting.json",
+      "published_at_utc": "2026-09-03T10:08:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-03/openai-s-new-reasoning-technique-alarms-ai-safety-experts-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-02T23:24:50.000Z",
       "buffer_mode": "customScheduled",
