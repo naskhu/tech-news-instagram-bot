@@ -76965,12 +76965,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far.png": {
-      "buffer_due_at_utc": "2026-09-03T06:06:25.000Z",
+      "buffer_due_at_utc": "2026-09-03T06:08:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a99056c4979a5ac3e6d5418",
+      "buffer_post_id": "6a9905723bb8967b73799d77",
       "caption_file": "output/2026-09-03/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-03T06:08:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9905723bb8967b73799d77",
+          "published_at_utc": "2026-09-03T05:28:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-03T06:06:25.000Z",
           "buffer_mode": "customScheduled",
@@ -76980,7 +76986,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far.png",
       "metadata_file": "output/2026-09-03/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far.json",
-      "published_at_utc": "2026-09-03T05:28:12Z",
+      "published_at_utc": "2026-09-03T05:28:18Z",
       "publisher": "buffer_threads"
     }
   }
