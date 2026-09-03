@@ -76839,6 +76839,25 @@
       "published_at_utc": "2026-09-03T00:58:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-03/psa-amazon-s-shopping-ai-can-now-tell-you-if-that-message-is-a-scam-te.png": {
+      "buffer_due_at_utc": "2026-09-03T01:36:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a98c6212b1b4d897b974cf3",
+      "caption_file": "output/2026-09-03/psa-amazon-s-shopping-ai-can-now-tell-you-if-that-message-is-a-scam-te.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-03T01:36:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a98c6212b1b4d897b974cf3",
+          "published_at_utc": "2026-09-03T00:58:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/psa-amazon-s-shopping-ai-can-now-tell-you-if-that-message-is-a-scam-te.png",
+      "metadata_file": "output/2026-09-03/psa-amazon-s-shopping-ai-can-now-tell-you-if-that-message-is-a-scam-te.json",
+      "published_at_utc": "2026-09-03T00:58:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-03/techcrunch-disrupt-2026-s-new-real-world-ai-stage-features-nvidia-robo.png": {
       "buffer_due_at_utc": "2026-09-02T23:43:45.000Z",
       "buffer_mode": "customScheduled",
