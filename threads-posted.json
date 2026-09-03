@@ -76740,12 +76740,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/i-can-hear-the-forklifts-whirring.png": {
-      "buffer_due_at_utc": "2026-09-03T10:27:23.000Z",
+      "buffer_due_at_utc": "2026-09-03T10:29:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9946fc427785a8ad3e5797",
+      "buffer_post_id": "6a9947032da58d9c726fa951",
       "caption_file": "output/2026-09-03/i-can-hear-the-forklifts-whirring.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-03T10:29:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9947032da58d9c726fa951",
+          "published_at_utc": "2026-09-03T10:08:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-03T10:27:23.000Z",
           "buffer_mode": "customScheduled",
@@ -76755,7 +76761,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/i-can-hear-the-forklifts-whirring.png",
       "metadata_file": "output/2026-09-03/i-can-hear-the-forklifts-whirring.json",
-      "published_at_utc": "2026-09-03T10:07:57Z",
+      "published_at_utc": "2026-09-03T10:08:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/india-s-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pc.png": {
