@@ -77328,12 +77328,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/startup-arr-is-less-secure-than-ever-new-research-shows.png": {
-      "buffer_due_at_utc": "2026-09-03T21:27:56.000Z",
+      "buffer_due_at_utc": "2026-09-03T21:29:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a99e1cfd54bb74a297a6555",
+      "buffer_post_id": "6a99e1d5595d3d1a8241a9c3",
       "caption_file": "output/2026-09-04/startup-arr-is-less-secure-than-ever-new-research-shows.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-03T21:29:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a99e1d5595d3d1a8241a9c3",
+          "published_at_utc": "2026-09-03T21:08:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-03T21:27:56.000Z",
           "buffer_mode": "customScheduled",
@@ -77343,7 +77349,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/startup-arr-is-less-secure-than-ever-new-research-shows.png",
       "metadata_file": "output/2026-09-04/startup-arr-is-less-secure-than-ever-new-research-shows.json",
-      "published_at_utc": "2026-09-03T21:08:31Z",
+      "published_at_utc": "2026-09-03T21:08:37Z",
       "publisher": "buffer_threads"
     }
   }
