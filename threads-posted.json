@@ -76963,6 +76963,25 @@
       "metadata_file": "output/2026-09-03/the-nba-suspends-steve-ballmer-for-a-year-and-takes-five-draft-picks-o.json",
       "published_at_utc": "2026-09-03T05:28:07Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-03/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far.png": {
+      "buffer_due_at_utc": "2026-09-03T06:06:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a99056c4979a5ac3e6d5418",
+      "caption_file": "output/2026-09-03/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-03T06:06:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a99056c4979a5ac3e6d5418",
+          "published_at_utc": "2026-09-03T05:28:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far.png",
+      "metadata_file": "output/2026-09-03/the-tenth-titw-gadget-giveaway-has-ten-entries-so-far.json",
+      "published_at_utc": "2026-09-03T05:28:12Z",
+      "publisher": "buffer_threads"
     }
   }
 }
