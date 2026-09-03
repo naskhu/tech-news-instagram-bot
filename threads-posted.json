@@ -77303,12 +77303,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails-tec.png": {
-      "buffer_due_at_utc": "2026-09-03T23:23:11.000Z",
+      "buffer_due_at_utc": "2026-09-03T23:25:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9a01323134b0c21abad819",
+      "buffer_post_id": "6a9a01383134b0c21abad859",
       "caption_file": "output/2026-09-04/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails-tec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-03T23:25:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9a01383134b0c21abad859",
+          "published_at_utc": "2026-09-03T23:22:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-03T23:23:11.000Z",
           "buffer_mode": "customScheduled",
@@ -77318,7 +77324,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails-tec.png",
       "metadata_file": "output/2026-09-04/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails-tec.json",
-      "published_at_utc": "2026-09-03T23:22:27Z",
+      "published_at_utc": "2026-09-03T23:22:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40.png": {
