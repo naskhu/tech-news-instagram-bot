@@ -76665,12 +76665,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/amazon-s-zoox-expands-its-robotaxi-service-to-las-vegas-airport-techcr.png": {
-      "buffer_due_at_utc": "2026-09-03T14:41:23.000Z",
+      "buffer_due_at_utc": "2026-09-03T14:43:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9986e7ed3a2df69e0bd733",
+      "buffer_post_id": "6a9986eda1a4ead9212d135c",
       "caption_file": "output/2026-09-03/amazon-s-zoox-expands-its-robotaxi-service-to-las-vegas-airport-techcr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-03T14:43:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9986eda1a4ead9212d135c",
+          "published_at_utc": "2026-09-03T14:40:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-03T14:41:23.000Z",
           "buffer_mode": "customScheduled",
@@ -76680,7 +76686,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/amazon-s-zoox-expands-its-robotaxi-service-to-las-vegas-airport-techcr.png",
       "metadata_file": "output/2026-09-03/amazon-s-zoox-expands-its-robotaxi-service-to-las-vegas-airport-techcr.json",
-      "published_at_utc": "2026-09-03T14:40:39Z",
+      "published_at_utc": "2026-09-03T14:40:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/delivery-hero-board-backs-uber-s-15b-takeover-bid-techcrunch.png": {
