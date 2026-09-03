@@ -76615,12 +76615,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/adobe-acquires-indian-market-intelligence-startup-rilo-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-03T00:58:32.000Z",
+      "buffer_due_at_utc": "2026-09-03T01:00:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a98c60b78e03e506f795a93",
+      "buffer_post_id": "6a98c6102b1b4d897b974c4a",
       "caption_file": "output/2026-09-03/adobe-acquires-indian-market-intelligence-startup-rilo-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-03T01:00:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a98c6102b1b4d897b974c4a",
+          "published_at_utc": "2026-09-03T00:57:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-03T00:58:32.000Z",
           "buffer_mode": "customScheduled",
@@ -76630,7 +76636,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/adobe-acquires-indian-market-intelligence-startup-rilo-techcrunch.png",
       "metadata_file": "output/2026-09-03/adobe-acquires-indian-market-intelligence-startup-rilo-techcrunch.json",
-      "published_at_utc": "2026-09-03T00:57:47Z",
+      "published_at_utc": "2026-09-03T00:57:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-03/delivery-hero-board-backs-uber-s-15b-takeover-bid-techcrunch.png": {
