@@ -77352,6 +77352,25 @@
       "published_at_utc": "2026-09-03T21:08:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-04/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-03T23:42:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9a013d30d93c98c2ce6364",
+      "caption_file": "output/2026-09-04/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-03T23:42:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9a013d30d93c98c2ce6364",
+          "published_at_utc": "2026-09-03T23:22:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model-techcrunch.png",
+      "metadata_file": "output/2026-09-04/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model-techcrunch.json",
+      "published_at_utc": "2026-09-03T23:22:37Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-04/startup-arr-is-less-secure-than-ever-new-research-shows.png": {
       "buffer_due_at_utc": "2026-09-03T21:29:56.000Z",
       "buffer_mode": "customScheduled",
