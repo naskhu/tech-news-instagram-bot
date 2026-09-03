@@ -77376,6 +77376,25 @@
       "metadata_file": "output/2026-09-04/the-cybercab-is-tesla-s-fork-in-the-road-moment-techcrunch.json",
       "published_at_utc": "2026-09-03T21:08:49Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-04/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusio.png": {
+      "buffer_due_at_utc": "2026-09-03T22:05:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a99e1e830d93c98c2cc22cc",
+      "caption_file": "output/2026-09-04/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusio.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-03T22:05:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a99e1e830d93c98c2cc22cc",
+          "published_at_utc": "2026-09-03T21:08:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusio.png",
+      "metadata_file": "output/2026-09-04/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusio.json",
+      "published_at_utc": "2026-09-03T21:08:56Z",
+      "publisher": "buffer_threads"
     }
   }
 }
