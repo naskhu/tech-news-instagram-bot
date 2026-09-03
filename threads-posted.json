@@ -77353,12 +77353,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/the-cybercab-is-tesla-s-fork-in-the-road-moment-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-03T21:46:51.000Z",
+      "buffer_due_at_utc": "2026-09-03T21:48:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a99e1dbe7cce1aa46141024",
+      "buffer_post_id": "6a99e1e16fb3aac20a29a44b",
       "caption_file": "output/2026-09-04/the-cybercab-is-tesla-s-fork-in-the-road-moment-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-03T21:48:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a99e1e16fb3aac20a29a44b",
+          "published_at_utc": "2026-09-03T21:08:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-03T21:46:51.000Z",
           "buffer_mode": "customScheduled",
@@ -77368,7 +77374,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/the-cybercab-is-tesla-s-fork-in-the-road-moment-techcrunch.png",
       "metadata_file": "output/2026-09-04/the-cybercab-is-tesla-s-fork-in-the-road-moment-techcrunch.json",
-      "published_at_utc": "2026-09-03T21:08:43Z",
+      "published_at_utc": "2026-09-03T21:08:49Z",
       "publisher": "buffer_threads"
     }
   }
