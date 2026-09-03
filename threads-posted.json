@@ -76711,6 +76711,23 @@
       "published_at_utc": "2026-09-03T18:06:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a99b73237fc431bddaa8225",
+      "caption_file": "output/2026-09-03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a99b73237fc431bddaa8225",
+          "published_at_utc": "2026-09-03T18:06:51Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger.png",
+      "metadata_file": "output/2026-09-03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger.json",
+      "published_at_utc": "2026-09-03T18:06:51Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-03/delivery-hero-board-backs-uber-s-15b-takeover-bid-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-02T20:12:12.000Z",
       "buffer_mode": "customScheduled",
