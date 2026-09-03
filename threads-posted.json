@@ -76739,6 +76739,25 @@
       "published_at_utc": "2026-09-02T20:09:48Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-03/i-can-hear-the-forklifts-whirring.png": {
+      "buffer_due_at_utc": "2026-09-03T10:27:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9946fc427785a8ad3e5797",
+      "caption_file": "output/2026-09-03/i-can-hear-the-forklifts-whirring.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-03T10:27:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9946fc427785a8ad3e5797",
+          "published_at_utc": "2026-09-03T10:07:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/i-can-hear-the-forklifts-whirring.png",
+      "metadata_file": "output/2026-09-03/i-can-hear-the-forklifts-whirring.json",
+      "published_at_utc": "2026-09-03T10:07:57Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-03/india-s-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pc.png": {
       "buffer_due_at_utc": "2026-09-02T20:50:02.000Z",
       "buffer_mode": "customScheduled",
