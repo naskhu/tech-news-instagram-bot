@@ -76639,6 +76639,25 @@
       "published_at_utc": "2026-09-03T00:57:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-03/adobe-s-photoshop-premiere-and-ai-tools-are-now-in-slack.png": {
+      "buffer_due_at_utc": "2026-09-03T10:08:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9946f0427785a8ad3e56b8",
+      "caption_file": "output/2026-09-03/adobe-s-photoshop-premiere-and-ai-tools-are-now-in-slack.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-03T10:08:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9946f0427785a8ad3e56b8",
+          "published_at_utc": "2026-09-03T10:07:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-03/adobe-s-photoshop-premiere-and-ai-tools-are-now-in-slack.png",
+      "metadata_file": "output/2026-09-03/adobe-s-photoshop-premiere-and-ai-tools-are-now-in-slack.json",
+      "published_at_utc": "2026-09-03T10:07:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-03/delivery-hero-board-backs-uber-s-15b-takeover-bid-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-02T20:12:12.000Z",
       "buffer_mode": "customScheduled",
