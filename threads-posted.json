@@ -77453,12 +77453,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/nvidia-will-officially-bring-dlss-5-to-older-gpus-but-won-t-give-gamer.png": {
-      "buffer_due_at_utc": "2026-09-04T06:02:22.000Z",
+      "buffer_due_at_utc": "2026-09-04T06:04:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9a5ec26fb3aac20a327a68",
+      "buffer_post_id": "6a9a5ec7cfb379682d09b910",
       "caption_file": "output/2026-09-04/nvidia-will-officially-bring-dlss-5-to-older-gpus-but-won-t-give-gamer.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T06:04:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9a5ec7cfb379682d09b910",
+          "published_at_utc": "2026-09-04T06:01:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T06:02:22.000Z",
           "buffer_mode": "customScheduled",
@@ -77468,7 +77474,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/nvidia-will-officially-bring-dlss-5-to-older-gpus-but-won-t-give-gamer.png",
       "metadata_file": "output/2026-09-04/nvidia-will-officially-bring-dlss-5-to-older-gpus-but-won-t-give-gamer.json",
-      "published_at_utc": "2026-09-04T06:01:38Z",
+      "published_at_utc": "2026-09-04T06:01:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant.png": {
