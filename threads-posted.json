@@ -77352,6 +77352,23 @@
       "published_at_utc": "2026-09-03T21:08:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-f.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a9b04e6c513903fea2c43b4",
+      "caption_file": "output/2026-09-04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-f.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a9b04e6c513903fea2c43b4",
+          "published_at_utc": "2026-09-04T17:50:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-f.png",
+      "metadata_file": "output/2026-09-04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-f.json",
+      "published_at_utc": "2026-09-04T17:50:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-04/crusoe-reportedly-raises-3b-at-a-30b-valuation-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-04T01:11:15.000Z",
       "buffer_mode": "customScheduled",
