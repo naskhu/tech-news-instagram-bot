@@ -77919,6 +77919,25 @@
       "published_at_utc": "2026-09-03T21:09:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-05/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing-te.png": {
+      "buffer_due_at_utc": "2026-09-04T22:26:34.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9b456ebaae531ed5e98b87",
+      "caption_file": "output/2026-09-05/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing-te.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-04T22:26:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9b456ebaae531ed5e98b87",
+          "published_at_utc": "2026-09-04T22:25:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing-te.png",
+      "metadata_file": "output/2026-09-05/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing-te.json",
+      "published_at_utc": "2026-09-04T22:25:50Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-05/google-s-gemini-spark-can-now-manage-your-google-photos-library-techcr.png": {
       "buffer_due_at_utc": "2026-09-04T20:13:57.000Z",
       "buffer_mode": "customScheduled",
