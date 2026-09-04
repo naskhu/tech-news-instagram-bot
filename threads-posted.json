@@ -77943,6 +77943,25 @@
       "metadata_file": "output/2026-09-05/google-s-gemini-spark-can-now-manage-your-google-photos-library-techcr.json",
       "published_at_utc": "2026-09-04T20:11:19Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-05/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now-.png": {
+      "buffer_due_at_utc": "2026-09-04T20:30:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9b25edbaae531ed5e74c6b",
+      "caption_file": "output/2026-09-05/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-04T20:30:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9b25edbaae531ed5e74c6b",
+          "published_at_utc": "2026-09-04T20:11:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now-.png",
+      "metadata_file": "output/2026-09-05/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now-.json",
+      "published_at_utc": "2026-09-04T20:11:25Z",
+      "publisher": "buffer_threads"
     }
   }
 }
