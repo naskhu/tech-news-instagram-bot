@@ -77920,12 +77920,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/google-s-gemini-spark-can-now-manage-your-google-photos-library-techcr.png": {
-      "buffer_due_at_utc": "2026-09-04T20:11:57.000Z",
+      "buffer_due_at_utc": "2026-09-04T20:13:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9b25e19ca05109bec69d72",
+      "buffer_post_id": "6a9b25e7b6e1228b36afc4c9",
       "caption_file": "output/2026-09-05/google-s-gemini-spark-can-now-manage-your-google-photos-library-techcr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T20:13:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9b25e7b6e1228b36afc4c9",
+          "published_at_utc": "2026-09-04T20:11:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T20:11:57.000Z",
           "buffer_mode": "customScheduled",
@@ -77935,7 +77941,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/google-s-gemini-spark-can-now-manage-your-google-photos-library-techcr.png",
       "metadata_file": "output/2026-09-05/google-s-gemini-spark-can-now-manage-your-google-photos-library-techcr.json",
-      "published_at_utc": "2026-09-04T20:11:13Z",
+      "published_at_utc": "2026-09-04T20:11:19Z",
       "publisher": "buffer_threads"
     }
   }
