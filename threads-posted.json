@@ -77753,12 +77753,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/this-nas-company-wants-to-run-your-local-smart-home.png": {
-      "buffer_due_at_utc": "2026-09-04T11:40:41.000Z",
+      "buffer_due_at_utc": "2026-09-04T11:42:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9aa0e200f893faf31072e4",
+      "buffer_post_id": "6a9aa0e700f893faf3107339",
       "caption_file": "output/2026-09-04/this-nas-company-wants-to-run-your-local-smart-home.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T11:42:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9aa0e700f893faf3107339",
+          "published_at_utc": "2026-09-04T10:43:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T11:40:41.000Z",
           "buffer_mode": "customScheduled",
@@ -77768,7 +77774,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/this-nas-company-wants-to-run-your-local-smart-home.png",
       "metadata_file": "output/2026-09-04/this-nas-company-wants-to-run-your-local-smart-home.json",
-      "published_at_utc": "2026-09-04T10:43:46Z",
+      "published_at_utc": "2026-09-04T10:43:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusio.png": {
