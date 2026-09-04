@@ -77627,6 +77627,25 @@
       "published_at_utc": "2026-09-03T21:08:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-04/the-sameness-problem-behind-those-unappetizing-ai-generated-menus-tech.png": {
+      "buffer_due_at_utc": "2026-09-04T06:40:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9a5eda82940622ebb64524",
+      "caption_file": "output/2026-09-04/the-sameness-problem-behind-those-unappetizing-ai-generated-menus-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-04T06:40:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9a5eda82940622ebb64524",
+          "published_at_utc": "2026-09-04T06:02:02Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/the-sameness-problem-behind-those-unappetizing-ai-generated-menus-tech.png",
+      "metadata_file": "output/2026-09-04/the-sameness-problem-behind-those-unappetizing-ai-generated-menus-tech.json",
+      "published_at_utc": "2026-09-04T06:02:02Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-04/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusio.png": {
       "buffer_due_at_utc": "2026-09-03T22:07:46.000Z",
       "buffer_mode": "customScheduled",
