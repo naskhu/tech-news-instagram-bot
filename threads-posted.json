@@ -77995,12 +77995,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/the-white-house-is-making-arcade-games-racist.png": {
-      "buffer_due_at_utc": "2026-09-04T21:08:42.000Z",
+      "buffer_due_at_utc": "2026-09-04T21:10:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9b2604baae531ed5e74e2e",
+      "buffer_post_id": "6a9b260aa1aa1c9d388a3a8a",
       "caption_file": "output/2026-09-05/the-white-house-is-making-arcade-games-racist.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T21:10:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9b260aa1aa1c9d388a3a8a",
+          "published_at_utc": "2026-09-04T20:11:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T21:08:42.000Z",
           "buffer_mode": "customScheduled",
@@ -78010,7 +78016,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/the-white-house-is-making-arcade-games-racist.png",
       "metadata_file": "output/2026-09-05/the-white-house-is-making-arcade-games-racist.json",
-      "published_at_utc": "2026-09-04T20:11:48Z",
+      "published_at_utc": "2026-09-04T20:11:54Z",
       "publisher": "buffer_threads"
     }
   }
