@@ -77453,12 +77453,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant.png": {
-      "buffer_due_at_utc": "2026-09-04T02:06:00.000Z",
+      "buffer_due_at_utc": "2026-09-04T02:08:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9a1a2f30d93c98c2d0654e",
+      "buffer_post_id": "6a9a1a353c62018785112280",
       "caption_file": "output/2026-09-04/ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T02:08:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9a1a353c62018785112280",
+          "published_at_utc": "2026-09-04T01:09:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T02:06:00.000Z",
           "buffer_mode": "customScheduled",
@@ -77468,7 +77474,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant.png",
       "metadata_file": "output/2026-09-04/ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant.json",
-      "published_at_utc": "2026-09-04T01:09:04Z",
+      "published_at_utc": "2026-09-04T01:09:09Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/oura-files-to-go-public.png": {
