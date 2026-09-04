@@ -77427,6 +77427,25 @@
       "published_at_utc": "2026-09-04T01:08:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-04/lexar-s-muse-is-an-ultra-slim-portable-ssd-that-s-less-than-4mm-thick.png": {
+      "buffer_due_at_utc": "2026-09-04T10:43:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9aa0c03aa9acec7f3bd1c0",
+      "caption_file": "output/2026-09-04/lexar-s-muse-is-an-ultra-slim-portable-ssd-that-s-less-than-4mm-thick.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-04T10:43:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9aa0c03aa9acec7f3bd1c0",
+          "published_at_utc": "2026-09-04T10:43:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/lexar-s-muse-is-an-ultra-slim-portable-ssd-that-s-less-than-4mm-thick.png",
+      "metadata_file": "output/2026-09-04/lexar-s-muse-is-an-ultra-slim-portable-ssd-that-s-less-than-4mm-thick.json",
+      "published_at_utc": "2026-09-04T10:43:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-04/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-03T23:44:06.000Z",
       "buffer_mode": "customScheduled",
