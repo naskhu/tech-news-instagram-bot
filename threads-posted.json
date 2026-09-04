@@ -77653,12 +77653,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/the-unusually-muted-tesla-cybercab-launch.png": {
-      "buffer_due_at_utc": "2026-09-04T06:59:07.000Z",
+      "buffer_due_at_utc": "2026-09-04T07:01:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9a5ee642ccb34db9fbeee0",
+      "buffer_post_id": "6a9a5eeb6fb3aac20a328058",
       "caption_file": "output/2026-09-04/the-unusually-muted-tesla-cybercab-launch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T07:01:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9a5eeb6fb3aac20a328058",
+          "published_at_utc": "2026-09-04T06:02:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T06:59:07.000Z",
           "buffer_mode": "customScheduled",
@@ -77668,7 +77674,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/the-unusually-muted-tesla-cybercab-launch.png",
       "metadata_file": "output/2026-09-04/the-unusually-muted-tesla-cybercab-launch.json",
-      "published_at_utc": "2026-09-04T06:02:14Z",
+      "published_at_utc": "2026-09-04T06:02:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusio.png": {
