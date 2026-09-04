@@ -77478,12 +77478,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/microsoft-s-legal-team-is-waking-up-with-a-headache.png": {
-      "buffer_due_at_utc": "2026-09-04T11:02:51.000Z",
+      "buffer_due_at_utc": "2026-09-04T11:04:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9aa0cb5dff2d1220697546",
+      "buffer_post_id": "6a9aa0d13aa9acec7f3bd291",
       "caption_file": "output/2026-09-04/microsoft-s-legal-team-is-waking-up-with-a-headache.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T11:04:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9aa0d13aa9acec7f3bd291",
+          "published_at_utc": "2026-09-04T10:43:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T11:02:51.000Z",
           "buffer_mode": "customScheduled",
@@ -77493,7 +77499,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/microsoft-s-legal-team-is-waking-up-with-a-headache.png",
       "metadata_file": "output/2026-09-04/microsoft-s-legal-team-is-waking-up-with-a-headache.json",
-      "published_at_utc": "2026-09-04T10:43:23Z",
+      "published_at_utc": "2026-09-04T10:43:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/nvidia-will-officially-bring-dlss-5-to-older-gpus-but-won-t-give-gamer.png": {
