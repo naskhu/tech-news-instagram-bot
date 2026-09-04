@@ -78020,12 +78020,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/psa-the-smartthings-v3-hub-is-nearly-sold-out.png": {
-      "buffer_due_at_utc": "2026-09-04T23:04:24.000Z",
+      "buffer_due_at_utc": "2026-09-04T23:06:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9b4586720c7a42cc9df01a",
+      "buffer_post_id": "6a9b458ca1aa1c9d388c54ce",
       "caption_file": "output/2026-09-05/psa-the-smartthings-v3-hub-is-nearly-sold-out.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T23:06:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9b458ca1aa1c9d388c54ce",
+          "published_at_utc": "2026-09-04T22:26:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T23:04:24.000Z",
           "buffer_mode": "customScheduled",
@@ -78035,7 +78041,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/psa-the-smartthings-v3-hub-is-nearly-sold-out.png",
       "metadata_file": "output/2026-09-05/psa-the-smartthings-v3-hub-is-nearly-sold-out.json",
-      "published_at_utc": "2026-09-04T22:26:14Z",
+      "published_at_utc": "2026-09-04T22:26:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/silo-returns-to-apple-tv-for-its-final-season-on-july-9th-2027.png": {
