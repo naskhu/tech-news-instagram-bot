@@ -77377,6 +77377,25 @@
       "published_at_utc": "2026-09-04T01:08:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-04/feds-launch-investigation-into-tesla-s-cybercab-deployment-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-04T14:37:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9ad761daf7c7188fd80d0f",
+      "caption_file": "output/2026-09-04/feds-launch-investigation-into-tesla-s-cybercab-deployment-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-04T14:37:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ad761daf7c7188fd80d0f",
+          "published_at_utc": "2026-09-04T14:36:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/feds-launch-investigation-into-tesla-s-cybercab-deployment-techcrunch.png",
+      "metadata_file": "output/2026-09-04/feds-launch-investigation-into-tesla-s-cybercab-deployment-techcrunch.json",
+      "published_at_utc": "2026-09-04T14:36:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-04/google-launches-ai-voice-features-in-gmail-docs-and-keep-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-04T01:30:10.000Z",
       "buffer_mode": "customScheduled",
