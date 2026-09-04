@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-09-04T01:05:42.366347+00:00",
+  "run_utc": "2026-09-04T05:58:44.833992+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-09-03T01:05:42.366470+00:00",
-  "eligible_story_count": 335,
+  "cutoff_utc": "2026-09-03T05:58:44.834145+00:00",
+  "eligible_story_count": 331,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 26,
       "page_articles": 26,
-      "eligible_new": 4,
-      "already_processed": 23,
+      "eligible_new": 1,
+      "already_processed": 26,
       "older_than_window": 1,
       "metadata_errors": {}
     },
@@ -55,9 +55,9 @@
       "rss_candidates": 10,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 21,
+      "eligible_new": 22,
       "already_processed": 4,
-      "older_than_window": 10,
+      "older_than_window": 9,
       "metadata_errors": {}
     },
     {
@@ -250,7 +250,7 @@
       "page_articles": 40,
       "eligible_new": 28,
       "already_processed": 5,
-      "older_than_window": 76,
+      "older_than_window": 78,
       "metadata_errors": {}
     },
     {
@@ -460,9 +460,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 30,
-      "already_processed": 8,
-      "older_than_window": 24,
+      "eligible_new": 28,
+      "already_processed": 7,
+      "older_than_window": 30,
       "metadata_errors": {}
     },
     {
@@ -499,13 +499,15 @@
           "error": ""
         }
       ],
-      "rss_candidates": 34,
+      "rss_candidates": 35,
       "page_links": 40,
-      "page_articles": 40,
-      "eligible_new": 22,
+      "page_articles": 37,
+      "eligible_new": 23,
       "already_processed": 8,
-      "older_than_window": 19,
-      "metadata_errors": {}
+      "older_than_window": 18,
+      "metadata_errors": {
+        "http_403": 3
+      }
     },
     {
       "source": "VentureBeat",
@@ -557,7 +559,7 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 30,
+          "links": 29,
           "error": ""
         },
         {
@@ -568,14 +570,14 @@
         }
       ],
       "rss_candidates": 15,
-      "page_links": 34,
-      "page_articles": 14,
+      "page_links": 33,
+      "page_articles": 6,
       "eligible_new": 11,
       "already_processed": 0,
-      "older_than_window": 12,
+      "older_than_window": 7,
       "metadata_errors": {
-        "no_article_metadata": 6,
-        "http_429": 14
+        "no_article_metadata": 1,
+        "http_429": 26
       }
     },
     {
