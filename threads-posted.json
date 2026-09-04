@@ -77853,12 +77853,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-o.png": {
-      "buffer_due_at_utc": "2026-09-04T15:33:46.000Z",
+      "buffer_due_at_utc": "2026-09-04T15:35:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9ad786daf7c7188fd80f3b",
+      "buffer_post_id": "6a9ad78bb978916dd719150c",
       "caption_file": "output/2026-09-04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-o.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T15:35:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ad78bb978916dd719150c",
+          "published_at_utc": "2026-09-04T14:36:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T15:33:46.000Z",
           "buffer_mode": "customScheduled",
@@ -77868,7 +77874,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-o.png",
       "metadata_file": "output/2026-09-04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-o.json",
-      "published_at_utc": "2026-09-04T14:36:54Z",
+      "published_at_utc": "2026-09-04T14:36:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusio.png": {
