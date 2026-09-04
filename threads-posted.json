@@ -77553,12 +77553,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/nintendo-s-next-two-direct-events-are-both-happening-next-week.png": {
-      "buffer_due_at_utc": "2026-09-04T15:14:51.000Z",
+      "buffer_due_at_utc": "2026-09-04T15:16:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9ad779276284e54171c856",
+      "buffer_post_id": "6a9ad77fdaf7c7188fd80efb",
       "caption_file": "output/2026-09-04/nintendo-s-next-two-direct-events-are-both-happening-next-week.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-04T15:16:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ad77fdaf7c7188fd80efb",
+          "published_at_utc": "2026-09-04T14:36:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-04T15:14:51.000Z",
           "buffer_mode": "customScheduled",
@@ -77568,7 +77574,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-04/nintendo-s-next-two-direct-events-are-both-happening-next-week.png",
       "metadata_file": "output/2026-09-04/nintendo-s-next-two-direct-events-are-both-happening-next-week.json",
-      "published_at_utc": "2026-09-04T14:36:41Z",
+      "published_at_utc": "2026-09-04T14:36:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-04/nvidia-will-officially-bring-dlss-5-to-older-gpus-but-won-t-give-gamer.png": {
