@@ -78193,6 +78193,25 @@
       "metadata_file": "output/2026-09-05/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-.json",
       "published_at_utc": "2026-09-05T00:25:48Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-05/xp-pen-has-a-new-portable-android-drawing-tablet.png": {
+      "buffer_due_at_utc": "2026-09-05T01:22:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9b61929ca05109becacc80",
+      "caption_file": "output/2026-09-05/xp-pen-has-a-new-portable-android-drawing-tablet.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T01:22:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9b61929ca05109becacc80",
+          "published_at_utc": "2026-09-05T00:25:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/xp-pen-has-a-new-portable-android-drawing-tablet.png",
+      "metadata_file": "output/2026-09-05/xp-pen-has-a-new-portable-android-drawing-tablet.json",
+      "published_at_utc": "2026-09-05T00:25:54Z",
+      "publisher": "buffer_threads"
     }
   }
 }
