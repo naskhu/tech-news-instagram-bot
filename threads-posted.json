@@ -78745,12 +78745,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/dolly-parton-s-sister-lashes-out-against-the-tremendous-amount-of-ai-a.png": {
-      "buffer_due_at_utc": "2026-09-05T19:50:29.000Z",
+      "buffer_due_at_utc": "2026-09-05T19:52:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9c6df718e142b38636c0d8",
+      "buffer_post_id": "6a9c6dfd18e142b38636c142",
       "caption_file": "output/2026-09-06/dolly-parton-s-sister-lashes-out-against-the-tremendous-amount-of-ai-a.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T19:52:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c6dfd18e142b38636c142",
+          "published_at_utc": "2026-09-05T19:31:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T19:50:29.000Z",
           "buffer_mode": "customScheduled",
@@ -78760,7 +78766,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/dolly-parton-s-sister-lashes-out-against-the-tremendous-amount-of-ai-a.png",
       "metadata_file": "output/2026-09-06/dolly-parton-s-sister-lashes-out-against-the-tremendous-amount-of-ai-a.json",
-      "published_at_utc": "2026-09-05T19:31:03Z",
+      "published_at_utc": "2026-09-05T19:31:09Z",
       "publisher": "buffer_threads"
     }
   }
