@@ -78069,6 +78069,25 @@
       "published_at_utc": "2026-09-05T04:58:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-05/irobot-unveils-the-roomba-duo.png": {
+      "buffer_due_at_utc": "2026-09-05T12:21:15.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9c090e8219c85cc85ef4c6",
+      "caption_file": "output/2026-09-05/irobot-unveils-the-roomba-duo.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T12:21:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c090e8219c85cc85ef4c6",
+          "published_at_utc": "2026-09-05T12:20:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/irobot-unveils-the-roomba-duo.png",
+      "metadata_file": "output/2026-09-05/irobot-unveils-the-roomba-duo.json",
+      "published_at_utc": "2026-09-05T12:20:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-05/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now-.png": {
       "buffer_due_at_utc": "2026-09-04T20:32:52.000Z",
       "buffer_mode": "customScheduled",
