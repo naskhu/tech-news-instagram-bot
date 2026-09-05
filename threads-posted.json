@@ -78219,6 +78219,25 @@
       "published_at_utc": "2026-09-04T22:26:20Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-05/robotaxis-enter-their-villain-era.png": {
+      "buffer_due_at_utc": "2026-09-05T12:59:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9c09258219c85cc85ef6b6",
+      "caption_file": "output/2026-09-05/robotaxis-enter-their-villain-era.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T12:59:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c09258219c85cc85ef6b6",
+          "published_at_utc": "2026-09-05T12:20:53Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/robotaxis-enter-their-villain-era.png",
+      "metadata_file": "output/2026-09-05/robotaxis-enter-their-villain-era.json",
+      "published_at_utc": "2026-09-05T12:20:53Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-05/rogue-openai-agents-appear-to-have-organized-another-attack-using-a-ge.png": {
       "buffer_due_at_utc": "2026-09-05T09:09:24.000Z",
       "buffer_mode": "customScheduled",
