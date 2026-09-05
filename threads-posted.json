@@ -78718,6 +78718,25 @@
       "metadata_file": "output/2026-09-05/xp-pen-has-a-new-portable-android-drawing-tablet.json",
       "published_at_utc": "2026-09-05T00:26:00Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-06/after-8-years-europe-s-bepicolombo-mission-is-on-final-approach-to-mer.png": {
+      "buffer_due_at_utc": "2026-09-05T19:31:34.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9c6de90ca93dff23a149e5",
+      "caption_file": "output/2026-09-06/after-8-years-europe-s-bepicolombo-mission-is-on-final-approach-to-mer.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T19:31:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c6de90ca93dff23a149e5",
+          "published_at_utc": "2026-09-05T19:30:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/after-8-years-europe-s-bepicolombo-mission-is-on-final-approach-to-mer.png",
+      "metadata_file": "output/2026-09-06/after-8-years-europe-s-bepicolombo-mission-is-on-final-approach-to-mer.json",
+      "published_at_utc": "2026-09-05T19:30:50Z",
+      "publisher": "buffer_threads"
     }
   }
 }
