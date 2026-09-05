@@ -78045,12 +78045,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/fantasy-footballers-andy-holloway-is-a-dedicated-zero-inbox-kinda-guy.png": {
-      "buffer_due_at_utc": "2026-09-05T16:00:23.000Z",
+      "buffer_due_at_utc": "2026-09-05T16:02:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9c33a50ca93dff239c9c1d",
+      "buffer_post_id": "6a9c33aa529c459120881098",
       "caption_file": "output/2026-09-05/fantasy-footballers-andy-holloway-is-a-dedicated-zero-inbox-kinda-guy.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T16:02:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c33aa529c459120881098",
+          "published_at_utc": "2026-09-05T15:22:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T16:00:23.000Z",
           "buffer_mode": "customScheduled",
@@ -78060,7 +78066,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/fantasy-footballers-andy-holloway-is-a-dedicated-zero-inbox-kinda-guy.png",
       "metadata_file": "output/2026-09-05/fantasy-footballers-andy-holloway-is-a-dedicated-zero-inbox-kinda-guy.json",
-      "published_at_utc": "2026-09-05T15:22:13Z",
+      "published_at_utc": "2026-09-05T15:22:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/google-s-gemini-spark-can-now-manage-your-google-photos-library-techcr.png": {
