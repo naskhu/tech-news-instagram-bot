@@ -78945,12 +78945,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-an.png": {
-      "buffer_due_at_utc": "2026-09-05T23:58:12.000Z",
+      "buffer_due_at_utc": "2026-09-06T00:00:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9ca3a285ccb3a22c0c2f9e",
+      "buffer_post_id": "6a9ca3a745a02c85c1c5efff",
       "caption_file": "output/2026-09-06/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-an.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-06T00:00:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ca3a745a02c85c1c5efff",
+          "published_at_utc": "2026-09-05T23:20:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T23:58:12.000Z",
           "buffer_mode": "customScheduled",
@@ -78960,7 +78966,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-an.png",
       "metadata_file": "output/2026-09-06/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-an.json",
-      "published_at_utc": "2026-09-05T23:20:02Z",
+      "published_at_utc": "2026-09-05T23:20:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/tesla-s-cybercab-has-been-deployed-and-it-s-already-under-investigatio.png": {
