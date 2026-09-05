@@ -78145,12 +78145,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/roland-is-getting-into-generative-ai-music-with-melody-flip.png": {
-      "buffer_due_at_utc": "2026-09-05T05:55:29.000Z",
+      "buffer_due_at_utc": "2026-09-05T05:57:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9ba17c4274bc7e31af1cd1",
+      "buffer_post_id": "6a9ba182720c7a42cca40a31",
       "caption_file": "output/2026-09-05/roland-is-getting-into-generative-ai-music-with-melody-flip.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T05:57:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ba182720c7a42cca40a31",
+          "published_at_utc": "2026-09-05T04:58:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T05:55:29.000Z",
           "buffer_mode": "customScheduled",
@@ -78160,7 +78166,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/roland-is-getting-into-generative-ai-music-with-melody-flip.png",
       "metadata_file": "output/2026-09-05/roland-is-getting-into-generative-ai-music-with-melody-flip.json",
-      "published_at_utc": "2026-09-05T04:58:36Z",
+      "published_at_utc": "2026-09-05T04:58:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/silo-returns-to-apple-tv-for-its-final-season-on-july-9th-2027.png": {
