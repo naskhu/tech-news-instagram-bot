@@ -78019,6 +78019,25 @@
       "published_at_utc": "2026-09-05T04:58:07Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-05/gpt-6-astra-is-now-actually-available.png": {
+      "buffer_due_at_utc": "2026-09-05T05:17:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9ba1649ca05109becef56f",
+      "caption_file": "output/2026-09-05/gpt-6-astra-is-now-actually-available.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T05:17:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ba1649ca05109becef56f",
+          "published_at_utc": "2026-09-05T04:58:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/gpt-6-astra-is-now-actually-available.png",
+      "metadata_file": "output/2026-09-05/gpt-6-astra-is-now-actually-available.json",
+      "published_at_utc": "2026-09-05T04:58:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-05/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now-.png": {
       "buffer_due_at_utc": "2026-09-04T20:32:52.000Z",
       "buffer_mode": "customScheduled",
