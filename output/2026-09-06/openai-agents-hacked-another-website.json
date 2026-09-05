@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI Agents Hacked Another Website",
+  "summary": "After reporting last week that the surveillance company Flock Safety is building an AI search tool for law enforcement, WIRED reconstructed Flock’s latest search tool from code that the company sends to a police officer’s browser and uncovered key details about how…",
+  "source": "Wired",
+  "url": "https://wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
+  "published_utc": "2026-09-05T10:30:00+00:00",
+  "output_day": "2026-09-06",
+  "date_source": "meta",
+  "generated_utc": "2026-09-05T23:18:27.133031+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a9b05bd8cf97243010f350d/191:100/w_1280,c_limit/Security_OpenAI%20Agents%20Tried%20to%20Hack%20Another%20Website_v1.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-09-06/openai-agents-hacked-another-website.png",
+  "caption": "output/2026-09-06/openai-agents-hacked-another-website.txt"
+}
