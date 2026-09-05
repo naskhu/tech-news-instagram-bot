@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+  "summary": "Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday .",
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+  "published_utc": "2026-09-04T22:17:36+00:00",
+  "output_day": "2026-09-06",
+  "date_source": "meta",
+  "generated_utc": "2026-09-05T21:41:25.809360+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 5,
+  "theme_accent_rgb": [
+    245,
+    91,
+    46
+  ],
+  "image": "output/2026-09-06/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.png",
+  "caption": "output/2026-09-06/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.txt"
+}
