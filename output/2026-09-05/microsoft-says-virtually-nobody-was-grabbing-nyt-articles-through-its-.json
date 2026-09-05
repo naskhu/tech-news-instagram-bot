@@ -1,0 +1,23 @@
+{
+  "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+  "summary": "Microsoft’s Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and…",
+  "source": "The Verge",
+  "url": "https://theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+  "published_utc": "2026-09-04T16:05:57+00:00",
+  "output_day": "2026-09-05",
+  "date_source": "rss",
+  "generated_utc": "2026-09-05T04:56:46.381237+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-05/microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its-.png",
+  "caption": "output/2026-09-05/microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its-.txt"
+}
