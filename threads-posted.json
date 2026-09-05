@@ -78770,12 +78770,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-mor.png": {
-      "buffer_due_at_utc": "2026-09-05T20:09:24.000Z",
+      "buffer_due_at_utc": "2026-09-05T20:11:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9c6e02f97391de04bcd7e3",
+      "buffer_post_id": "6a9c6e0afba008bcd5508e20",
       "caption_file": "output/2026-09-06/openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-mor.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T20:11:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c6e0afba008bcd5508e20",
+          "published_at_utc": "2026-09-05T19:31:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T20:09:24.000Z",
           "buffer_mode": "customScheduled",
@@ -78785,7 +78791,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-mor.png",
       "metadata_file": "output/2026-09-06/openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-mor.json",
-      "published_at_utc": "2026-09-05T19:31:14Z",
+      "published_at_utc": "2026-09-05T19:31:22Z",
       "publisher": "buffer_threads"
     }
   }
