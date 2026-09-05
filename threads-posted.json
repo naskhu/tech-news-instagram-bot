@@ -78145,12 +78145,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/openai-admits-to-german-wiki-incident.png": {
-      "buffer_due_at_utc": "2026-09-05T12:40:10.000Z",
+      "buffer_due_at_utc": "2026-09-05T12:42:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9c091a8219c85cc85ef59d",
+      "buffer_post_id": "6a9c0920bf4ba46173045c14",
       "caption_file": "output/2026-09-05/openai-admits-to-german-wiki-incident.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T12:42:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c0920bf4ba46173045c14",
+          "published_at_utc": "2026-09-05T12:20:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T12:40:10.000Z",
           "buffer_mode": "customScheduled",
@@ -78160,7 +78166,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/openai-admits-to-german-wiki-incident.png",
       "metadata_file": "output/2026-09-05/openai-admits-to-german-wiki-incident.json",
-      "published_at_utc": "2026-09-05T12:20:43Z",
+      "published_at_utc": "2026-09-05T12:20:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investig.png": {
