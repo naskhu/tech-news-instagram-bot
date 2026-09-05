@@ -77970,12 +77970,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/apple-vision-pro-is-overkill-for-tracking-wall-studs-but-it-works.png": {
-      "buffer_due_at_utc": "2026-09-05T15:22:33.000Z",
+      "buffer_due_at_utc": "2026-09-05T15:24:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9c338d0ca93dff239c950d",
+      "buffer_post_id": "6a9c339385ccb3a22c042253",
       "caption_file": "output/2026-09-05/apple-vision-pro-is-overkill-for-tracking-wall-studs-but-it-works.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T15:24:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c339385ccb3a22c042253",
+          "published_at_utc": "2026-09-05T15:21:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T15:22:33.000Z",
           "buffer_mode": "customScheduled",
@@ -77985,7 +77991,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/apple-vision-pro-is-overkill-for-tracking-wall-studs-but-it-works.png",
       "metadata_file": "output/2026-09-05/apple-vision-pro-is-overkill-for-tracking-wall-studs-but-it-works.json",
-      "published_at_utc": "2026-09-05T15:21:49Z",
+      "published_at_utc": "2026-09-05T15:21:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/audacity-4-is-a-complete-revamp-of-the-world-s-most-popular-audio-edit.png": {
