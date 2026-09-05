@@ -78619,6 +78619,25 @@
       "published_at_utc": "2026-09-05T08:48:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-05/this-is-project-aeroblade.png": {
+      "buffer_due_at_utc": "2026-09-05T18:25:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9c512918e142b38634ca47",
+      "caption_file": "output/2026-09-05/this-is-project-aeroblade.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T18:25:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c512918e142b38634ca47",
+          "published_at_utc": "2026-09-05T17:28:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/this-is-project-aeroblade.png",
+      "metadata_file": "output/2026-09-05/this-is-project-aeroblade.json",
+      "published_at_utc": "2026-09-05T17:28:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-05/what-to-expect-at-apple-s-september-9th-launch-event.png": {
       "buffer_due_at_utc": "2026-09-05T09:47:14.000Z",
       "buffer_mode": "customScheduled",
