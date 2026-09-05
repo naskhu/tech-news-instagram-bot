@@ -78370,12 +78370,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/tesla-cybercab-is-barely-on-the-road-and-it-s-already-under-investigat.png": {
-      "buffer_due_at_utc": "2026-09-05T13:18:00.000Z",
+      "buffer_due_at_utc": "2026-09-05T13:20:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9c0931bf4ba46173045fe9",
+      "buffer_post_id": "6a9c09366442f9877b9b6772",
       "caption_file": "output/2026-09-05/tesla-cybercab-is-barely-on-the-road-and-it-s-already-under-investigat.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T13:20:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c09366442f9877b9b6772",
+          "published_at_utc": "2026-09-05T12:21:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T13:18:00.000Z",
           "buffer_mode": "customScheduled",
@@ -78385,7 +78391,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/tesla-cybercab-is-barely-on-the-road-and-it-s-already-under-investigat.png",
       "metadata_file": "output/2026-09-05/tesla-cybercab-is-barely-on-the-road-and-it-s-already-under-investigat.json",
-      "published_at_utc": "2026-09-05T12:21:05Z",
+      "published_at_utc": "2026-09-05T12:21:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/the-white-house-is-making-arcade-games-racist.png": {
