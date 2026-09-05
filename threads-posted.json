@@ -78070,12 +78070,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its-.png": {
-      "buffer_due_at_utc": "2026-09-05T05:36:34.000Z",
+      "buffer_due_at_utc": "2026-09-05T05:38:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9ba170b6e1228b36b7eb34",
+      "buffer_post_id": "6a9ba176a1aa1c9d389262a0",
       "caption_file": "output/2026-09-05/microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T05:38:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ba176a1aa1c9d389262a0",
+          "published_at_utc": "2026-09-05T04:58:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T05:36:34.000Z",
           "buffer_mode": "customScheduled",
@@ -78085,7 +78091,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its-.png",
       "metadata_file": "output/2026-09-05/microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its-.json",
-      "published_at_utc": "2026-09-05T04:58:24Z",
+      "published_at_utc": "2026-09-05T04:58:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investig.png": {
