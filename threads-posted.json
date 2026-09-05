@@ -78020,12 +78020,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/cd-sales-are-booming-as-physical-media-continues-its-resurgence.png": {
-      "buffer_due_at_utc": "2026-09-05T17:28:16.000Z",
+      "buffer_due_at_utc": "2026-09-05T17:30:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9c5104e6524401a659c9be",
+      "buffer_post_id": "6a9c510a85ccb3a22c06ea02",
       "caption_file": "output/2026-09-05/cd-sales-are-booming-as-physical-media-continues-its-resurgence.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-05T17:30:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c510a85ccb3a22c06ea02",
+          "published_at_utc": "2026-09-05T17:27:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-05T17:28:16.000Z",
           "buffer_mode": "customScheduled",
@@ -78035,7 +78041,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/cd-sales-are-booming-as-physical-media-continues-its-resurgence.png",
       "metadata_file": "output/2026-09-05/cd-sales-are-booming-as-physical-media-continues-its-resurgence.json",
-      "published_at_utc": "2026-09-05T17:27:32Z",
+      "published_at_utc": "2026-09-05T17:27:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-05/content-creators-drop-the-ball.png": {
