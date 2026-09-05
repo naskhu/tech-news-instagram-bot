@@ -78019,6 +78019,25 @@
       "published_at_utc": "2026-09-04T22:26:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-05/cd-sales-are-booming-as-physical-media-continues-its-resurgence.png": {
+      "buffer_due_at_utc": "2026-09-05T17:28:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9c5104e6524401a659c9be",
+      "caption_file": "output/2026-09-05/cd-sales-are-booming-as-physical-media-continues-its-resurgence.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T17:28:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c5104e6524401a659c9be",
+          "published_at_utc": "2026-09-05T17:27:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/cd-sales-are-booming-as-physical-media-continues-its-resurgence.png",
+      "metadata_file": "output/2026-09-05/cd-sales-are-booming-as-physical-media-continues-its-resurgence.json",
+      "published_at_utc": "2026-09-05T17:27:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-05/content-creators-drop-the-ball.png": {
       "buffer_due_at_utc": "2026-09-05T15:43:28.000Z",
       "buffer_mode": "customScheduled",
