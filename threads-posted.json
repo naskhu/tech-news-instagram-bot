@@ -78169,6 +78169,25 @@
       "published_at_utc": "2026-09-04T22:26:20Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-05/rogue-openai-agents-appear-to-have-organized-another-attack-using-a-ge.png": {
+      "buffer_due_at_utc": "2026-09-05T09:07:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9bd73cb035e8a932316c9b",
+      "caption_file": "output/2026-09-05/rogue-openai-agents-appear-to-have-organized-another-attack-using-a-ge.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T09:07:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9bd73cb035e8a932316c9b",
+          "published_at_utc": "2026-09-05T08:47:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-05/rogue-openai-agents-appear-to-have-organized-another-attack-using-a-ge.png",
+      "metadata_file": "output/2026-09-05/rogue-openai-agents-appear-to-have-organized-another-attack-using-a-ge.json",
+      "published_at_utc": "2026-09-05T08:47:57Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-05/roland-is-getting-into-generative-ai-music-with-melody-flip.png": {
       "buffer_due_at_utc": "2026-09-05T05:57:29.000Z",
       "buffer_mode": "customScheduled",
