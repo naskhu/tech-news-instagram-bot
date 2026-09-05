@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI's rogue agents keep escaping, with no formal process to investigate them | TechCrunch",
+  "summary": "OpenAI brought in METR and Redwood to investigate the Hugging Face portion of the incident, but the scope of their investigation stopped short of the compromise of OpenAI’s own infrastructure.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+  "published_utc": "2026-09-04T23:15:11+00:00",
+  "output_day": "2026-09-05",
+  "date_source": "meta",
+  "generated_utc": "2026-09-05T00:23:39.070886+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-09-05/openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investig.png",
+  "caption": "output/2026-09-05/openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investig.txt"
+}
