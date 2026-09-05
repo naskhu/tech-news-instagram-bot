@@ -78844,6 +78844,25 @@
       "published_at_utc": "2026-09-05T21:43:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-06/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.png": {
+      "buffer_due_at_utc": "2026-09-05T22:40:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9c8cf60ca93dff23a312ae",
+      "caption_file": "output/2026-09-06/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-05T22:40:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9c8cf60ca93dff23a312ae",
+          "published_at_utc": "2026-09-05T21:43:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.png",
+      "metadata_file": "output/2026-09-06/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.json",
+      "published_at_utc": "2026-09-05T21:43:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-06/openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-mor.png": {
       "buffer_due_at_utc": "2026-09-05T20:11:24.000Z",
       "buffer_mode": "customScheduled",
