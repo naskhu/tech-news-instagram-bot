@@ -79044,6 +79044,25 @@
       "published_at_utc": "2026-09-05T21:43:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-06/let-s-take-a-look-at-the-retro-tech-making-a-comeback-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-06T17:20:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9d97ec2066ff47cc3ffe23",
+      "caption_file": "output/2026-09-06/let-s-take-a-look-at-the-retro-tech-making-a-comeback-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-06T17:20:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d97ec2066ff47cc3ffe23",
+          "published_at_utc": "2026-09-06T16:42:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/let-s-take-a-look-at-the-retro-tech-making-a-comeback-techcrunch.png",
+      "metadata_file": "output/2026-09-06/let-s-take-a-look-at-the-retro-tech-making-a-comeback-techcrunch.json",
+      "published_at_utc": "2026-09-06T16:42:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-06/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday.png": {
       "buffer_due_at_utc": "2026-09-06T01:08:43.000Z",
       "buffer_mode": "customScheduled",
