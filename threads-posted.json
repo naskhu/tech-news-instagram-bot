@@ -79293,6 +79293,25 @@
       "metadata_file": "output/2026-09-06/we-rated-the-weird-tech-at-ifa-2026-to-find-the-wackiest-products-cnet.json",
       "published_at_utc": "2026-09-06T01:06:38Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-06/why-china-is-the-bogeyman-data-center-enthusiasts-just-can-t-quit.png": {
+      "buffer_due_at_utc": "2026-09-06T11:42:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9d44342066ff47cc37e9ba",
+      "caption_file": "output/2026-09-06/why-china-is-the-bogeyman-data-center-enthusiasts-just-can-t-quit.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-06T11:42:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d44342066ff47cc37e9ba",
+          "published_at_utc": "2026-09-06T10:45:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/why-china-is-the-bogeyman-data-center-enthusiasts-just-can-t-quit.png",
+      "metadata_file": "output/2026-09-06/why-china-is-the-bogeyman-data-center-enthusiasts-just-can-t-quit.json",
+      "published_at_utc": "2026-09-06T10:45:08Z",
+      "publisher": "buffer_threads"
     }
   }
 }
