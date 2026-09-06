@@ -78945,12 +78945,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/gpt-6-astra-beat-portal-and-it-only-cost-571-18.png": {
-      "buffer_due_at_utc": "2026-09-06T17:01:38.000Z",
+      "buffer_due_at_utc": "2026-09-06T17:03:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9d97e15c2ba4d1541801b7",
+      "buffer_post_id": "6a9d97e76acbdfc9eda3d7bd",
       "caption_file": "output/2026-09-06/gpt-6-astra-beat-portal-and-it-only-cost-571-18.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-06T17:03:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d97e76acbdfc9eda3d7bd",
+          "published_at_utc": "2026-09-06T16:42:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-06T17:01:38.000Z",
           "buffer_mode": "customScheduled",
@@ -78960,7 +78966,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/gpt-6-astra-beat-portal-and-it-only-cost-571-18.png",
       "metadata_file": "output/2026-09-06/gpt-6-astra-beat-portal-and-it-only-cost-571-18.json",
-      "published_at_utc": "2026-09-06T16:42:09Z",
+      "published_at_utc": "2026-09-06T16:42:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/hikers-rescued-after-using-google-gemini-for-planning-techcrunch.png": {
