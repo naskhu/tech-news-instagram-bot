@@ -1,0 +1,23 @@
+{
+  "title": "Create Custom Windows 11 Notifications to Remind Yourself of Anything",
+  "summary": "If you want to set up custom notifications in Windows 11 without turning to an app, the Task Scheduler is the utility you want. The Microsoft Clock app comes preinstalled with Windows, for example, and lets you set custom alarms.",
+  "source": "Wired",
+  "url": "https://wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything",
+  "published_utc": "2026-09-06T11:00:00+00:00",
+  "output_day": "2026-09-06",
+  "date_source": "meta",
+  "generated_utc": "2026-09-06T18:39:00.220711+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6a980eee0cc86cbb73f68820/master/pass/CustomeReminder.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-09-06/create-custom-windows-11-notifications-to-remind-yourself-of-anything.png",
+  "caption": "output/2026-09-06/create-custom-windows-11-notifications-to-remind-yourself-of-anything.txt"
+}
