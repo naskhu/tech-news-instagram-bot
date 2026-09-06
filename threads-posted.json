@@ -78819,6 +78819,25 @@
       "published_at_utc": "2026-09-06T13:56:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-06/diy-plug-in-solar-gains-momentum-in-the-us.png": {
+      "buffer_due_at_utc": "2026-09-06T14:15:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9d710aaf83b6dedf927ec7",
+      "caption_file": "output/2026-09-06/diy-plug-in-solar-gains-momentum-in-the-us.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-06T14:15:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d710aaf83b6dedf927ec7",
+          "published_at_utc": "2026-09-06T13:56:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/diy-plug-in-solar-gains-momentum-in-the-us.png",
+      "metadata_file": "output/2026-09-06/diy-plug-in-solar-gains-momentum-in-the-us.json",
+      "published_at_utc": "2026-09-06T13:56:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-06/dolly-parton-s-sister-lashes-out-against-the-tremendous-amount-of-ai-a.png": {
       "buffer_due_at_utc": "2026-09-05T19:52:29.000Z",
       "buffer_mode": "customScheduled",
