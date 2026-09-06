@@ -79045,12 +79045,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockcha.png": {
-      "buffer_due_at_utc": "2026-09-06T07:01:21.000Z",
+      "buffer_due_at_utc": "2026-09-06T07:03:21.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9d026741e2718ea37695a5",
+      "buffer_post_id": "6a9d026cfd1c461b008db857",
       "caption_file": "output/2026-09-06/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockcha.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-06T07:03:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d026cfd1c461b008db857",
+          "published_at_utc": "2026-09-06T06:04:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-06T07:01:21.000Z",
           "buffer_mode": "customScheduled",
@@ -79060,7 +79066,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockcha.png",
       "metadata_file": "output/2026-09-06/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockcha.json",
-      "published_at_utc": "2026-09-06T06:04:23Z",
+      "published_at_utc": "2026-09-06T06:04:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/scientists-put-caterpillars-in-an-ultraquiet-chamber-to-learn-how-they.png": {
