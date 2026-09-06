@@ -79045,12 +79045,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see.png": {
-      "buffer_due_at_utc": "2026-09-06T01:44:33.000Z",
+      "buffer_due_at_utc": "2026-09-06T01:46:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9cbc8d45a02c85c1c7b494",
+      "buffer_post_id": "6a9cbc9285ccb3a22c0ded90",
       "caption_file": "output/2026-09-06/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-06T01:46:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9cbc9285ccb3a22c0ded90",
+          "published_at_utc": "2026-09-06T01:06:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-06T01:44:33.000Z",
           "buffer_mode": "customScheduled",
@@ -79060,7 +79066,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see.png",
       "metadata_file": "output/2026-09-06/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see.json",
-      "published_at_utc": "2026-09-06T01:06:21Z",
+      "published_at_utc": "2026-09-06T01:06:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/there-may-not-be-an-iphone-18-this-year.png": {
