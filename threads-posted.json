@@ -79656,6 +79656,25 @@
       "metadata_file": "output/2026-09-07/europe-has-its-first-commercial-orbital-rocket.json",
       "published_at_utc": "2026-09-06T20:51:56Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-07/i-don-t-think-trump-knows-who-the-good-guys-are-in-star-wars.png": {
+      "buffer_due_at_utc": "2026-09-06T21:30:15.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9dd2719730c9bde54e18f3",
+      "caption_file": "output/2026-09-07/i-don-t-think-trump-knows-who-the-good-guys-are-in-star-wars.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-06T21:30:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9dd2719730c9bde54e18f3",
+          "published_at_utc": "2026-09-06T20:52:02Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/i-don-t-think-trump-knows-who-the-good-guys-are-in-star-wars.png",
+      "metadata_file": "output/2026-09-07/i-don-t-think-trump-knows-who-the-good-guys-are-in-star-wars.json",
+      "published_at_utc": "2026-09-06T20:52:02Z",
+      "publisher": "buffer_threads"
     }
   }
 }
