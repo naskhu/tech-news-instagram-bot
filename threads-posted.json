@@ -79732,6 +79732,25 @@
       "published_at_utc": "2026-09-06T20:52:07Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-over-futu.png": {
+      "buffer_due_at_utc": "2026-09-06T23:19:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9dec1f5c2ba4d1541fa856",
+      "caption_file": "output/2026-09-07/phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-over-futu.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-06T23:19:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9dec1f5c2ba4d1541fa856",
+          "published_at_utc": "2026-09-06T22:41:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-over-futu.png",
+      "metadata_file": "output/2026-09-07/phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-over-futu.json",
+      "published_at_utc": "2026-09-06T22:41:35Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.png": {
       "buffer_due_at_utc": "2026-09-06T21:51:10.000Z",
       "buffer_mode": "customScheduled",
