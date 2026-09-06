@@ -78846,10 +78846,15 @@
     },
     "output/2026-09-06/create-custom-windows-11-notifications-to-remind-yourself-of-anything.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a9db3b26acbdfc9eda66dce",
+      "buffer_post_id": "6a9db3c26acbdfc9eda671a0",
       "caption_file": "output/2026-09-06/create-custom-windows-11-notifications-to-remind-yourself-of-anything.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a9db3c26acbdfc9eda671a0",
+          "published_at_utc": "2026-09-06T18:41:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a9db3b26acbdfc9eda66dce",
@@ -78858,7 +78863,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/create-custom-windows-11-notifications-to-remind-yourself-of-anything.png",
       "metadata_file": "output/2026-09-06/create-custom-windows-11-notifications-to-remind-yourself-of-anything.json",
-      "published_at_utc": "2026-09-06T18:41:01Z",
+      "published_at_utc": "2026-09-06T18:41:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/diy-plug-in-solar-gains-momentum-in-the-us.png": {
