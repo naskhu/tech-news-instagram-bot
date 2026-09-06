@@ -79783,12 +79783,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/why-the-best-gaming-chair-is-also-the-best-office-chair.png": {
-      "buffer_due_at_utc": "2026-09-06T23:38:41.000Z",
+      "buffer_due_at_utc": "2026-09-06T23:40:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9dec2a5c2ba4d1541fa8b5",
+      "buffer_post_id": "6a9dec3020f5ae4508ad5e54",
       "caption_file": "output/2026-09-07/why-the-best-gaming-chair-is-also-the-best-office-chair.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-06T23:40:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9dec3020f5ae4508ad5e54",
+          "published_at_utc": "2026-09-06T22:41:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-06T23:38:41.000Z",
           "buffer_mode": "customScheduled",
@@ -79798,7 +79804,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/why-the-best-gaming-chair-is-also-the-best-office-chair.png",
       "metadata_file": "output/2026-09-07/why-the-best-gaming-chair-is-also-the-best-office-chair.json",
-      "published_at_utc": "2026-09-06T22:41:46Z",
+      "published_at_utc": "2026-09-06T22:41:52Z",
       "publisher": "buffer_threads"
     }
   }
