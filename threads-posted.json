@@ -79245,12 +79245,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/the-fairphone-6-plus-is-the-midrange-phone-we-desperately-needed.png": {
-      "buffer_due_at_utc": "2026-09-06T14:34:50.000Z",
+      "buffer_due_at_utc": "2026-09-06T14:36:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9d7115af83b6dedf927f43",
+      "buffer_post_id": "6a9d711b2066ff47cc3bc6da",
       "caption_file": "output/2026-09-06/the-fairphone-6-plus-is-the-midrange-phone-we-desperately-needed.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-06T14:36:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d711b2066ff47cc3bc6da",
+          "published_at_utc": "2026-09-06T13:56:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-06T14:34:50.000Z",
           "buffer_mode": "customScheduled",
@@ -79260,7 +79266,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/the-fairphone-6-plus-is-the-midrange-phone-we-desperately-needed.png",
       "metadata_file": "output/2026-09-06/the-fairphone-6-plus-is-the-midrange-phone-we-desperately-needed.json",
-      "published_at_utc": "2026-09-06T13:56:37Z",
+      "published_at_utc": "2026-09-06T13:56:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see.png": {
