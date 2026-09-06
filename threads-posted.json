@@ -79607,6 +79607,25 @@
       "published_at_utc": "2026-09-06T10:45:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/an-amazon-cargo-plane-crashed-at-miami-international-airport.png": {
+      "buffer_due_at_utc": "2026-09-06T22:41:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9dec082066ff47cc47609c",
+      "caption_file": "output/2026-09-07/an-amazon-cargo-plane-crashed-at-miami-international-airport.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-06T22:41:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9dec082066ff47cc47609c",
+          "published_at_utc": "2026-09-06T22:41:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/an-amazon-cargo-plane-crashed-at-miami-international-airport.png",
+      "metadata_file": "output/2026-09-07/an-amazon-cargo-plane-crashed-at-miami-international-airport.json",
+      "published_at_utc": "2026-09-06T22:41:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-set.png": {
       "buffer_due_at_utc": "2026-09-06T20:54:25.000Z",
       "buffer_mode": "customScheduled",
