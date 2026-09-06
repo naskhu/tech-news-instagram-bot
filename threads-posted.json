@@ -78969,6 +78969,25 @@
       "published_at_utc": "2026-09-06T01:06:04Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-06/my-brief-summer-fling-with-siri-ai.png": {
+      "buffer_due_at_utc": "2026-09-06T11:04:15.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9d441e05c83fb1f61d23b8",
+      "caption_file": "output/2026-09-06/my-brief-summer-fling-with-siri-ai.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-06T11:04:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d441e05c83fb1f61d23b8",
+          "published_at_utc": "2026-09-06T10:44:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/my-brief-summer-fling-with-siri-ai.png",
+      "metadata_file": "output/2026-09-06/my-brief-summer-fling-with-siri-ai.json",
+      "published_at_utc": "2026-09-06T10:44:46Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-06/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki.png": {
       "buffer_due_at_utc": "2026-09-05T22:42:16.000Z",
       "buffer_mode": "customScheduled",
