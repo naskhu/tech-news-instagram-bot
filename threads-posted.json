@@ -78968,10 +78968,15 @@
     },
     "output/2026-09-06/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbi.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a9db3d29730c9bde54bd9fd",
+      "buffer_post_id": "6a9db3e22066ff47cc42925b",
       "caption_file": "output/2026-09-06/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbi.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a9db3e22066ff47cc42925b",
+          "published_at_utc": "2026-09-06T18:41:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a9db3d29730c9bde54bd9fd",
@@ -78980,7 +78985,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbi.png",
       "metadata_file": "output/2026-09-06/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbi.json",
-      "published_at_utc": "2026-09-06T18:41:33Z",
+      "published_at_utc": "2026-09-06T18:41:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/gpt-6-astra-beat-portal-and-it-only-cost-571-18.png": {
