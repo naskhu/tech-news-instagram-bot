@@ -79390,10 +79390,15 @@
     },
     "output/2026-09-06/the-best-laptop-backpacks-for-work-travel-and-everything-between-2026.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6a9db3f26acbdfc9eda674f2",
+      "buffer_post_id": "6a9db4022066ff47cc429360",
       "caption_file": "output/2026-09-06/the-best-laptop-backpacks-for-work-travel-and-everything-between-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a9db4022066ff47cc429360",
+          "published_at_utc": "2026-09-06T18:42:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6a9db3f26acbdfc9eda674f2",
@@ -79402,7 +79407,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/the-best-laptop-backpacks-for-work-travel-and-everything-between-2026.png",
       "metadata_file": "output/2026-09-06/the-best-laptop-backpacks-for-work-travel-and-everything-between-2026.json",
-      "published_at_utc": "2026-09-06T18:42:04Z",
+      "published_at_utc": "2026-09-06T18:42:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/the-fairphone-6-plus-is-the-midrange-phone-we-desperately-needed.png": {
