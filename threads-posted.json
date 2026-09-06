@@ -78870,12 +78870,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/i-can-t-put-the-galaxy-z-fold-8-down-can-apple-s-foldable-change-that-.png": {
-      "buffer_due_at_utc": "2026-09-06T06:42:26.000Z",
+      "buffer_due_at_utc": "2026-09-06T06:44:26.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9d025db20157dc6b9e2dcd",
+      "buffer_post_id": "6a9d02626acbdfc9ed9709e0",
       "caption_file": "output/2026-09-06/i-can-t-put-the-galaxy-z-fold-8-down-can-apple-s-foldable-change-that-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-06T06:44:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d02626acbdfc9ed9709e0",
+          "published_at_utc": "2026-09-06T06:04:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-06T06:42:26.000Z",
           "buffer_mode": "customScheduled",
@@ -78885,7 +78891,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/i-can-t-put-the-galaxy-z-fold-8-down-can-apple-s-foldable-change-that-.png",
       "metadata_file": "output/2026-09-06/i-can-t-put-the-galaxy-z-fold-8-down-can-apple-s-foldable-change-that-.json",
-      "published_at_utc": "2026-09-06T06:04:13Z",
+      "published_at_utc": "2026-09-06T06:04:18Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/iphone-handoff-will-seamlessly-share-one-number-between-two-phones.png": {
