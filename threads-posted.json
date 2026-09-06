@@ -79681,6 +79681,25 @@
       "metadata_file": "output/2026-09-07/i-don-t-think-trump-knows-who-the-good-guys-are-in-star-wars.json",
       "published_at_utc": "2026-09-06T20:52:07Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.png": {
+      "buffer_due_at_utc": "2026-09-06T21:49:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9dd27c6acbdfc9eda8b7cd",
+      "caption_file": "output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-06T21:49:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9dd27c6acbdfc9eda8b7cd",
+          "published_at_utc": "2026-09-06T20:52:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.png",
+      "metadata_file": "output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.json",
+      "published_at_utc": "2026-09-06T20:52:12Z",
+      "publisher": "buffer_threads"
     }
   }
 }
