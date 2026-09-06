@@ -79370,12 +79370,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/what-if-your-14-inch-laptop-literally-stretched-to-become-a-17-inch-ne.png": {
-      "buffer_due_at_utc": "2026-09-06T14:53:45.000Z",
+      "buffer_due_at_utc": "2026-09-06T14:55:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9d712005c83fb1f620ccad",
+      "buffer_post_id": "6a9d71255c2ba4d15413eb49",
       "caption_file": "output/2026-09-06/what-if-your-14-inch-laptop-literally-stretched-to-become-a-17-inch-ne.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-06T14:55:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9d71255c2ba4d15413eb49",
+          "published_at_utc": "2026-09-06T13:56:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-06T14:53:45.000Z",
           "buffer_mode": "customScheduled",
@@ -79385,7 +79391,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/what-if-your-14-inch-laptop-literally-stretched-to-become-a-17-inch-ne.png",
       "metadata_file": "output/2026-09-06/what-if-your-14-inch-laptop-literally-stretched-to-become-a-17-inch-ne.json",
-      "published_at_utc": "2026-09-06T13:56:48Z",
+      "published_at_utc": "2026-09-06T13:56:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-06/why-china-is-the-bogeyman-data-center-enthusiasts-just-can-t-quit.png": {
