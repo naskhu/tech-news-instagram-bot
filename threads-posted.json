@@ -79510,6 +79510,23 @@
       "published_at_utc": "2026-09-06T10:45:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-06/travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-business-te.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6a9db412af83b6dedf991229",
+      "caption_file": "output/2026-09-06/travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-business-te.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6a9db412af83b6dedf991229",
+          "published_at_utc": "2026-09-06T18:42:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-06/travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-business-te.png",
+      "metadata_file": "output/2026-09-06/travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-business-te.json",
+      "published_at_utc": "2026-09-06T18:42:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-06/we-rated-the-weird-tech-at-ifa-2026-to-find-the-wackiest-products-cnet.png": {
       "buffer_due_at_utc": "2026-09-06T02:05:28.000Z",
       "buffer_mode": "customScheduled",
