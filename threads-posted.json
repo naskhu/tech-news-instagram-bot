@@ -79757,6 +79757,25 @@
       "published_at_utc": "2026-09-07T04:58:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/ecoflow-makes-the-miniature-power-station-even-smaller.png": {
+      "buffer_due_at_utc": "2026-09-07T15:32:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9ed8e73dda8be9387fa1ee",
+      "caption_file": "output/2026-09-07/ecoflow-makes-the-miniature-power-station-even-smaller.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T15:32:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ed8e73dda8be9387fa1ee",
+          "published_at_utc": "2026-09-07T15:31:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/ecoflow-makes-the-miniature-power-station-even-smaller.png",
+      "metadata_file": "output/2026-09-07/ecoflow-makes-the-miniature-power-station-even-smaller.json",
+      "published_at_utc": "2026-09-07T15:31:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/europe-has-its-first-commercial-orbital-rocket.png": {
       "buffer_due_at_utc": "2026-09-06T21:13:20.000Z",
       "buffer_mode": "customScheduled",
