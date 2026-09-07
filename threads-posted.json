@@ -79832,6 +79832,25 @@
       "published_at_utc": "2026-09-07T00:23:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/the-top-tech-trends-at-ifa-berlin-2026-cnet.png": {
+      "buffer_due_at_utc": "2026-09-07T01:20:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9e040c971cbd17044b65e7",
+      "caption_file": "output/2026-09-07/the-top-tech-trends-at-ifa-berlin-2026-cnet.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T01:20:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e040c971cbd17044b65e7",
+          "published_at_utc": "2026-09-07T00:23:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/the-top-tech-trends-at-ifa-berlin-2026-cnet.png",
+      "metadata_file": "output/2026-09-07/the-top-tech-trends-at-ifa-berlin-2026-cnet.json",
+      "published_at_utc": "2026-09-07T00:23:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.png": {
       "buffer_due_at_utc": "2026-09-06T21:51:10.000Z",
       "buffer_mode": "customScheduled",
