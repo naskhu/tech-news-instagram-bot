@@ -79808,12 +79808,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement.png": {
-      "buffer_due_at_utc": "2026-09-07T01:01:38.000Z",
+      "buffer_due_at_utc": "2026-09-07T01:03:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9e04007211e25b6da6bf55",
+      "buffer_post_id": "6a9e04057211e25b6da6bfae",
       "caption_file": "output/2026-09-07/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-07T01:03:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e04057211e25b6da6bfae",
+          "published_at_utc": "2026-09-07T00:23:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-07T01:01:38.000Z",
           "buffer_mode": "customScheduled",
@@ -79823,7 +79829,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement.png",
       "metadata_file": "output/2026-09-07/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement.json",
-      "published_at_utc": "2026-09-07T00:23:28Z",
+      "published_at_utc": "2026-09-07T00:23:33Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.png": {
