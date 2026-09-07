@@ -79632,6 +79632,25 @@
       "published_at_utc": "2026-09-06T22:41:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/attackers-conceal-phishing-lures-using-invisible-unicode-characters.png": {
+      "buffer_due_at_utc": "2026-09-07T04:58:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9e4463025f01e55ce49420",
+      "caption_file": "output/2026-09-07/attackers-conceal-phishing-lures-using-invisible-unicode-characters.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T04:58:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e4463025f01e55ce49420",
+          "published_at_utc": "2026-09-07T04:58:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/attackers-conceal-phishing-lures-using-invisible-unicode-characters.png",
+      "metadata_file": "output/2026-09-07/attackers-conceal-phishing-lures-using-invisible-unicode-characters.json",
+      "published_at_utc": "2026-09-07T04:58:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-set.png": {
       "buffer_due_at_utc": "2026-09-06T20:54:25.000Z",
       "buffer_mode": "customScheduled",
