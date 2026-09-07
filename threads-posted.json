@@ -80156,6 +80156,25 @@
       "metadata_file": "output/2026-09-07/why-the-best-gaming-chair-is-also-the-best-office-chair.json",
       "published_at_utc": "2026-09-06T22:41:52Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-07/windows-11-is-getting-a-new-battery-widget.png": {
+      "buffer_due_at_utc": "2026-09-07T16:10:26.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9ed8febf3e24540e2551c3",
+      "caption_file": "output/2026-09-07/windows-11-is-getting-a-new-battery-widget.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T16:10:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ed8febf3e24540e2551c3",
+          "published_at_utc": "2026-09-07T15:32:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/windows-11-is-getting-a-new-battery-widget.png",
+      "metadata_file": "output/2026-09-07/windows-11-is-getting-a-new-battery-widget.json",
+      "published_at_utc": "2026-09-07T15:32:14Z",
+      "publisher": "buffer_threads"
     }
   }
 }
