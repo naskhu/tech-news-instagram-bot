@@ -79908,12 +79908,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/plastics-companies-are-writing-lesson-plans-what-could-go-wrong.png": {
-      "buffer_due_at_utc": "2026-09-07T10:35:02.000Z",
+      "buffer_due_at_utc": "2026-09-07T10:37:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9e8a636dbae89fb19f9739",
+      "buffer_post_id": "6a9e8a696dbae89fb19f97ce",
       "caption_file": "output/2026-09-07/plastics-companies-are-writing-lesson-plans-what-could-go-wrong.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-07T10:37:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e8a696dbae89fb19f97ce",
+          "published_at_utc": "2026-09-07T09:56:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-07T10:35:02.000Z",
           "buffer_mode": "customScheduled",
@@ -79923,7 +79929,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/plastics-companies-are-writing-lesson-plans-what-could-go-wrong.png",
       "metadata_file": "output/2026-09-07/plastics-companies-are-writing-lesson-plans-what-could-go-wrong.json",
-      "published_at_utc": "2026-09-07T09:56:51Z",
+      "published_at_utc": "2026-09-07T09:56:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.png": {
