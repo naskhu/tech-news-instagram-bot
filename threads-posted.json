@@ -79883,12 +79883,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/premier-league-soccer-stream-everton-vs-man-united-live-from-anywhere.png": {
-      "buffer_due_at_utc": "2026-09-07T05:55:40.000Z",
+      "buffer_due_at_utc": "2026-09-07T05:57:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9e4487025f01e55ce4972e",
+      "buffer_post_id": "6a9e448c7887e9ac4e03bc22",
       "caption_file": "output/2026-09-07/premier-league-soccer-stream-everton-vs-man-united-live-from-anywhere.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-07T05:57:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e448c7887e9ac4e03bc22",
+          "published_at_utc": "2026-09-07T04:58:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-07T05:55:40.000Z",
           "buffer_mode": "customScheduled",
@@ -79898,7 +79904,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/premier-league-soccer-stream-everton-vs-man-united-live-from-anywhere.png",
       "metadata_file": "output/2026-09-07/premier-league-soccer-stream-everton-vs-man-united-live-from-anywhere.json",
-      "published_at_utc": "2026-09-07T04:58:47Z",
+      "published_at_utc": "2026-09-07T04:58:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement.png": {
