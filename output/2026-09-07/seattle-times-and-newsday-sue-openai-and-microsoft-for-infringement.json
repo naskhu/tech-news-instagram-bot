@@ -1,0 +1,23 @@
+{
+  "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+  "summary": "They want the AI models built on their works destroyed. The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI’s technology.",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+  "published_utc": "2026-09-06T23:36:04+00:00",
+  "output_day": "2026-09-07",
+  "date_source": "meta",
+  "generated_utc": "2026-09-07T00:20:59.587195+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-07/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement.png",
+  "caption": "output/2026-09-07/seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement.txt"
+}
