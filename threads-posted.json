@@ -80007,6 +80007,25 @@
       "published_at_utc": "2026-09-07T00:23:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/the-best-labor-day-mattress-deals-on-beds-we-ve-tried-in-our-homes.png": {
+      "buffer_due_at_utc": "2026-09-07T10:53:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9e8a6fc5ddab7d6090d110",
+      "caption_file": "output/2026-09-07/the-best-labor-day-mattress-deals-on-beds-we-ve-tried-in-our-homes.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T10:53:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e8a6fc5ddab7d6090d110",
+          "published_at_utc": "2026-09-07T09:57:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/the-best-labor-day-mattress-deals-on-beds-we-ve-tried-in-our-homes.png",
+      "metadata_file": "output/2026-09-07/the-best-labor-day-mattress-deals-on-beds-we-ve-tried-in-our-homes.json",
+      "published_at_utc": "2026-09-07T09:57:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/the-top-tech-trends-at-ifa-berlin-2026-cnet.png": {
       "buffer_due_at_utc": "2026-09-07T01:22:33.000Z",
       "buffer_mode": "customScheduled",
