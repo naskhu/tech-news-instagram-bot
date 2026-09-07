@@ -79783,12 +79783,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.png": {
-      "buffer_due_at_utc": "2026-09-07T00:42:43.000Z",
+      "buffer_due_at_utc": "2026-09-07T00:44:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9e03f4da70ee44df08b805",
+      "buffer_post_id": "6a9e03fa971cbd17044b6465",
       "caption_file": "output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-07T00:44:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e03fa971cbd17044b6465",
+          "published_at_utc": "2026-09-07T00:23:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-07T00:42:43.000Z",
           "buffer_mode": "customScheduled",
@@ -79798,7 +79804,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.png",
       "metadata_file": "output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.json",
-      "published_at_utc": "2026-09-07T00:23:16Z",
+      "published_at_utc": "2026-09-07T00:23:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.png": {
