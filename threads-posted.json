@@ -79782,6 +79782,25 @@
       "published_at_utc": "2026-09-06T22:41:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.png": {
+      "buffer_due_at_utc": "2026-09-07T00:42:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9e03f4da70ee44df08b805",
+      "caption_file": "output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T00:42:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e03f4da70ee44df08b805",
+          "published_at_utc": "2026-09-07T00:23:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.png",
+      "metadata_file": "output/2026-09-07/premier-league-soccer-stream-arsenal-vs-chelsea-live-from-anywhere.json",
+      "published_at_utc": "2026-09-07T00:23:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/what-do-you-want-to-see-from-apple-s-foldable-iphone-ultra.png": {
       "buffer_due_at_utc": "2026-09-06T21:51:10.000Z",
       "buffer_mode": "customScheduled",
