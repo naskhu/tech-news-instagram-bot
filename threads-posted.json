@@ -80307,6 +80307,25 @@
       "published_at_utc": "2026-09-07T22:19:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-08/six-years-later-sony-revisits-its-legendary-xm4-headphones.png": {
+      "buffer_due_at_utc": "2026-09-07T23:16:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9f3860f53b6753886f0da2",
+      "caption_file": "output/2026-09-08/six-years-later-sony-revisits-its-legendary-xm4-headphones.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T23:16:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9f3860f53b6753886f0da2",
+          "published_at_utc": "2026-09-07T22:19:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/six-years-later-sony-revisits-its-legendary-xm4-headphones.png",
+      "metadata_file": "output/2026-09-08/six-years-later-sony-revisits-its-legendary-xm4-headphones.json",
+      "published_at_utc": "2026-09-07T22:19:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-08/the-matrix-5-is-waiting-on-a-blessing.png": {
       "buffer_due_at_utc": "2026-09-07T19:46:59.000Z",
       "buffer_mode": "customScheduled",
