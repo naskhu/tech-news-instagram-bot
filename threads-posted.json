@@ -80232,6 +80232,25 @@
       "published_at_utc": "2026-09-07T19:25:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-08/audi-s-new-a2-e-tron-is-its-most-affordable-and-efficient-ev-yet.png": {
+      "buffer_due_at_utc": "2026-09-07T22:19:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9f383f7e178ae8632311c6",
+      "caption_file": "output/2026-09-08/audi-s-new-a2-e-tron-is-its-most-affordable-and-efficient-ev-yet.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T22:19:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9f383f7e178ae8632311c6",
+          "published_at_utc": "2026-09-07T22:18:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/audi-s-new-a2-e-tron-is-its-most-affordable-and-efficient-ev-yet.png",
+      "metadata_file": "output/2026-09-08/audi-s-new-a2-e-tron-is-its-most-affordable-and-efficient-ev-yet.json",
+      "published_at_utc": "2026-09-07T22:18:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-08/the-matrix-5-is-waiting-on-a-blessing.png": {
       "buffer_due_at_utc": "2026-09-07T19:46:59.000Z",
       "buffer_mode": "customScheduled",
