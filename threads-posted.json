@@ -79607,6 +79607,25 @@
       "published_at_utc": "2026-09-06T10:45:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/4-out-of-5-eu-smartphones-fail-to-provide-repair-information.png": {
+      "buffer_due_at_utc": "2026-09-07T09:57:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9e8a4ca4a9446195f56838",
+      "caption_file": "output/2026-09-07/4-out-of-5-eu-smartphones-fail-to-provide-repair-information.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T09:57:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e8a4ca4a9446195f56838",
+          "published_at_utc": "2026-09-07T09:56:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/4-out-of-5-eu-smartphones-fail-to-provide-repair-information.png",
+      "metadata_file": "output/2026-09-07/4-out-of-5-eu-smartphones-fail-to-provide-repair-information.json",
+      "published_at_utc": "2026-09-07T09:56:28Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/an-amazon-cargo-plane-crashed-at-miami-international-airport.png": {
       "buffer_due_at_utc": "2026-09-06T22:43:56.000Z",
       "buffer_mode": "customScheduled",
