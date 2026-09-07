@@ -80107,6 +80107,25 @@
       "published_at_utc": "2026-09-06T20:52:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/why-is-this-trailer-for-the-elizabeth-holmes-docudrama-so-freaky.png": {
+      "buffer_due_at_utc": "2026-09-07T15:51:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9ed8f34beee7bd86f48aff",
+      "caption_file": "output/2026-09-07/why-is-this-trailer-for-the-elizabeth-holmes-docudrama-so-freaky.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T15:51:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ed8f34beee7bd86f48aff",
+          "published_at_utc": "2026-09-07T15:32:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/why-is-this-trailer-for-the-elizabeth-holmes-docudrama-so-freaky.png",
+      "metadata_file": "output/2026-09-07/why-is-this-trailer-for-the-elizabeth-holmes-docudrama-so-freaky.json",
+      "published_at_utc": "2026-09-07T15:32:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/why-the-best-gaming-chair-is-also-the-best-office-chair.png": {
       "buffer_due_at_utc": "2026-09-06T23:40:41.000Z",
       "buffer_mode": "customScheduled",
