@@ -79707,6 +79707,25 @@
       "published_at_utc": "2026-09-06T22:41:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-07/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription.png": {
+      "buffer_due_at_utc": "2026-09-07T05:17:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9e446f0623c5e505c39f94",
+      "caption_file": "output/2026-09-07/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T05:17:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9e446f0623c5e505c39f94",
+          "published_at_utc": "2026-09-07T04:58:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription.png",
+      "metadata_file": "output/2026-09-07/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription.json",
+      "published_at_utc": "2026-09-07T04:58:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-07/europe-has-its-first-commercial-orbital-rocket.png": {
       "buffer_due_at_utc": "2026-09-06T21:13:20.000Z",
       "buffer_mode": "customScheduled",
