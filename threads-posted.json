@@ -80181,6 +80181,25 @@
       "metadata_file": "output/2026-09-07/windows-11-is-getting-a-new-battery-widget.json",
       "published_at_utc": "2026-09-07T15:32:19Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-07/xiaomi-s-18-fold-is-the-perfect-phone-for-watching-the-odyssey.png": {
+      "buffer_due_at_utc": "2026-09-07T16:29:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9ed908bf3e24540e255302",
+      "caption_file": "output/2026-09-07/xiaomi-s-18-fold-is-the-perfect-phone-for-watching-the-odyssey.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-07T16:29:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9ed908bf3e24540e255302",
+          "published_at_utc": "2026-09-07T15:32:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-07/xiaomi-s-18-fold-is-the-perfect-phone-for-watching-the-odyssey.png",
+      "metadata_file": "output/2026-09-07/xiaomi-s-18-fold-is-the-perfect-phone-for-watching-the-odyssey.json",
+      "published_at_utc": "2026-09-07T15:32:25Z",
+      "publisher": "buffer_threads"
     }
   }
 }
