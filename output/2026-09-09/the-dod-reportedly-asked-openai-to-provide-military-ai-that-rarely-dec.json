@@ -1,0 +1,23 @@
+{
+  "title": "The DoD reportedly asked OpenAI to provide military AI that rarely declined to cooperate.",
+  "summary": "The Intercept , citing documents it had seen, reported that the Pentagon requested a custom version of OpenAI’s technology with “minimal refusal rates” for military commands. OpenAI denied ever having signed a contract with such phrasing.",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/991862/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-declined-to-cooperate",
+  "published_utc": "2026-09-08T21:55:57+00:00",
+  "output_day": "2026-09-09",
+  "date_source": "meta",
+  "generated_utc": "2026-09-08T23:08:08.761965+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/HAYDEN_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-09/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-dec.png",
+  "caption": "output/2026-09-09/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-dec.txt"
+}
