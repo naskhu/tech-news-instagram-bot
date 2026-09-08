@@ -80357,6 +80357,25 @@
       "published_at_utc": "2026-09-08T05:13:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-08/exclusive-poseidon-aerospace-lands-60-million-ahead-of-first-pilotless.png": {
+      "buffer_due_at_utc": "2026-09-08T14:27:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa016c0fe6b2bc2ce5b3110",
+      "caption_file": "output/2026-09-08/exclusive-poseidon-aerospace-lands-60-million-ahead-of-first-pilotless.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-08T14:27:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa016c0fe6b2bc2ce5b3110",
+          "published_at_utc": "2026-09-08T14:08:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/exclusive-poseidon-aerospace-lands-60-million-ahead-of-first-pilotless.png",
+      "metadata_file": "output/2026-09-08/exclusive-poseidon-aerospace-lands-60-million-ahead-of-first-pilotless.json",
+      "published_at_utc": "2026-09-08T14:08:00Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-08/first-xiaomi-then-the-world-why-arm-might-give-phone-gaming-a-huge-gra.png": {
       "buffer_due_at_utc": "2026-09-08T05:34:59.000Z",
       "buffer_mode": "customScheduled",
