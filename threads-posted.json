@@ -80582,6 +80582,25 @@
       "published_at_utc": "2026-09-08T05:13:50Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-08/to-boldly-go-into-the-kitchen-cabinet.png": {
+      "buffer_due_at_utc": "2026-09-08T10:28:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9fda5a3e5ef0898ca78fd6",
+      "caption_file": "output/2026-09-08/to-boldly-go-into-the-kitchen-cabinet.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-08T10:28:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9fda5a3e5ef0898ca78fd6",
+          "published_at_utc": "2026-09-08T09:50:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/to-boldly-go-into-the-kitchen-cabinet.png",
+      "metadata_file": "output/2026-09-08/to-boldly-go-into-the-kitchen-cabinet.json",
+      "published_at_utc": "2026-09-08T09:50:18Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-08/two-of-the-universe-s-great-mysteries-may-have-their-own-dimension.png": {
       "buffer_due_at_utc": "2026-09-08T06:12:49.000Z",
       "buffer_mode": "customScheduled",
