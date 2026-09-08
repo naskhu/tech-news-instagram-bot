@@ -80971,12 +80971,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-.png": {
-      "buffer_due_at_utc": "2026-09-08T21:42:16.000Z",
+      "buffer_due_at_utc": "2026-09-08T21:44:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa073e41c9aa6d4521a1048",
+      "buffer_post_id": "6aa073eae5d2fcbf7f6c6817",
       "caption_file": "output/2026-09-09/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-08T21:44:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa073eae5d2fcbf7f6c6817",
+          "published_at_utc": "2026-09-08T20:45:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-08T21:42:16.000Z",
           "buffer_mode": "customScheduled",
@@ -80986,7 +80992,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-.png",
       "metadata_file": "output/2026-09-09/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-.json",
-      "published_at_utc": "2026-09-08T20:45:24Z",
+      "published_at_utc": "2026-09-08T20:45:30Z",
       "publisher": "buffer_threads"
     }
   }
