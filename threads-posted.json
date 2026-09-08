@@ -80453,10 +80453,15 @@
     },
     "output/2026-09-08/google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aa04d5f3f77e5af54ca6ef4",
+      "buffer_post_id": "6aa04d703cd1970865552249",
       "caption_file": "output/2026-09-08/google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa04d703cd1970865552249",
+          "published_at_utc": "2026-09-08T18:01:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aa04d5f3f77e5af54ca6ef4",
@@ -80465,7 +80470,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government.png",
       "metadata_file": "output/2026-09-08/google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government.json",
-      "published_at_utc": "2026-09-08T18:01:14Z",
+      "published_at_utc": "2026-09-08T18:01:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/huawei-copies-samsung-s-privacy-display-in-its-latest-trifold.png": {
