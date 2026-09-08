@@ -80334,10 +80334,15 @@
     },
     "output/2026-09-08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-securit.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aa04d1f4b871f274d107285",
+      "buffer_post_id": "6aa04d2e3cd1970865550db1",
       "caption_file": "output/2026-09-08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-securit.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa04d2e3cd1970865550db1",
+          "published_at_utc": "2026-09-08T18:00:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aa04d1f4b871f274d107285",
@@ -80346,7 +80351,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-securit.png",
       "metadata_file": "output/2026-09-08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-securit.json",
-      "published_at_utc": "2026-09-08T18:00:09Z",
+      "published_at_utc": "2026-09-08T18:00:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/eric-wu-s-newest-company-out-of-stealth-since-may-is-going-after-const.png": {
