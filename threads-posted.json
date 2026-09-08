@@ -80232,6 +80232,25 @@
       "published_at_utc": "2026-09-07T19:25:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.png": {
+      "buffer_due_at_utc": "2026-09-08T09:50:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9fda42bbafa3c21dc05e86",
+      "caption_file": "output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-08T09:50:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9fda42bbafa3c21dc05e86",
+          "published_at_utc": "2026-09-08T09:49:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.png",
+      "metadata_file": "output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.json",
+      "published_at_utc": "2026-09-08T09:49:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-08/audi-s-new-a2-e-tron-is-its-most-affordable-and-efficient-ev-yet.png": {
       "buffer_due_at_utc": "2026-09-07T22:21:24.000Z",
       "buffer_mode": "customScheduled",
