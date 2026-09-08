@@ -80233,12 +80233,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.png": {
-      "buffer_due_at_utc": "2026-09-08T09:50:38.000Z",
+      "buffer_due_at_utc": "2026-09-08T09:52:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9fda42bbafa3c21dc05e86",
+      "buffer_post_id": "6a9fda48bbafa3c21dc05f5b",
       "caption_file": "output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-08T09:52:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9fda48bbafa3c21dc05f5b",
+          "published_at_utc": "2026-09-08T09:50:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-08T09:50:38.000Z",
           "buffer_mode": "customScheduled",
@@ -80248,7 +80254,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.png",
       "metadata_file": "output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.json",
-      "published_at_utc": "2026-09-08T09:49:54Z",
+      "published_at_utc": "2026-09-08T09:50:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/audi-s-new-a2-e-tron-is-its-most-affordable-and-efficient-ev-yet.png": {
