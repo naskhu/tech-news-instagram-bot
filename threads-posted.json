@@ -80308,12 +80308,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/first-xiaomi-then-the-world-why-arm-might-give-phone-gaming-a-huge-gra.png": {
-      "buffer_due_at_utc": "2026-09-08T05:32:59.000Z",
+      "buffer_due_at_utc": "2026-09-08T05:34:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9f997c41a7828a66b124cd",
+      "buffer_post_id": "6a9f998241a7828a66b12533",
       "caption_file": "output/2026-09-08/first-xiaomi-then-the-world-why-arm-might-give-phone-gaming-a-huge-gra.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-08T05:34:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9f998241a7828a66b12533",
+          "published_at_utc": "2026-09-08T05:13:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-08T05:32:59.000Z",
           "buffer_mode": "customScheduled",
@@ -80323,7 +80329,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/first-xiaomi-then-the-world-why-arm-might-give-phone-gaming-a-huge-gra.png",
       "metadata_file": "output/2026-09-08/first-xiaomi-then-the-world-why-arm-might-give-phone-gaming-a-huge-gra.json",
-      "published_at_utc": "2026-09-08T05:13:32Z",
+      "published_at_utc": "2026-09-08T05:13:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/huawei-copies-samsung-s-privacy-display-in-its-latest-trifold.png": {
