@@ -80257,6 +80257,25 @@
       "published_at_utc": "2026-09-07T22:18:45Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-08/bentley-s-torcal-ev-tries-to-balance-authenticity-with-fake-v8-sounds.png": {
+      "buffer_due_at_utc": "2026-09-08T00:31:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9f57254c4e8f291176cca1",
+      "caption_file": "output/2026-09-08/bentley-s-torcal-ev-tries-to-balance-authenticity-with-fake-v8-sounds.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-08T00:31:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9f57254c4e8f291176cca1",
+          "published_at_utc": "2026-09-08T00:30:29Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/bentley-s-torcal-ev-tries-to-balance-authenticity-with-fake-v8-sounds.png",
+      "metadata_file": "output/2026-09-08/bentley-s-torcal-ev-tries-to-balance-authenticity-with-fake-v8-sounds.json",
+      "published_at_utc": "2026-09-08T00:30:29Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-08/hunter-biden-is-turning-his-laptop-into-a-meme-coin.png": {
       "buffer_due_at_utc": "2026-09-07T22:40:19.000Z",
       "buffer_mode": "customScheduled",
