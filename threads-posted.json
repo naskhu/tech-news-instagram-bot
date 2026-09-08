@@ -80944,6 +80944,25 @@
       "metadata_file": "output/2026-09-09/meta-debuts-its-muse-ai-agent-will-consumers-trust-it-techcrunch.json",
       "published_at_utc": "2026-09-08T20:45:05Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-09/mistral-raises-3b-as-sovereign-ai-becomes-big-business-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-08T21:23:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa073d71b4f0210e342bbe1",
+      "caption_file": "output/2026-09-09/mistral-raises-3b-as-sovereign-ai-becomes-big-business-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-08T21:23:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa073d71b4f0210e342bbe1",
+          "published_at_utc": "2026-09-08T20:45:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/mistral-raises-3b-as-sovereign-ai-becomes-big-business-techcrunch.png",
+      "metadata_file": "output/2026-09-09/mistral-raises-3b-as-sovereign-ai-becomes-big-business-techcrunch.json",
+      "published_at_utc": "2026-09-08T20:45:12Z",
+      "publisher": "buffer_threads"
     }
   }
 }
