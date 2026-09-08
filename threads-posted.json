@@ -80433,12 +80433,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/the-real-reason-your-phone-is-getting-more-expensive.png": {
-      "buffer_due_at_utc": "2026-09-08T01:27:57.000Z",
+      "buffer_due_at_utc": "2026-09-08T01:29:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6a9f574841a7828a66ac777a",
+      "buffer_post_id": "6a9f574e054b6beb81a98308",
       "caption_file": "output/2026-09-08/the-real-reason-your-phone-is-getting-more-expensive.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-08T01:29:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9f574e054b6beb81a98308",
+          "published_at_utc": "2026-09-08T00:31:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-08T01:27:57.000Z",
           "buffer_mode": "customScheduled",
@@ -80448,7 +80454,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/the-real-reason-your-phone-is-getting-more-expensive.png",
       "metadata_file": "output/2026-09-08/the-real-reason-your-phone-is-getting-more-expensive.json",
-      "published_at_utc": "2026-09-08T00:31:04Z",
+      "published_at_utc": "2026-09-08T00:31:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/watch-this-roomba-spit-out-another-roomba.png": {
