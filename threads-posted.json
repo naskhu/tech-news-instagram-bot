@@ -81069,6 +81069,25 @@
       "metadata_file": "output/2026-09-09/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-dec.json",
       "published_at_utc": "2026-09-08T23:10:06Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-09/the-exploration-company-nabs-450-million-to-challenge-spacex-techcrunc.png": {
+      "buffer_due_at_utc": "2026-09-09T00:07:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa095db5bcf98109f5d860c",
+      "caption_file": "output/2026-09-09/the-exploration-company-nabs-450-million-to-challenge-spacex-techcrunc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-09T00:07:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa095db5bcf98109f5d860c",
+          "published_at_utc": "2026-09-08T23:10:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/the-exploration-company-nabs-450-million-to-challenge-spacex-techcrunc.png",
+      "metadata_file": "output/2026-09-09/the-exploration-company-nabs-450-million-to-challenge-spacex-techcrunc.json",
+      "published_at_utc": "2026-09-08T23:10:20Z",
+      "publisher": "buffer_threads"
     }
   }
 }
