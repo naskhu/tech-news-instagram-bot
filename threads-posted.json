@@ -80681,6 +80681,25 @@
       "metadata_file": "output/2026-09-08/what-we-expect-from-the-upcoming-apple-launch-techcrunch.json",
       "published_at_utc": "2026-09-07T19:26:04Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-08/xiaomi-s-wide-foldable-promises-more-power-than-samsung-s.png": {
+      "buffer_due_at_utc": "2026-09-08T10:47:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9fda651a3e981128283fe1",
+      "caption_file": "output/2026-09-08/xiaomi-s-wide-foldable-promises-more-power-than-samsung-s.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-08T10:47:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9fda651a3e981128283fe1",
+          "published_at_utc": "2026-09-08T09:50:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/xiaomi-s-wide-foldable-promises-more-power-than-samsung-s.png",
+      "metadata_file": "output/2026-09-08/xiaomi-s-wide-foldable-promises-more-power-than-samsung-s.json",
+      "published_at_utc": "2026-09-08T09:50:30Z",
+      "publisher": "buffer_threads"
     }
   }
 }
