@@ -80921,12 +80921,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-.png": {
-      "buffer_due_at_utc": "2026-09-08T23:10:20.000Z",
+      "buffer_due_at_utc": "2026-09-08T23:12:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa095b03bd0dd9ef31e339f",
+      "buffer_post_id": "6aa095b6a83dcb71a3e77692",
       "caption_file": "output/2026-09-09/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-08T23:12:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa095b6a83dcb71a3e77692",
+          "published_at_utc": "2026-09-08T23:09:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-08T23:10:20.000Z",
           "buffer_mode": "customScheduled",
@@ -80936,7 +80942,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-.png",
       "metadata_file": "output/2026-09-09/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-.json",
-      "published_at_utc": "2026-09-08T23:09:36Z",
+      "published_at_utc": "2026-09-08T23:09:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/meta-debuts-its-muse-ai-agent-will-consumers-trust-it-techcrunch.png": {
