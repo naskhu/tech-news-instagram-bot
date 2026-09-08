@@ -80282,6 +80282,25 @@
       "published_at_utc": "2026-09-08T00:30:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-08/huawei-copies-samsung-s-privacy-display-in-its-latest-trifold.png": {
+      "buffer_due_at_utc": "2026-09-08T00:50:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6a9f5730555f6e1cb7741567",
+      "caption_file": "output/2026-09-08/huawei-copies-samsung-s-privacy-display-in-its-latest-trifold.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-08T00:50:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6a9f5730555f6e1cb7741567",
+          "published_at_utc": "2026-09-08T00:30:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/huawei-copies-samsung-s-privacy-display-in-its-latest-trifold.png",
+      "metadata_file": "output/2026-09-08/huawei-copies-samsung-s-privacy-display-in-its-latest-trifold.json",
+      "published_at_utc": "2026-09-08T00:30:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-08/hunter-biden-is-turning-his-laptop-into-a-meme-coin.png": {
       "buffer_due_at_utc": "2026-09-07T22:40:19.000Z",
       "buffer_mode": "customScheduled",
