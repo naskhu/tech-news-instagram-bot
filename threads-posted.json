@@ -80233,12 +80233,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/a-word-with-a-woman-who-s-trying-to-pull-off-a-crossbody-phone-strap.png": {
-      "buffer_due_at_utc": "2026-09-08T14:08:32.000Z",
+      "buffer_due_at_utc": "2026-09-08T14:10:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa016b3aba08b6e086aa6c4",
+      "buffer_post_id": "6aa016ba0f4b8f1c2da510f0",
       "caption_file": "output/2026-09-08/a-word-with-a-woman-who-s-trying-to-pull-off-a-crossbody-phone-strap.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-08T14:10:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa016ba0f4b8f1c2da510f0",
+          "published_at_utc": "2026-09-08T14:07:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-08T14:08:32.000Z",
           "buffer_mode": "customScheduled",
@@ -80248,7 +80254,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-08/a-word-with-a-woman-who-s-trying-to-pull-off-a-crossbody-phone-strap.png",
       "metadata_file": "output/2026-09-08/a-word-with-a-woman-who-s-trying-to-pull-off-a-crossbody-phone-strap.json",
-      "published_at_utc": "2026-09-08T14:07:48Z",
+      "published_at_utc": "2026-09-08T14:07:54Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-08/astronomers-have-completed-the-largest-map-of-space-yes-you-can-play-w.png": {
