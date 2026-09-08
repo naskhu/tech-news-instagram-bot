@@ -81046,12 +81046,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-dec.png": {
-      "buffer_due_at_utc": "2026-09-08T23:48:10.000Z",
+      "buffer_due_at_utc": "2026-09-08T23:50:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa095c8493bbf8c2823dadd",
+      "buffer_post_id": "6aa095ce3c5ae934d51d7200",
       "caption_file": "output/2026-09-09/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-dec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-08T23:50:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa095ce3c5ae934d51d7200",
+          "published_at_utc": "2026-09-08T23:10:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-08T23:48:10.000Z",
           "buffer_mode": "customScheduled",
@@ -81061,7 +81067,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-dec.png",
       "metadata_file": "output/2026-09-09/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-dec.json",
-      "published_at_utc": "2026-09-08T23:10:00Z",
+      "published_at_utc": "2026-09-08T23:10:06Z",
       "publisher": "buffer_threads"
     }
   }
