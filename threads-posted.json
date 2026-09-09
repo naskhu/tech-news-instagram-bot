@@ -80921,12 +80921,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/apple-s-foldable-iphone-duo-will-reportedly-start-at-2-000.png": {
-      "buffer_due_at_utc": "2026-09-09T06:06:13.000Z",
+      "buffer_due_at_utc": "2026-09-09T06:08:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa0f72986309395260523a1",
+      "buffer_post_id": "6aa0f72f3bd0dd9ef3266256",
       "caption_file": "output/2026-09-09/apple-s-foldable-iphone-duo-will-reportedly-start-at-2-000.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T06:08:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa0f72f3bd0dd9ef3266256",
+          "published_at_utc": "2026-09-09T06:05:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T06:06:13.000Z",
           "buffer_mode": "customScheduled",
@@ -80936,7 +80942,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/apple-s-foldable-iphone-duo-will-reportedly-start-at-2-000.png",
       "metadata_file": "output/2026-09-09/apple-s-foldable-iphone-duo-will-reportedly-start-at-2-000.json",
-      "published_at_utc": "2026-09-09T06:05:29Z",
+      "published_at_utc": "2026-09-09T06:05:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-.png": {
