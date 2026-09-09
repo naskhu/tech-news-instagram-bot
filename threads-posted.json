@@ -80895,6 +80895,25 @@
       "published_at_utc": "2026-09-08T09:50:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-09/3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-dis.png": {
+      "buffer_due_at_utc": "2026-09-09T15:21:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa1796abd184cf99313395f",
+      "caption_file": "output/2026-09-09/3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-dis.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-09T15:21:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa1796abd184cf99313395f",
+          "published_at_utc": "2026-09-09T15:21:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-dis.png",
+      "metadata_file": "output/2026-09-09/3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-dis.json",
+      "published_at_utc": "2026-09-09T15:21:14Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-09/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it-techcru.png": {
       "buffer_due_at_utc": "2026-09-08T20:47:31.000Z",
       "buffer_mode": "customScheduled",
