@@ -81295,6 +81295,25 @@
       "published_at_utc": "2026-09-09T01:21:24Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.png": {
+      "buffer_due_at_utc": "2026-09-09T12:12:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa1445417032e1122ac2bf5",
+      "caption_file": "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-09T12:12:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa1445417032e1122ac2bf5",
+          "published_at_utc": "2026-09-09T11:34:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.png",
+      "metadata_file": "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.json",
+      "published_at_utc": "2026-09-09T11:34:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.png": {
       "buffer_due_at_utc": "2026-09-09T02:01:38.000Z",
       "buffer_mode": "customScheduled",
