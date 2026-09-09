@@ -81370,6 +81370,25 @@
       "published_at_utc": "2026-09-09T15:21:45Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-09/viral-ai-assistant-instinct-now-has-its-own-email-address-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-09T16:18:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa1798f264aee730a6f686a",
+      "caption_file": "output/2026-09-09/viral-ai-assistant-instinct-now-has-its-own-email-address-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-09T16:18:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa1798f264aee730a6f686a",
+          "published_at_utc": "2026-09-09T15:21:51Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/viral-ai-assistant-instinct-now-has-its-own-email-address-techcrunch.png",
+      "metadata_file": "output/2026-09-09/viral-ai-assistant-instinct-now-has-its-own-email-address-techcrunch.json",
+      "published_at_utc": "2026-09-09T15:21:51Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.png": {
       "buffer_due_at_utc": "2026-09-09T12:14:51.000Z",
       "buffer_mode": "customScheduled",
