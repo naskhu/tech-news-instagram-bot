@@ -81171,12 +81171,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/your-last-chance-to-host-a-side-event-at-techcrunch-disrupt-2026-ends-.png": {
-      "buffer_due_at_utc": "2026-09-09T02:18:33.000Z",
+      "buffer_due_at_utc": "2026-09-09T02:20:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa0b4a7c5c199aca46ab894",
+      "buffer_post_id": "6aa0b4ad493bbf8c282704ec",
       "caption_file": "output/2026-09-09/your-last-chance-to-host-a-side-event-at-techcrunch-disrupt-2026-ends-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T02:20:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa0b4ad493bbf8c282704ec",
+          "published_at_utc": "2026-09-09T01:21:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T02:18:33.000Z",
           "buffer_mode": "customScheduled",
@@ -81186,7 +81192,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/your-last-chance-to-host-a-side-event-at-techcrunch-disrupt-2026-ends-.png",
       "metadata_file": "output/2026-09-09/your-last-chance-to-host-a-side-event-at-techcrunch-disrupt-2026-ends-.json",
-      "published_at_utc": "2026-09-09T01:21:43Z",
+      "published_at_utc": "2026-09-09T01:21:49Z",
       "publisher": "buffer_threads"
     }
   }
