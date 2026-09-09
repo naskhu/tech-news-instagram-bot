@@ -81046,12 +81046,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/sony-isn-t-phasing-out-discs-quite-as-quickly-as-we-thought.png": {
-      "buffer_due_at_utc": "2026-09-09T01:21:48.000Z",
+      "buffer_due_at_utc": "2026-09-09T01:23:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa0b480a821ff5ff70b92d9",
+      "buffer_post_id": "6aa0b4863c5ae934d5207485",
       "caption_file": "output/2026-09-09/sony-isn-t-phasing-out-discs-quite-as-quickly-as-we-thought.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T01:23:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa0b4863c5ae934d5207485",
+          "published_at_utc": "2026-09-09T01:21:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T01:21:48.000Z",
           "buffer_mode": "customScheduled",
@@ -81061,7 +81067,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/sony-isn-t-phasing-out-discs-quite-as-quickly-as-we-thought.png",
       "metadata_file": "output/2026-09-09/sony-isn-t-phasing-out-discs-quite-as-quickly-as-we-thought.json",
-      "published_at_utc": "2026-09-09T01:21:04Z",
+      "published_at_utc": "2026-09-09T01:21:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/the-dod-reportedly-asked-openai-to-provide-military-ai-that-rarely-dec.png": {
