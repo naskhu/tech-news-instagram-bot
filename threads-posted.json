@@ -81020,6 +81020,25 @@
       "published_at_utc": "2026-09-08T23:09:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-.png": {
+      "buffer_due_at_utc": "2026-09-09T15:40:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa17976264aee730a6f66ec",
+      "caption_file": "output/2026-09-09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-09T15:40:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa17976264aee730a6f66ec",
+          "published_at_utc": "2026-09-09T15:21:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-.png",
+      "metadata_file": "output/2026-09-09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-.json",
+      "published_at_utc": "2026-09-09T15:21:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-09/gemini-s-daily-brief-is-now-available-to-everyone-in-the-us.png": {
       "buffer_due_at_utc": "2026-09-09T06:46:03.000Z",
       "buffer_mode": "customScheduled",
