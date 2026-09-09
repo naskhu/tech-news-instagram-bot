@@ -81296,12 +81296,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.png": {
-      "buffer_due_at_utc": "2026-09-09T12:12:51.000Z",
+      "buffer_due_at_utc": "2026-09-09T12:14:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa1445417032e1122ac2bf5",
+      "buffer_post_id": "6aa1445917032e1122ac2c53",
       "caption_file": "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T12:14:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa1445917032e1122ac2c53",
+          "published_at_utc": "2026-09-09T11:34:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T12:12:51.000Z",
           "buffer_mode": "customScheduled",
@@ -81311,7 +81317,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.png",
       "metadata_file": "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.json",
-      "published_at_utc": "2026-09-09T11:34:44Z",
+      "published_at_utc": "2026-09-09T11:34:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.png": {
