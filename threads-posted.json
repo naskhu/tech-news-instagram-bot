@@ -80996,12 +80996,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/gemini-s-daily-brief-is-now-available-to-everyone-in-the-us.png": {
-      "buffer_due_at_utc": "2026-09-09T06:44:03.000Z",
+      "buffer_due_at_utc": "2026-09-09T06:46:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa0f740493bbf8c282c1b3a",
+      "buffer_post_id": "6aa0f7467b66b49ec6f7e778",
       "caption_file": "output/2026-09-09/gemini-s-daily-brief-is-now-available-to-everyone-in-the-us.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T06:46:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa0f7467b66b49ec6f7e778",
+          "published_at_utc": "2026-09-09T06:05:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T06:44:03.000Z",
           "buffer_mode": "customScheduled",
@@ -81011,7 +81017,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/gemini-s-daily-brief-is-now-available-to-everyone-in-the-us.png",
       "metadata_file": "output/2026-09-09/gemini-s-daily-brief-is-now-available-to-everyone-in-the-us.json",
-      "published_at_utc": "2026-09-09T06:05:52Z",
+      "published_at_utc": "2026-09-09T06:05:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/hackers-are-stealing-claude-tokens-from-subscribers-techcrunch.png": {
