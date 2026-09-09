@@ -80945,6 +80945,25 @@
       "published_at_utc": "2026-09-09T06:05:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.png": {
+      "buffer_due_at_utc": "2026-09-09T06:25:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa0f734863093952605241a",
+      "caption_file": "output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-09T06:25:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa0f734863093952605241a",
+          "published_at_utc": "2026-09-09T06:05:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.png",
+      "metadata_file": "output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.json",
+      "published_at_utc": "2026-09-09T06:05:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-09/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-.png": {
       "buffer_due_at_utc": "2026-09-08T23:12:20.000Z",
       "buffer_mode": "customScheduled",
