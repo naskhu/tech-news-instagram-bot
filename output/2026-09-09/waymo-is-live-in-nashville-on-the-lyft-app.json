@@ -1,0 +1,23 @@
+{
+  "title": "Waymo is live in Nashville on the Lyft app.",
+  "summary": "Lyft customers hailing a ride in Waymo’s service area (which includes Downtown/Broadway, North Nashville/Germantown, East Nashville, Midtown, and South Nashville) could be matched with a robotaxi. Customers who would prefer a robotaxi ride can also book one through Waymo’s own app.",
+  "source": "The Verge",
+  "url": "https://theverge.com/transportation/991880/waymo-is-live-in-nashville-on-the-lyft-app",
+  "published_utc": "2026-09-09T10:00:00+00:00",
+  "output_day": "2026-09-09",
+  "date_source": "meta",
+  "generated_utc": "2026-09-09T11:30:24.486246+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2280032800.jpg?quality=90&strip=all&crop=0%2C10.751327243474%2C100%2C78.497345513052&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.png",
+  "caption": "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.txt"
+}
