@@ -81144,6 +81144,25 @@
       "metadata_file": "output/2026-09-09/trump-wants-ford-to-cut-ties-with-chinese-companies.json",
       "published_at_utc": "2026-09-09T01:21:24Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.png": {
+      "buffer_due_at_utc": "2026-09-09T01:59:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa0b49b8630939526001133",
+      "caption_file": "output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-09T01:59:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa0b49b8630939526001133",
+          "published_at_utc": "2026-09-09T01:21:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.png",
+      "metadata_file": "output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.json",
+      "published_at_utc": "2026-09-09T01:21:31Z",
+      "publisher": "buffer_threads"
     }
   }
 }
