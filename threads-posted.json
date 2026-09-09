@@ -81346,12 +81346,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer.png": {
-      "buffer_due_at_utc": "2026-09-09T15:59:48.000Z",
+      "buffer_due_at_utc": "2026-09-09T16:01:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa17983264aee730a6f67d8",
+      "buffer_post_id": "6aa179899c28a68610fe74a7",
       "caption_file": "output/2026-09-09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T16:01:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa179899c28a68610fe74a7",
+          "published_at_utc": "2026-09-09T15:21:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T15:59:48.000Z",
           "buffer_mode": "customScheduled",
@@ -81361,7 +81367,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer.png",
       "metadata_file": "output/2026-09-09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer.json",
-      "published_at_utc": "2026-09-09T15:21:39Z",
+      "published_at_utc": "2026-09-09T15:21:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/waymo-is-live-in-nashville-on-the-lyft-app.png": {
