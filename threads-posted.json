@@ -81345,6 +81345,25 @@
       "published_at_utc": "2026-09-09T01:21:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-09/worried-anthropic-researchers-warn-that-ai-could-kill-all-humans.png": {
+      "buffer_due_at_utc": "2026-09-09T12:31:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa1446017032e1122ac2ce7",
+      "caption_file": "output/2026-09-09/worried-anthropic-researchers-warn-that-ai-could-kill-all-humans.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-09T12:31:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa1446017032e1122ac2ce7",
+          "published_at_utc": "2026-09-09T11:34:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/worried-anthropic-researchers-warn-that-ai-could-kill-all-humans.png",
+      "metadata_file": "output/2026-09-09/worried-anthropic-researchers-warn-that-ai-could-kill-all-humans.json",
+      "published_at_utc": "2026-09-09T11:34:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-09/your-last-chance-to-host-a-side-event-at-techcrunch-disrupt-2026-ends-.png": {
       "buffer_due_at_utc": "2026-09-09T02:20:33.000Z",
       "buffer_mode": "customScheduled",
