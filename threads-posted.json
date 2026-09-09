@@ -80946,12 +80946,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.png": {
-      "buffer_due_at_utc": "2026-09-09T06:25:08.000Z",
+      "buffer_due_at_utc": "2026-09-09T06:27:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa0f734863093952605241a",
+      "buffer_post_id": "6aa0f73a493bbf8c282c1abb",
       "caption_file": "output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T06:27:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa0f73a493bbf8c282c1abb",
+          "published_at_utc": "2026-09-09T06:05:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T06:25:08.000Z",
           "buffer_mode": "customScheduled",
@@ -80961,7 +80967,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.png",
       "metadata_file": "output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.json",
-      "published_at_utc": "2026-09-09T06:05:40Z",
+      "published_at_utc": "2026-09-09T06:05:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-.png": {
