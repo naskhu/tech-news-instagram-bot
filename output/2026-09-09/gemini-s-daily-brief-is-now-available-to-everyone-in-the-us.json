@@ -1,0 +1,23 @@
+{
+  "title": "Gemini’s Daily Brief is now available to everyone in the US.",
+  "summary": "First announced at I/O in May , Daily Brief is an AI feature that generates a summary of your day with the emails, meetings, and other information pulled from apps connected to Gemini.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/991837/geminis-daily-brief-is-now-available-to-everyone-in-the-us",
+  "published_utc": "2026-09-08T21:43:13+00:00",
+  "output_day": "2026-09-09",
+  "date_source": "meta",
+  "generated_utc": "2026-09-09T06:04:12.925576+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/daily-brief-screenshot.png?quality=90&strip=all&crop=0%2C5.7750277645566%2C100%2C88.449944470887&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-09/gemini-s-daily-brief-is-now-available-to-everyone-in-the-us.png",
+  "caption": "output/2026-09-09/gemini-s-daily-brief-is-now-available-to-everyone-in-the-us.txt"
+}
