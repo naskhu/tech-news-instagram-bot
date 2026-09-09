@@ -81146,12 +81146,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.png": {
-      "buffer_due_at_utc": "2026-09-09T01:59:38.000Z",
+      "buffer_due_at_utc": "2026-09-09T02:01:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa0b49b8630939526001133",
+      "buffer_post_id": "6aa0b4a1c5c199aca46ab83a",
       "caption_file": "output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T02:01:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa0b4a1c5c199aca46ab83a",
+          "published_at_utc": "2026-09-09T01:21:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T01:59:38.000Z",
           "buffer_mode": "customScheduled",
@@ -81161,7 +81167,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.png",
       "metadata_file": "output/2026-09-09/white-house-takes-down-build-the-wall-game-after-the-tetris-company-co.json",
-      "published_at_utc": "2026-09-09T01:21:31Z",
+      "published_at_utc": "2026-09-09T01:21:37Z",
       "publisher": "buffer_threads"
     }
   }
