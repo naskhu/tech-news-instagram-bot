@@ -81014,6 +81014,23 @@
       "published_at_utc": "2026-09-09T18:44:19Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-tha.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6aa1a909615e4e3c66db9837",
+      "caption_file": "output/2026-09-09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-tha.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa1a909615e4e3c66db9837",
+          "published_at_utc": "2026-09-09T18:44:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-tha.png",
+      "metadata_file": "output/2026-09-09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-tha.json",
+      "published_at_utc": "2026-09-09T18:44:35Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-09/cloudnc-raises-20m-to-automate-manufacturing-s-most-pressing-bottlenec.png": {
       "buffer_due_at_utc": "2026-09-09T06:27:08.000Z",
       "buffer_mode": "customScheduled",
