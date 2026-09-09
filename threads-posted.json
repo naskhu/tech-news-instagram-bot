@@ -81634,12 +81634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/automattic-s-board-forces-ceo-matt-mullenweg-into-leave-of-absence.png": {
-      "buffer_due_at_utc": "2026-09-09T23:23:35.000Z",
+      "buffer_due_at_utc": "2026-09-09T23:25:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa1ea4b06a7fa7bc8e6efd7",
+      "buffer_post_id": "6aa1ea51527cad85cfe9e952",
       "caption_file": "output/2026-09-10/automattic-s-board-forces-ceo-matt-mullenweg-into-leave-of-absence.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-09T23:25:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa1ea51527cad85cfe9e952",
+          "published_at_utc": "2026-09-09T23:22:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-09T23:23:35.000Z",
           "buffer_mode": "customScheduled",
@@ -81649,7 +81655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/automattic-s-board-forces-ceo-matt-mullenweg-into-leave-of-absence.png",
       "metadata_file": "output/2026-09-10/automattic-s-board-forces-ceo-matt-mullenweg-into-leave-of-absence.json",
-      "published_at_utc": "2026-09-09T23:22:51Z",
+      "published_at_utc": "2026-09-09T23:22:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-.png": {
