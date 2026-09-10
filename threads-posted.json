@@ -81708,6 +81708,25 @@
       "published_at_utc": "2026-09-09T21:14:24Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-10/apple-watch-s-new-feature-listens-to-your-chats-and-recaps-them-techcr.png": {
+      "buffer_due_at_utc": "2026-09-10T02:10:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa204595585ae60f04a5ae5",
+      "caption_file": "output/2026-09-10/apple-watch-s-new-feature-listens-to-your-chats-and-recaps-them-techcr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-10T02:10:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa204595585ae60f04a5ae5",
+          "published_at_utc": "2026-09-10T01:14:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/apple-watch-s-new-feature-listens-to-your-chats-and-recaps-them-techcr.png",
+      "metadata_file": "output/2026-09-10/apple-watch-s-new-feature-listens-to-your-chats-and-recaps-them-techcr.json",
+      "published_at_utc": "2026-09-10T01:14:01Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-10/automattic-s-board-forces-ceo-matt-mullenweg-into-leave-of-absence.png": {
       "buffer_due_at_utc": "2026-09-09T23:25:35.000Z",
       "buffer_mode": "customScheduled",
