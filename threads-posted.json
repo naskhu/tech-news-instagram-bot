@@ -81834,12 +81834,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/doj-wants-more-answers-on-fox-s-22b-roku-deal-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-10T07:02:28.000Z",
+      "buffer_due_at_utc": "2026-09-10T07:04:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa248ae7b01d9b492ff4228",
+      "buffer_post_id": "6aa248b4fafa504ca4df31cc",
       "caption_file": "output/2026-09-10/doj-wants-more-answers-on-fox-s-22b-roku-deal-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T07:04:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa248b4fafa504ca4df31cc",
+          "published_at_utc": "2026-09-10T06:05:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T07:02:28.000Z",
           "buffer_mode": "customScheduled",
@@ -81849,7 +81855,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/doj-wants-more-answers-on-fox-s-22b-roku-deal-techcrunch.png",
       "metadata_file": "output/2026-09-10/doj-wants-more-answers-on-fox-s-22b-roku-deal-techcrunch.json",
-      "published_at_utc": "2026-09-10T06:05:34Z",
+      "published_at_utc": "2026-09-10T06:05:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-.png": {
