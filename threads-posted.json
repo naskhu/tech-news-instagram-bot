@@ -81633,6 +81633,23 @@
       "published_at_utc": "2026-09-10T01:13:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6aa2f8535d9cf4280967c52c",
+      "caption_file": "output/2026-09-10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa2f8535d9cf4280967c52c",
+          "published_at_utc": "2026-09-10T18:35:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video.png",
+      "metadata_file": "output/2026-09-10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video.json",
+      "published_at_utc": "2026-09-10T18:35:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-10/apple-asks-have-you-ever-imagined-ios-devices-doin-it.png": {
       "buffer_due_at_utc": "2026-09-10T06:07:43.000Z",
       "buffer_mode": "customScheduled",
