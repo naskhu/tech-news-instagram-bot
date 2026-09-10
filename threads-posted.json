@@ -82034,12 +82034,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/the-pixel-tablet-is-gone-from-google-s-online-store.png": {
-      "buffer_due_at_utc": "2026-09-10T12:26:14.000Z",
+      "buffer_due_at_utc": "2026-09-10T12:28:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa2949259396866022d12ce",
+      "buffer_post_id": "6aa29498ec7839816566dee8",
       "caption_file": "output/2026-09-10/the-pixel-tablet-is-gone-from-google-s-online-store.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T12:28:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa29498ec7839816566dee8",
+          "published_at_utc": "2026-09-10T11:29:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T12:26:14.000Z",
           "buffer_mode": "customScheduled",
@@ -82049,7 +82055,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/the-pixel-tablet-is-gone-from-google-s-online-store.png",
       "metadata_file": "output/2026-09-10/the-pixel-tablet-is-gone-from-google-s-online-store.json",
-      "published_at_utc": "2026-09-10T11:29:22Z",
+      "published_at_utc": "2026-09-10T11:29:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-.png": {
