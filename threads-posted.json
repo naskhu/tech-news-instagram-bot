@@ -82346,6 +82346,25 @@
       "published_at_utc": "2026-09-10T23:16:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.png": {
+      "buffer_due_at_utc": "2026-09-10T23:35:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa33a3e71ba1c02cced10ec",
+      "caption_file": "output/2026-09-11/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-10T23:35:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa33a3e71ba1c02cced10ec",
+          "published_at_utc": "2026-09-10T23:16:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.png",
+      "metadata_file": "output/2026-09-11/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.json",
+      "published_at_utc": "2026-09-10T23:16:14Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/meta-s-ai-agent-muse-is-now-the-no-2-app-in-the-us-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-10T21:52:44.000Z",
       "buffer_mode": "customScheduled",
