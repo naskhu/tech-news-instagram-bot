@@ -81655,6 +81655,23 @@
       "published_at_utc": "2026-09-10T18:35:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you-techcrun.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6aa2f875048904c8cf4a3b9b",
+      "caption_file": "output/2026-09-10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you-techcrun.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa2f875048904c8cf4a3b9b",
+          "published_at_utc": "2026-09-10T18:35:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you-techcrun.png",
+      "metadata_file": "output/2026-09-10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you-techcrun.json",
+      "published_at_utc": "2026-09-10T18:35:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-10/apple-asks-have-you-ever-imagined-ios-devices-doin-it.png": {
       "buffer_due_at_utc": "2026-09-10T06:07:43.000Z",
       "buffer_mode": "customScheduled",
