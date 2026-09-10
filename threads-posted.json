@@ -81959,12 +81959,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/motorola-has-its-own-wide-foldable-on-the-way.png": {
-      "buffer_due_at_utc": "2026-09-10T12:07:19.000Z",
+      "buffer_due_at_utc": "2026-09-10T12:09:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa29486c0beddb28e766c18",
+      "buffer_post_id": "6aa2948bec7839816566ddfe",
       "caption_file": "output/2026-09-10/motorola-has-its-own-wide-foldable-on-the-way.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T12:09:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa2948bec7839816566ddfe",
+          "published_at_utc": "2026-09-10T11:29:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T12:07:19.000Z",
           "buffer_mode": "customScheduled",
@@ -81974,7 +81980,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/motorola-has-its-own-wide-foldable-on-the-way.png",
       "metadata_file": "output/2026-09-10/motorola-has-its-own-wide-foldable-on-the-way.json",
-      "published_at_utc": "2026-09-10T11:29:10Z",
+      "published_at_utc": "2026-09-10T11:29:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors-techcrunch.png": {
