@@ -82445,6 +82445,25 @@
       "metadata_file": "output/2026-09-11/proxima-fusion-bets-140m-on-a-critical-fusion-ingredient-dominated-by-.json",
       "published_at_utc": "2026-09-10T23:16:33Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-11/thrive-capital-led-vcs-into-pro-sports-ownership-collaborative-fund-ju.png": {
+      "buffer_due_at_utc": "2026-09-11T00:13:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa33a57bc5ba21062ecb170",
+      "caption_file": "output/2026-09-11/thrive-capital-led-vcs-into-pro-sports-ownership-collaborative-fund-ju.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-11T00:13:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa33a57bc5ba21062ecb170",
+          "published_at_utc": "2026-09-10T23:16:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/thrive-capital-led-vcs-into-pro-sports-ownership-collaborative-fund-ju.png",
+      "metadata_file": "output/2026-09-11/thrive-capital-led-vcs-into-pro-sports-ownership-collaborative-fund-ju.json",
+      "published_at_utc": "2026-09-10T23:16:39Z",
+      "publisher": "buffer_threads"
     }
   }
 }
