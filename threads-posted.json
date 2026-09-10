@@ -81633,6 +81633,25 @@
       "published_at_utc": "2026-09-10T06:05:05Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-10/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone-tech.png": {
+      "buffer_due_at_utc": "2026-09-10T06:24:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa248970f1041b511f4b81b",
+      "caption_file": "output/2026-09-10/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-10T06:24:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa248970f1041b511f4b81b",
+          "published_at_utc": "2026-09-10T06:05:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone-tech.png",
+      "metadata_file": "output/2026-09-10/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone-tech.json",
+      "published_at_utc": "2026-09-10T06:05:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-10/apple-s-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago-te.png": {
       "buffer_due_at_utc": "2026-09-09T21:16:49.000Z",
       "buffer_mode": "customScheduled",
