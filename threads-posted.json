@@ -82026,10 +82026,15 @@
     },
     "output/2026-09-10/india-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aa2f8b75d9cf4280967ca24",
+      "buffer_post_id": "6aa2f8c7ed9e435ddc6776ea",
       "caption_file": "output/2026-09-10/india-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa2f8c7ed9e435ddc6776ea",
+          "published_at_utc": "2026-09-10T18:37:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aa2f8b75d9cf4280967ca24",
@@ -82038,7 +82043,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/india-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-.png",
       "metadata_file": "output/2026-09-10/india-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-.json",
-      "published_at_utc": "2026-09-10T18:36:50Z",
+      "published_at_utc": "2026-09-10T18:37:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/massachusetts-hits-data-centers-with-new-clean-power-rules-techcrunch.png": {
