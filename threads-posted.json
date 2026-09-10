@@ -81584,12 +81584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/ai-agents-are-flooding-public-services-with-new-requests.png": {
-      "buffer_due_at_utc": "2026-09-10T15:12:28.000Z",
+      "buffer_due_at_utc": "2026-09-10T15:14:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa2c8b0f36e3c572cbe587c",
+      "buffer_post_id": "6aa2c8b69c150ed1b809b04a",
       "caption_file": "output/2026-09-10/ai-agents-are-flooding-public-services-with-new-requests.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T15:14:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa2c8b69c150ed1b809b04a",
+          "published_at_utc": "2026-09-10T15:11:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T15:12:28.000Z",
           "buffer_mode": "customScheduled",
@@ -81599,7 +81605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/ai-agents-are-flooding-public-services-with-new-requests.png",
       "metadata_file": "output/2026-09-10/ai-agents-are-flooding-public-services-with-new-requests.json",
-      "published_at_utc": "2026-09-10T15:11:44Z",
+      "published_at_utc": "2026-09-10T15:11:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-sale.png": {
