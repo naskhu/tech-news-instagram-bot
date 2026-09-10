@@ -82322,12 +82322,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year-.png": {
-      "buffer_due_at_utc": "2026-09-10T23:16:45.000Z",
+      "buffer_due_at_utc": "2026-09-10T23:18:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa33a3248fd860ab1fd6af0",
+      "buffer_post_id": "6aa33a3830bad4fb832f19b9",
       "caption_file": "output/2026-09-11/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T23:18:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa33a3830bad4fb832f19b9",
+          "published_at_utc": "2026-09-10T23:16:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T23:16:45.000Z",
           "buffer_mode": "customScheduled",
@@ -82337,7 +82343,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year-.png",
       "metadata_file": "output/2026-09-11/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year-.json",
-      "published_at_utc": "2026-09-10T23:16:02Z",
+      "published_at_utc": "2026-09-10T23:16:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/meta-s-ai-agent-muse-is-now-the-no-2-app-in-the-us-techcrunch.png": {
