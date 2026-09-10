@@ -81659,12 +81659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/apple-launches-iphone-18-pro-with-upgraded-camera-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-10T06:43:33.000Z",
+      "buffer_due_at_utc": "2026-09-10T06:45:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa248a390f5f899b4fd57cc",
+      "buffer_post_id": "6aa248a80f1041b511f4b92b",
       "caption_file": "output/2026-09-10/apple-launches-iphone-18-pro-with-upgraded-camera-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T06:45:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa248a80f1041b511f4b92b",
+          "published_at_utc": "2026-09-10T06:05:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T06:43:33.000Z",
           "buffer_mode": "customScheduled",
@@ -81674,7 +81680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/apple-launches-iphone-18-pro-with-upgraded-camera-techcrunch.png",
       "metadata_file": "output/2026-09-10/apple-launches-iphone-18-pro-with-upgraded-camera-techcrunch.json",
-      "published_at_utc": "2026-09-10T06:05:23Z",
+      "published_at_utc": "2026-09-10T06:05:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/apple-s-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago-te.png": {
