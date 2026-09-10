@@ -82083,6 +82083,25 @@
       "published_at_utc": "2026-09-09T23:23:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-10/the-boring-company-raises-3b-in-round-led-by-uae.png": {
+      "buffer_due_at_utc": "2026-09-10T16:09:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa2c8d569b0d5361d83bed1",
+      "caption_file": "output/2026-09-10/the-boring-company-raises-3b-in-round-led-by-uae.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-10T16:09:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa2c8d569b0d5361d83bed1",
+          "published_at_utc": "2026-09-10T15:12:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/the-boring-company-raises-3b-in-round-led-by-uae.png",
+      "metadata_file": "output/2026-09-10/the-boring-company-raises-3b-in-round-led-by-uae.json",
+      "published_at_utc": "2026-09-10T15:12:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-10/the-hinge-for-apple-s-new-foldable-phone-was-built-with-ai-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-10T00:22:20.000Z",
       "buffer_mode": "customScheduled",
