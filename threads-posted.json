@@ -81883,6 +81883,25 @@
       "published_at_utc": "2026-09-09T23:22:57Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less.png": {
+      "buffer_due_at_utc": "2026-09-10T15:31:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa2c8bc174d8e646c6eefcc",
+      "caption_file": "output/2026-09-10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-10T15:31:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa2c8bc174d8e646c6eefcc",
+          "published_at_utc": "2026-09-10T15:11:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less.png",
+      "metadata_file": "output/2026-09-10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less.json",
+      "published_at_utc": "2026-09-10T15:11:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-10/doj-wants-more-answers-on-fox-s-22b-roku-deal-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-10T07:04:28.000Z",
       "buffer_mode": "customScheduled",
