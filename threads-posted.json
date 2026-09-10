@@ -82297,12 +82297,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/furo-s-founders-left-silicon-valley-and-it-s-paying-off-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-10T21:31:49.000Z",
+      "buffer_due_at_utc": "2026-09-10T21:33:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa31d3644683c5d5fb4958b",
+      "buffer_post_id": "6aa31d3cbc5ba21062ea3eed",
       "caption_file": "output/2026-09-11/furo-s-founders-left-silicon-valley-and-it-s-paying-off-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T21:33:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa31d3cbc5ba21062ea3eed",
+          "published_at_utc": "2026-09-10T21:12:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T21:31:49.000Z",
           "buffer_mode": "customScheduled",
@@ -82312,7 +82318,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/furo-s-founders-left-silicon-valley-and-it-s-paying-off-techcrunch.png",
       "metadata_file": "output/2026-09-11/furo-s-founders-left-silicon-valley-and-it-s-paying-off-techcrunch.json",
-      "published_at_utc": "2026-09-10T21:12:22Z",
+      "published_at_utc": "2026-09-10T21:12:28Z",
       "publisher": "buffer_threads"
     }
   }
