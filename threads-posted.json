@@ -81659,12 +81659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/apple-unveils-its-first-foldable-the-iphone-duo-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-10T01:52:00.000Z",
+      "buffer_due_at_utc": "2026-09-10T01:54:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa2044e39e94eabd517f634",
+      "buffer_post_id": "6aa2045446dba24e4063fd3d",
       "caption_file": "output/2026-09-10/apple-unveils-its-first-foldable-the-iphone-duo-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T01:54:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa2045446dba24e4063fd3d",
+          "published_at_utc": "2026-09-10T01:13:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T01:52:00.000Z",
           "buffer_mode": "customScheduled",
@@ -81674,7 +81680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/apple-unveils-its-first-foldable-the-iphone-duo-techcrunch.png",
       "metadata_file": "output/2026-09-10/apple-unveils-its-first-foldable-the-iphone-duo-techcrunch.json",
-      "published_at_utc": "2026-09-10T01:13:50Z",
+      "published_at_utc": "2026-09-10T01:13:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/apple-watch-s-new-ai-features-are-normalizing-the-idea-that-technology.png": {
