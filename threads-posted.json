@@ -81634,12 +81634,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/apple-betters-its-software-remote.png": {
-      "buffer_due_at_utc": "2026-09-10T11:29:29.000Z",
+      "buffer_due_at_utc": "2026-09-10T11:31:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa2946dec7839816566d944",
+      "buffer_post_id": "6aa29473fde0429e2efb7d24",
       "caption_file": "output/2026-09-10/apple-betters-its-software-remote.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T11:31:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa29473fde0429e2efb7d24",
+          "published_at_utc": "2026-09-10T11:28:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T11:29:29.000Z",
           "buffer_mode": "customScheduled",
@@ -81649,7 +81655,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/apple-betters-its-software-remote.png",
       "metadata_file": "output/2026-09-10/apple-betters-its-software-remote.json",
-      "published_at_utc": "2026-09-10T11:28:45Z",
+      "published_at_utc": "2026-09-10T11:28:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone-tech.png": {
