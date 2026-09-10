@@ -81933,6 +81933,25 @@
       "published_at_utc": "2026-09-09T23:23:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-10/mathematicians-want-proof-openai-didn-t-use-their-work.png": {
+      "buffer_due_at_utc": "2026-09-10T11:48:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa2947afde0429e2efb7d80",
+      "caption_file": "output/2026-09-10/mathematicians-want-proof-openai-didn-t-use-their-work.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-10T11:48:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa2947afde0429e2efb7d80",
+          "published_at_utc": "2026-09-10T11:28:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/mathematicians-want-proof-openai-didn-t-use-their-work.png",
+      "metadata_file": "output/2026-09-10/mathematicians-want-proof-openai-didn-t-use-their-work.json",
+      "published_at_utc": "2026-09-10T11:28:58Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-10/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-10T00:03:25.000Z",
       "buffer_mode": "customScheduled",
