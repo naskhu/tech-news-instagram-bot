@@ -81884,12 +81884,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less.png": {
-      "buffer_due_at_utc": "2026-09-10T15:31:23.000Z",
+      "buffer_due_at_utc": "2026-09-10T15:33:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa2c8bc174d8e646c6eefcc",
+      "buffer_post_id": "6aa2c8c2f36e3c572cbe59b9",
       "caption_file": "output/2026-09-10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-10T15:33:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa2c8c2f36e3c572cbe59b9",
+          "published_at_utc": "2026-09-10T15:12:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-10T15:31:23.000Z",
           "buffer_mode": "customScheduled",
@@ -81899,7 +81905,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less.png",
       "metadata_file": "output/2026-09-10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less.json",
-      "published_at_utc": "2026-09-10T15:11:56Z",
+      "published_at_utc": "2026-09-10T15:12:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-10/doj-wants-more-answers-on-fox-s-22b-roku-deal-techcrunch.png": {
