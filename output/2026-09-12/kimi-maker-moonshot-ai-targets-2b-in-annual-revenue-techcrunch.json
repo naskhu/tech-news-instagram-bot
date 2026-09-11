@@ -1,0 +1,23 @@
+{
+  "title": "Kimi-maker Moonshot AI targets $2B in annual revenue | TechCrunch",
+  "summary": "Earlier this week, Anthropic accused the company of a long-running model distillation campaign that routed nearly 300,000 requests from Kimi directly to Claude Opus, effectively serving Opus in place of Kimi’s own models.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue",
+  "published_utc": "2026-09-11T19:35:54+00:00",
+  "output_day": "2026-09-12",
+  "date_source": "meta",
+  "generated_utc": "2026-09-11T23:20:10.461189+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-09-12/kimi-maker-moonshot-ai-targets-2b-in-annual-revenue-techcrunch.png",
+  "caption": "output/2026-09-12/kimi-maker-moonshot-ai-targets-2b-in-annual-revenue-techcrunch.txt"
+}
