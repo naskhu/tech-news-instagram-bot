@@ -82272,12 +82272,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/anker-upgraded-its-screen-equipped-nano-charger-to-help-prolong-batter.png": {
-      "buffer_due_at_utc": "2026-09-11T15:16:37.000Z",
+      "buffer_due_at_utc": "2026-09-11T15:18:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa41b28ff8b77c7da767c5e",
+      "buffer_post_id": "6aa41b2f262bdff0e87f8605",
       "caption_file": "output/2026-09-11/anker-upgraded-its-screen-equipped-nano-charger-to-help-prolong-batter.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-11T15:18:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa41b2f262bdff0e87f8605",
+          "published_at_utc": "2026-09-11T15:15:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-11T15:16:37.000Z",
           "buffer_mode": "customScheduled",
@@ -82287,7 +82293,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/anker-upgraded-its-screen-equipped-nano-charger-to-help-prolong-batter.png",
       "metadata_file": "output/2026-09-11/anker-upgraded-its-screen-equipped-nano-charger-to-help-prolong-batter.json",
-      "published_at_utc": "2026-09-11T15:15:53Z",
+      "published_at_utc": "2026-09-11T15:15:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-.png": {
