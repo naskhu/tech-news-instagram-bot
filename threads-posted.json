@@ -82321,6 +82321,25 @@
       "published_at_utc": "2026-09-10T21:12:28Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/google-is-making-it-easier-to-switch-between-password-managers-on-andr.png": {
+      "buffer_due_at_utc": "2026-09-11T01:13:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa35590b6d24fd028a9720c",
+      "caption_file": "output/2026-09-11/google-is-making-it-easier-to-switch-between-password-managers-on-andr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-11T01:13:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa35590b6d24fd028a9720c",
+          "published_at_utc": "2026-09-11T01:12:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/google-is-making-it-easier-to-switch-between-password-managers-on-andr.png",
+      "metadata_file": "output/2026-09-11/google-is-making-it-easier-to-switch-between-password-managers-on-andr.json",
+      "published_at_utc": "2026-09-11T01:12:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year-.png": {
       "buffer_due_at_utc": "2026-09-10T23:18:45.000Z",
       "buffer_mode": "customScheduled",
