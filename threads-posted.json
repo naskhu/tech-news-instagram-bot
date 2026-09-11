@@ -82347,12 +82347,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-s.png": {
-      "buffer_due_at_utc": "2026-09-11T01:32:27.000Z",
+      "buffer_due_at_utc": "2026-09-11T01:34:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa3559d30bad4fb833178ae",
+      "buffer_post_id": "6aa355a3b6d24fd028a974ee",
       "caption_file": "output/2026-09-11/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-s.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-11T01:34:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa355a3b6d24fd028a974ee",
+          "published_at_utc": "2026-09-11T01:13:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-11T01:32:27.000Z",
           "buffer_mode": "customScheduled",
@@ -82362,7 +82368,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-s.png",
       "metadata_file": "output/2026-09-11/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-s.json",
-      "published_at_utc": "2026-09-11T01:13:01Z",
+      "published_at_utc": "2026-09-11T01:13:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year-.png": {
