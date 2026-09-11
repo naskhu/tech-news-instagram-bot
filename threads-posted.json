@@ -82721,6 +82721,25 @@
       "published_at_utc": "2026-09-11T06:07:23Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/the-wireless-earbuds-with-unbeatable-call-quality-got-their-first-disc.png": {
+      "buffer_due_at_utc": "2026-09-11T15:54:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa41b43262bdff0e87f874f",
+      "caption_file": "output/2026-09-11/the-wireless-earbuds-with-unbeatable-call-quality-got-their-first-disc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-11T15:54:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa41b43262bdff0e87f874f",
+          "published_at_utc": "2026-09-11T15:16:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/the-wireless-earbuds-with-unbeatable-call-quality-got-their-first-disc.png",
+      "metadata_file": "output/2026-09-11/the-wireless-earbuds-with-unbeatable-call-quality-got-their-first-disc.json",
+      "published_at_utc": "2026-09-11T15:16:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/thrive-capital-led-vcs-into-pro-sports-ownership-collaborative-fund-ju.png": {
       "buffer_due_at_utc": "2026-09-11T00:15:30.000Z",
       "buffer_mode": "customScheduled",
