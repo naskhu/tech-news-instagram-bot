@@ -82821,6 +82821,25 @@
       "published_at_utc": "2026-09-11T11:30:44Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/watch-jimmy-kimmel-s-interview-with-james-talarico.png": {
+      "buffer_due_at_utc": "2026-09-11T16:13:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa41b505a67efa86a9efb69",
+      "caption_file": "output/2026-09-11/watch-jimmy-kimmel-s-interview-with-james-talarico.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-11T16:13:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa41b505a67efa86a9efb69",
+          "published_at_utc": "2026-09-11T15:16:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/watch-jimmy-kimmel-s-interview-with-james-talarico.png",
+      "metadata_file": "output/2026-09-11/watch-jimmy-kimmel-s-interview-with-james-talarico.json",
+      "published_at_utc": "2026-09-11T15:16:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/youtube-now-lets-you-lock-your-account-on-the-tv-app-with-a-pin.png": {
       "buffer_due_at_utc": "2026-09-11T07:06:24.000Z",
       "buffer_mode": "customScheduled",
