@@ -1,0 +1,23 @@
+{
+  "title": "Valve just launched a big update for SteamVR.",
+  "summary": "SteamVR 2.17 adds a bunch of new features, including a quick access menu for handy settings on the VR dashboard bar, letting you access Steam achievements and notes in-game in VR, and improvements to Steam Link streaming.",
+  "source": "The Verge",
+  "url": "https://theverge.com/games/993739/valve-just-launched-a-big-update-for-steamvr",
+  "published_utc": "2026-09-10T23:17:59+00:00",
+  "output_day": "2026-09-11",
+  "date_source": "meta",
+  "generated_utc": "2026-09-11T11:28:38.326163+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c1ec63e8c0939f5ded65cd87980ea9e213541422.png?quality=90&strip=all&crop=0%2C11.217762264883%2C100%2C77.564475470235&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-11/valve-just-launched-a-big-update-for-steamvr.png",
+  "caption": "output/2026-09-11/valve-just-launched-a-big-update-for-steamvr.txt"
+}
