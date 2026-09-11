@@ -82671,6 +82671,25 @@
       "published_at_utc": "2026-09-10T23:16:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-co.png": {
+      "buffer_due_at_utc": "2026-09-11T15:35:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa41b36ff8b77c7da767dab",
+      "caption_file": "output/2026-09-11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-co.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-11T15:35:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa41b36ff8b77c7da767dab",
+          "published_at_utc": "2026-09-11T15:16:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-co.png",
+      "metadata_file": "output/2026-09-11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-co.json",
+      "published_at_utc": "2026-09-11T15:16:06Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/snapchat-takes-aim-at-partiful-with-new-event-planning-features.png": {
       "buffer_due_at_utc": "2026-09-11T06:47:29.000Z",
       "buffer_mode": "customScheduled",
