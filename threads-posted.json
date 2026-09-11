@@ -83109,6 +83109,25 @@
       "published_at_utc": "2026-09-11T21:20:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-12/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outsid.png": {
+      "buffer_due_at_utc": "2026-09-12T00:18:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa48d172ff05a490699e605",
+      "caption_file": "output/2026-09-12/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outsid.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T00:18:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa48d172ff05a490699e605",
+          "published_at_utc": "2026-09-11T23:22:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outsid.png",
+      "metadata_file": "output/2026-09-12/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outsid.json",
+      "published_at_utc": "2026-09-11T23:22:00Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-12/y-combinator-s-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-fron.png": {
       "buffer_due_at_utc": "2026-09-11T22:20:00.000Z",
       "buffer_mode": "customScheduled",
