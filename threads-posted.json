@@ -82297,12 +82297,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/apple-addresses-iphone-duo-copycats.png": {
-      "buffer_due_at_utc": "2026-09-11T11:30:48.000Z",
+      "buffer_due_at_utc": "2026-09-11T11:32:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa3e63cac8d24b597553f32",
+      "buffer_post_id": "6aa3e6424ac55a0b109e0882",
       "caption_file": "output/2026-09-11/apple-addresses-iphone-duo-copycats.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-11T11:32:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa3e6424ac55a0b109e0882",
+          "published_at_utc": "2026-09-11T11:30:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-11T11:30:48.000Z",
           "buffer_mode": "customScheduled",
@@ -82312,7 +82318,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/apple-addresses-iphone-duo-copycats.png",
       "metadata_file": "output/2026-09-11/apple-addresses-iphone-duo-copycats.json",
-      "published_at_utc": "2026-09-11T11:30:04Z",
+      "published_at_utc": "2026-09-11T11:30:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/did-he-forget-that-final-fantasy-vii-originally-came-on-three-discs.png": {
