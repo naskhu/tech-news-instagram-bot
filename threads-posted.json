@@ -82665,6 +82665,23 @@
       "published_at_utc": "2026-09-10T21:12:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/nhl-27-will-have-ai-generated-announcing.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6aa44b40bbe511f73aeb1af7",
+      "caption_file": "output/2026-09-11/nhl-27-will-have-ai-generated-announcing.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa44b40bbe511f73aeb1af7",
+          "published_at_utc": "2026-09-11T18:41:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/nhl-27-will-have-ai-generated-announcing.png",
+      "metadata_file": "output/2026-09-11/nhl-27-will-have-ai-generated-announcing.json",
+      "published_at_utc": "2026-09-11T18:41:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-10T22:11:39.000Z",
       "buffer_mode": "customScheduled",
