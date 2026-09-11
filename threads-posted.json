@@ -82985,12 +82985,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpo.png": {
-      "buffer_due_at_utc": "2026-09-11T23:22:08.000Z",
+      "buffer_due_at_utc": "2026-09-11T23:24:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa48cf4997881a6793472b9",
+      "buffer_post_id": "6aa48cfa997881a679347327",
       "caption_file": "output/2026-09-12/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-11T23:24:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa48cfa997881a679347327",
+          "published_at_utc": "2026-09-11T23:21:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-11T23:22:08.000Z",
           "buffer_mode": "customScheduled",
@@ -83000,7 +83006,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpo.png",
       "metadata_file": "output/2026-09-12/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpo.json",
-      "published_at_utc": "2026-09-11T23:21:24Z",
+      "published_at_utc": "2026-09-11T23:21:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026-te.png": {
