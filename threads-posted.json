@@ -82696,6 +82696,25 @@
       "published_at_utc": "2026-09-10T23:16:45Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/using-iphone-handoff-will-cost-5-per-month-on-t-mobile.png": {
+      "buffer_due_at_utc": "2026-09-11T12:08:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa3e6535a67efa86a9844be",
+      "caption_file": "output/2026-09-11/using-iphone-handoff-will-cost-5-per-month-on-t-mobile.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-11T12:08:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa3e6535a67efa86a9844be",
+          "published_at_utc": "2026-09-11T11:30:27Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/using-iphone-handoff-will-cost-5-per-month-on-t-mobile.png",
+      "metadata_file": "output/2026-09-11/using-iphone-handoff-will-cost-5-per-month-on-t-mobile.json",
+      "published_at_utc": "2026-09-11T11:30:27Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/youtube-now-lets-you-lock-your-account-on-the-tv-app-with-a-pin.png": {
       "buffer_due_at_utc": "2026-09-11T07:06:24.000Z",
       "buffer_mode": "customScheduled",
