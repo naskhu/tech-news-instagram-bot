@@ -82372,12 +82372,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-m.png": {
-      "buffer_due_at_utc": "2026-09-11T01:51:22.000Z",
+      "buffer_due_at_utc": "2026-09-11T01:53:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa355a9816445bddc453204",
+      "buffer_post_id": "6aa355af71ba1c02ccef92ec",
       "caption_file": "output/2026-09-11/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-m.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-11T01:53:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa355af71ba1c02ccef92ec",
+          "published_at_utc": "2026-09-11T01:13:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-11T01:51:22.000Z",
           "buffer_mode": "customScheduled",
@@ -82387,7 +82393,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-m.png",
       "metadata_file": "output/2026-09-11/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-m.json",
-      "published_at_utc": "2026-09-11T01:13:13Z",
+      "published_at_utc": "2026-09-11T01:13:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year-.png": {
