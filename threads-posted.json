@@ -83008,6 +83008,25 @@
       "metadata_file": "output/2026-09-12/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026-te.json",
       "published_at_utc": "2026-09-11T21:20:48Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-12/openai-s-feud-with-mathematicians-is-only-escalating-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-11T21:59:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa470b6fea6482ddb47d6c4",
+      "caption_file": "output/2026-09-12/openai-s-feud-with-mathematicians-is-only-escalating-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-11T21:59:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa470b6fea6482ddb47d6c4",
+          "published_at_utc": "2026-09-11T21:20:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/openai-s-feud-with-mathematicians-is-only-escalating-techcrunch.png",
+      "metadata_file": "output/2026-09-12/openai-s-feud-with-mathematicians-is-only-escalating-techcrunch.json",
+      "published_at_utc": "2026-09-11T21:20:54Z",
+      "publisher": "buffer_threads"
     }
   }
 }
