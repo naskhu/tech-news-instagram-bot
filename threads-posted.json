@@ -82296,6 +82296,25 @@
       "published_at_utc": "2026-09-10T21:12:16Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/did-he-forget-that-final-fantasy-vii-originally-came-on-three-discs.png": {
+      "buffer_due_at_utc": "2026-09-11T06:07:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa39a7e85199affc943bfdf",
+      "caption_file": "output/2026-09-11/did-he-forget-that-final-fantasy-vii-originally-came-on-three-discs.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-11T06:07:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa39a7e85199affc943bfdf",
+          "published_at_utc": "2026-09-11T06:06:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/did-he-forget-that-final-fantasy-vii-originally-came-on-three-discs.png",
+      "metadata_file": "output/2026-09-11/did-he-forget-that-final-fantasy-vii-originally-came-on-three-discs.json",
+      "published_at_utc": "2026-09-11T06:06:55Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/furo-s-founders-left-silicon-valley-and-it-s-paying-off-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-10T21:33:49.000Z",
       "buffer_mode": "customScheduled",
