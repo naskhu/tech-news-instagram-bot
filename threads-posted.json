@@ -82618,6 +82618,23 @@
       "published_at_utc": "2026-09-10T23:16:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-11/matt-mullenweg-tells-trolls-automattic-staff-saying-he-s-back-in-contr.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6aa44b2297ef5b9b5d7a3011",
+      "caption_file": "output/2026-09-11/matt-mullenweg-tells-trolls-automattic-staff-saying-he-s-back-in-contr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa44b2297ef5b9b5d7a3011",
+          "published_at_utc": "2026-09-11T18:40:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/matt-mullenweg-tells-trolls-automattic-staff-saying-he-s-back-in-contr.png",
+      "metadata_file": "output/2026-09-11/matt-mullenweg-tells-trolls-automattic-staff-saying-he-s-back-in-contr.json",
+      "published_at_utc": "2026-09-11T18:40:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-11/meta-s-ai-agent-muse-is-now-the-no-2-app-in-the-us-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-10T21:52:44.000Z",
       "buffer_mode": "customScheduled",
