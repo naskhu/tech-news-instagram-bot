@@ -82397,12 +82397,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/instagram-s-latest-feature-lets-you-add-tagged-posts-to-your-profile-g.png": {
-      "buffer_due_at_utc": "2026-09-11T02:10:17.000Z",
+      "buffer_due_at_utc": "2026-09-11T02:12:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa355b585199affc93e5f12",
+      "buffer_post_id": "6aa355ba71ba1c02ccef937b",
       "caption_file": "output/2026-09-11/instagram-s-latest-feature-lets-you-add-tagged-posts-to-your-profile-g.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-11T02:12:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa355ba71ba1c02ccef937b",
+          "published_at_utc": "2026-09-11T01:13:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-11T02:10:17.000Z",
           "buffer_mode": "customScheduled",
@@ -82412,7 +82418,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-11/instagram-s-latest-feature-lets-you-add-tagged-posts-to-your-profile-g.png",
       "metadata_file": "output/2026-09-11/instagram-s-latest-feature-lets-you-add-tagged-posts-to-your-profile-g.json",
-      "published_at_utc": "2026-09-11T01:13:25Z",
+      "published_at_utc": "2026-09-11T01:13:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-11/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year-.png": {
