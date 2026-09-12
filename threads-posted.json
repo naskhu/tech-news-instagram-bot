@@ -83010,12 +83010,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/anthropic-ceo-outlines-plan-to-pace-the-frontier.png": {
-      "buffer_due_at_utc": "2026-09-12T16:27:24.000Z",
+      "buffer_due_at_utc": "2026-09-12T16:29:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa57d3f66679b076f127210",
+      "buffer_post_id": "6aa57d45c637430b6b5c20a4",
       "caption_file": "output/2026-09-12/anthropic-ceo-outlines-plan-to-pace-the-frontier.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T16:29:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa57d45c637430b6b5c20a4",
+          "published_at_utc": "2026-09-12T16:26:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T16:27:24.000Z",
           "buffer_mode": "customScheduled",
@@ -83025,7 +83031,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/anthropic-ceo-outlines-plan-to-pace-the-frontier.png",
       "metadata_file": "output/2026-09-12/anthropic-ceo-outlines-plan-to-pace-the-frontier.json",
-      "published_at_utc": "2026-09-12T16:26:39Z",
+      "published_at_utc": "2026-09-12T16:26:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/anthropic-spent-this-week-in-hot-water-over-cybersecurity.png": {
