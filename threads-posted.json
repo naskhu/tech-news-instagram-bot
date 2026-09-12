@@ -83534,6 +83534,25 @@
       "published_at_utc": "2026-09-12T05:55:57Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-12/trump-is-giving-data-centers-a-pass-to-pollute.png": {
+      "buffer_due_at_utc": "2026-09-12T17:24:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa57d629a7f0553d16de2b9",
+      "caption_file": "output/2026-09-12/trump-is-giving-data-centers-a-pass-to-pollute.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T17:24:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa57d629a7f0553d16de2b9",
+          "published_at_utc": "2026-09-12T16:27:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/trump-is-giving-data-centers-a-pass-to-pollute.png",
+      "metadata_file": "output/2026-09-12/trump-is-giving-data-centers-a-pass-to-pollute.json",
+      "published_at_utc": "2026-09-12T16:27:15Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-12/twitch-is-testing-an-ai-stream-coach-that-gives-creators-tips-after-th.png": {
       "buffer_due_at_utc": "2026-09-12T02:15:53.000Z",
       "buffer_mode": "customScheduled",
