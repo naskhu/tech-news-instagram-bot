@@ -83821,6 +83821,25 @@
       "metadata_file": "output/2026-09-13/starcraft-returns-in-2030-as-an-open-world-shooter.json",
       "published_at_utc": "2026-09-12T21:13:03Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-13/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-oc.png": {
+      "buffer_due_at_utc": "2026-09-12T22:10:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa5c065130d0ea1a45ce95d",
+      "caption_file": "output/2026-09-13/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-oc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T22:10:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa5c065130d0ea1a45ce95d",
+          "published_at_utc": "2026-09-12T21:13:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-oc.png",
+      "metadata_file": "output/2026-09-13/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-oc.json",
+      "published_at_utc": "2026-09-12T21:13:09Z",
+      "publisher": "buffer_threads"
     }
   }
 }
