@@ -83873,12 +83873,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/sam-altman-says-openai-going-public-in-2026-would-be-ill-advised.png": {
-      "buffer_due_at_utc": "2026-09-13T00:05:49.000Z",
+      "buffer_due_at_utc": "2026-09-13T00:07:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa5db88e58a7c3583701986",
+      "buffer_post_id": "6aa5db8eeba7bc5677873651",
       "caption_file": "output/2026-09-13/sam-altman-says-openai-going-public-in-2026-would-be-ill-advised.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T00:07:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa5db8eeba7bc5677873651",
+          "published_at_utc": "2026-09-12T23:09:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T00:05:49.000Z",
           "buffer_mode": "customScheduled",
@@ -83888,7 +83894,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/sam-altman-says-openai-going-public-in-2026-would-be-ill-advised.png",
       "metadata_file": "output/2026-09-13/sam-altman-says-openai-going-public-in-2026-would-be-ill-advised.json",
-      "published_at_utc": "2026-09-12T23:08:56Z",
+      "published_at_utc": "2026-09-12T23:09:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/starcraft-returns-in-2030-as-an-open-world-shooter.png": {
