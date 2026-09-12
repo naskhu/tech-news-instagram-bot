@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-09-12T01:13:41.539638+00:00",
+  "run_utc": "2026-09-12T05:52:48.585796+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-09-11T01:13:41.539794+00:00",
-  "eligible_story_count": 224,
+  "cutoff_utc": "2026-09-11T05:52:48.585940+00:00",
+  "eligible_story_count": 216,
   "sources": [
     {
       "source": "TechCrunch",
@@ -20,14 +20,14 @@
         {
           "url": "https://techcrunch.com/latest/",
           "status": 200,
-          "links": 27,
+          "links": 26,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 27,
-      "page_articles": 27,
-      "eligible_new": 1,
+      "page_links": 26,
+      "page_articles": 26,
+      "eligible_new": 0,
       "already_processed": 26,
       "older_than_window": 0,
       "metadata_errors": {}
@@ -55,8 +55,8 @@
       "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 14,
-      "already_processed": 7,
+      "eligible_new": 11,
+      "already_processed": 10,
       "older_than_window": 15,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 17,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -248,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 14,
+      "eligible_new": 15,
       "already_processed": 5,
-      "older_than_window": 95,
+      "older_than_window": 97,
       "metadata_errors": {}
     },
     {
@@ -375,25 +375,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 21,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 29,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
-      "page_articles": 44,
+      "page_articles": 43,
       "eligible_new": 65,
       "already_processed": 0,
-      "older_than_window": 22,
+      "older_than_window": 20,
       "metadata_errors": {
         "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 2
       }
     },
     {
@@ -457,9 +457,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 12,
+      "eligible_new": 10,
       "already_processed": 15,
-      "older_than_window": 36,
+      "older_than_window": 38,
       "metadata_errors": {}
     },
     {
@@ -496,12 +496,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 34,
+      "rss_candidates": 33,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 16,
+      "eligible_new": 15,
       "already_processed": 8,
-      "older_than_window": 29,
+      "older_than_window": 30,
       "metadata_errors": {}
     },
     {
@@ -554,7 +554,7 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 29,
+          "links": 26,
           "error": ""
         },
         {
@@ -565,13 +565,13 @@
         }
       ],
       "rss_candidates": 15,
-      "page_links": 31,
-      "page_articles": 7,
+      "page_links": 28,
+      "page_articles": 2,
       "eligible_new": 9,
       "already_processed": 0,
-      "older_than_window": 10,
+      "older_than_window": 6,
       "metadata_errors": {
-        "http_429": 24
+        "http_429": 26
       }
     },
     {
@@ -637,9 +637,9 @@
       "rss_candidates": 96,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 13,
+      "eligible_new": 12,
       "already_processed": 1,
-      "older_than_window": 96,
+      "older_than_window": 97,
       "metadata_errors": {}
     },
     {

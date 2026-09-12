@@ -1,0 +1,23 @@
+{
+  "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+  "summary": "A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks.",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+  "published_utc": "2026-09-11T20:44:02+00:00",
+  "output_day": "2026-09-12",
+  "date_source": "meta",
+  "generated_utc": "2026-09-12T05:53:50.836751+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-12/lawyer-fined-5k-over-ai-hallucinated-witnesses-in-a-murder-case.png",
+  "caption": "output/2026-09-12/lawyer-fined-5k-over-ai-hallucinated-witnesses-in-a-murder-case.txt"
+}
