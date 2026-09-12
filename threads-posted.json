@@ -83798,12 +83798,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/netflix-is-making-a-diablo-animated-series.png": {
-      "buffer_due_at_utc": "2026-09-12T23:27:59.000Z",
+      "buffer_due_at_utc": "2026-09-12T23:29:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa5db70eba7bc5677873252",
+      "buffer_post_id": "6aa5db76bcabda92e19f9246",
       "caption_file": "output/2026-09-13/netflix-is-making-a-diablo-animated-series.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T23:29:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa5db76bcabda92e19f9246",
+          "published_at_utc": "2026-09-12T23:08:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T23:27:59.000Z",
           "buffer_mode": "customScheduled",
@@ -83813,7 +83819,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/netflix-is-making-a-diablo-animated-series.png",
       "metadata_file": "output/2026-09-13/netflix-is-making-a-diablo-animated-series.json",
-      "published_at_utc": "2026-09-12T23:08:32Z",
+      "published_at_utc": "2026-09-12T23:08:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/openai-s-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026-.png": {
