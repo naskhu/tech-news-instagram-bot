@@ -83285,12 +83285,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/the-white-house-says-truth-social-is-the-most-powerful-and-popular-soc.png": {
-      "buffer_due_at_utc": "2026-09-12T06:52:43.000Z",
+      "buffer_due_at_utc": "2026-09-12T06:54:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa4e9676de2aa21d8b690c9",
+      "buffer_post_id": "6aa4e96dccd84328917dcf88",
       "caption_file": "output/2026-09-12/the-white-house-says-truth-social-is-the-most-powerful-and-popular-soc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T06:54:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa4e96dccd84328917dcf88",
+          "published_at_utc": "2026-09-12T05:55:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T06:52:43.000Z",
           "buffer_mode": "customScheduled",
@@ -83300,7 +83306,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/the-white-house-says-truth-social-is-the-most-powerful-and-popular-soc.png",
       "metadata_file": "output/2026-09-12/the-white-house-says-truth-social-is-the-most-powerful-and-popular-soc.json",
-      "published_at_utc": "2026-09-12T05:55:51Z",
+      "published_at_utc": "2026-09-12T05:55:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/twitch-is-testing-an-ai-stream-coach-that-gives-creators-tips-after-th.png": {
