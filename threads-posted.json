@@ -83796,6 +83796,25 @@
       "metadata_file": "output/2026-09-13/openai-s-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026-.json",
       "published_at_utc": "2026-09-12T21:12:51Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-13/starcraft-returns-in-2030-as-an-open-world-shooter.png": {
+      "buffer_due_at_utc": "2026-09-12T21:51:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa5c059130d0ea1a45ce8f9",
+      "caption_file": "output/2026-09-13/starcraft-returns-in-2030-as-an-open-world-shooter.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T21:51:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa5c059130d0ea1a45ce8f9",
+          "published_at_utc": "2026-09-12T21:12:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/starcraft-returns-in-2030-as-an-open-world-shooter.png",
+      "metadata_file": "output/2026-09-13/starcraft-returns-in-2030-as-an-open-world-shooter.json",
+      "published_at_utc": "2026-09-12T21:12:57Z",
+      "publisher": "buffer_threads"
     }
   }
 }
