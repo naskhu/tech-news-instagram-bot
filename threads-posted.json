@@ -83259,6 +83259,25 @@
       "published_at_utc": "2026-09-11T23:22:05Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-12/tesla-cybercabs-turn-up-in-nyc.png": {
+      "buffer_due_at_utc": "2026-09-12T06:33:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa4e95b232b849fea3fc04f",
+      "caption_file": "output/2026-09-12/tesla-cybercabs-turn-up-in-nyc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T06:33:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa4e95b232b849fea3fc04f",
+          "published_at_utc": "2026-09-12T05:55:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/tesla-cybercabs-turn-up-in-nyc.png",
+      "metadata_file": "output/2026-09-12/tesla-cybercabs-turn-up-in-nyc.json",
+      "published_at_utc": "2026-09-12T05:55:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-12/twitch-is-testing-an-ai-stream-coach-that-gives-creators-tips-after-th.png": {
       "buffer_due_at_utc": "2026-09-12T02:15:53.000Z",
       "buffer_mode": "customScheduled",
