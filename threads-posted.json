@@ -83552,10 +83552,15 @@
     },
     "output/2026-09-12/sylvan-esso-think-you-should-splurge-on-good-quality-yogurt.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aa59e4fbcabda92e19ada9c",
+      "buffer_post_id": "6aa59e5feba7bc5677829459",
       "caption_file": "output/2026-09-12/sylvan-esso-think-you-should-splurge-on-good-quality-yogurt.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa59e5feba7bc5677829459",
+          "published_at_utc": "2026-09-12T18:48:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aa59e4fbcabda92e19ada9c",
@@ -83564,7 +83569,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/sylvan-esso-think-you-should-splurge-on-good-quality-yogurt.png",
       "metadata_file": "output/2026-09-12/sylvan-esso-think-you-should-splurge-on-good-quality-yogurt.json",
-      "published_at_utc": "2026-09-12T18:47:53Z",
+      "published_at_utc": "2026-09-12T18:48:09Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/tesla-cybercabs-turn-up-in-nyc.png": {
