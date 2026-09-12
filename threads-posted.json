@@ -83409,6 +83409,25 @@
       "published_at_utc": "2026-09-12T01:17:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-12/where-to-preorder-the-apple-airpods-5.png": {
+      "buffer_due_at_utc": "2026-09-12T10:55:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa5224dd8dd420a51414b4b",
+      "caption_file": "output/2026-09-12/where-to-preorder-the-apple-airpods-5.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T10:55:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa5224dd8dd420a51414b4b",
+          "published_at_utc": "2026-09-12T09:58:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/where-to-preorder-the-apple-airpods-5.png",
+      "metadata_file": "output/2026-09-12/where-to-preorder-the-apple-airpods-5.json",
+      "published_at_utc": "2026-09-12T09:58:37Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-12/y-combinator-s-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-fron.png": {
       "buffer_due_at_utc": "2026-09-11T22:20:00.000Z",
       "buffer_mode": "customScheduled",
