@@ -83210,12 +83210,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/twitch-is-testing-an-ai-stream-coach-that-gives-creators-tips-after-th.png": {
-      "buffer_due_at_utc": "2026-09-12T02:13:53.000Z",
+      "buffer_due_at_utc": "2026-09-12T02:15:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa4a80807d009223c67a8d0",
+      "buffer_post_id": "6aa4a80d2ac3c81fe88ace6d",
       "caption_file": "output/2026-09-12/twitch-is-testing-an-ai-stream-coach-that-gives-creators-tips-after-th.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T02:15:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa4a80d2ac3c81fe88ace6d",
+          "published_at_utc": "2026-09-12T01:17:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T02:13:53.000Z",
           "buffer_mode": "customScheduled",
@@ -83225,7 +83231,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/twitch-is-testing-an-ai-stream-coach-that-gives-creators-tips-after-th.png",
       "metadata_file": "output/2026-09-12/twitch-is-testing-an-ai-stream-coach-that-gives-creators-tips-after-th.json",
-      "published_at_utc": "2026-09-12T01:16:56Z",
+      "published_at_utc": "2026-09-12T01:17:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/y-combinator-s-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-fron.png": {
