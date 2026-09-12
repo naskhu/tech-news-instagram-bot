@@ -83823,12 +83823,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/openai-s-rogue-ai-tried-to-hack-another-company-in-may.png": {
-      "buffer_due_at_utc": "2026-09-12T23:46:54.000Z",
+      "buffer_due_at_utc": "2026-09-12T23:48:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa5db7c7da3ee968d06c67c",
+      "buffer_post_id": "6aa5db81bcabda92e19f935b",
       "caption_file": "output/2026-09-13/openai-s-rogue-ai-tried-to-hack-another-company-in-may.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T23:48:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa5db81bcabda92e19f935b",
+          "published_at_utc": "2026-09-12T23:08:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T23:46:54.000Z",
           "buffer_mode": "customScheduled",
@@ -83838,7 +83844,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/openai-s-rogue-ai-tried-to-hack-another-company-in-may.png",
       "metadata_file": "output/2026-09-13/openai-s-rogue-ai-tried-to-hack-another-company-in-may.json",
-      "published_at_utc": "2026-09-12T23:08:44Z",
+      "published_at_utc": "2026-09-12T23:08:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/openai-s-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026-.png": {
