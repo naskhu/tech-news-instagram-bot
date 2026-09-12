@@ -83110,12 +83110,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/microsoft-is-finally-adding-a-setting-for-remapping-the-copilot-key.png": {
-      "buffer_due_at_utc": "2026-09-12T01:54:58.000Z",
+      "buffer_due_at_utc": "2026-09-12T01:56:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa4a7fd2ff05a49069bf42d",
+      "buffer_post_id": "6aa4a80307d009223c67a86d",
       "caption_file": "output/2026-09-12/microsoft-is-finally-adding-a-setting-for-remapping-the-copilot-key.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T01:56:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa4a80307d009223c67a86d",
+          "published_at_utc": "2026-09-12T01:16:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T01:54:58.000Z",
           "buffer_mode": "customScheduled",
@@ -83125,7 +83131,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/microsoft-is-finally-adding-a-setting-for-remapping-the-copilot-key.png",
       "metadata_file": "output/2026-09-12/microsoft-is-finally-adding-a-setting-for-remapping-the-copilot-key.json",
-      "published_at_utc": "2026-09-12T01:16:45Z",
+      "published_at_utc": "2026-09-12T01:16:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026-te.png": {
