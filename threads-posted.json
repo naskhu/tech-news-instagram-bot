@@ -83134,6 +83134,25 @@
       "published_at_utc": "2026-09-11T23:21:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-12/laika-s-stop-motion-fantasy-wildwood-looks-so-smooth.png": {
+      "buffer_due_at_utc": "2026-09-12T13:41:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa551e2c689c0dff0c297f6",
+      "caption_file": "output/2026-09-12/laika-s-stop-motion-fantasy-wildwood-looks-so-smooth.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T13:41:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa551e2c689c0dff0c297f6",
+          "published_at_utc": "2026-09-12T13:21:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/laika-s-stop-motion-fantasy-wildwood-looks-so-smooth.png",
+      "metadata_file": "output/2026-09-12/laika-s-stop-motion-fantasy-wildwood-looks-so-smooth.json",
+      "published_at_utc": "2026-09-12T13:21:38Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-12/lawyer-fined-5k-over-ai-hallucinated-witnesses-in-a-murder-case.png": {
       "buffer_due_at_utc": "2026-09-12T05:57:58.000Z",
       "buffer_mode": "customScheduled",
