@@ -83210,12 +83210,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/lg-responds-to-tv-spying-allegations.png": {
-      "buffer_due_at_utc": "2026-09-12T16:46:19.000Z",
+      "buffer_due_at_utc": "2026-09-12T16:48:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa57d4b66679b076f127389",
+      "buffer_post_id": "6aa57d51ef23d0656aea17d9",
       "caption_file": "output/2026-09-12/lg-responds-to-tv-spying-allegations.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T16:48:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa57d51ef23d0656aea17d9",
+          "published_at_utc": "2026-09-12T16:26:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T16:46:19.000Z",
           "buffer_mode": "customScheduled",
@@ -83225,7 +83231,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/lg-responds-to-tv-spying-allegations.png",
       "metadata_file": "output/2026-09-12/lg-responds-to-tv-spying-allegations.json",
-      "published_at_utc": "2026-09-12T16:26:51Z",
+      "published_at_utc": "2026-09-12T16:26:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/matt-mullenweg-returns-as-automattic-ceo-two-days-after-getting-booted.png": {
