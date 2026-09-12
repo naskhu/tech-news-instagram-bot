@@ -83009,6 +83009,25 @@
       "published_at_utc": "2026-09-12T13:21:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-12/anthropic-ceo-outlines-plan-to-pace-the-frontier.png": {
+      "buffer_due_at_utc": "2026-09-12T16:27:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa57d3f66679b076f127210",
+      "caption_file": "output/2026-09-12/anthropic-ceo-outlines-plan-to-pace-the-frontier.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T16:27:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa57d3f66679b076f127210",
+          "published_at_utc": "2026-09-12T16:26:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/anthropic-ceo-outlines-plan-to-pace-the-frontier.png",
+      "metadata_file": "output/2026-09-12/anthropic-ceo-outlines-plan-to-pace-the-frontier.json",
+      "published_at_utc": "2026-09-12T16:26:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-12/anthropic-spent-this-week-in-hot-water-over-cybersecurity.png": {
       "buffer_due_at_utc": "2026-09-12T10:00:46.000Z",
       "buffer_mode": "customScheduled",
