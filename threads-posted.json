@@ -83036,10 +83036,15 @@
     },
     "output/2026-09-12/anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aa59df0130d0ea1a45a4d3d",
+      "buffer_post_id": "6aa59dffeba7bc5677828e27",
       "caption_file": "output/2026-09-12/anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa59dffeba7bc5677828e27",
+          "published_at_utc": "2026-09-12T18:46:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aa59df0130d0ea1a45a4d3d",
@@ -83048,7 +83053,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai.png",
       "metadata_file": "output/2026-09-12/anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai.json",
-      "published_at_utc": "2026-09-12T18:46:17Z",
+      "published_at_utc": "2026-09-12T18:46:33Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/anthropic-spent-this-week-in-hot-water-over-cybersecurity.png": {
