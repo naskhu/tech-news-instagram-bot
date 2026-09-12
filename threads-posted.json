@@ -82985,12 +82985,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/anime-reaction-youtubers-are-at-war-with-copyright-enforcers.png": {
-      "buffer_due_at_utc": "2026-09-12T13:22:10.000Z",
+      "buffer_due_at_utc": "2026-09-12T13:24:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa551d63da5f871532ec1a4",
+      "buffer_post_id": "6aa551dbef23d0656ae57229",
       "caption_file": "output/2026-09-12/anime-reaction-youtubers-are-at-war-with-copyright-enforcers.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T13:24:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa551dbef23d0656ae57229",
+          "published_at_utc": "2026-09-12T13:21:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T13:22:10.000Z",
           "buffer_mode": "customScheduled",
@@ -83000,7 +83006,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/anime-reaction-youtubers-are-at-war-with-copyright-enforcers.png",
       "metadata_file": "output/2026-09-12/anime-reaction-youtubers-are-at-war-with-copyright-enforcers.json",
-      "published_at_utc": "2026-09-12T13:21:26Z",
+      "published_at_utc": "2026-09-12T13:21:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/anthropic-spent-this-week-in-hot-water-over-cybersecurity.png": {
