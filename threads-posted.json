@@ -82985,12 +82985,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/anthropic-spent-this-week-in-hot-water-over-cybersecurity.png": {
-      "buffer_due_at_utc": "2026-09-12T09:58:46.000Z",
+      "buffer_due_at_utc": "2026-09-12T10:00:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa5222ad8d9c38b6786e31c",
+      "buffer_post_id": "6aa522307eb9e7595bc96649",
       "caption_file": "output/2026-09-12/anthropic-spent-this-week-in-hot-water-over-cybersecurity.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T10:00:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa522307eb9e7595bc96649",
+          "published_at_utc": "2026-09-12T09:58:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T09:58:46.000Z",
           "buffer_mode": "customScheduled",
@@ -83000,7 +83006,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/anthropic-spent-this-week-in-hot-water-over-cybersecurity.png",
       "metadata_file": "output/2026-09-12/anthropic-spent-this-week-in-hot-water-over-cybersecurity.json",
-      "published_at_utc": "2026-09-12T09:58:02Z",
+      "published_at_utc": "2026-09-12T09:58:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-we.png": {
