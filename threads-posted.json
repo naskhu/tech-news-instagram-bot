@@ -83434,6 +83434,25 @@
       "published_at_utc": "2026-09-11T21:20:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-12/revolut-confirms-customer-data-breach-through-fake-government-requests.png": {
+      "buffer_due_at_utc": "2026-09-12T17:05:14.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa57d56ef23d0656aea1840",
+      "caption_file": "output/2026-09-12/revolut-confirms-customer-data-breach-through-fake-government-requests.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T17:05:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa57d56ef23d0656aea1840",
+          "published_at_utc": "2026-09-12T16:27:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/revolut-confirms-customer-data-breach-through-fake-government-requests.png",
+      "metadata_file": "output/2026-09-12/revolut-confirms-customer-data-breach-through-fake-government-requests.json",
+      "published_at_utc": "2026-09-12T16:27:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-12/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outsid.png": {
       "buffer_due_at_utc": "2026-09-12T00:20:53.000Z",
       "buffer_mode": "customScheduled",
