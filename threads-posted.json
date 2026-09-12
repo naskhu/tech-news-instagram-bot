@@ -83234,6 +83234,25 @@
       "published_at_utc": "2026-09-12T01:16:51Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-12/microsoft-s-head-of-comms-is-leaving-after-almost-20-years.png": {
+      "buffer_due_at_utc": "2026-09-12T10:36:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa522417eb9e7595bc96703",
+      "caption_file": "output/2026-09-12/microsoft-s-head-of-comms-is-leaving-after-almost-20-years.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-12T10:36:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa522417eb9e7595bc96703",
+          "published_at_utc": "2026-09-12T09:58:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/microsoft-s-head-of-comms-is-leaving-after-almost-20-years.png",
+      "metadata_file": "output/2026-09-12/microsoft-s-head-of-comms-is-leaving-after-almost-20-years.json",
+      "published_at_utc": "2026-09-12T09:58:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-12/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026-te.png": {
       "buffer_due_at_utc": "2026-09-11T21:42:10.000Z",
       "buffer_mode": "customScheduled",
