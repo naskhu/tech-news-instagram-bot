@@ -83335,12 +83335,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/openai-just-wants-to-win.png": {
-      "buffer_due_at_utc": "2026-09-12T14:00:00.000Z",
+      "buffer_due_at_utc": "2026-09-12T14:02:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa551ed66679b076f0de240",
+      "buffer_post_id": "6aa551f366679b076f0de2ba",
       "caption_file": "output/2026-09-12/openai-just-wants-to-win.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-12T14:02:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa551f366679b076f0de2ba",
+          "published_at_utc": "2026-09-12T13:21:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-12T14:00:00.000Z",
           "buffer_mode": "customScheduled",
@@ -83350,7 +83356,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-12/openai-just-wants-to-win.png",
       "metadata_file": "output/2026-09-12/openai-just-wants-to-win.json",
-      "published_at_utc": "2026-09-12T13:21:50Z",
+      "published_at_utc": "2026-09-12T13:21:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-12/openai-s-feud-with-mathematicians-is-only-escalating-techcrunch.png": {
