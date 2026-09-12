@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI’s rogue AI tried to hack another company in May",
+  "summary": "The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+  "published_utc": "2026-09-12T21:41:36+00:00",
+  "output_day": "2026-09-13",
+  "date_source": "meta",
+  "generated_utc": "2026-09-12T23:06:39.730079+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-13/openai-s-rogue-ai-tried-to-hack-another-company-in-may.png",
+  "caption": "output/2026-09-13/openai-s-rogue-ai-tried-to-hack-another-company-in-may.txt"
+}
