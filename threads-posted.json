@@ -84248,12 +84248,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun.png": {
-      "buffer_due_at_utc": "2026-09-13T16:21:19.000Z",
+      "buffer_due_at_utc": "2026-09-13T16:23:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa6c48c1f8cf810a116916e",
+      "buffer_post_id": "6aa6c491eba7bc56779ae86d",
       "caption_file": "output/2026-09-13/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T16:23:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa6c491eba7bc56779ae86d",
+          "published_at_utc": "2026-09-13T15:43:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T16:21:19.000Z",
           "buffer_mode": "customScheduled",
@@ -84263,7 +84269,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun.png",
       "metadata_file": "output/2026-09-13/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun.json",
-      "published_at_utc": "2026-09-13T15:43:08Z",
+      "published_at_utc": "2026-09-13T15:43:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/with-a-better-understanding-of-physics-we-could-predict-volcanic-erupt.png": {
