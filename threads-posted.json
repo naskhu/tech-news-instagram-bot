@@ -84511,12 +84511,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/tesla-announces-a-roadster-event-for-october-1st.png": {
-      "buffer_due_at_utc": "2026-09-13T23:34:07.000Z",
+      "buffer_due_at_utc": "2026-09-13T23:36:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa729fc57098b2133854523",
+      "buffer_post_id": "6aa72a02f7b1958d5cf4d4ab",
       "caption_file": "output/2026-09-14/tesla-announces-a-roadster-event-for-october-1st.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T23:36:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa72a02f7b1958d5cf4d4ab",
+          "published_at_utc": "2026-09-13T22:56:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T23:34:07.000Z",
           "buffer_mode": "customScheduled",
@@ -84526,7 +84532,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/tesla-announces-a-roadster-event-for-october-1st.png",
       "metadata_file": "output/2026-09-14/tesla-announces-a-roadster-event-for-october-1st.json",
-      "published_at_utc": "2026-09-13T22:55:56Z",
+      "published_at_utc": "2026-09-13T22:56:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/the-9-buzziest-startups-from-y-combinator-s-latest-demo-day-according-.png": {
