@@ -84123,12 +84123,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/you-don-t-have-a-right-to-safe-drinking-water-trump-appointed-judge-ru.png": {
-      "buffer_due_at_utc": "2026-09-13T07:15:04.000Z",
+      "buffer_due_at_utc": "2026-09-13T07:17:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa6401ee58a7c3583775d6c",
+      "buffer_post_id": "6aa64024f7b1958d5cdf663a",
       "caption_file": "output/2026-09-13/you-don-t-have-a-right-to-safe-drinking-water-trump-appointed-judge-ru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T07:17:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa64024f7b1958d5cdf663a",
+          "published_at_utc": "2026-09-13T06:18:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T07:15:04.000Z",
           "buffer_mode": "customScheduled",
@@ -84138,7 +84144,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/you-don-t-have-a-right-to-safe-drinking-water-trump-appointed-judge-ru.png",
       "metadata_file": "output/2026-09-13/you-don-t-have-a-right-to-safe-drinking-water-trump-appointed-judge-ru.json",
-      "published_at_utc": "2026-09-13T06:18:07Z",
+      "published_at_utc": "2026-09-13T06:18:12Z",
       "publisher": "buffer_threads"
     }
   }
