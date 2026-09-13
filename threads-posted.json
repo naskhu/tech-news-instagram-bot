@@ -83873,12 +83873,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/i-m-really-terrified-a-mathematician-grapples-with-ai-s-recent-breakth.png": {
-      "buffer_due_at_utc": "2026-09-13T06:37:14.000Z",
+      "buffer_due_at_utc": "2026-09-13T06:39:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa64009f7b1958d5cdf651a",
+      "buffer_post_id": "6aa6400e66679b076f20ec44",
       "caption_file": "output/2026-09-13/i-m-really-terrified-a-mathematician-grapples-with-ai-s-recent-breakth.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T06:39:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa6400e66679b076f20ec44",
+          "published_at_utc": "2026-09-13T06:17:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T06:37:14.000Z",
           "buffer_mode": "customScheduled",
@@ -83888,7 +83894,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/i-m-really-terrified-a-mathematician-grapples-with-ai-s-recent-breakth.png",
       "metadata_file": "output/2026-09-13/i-m-really-terrified-a-mathematician-grapples-with-ai-s-recent-breakth.json",
-      "published_at_utc": "2026-09-13T06:17:45Z",
+      "published_at_utc": "2026-09-13T06:17:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/i-spent-4-000-on-a-robot-dog-from-china.png": {
