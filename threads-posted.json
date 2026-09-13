@@ -83923,12 +83923,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/meta-pulls-invasive-ai-prompts-after-mother-reveals-feature-scraping-f.png": {
-      "buffer_due_at_utc": "2026-09-13T06:56:09.000Z",
+      "buffer_due_at_utc": "2026-09-13T06:58:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa64013f7b1958d5cdf6598",
+      "buffer_post_id": "6aa64019e58a7c3583775cee",
       "caption_file": "output/2026-09-13/meta-pulls-invasive-ai-prompts-after-mother-reveals-feature-scraping-f.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T06:58:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa64019e58a7c3583775cee",
+          "published_at_utc": "2026-09-13T06:18:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T06:56:09.000Z",
           "buffer_mode": "customScheduled",
@@ -83938,7 +83944,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/meta-pulls-invasive-ai-prompts-after-mother-reveals-feature-scraping-f.png",
       "metadata_file": "output/2026-09-13/meta-pulls-invasive-ai-prompts-after-mother-reveals-feature-scraping-f.json",
-      "published_at_utc": "2026-09-13T06:17:56Z",
+      "published_at_utc": "2026-09-13T06:18:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/netflix-is-making-a-diablo-animated-series.png": {
