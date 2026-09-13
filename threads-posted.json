@@ -83773,12 +83773,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/blizzcon-2026-new-starcraft-shooter-diablo-5-world-of-warcraft-forever.png": {
-      "buffer_due_at_utc": "2026-09-13T06:18:19.000Z",
+      "buffer_due_at_utc": "2026-09-13T06:20:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa63ffebcabda92e1a6c774",
+      "buffer_post_id": "6aa64004f7b1958d5cdf64ec",
       "caption_file": "output/2026-09-13/blizzcon-2026-new-starcraft-shooter-diablo-5-world-of-warcraft-forever.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T06:20:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa64004f7b1958d5cdf64ec",
+          "published_at_utc": "2026-09-13T06:17:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T06:18:19.000Z",
           "buffer_mode": "customScheduled",
@@ -83788,7 +83794,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/blizzcon-2026-new-starcraft-shooter-diablo-5-world-of-warcraft-forever.png",
       "metadata_file": "output/2026-09-13/blizzcon-2026-new-starcraft-shooter-diablo-5-world-of-warcraft-forever.json",
-      "published_at_utc": "2026-09-13T06:17:34Z",
+      "published_at_utc": "2026-09-13T06:17:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/branch-gave-its-terrific-office-chair-a-gaming-makeover-and-i-am-all-f.png": {
