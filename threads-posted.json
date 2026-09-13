@@ -84198,12 +84198,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/with-a-better-understanding-of-physics-we-could-predict-volcanic-erupt.png": {
-      "buffer_due_at_utc": "2026-09-13T12:59:29.000Z",
+      "buffer_due_at_utc": "2026-09-13T13:01:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa690dc66679b076f27b222",
+      "buffer_post_id": "6aa690e27da3ee968d152a32",
       "caption_file": "output/2026-09-13/with-a-better-understanding-of-physics-we-could-predict-volcanic-erupt.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T13:01:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa690e27da3ee968d152a32",
+          "published_at_utc": "2026-09-13T12:02:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T12:59:29.000Z",
           "buffer_mode": "customScheduled",
@@ -84213,7 +84219,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/with-a-better-understanding-of-physics-we-could-predict-volcanic-erupt.png",
       "metadata_file": "output/2026-09-13/with-a-better-understanding-of-physics-we-could-predict-volcanic-erupt.json",
-      "published_at_utc": "2026-09-13T12:02:36Z",
+      "published_at_utc": "2026-09-13T12:02:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/you-don-t-have-a-right-to-safe-drinking-water-trump-appointed-judge-ru.png": {
