@@ -84021,6 +84021,25 @@
       "metadata_file": "output/2026-09-13/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-oc.json",
       "published_at_utc": "2026-09-12T21:13:14Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-13/the-anti-woke-right-can-t-figure-out-how-to-stop-grand-theft-auto-vi.png": {
+      "buffer_due_at_utc": "2026-09-13T02:05:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa5f7acbcabda92e1a1a5fe",
+      "caption_file": "output/2026-09-13/the-anti-woke-right-can-t-figure-out-how-to-stop-grand-theft-auto-vi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-13T02:05:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa5f7acbcabda92e1a1a5fe",
+          "published_at_utc": "2026-09-13T01:09:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/the-anti-woke-right-can-t-figure-out-how-to-stop-grand-theft-auto-vi.png",
+      "metadata_file": "output/2026-09-13/the-anti-woke-right-can-t-figure-out-how-to-stop-grand-theft-auto-vi.json",
+      "published_at_utc": "2026-09-13T01:09:00Z",
+      "publisher": "buffer_threads"
     }
   }
 }
