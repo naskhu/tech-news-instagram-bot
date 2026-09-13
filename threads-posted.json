@@ -84461,12 +84461,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/is-it-time-for-ai-companies-to-press-pause.png": {
-      "buffer_due_at_utc": "2026-09-13T23:15:12.000Z",
+      "buffer_due_at_utc": "2026-09-13T23:17:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa729f1f7b1958d5cf4d414",
+      "buffer_post_id": "6aa729f666679b076f366bb5",
       "caption_file": "output/2026-09-14/is-it-time-for-ai-companies-to-press-pause.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T23:17:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa729f666679b076f366bb5",
+          "published_at_utc": "2026-09-13T22:55:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T23:15:12.000Z",
           "buffer_mode": "customScheduled",
@@ -84476,7 +84482,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/is-it-time-for-ai-companies-to-press-pause.png",
       "metadata_file": "output/2026-09-14/is-it-time-for-ai-companies-to-press-pause.json",
-      "published_at_utc": "2026-09-13T22:55:45Z",
+      "published_at_utc": "2026-09-13T22:55:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock-techcrunch.png": {
