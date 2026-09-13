@@ -1,0 +1,23 @@
+{
+  "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+  "summary": "Meta failed to catch roughly 350 AI child abuse ads , according to new research this week, including some that included images of real kids. Cybercriminal group ShinyHunters used Claude in practically every stage of its hacking and extortion campaigns.",
+  "source": "Wired",
+  "url": "https://wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere",
+  "published_utc": "2026-09-12T10:30:00+00:00",
+  "output_day": "2026-09-13",
+  "date_source": "meta",
+  "generated_utc": "2026-09-13T01:07:00.806433+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6aa46eadc13527261cbf310c/191:100/w_1280,c_limit/SecurityRoundUp_From%20State-Sponsored%20Hacking%20to%20Bioweapons,%20Claude%20Abuse%20is%20Now%20Everywhere_v1.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-09-13/from-hacks-to-bioweapons-claude-misuse-is-now-everywhere.png",
+  "caption": "output/2026-09-13/from-hacks-to-bioweapons-claude-misuse-is-now-everywhere.txt"
+}
