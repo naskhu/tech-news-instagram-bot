@@ -84049,10 +84049,15 @@
     },
     "output/2026-09-13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards-techcrunc.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aa6eaf0eba7bc56779ec240",
+      "buffer_post_id": "6aa6eb011f8cf810a11a6465",
       "caption_file": "output/2026-09-13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards-techcrunc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aa6eb011f8cf810a11a6465",
+          "published_at_utc": "2026-09-13T18:27:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aa6eaf0eba7bc56779ec240",
@@ -84061,7 +84066,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards-techcrunc.png",
       "metadata_file": "output/2026-09-13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards-techcrunc.json",
-      "published_at_utc": "2026-09-13T18:27:06Z",
+      "published_at_utc": "2026-09-13T18:27:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-13/openai-s-rogue-ai-tried-to-hack-another-company-in-may.png": {
