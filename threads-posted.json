@@ -84510,6 +84510,25 @@
       "published_at_utc": "2026-09-13T21:00:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-14/tesla-announces-a-roadster-event-for-october-1st.png": {
+      "buffer_due_at_utc": "2026-09-13T23:34:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa729fc57098b2133854523",
+      "caption_file": "output/2026-09-14/tesla-announces-a-roadster-event-for-october-1st.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-13T23:34:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa729fc57098b2133854523",
+          "published_at_utc": "2026-09-13T22:55:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/tesla-announces-a-roadster-event-for-october-1st.png",
+      "metadata_file": "output/2026-09-14/tesla-announces-a-roadster-event-for-october-1st.json",
+      "published_at_utc": "2026-09-13T22:55:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-14/the-9-buzziest-startups-from-y-combinator-s-latest-demo-day-according-.png": {
       "buffer_due_at_utc": "2026-09-13T21:22:10.000Z",
       "buffer_mode": "customScheduled",
