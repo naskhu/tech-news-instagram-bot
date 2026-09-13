@@ -84511,12 +84511,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/what-s-behind-the-ai-industry-s-latest-warnings-of-doom-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-13T21:58:00.000Z",
+      "buffer_due_at_utc": "2026-09-13T22:00:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa70f1066679b076f3447c9",
+      "buffer_post_id": "6aa70f16f7b1958d5cf2bd26",
       "caption_file": "output/2026-09-14/what-s-behind-the-ai-industry-s-latest-warnings-of-doom-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-13T22:00:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa70f16f7b1958d5cf2bd26",
+          "published_at_utc": "2026-09-13T21:01:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-13T21:58:00.000Z",
           "buffer_mode": "customScheduled",
@@ -84526,7 +84532,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/what-s-behind-the-ai-industry-s-latest-warnings-of-doom-techcrunch.png",
       "metadata_file": "output/2026-09-14/what-s-behind-the-ai-industry-s-latest-warnings-of-doom-techcrunch.json",
-      "published_at_utc": "2026-09-13T21:01:05Z",
+      "published_at_utc": "2026-09-13T21:01:10Z",
       "publisher": "buffer_threads"
     }
   }
