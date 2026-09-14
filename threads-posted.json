@@ -84685,6 +84685,25 @@
       "published_at_utc": "2026-09-13T22:56:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-14/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-.png": {
+      "buffer_due_at_utc": "2026-09-14T01:38:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa742caf7a3dd26517ec504",
+      "caption_file": "output/2026-09-14/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-14T01:38:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa742caf7a3dd26517ec504",
+          "published_at_utc": "2026-09-14T00:41:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-.png",
+      "metadata_file": "output/2026-09-14/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-.json",
+      "published_at_utc": "2026-09-14T00:41:46Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-14/what-s-behind-the-ai-industry-s-latest-warnings-of-doom-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-13T22:00:00.000Z",
       "buffer_mode": "customScheduled",
