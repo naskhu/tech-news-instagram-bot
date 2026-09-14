@@ -84486,12 +84486,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/apple-watch-series-12-vs-apple-watch-se-3-compare-apple-s-new-watch-an.png": {
-      "buffer_due_at_utc": "2026-09-14T05:28:26.000Z",
+      "buffer_due_at_utc": "2026-09-14T05:30:26.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa785ce95d6303fe832cc1b",
+      "buffer_post_id": "6aa785d4ea4032c014a03d8a",
       "caption_file": "output/2026-09-14/apple-watch-series-12-vs-apple-watch-se-3-compare-apple-s-new-watch-an.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-14T05:30:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa785d4ea4032c014a03d8a",
+          "published_at_utc": "2026-09-14T05:27:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-14T05:28:26.000Z",
           "buffer_mode": "customScheduled",
@@ -84501,7 +84507,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/apple-watch-series-12-vs-apple-watch-se-3-compare-apple-s-new-watch-an.png",
       "metadata_file": "output/2026-09-14/apple-watch-series-12-vs-apple-watch-se-3-compare-apple-s-new-watch-an.json",
-      "published_at_utc": "2026-09-14T05:27:42Z",
+      "published_at_utc": "2026-09-14T05:27:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-ev.png": {
