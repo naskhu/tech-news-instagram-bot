@@ -84686,12 +84686,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-ro.png": {
-      "buffer_due_at_utc": "2026-09-14T17:09:22.000Z",
+      "buffer_due_at_utc": "2026-09-14T17:11:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa825b5dc3175c9e1dca605",
+      "buffer_post_id": "6aa825bb27cd7c9bed59c759",
       "caption_file": "output/2026-09-14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-ro.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-14T17:11:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa825bb27cd7c9bed59c759",
+          "published_at_utc": "2026-09-14T16:50:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-14T17:09:22.000Z",
           "buffer_mode": "customScheduled",
@@ -84701,7 +84707,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-ro.png",
       "metadata_file": "output/2026-09-14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-ro.json",
-      "published_at_utc": "2026-09-14T16:49:57Z",
+      "published_at_utc": "2026-09-14T16:50:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/overwatch-season-5-will-add-a-new-kind-of-support-try-to-solve-2-roste.png": {
