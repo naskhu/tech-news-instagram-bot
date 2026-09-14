@@ -85036,12 +85036,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidia-.png": {
-      "buffer_due_at_utc": "2026-09-14T20:47:23.000Z",
+      "buffer_due_at_utc": "2026-09-14T20:49:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa85d2f01c791e029386ec6",
+      "buffer_post_id": "6aa85d362029c3441821156c",
       "caption_file": "output/2026-09-15/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidia-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-14T20:49:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa85d362029c3441821156c",
+          "published_at_utc": "2026-09-14T20:46:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-14T20:47:23.000Z",
           "buffer_mode": "customScheduled",
@@ -85051,7 +85057,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidia-.png",
       "metadata_file": "output/2026-09-15/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidia-.json",
-      "published_at_utc": "2026-09-14T20:46:39Z",
+      "published_at_utc": "2026-09-14T20:46:46Z",
       "publisher": "buffer_threads"
     }
   }
