@@ -85086,12 +85086,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-thems.png": {
-      "buffer_due_at_utc": "2026-09-14T21:25:13.000Z",
+      "buffer_due_at_utc": "2026-09-14T21:27:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa85d4822b0b943e16762e3",
+      "buffer_post_id": "6aa85d4e36516e74e67bc8bd",
       "caption_file": "output/2026-09-15/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-thems.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-14T21:27:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa85d4e36516e74e67bc8bd",
+          "published_at_utc": "2026-09-14T20:47:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-14T21:25:13.000Z",
           "buffer_mode": "customScheduled",
@@ -85101,7 +85107,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-thems.png",
       "metadata_file": "output/2026-09-15/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-thems.json",
-      "published_at_utc": "2026-09-14T20:47:04Z",
+      "published_at_utc": "2026-09-14T20:47:10Z",
       "publisher": "buffer_threads"
     }
   }
