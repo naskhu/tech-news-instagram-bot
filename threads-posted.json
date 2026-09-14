@@ -84511,12 +84511,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/china-ai-ceos-are-fear-mongering.png": {
-      "buffer_due_at_utc": "2026-09-14T11:01:22.000Z",
+      "buffer_due_at_utc": "2026-09-14T11:03:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa7d3d6bf55609be96b825c",
+      "buffer_post_id": "6aa7d3dc68449c46bd37c72d",
       "caption_file": "output/2026-09-14/china-ai-ceos-are-fear-mongering.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-14T11:03:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa7d3dc68449c46bd37c72d",
+          "published_at_utc": "2026-09-14T11:00:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-14T11:01:22.000Z",
           "buffer_mode": "customScheduled",
@@ -84526,7 +84532,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/china-ai-ceos-are-fear-mongering.png",
       "metadata_file": "output/2026-09-14/china-ai-ceos-are-fear-mongering.json",
-      "published_at_utc": "2026-09-14T11:00:38Z",
+      "published_at_utc": "2026-09-14T11:00:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-ev.png": {
