@@ -84685,6 +84685,25 @@
       "published_at_utc": "2026-09-14T00:41:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-14/sam-altman-let-s-slow-down.png": {
+      "buffer_due_at_utc": "2026-09-14T11:39:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa7d3ef68449c46bd37cc0e",
+      "caption_file": "output/2026-09-14/sam-altman-let-s-slow-down.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-14T11:39:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa7d3ef68449c46bd37cc0e",
+          "published_at_utc": "2026-09-14T11:01:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/sam-altman-let-s-slow-down.png",
+      "metadata_file": "output/2026-09-14/sam-altman-let-s-slow-down.json",
+      "published_at_utc": "2026-09-14T11:01:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-14/steve-ballmer-won-t-fight-the-nba-s-penalties.png": {
       "buffer_due_at_utc": "2026-09-14T06:08:16.000Z",
       "buffer_mode": "customScheduled",
