@@ -84460,6 +84460,25 @@
       "published_at_utc": "2026-09-14T00:41:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-14/apple-s-new-phones-are-here.png": {
+      "buffer_due_at_utc": "2026-09-14T01:00:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa742a8ea4032c0149a5b1b",
+      "caption_file": "output/2026-09-14/apple-s-new-phones-are-here.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-14T01:00:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa742a8ea4032c0149a5b1b",
+          "published_at_utc": "2026-09-14T00:41:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/apple-s-new-phones-are-here.png",
+      "metadata_file": "output/2026-09-14/apple-s-new-phones-are-here.json",
+      "published_at_utc": "2026-09-14T00:41:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-14/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-ev.png": {
       "buffer_due_at_utc": "2026-09-13T22:58:17.000Z",
       "buffer_mode": "customScheduled",
