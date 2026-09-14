@@ -84811,12 +84811,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/yes-the-iphone-duo-is-a-first-generation-phone-that-s-why-you-should-g.png": {
-      "buffer_due_at_utc": "2026-09-14T06:25:11.000Z",
+      "buffer_due_at_utc": "2026-09-14T06:27:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa785f038c77459a9981ad9",
+      "buffer_post_id": "6aa785f6328928f539598fc4",
       "caption_file": "output/2026-09-14/yes-the-iphone-duo-is-a-first-generation-phone-that-s-why-you-should-g.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-14T06:27:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa785f6328928f539598fc4",
+          "published_at_utc": "2026-09-14T05:28:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-14T06:25:11.000Z",
           "buffer_mode": "customScheduled",
@@ -84826,7 +84832,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/yes-the-iphone-duo-is-a-first-generation-phone-that-s-why-you-should-g.png",
       "metadata_file": "output/2026-09-14/yes-the-iphone-duo-is-a-first-generation-phone-that-s-why-you-should-g.json",
-      "published_at_utc": "2026-09-14T05:28:16Z",
+      "published_at_utc": "2026-09-14T05:28:22Z",
       "publisher": "buffer_threads"
     }
   }
