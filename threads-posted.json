@@ -85084,6 +85084,25 @@
       "metadata_file": "output/2026-09-15/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips-techcrun.json",
       "published_at_utc": "2026-09-14T20:46:58Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-15/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-thems.png": {
+      "buffer_due_at_utc": "2026-09-14T21:25:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa85d4822b0b943e16762e3",
+      "caption_file": "output/2026-09-15/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-thems.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-14T21:25:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa85d4822b0b943e16762e3",
+          "published_at_utc": "2026-09-14T20:47:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-thems.png",
+      "metadata_file": "output/2026-09-15/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-thems.json",
+      "published_at_utc": "2026-09-14T20:47:04Z",
+      "publisher": "buffer_threads"
     }
   }
 }
