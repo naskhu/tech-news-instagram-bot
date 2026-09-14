@@ -84661,12 +84661,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/microsoft-s-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or.png": {
-      "buffer_due_at_utc": "2026-09-14T16:50:27.000Z",
+      "buffer_due_at_utc": "2026-09-14T16:52:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa825a7ea5641802187577f",
+      "buffer_post_id": "6aa825aedc3175c9e1dca58c",
       "caption_file": "output/2026-09-14/microsoft-s-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-14T16:52:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa825aedc3175c9e1dca58c",
+          "published_at_utc": "2026-09-14T16:49:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-14T16:50:27.000Z",
           "buffer_mode": "customScheduled",
@@ -84676,7 +84682,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/microsoft-s-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or.png",
       "metadata_file": "output/2026-09-14/microsoft-s-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or.json",
-      "published_at_utc": "2026-09-14T16:49:44Z",
+      "published_at_utc": "2026-09-14T16:49:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-14/overwatch-season-5-will-add-a-new-kind-of-support-try-to-solve-2-roste.png": {
