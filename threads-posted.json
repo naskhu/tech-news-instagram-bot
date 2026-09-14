@@ -84785,6 +84785,25 @@
       "published_at_utc": "2026-09-13T21:00:47Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-14/the-first-phone-with-a-trio-of-200-megapixel-cameras.png": {
+      "buffer_due_at_utc": "2026-09-14T11:58:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa7d3fb8681f23ec81d4116",
+      "caption_file": "output/2026-09-14/the-first-phone-with-a-trio-of-200-megapixel-cameras.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-14T11:58:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa7d3fb8681f23ec81d4116",
+          "published_at_utc": "2026-09-14T11:01:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-14/the-first-phone-with-a-trio-of-200-megapixel-cameras.png",
+      "metadata_file": "output/2026-09-14/the-first-phone-with-a-trio-of-200-megapixel-cameras.json",
+      "published_at_utc": "2026-09-14T11:01:15Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-14/the-nsa-is-reorganizing-with-an-increased-focus-on-ai-china-and-cybers.png": {
       "buffer_due_at_utc": "2026-09-13T21:41:05.000Z",
       "buffer_mode": "customScheduled",
