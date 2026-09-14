@@ -85061,12 +85061,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips-techcrun.png": {
-      "buffer_due_at_utc": "2026-09-14T21:06:18.000Z",
+      "buffer_due_at_utc": "2026-09-14T21:08:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa85d3c01c791e02938705c",
+      "buffer_post_id": "6aa85d4222b0b943e167626f",
       "caption_file": "output/2026-09-15/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips-techcrun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-14T21:08:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa85d4222b0b943e167626f",
+          "published_at_utc": "2026-09-14T20:46:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-14T21:06:18.000Z",
           "buffer_mode": "customScheduled",
@@ -85076,7 +85082,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips-techcrun.png",
       "metadata_file": "output/2026-09-15/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips-techcrun.json",
-      "published_at_utc": "2026-09-14T20:46:52Z",
+      "published_at_utc": "2026-09-14T20:46:58Z",
       "publisher": "buffer_threads"
     }
   }
