@@ -85386,12 +85386,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/salesforce-and-nvidia-s-new-reasoning-model-is-everything-the-ai-labs-.png": {
-      "buffer_due_at_utc": "2026-09-15T13:43:59.000Z",
+      "buffer_due_at_utc": "2026-09-15T13:45:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa93e4cab70b126e58648ec",
+      "buffer_post_id": "6aa93e52947833e10e95a415",
       "caption_file": "output/2026-09-15/salesforce-and-nvidia-s-new-reasoning-model-is-everything-the-ai-labs-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-15T13:45:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa93e52947833e10e95a415",
+          "published_at_utc": "2026-09-15T12:47:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-15T13:43:59.000Z",
           "buffer_mode": "customScheduled",
@@ -85401,7 +85407,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/salesforce-and-nvidia-s-new-reasoning-model-is-everything-the-ai-labs-.png",
       "metadata_file": "output/2026-09-15/salesforce-and-nvidia-s-new-reasoning-model-is-everything-the-ai-labs-.json",
-      "published_at_utc": "2026-09-15T12:47:09Z",
+      "published_at_utc": "2026-09-15T12:47:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platfor.png": {
