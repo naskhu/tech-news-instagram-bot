@@ -85685,6 +85685,25 @@
       "published_at_utc": "2026-09-15T20:29:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-16/nitter-and-xcancel-are-dead-again-after-x-s-latest-legal-actions-techc.png": {
+      "buffer_due_at_utc": "2026-09-15T23:32:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa9d11a501861120db03212",
+      "caption_file": "output/2026-09-16/nitter-and-xcancel-are-dead-again-after-x-s-latest-legal-actions-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-15T23:32:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9d11a501861120db03212",
+          "published_at_utc": "2026-09-15T23:13:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/nitter-and-xcancel-are-dead-again-after-x-s-latest-legal-actions-techc.png",
+      "metadata_file": "output/2026-09-16/nitter-and-xcancel-are-dead-again-after-x-s-latest-legal-actions-techc.json",
+      "published_at_utc": "2026-09-15T23:13:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.png": {
       "buffer_due_at_utc": "2026-09-15T20:50:47.000Z",
       "buffer_mode": "customScheduled",
