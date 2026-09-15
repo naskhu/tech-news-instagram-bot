@@ -85361,12 +85361,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/popsockets-ultra-thin-low-pro-grip-is-now-available-as-an-iphone-case.png": {
-      "buffer_due_at_utc": "2026-09-15T13:25:04.000Z",
+      "buffer_due_at_utc": "2026-09-15T13:27:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa93e3eab70b126e58647f4",
+      "buffer_post_id": "6aa93e44f278c266f1d5ea3a",
       "caption_file": "output/2026-09-15/popsockets-ultra-thin-low-pro-grip-is-now-available-as-an-iphone-case.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-15T13:27:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa93e44f278c266f1d5ea3a",
+          "published_at_utc": "2026-09-15T12:47:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-15T13:25:04.000Z",
           "buffer_mode": "customScheduled",
@@ -85376,7 +85382,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/popsockets-ultra-thin-low-pro-grip-is-now-available-as-an-iphone-case.png",
       "metadata_file": "output/2026-09-15/popsockets-ultra-thin-low-pro-grip-is-now-available-as-an-iphone-case.json",
-      "published_at_utc": "2026-09-15T12:46:54Z",
+      "published_at_utc": "2026-09-15T12:47:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platfor.png": {
