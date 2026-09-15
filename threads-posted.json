@@ -85661,12 +85661,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.png": {
-      "buffer_due_at_utc": "2026-09-15T20:48:47.000Z",
+      "buffer_due_at_utc": "2026-09-15T20:50:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa9aaa01ce3c3fe00cd948c",
+      "buffer_post_id": "6aa9aaa6cbdb75b56681da7a",
       "caption_file": "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-15T20:50:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9aaa6cbdb75b56681da7a",
+          "published_at_utc": "2026-09-15T20:29:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-15T20:48:47.000Z",
           "buffer_mode": "customScheduled",
@@ -85676,7 +85682,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.png",
       "metadata_file": "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.json",
-      "published_at_utc": "2026-09-15T20:29:21Z",
+      "published_at_utc": "2026-09-15T20:29:27Z",
       "publisher": "buffer_threads"
     }
   }
