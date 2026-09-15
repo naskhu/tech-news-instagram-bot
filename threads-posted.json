@@ -85510,6 +85510,25 @@
       "published_at_utc": "2026-09-15T01:59:28Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-15/us-military-confirms-it-launched-space-weapons-into-earth-s-orbit-tech.png": {
+      "buffer_due_at_utc": "2026-09-15T18:26:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa9809dc3fab7dfd181c751",
+      "caption_file": "output/2026-09-15/us-military-confirms-it-launched-space-weapons-into-earth-s-orbit-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-15T18:26:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9809dc3fab7dfd181c751",
+          "published_at_utc": "2026-09-15T17:30:05Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/us-military-confirms-it-launched-space-weapons-into-earth-s-orbit-tech.png",
+      "metadata_file": "output/2026-09-15/us-military-confirms-it-launched-space-weapons-into-earth-s-orbit-tech.json",
+      "published_at_utc": "2026-09-15T17:30:05Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-15/valve-is-still-figuring-out-how-and-when-to-do-steam-deck-2.png": {
       "buffer_due_at_utc": "2026-09-15T07:47:52.000Z",
       "buffer_mode": "customScheduled",
