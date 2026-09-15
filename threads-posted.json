@@ -85261,12 +85261,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platfor.png": {
-      "buffer_due_at_utc": "2026-09-15T02:56:15.000Z",
+      "buffer_due_at_utc": "2026-09-15T02:58:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa8a67a4041488d44fe70e6",
+      "buffer_post_id": "6aa8a6807a172fa74f851da0",
       "caption_file": "output/2026-09-15/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platfor.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-15T02:58:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa8a6807a172fa74f851da0",
+          "published_at_utc": "2026-09-15T01:59:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-15T02:56:15.000Z",
           "buffer_mode": "customScheduled",
@@ -85276,7 +85282,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platfor.png",
       "metadata_file": "output/2026-09-15/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platfor.json",
-      "published_at_utc": "2026-09-15T01:59:22Z",
+      "published_at_utc": "2026-09-15T01:59:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/volkswagen-s-crazy-efficient-ev-borrows-an-idea-from-slate-techcrunch.png": {
