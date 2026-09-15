@@ -85235,6 +85235,25 @@
       "published_at_utc": "2026-09-15T01:59:16Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-15/kitchenaid-s-iconic-mixer-now-has-a-glowing-bowl-that-illuminates-your.png": {
+      "buffer_due_at_utc": "2026-09-15T12:47:14.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa93e2604f711d7b64571e2",
+      "caption_file": "output/2026-09-15/kitchenaid-s-iconic-mixer-now-has-a-glowing-bowl-that-illuminates-your.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-15T12:47:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa93e2604f711d7b64571e2",
+          "published_at_utc": "2026-09-15T12:46:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/kitchenaid-s-iconic-mixer-now-has-a-glowing-bowl-that-illuminates-your.png",
+      "metadata_file": "output/2026-09-15/kitchenaid-s-iconic-mixer-now-has-a-glowing-bowl-that-illuminates-your.json",
+      "published_at_utc": "2026-09-15T12:46:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-15/macos-27-new-siri-takes-on-ai-productivity-apps-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-14T23:45:30.000Z",
       "buffer_mode": "customScheduled",
