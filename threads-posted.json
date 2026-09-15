@@ -85761,12 +85761,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-indust.png": {
-      "buffer_due_at_utc": "2026-09-16T00:10:47.000Z",
+      "buffer_due_at_utc": "2026-09-16T00:12:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa9d1328df35c613715358d",
+      "buffer_post_id": "6aa9d138dfcd8cd99b7dd232",
       "caption_file": "output/2026-09-16/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-indust.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T00:12:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9d138dfcd8cd99b7dd232",
+          "published_at_utc": "2026-09-15T23:14:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T00:10:47.000Z",
           "buffer_mode": "customScheduled",
@@ -85776,7 +85782,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-indust.png",
       "metadata_file": "output/2026-09-16/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-indust.json",
-      "published_at_utc": "2026-09-15T23:13:55Z",
+      "published_at_utc": "2026-09-15T23:14:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.png": {
