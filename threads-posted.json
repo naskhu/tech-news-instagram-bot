@@ -85386,12 +85386,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/volvo-s-plug-in-hybrid-xc60-and-xc90-can-really-go-the-distance.png": {
-      "buffer_due_at_utc": "2026-09-15T08:04:47.000Z",
+      "buffer_due_at_utc": "2026-09-15T08:06:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa8eec9a8c36ff9777cbd5f",
+      "buffer_post_id": "6aa8eecfa283eff81a5a362a",
       "caption_file": "output/2026-09-15/volvo-s-plug-in-hybrid-xc60-and-xc90-can-really-go-the-distance.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-15T08:06:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa8eecfa283eff81a5a362a",
+          "published_at_utc": "2026-09-15T07:07:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-15T08:04:47.000Z",
           "buffer_mode": "customScheduled",
@@ -85401,7 +85407,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/volvo-s-plug-in-hybrid-xc60-and-xc90-can-really-go-the-distance.png",
       "metadata_file": "output/2026-09-15/volvo-s-plug-in-hybrid-xc60-and-xc90-can-really-go-the-distance.json",
-      "published_at_utc": "2026-09-15T07:07:53Z",
+      "published_at_utc": "2026-09-15T07:07:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/with-ios-27-i-m-actually-using-siri-again-techcrunch.png": {
