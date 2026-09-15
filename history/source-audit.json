@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-09-15T01:56:01.481298+00:00",
+  "run_utc": "2026-09-15T07:03:45.366542+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-09-14T01:56:01.481443+00:00",
+  "cutoff_utc": "2026-09-14T07:03:45.366701+00:00",
   "eligible_story_count": 309,
   "sources": [
     {
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 6,
-      "already_processed": 22,
+      "eligible_new": 2,
+      "already_processed": 25,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -56,7 +56,7 @@
       "page_links": 30,
       "page_articles": 29,
       "eligible_new": 18,
-      "already_processed": 10,
+      "already_processed": 9,
       "older_than_window": 5,
       "metadata_errors": {
         "no_article_metadata": 1
@@ -85,9 +85,9 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 14,
+      "eligible_new": 16,
       "already_processed": 3,
-      "older_than_window": 13,
+      "older_than_window": 11,
       "metadata_errors": {}
     },
     {
@@ -147,8 +147,8 @@
       "already_processed": 0,
       "older_than_window": 15,
       "metadata_errors": {
-        "no_article_metadata": 1,
-        "missing_title": 9
+        "missing_title": 9,
+        "no_article_metadata": 1
       }
     },
     {
@@ -216,9 +216,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 29,
+      "eligible_new": 30,
       "already_processed": 0,
-      "older_than_window": 3,
+      "older_than_window": 2,
       "metadata_errors": {}
     },
     {
@@ -253,8 +253,8 @@
       "page_links": 40,
       "page_articles": 40,
       "eligible_new": 17,
-      "already_processed": 6,
-      "older_than_window": 92,
+      "already_processed": 5,
+      "older_than_window": 94,
       "metadata_errors": {}
     },
     {
@@ -311,7 +311,7 @@
           "error": ""
         }
       ],
-      "rss_candidates": 13,
+      "rss_candidates": 12,
       "page_links": 21,
       "page_articles": 15,
       "eligible_new": 7,
@@ -394,7 +394,7 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 58,
+      "eligible_new": 56,
       "already_processed": 1,
       "older_than_window": 38,
       "metadata_errors": {
@@ -502,12 +502,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 34,
+      "rss_candidates": 36,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 16,
+      "eligible_new": 18,
       "already_processed": 13,
-      "older_than_window": 24,
+      "older_than_window": 23,
       "metadata_errors": {}
     },
     {
@@ -572,12 +572,13 @@
       ],
       "rss_candidates": 15,
       "page_links": 26,
-      "page_articles": 2,
+      "page_articles": 3,
       "eligible_new": 12,
       "already_processed": 0,
       "older_than_window": 3,
       "metadata_errors": {
-        "http_429": 24
+        "no_article_metadata": 1,
+        "http_429": 22
       }
     },
     {
@@ -596,22 +597,22 @@
         {
           "url": "https://9to5mac.com/",
           "status": 200,
-          "links": 26,
+          "links": 27,
           "error": ""
         },
         {
           "url": "https://9to5mac.com/guides/news/",
           "status": 200,
-          "links": 14,
+          "links": 13,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 34,
+      "eligible_new": 36,
       "already_processed": 0,
-      "older_than_window": 81,
+      "older_than_window": 78,
       "metadata_errors": {}
     },
     {
