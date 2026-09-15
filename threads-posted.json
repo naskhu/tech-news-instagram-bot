@@ -85659,6 +85659,25 @@
       "metadata_file": "output/2026-09-16/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s.json",
       "published_at_utc": "2026-09-15T20:29:14Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.png": {
+      "buffer_due_at_utc": "2026-09-15T20:48:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa9aaa01ce3c3fe00cd948c",
+      "caption_file": "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-15T20:48:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9aaa01ce3c3fe00cd948c",
+          "published_at_utc": "2026-09-15T20:29:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.png",
+      "metadata_file": "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.json",
+      "published_at_utc": "2026-09-15T20:29:21Z",
+      "publisher": "buffer_threads"
     }
   }
 }
