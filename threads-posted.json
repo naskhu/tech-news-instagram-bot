@@ -85336,12 +85336,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/meta-expands-subscription-push-with-new-ai-focused-plans-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-15T18:08:03.000Z",
+      "buffer_due_at_utc": "2026-09-15T18:10:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa9809183b5d095b167fdb3",
+      "buffer_post_id": "6aa980977893b8ea8f73af29",
       "caption_file": "output/2026-09-15/meta-expands-subscription-push-with-new-ai-focused-plans-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-15T18:10:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa980977893b8ea8f73af29",
+          "published_at_utc": "2026-09-15T17:29:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-15T18:08:03.000Z",
           "buffer_mode": "customScheduled",
@@ -85351,7 +85357,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/meta-expands-subscription-push-with-new-ai-focused-plans-techcrunch.png",
       "metadata_file": "output/2026-09-15/meta-expands-subscription-push-with-new-ai-focused-plans-techcrunch.json",
-      "published_at_utc": "2026-09-15T17:29:53Z",
+      "published_at_utc": "2026-09-15T17:29:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/new-italian-unicorn-exein-rides-the-physical-ai-wave-techcrunch.png": {
