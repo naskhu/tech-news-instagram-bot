@@ -85161,12 +85161,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too.png": {
-      "buffer_due_at_utc": "2026-09-15T02:37:20.000Z",
+      "buffer_due_at_utc": "2026-09-15T02:39:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa8a66ea283eff81a53e3cf",
+      "buffer_post_id": "6aa8a674fa1b0cab28a4e8ca",
       "caption_file": "output/2026-09-15/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-15T02:39:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa8a674fa1b0cab28a4e8ca",
+          "published_at_utc": "2026-09-15T01:59:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-15T02:37:20.000Z",
           "buffer_mode": "customScheduled",
@@ -85176,7 +85182,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too.png",
       "metadata_file": "output/2026-09-15/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too.json",
-      "published_at_utc": "2026-09-15T01:59:10Z",
+      "published_at_utc": "2026-09-15T01:59:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-15/macos-27-new-siri-takes-on-ai-productivity-apps-techcrunch.png": {
