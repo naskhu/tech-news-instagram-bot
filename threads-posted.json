@@ -85110,6 +85110,25 @@
       "published_at_utc": "2026-09-14T20:47:10Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-15/fashion-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outf.png": {
+      "buffer_due_at_utc": "2026-09-15T01:59:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa8a655fa1b0cab28a4dd4f",
+      "caption_file": "output/2026-09-15/fashion-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outf.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-15T01:59:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa8a655fa1b0cab28a4dd4f",
+          "published_at_utc": "2026-09-15T01:58:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/fashion-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outf.png",
+      "metadata_file": "output/2026-09-15/fashion-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outf.json",
+      "published_at_utc": "2026-09-15T01:58:46Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-15/macos-27-new-siri-takes-on-ai-productivity-apps-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-14T23:45:30.000Z",
       "buffer_mode": "customScheduled",
