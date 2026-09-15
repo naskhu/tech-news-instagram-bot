@@ -85711,12 +85711,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks-tech.png": {
-      "buffer_due_at_utc": "2026-09-15T23:51:52.000Z",
+      "buffer_due_at_utc": "2026-09-15T23:53:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa9d126c9dce8b453126c68",
+      "buffer_post_id": "6aa9d12c8df35c6137153538",
       "caption_file": "output/2026-09-16/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-15T23:53:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9d12c8df35c6137153538",
+          "published_at_utc": "2026-09-15T23:13:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-15T23:51:52.000Z",
           "buffer_mode": "customScheduled",
@@ -85726,7 +85732,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks-tech.png",
       "metadata_file": "output/2026-09-16/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks-tech.json",
-      "published_at_utc": "2026-09-15T23:13:42Z",
+      "published_at_utc": "2026-09-15T23:13:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.png": {
