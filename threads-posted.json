@@ -85335,6 +85335,25 @@
       "published_at_utc": "2026-09-15T01:59:28Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-15/valve-is-still-figuring-out-how-and-when-to-do-steam-deck-2.png": {
+      "buffer_due_at_utc": "2026-09-15T07:45:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa8eebea283eff81a5a34cc",
+      "caption_file": "output/2026-09-15/valve-is-still-figuring-out-how-and-when-to-do-steam-deck-2.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-15T07:45:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa8eebea283eff81a5a34cc",
+          "published_at_utc": "2026-09-15T07:07:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-15/valve-is-still-figuring-out-how-and-when-to-do-steam-deck-2.png",
+      "metadata_file": "output/2026-09-15/valve-is-still-figuring-out-how-and-when-to-do-steam-deck-2.json",
+      "published_at_utc": "2026-09-15T07:07:42Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-15/volkswagen-s-crazy-efficient-ev-borrows-an-idea-from-slate-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-14T21:46:08.000Z",
       "buffer_mode": "customScheduled",
