@@ -85684,6 +85684,25 @@
       "metadata_file": "output/2026-09-16/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-septemb.json",
       "published_at_utc": "2026-09-15T20:29:27Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-16/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.png": {
+      "buffer_due_at_utc": "2026-09-15T21:07:42.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa9aaac38500dc6b5063ecf",
+      "caption_file": "output/2026-09-16/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-15T21:07:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9aaac38500dc6b5063ecf",
+          "published_at_utc": "2026-09-15T20:29:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.png",
+      "metadata_file": "output/2026-09-16/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.json",
+      "published_at_utc": "2026-09-15T20:29:33Z",
+      "publisher": "buffer_threads"
     }
   }
 }
