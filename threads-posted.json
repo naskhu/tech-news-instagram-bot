@@ -85634,6 +85634,25 @@
       "metadata_file": "output/2026-09-15/with-ios-27-i-m-actually-using-siri-again-techcrunch.json",
       "published_at_utc": "2026-09-14T23:43:29Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-16/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s.png": {
+      "buffer_due_at_utc": "2026-09-15T20:29:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa9aa94ff93f70684d93fe0",
+      "caption_file": "output/2026-09-16/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-15T20:29:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9aa94ff93f70684d93fe0",
+          "published_at_utc": "2026-09-15T20:29:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s.png",
+      "metadata_file": "output/2026-09-16/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s.json",
+      "published_at_utc": "2026-09-15T20:29:08Z",
+      "publisher": "buffer_threads"
     }
   }
 }
