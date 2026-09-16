@@ -85861,12 +85861,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-.png": {
-      "buffer_due_at_utc": "2026-09-16T17:39:04.000Z",
+      "buffer_due_at_utc": "2026-09-16T17:41:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaacfa8aa221af9bff6e82f",
+      "buffer_post_id": "6aaacfadac5727150ae8db56",
       "caption_file": "output/2026-09-16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T17:41:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaacfadac5727150ae8db56",
+          "published_at_utc": "2026-09-16T17:19:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T17:39:04.000Z",
           "buffer_mode": "customScheduled",
@@ -85876,7 +85882,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-.png",
       "metadata_file": "output/2026-09-16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-.json",
-      "published_at_utc": "2026-09-16T17:19:36Z",
+      "published_at_utc": "2026-09-16T17:19:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital.png": {
