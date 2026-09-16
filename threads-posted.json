@@ -86259,6 +86259,25 @@
       "metadata_file": "output/2026-09-17/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair.json",
       "published_at_utc": "2026-09-16T20:15:16Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-17/automattic-s-interim-ceo-and-legal-chief-signed-reciprocal-severance-d.png": {
+      "buffer_due_at_utc": "2026-09-16T20:34:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaaf8dab1bcd1995b3389c0",
+      "caption_file": "output/2026-09-17/automattic-s-interim-ceo-and-legal-chief-signed-reciprocal-severance-d.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-16T20:34:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaaf8dab1bcd1995b3389c0",
+          "published_at_utc": "2026-09-16T20:15:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/automattic-s-interim-ceo-and-legal-chief-signed-reciprocal-severance-d.png",
+      "metadata_file": "output/2026-09-17/automattic-s-interim-ceo-and-legal-chief-signed-reciprocal-severance-d.json",
+      "published_at_utc": "2026-09-16T20:15:23Z",
+      "publisher": "buffer_threads"
     }
   }
 }
