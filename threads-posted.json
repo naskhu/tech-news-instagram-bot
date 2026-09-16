@@ -86261,12 +86261,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-.png": {
-      "buffer_due_at_utc": "2026-09-16T23:03:27.000Z",
+      "buffer_due_at_utc": "2026-09-16T23:05:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aab2014883b10a2a9b98e8e",
+      "buffer_post_id": "6aab2019f50aa6b642fd9498",
       "caption_file": "output/2026-09-17/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T23:05:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aab2019f50aa6b642fd9498",
+          "published_at_utc": "2026-09-16T23:02:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T23:03:27.000Z",
           "buffer_mode": "customScheduled",
@@ -86276,7 +86282,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-.png",
       "metadata_file": "output/2026-09-17/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-.json",
-      "published_at_utc": "2026-09-16T23:02:44Z",
+      "published_at_utc": "2026-09-16T23:02:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/automattic-s-interim-ceo-and-legal-chief-signed-reciprocal-severance-d.png": {
