@@ -86211,12 +86211,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/your-ai-agents-can-now-control-your-google-home-devices.png": {
-      "buffer_due_at_utc": "2026-09-16T18:16:54.000Z",
+      "buffer_due_at_utc": "2026-09-16T18:18:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaacfbea3fa4d8905f39982",
+      "buffer_post_id": "6aaacfc3ac5727150ae8e033",
       "caption_file": "output/2026-09-16/your-ai-agents-can-now-control-your-google-home-devices.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T18:18:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaacfc3ac5727150ae8e033",
+          "published_at_utc": "2026-09-16T17:20:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T18:16:54.000Z",
           "buffer_mode": "customScheduled",
@@ -86226,7 +86232,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/your-ai-agents-can-now-control-your-google-home-devices.png",
       "metadata_file": "output/2026-09-16/your-ai-agents-can-now-control-your-google-home-devices.json",
-      "published_at_utc": "2026-09-16T17:19:58Z",
+      "published_at_utc": "2026-09-16T17:20:04Z",
       "publisher": "buffer_threads"
     }
   }
