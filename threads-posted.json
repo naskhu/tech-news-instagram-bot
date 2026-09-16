@@ -85636,12 +85636,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-mon.png": {
-      "buffer_due_at_utc": "2026-09-16T01:32:39.000Z",
+      "buffer_due_at_utc": "2026-09-16T01:34:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa9f18bce2285243e07d41f",
+      "buffer_post_id": "6aa9f19081d74a102509c579",
       "caption_file": "output/2026-09-16/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-mon.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T01:34:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9f19081d74a102509c579",
+          "published_at_utc": "2026-09-16T01:32:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T01:32:39.000Z",
           "buffer_mode": "customScheduled",
@@ -85651,7 +85657,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-mon.png",
       "metadata_file": "output/2026-09-16/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-mon.json",
-      "published_at_utc": "2026-09-16T01:31:55Z",
+      "published_at_utc": "2026-09-16T01:32:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/ai-agents-now-have-a-place-to-snitch-techcrunch.png": {
