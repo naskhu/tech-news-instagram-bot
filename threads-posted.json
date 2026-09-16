@@ -85660,6 +85660,25 @@
       "published_at_utc": "2026-09-16T06:44:19Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-16/a-brief-history-of-ai-executives-calling-for-regulation.png": {
+      "buffer_due_at_utc": "2026-09-16T12:25:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaa8a7c23fe21f44ed96baf",
+      "caption_file": "output/2026-09-16/a-brief-history-of-ai-executives-calling-for-regulation.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-16T12:25:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaa8a7c23fe21f44ed96baf",
+          "published_at_utc": "2026-09-16T12:24:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/a-brief-history-of-ai-executives-calling-for-regulation.png",
+      "metadata_file": "output/2026-09-16/a-brief-history-of-ai-executives-calling-for-regulation.json",
+      "published_at_utc": "2026-09-16T12:24:28Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-16/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-mon.png": {
       "buffer_due_at_utc": "2026-09-16T01:34:39.000Z",
       "buffer_mode": "customScheduled",
