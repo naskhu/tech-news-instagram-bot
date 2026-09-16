@@ -85636,12 +85636,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/4-days-left-to-exhibit-at-techcrunch-disrupt-2026-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-16T06:44:57.000Z",
+      "buffer_due_at_utc": "2026-09-16T06:46:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaa3abd5593a4b220bcbb30",
+      "buffer_post_id": "6aaa3ac2e6cc362d6b1db05a",
       "caption_file": "output/2026-09-16/4-days-left-to-exhibit-at-techcrunch-disrupt-2026-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T06:46:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaa3ac2e6cc362d6b1db05a",
+          "published_at_utc": "2026-09-16T06:44:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T06:44:57.000Z",
           "buffer_mode": "customScheduled",
@@ -85651,7 +85657,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/4-days-left-to-exhibit-at-techcrunch-disrupt-2026-techcrunch.png",
       "metadata_file": "output/2026-09-16/4-days-left-to-exhibit-at-techcrunch-disrupt-2026-techcrunch.json",
-      "published_at_utc": "2026-09-16T06:44:13Z",
+      "published_at_utc": "2026-09-16T06:44:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-mon.png": {
