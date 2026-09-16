@@ -85884,6 +85884,25 @@
       "metadata_file": "output/2026-09-16/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-.json",
       "published_at_utc": "2026-09-15T20:29:51Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-16/we-don-t-need-ai-regulation-leave-safety-to-us-nvidia-s-jensen-huang-s.png": {
+      "buffer_due_at_utc": "2026-09-16T02:10:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aa9f1a18df35c6137182432",
+      "caption_file": "output/2026-09-16/we-don-t-need-ai-regulation-leave-safety-to-us-nvidia-s-jensen-huang-s.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-16T02:10:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9f1a18df35c6137182432",
+          "published_at_utc": "2026-09-16T01:32:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/we-don-t-need-ai-regulation-leave-safety-to-us-nvidia-s-jensen-huang-s.png",
+      "metadata_file": "output/2026-09-16/we-don-t-need-ai-regulation-leave-safety-to-us-nvidia-s-jensen-huang-s.json",
+      "published_at_utc": "2026-09-16T01:32:17Z",
+      "publisher": "buffer_threads"
     }
   }
 }
