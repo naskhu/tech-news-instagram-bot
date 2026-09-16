@@ -86361,12 +86361,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/pulley-a-carta-rival-is-shutting-down-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-16T23:41:17.000Z",
+      "buffer_due_at_utc": "2026-09-16T23:43:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aab202c02c7491fe7feca78",
+      "buffer_post_id": "6aab2031246d54e666aeb069",
       "caption_file": "output/2026-09-17/pulley-a-carta-rival-is-shutting-down-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T23:43:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aab2031246d54e666aeb069",
+          "published_at_utc": "2026-09-16T23:03:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T23:41:17.000Z",
           "buffer_mode": "customScheduled",
@@ -86376,7 +86382,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/pulley-a-carta-rival-is-shutting-down-techcrunch.png",
       "metadata_file": "output/2026-09-17/pulley-a-carta-rival-is-shutting-down-techcrunch.json",
-      "published_at_utc": "2026-09-16T23:03:08Z",
+      "published_at_utc": "2026-09-16T23:03:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/x-will-now-let-us-users-trade-via-cashtags-techcrunch.png": {
