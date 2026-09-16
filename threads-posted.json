@@ -85911,12 +85911,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its.png": {
-      "buffer_due_at_utc": "2026-09-16T02:29:24.000Z",
+      "buffer_due_at_utc": "2026-09-16T02:31:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aa9f1ac501861120db31c90",
+      "buffer_post_id": "6aa9f1b1c9dce8b453155abb",
       "caption_file": "output/2026-09-16/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T02:31:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aa9f1b1c9dce8b453155abb",
+          "published_at_utc": "2026-09-16T01:32:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T02:29:24.000Z",
           "buffer_mode": "customScheduled",
@@ -85926,7 +85932,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its.png",
       "metadata_file": "output/2026-09-16/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its.json",
-      "published_at_utc": "2026-09-16T01:32:28Z",
+      "published_at_utc": "2026-09-16T01:32:33Z",
       "publisher": "buffer_threads"
     }
   }
