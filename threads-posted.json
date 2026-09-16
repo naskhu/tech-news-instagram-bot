@@ -86284,6 +86284,25 @@
       "metadata_file": "output/2026-09-17/automattic-s-interim-ceo-and-legal-chief-signed-reciprocal-severance-d.json",
       "published_at_utc": "2026-09-16T20:15:29Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-17/former-waymo-cfo-jumps-to-self-driving-startup-wayve-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-16T20:53:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaaf8e7f519c83f76bf2801",
+      "caption_file": "output/2026-09-17/former-waymo-cfo-jumps-to-self-driving-startup-wayve-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-16T20:53:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaaf8e7f519c83f76bf2801",
+          "published_at_utc": "2026-09-16T20:15:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/former-waymo-cfo-jumps-to-self-driving-startup-wayve-techcrunch.png",
+      "metadata_file": "output/2026-09-17/former-waymo-cfo-jumps-to-self-driving-startup-wayve-techcrunch.json",
+      "published_at_utc": "2026-09-16T20:15:35Z",
+      "publisher": "buffer_threads"
     }
   }
 }
