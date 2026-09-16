@@ -85886,12 +85886,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/nintendo-opens-up-fire-emblem-with-the-gigantic-fortune-s-weave.png": {
-      "buffer_due_at_utc": "2026-09-16T13:03:02.000Z",
+      "buffer_due_at_utc": "2026-09-16T13:05:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaa8a93260ced176a49ba05",
+      "buffer_post_id": "6aaa8a98d692772a83aafa1c",
       "caption_file": "output/2026-09-16/nintendo-opens-up-fire-emblem-with-the-gigantic-fortune-s-weave.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-16T13:05:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaa8a98d692772a83aafa1c",
+          "published_at_utc": "2026-09-16T12:24:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-16T13:03:02.000Z",
           "buffer_mode": "customScheduled",
@@ -85901,7 +85907,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/nintendo-opens-up-fire-emblem-with-the-gigantic-fortune-s-weave.png",
       "metadata_file": "output/2026-09-16/nintendo-opens-up-fire-emblem-with-the-gigantic-fortune-s-weave.json",
-      "published_at_utc": "2026-09-16T12:24:51Z",
+      "published_at_utc": "2026-09-16T12:24:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-16/nitter-and-xcancel-are-dead-again-after-x-s-latest-legal-actions-techc.png": {
