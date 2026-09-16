@@ -85735,6 +85735,25 @@
       "published_at_utc": "2026-09-16T06:44:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-16/evvy-raises-40m-as-it-seeks-to-further-women-s-health-research-with-va.png": {
+      "buffer_due_at_utc": "2026-09-16T07:22:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaa3ad4e83ace532c54b506",
+      "caption_file": "output/2026-09-16/evvy-raises-40m-as-it-seeks-to-further-women-s-health-research-with-va.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-16T07:22:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaa3ad4e83ace532c54b506",
+          "published_at_utc": "2026-09-16T06:44:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/evvy-raises-40m-as-it-seeks-to-further-women-s-health-research-with-va.png",
+      "metadata_file": "output/2026-09-16/evvy-raises-40m-as-it-seeks-to-further-women-s-health-research-with-va.json",
+      "published_at_utc": "2026-09-16T06:44:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-16/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose.png": {
       "buffer_due_at_utc": "2026-09-16T01:53:34.000Z",
       "buffer_mode": "customScheduled",
