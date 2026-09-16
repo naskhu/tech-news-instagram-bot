@@ -86209,6 +86209,25 @@
       "metadata_file": "output/2026-09-16/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its.json",
       "published_at_utc": "2026-09-16T01:32:33Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-16/your-ai-agents-can-now-control-your-google-home-devices.png": {
+      "buffer_due_at_utc": "2026-09-16T18:16:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaacfbea3fa4d8905f39982",
+      "caption_file": "output/2026-09-16/your-ai-agents-can-now-control-your-google-home-devices.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-16T18:16:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaacfbea3fa4d8905f39982",
+          "published_at_utc": "2026-09-16T17:19:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/your-ai-agents-can-now-control-your-google-home-devices.png",
+      "metadata_file": "output/2026-09-16/your-ai-agents-can-now-control-your-google-home-devices.json",
+      "published_at_utc": "2026-09-16T17:19:58Z",
+      "publisher": "buffer_threads"
     }
   }
 }
