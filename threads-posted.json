@@ -86035,6 +86035,25 @@
       "published_at_utc": "2026-09-15T20:29:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-16/the-iphone-18-pro-s-big-camera-update-is-all-about-the-small-gains.png": {
+      "buffer_due_at_utc": "2026-09-16T13:21:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaa8a9e61ae41c216981721",
+      "caption_file": "output/2026-09-16/the-iphone-18-pro-s-big-camera-update-is-all-about-the-small-gains.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-16T13:21:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaa8a9e61ae41c216981721",
+          "published_at_utc": "2026-09-16T12:25:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/the-iphone-18-pro-s-big-camera-update-is-all-about-the-small-gains.png",
+      "metadata_file": "output/2026-09-16/the-iphone-18-pro-s-big-camera-update-is-all-about-the-small-gains.json",
+      "published_at_utc": "2026-09-16T12:25:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-16/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-.png": {
       "buffer_due_at_utc": "2026-09-15T21:28:37.000Z",
       "buffer_mode": "customScheduled",
