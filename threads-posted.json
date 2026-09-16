@@ -85910,6 +85910,25 @@
       "published_at_utc": "2026-09-16T06:44:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-16/may-mobility-is-going-public-in-a-1-4b-spac-deal-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-16T17:57:59.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaacfb3fc5a886931897db7",
+      "caption_file": "output/2026-09-16/may-mobility-is-going-public-in-a-1-4b-spac-deal-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-16T17:57:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaacfb3fc5a886931897db7",
+          "published_at_utc": "2026-09-16T17:19:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-16/may-mobility-is-going-public-in-a-1-4b-spac-deal-techcrunch.png",
+      "metadata_file": "output/2026-09-16/may-mobility-is-going-public-in-a-1-4b-spac-deal-techcrunch.json",
+      "published_at_utc": "2026-09-16T17:19:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-16/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s.png": {
       "buffer_due_at_utc": "2026-09-15T20:31:52.000Z",
       "buffer_mode": "customScheduled",
