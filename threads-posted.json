@@ -86360,6 +86360,25 @@
       "published_at_utc": "2026-09-16T20:15:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-17/bill-skarsg-rd-is-the-lead-role-in-kojima-s-physint.png": {
+      "buffer_due_at_utc": "2026-09-17T11:50:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aabd3f83c5011c0df7955ed",
+      "caption_file": "output/2026-09-17/bill-skarsg-rd-is-the-lead-role-in-kojima-s-physint.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-17T11:50:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aabd3f83c5011c0df7955ed",
+          "published_at_utc": "2026-09-17T11:50:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/bill-skarsg-rd-is-the-lead-role-in-kojima-s-physint.png",
+      "metadata_file": "output/2026-09-17/bill-skarsg-rd-is-the-lead-role-in-kojima-s-physint.json",
+      "published_at_utc": "2026-09-17T11:50:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-17/former-waymo-cfo-jumps-to-self-driving-startup-wayve-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-16T20:55:43.000Z",
       "buffer_mode": "customScheduled",
