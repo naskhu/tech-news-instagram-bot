@@ -86836,12 +86836,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.png": {
-      "buffer_due_at_utc": "2026-09-17T19:45:08.000Z",
+      "buffer_due_at_utc": "2026-09-17T19:47:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aac431e1cb5c51f705c0716",
+      "buffer_post_id": "6aac433b1cb5c51f705c0a32",
       "caption_file": "output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-17T19:47:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac433b1cb5c51f705c0a32",
+          "published_at_utc": "2026-09-17T19:45:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-17T19:45:08.000Z",
           "buffer_mode": "customScheduled",
@@ -86851,7 +86857,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.png",
       "metadata_file": "output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.json",
-      "published_at_utc": "2026-09-17T19:44:32Z",
+      "published_at_utc": "2026-09-17T19:45:00Z",
       "publisher": "buffer_threads"
     }
   }
