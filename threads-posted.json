@@ -86886,12 +86886,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/is-the-ai-safety-debate-about-safety-or-control-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-17T22:30:15.000Z",
+      "buffer_due_at_utc": "2026-09-17T22:32:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aac69cb45834e06ccdd4832",
+      "buffer_post_id": "6aac69d19aa6c4a43f5fb0db",
       "caption_file": "output/2026-09-18/is-the-ai-safety-debate-about-safety-or-control-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-17T22:32:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac69d19aa6c4a43f5fb0db",
+          "published_at_utc": "2026-09-17T22:29:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-17T22:30:15.000Z",
           "buffer_mode": "customScheduled",
@@ -86901,7 +86907,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/is-the-ai-safety-debate-about-safety-or-control-techcrunch.png",
       "metadata_file": "output/2026-09-18/is-the-ai-safety-debate-about-safety-or-control-techcrunch.json",
-      "published_at_utc": "2026-09-17T22:29:31Z",
+      "published_at_utc": "2026-09-17T22:29:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-roo.png": {
