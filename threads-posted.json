@@ -86360,6 +86360,25 @@
       "published_at_utc": "2026-09-16T20:15:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-17/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-t.png": {
+      "buffer_due_at_utc": "2026-09-17T01:32:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aab3eb5fe9fec6c601d1e06",
+      "caption_file": "output/2026-09-17/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-17T01:32:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aab3eb5fe9fec6c601d1e06",
+          "published_at_utc": "2026-09-17T01:13:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-t.png",
+      "metadata_file": "output/2026-09-17/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-t.json",
+      "published_at_utc": "2026-09-17T01:13:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-17/noise-wants-to-help-everyday-people-become-paid-content-creators-techc.png": {
       "buffer_due_at_utc": "2026-09-16T23:24:22.000Z",
       "buffer_mode": "customScheduled",
