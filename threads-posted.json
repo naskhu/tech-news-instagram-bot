@@ -86711,12 +86711,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/roku-s-new-labs-hub-brings-experimental-apps-to-the-big-screen.png": {
-      "buffer_due_at_utc": "2026-09-17T17:17:31.000Z",
+      "buffer_due_at_utc": "2026-09-17T17:19:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aac135b26363844f2a12b69",
+      "buffer_post_id": "6aac136126363844f2a12c1c",
       "caption_file": "output/2026-09-17/roku-s-new-labs-hub-brings-experimental-apps-to-the-big-screen.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-17T17:19:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac136126363844f2a12c1c",
+          "published_at_utc": "2026-09-17T16:20:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-17T17:17:31.000Z",
           "buffer_mode": "customScheduled",
@@ -86726,7 +86732,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/roku-s-new-labs-hub-brings-experimental-apps-to-the-big-screen.png",
       "metadata_file": "output/2026-09-17/roku-s-new-labs-hub-brings-experimental-apps-to-the-big-screen.json",
-      "published_at_utc": "2026-09-17T16:20:44Z",
+      "published_at_utc": "2026-09-17T16:20:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/snap-tries-to-make-the-case-again-for-its-2-200-smart-glasses.png": {
