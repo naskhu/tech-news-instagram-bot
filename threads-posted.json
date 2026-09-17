@@ -86386,12 +86386,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/musk-s-long-time-backer-is-giving-spacex-stock-to-its-investors-techcr.png": {
-      "buffer_due_at_utc": "2026-09-17T01:51:48.000Z",
+      "buffer_due_at_utc": "2026-09-17T01:53:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aab3ec018dc878204caa2a5",
+      "buffer_post_id": "6aab3ec518dc878204caa313",
       "caption_file": "output/2026-09-17/musk-s-long-time-backer-is-giving-spacex-stock-to-its-investors-techcr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-17T01:53:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aab3ec518dc878204caa313",
+          "published_at_utc": "2026-09-17T01:13:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-17T01:51:48.000Z",
           "buffer_mode": "customScheduled",
@@ -86401,7 +86407,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/musk-s-long-time-backer-is-giving-spacex-stock-to-its-investors-techcr.png",
       "metadata_file": "output/2026-09-17/musk-s-long-time-backer-is-giving-spacex-stock-to-its-investors-techcr.json",
-      "published_at_utc": "2026-09-17T01:13:36Z",
+      "published_at_utc": "2026-09-17T01:13:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/noise-wants-to-help-everyday-people-become-paid-content-creators-techc.png": {
