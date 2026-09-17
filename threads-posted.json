@@ -86536,12 +86536,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/inside-the-suddenly-explosive-world-of-ai-safety.png": {
-      "buffer_due_at_utc": "2026-09-17T12:47:40.000Z",
+      "buffer_due_at_utc": "2026-09-17T12:49:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aabd4197bafaeaeade4215e",
+      "buffer_post_id": "6aabd41fa7c75ebb89f2edd5",
       "caption_file": "output/2026-09-17/inside-the-suddenly-explosive-world-of-ai-safety.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-17T12:49:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aabd41fa7c75ebb89f2edd5",
+          "published_at_utc": "2026-09-17T11:50:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-17T12:47:40.000Z",
           "buffer_mode": "customScheduled",
@@ -86551,7 +86557,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/inside-the-suddenly-explosive-world-of-ai-safety.png",
       "metadata_file": "output/2026-09-17/inside-the-suddenly-explosive-world-of-ai-safety.json",
-      "published_at_utc": "2026-09-17T11:50:49Z",
+      "published_at_utc": "2026-09-17T11:50:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/musk-s-long-time-backer-is-giving-spacex-stock-to-its-investors-techcr.png": {
