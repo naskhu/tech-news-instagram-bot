@@ -86386,12 +86386,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/hackers-publish-thousands-of-drivers-data-after-breaching-florida-moto.png": {
-      "buffer_due_at_utc": "2026-09-17T06:34:06.000Z",
+      "buffer_due_at_utc": "2026-09-17T06:36:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aab854db6213d08e066c4e0",
+      "buffer_post_id": "6aab8552b6213d08e066c545",
       "caption_file": "output/2026-09-17/hackers-publish-thousands-of-drivers-data-after-breaching-florida-moto.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-17T06:36:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aab8552b6213d08e066c545",
+          "published_at_utc": "2026-09-17T06:14:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-17T06:34:06.000Z",
           "buffer_mode": "customScheduled",
@@ -86401,7 +86407,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/hackers-publish-thousands-of-drivers-data-after-breaching-florida-moto.png",
       "metadata_file": "output/2026-09-17/hackers-publish-thousands-of-drivers-data-after-breaching-florida-moto.json",
-      "published_at_utc": "2026-09-17T06:14:37Z",
+      "published_at_utc": "2026-09-17T06:14:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-t.png": {
