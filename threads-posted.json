@@ -86536,12 +86536,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/i-tried-tovala-s-smart-oven-for-two-weeks-here-s-whether-it-beats-take.png": {
-      "buffer_due_at_utc": "2026-09-17T16:39:41.000Z",
+      "buffer_due_at_utc": "2026-09-17T16:41:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aac13407cd723f1c96464b9",
+      "buffer_post_id": "6aac13462c4156c30cc15aad",
       "caption_file": "output/2026-09-17/i-tried-tovala-s-smart-oven-for-two-weeks-here-s-whether-it-beats-take.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-17T16:41:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac13462c4156c30cc15aad",
+          "published_at_utc": "2026-09-17T16:20:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-17T16:39:41.000Z",
           "buffer_mode": "customScheduled",
@@ -86551,7 +86557,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/i-tried-tovala-s-smart-oven-for-two-weeks-here-s-whether-it-beats-take.png",
       "metadata_file": "output/2026-09-17/i-tried-tovala-s-smart-oven-for-two-weeks-here-s-whether-it-beats-take.json",
-      "published_at_utc": "2026-09-17T16:20:16Z",
+      "published_at_utc": "2026-09-17T16:20:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/iceland-based-treble-raises-18-million-for-its-voice-simulation-platfo.png": {
