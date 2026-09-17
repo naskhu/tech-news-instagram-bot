@@ -86609,6 +86609,25 @@
       "metadata_file": "output/2026-09-17/x-will-now-let-us-users-trade-via-cashtags-techcrunch.json",
       "published_at_utc": "2026-09-16T20:15:54Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-17/your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insight-partne.png": {
+      "buffer_due_at_utc": "2026-09-17T07:11:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aab856320de135c2a13bf18",
+      "caption_file": "output/2026-09-17/your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insight-partne.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-17T07:11:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aab856320de135c2a13bf18",
+          "published_at_utc": "2026-09-17T06:14:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insight-partne.png",
+      "metadata_file": "output/2026-09-17/your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insight-partne.json",
+      "published_at_utc": "2026-09-17T06:14:59Z",
+      "publisher": "buffer_threads"
     }
   }
 }
