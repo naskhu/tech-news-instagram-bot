@@ -86960,6 +86960,25 @@
       "published_at_utc": "2026-09-17T19:46:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-18/the-faa-s-plan-to-fix-air-traffic-875-million-worth-of-ai.png": {
+      "buffer_due_at_utc": "2026-09-17T23:08:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aac69e345834e06ccdd493a",
+      "caption_file": "output/2026-09-18/the-faa-s-plan-to-fix-air-traffic-875-million-worth-of-ai.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-17T23:08:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac69e345834e06ccdd493a",
+          "published_at_utc": "2026-09-17T22:29:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/the-faa-s-plan-to-fix-air-traffic-875-million-worth-of-ai.png",
+      "metadata_file": "output/2026-09-18/the-faa-s-plan-to-fix-air-traffic-875-million-worth-of-ai.json",
+      "published_at_utc": "2026-09-17T22:29:55Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-18/waymo-restarts-san-antonio-service-5-months-after-flooding-troubles-te.png": {
       "buffer_due_at_utc": "2026-09-17T22:28:16.000Z",
       "buffer_mode": "customScheduled",
