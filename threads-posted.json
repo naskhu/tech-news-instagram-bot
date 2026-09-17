@@ -86834,6 +86834,25 @@
       "metadata_file": "output/2026-09-17/your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insight-partne.json",
       "published_at_utc": "2026-09-17T06:15:04Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.png": {
+      "buffer_due_at_utc": "2026-09-17T19:45:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aac431e1cb5c51f705c0716",
+      "caption_file": "output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-17T19:45:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac431e1cb5c51f705c0716",
+          "published_at_utc": "2026-09-17T19:44:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.png",
+      "metadata_file": "output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.json",
+      "published_at_utc": "2026-09-17T19:44:32Z",
+      "publisher": "buffer_threads"
     }
   }
 }
