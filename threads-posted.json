@@ -86511,12 +86511,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia-techc.png": {
-      "buffer_due_at_utc": "2026-09-17T16:20:46.000Z",
+      "buffer_due_at_utc": "2026-09-17T16:22:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aac1333a5d892986cf560cd",
+      "buffer_post_id": "6aac1339f55111c2e7dead59",
       "caption_file": "output/2026-09-17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia-techc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-17T16:22:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac1339f55111c2e7dead59",
+          "published_at_utc": "2026-09-17T16:20:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-17T16:20:46.000Z",
           "buffer_mode": "customScheduled",
@@ -86526,7 +86532,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia-techc.png",
       "metadata_file": "output/2026-09-17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia-techc.json",
-      "published_at_utc": "2026-09-17T16:20:03Z",
+      "published_at_utc": "2026-09-17T16:20:09Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-17/iceland-based-treble-raises-18-million-for-its-voice-simulation-platfo.png": {
