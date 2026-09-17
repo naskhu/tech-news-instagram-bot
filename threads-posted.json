@@ -86884,6 +86884,25 @@
       "metadata_file": "output/2026-09-18/even-the-king-of-england-has-his-hesitations-about-ai-techcrunch.json",
       "published_at_utc": "2026-09-17T19:45:59Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-18/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-roo.png": {
+      "buffer_due_at_utc": "2026-09-17T20:22:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aac437d12af7b65294e0288",
+      "caption_file": "output/2026-09-18/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-roo.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-17T20:22:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac437d12af7b65294e0288",
+          "published_at_utc": "2026-09-17T19:46:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-roo.png",
+      "metadata_file": "output/2026-09-18/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-roo.json",
+      "published_at_utc": "2026-09-17T19:46:06Z",
+      "publisher": "buffer_threads"
     }
   }
 }
