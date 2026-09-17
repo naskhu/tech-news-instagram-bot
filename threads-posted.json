@@ -86435,6 +86435,25 @@
       "published_at_utc": "2026-09-17T01:13:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-17/iceland-based-treble-raises-18-million-for-its-voice-simulation-platfo.png": {
+      "buffer_due_at_utc": "2026-09-17T06:53:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aab8558587e9f368fe28c0f",
+      "caption_file": "output/2026-09-17/iceland-based-treble-raises-18-million-for-its-voice-simulation-platfo.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-17T06:53:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aab8558587e9f368fe28c0f",
+          "published_at_utc": "2026-09-17T06:14:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-17/iceland-based-treble-raises-18-million-for-its-voice-simulation-platfo.png",
+      "metadata_file": "output/2026-09-17/iceland-based-treble-raises-18-million-for-its-voice-simulation-platfo.json",
+      "published_at_utc": "2026-09-17T06:14:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-17/musk-s-long-time-backer-is-giving-spacex-stock-to-its-investors-techcr.png": {
       "buffer_due_at_utc": "2026-09-17T01:53:48.000Z",
       "buffer_mode": "customScheduled",
