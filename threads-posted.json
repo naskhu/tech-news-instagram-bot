@@ -87597,6 +87597,25 @@
       "metadata_file": "output/2026-09-19/family-offices-are-clamoring-for-ai-investments-techcrunch.json",
       "published_at_utc": "2026-09-18T20:19:30Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-19/fbi-coast-guard-boarded-hacked-oil-tankers-heading-toward-us-coast-tec.png": {
+      "buffer_due_at_utc": "2026-09-18T21:16:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aad9cd85fe629aa26601c6c",
+      "caption_file": "output/2026-09-19/fbi-coast-guard-boarded-hacked-oil-tankers-heading-toward-us-coast-tec.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-18T21:16:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aad9cd85fe629aa26601c6c",
+          "published_at_utc": "2026-09-18T20:19:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/fbi-coast-guard-boarded-hacked-oil-tankers-heading-toward-us-coast-tec.png",
+      "metadata_file": "output/2026-09-19/fbi-coast-guard-boarded-hacked-oil-tankers-heading-toward-us-coast-tec.json",
+      "published_at_utc": "2026-09-18T20:19:36Z",
+      "publisher": "buffer_threads"
     }
   }
 }
