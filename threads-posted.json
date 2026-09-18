@@ -87574,12 +87574,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/automattic-names-interim-cfo-after-exec-departures-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-18T23:00:23.000Z",
+      "buffer_due_at_utc": "2026-09-18T23:02:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aadbdf8a4c300df32a0632d",
+      "buffer_post_id": "6aadbdfe5fe629aa2663361c",
       "caption_file": "output/2026-09-19/automattic-names-interim-cfo-after-exec-departures-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-18T23:02:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aadbdfe5fe629aa2663361c",
+          "published_at_utc": "2026-09-18T22:41:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-18T23:00:23.000Z",
           "buffer_mode": "customScheduled",
@@ -87589,7 +87595,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/automattic-names-interim-cfo-after-exec-departures-techcrunch.png",
       "metadata_file": "output/2026-09-19/automattic-names-interim-cfo-after-exec-departures-techcrunch.json",
-      "published_at_utc": "2026-09-18T22:40:57Z",
+      "published_at_utc": "2026-09-18T22:41:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/disney-s-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-ch.png": {
