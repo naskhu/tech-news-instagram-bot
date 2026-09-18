@@ -87035,6 +87035,25 @@
       "published_at_utc": "2026-09-17T22:29:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-18/joby-completes-first-cross-country-autonomous-flight.png": {
+      "buffer_due_at_utc": "2026-09-18T14:55:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aad4c6cbce81a431d4b57a5",
+      "caption_file": "output/2026-09-18/joby-completes-first-cross-country-autonomous-flight.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-18T14:55:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aad4c6cbce81a431d4b57a5",
+          "published_at_utc": "2026-09-18T14:36:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/joby-completes-first-cross-country-autonomous-flight.png",
+      "metadata_file": "output/2026-09-18/joby-completes-first-cross-country-autonomous-flight.json",
+      "published_at_utc": "2026-09-18T14:36:28Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-18/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-supe.png": {
       "buffer_due_at_utc": "2026-09-18T01:48:23.000Z",
       "buffer_mode": "customScheduled",
