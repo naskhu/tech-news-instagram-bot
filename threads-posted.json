@@ -87036,12 +87036,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/joby-completes-first-cross-country-autonomous-flight.png": {
-      "buffer_due_at_utc": "2026-09-18T14:55:54.000Z",
+      "buffer_due_at_utc": "2026-09-18T14:57:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aad4c6cbce81a431d4b57a5",
+      "buffer_post_id": "6aad4c7219adfd73eda8669a",
       "caption_file": "output/2026-09-18/joby-completes-first-cross-country-autonomous-flight.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-18T14:57:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aad4c7219adfd73eda8669a",
+          "published_at_utc": "2026-09-18T14:36:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-18T14:55:54.000Z",
           "buffer_mode": "customScheduled",
@@ -87051,7 +87057,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/joby-completes-first-cross-country-autonomous-flight.png",
       "metadata_file": "output/2026-09-18/joby-completes-first-cross-country-autonomous-flight.json",
-      "published_at_utc": "2026-09-18T14:36:28Z",
+      "published_at_utc": "2026-09-18T14:36:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-supe.png": {
