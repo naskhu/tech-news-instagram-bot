@@ -1,0 +1,23 @@
+{
+  "title": "PrismML hopes its tiny LLM will change how we all use AI | TechCrunch",
+  "summary": "That original model has already been downloaded over 11 million times, and PrismML’s even smaller models have been downloaded another 2.6 million times, the company says. Compression will likely always have some impact, Hassibi says.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
+  "published_utc": "2026-09-17T22:34:09+00:00",
+  "output_day": "2026-09-18",
+  "date_source": "meta",
+  "generated_utc": "2026-09-18T05:29:38.025099+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-09-18/prismml-hopes-its-tiny-llm-will-change-how-we-all-use-ai-techcrunch.png",
+  "caption": "output/2026-09-18/prismml-hopes-its-tiny-llm-will-change-how-we-all-use-ai-techcrunch.txt"
+}
