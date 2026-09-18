@@ -87185,6 +87185,25 @@
       "published_at_utc": "2026-09-17T22:30:16Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-18/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-techcru.png": {
+      "buffer_due_at_utc": "2026-09-18T06:28:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aacccb643c9fde79a62cd57",
+      "caption_file": "output/2026-09-18/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-techcru.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-18T06:28:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aacccb643c9fde79a62cd57",
+          "published_at_utc": "2026-09-18T05:31:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-techcru.png",
+      "metadata_file": "output/2026-09-18/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-techcru.json",
+      "published_at_utc": "2026-09-18T05:31:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-18/waymo-restarts-san-antonio-service-5-months-after-flooding-troubles-te.png": {
       "buffer_due_at_utc": "2026-09-17T22:28:16.000Z",
       "buffer_mode": "customScheduled",
