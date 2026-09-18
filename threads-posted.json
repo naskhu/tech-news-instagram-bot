@@ -86836,12 +86836,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/amazon-owned-zoox-s-100-robotaxi-limit-in-nevada-is-about-to-disappear.png": {
-      "buffer_due_at_utc": "2026-09-18T00:49:38.000Z",
+      "buffer_due_at_utc": "2026-09-18T00:51:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aac8a7694a52c86e7bc831f",
+      "buffer_post_id": "6aac8aaf65c55f731e78646b",
       "caption_file": "output/2026-09-18/amazon-owned-zoox-s-100-robotaxi-limit-in-nevada-is-about-to-disappear.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-18T00:51:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aac8aaf65c55f731e78646b",
+          "published_at_utc": "2026-09-18T00:49:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-18T00:49:38.000Z",
           "buffer_mode": "customScheduled",
@@ -86851,7 +86857,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/amazon-owned-zoox-s-100-robotaxi-limit-in-nevada-is-about-to-disappear.png",
       "metadata_file": "output/2026-09-18/amazon-owned-zoox-s-100-robotaxi-limit-in-nevada-is-about-to-disappear.json",
-      "published_at_utc": "2026-09-18T00:48:54Z",
+      "published_at_utc": "2026-09-18T00:49:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-f.png": {
