@@ -87011,12 +87011,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-.png": {
-      "buffer_due_at_utc": "2026-09-18T05:31:43.000Z",
+      "buffer_due_at_utc": "2026-09-18T05:33:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaccc93ea02db373de40570",
+      "buffer_post_id": "6aaccc9943c9fde79a62c86e",
       "caption_file": "output/2026-09-18/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-18T05:33:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaccc9943c9fde79a62c86e",
+          "published_at_utc": "2026-09-18T05:31:05Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-18T05:31:43.000Z",
           "buffer_mode": "customScheduled",
@@ -87026,7 +87032,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-.png",
       "metadata_file": "output/2026-09-18/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-.json",
-      "published_at_utc": "2026-09-18T05:30:59Z",
+      "published_at_utc": "2026-09-18T05:31:05Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behav.png": {
