@@ -87186,12 +87186,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-techcru.png": {
-      "buffer_due_at_utc": "2026-09-18T06:28:28.000Z",
+      "buffer_due_at_utc": "2026-09-18T06:30:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aacccb643c9fde79a62cd57",
+      "buffer_post_id": "6aacccbb3193d9f8002c86c7",
       "caption_file": "output/2026-09-18/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-18T06:30:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aacccbb3193d9f8002c86c7",
+          "published_at_utc": "2026-09-18T05:31:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-18T06:28:28.000Z",
           "buffer_mode": "customScheduled",
@@ -87201,7 +87207,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-techcru.png",
       "metadata_file": "output/2026-09-18/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents-techcru.json",
-      "published_at_utc": "2026-09-18T05:31:34Z",
+      "published_at_utc": "2026-09-18T05:31:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/waymo-restarts-san-antonio-service-5-months-after-flooding-troubles-te.png": {
