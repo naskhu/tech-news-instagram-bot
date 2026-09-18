@@ -86985,6 +86985,23 @@
       "published_at_utc": "2026-09-18T00:50:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-18/google-s-new-cc-is-an-ai-agent-that-helps-families-run-their-household.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6aad7b0bd74dee253f01da4c",
+      "caption_file": "output/2026-09-18/google-s-new-cc-is-an-ai-agent-that-helps-families-run-their-household.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aad7b0bd74dee253f01da4c",
+          "published_at_utc": "2026-09-18T17:55:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/google-s-new-cc-is-an-ai-agent-that-helps-families-run-their-household.png",
+      "metadata_file": "output/2026-09-18/google-s-new-cc-is-an-ai-agent-that-helps-families-run-their-household.json",
+      "published_at_utc": "2026-09-18T17:55:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-18/inertia-co-founder-jeff-lawson-s-next-big-bet-is-fusion-go-inside-it-a.png": {
       "buffer_due_at_utc": "2026-09-18T14:38:59.000Z",
       "buffer_mode": "customScheduled",
