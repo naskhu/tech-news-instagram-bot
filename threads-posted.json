@@ -87010,6 +87010,25 @@
       "published_at_utc": "2026-09-18T00:50:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-18/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-.png": {
+      "buffer_due_at_utc": "2026-09-18T05:31:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaccc93ea02db373de40570",
+      "caption_file": "output/2026-09-18/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-18T05:31:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaccc93ea02db373de40570",
+          "published_at_utc": "2026-09-18T05:30:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-.png",
+      "metadata_file": "output/2026-09-18/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-.json",
+      "published_at_utc": "2026-09-18T05:30:59Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-18/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behav.png": {
       "buffer_due_at_utc": "2026-09-17T22:51:10.000Z",
       "buffer_mode": "customScheduled",
