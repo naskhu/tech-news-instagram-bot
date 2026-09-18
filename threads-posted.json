@@ -86986,12 +86986,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/inertia-co-founder-jeff-lawson-s-next-big-bet-is-fusion-go-inside-it-a.png": {
-      "buffer_due_at_utc": "2026-09-18T14:36:59.000Z",
+      "buffer_due_at_utc": "2026-09-18T14:38:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aad4c5f6f370e335be6fa64",
+      "buffer_post_id": "6aad4c6519adfd73eda8652f",
       "caption_file": "output/2026-09-18/inertia-co-founder-jeff-lawson-s-next-big-bet-is-fusion-go-inside-it-a.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-18T14:38:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aad4c6519adfd73eda8652f",
+          "published_at_utc": "2026-09-18T14:36:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-18T14:36:59.000Z",
           "buffer_mode": "customScheduled",
@@ -87001,7 +87007,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/inertia-co-founder-jeff-lawson-s-next-big-bet-is-fusion-go-inside-it-a.png",
       "metadata_file": "output/2026-09-18/inertia-co-founder-jeff-lawson-s-next-big-bet-is-fusion-go-inside-it-a.json",
-      "published_at_utc": "2026-09-18T14:36:16Z",
+      "published_at_utc": "2026-09-18T14:36:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/is-the-ai-safety-debate-about-safety-or-control-techcrunch.png": {
