@@ -87309,6 +87309,25 @@
       "metadata_file": "output/2026-09-18/waymo-restarts-san-antonio-service-5-months-after-flooding-troubles-te.json",
       "published_at_utc": "2026-09-17T22:25:39Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-18/waymo-says-singapore-will-be-its-next-international-robotaxi-city.png": {
+      "buffer_due_at_utc": "2026-09-18T11:03:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aad0d28d6699e7ea1169a76",
+      "caption_file": "output/2026-09-18/waymo-says-singapore-will-be-its-next-international-robotaxi-city.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-18T11:03:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aad0d28d6699e7ea1169a76",
+          "published_at_utc": "2026-09-18T10:06:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/waymo-says-singapore-will-be-its-next-international-robotaxi-city.png",
+      "metadata_file": "output/2026-09-18/waymo-says-singapore-will-be-its-next-international-robotaxi-city.json",
+      "published_at_utc": "2026-09-18T10:06:32Z",
+      "publisher": "buffer_threads"
     }
   }
 }
