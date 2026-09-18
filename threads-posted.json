@@ -87211,12 +87211,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/researchers-used-anthropic-s-claude-to-hack-into-openai-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-18T15:14:49.000Z",
+      "buffer_due_at_utc": "2026-09-18T15:16:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aad4c78f74af5e77239f3fa",
+      "buffer_post_id": "6aad4c7ef74af5e77239f44f",
       "caption_file": "output/2026-09-18/researchers-used-anthropic-s-claude-to-hack-into-openai-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-18T15:16:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aad4c7ef74af5e77239f44f",
+          "published_at_utc": "2026-09-18T14:36:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-18T15:14:49.000Z",
           "buffer_mode": "customScheduled",
@@ -87226,7 +87232,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/researchers-used-anthropic-s-claude-to-hack-into-openai-techcrunch.png",
       "metadata_file": "output/2026-09-18/researchers-used-anthropic-s-claude-to-hack-into-openai-techcrunch.json",
-      "published_at_utc": "2026-09-18T14:36:41Z",
+      "published_at_utc": "2026-09-18T14:36:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-part.png": {
