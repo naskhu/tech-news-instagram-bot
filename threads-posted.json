@@ -87086,12 +87086,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/prismml-hopes-its-tiny-llm-will-change-how-we-all-use-ai-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-18T05:50:38.000Z",
+      "buffer_due_at_utc": "2026-09-18T05:52:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaccc9f8448254db2055a26",
+      "buffer_post_id": "6aaccca441757aa564ae6918",
       "caption_file": "output/2026-09-18/prismml-hopes-its-tiny-llm-will-change-how-we-all-use-ai-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-18T05:52:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaccca441757aa564ae6918",
+          "published_at_utc": "2026-09-18T05:31:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-18T05:50:38.000Z",
           "buffer_mode": "customScheduled",
@@ -87101,7 +87107,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-18/prismml-hopes-its-tiny-llm-will-change-how-we-all-use-ai-techcrunch.png",
       "metadata_file": "output/2026-09-18/prismml-hopes-its-tiny-llm-will-change-how-we-all-use-ai-techcrunch.json",
-      "published_at_utc": "2026-09-18T05:31:11Z",
+      "published_at_utc": "2026-09-18T05:31:16Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-18/the-faa-s-plan-to-fix-air-traffic-875-million-worth-of-ai.png": {
