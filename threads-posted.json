@@ -87699,12 +87699,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/cnn-reports-the-us-military-nearly-intercepted-a-chinese-ship-based-on.png": {
-      "buffer_due_at_utc": "2026-09-19T09:41:01.000Z",
+      "buffer_due_at_utc": "2026-09-19T09:43:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aae541d65e5b8cd5b2efa0e",
+      "buffer_post_id": "6aae542304838aa1c4612816",
       "caption_file": "output/2026-09-19/cnn-reports-the-us-military-nearly-intercepted-a-chinese-ship-based-on.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T09:43:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aae542304838aa1c4612816",
+          "published_at_utc": "2026-09-19T09:21:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T09:41:01.000Z",
           "buffer_mode": "customScheduled",
@@ -87714,7 +87720,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/cnn-reports-the-us-military-nearly-intercepted-a-chinese-ship-based-on.png",
       "metadata_file": "output/2026-09-19/cnn-reports-the-us-military-nearly-intercepted-a-chinese-ship-based-on.json",
-      "published_at_utc": "2026-09-19T09:21:34Z",
+      "published_at_utc": "2026-09-19T09:21:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/disney-s-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-ch.png": {
