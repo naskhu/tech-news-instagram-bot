@@ -88310,6 +88310,25 @@
       "metadata_file": "output/2026-09-19/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation-tech.json",
       "published_at_utc": "2026-09-18T22:41:26Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-20/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts-techc.png": {
+      "buffer_due_at_utc": "2026-09-19T21:16:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaefb97bb86436624a7b134",
+      "caption_file": "output/2026-09-20/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-19T21:16:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaefb97bb86436624a7b134",
+          "published_at_utc": "2026-09-19T21:16:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts-techc.png",
+      "metadata_file": "output/2026-09-20/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts-techc.json",
+      "published_at_utc": "2026-09-19T21:16:08Z",
+      "publisher": "buffer_threads"
     }
   }
 }
