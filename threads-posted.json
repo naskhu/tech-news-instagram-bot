@@ -87949,12 +87949,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/valve-has-already-fixed-the-steam-frame-s-slow-charging-speeds.png": {
-      "buffer_due_at_utc": "2026-09-19T10:18:51.000Z",
+      "buffer_due_at_utc": "2026-09-19T10:20:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aae543504838aa1c46129a0",
+      "buffer_post_id": "6aae543b24705c90449efb66",
       "caption_file": "output/2026-09-19/valve-has-already-fixed-the-steam-frame-s-slow-charging-speeds.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T10:20:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aae543b24705c90449efb66",
+          "published_at_utc": "2026-09-19T09:22:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T10:18:51.000Z",
           "buffer_mode": "customScheduled",
@@ -87964,7 +87970,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/valve-has-already-fixed-the-steam-frame-s-slow-charging-speeds.png",
       "metadata_file": "output/2026-09-19/valve-has-already-fixed-the-steam-frame-s-slow-charging-speeds.json",
-      "published_at_utc": "2026-09-19T09:21:57Z",
+      "published_at_utc": "2026-09-19T09:22:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/world-model-companies-are-keeping-a-lot-of-secrets-techcrunch.png": {
