@@ -87599,12 +87599,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/amd-also-has-a-rumored-10-percent-price-hike-coming.png": {
-      "buffer_due_at_utc": "2026-09-19T09:22:06.000Z",
+      "buffer_due_at_utc": "2026-09-19T09:24:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aae5411560f708e81538fbf",
+      "buffer_post_id": "6aae5417560f708e8153909f",
       "caption_file": "output/2026-09-19/amd-also-has-a-rumored-10-percent-price-hike-coming.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T09:24:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aae5417560f708e8153909f",
+          "published_at_utc": "2026-09-19T09:21:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T09:22:06.000Z",
           "buffer_mode": "customScheduled",
@@ -87614,7 +87620,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/amd-also-has-a-rumored-10-percent-price-hike-coming.png",
       "metadata_file": "output/2026-09-19/amd-also-has-a-rumored-10-percent-price-hike-coming.json",
-      "published_at_utc": "2026-09-19T09:21:21Z",
+      "published_at_utc": "2026-09-19T09:21:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/anthropic-is-operating-a-lab-that-conducts-biology-experiments-techcru.png": {
