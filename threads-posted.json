@@ -87824,12 +87824,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/open-or-closed-ai-nvidia-s-nader-khalil-and-sydney-sykes-take-on-one-o.png": {
-      "buffer_due_at_utc": "2026-09-19T06:00:52.000Z",
+      "buffer_due_at_utc": "2026-09-19T06:02:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aae17c01e8bdcdb5239a5a0",
+      "buffer_post_id": "6aae17c61e8bdcdb5239a602",
       "caption_file": "output/2026-09-19/open-or-closed-ai-nvidia-s-nader-khalil-and-sydney-sykes-take-on-one-o.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T06:02:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aae17c61e8bdcdb5239a602",
+          "published_at_utc": "2026-09-19T05:04:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T06:00:52.000Z",
           "buffer_mode": "customScheduled",
@@ -87839,7 +87845,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/open-or-closed-ai-nvidia-s-nader-khalil-and-sydney-sykes-take-on-one-o.png",
       "metadata_file": "output/2026-09-19/open-or-closed-ai-nvidia-s-nader-khalil-and-sydney-sykes-take-on-one-o.json",
-      "published_at_utc": "2026-09-19T05:04:00Z",
+      "published_at_utc": "2026-09-19T05:04:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-expect-for-.png": {
