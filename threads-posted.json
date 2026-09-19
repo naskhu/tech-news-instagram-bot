@@ -87798,6 +87798,25 @@
       "published_at_utc": "2026-09-19T05:03:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-19/meta-s-muse-hits-mac-letting-the-ai-take-actions-on-your-computer-tech.png": {
+      "buffer_due_at_utc": "2026-09-19T05:41:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aae17b424705c9044996a82",
+      "caption_file": "output/2026-09-19/meta-s-muse-hits-mac-letting-the-ai-take-actions-on-your-computer-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-19T05:41:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aae17b424705c9044996a82",
+          "published_at_utc": "2026-09-19T05:03:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/meta-s-muse-hits-mac-letting-the-ai-take-actions-on-your-computer-tech.png",
+      "metadata_file": "output/2026-09-19/meta-s-muse-hits-mac-letting-the-ai-take-actions-on-your-computer-tech.json",
+      "published_at_utc": "2026-09-19T05:03:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-19/tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-expect-for-.png": {
       "buffer_due_at_utc": "2026-09-19T01:39:20.000Z",
       "buffer_mode": "customScheduled",
