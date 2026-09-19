@@ -87973,6 +87973,25 @@
       "published_at_utc": "2026-09-19T09:21:50Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-19/petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes.png": {
+      "buffer_due_at_utc": "2026-09-19T17:14:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaeb9ef140a3024025a7d44",
+      "caption_file": "output/2026-09-19/petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-19T17:14:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaeb9ef140a3024025a7d44",
+          "published_at_utc": "2026-09-19T16:35:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes.png",
+      "metadata_file": "output/2026-09-19/petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes.json",
+      "published_at_utc": "2026-09-19T16:35:59Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-19/the-ai-regulation-smackdown-isn-t-over.png": {
       "buffer_due_at_utc": "2026-09-19T13:19:48.000Z",
       "buffer_mode": "customScheduled",
