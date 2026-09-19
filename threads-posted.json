@@ -88462,12 +88462,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/the-colorful-unique-hyte-x50-pc-case-is-50-off.png": {
-      "buffer_due_at_utc": "2026-09-20T00:11:07.000Z",
+      "buffer_due_at_utc": "2026-09-20T00:13:07.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaf176bbb86436624aa2064",
+      "buffer_post_id": "6aaf17704594e3153f43903f",
       "caption_file": "output/2026-09-20/the-colorful-unique-hyte-x50-pc-case-is-50-off.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T00:13:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaf17704594e3153f43903f",
+          "published_at_utc": "2026-09-19T23:14:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T00:11:07.000Z",
           "buffer_mode": "customScheduled",
@@ -88477,7 +88483,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/the-colorful-unique-hyte-x50-pc-case-is-50-off.png",
       "metadata_file": "output/2026-09-20/the-colorful-unique-hyte-x50-pc-case-is-50-off.json",
-      "published_at_utc": "2026-09-19T23:14:51Z",
+      "published_at_utc": "2026-09-19T23:14:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/trump-suggests-rebranding-ai-with-a-new-name-says-he-s-also-creating-a.png": {
