@@ -87748,6 +87748,25 @@
       "published_at_utc": "2026-09-18T20:19:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-19/tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-expect-for-.png": {
+      "buffer_due_at_utc": "2026-09-19T01:37:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aadd9f904838aa1c456e194",
+      "caption_file": "output/2026-09-19/tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-expect-for-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-19T01:37:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aadd9f904838aa1c456e194",
+          "published_at_utc": "2026-09-19T00:40:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-expect-for-.png",
+      "metadata_file": "output/2026-09-19/tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-expect-for-.json",
+      "published_at_utc": "2026-09-19T00:40:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-19/world-model-companies-are-keeping-a-lot-of-secrets-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-18T23:21:18.000Z",
       "buffer_mode": "customScheduled",
