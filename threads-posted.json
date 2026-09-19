@@ -88049,12 +88049,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/will-there-be-anyone-left-covering-this-white-house.png": {
-      "buffer_due_at_utc": "2026-09-19T14:14:33.000Z",
+      "buffer_due_at_utc": "2026-09-19T14:16:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aae8b7224705c9044a5a003",
+      "buffer_post_id": "6aae8b77f4364554a89e00bc",
       "caption_file": "output/2026-09-19/will-there-be-anyone-left-covering-this-white-house.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T14:16:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aae8b77f4364554a89e00bc",
+          "published_at_utc": "2026-09-19T13:17:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T14:14:33.000Z",
           "buffer_mode": "customScheduled",
@@ -88064,7 +88070,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/will-there-be-anyone-left-covering-this-white-house.png",
       "metadata_file": "output/2026-09-19/will-there-be-anyone-left-covering-this-white-house.json",
-      "published_at_utc": "2026-09-19T13:17:38Z",
+      "published_at_utc": "2026-09-19T13:17:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/world-model-companies-are-keeping-a-lot-of-secrets-techcrunch.png": {
