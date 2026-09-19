@@ -87548,6 +87548,25 @@
       "published_at_utc": "2026-09-18T20:19:05Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-19/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-phys.png": {
+      "buffer_due_at_utc": "2026-09-19T00:40:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aadd9d698827948876a01b2",
+      "caption_file": "output/2026-09-19/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-phys.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-19T00:40:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aadd9d698827948876a01b2",
+          "published_at_utc": "2026-09-19T00:39:51Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-phys.png",
+      "metadata_file": "output/2026-09-19/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-phys.json",
+      "published_at_utc": "2026-09-19T00:39:51Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-19/anthropic-s-first-embedded-evaluator-is-accenture-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-18T22:43:28.000Z",
       "buffer_mode": "customScheduled",
