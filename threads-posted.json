@@ -87598,6 +87598,25 @@
       "published_at_utc": "2026-09-19T00:40:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-19/amd-also-has-a-rumored-10-percent-price-hike-coming.png": {
+      "buffer_due_at_utc": "2026-09-19T09:22:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aae5411560f708e81538fbf",
+      "caption_file": "output/2026-09-19/amd-also-has-a-rumored-10-percent-price-hike-coming.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-19T09:22:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aae5411560f708e81538fbf",
+          "published_at_utc": "2026-09-19T09:21:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/amd-also-has-a-rumored-10-percent-price-hike-coming.png",
+      "metadata_file": "output/2026-09-19/amd-also-has-a-rumored-10-percent-price-hike-coming.json",
+      "published_at_utc": "2026-09-19T09:21:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-19/anthropic-is-operating-a-lab-that-conducts-biology-experiments-techcru.png": {
       "buffer_due_at_utc": "2026-09-19T01:20:25.000Z",
       "buffer_mode": "customScheduled",
