@@ -87822,10 +87822,15 @@
     },
     "output/2026-09-19/even-mid-sprint-to-a-secret-flight-the-navy-s-tech-chief-has-a-pitch-f.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aaeda6d13d908add20330db",
+      "buffer_post_id": "6aaeda7d4594e3153f3e4e07",
       "caption_file": "output/2026-09-19/even-mid-sprint-to-a-secret-flight-the-navy-s-tech-chief-has-a-pitch-f.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aaeda7d4594e3153f3e4e07",
+          "published_at_utc": "2026-09-19T18:55:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aaeda6d13d908add20330db",
@@ -87834,7 +87839,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/even-mid-sprint-to-a-secret-flight-the-navy-s-tech-chief-has-a-pitch-f.png",
       "metadata_file": "output/2026-09-19/even-mid-sprint-to-a-secret-flight-the-navy-s-tech-chief-has-a-pitch-f.json",
-      "published_at_utc": "2026-09-19T18:54:47Z",
+      "published_at_utc": "2026-09-19T18:55:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/family-offices-are-clamoring-for-ai-investments-techcrunch.png": {
