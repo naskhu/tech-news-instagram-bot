@@ -87999,12 +87999,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-stand.png": {
-      "buffer_due_at_utc": "2026-09-19T13:55:38.000Z",
+      "buffer_due_at_utc": "2026-09-19T13:57:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aae8b6665e5b8cd5b35a8ef",
+      "buffer_post_id": "6aae8b6c560f708e815a5117",
       "caption_file": "output/2026-09-19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-stand.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T13:57:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aae8b6c560f708e815a5117",
+          "published_at_utc": "2026-09-19T13:17:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T13:55:38.000Z",
           "buffer_mode": "customScheduled",
@@ -88014,7 +88020,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-stand.png",
       "metadata_file": "output/2026-09-19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-stand.json",
-      "published_at_utc": "2026-09-19T13:17:26Z",
+      "published_at_utc": "2026-09-19T13:17:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/valve-has-already-fixed-the-steam-frame-s-slow-charging-speeds.png": {
