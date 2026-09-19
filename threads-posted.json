@@ -87999,12 +87999,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/prices-go-up-in-7-days-get-your-disrupt-ticket-now-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-19T17:33:03.000Z",
+      "buffer_due_at_utc": "2026-09-19T17:35:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaeb9fb6e039ccbc81fa8a4",
+      "buffer_post_id": "6aaeba0165e5b8cd5b3aab45",
       "caption_file": "output/2026-09-19/prices-go-up-in-7-days-get-your-disrupt-ticket-now-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T17:35:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaeba0165e5b8cd5b3aab45",
+          "published_at_utc": "2026-09-19T16:36:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T17:33:03.000Z",
           "buffer_mode": "customScheduled",
@@ -88014,7 +88020,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/prices-go-up-in-7-days-get-your-disrupt-ticket-now-techcrunch.png",
       "metadata_file": "output/2026-09-19/prices-go-up-in-7-days-get-your-disrupt-ticket-now-techcrunch.json",
-      "published_at_utc": "2026-09-19T16:36:11Z",
+      "published_at_utc": "2026-09-19T16:36:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/the-ai-regulation-smackdown-isn-t-over.png": {
