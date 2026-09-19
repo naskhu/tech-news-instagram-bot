@@ -87599,12 +87599,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/anthropic-is-operating-a-lab-that-conducts-biology-experiments-techcru.png": {
-      "buffer_due_at_utc": "2026-09-19T01:18:25.000Z",
+      "buffer_due_at_utc": "2026-09-19T01:20:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aadd9ee04838aa1c456e0f9",
+      "buffer_post_id": "6aadd9f4a4c300df32a36157",
       "caption_file": "output/2026-09-19/anthropic-is-operating-a-lab-that-conducts-biology-experiments-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T01:20:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aadd9f4a4c300df32a36157",
+          "published_at_utc": "2026-09-19T00:40:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T01:18:25.000Z",
           "buffer_mode": "customScheduled",
@@ -87614,7 +87620,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/anthropic-is-operating-a-lab-that-conducts-biology-experiments-techcru.png",
       "metadata_file": "output/2026-09-19/anthropic-is-operating-a-lab-that-conducts-biology-experiments-techcru.json",
-      "published_at_utc": "2026-09-19T00:40:14Z",
+      "published_at_utc": "2026-09-19T00:40:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/anthropic-s-first-embedded-evaluator-is-accenture-techcrunch.png": {
