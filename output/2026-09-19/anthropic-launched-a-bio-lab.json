@@ -1,0 +1,23 @@
+{
+  "title": "Anthropic launched a bio lab.",
+  "summary": "It’s been a poorly kept secret that the company was working towards building its own wet lab. It was hiring biologists and even bought startup Coefficient Bio in April.",
+  "source": "The Verge",
+  "url": "https://theverge.com/ai-artificial-intelligence/997809/anthropic-launched-a-biolab",
+  "published_utc": "2026-09-19T17:15:49+00:00",
+  "output_day": "2026-09-19",
+  "date_source": "meta",
+  "generated_utc": "2026-09-19T18:52:17.578910+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/TERRENCE_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-19/anthropic-launched-a-bio-lab.png",
+  "caption": "output/2026-09-19/anthropic-launched-a-bio-lab.txt"
+}
