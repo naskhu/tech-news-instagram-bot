@@ -87574,12 +87574,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/ai-hallucination-nearly-triggers-us-military-operation-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-19T00:59:30.000Z",
+      "buffer_due_at_utc": "2026-09-19T01:01:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aadd9e2560f708e81491112",
+      "buffer_post_id": "6aadd9e85fe629aa266607ae",
       "caption_file": "output/2026-09-19/ai-hallucination-nearly-triggers-us-military-operation-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-19T01:01:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aadd9e85fe629aa266607ae",
+          "published_at_utc": "2026-09-19T00:40:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-19T00:59:30.000Z",
           "buffer_mode": "customScheduled",
@@ -87589,7 +87595,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/ai-hallucination-nearly-triggers-us-military-operation-techcrunch.png",
       "metadata_file": "output/2026-09-19/ai-hallucination-nearly-triggers-us-military-operation-techcrunch.json",
-      "published_at_utc": "2026-09-19T00:40:02Z",
+      "published_at_utc": "2026-09-19T00:40:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-19/anthropic-s-first-embedded-evaluator-is-accenture-techcrunch.png": {
