@@ -87573,6 +87573,25 @@
       "published_at_utc": "2026-09-19T00:39:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-19/ai-actress-tilly-norwood-glitches-and-starts-speaking-cantonese-during.png": {
+      "buffer_due_at_utc": "2026-09-19T16:36:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaeb9d66e039ccbc81fa1f7",
+      "caption_file": "output/2026-09-19/ai-actress-tilly-norwood-glitches-and-starts-speaking-cantonese-during.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-19T16:36:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaeb9d66e039ccbc81fa1f7",
+          "published_at_utc": "2026-09-19T16:35:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-19/ai-actress-tilly-norwood-glitches-and-starts-speaking-cantonese-during.png",
+      "metadata_file": "output/2026-09-19/ai-actress-tilly-norwood-glitches-and-starts-speaking-cantonese-during.json",
+      "published_at_utc": "2026-09-19T16:35:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-19/ai-hallucination-nearly-triggers-us-military-operation-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-19T01:01:30.000Z",
       "buffer_mode": "customScheduled",
