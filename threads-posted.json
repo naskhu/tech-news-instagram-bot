@@ -88486,6 +88486,25 @@
       "published_at_utc": "2026-09-19T23:14:46Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-20/i-ve-spent-years-fighting-texas-mosquitoes-this-is-what-finally-worked.png": {
+      "buffer_due_at_utc": "2026-09-20T12:28:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aafc87d8d048c06b403cea0",
+      "caption_file": "output/2026-09-20/i-ve-spent-years-fighting-texas-mosquitoes-this-is-what-finally-worked.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-20T12:28:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aafc87d8d048c06b403cea0",
+          "published_at_utc": "2026-09-20T11:50:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/i-ve-spent-years-fighting-texas-mosquitoes-this-is-what-finally-worked.png",
+      "metadata_file": "output/2026-09-20/i-ve-spent-years-fighting-texas-mosquitoes-this-is-what-finally-worked.json",
+      "published_at_utc": "2026-09-20T11:50:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-20/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-bra.png": {
       "buffer_due_at_utc": "2026-09-20T01:38:51.000Z",
       "buffer_mode": "customScheduled",
