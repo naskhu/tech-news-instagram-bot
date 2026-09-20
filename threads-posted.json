@@ -88462,12 +88462,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/mathematicians-hate-ai-they-can-t-quit-it.png": {
-      "buffer_due_at_utc": "2026-09-20T06:25:40.000Z",
+      "buffer_due_at_utc": "2026-09-20T06:27:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaf7c37566e1a89bc25b311",
+      "buffer_post_id": "6aaf7c3d8d048c06b4fc2075",
       "caption_file": "output/2026-09-20/mathematicians-hate-ai-they-can-t-quit-it.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T06:27:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaf7c3d8d048c06b4fc2075",
+          "published_at_utc": "2026-09-20T06:25:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T06:25:40.000Z",
           "buffer_mode": "customScheduled",
@@ -88477,7 +88483,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/mathematicians-hate-ai-they-can-t-quit-it.png",
       "metadata_file": "output/2026-09-20/mathematicians-hate-ai-they-can-t-quit-it.json",
-      "published_at_utc": "2026-09-20T06:24:55Z",
+      "published_at_utc": "2026-09-20T06:25:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/meta-s-muse-is-creepy-but-maybe-not-for-the-reasons-you-think.png": {
