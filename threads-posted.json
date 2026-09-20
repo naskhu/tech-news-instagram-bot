@@ -88636,6 +88636,25 @@
       "published_at_utc": "2026-09-19T23:14:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-20/the-samsung-galaxy-watch9-wants-to-tell-you-everything-about-your-body.png": {
+      "buffer_due_at_utc": "2026-09-20T07:03:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaf7c4d4594e3153f4c88e3",
+      "caption_file": "output/2026-09-20/the-samsung-galaxy-watch9-wants-to-tell-you-everything-about-your-body.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-20T07:03:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaf7c4d4594e3153f4c88e3",
+          "published_at_utc": "2026-09-20T06:25:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/the-samsung-galaxy-watch9-wants-to-tell-you-everything-about-your-body.png",
+      "metadata_file": "output/2026-09-20/the-samsung-galaxy-watch9-wants-to-tell-you-everything-about-your-body.json",
+      "published_at_utc": "2026-09-20T06:25:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-20/trump-suggests-rebranding-ai-with-a-new-name-says-he-s-also-creating-a.png": {
       "buffer_due_at_utc": "2026-09-19T22:15:36.000Z",
       "buffer_mode": "customScheduled",
