@@ -88386,6 +88386,25 @@
       "published_at_utc": "2026-09-19T21:16:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-20/forget-the-ai-slowdown-the-vulnerability-explosion-is-already-happenin.png": {
+      "buffer_due_at_utc": "2026-09-20T01:17:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaf341813d908add20b30a6",
+      "caption_file": "output/2026-09-20/forget-the-ai-slowdown-the-vulnerability-explosion-is-already-happenin.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-20T01:17:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaf341813d908add20b30a6",
+          "published_at_utc": "2026-09-20T01:17:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/forget-the-ai-slowdown-the-vulnerability-explosion-is-already-happenin.png",
+      "metadata_file": "output/2026-09-20/forget-the-ai-slowdown-the-vulnerability-explosion-is-already-happenin.json",
+      "published_at_utc": "2026-09-20T01:17:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-20/gemini-went-rogue-hacked-three-companies-and-google-hid-it.png": {
       "buffer_due_at_utc": "2026-09-19T23:54:12.000Z",
       "buffer_mode": "customScheduled",
