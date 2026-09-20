@@ -88312,12 +88312,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026.png": {
-      "buffer_due_at_utc": "2026-09-20T15:18:21.000Z",
+      "buffer_due_at_utc": "2026-09-20T15:20:21.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaff9112e85bf5857938053",
+      "buffer_post_id": "6aaff917549cbb17798a12fe",
       "caption_file": "output/2026-09-20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T15:20:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaff917549cbb17798a12fe",
+          "published_at_utc": "2026-09-20T15:17:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T15:18:21.000Z",
           "buffer_mode": "customScheduled",
@@ -88327,7 +88333,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026.png",
       "metadata_file": "output/2026-09-20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026.json",
-      "published_at_utc": "2026-09-20T15:17:37Z",
+      "published_at_utc": "2026-09-20T15:17:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/an-activist-crashed-a-canva-ai-event.png": {
