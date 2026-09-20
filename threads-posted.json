@@ -88512,12 +88512,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/prime-day-hasn-t-started-yet-but-i-ve-already-found-deals-worth-buying.png": {
-      "buffer_due_at_utc": "2026-09-20T01:55:46.000Z",
+      "buffer_due_at_utc": "2026-09-20T01:57:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaf342f8d048c06b4f5e08b",
+      "buffer_post_id": "6aaf3435566e1a89bc1f9d36",
       "caption_file": "output/2026-09-20/prime-day-hasn-t-started-yet-but-i-ve-already-found-deals-worth-buying.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T01:57:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaf3435566e1a89bc1f9d36",
+          "published_at_utc": "2026-09-20T01:17:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T01:55:46.000Z",
           "buffer_mode": "customScheduled",
@@ -88527,7 +88533,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/prime-day-hasn-t-started-yet-but-i-ve-already-found-deals-worth-buying.png",
       "metadata_file": "output/2026-09-20/prime-day-hasn-t-started-yet-but-i-ve-already-found-deals-worth-buying.json",
-      "published_at_utc": "2026-09-20T01:17:35Z",
+      "published_at_utc": "2026-09-20T01:17:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/the-colorful-unique-hyte-x50-pc-case-is-50-off.png": {
