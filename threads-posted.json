@@ -88561,6 +88561,25 @@
       "published_at_utc": "2026-09-20T01:17:41Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-20/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-ne.png": {
+      "buffer_due_at_utc": "2026-09-20T06:44:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaf7c42a490f1cf65dba42e",
+      "caption_file": "output/2026-09-20/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-ne.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-20T06:44:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaf7c42a490f1cf65dba42e",
+          "published_at_utc": "2026-09-20T06:25:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-ne.png",
+      "metadata_file": "output/2026-09-20/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-ne.json",
+      "published_at_utc": "2026-09-20T06:25:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-20/rings-around-a-tiny-body-have-changed-over-the-past-decade.png": {
       "buffer_due_at_utc": "2026-09-20T02:16:41.000Z",
       "buffer_mode": "customScheduled",
