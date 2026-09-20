@@ -88362,12 +88362,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/a24-s-reputation-is-on-the-line-with-the-scp-foundation-movie.png": {
-      "buffer_due_at_utc": "2026-09-20T15:56:11.000Z",
+      "buffer_due_at_utc": "2026-09-20T15:58:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaff92835dc00a609758f7f",
+      "buffer_post_id": "6aaff92d35dc00a609758fd6",
       "caption_file": "output/2026-09-20/a24-s-reputation-is-on-the-line-with-the-scp-foundation-movie.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T15:58:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaff92d35dc00a609758fd6",
+          "published_at_utc": "2026-09-20T15:18:05Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T15:56:11.000Z",
           "buffer_mode": "customScheduled",
@@ -88377,7 +88383,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/a24-s-reputation-is-on-the-line-with-the-scp-foundation-movie.png",
       "metadata_file": "output/2026-09-20/a24-s-reputation-is-on-the-line-with-the-scp-foundation-movie.json",
-      "published_at_utc": "2026-09-20T15:18:00Z",
+      "published_at_utc": "2026-09-20T15:18:05Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/an-activist-crashed-a-canva-ai-event.png": {
