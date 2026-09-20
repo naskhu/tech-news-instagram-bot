@@ -88976,6 +88976,23 @@
       "metadata_file": "output/2026-09-20/trump-suggests-rebranding-ai-with-a-new-name-says-he-s-also-creating-a.json",
       "published_at_utc": "2026-09-19T21:16:49Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-20/trump-wants-to-put-drones-and-snipers-in-his-planned-dc-arch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ab023953f368df689ee3860",
+      "caption_file": "output/2026-09-20/trump-wants-to-put-drones-and-snipers-in-his-planned-dc-arch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab023953f368df689ee3860",
+          "published_at_utc": "2026-09-20T18:19:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/trump-wants-to-put-drones-and-snipers-in-his-planned-dc-arch.png",
+      "metadata_file": "output/2026-09-20/trump-wants-to-put-drones-and-snipers-in-his-planned-dc-arch.json",
+      "published_at_utc": "2026-09-20T18:19:11Z",
+      "publisher": "buffer_threads"
     }
   }
 }
