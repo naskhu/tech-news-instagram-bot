@@ -88686,6 +88686,23 @@
       "published_at_utc": "2026-09-19T21:16:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-20/new-california-law-will-penalize-influencers-who-don-t-disclose-politi.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ab023383f368df689ee33f9",
+      "caption_file": "output/2026-09-20/new-california-law-will-penalize-influencers-who-don-t-disclose-politi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab023383f368df689ee33f9",
+          "published_at_utc": "2026-09-20T18:17:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/new-california-law-will-penalize-influencers-who-don-t-disclose-politi.png",
+      "metadata_file": "output/2026-09-20/new-california-law-will-penalize-influencers-who-don-t-disclose-politi.json",
+      "published_at_utc": "2026-09-20T18:17:38Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-20/now-trump-is-trying-to-rename-ai-too.png": {
       "buffer_due_at_utc": "2026-09-19T21:56:41.000Z",
       "buffer_mode": "customScheduled",
