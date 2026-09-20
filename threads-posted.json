@@ -89149,6 +89149,25 @@
       "published_at_utc": "2026-09-20T20:56:19Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-21/what-creepypasta-or-internet-horror-deserves-a-movie-next.png": {
+      "buffer_due_at_utc": "2026-09-20T23:53:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab064be9644849c89a2c738",
+      "caption_file": "output/2026-09-21/what-creepypasta-or-internet-horror-deserves-a-movie-next.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-20T23:53:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab064be9644849c89a2c738",
+          "published_at_utc": "2026-09-20T22:57:02Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/what-creepypasta-or-internet-horror-deserves-a-movie-next.png",
+      "metadata_file": "output/2026-09-21/what-creepypasta-or-internet-horror-deserves-a-movie-next.json",
+      "published_at_utc": "2026-09-20T22:57:02Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-21/world-model-companies-are-keeping-a-lot-of-secrets-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-20T21:55:20.000Z",
       "buffer_mode": "customScheduled",
