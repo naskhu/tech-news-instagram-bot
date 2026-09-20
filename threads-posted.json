@@ -88436,6 +88436,25 @@
       "published_at_utc": "2026-09-19T23:14:46Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-20/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-bra.png": {
+      "buffer_due_at_utc": "2026-09-20T01:36:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaf3424b87fe8130455c925",
+      "caption_file": "output/2026-09-20/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-bra.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-20T01:36:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaf3424b87fe8130455c925",
+          "published_at_utc": "2026-09-20T01:17:24Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-bra.png",
+      "metadata_file": "output/2026-09-20/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-bra.json",
+      "published_at_utc": "2026-09-20T01:17:24Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-20/meta-s-muse-is-creepy-but-maybe-not-for-the-reasons-you-think.png": {
       "buffer_due_at_utc": "2026-09-19T21:37:46.000Z",
       "buffer_mode": "customScheduled",
