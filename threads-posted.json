@@ -89050,12 +89050,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-20T21:34:25.000Z",
+      "buffer_due_at_utc": "2026-09-20T21:36:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab0486e9644849c89a012f6",
+      "buffer_post_id": "6ab048739644849c89a018b4",
       "caption_file": "output/2026-09-21/vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T21:36:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab048739644849c89a018b4",
+          "published_at_utc": "2026-09-20T20:56:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T21:34:25.000Z",
           "buffer_mode": "customScheduled",
@@ -89065,7 +89071,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking-techcrunch.png",
       "metadata_file": "output/2026-09-21/vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking-techcrunch.json",
-      "published_at_utc": "2026-09-20T20:56:14Z",
+      "published_at_utc": "2026-09-20T20:56:19Z",
       "publisher": "buffer_threads"
     }
   }
