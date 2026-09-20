@@ -88661,6 +88661,25 @@
       "published_at_utc": "2026-09-20T06:25:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-20/tired-of-cluttered-productivity-apps-this-one-s-just-a-text-document.png": {
+      "buffer_due_at_utc": "2026-09-20T07:22:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aaf7c588d048c06b4fc2774",
+      "caption_file": "output/2026-09-20/tired-of-cluttered-productivity-apps-this-one-s-just-a-text-document.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-20T07:22:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaf7c588d048c06b4fc2774",
+          "published_at_utc": "2026-09-20T06:25:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/tired-of-cluttered-productivity-apps-this-one-s-just-a-text-document.png",
+      "metadata_file": "output/2026-09-20/tired-of-cluttered-productivity-apps-this-one-s-just-a-text-document.json",
+      "published_at_utc": "2026-09-20T06:25:28Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-20/trump-suggests-rebranding-ai-with-a-new-name-says-he-s-also-creating-a.png": {
       "buffer_due_at_utc": "2026-09-19T22:15:36.000Z",
       "buffer_mode": "customScheduled",
