@@ -89075,12 +89075,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/no-dogs-in-space-is-back-to-feed-your-need-for-obsessive-music-history.png": {
-      "buffer_due_at_utc": "2026-09-20T23:16:06.000Z",
+      "buffer_due_at_utc": "2026-09-20T23:18:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab064a7d03859abc757972b",
+      "buffer_post_id": "6ab064ad5ae2b4276707b7f6",
       "caption_file": "output/2026-09-21/no-dogs-in-space-is-back-to-feed-your-need-for-obsessive-music-history.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T23:18:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab064ad5ae2b4276707b7f6",
+          "published_at_utc": "2026-09-20T22:56:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T23:16:06.000Z",
           "buffer_mode": "customScheduled",
@@ -89090,7 +89096,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/no-dogs-in-space-is-back-to-feed-your-need-for-obsessive-music-history.png",
       "metadata_file": "output/2026-09-21/no-dogs-in-space-is-back-to-feed-your-need-for-obsessive-music-history.json",
-      "published_at_utc": "2026-09-20T22:56:39Z",
+      "published_at_utc": "2026-09-20T22:56:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking-techcrunch.png": {
