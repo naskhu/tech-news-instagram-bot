@@ -89100,12 +89100,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/no-one-is-surprised-that-nvidia-s-jensen-huang-thinks-ai-fears-are-ove.png": {
-      "buffer_due_at_utc": "2026-09-20T23:35:01.000Z",
+      "buffer_due_at_utc": "2026-09-20T23:37:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab064b3d03859abc757979d",
+      "buffer_post_id": "6ab064b8b07e536c5a1ecf2f",
       "caption_file": "output/2026-09-21/no-one-is-surprised-that-nvidia-s-jensen-huang-thinks-ai-fears-are-ove.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T23:37:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab064b8b07e536c5a1ecf2f",
+          "published_at_utc": "2026-09-20T22:56:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T23:35:01.000Z",
           "buffer_mode": "customScheduled",
@@ -89115,7 +89121,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/no-one-is-surprised-that-nvidia-s-jensen-huang-thinks-ai-fears-are-ove.png",
       "metadata_file": "output/2026-09-21/no-one-is-surprised-that-nvidia-s-jensen-huang-thinks-ai-fears-are-ove.json",
-      "published_at_utc": "2026-09-20T22:56:51Z",
+      "published_at_utc": "2026-09-20T22:56:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking-techcrunch.png": {
