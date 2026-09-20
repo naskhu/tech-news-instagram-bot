@@ -88857,10 +88857,15 @@
     },
     "output/2026-09-20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough-techcrunc.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ab023783f368df689ee372f",
+      "buffer_post_id": "6ab02386b07e536c5a18bf95",
       "caption_file": "output/2026-09-20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough-techcrunc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab02386b07e536c5a18bf95",
+          "published_at_utc": "2026-09-20T18:18:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ab023783f368df689ee372f",
@@ -88869,7 +88874,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough-techcrunc.png",
       "metadata_file": "output/2026-09-20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough-techcrunc.json",
-      "published_at_utc": "2026-09-20T18:18:41Z",
+      "published_at_utc": "2026-09-20T18:18:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/the-colorful-unique-hyte-x50-pc-case-is-50-off.png": {
