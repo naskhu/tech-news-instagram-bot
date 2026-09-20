@@ -88562,12 +88562,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/how-good-are-your-ai-detecting-skills.png": {
-      "buffer_due_at_utc": "2026-09-20T16:15:06.000Z",
+      "buffer_due_at_utc": "2026-09-20T16:17:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aaff933a490f1cf65e939f6",
+      "buffer_post_id": "6aaff93813d908add21e7b70",
       "caption_file": "output/2026-09-20/how-good-are-your-ai-detecting-skills.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-20T16:17:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aaff93813d908add21e7b70",
+          "published_at_utc": "2026-09-20T15:18:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-20T16:15:06.000Z",
           "buffer_mode": "customScheduled",
@@ -88577,7 +88583,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-20/how-good-are-your-ai-detecting-skills.png",
       "metadata_file": "output/2026-09-20/how-good-are-your-ai-detecting-skills.json",
-      "published_at_utc": "2026-09-20T15:18:11Z",
+      "published_at_utc": "2026-09-20T15:18:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-20/i-ve-spent-years-fighting-texas-mosquitoes-this-is-what-finally-worked.png": {
