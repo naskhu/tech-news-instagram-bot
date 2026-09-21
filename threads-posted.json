@@ -89588,12 +89588,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techcrunch-.png": {
-      "buffer_due_at_utc": "2026-09-21T21:20:19.000Z",
+      "buffer_due_at_utc": "2026-09-21T21:22:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab19f6774d4ff403e113695",
+      "buffer_post_id": "6ab19f6d8e2aab6eac4cecfe",
       "caption_file": "output/2026-09-22/discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techcrunch-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-21T21:22:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab19f6d8e2aab6eac4cecfe",
+          "published_at_utc": "2026-09-21T21:19:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-21T21:20:19.000Z",
           "buffer_mode": "customScheduled",
@@ -89603,7 +89609,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techcrunch-.png",
       "metadata_file": "output/2026-09-22/discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techcrunch-.json",
-      "published_at_utc": "2026-09-21T21:19:35Z",
+      "published_at_utc": "2026-09-21T21:19:41Z",
       "publisher": "buffer_threads"
     }
   }
