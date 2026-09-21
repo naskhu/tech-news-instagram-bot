@@ -89176,10 +89176,15 @@
     },
     "output/2026-09-21/google-s-899-googlebook-is-a-bet-that-you-ll-buy-a-new-laptop-for-gemi.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ab16c4ee04e00e3b5bab4d5",
+      "buffer_post_id": "6ab16c5fe04e00e3b5bab5fe",
       "caption_file": "output/2026-09-21/google-s-899-googlebook-is-a-bet-that-you-ll-buy-a-new-laptop-for-gemi.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab16c5fe04e00e3b5bab5fe",
+          "published_at_utc": "2026-09-21T17:42:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ab16c4ee04e00e3b5bab4d5",
@@ -89188,7 +89193,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/google-s-899-googlebook-is-a-bet-that-you-ll-buy-a-new-laptop-for-gemi.png",
       "metadata_file": "output/2026-09-21/google-s-899-googlebook-is-a-bet-that-you-ll-buy-a-new-laptop-for-gemi.json",
-      "published_at_utc": "2026-09-21T17:41:44Z",
+      "published_at_utc": "2026-09-21T17:42:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/humans-not-rogue-ai-are-still-the-biggest-cybersecurity-risk-to-energy.png": {
