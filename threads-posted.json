@@ -89100,12 +89100,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/get-a-closer-look-at-the-iphone-18-pro-s-mechanical-camera.png": {
-      "buffer_due_at_utc": "2026-09-21T11:45:11.000Z",
+      "buffer_due_at_utc": "2026-09-21T11:47:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab1189b1637389f348eac10",
+      "buffer_post_id": "6ab118a150b63a1b7653d55d",
       "caption_file": "output/2026-09-21/get-a-closer-look-at-the-iphone-18-pro-s-mechanical-camera.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-21T11:47:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab118a150b63a1b7653d55d",
+          "published_at_utc": "2026-09-21T11:44:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-21T11:45:11.000Z",
           "buffer_mode": "customScheduled",
@@ -89115,7 +89121,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/get-a-closer-look-at-the-iphone-18-pro-s-mechanical-camera.png",
       "metadata_file": "output/2026-09-21/get-a-closer-look-at-the-iphone-18-pro-s-mechanical-camera.json",
-      "published_at_utc": "2026-09-21T11:44:27Z",
+      "published_at_utc": "2026-09-21T11:44:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/humans-not-rogue-ai-are-still-the-biggest-cybersecurity-risk-to-energy.png": {
