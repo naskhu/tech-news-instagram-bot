@@ -88999,6 +88999,25 @@
       "published_at_utc": "2026-09-20T18:19:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-21/a-great-new-video-game-movie.png": {
+      "buffer_due_at_utc": "2026-09-21T00:50:15.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab07f1a9644849c89a5cc54",
+      "caption_file": "output/2026-09-21/a-great-new-video-game-movie.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-21T00:50:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab07f1a9644849c89a5cc54",
+          "published_at_utc": "2026-09-21T00:49:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/a-great-new-video-game-movie.png",
+      "metadata_file": "output/2026-09-21/a-great-new-video-game-movie.json",
+      "published_at_utc": "2026-09-21T00:49:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-21/elon-musk-s-latest-boring-company-pitch-involves-a-hyperloop-between-a.png": {
       "buffer_due_at_utc": "2026-09-20T20:58:35.000Z",
       "buffer_mode": "customScheduled",
