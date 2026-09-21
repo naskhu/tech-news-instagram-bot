@@ -89661,6 +89661,25 @@
       "metadata_file": "output/2026-09-22/meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-techcrunch.json",
       "published_at_utc": "2026-09-21T21:20:03Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-22/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open.png": {
+      "buffer_due_at_utc": "2026-09-21T22:17:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab19f898e2aab6eac4cf902",
+      "caption_file": "output/2026-09-22/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-21T22:17:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab19f898e2aab6eac4cf902",
+          "published_at_utc": "2026-09-21T21:20:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open.png",
+      "metadata_file": "output/2026-09-22/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open.json",
+      "published_at_utc": "2026-09-21T21:20:09Z",
+      "publisher": "buffer_threads"
     }
   }
 }
