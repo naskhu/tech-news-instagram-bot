@@ -1,0 +1,23 @@
+{
+  "title": "A great new video game movie",
+  "summary": "﻿Plus, in this week’s Installer: Valve’s Steam Frame, Nintendo’s expansive new Fire Emblem, Fujifilm’s tiny new camera, and more. ﻿Plus, in this week’s Installer: Valve’s Steam Frame, Nintendo’s expansive new Fire Emblem, Fujifilm’s tiny new camera, and more.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
+  "published_utc": "2026-09-20T12:00:00+00:00",
+  "output_day": "2026-09-21",
+  "date_source": "meta",
+  "generated_utc": "2026-09-21T00:47:56.013941+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-21/a-great-new-video-game-movie.png",
+  "caption": "output/2026-09-21/a-great-new-video-game-movie.txt"
+}
