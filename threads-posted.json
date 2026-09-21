@@ -89375,12 +89375,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/un-says-ai-safeguards-can-t-wait-for-certainty.png": {
-      "buffer_due_at_utc": "2026-09-21T12:41:56.000Z",
+      "buffer_due_at_utc": "2026-09-21T12:43:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab118bf8bef10e40cecba71",
+      "buffer_post_id": "6ab118c58bef10e40cecbb29",
       "caption_file": "output/2026-09-21/un-says-ai-safeguards-can-t-wait-for-certainty.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-21T12:43:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab118c58bef10e40cecbb29",
+          "published_at_utc": "2026-09-21T11:45:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-21T12:41:56.000Z",
           "buffer_mode": "customScheduled",
@@ -89390,7 +89396,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/un-says-ai-safeguards-can-t-wait-for-certainty.png",
       "metadata_file": "output/2026-09-21/un-says-ai-safeguards-can-t-wait-for-certainty.json",
-      "published_at_utc": "2026-09-21T11:45:04Z",
+      "published_at_utc": "2026-09-21T11:45:09Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking-techcrunch.png": {
