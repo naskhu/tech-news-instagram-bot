@@ -89636,6 +89636,25 @@
       "metadata_file": "output/2026-09-22/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-react.json",
       "published_at_utc": "2026-09-21T21:19:52Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-22/meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-21T21:58:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab19f7ee1612e2f787784ba",
+      "caption_file": "output/2026-09-22/meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-21T21:58:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab19f7ee1612e2f787784ba",
+          "published_at_utc": "2026-09-21T21:19:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-techcrunch.png",
+      "metadata_file": "output/2026-09-22/meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-techcrunch.json",
+      "published_at_utc": "2026-09-21T21:19:58Z",
+      "publisher": "buffer_threads"
     }
   }
 }
