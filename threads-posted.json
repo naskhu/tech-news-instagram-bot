@@ -89125,12 +89125,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/kojima-productions-disputes-reports-the-studio-is-in-trouble.png": {
-      "buffer_due_at_utc": "2026-09-21T01:28:05.000Z",
+      "buffer_due_at_utc": "2026-09-21T01:30:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab07f3326caf7929b05b4e7",
+      "buffer_post_id": "6ab07f399644849c89a5cd42",
       "caption_file": "output/2026-09-21/kojima-productions-disputes-reports-the-studio-is-in-trouble.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-21T01:30:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab07f399644849c89a5cd42",
+          "published_at_utc": "2026-09-21T00:50:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-21T01:28:05.000Z",
           "buffer_mode": "customScheduled",
@@ -89140,7 +89146,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/kojima-productions-disputes-reports-the-studio-is-in-trouble.png",
       "metadata_file": "output/2026-09-21/kojima-productions-disputes-reports-the-studio-is-in-trouble.json",
-      "published_at_utc": "2026-09-21T00:49:55Z",
+      "published_at_utc": "2026-09-21T00:50:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/no-dogs-in-space-is-back-to-feed-your-need-for-obsessive-music-history.png": {
