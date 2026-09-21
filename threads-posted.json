@@ -89174,6 +89174,25 @@
       "published_at_utc": "2026-09-21T00:50:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-21/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis.png": {
+      "buffer_due_at_utc": "2026-09-21T06:12:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab0c63f3649bbabeabef25a",
+      "caption_file": "output/2026-09-21/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-21T06:12:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab0c63f3649bbabeabef25a",
+          "published_at_utc": "2026-09-21T05:53:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis.png",
+      "metadata_file": "output/2026-09-21/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis.json",
+      "published_at_utc": "2026-09-21T05:53:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-21/no-dogs-in-space-is-back-to-feed-your-need-for-obsessive-music-history.png": {
       "buffer_due_at_utc": "2026-09-20T23:18:06.000Z",
       "buffer_mode": "customScheduled",
