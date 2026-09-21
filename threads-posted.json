@@ -89124,6 +89124,25 @@
       "published_at_utc": "2026-09-21T11:44:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-21/gmail-has-a-quicker-way-to-copy-2fa-codes.png": {
+      "buffer_due_at_utc": "2026-09-21T12:04:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab118a8ca3714eb559a5339",
+      "caption_file": "output/2026-09-21/gmail-has-a-quicker-way-to-copy-2fa-codes.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-21T12:04:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab118a8ca3714eb559a5339",
+          "published_at_utc": "2026-09-21T11:44:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/gmail-has-a-quicker-way-to-copy-2fa-codes.png",
+      "metadata_file": "output/2026-09-21/gmail-has-a-quicker-way-to-copy-2fa-codes.json",
+      "published_at_utc": "2026-09-21T11:44:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-21/humans-not-rogue-ai-are-still-the-biggest-cybersecurity-risk-to-energy.png": {
       "buffer_due_at_utc": "2026-09-21T01:11:10.000Z",
       "buffer_mode": "customScheduled",
