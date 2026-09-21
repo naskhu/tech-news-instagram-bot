@@ -89324,6 +89324,25 @@
       "published_at_utc": "2026-09-20T20:56:19Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-21/welcome-to-dogs-anonymous-the-online-support-group-for-people-with-dif.png": {
+      "buffer_due_at_utc": "2026-09-21T06:50:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab0c657d03859abc7618b01",
+      "caption_file": "output/2026-09-21/welcome-to-dogs-anonymous-the-online-support-group-for-people-with-dif.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-21T06:50:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab0c657d03859abc7618b01",
+          "published_at_utc": "2026-09-21T05:53:27Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/welcome-to-dogs-anonymous-the-online-support-group-for-people-with-dif.png",
+      "metadata_file": "output/2026-09-21/welcome-to-dogs-anonymous-the-online-support-group-for-people-with-dif.json",
+      "published_at_utc": "2026-09-21T05:53:27Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-21/what-creepypasta-or-internet-horror-deserves-a-movie-next.png": {
       "buffer_due_at_utc": "2026-09-20T23:55:56.000Z",
       "buffer_mode": "customScheduled",
