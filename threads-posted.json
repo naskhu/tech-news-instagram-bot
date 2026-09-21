@@ -89200,12 +89200,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/meta-s-muse-is-better-at-surveilling-than-helping-me.png": {
-      "buffer_due_at_utc": "2026-09-21T06:31:23.000Z",
+      "buffer_due_at_utc": "2026-09-21T06:33:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab0c64bb07e536c5a287339",
+      "buffer_post_id": "6ab0c6513649bbabeabef2c7",
       "caption_file": "output/2026-09-21/meta-s-muse-is-better-at-surveilling-than-helping-me.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-21T06:33:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab0c6513649bbabeabef2c7",
+          "published_at_utc": "2026-09-21T05:53:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-21T06:31:23.000Z",
           "buffer_mode": "customScheduled",
@@ -89215,7 +89221,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/meta-s-muse-is-better-at-surveilling-than-helping-me.png",
       "metadata_file": "output/2026-09-21/meta-s-muse-is-better-at-surveilling-than-helping-me.json",
-      "published_at_utc": "2026-09-21T05:53:15Z",
+      "published_at_utc": "2026-09-21T05:53:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/no-dogs-in-space-is-back-to-feed-your-need-for-obsessive-music-history.png": {
