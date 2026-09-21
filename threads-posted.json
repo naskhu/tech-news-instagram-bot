@@ -89025,12 +89025,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/all-roads-lead-to-cable.png": {
-      "buffer_due_at_utc": "2026-09-21T05:53:33.000Z",
+      "buffer_due_at_utc": "2026-09-21T05:55:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab0c631d03859abc76189be",
+      "buffer_post_id": "6ab0c63826caf7929b0c9a30",
       "caption_file": "output/2026-09-21/all-roads-lead-to-cable.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-21T05:55:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab0c63826caf7929b0c9a30",
+          "published_at_utc": "2026-09-21T05:52:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-21T05:53:33.000Z",
           "buffer_mode": "customScheduled",
@@ -89040,7 +89046,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-21/all-roads-lead-to-cable.png",
       "metadata_file": "output/2026-09-21/all-roads-lead-to-cable.json",
-      "published_at_utc": "2026-09-21T05:52:49Z",
+      "published_at_utc": "2026-09-21T05:52:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-21/elon-musk-s-latest-boring-company-pitch-involves-a-hyperloop-between-a.png": {
