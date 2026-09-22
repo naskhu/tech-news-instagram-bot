@@ -89737,6 +89737,25 @@
       "published_at_utc": "2026-09-21T21:19:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-22/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunc.png": {
+      "buffer_due_at_utc": "2026-09-22T06:03:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab20ce29609314f6218934d",
+      "caption_file": "output/2026-09-22/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-22T06:03:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab20ce29609314f6218934d",
+          "published_at_utc": "2026-09-22T05:06:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunc.png",
+      "metadata_file": "output/2026-09-22/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunc.json",
+      "published_at_utc": "2026-09-22T05:06:42Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-22/meta-s-ai-agent-has-been-blocked-from-using-amazon-com-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-22T00:34:53.000Z",
       "buffer_mode": "customScheduled",
