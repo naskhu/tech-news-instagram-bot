@@ -89588,12 +89588,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/a-cut-cable-disrupted-hundreds-of-flights-across-the-us.png": {
-      "buffer_due_at_utc": "2026-09-22T05:06:52.000Z",
+      "buffer_due_at_utc": "2026-09-22T05:08:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab20cc09609314f621890fe",
+      "buffer_post_id": "6ab20cc5e2882add8db3bcf3",
       "caption_file": "output/2026-09-22/a-cut-cable-disrupted-hundreds-of-flights-across-the-us.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-22T05:08:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab20cc5e2882add8db3bcf3",
+          "published_at_utc": "2026-09-22T05:06:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-22T05:06:52.000Z",
           "buffer_mode": "customScheduled",
@@ -89603,7 +89609,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/a-cut-cable-disrupted-hundreds-of-flights-across-the-us.png",
       "metadata_file": "output/2026-09-22/a-cut-cable-disrupted-hundreds-of-flights-across-the-us.json",
-      "published_at_utc": "2026-09-22T05:06:08Z",
+      "published_at_utc": "2026-09-22T05:06:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techcrunch-.png": {
