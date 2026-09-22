@@ -90088,12 +90088,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-23/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says-techc.png": {
-      "buffer_due_at_utc": "2026-09-22T21:42:46.000Z",
+      "buffer_due_at_utc": "2026-09-22T21:44:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab2f62ab00ec2bfabd2adb6",
+      "buffer_post_id": "6ab2f63098ae6feaa61aed01",
       "caption_file": "output/2026-09-23/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says-techc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-22T21:44:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab2f63098ae6feaa61aed01",
+          "published_at_utc": "2026-09-22T21:42:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-22T21:42:46.000Z",
           "buffer_mode": "customScheduled",
@@ -90103,7 +90109,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says-techc.png",
       "metadata_file": "output/2026-09-23/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says-techc.json",
-      "published_at_utc": "2026-09-22T21:42:02Z",
+      "published_at_utc": "2026-09-22T21:42:08Z",
       "publisher": "buffer_threads"
     }
   }
