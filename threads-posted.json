@@ -89736,6 +89736,25 @@
       "metadata_file": "output/2026-09-22/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open.json",
       "published_at_utc": "2026-09-21T21:20:15Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-22/the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-a.png": {
+      "buffer_due_at_utc": "2026-09-22T00:51:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab1c832826cfc54b86032db",
+      "caption_file": "output/2026-09-22/the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-a.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-22T00:51:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab1c832826cfc54b86032db",
+          "published_at_utc": "2026-09-22T00:13:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-a.png",
+      "metadata_file": "output/2026-09-22/the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-a.json",
+      "published_at_utc": "2026-09-22T00:13:38Z",
+      "publisher": "buffer_threads"
     }
   }
 }
