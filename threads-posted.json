@@ -89588,12 +89588,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-202.png": {
-      "buffer_due_at_utc": "2026-09-22T15:03:33.000Z",
+      "buffer_due_at_utc": "2026-09-22T15:05:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab29899dae2e648e5d86156",
+      "buffer_post_id": "6ab2989f760fb23fa9862b53",
       "caption_file": "output/2026-09-22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-202.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-22T15:05:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab2989f760fb23fa9862b53",
+          "published_at_utc": "2026-09-22T15:02:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-22T15:03:33.000Z",
           "buffer_mode": "customScheduled",
@@ -89603,7 +89609,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-202.png",
       "metadata_file": "output/2026-09-22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-202.json",
-      "published_at_utc": "2026-09-22T15:02:49Z",
+      "published_at_utc": "2026-09-22T15:02:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/a-cut-cable-disrupted-hundreds-of-flights-across-the-us.png": {
