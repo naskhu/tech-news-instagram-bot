@@ -90163,12 +90163,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-23/noble-carbon-will-show-how-it-s-making-ev-charger-installs-painless-at.png": {
-      "buffer_due_at_utc": "2026-09-22T23:52:06.000Z",
+      "buffer_due_at_utc": "2026-09-22T23:54:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab3147a48b82bc366439f73",
+      "buffer_post_id": "6ab31484557b1c68e6bd55e1",
       "caption_file": "output/2026-09-23/noble-carbon-will-show-how-it-s-making-ev-charger-installs-painless-at.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-22T23:54:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab31484557b1c68e6bd55e1",
+          "published_at_utc": "2026-09-22T23:51:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-22T23:52:06.000Z",
           "buffer_mode": "customScheduled",
@@ -90178,7 +90184,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/noble-carbon-will-show-how-it-s-making-ev-charger-installs-painless-at.png",
       "metadata_file": "output/2026-09-23/noble-carbon-will-show-how-it-s-making-ev-charger-installs-painless-at.json",
-      "published_at_utc": "2026-09-22T23:51:23Z",
+      "published_at_utc": "2026-09-22T23:51:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-23/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai-techcru.png": {
