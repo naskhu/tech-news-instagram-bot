@@ -89812,6 +89812,25 @@
       "published_at_utc": "2026-09-21T21:20:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-22/microsoft-planning-xbox-layoffs-today.png": {
+      "buffer_due_at_utc": "2026-09-22T10:05:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab252d2320e771022f7ab5e",
+      "caption_file": "output/2026-09-22/microsoft-planning-xbox-layoffs-today.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-22T10:05:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab252d2320e771022f7ab5e",
+          "published_at_utc": "2026-09-22T10:05:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/microsoft-planning-xbox-layoffs-today.png",
+      "metadata_file": "output/2026-09-22/microsoft-planning-xbox-layoffs-today.json",
+      "published_at_utc": "2026-09-22T10:05:06Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-22/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open.png": {
       "buffer_due_at_utc": "2026-09-21T22:19:04.000Z",
       "buffer_mode": "customScheduled",
