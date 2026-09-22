@@ -89637,6 +89637,25 @@
       "published_at_utc": "2026-09-22T05:06:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-22/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs.png": {
+      "buffer_due_at_utc": "2026-09-22T05:44:42.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab20cd76ed20e9354f8432c",
+      "caption_file": "output/2026-09-22/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-22T05:44:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab20cd76ed20e9354f8432c",
+          "published_at_utc": "2026-09-22T05:06:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs.png",
+      "metadata_file": "output/2026-09-22/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs.json",
+      "published_at_utc": "2026-09-22T05:06:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-22/discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techcrunch-.png": {
       "buffer_due_at_utc": "2026-09-21T21:22:19.000Z",
       "buffer_mode": "customScheduled",
