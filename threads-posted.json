@@ -90012,6 +90012,25 @@
       "published_at_utc": "2026-09-22T00:13:44Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-22/tiktok-s-us-arm-joins-lantern-a-cross-platform-child-safety-initiative.png": {
+      "buffer_due_at_utc": "2026-09-22T16:00:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab298bc29735bbf8c5d81f1",
+      "caption_file": "output/2026-09-22/tiktok-s-us-arm-joins-lantern-a-cross-platform-child-safety-initiative.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-22T16:00:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab298bc29735bbf8c5d81f1",
+          "published_at_utc": "2026-09-22T15:03:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/tiktok-s-us-arm-joins-lantern-a-cross-platform-child-safety-initiative.png",
+      "metadata_file": "output/2026-09-22/tiktok-s-us-arm-joins-lantern-a-cross-platform-child-safety-initiative.json",
+      "published_at_utc": "2026-09-22T15:03:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-22/world-leaders-are-backing-frontier-ai-controls-but-the-us-and-china-ar.png": {
       "buffer_due_at_utc": "2026-09-22T11:04:36.000Z",
       "buffer_mode": "customScheduled",
