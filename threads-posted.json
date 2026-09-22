@@ -89838,12 +89838,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/morphotonics-raises-40m-to-expand-its-display-tech-into-data-centers-t.png": {
-      "buffer_due_at_utc": "2026-09-22T10:24:46.000Z",
+      "buffer_due_at_utc": "2026-09-22T10:26:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab252df2f30e64179d2902f",
+      "buffer_post_id": "6ab252e5b093a512d2888f4f",
       "caption_file": "output/2026-09-22/morphotonics-raises-40m-to-expand-its-display-tech-into-data-centers-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-22T10:26:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab252e5b093a512d2888f4f",
+          "published_at_utc": "2026-09-22T10:05:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-22T10:24:46.000Z",
           "buffer_mode": "customScheduled",
@@ -89853,7 +89859,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/morphotonics-raises-40m-to-expand-its-display-tech-into-data-centers-t.png",
       "metadata_file": "output/2026-09-22/morphotonics-raises-40m-to-expand-its-display-tech-into-data-centers-t.json",
-      "published_at_utc": "2026-09-22T10:05:19Z",
+      "published_at_utc": "2026-09-22T10:05:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open.png": {
