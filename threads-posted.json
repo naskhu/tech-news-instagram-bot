@@ -90213,12 +90213,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-23/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-bo.png": {
-      "buffer_due_at_utc": "2026-09-23T00:11:01.000Z",
+      "buffer_due_at_utc": "2026-09-23T00:13:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab3148a7f829c6680735f7c",
+      "buffer_post_id": "6ab3149098ae6feaa61dcea2",
       "caption_file": "output/2026-09-23/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-bo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-23T00:13:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab3149098ae6feaa61dcea2",
+          "published_at_utc": "2026-09-22T23:51:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-23T00:11:01.000Z",
           "buffer_mode": "customScheduled",
@@ -90228,7 +90234,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-bo.png",
       "metadata_file": "output/2026-09-23/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-bo.json",
-      "published_at_utc": "2026-09-22T23:51:38Z",
+      "published_at_utc": "2026-09-22T23:51:44Z",
       "publisher": "buffer_threads"
     }
   }
