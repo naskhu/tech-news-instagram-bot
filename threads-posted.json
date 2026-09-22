@@ -89663,12 +89663,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/meta-s-ai-agent-has-been-blocked-from-using-amazon-com-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-22T00:32:53.000Z",
+      "buffer_due_at_utc": "2026-09-22T00:34:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab1c8268e2aab6eac514de5",
+      "buffer_post_id": "6ab1c82c40d6d6c9261774d1",
       "caption_file": "output/2026-09-22/meta-s-ai-agent-has-been-blocked-from-using-amazon-com-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-22T00:34:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab1c82c40d6d6c9261774d1",
+          "published_at_utc": "2026-09-22T00:13:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-22T00:32:53.000Z",
           "buffer_mode": "customScheduled",
@@ -89678,7 +89684,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/meta-s-ai-agent-has-been-blocked-from-using-amazon-com-techcrunch.png",
       "metadata_file": "output/2026-09-22/meta-s-ai-agent-has-been-blocked-from-using-amazon-com-techcrunch.json",
-      "published_at_utc": "2026-09-22T00:13:26Z",
+      "published_at_utc": "2026-09-22T00:13:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-techcrunch.png": {
