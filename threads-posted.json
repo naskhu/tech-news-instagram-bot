@@ -89938,12 +89938,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/world-leaders-are-backing-frontier-ai-controls-but-the-us-and-china-ar.png": {
-      "buffer_due_at_utc": "2026-09-22T11:02:36.000Z",
+      "buffer_due_at_utc": "2026-09-22T11:04:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab252f75cfcad806a386343",
+      "buffer_post_id": "6ab252fd8920619c8e5653c9",
       "caption_file": "output/2026-09-22/world-leaders-are-backing-frontier-ai-controls-but-the-us-and-china-ar.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-22T11:04:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab252fd8920619c8e5653c9",
+          "published_at_utc": "2026-09-22T10:05:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-22T11:02:36.000Z",
           "buffer_mode": "customScheduled",
@@ -89953,7 +89959,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-22/world-leaders-are-backing-frontier-ai-controls-but-the-us-and-china-ar.png",
       "metadata_file": "output/2026-09-22/world-leaders-are-backing-frontier-ai-controls-but-the-us-and-china-ar.json",
-      "published_at_utc": "2026-09-22T10:05:43Z",
+      "published_at_utc": "2026-09-22T10:05:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-22/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-p.png": {
