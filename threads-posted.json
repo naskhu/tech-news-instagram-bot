@@ -90236,10 +90236,15 @@
     },
     "output/2026-09-23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ab41696478b91dc1bba16c7",
+      "buffer_post_id": "6ab416a6ae8d2f8cef18d616",
       "caption_file": "output/2026-09-23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab416a6ae8d2f8cef18d616",
+          "published_at_utc": "2026-09-23T18:13:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ab41696478b91dc1bba16c7",
@@ -90248,7 +90253,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation.png",
       "metadata_file": "output/2026-09-23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation.json",
-      "published_at_utc": "2026-09-23T18:12:48Z",
+      "published_at_utc": "2026-09-23T18:13:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-23/exclusive-bill-gates-breakthrough-energy-bets-these-21-startups-will-s.png": {
