@@ -90463,12 +90463,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-23/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets.png": {
-      "buffer_due_at_utc": "2026-09-23T09:12:05.000Z",
+      "buffer_due_at_utc": "2026-09-23T09:14:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab38a8f97877917d2cd2ea1",
+      "buffer_post_id": "6ab38a9597877917d2cd2f92",
       "caption_file": "output/2026-09-23/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-23T09:14:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab38a9597877917d2cd2f92",
+          "published_at_utc": "2026-09-23T08:15:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-23T09:12:05.000Z",
           "buffer_mode": "customScheduled",
@@ -90478,7 +90484,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets.png",
       "metadata_file": "output/2026-09-23/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets.json",
-      "published_at_utc": "2026-09-23T08:15:11Z",
+      "published_at_utc": "2026-09-23T08:15:17Z",
       "publisher": "buffer_threads"
     }
   }
