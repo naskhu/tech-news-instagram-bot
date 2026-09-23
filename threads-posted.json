@@ -90312,6 +90312,25 @@
       "published_at_utc": "2026-09-22T23:51:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-23/openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-a.png": {
+      "buffer_due_at_utc": "2026-09-23T08:53:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab38a836e74a46647e956fc",
+      "caption_file": "output/2026-09-23/openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-a.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-23T08:53:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab38a836e74a46647e956fc",
+          "published_at_utc": "2026-09-23T08:14:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-a.png",
+      "metadata_file": "output/2026-09-23/openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-a.json",
+      "published_at_utc": "2026-09-23T08:14:59Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-23/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai-techcru.png": {
       "buffer_due_at_utc": "2026-09-22T22:41:31.000Z",
       "buffer_mode": "customScheduled",
