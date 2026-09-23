@@ -90163,12 +90163,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-23/five-ai-safety-sessions-every-founder-should-have-on-their-disrupt-202.png": {
-      "buffer_due_at_utc": "2026-09-23T03:30:12.000Z",
+      "buffer_due_at_utc": "2026-09-23T03:32:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab33ed098ae6feaa6224262",
+      "buffer_post_id": "6ab33ed52aa0e20bb47078ad",
       "caption_file": "output/2026-09-23/five-ai-safety-sessions-every-founder-should-have-on-their-disrupt-202.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-23T03:32:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab33ed52aa0e20bb47078ad",
+          "published_at_utc": "2026-09-23T02:52:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-23T03:30:12.000Z",
           "buffer_mode": "customScheduled",
@@ -90178,7 +90184,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/five-ai-safety-sessions-every-founder-should-have-on-their-disrupt-202.png",
       "metadata_file": "output/2026-09-23/five-ai-safety-sessions-every-founder-should-have-on-their-disrupt-202.json",
-      "published_at_utc": "2026-09-23T02:52:00Z",
+      "published_at_utc": "2026-09-23T02:52:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-23/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and.png": {
