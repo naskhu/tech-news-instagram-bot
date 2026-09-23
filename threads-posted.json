@@ -90751,12 +90751,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai-techc.png": {
-      "buffer_due_at_utc": "2026-09-23T22:33:49.000Z",
+      "buffer_due_at_utc": "2026-09-23T22:35:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab44678445f9a732fc558f9",
+      "buffer_post_id": "6ab4467e48a16b519e5625c2",
       "caption_file": "output/2026-09-24/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai-techc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-23T22:35:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab4467e48a16b519e5625c2",
+          "published_at_utc": "2026-09-23T21:37:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-23T22:33:49.000Z",
           "buffer_mode": "customScheduled",
@@ -90766,7 +90772,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai-techc.png",
       "metadata_file": "output/2026-09-24/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai-techc.json",
-      "published_at_utc": "2026-09-23T21:36:56Z",
+      "published_at_utc": "2026-09-23T21:37:02Z",
       "publisher": "buffer_threads"
     }
   }
