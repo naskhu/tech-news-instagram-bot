@@ -90162,6 +90162,25 @@
       "published_at_utc": "2026-09-23T02:51:43Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-23/comma-s-hands-off-driving-tech-under-investigation-after-2-fatal-crash.png": {
+      "buffer_due_at_utc": "2026-09-23T13:45:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab3d7c6a75742f2cd103102",
+      "caption_file": "output/2026-09-23/comma-s-hands-off-driving-tech-under-investigation-after-2-fatal-crash.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-23T13:45:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab3d7c6a75742f2cd103102",
+          "published_at_utc": "2026-09-23T13:44:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/comma-s-hands-off-driving-tech-under-investigation-after-2-fatal-crash.png",
+      "metadata_file": "output/2026-09-23/comma-s-hands-off-driving-tech-under-investigation-after-2-fatal-crash.json",
+      "published_at_utc": "2026-09-23T13:44:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-23/discord-s-age-verification-era-is-upon-us-despite-community-backlash-t.png": {
       "buffer_due_at_utc": "2026-09-23T08:36:15.000Z",
       "buffer_mode": "customScheduled",
