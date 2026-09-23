@@ -90701,12 +90701,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/if-amazon-doesn-t-know-how-to-eliminate-carbon-emissions-then-who-does.png": {
-      "buffer_due_at_utc": "2026-09-23T21:55:59.000Z",
+      "buffer_due_at_utc": "2026-09-23T21:57:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab44662bca3c9135bf7530b",
+      "buffer_post_id": "6ab44667bca3c9135bf75358",
       "caption_file": "output/2026-09-24/if-amazon-doesn-t-know-how-to-eliminate-carbon-emissions-then-who-does.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-23T21:57:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab44667bca3c9135bf75358",
+          "published_at_utc": "2026-09-23T21:36:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-23T21:55:59.000Z",
           "buffer_mode": "customScheduled",
@@ -90716,7 +90722,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/if-amazon-doesn-t-know-how-to-eliminate-carbon-emissions-then-who-does.png",
       "metadata_file": "output/2026-09-24/if-amazon-doesn-t-know-how-to-eliminate-carbon-emissions-then-who-does.json",
-      "published_at_utc": "2026-09-23T21:36:34Z",
+      "published_at_utc": "2026-09-23T21:36:39Z",
       "publisher": "buffer_threads"
     }
   }
