@@ -90256,6 +90256,23 @@
       "published_at_utc": "2026-09-23T18:13:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-23/even-americans-who-use-ai-every-day-are-worried-about-it-techcrunch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ab416b6b6d1848251834478",
+      "caption_file": "output/2026-09-23/even-americans-who-use-ai-every-day-are-worried-about-it-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab416b6b6d1848251834478",
+          "published_at_utc": "2026-09-23T18:13:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/even-americans-who-use-ai-every-day-are-worried-about-it-techcrunch.png",
+      "metadata_file": "output/2026-09-23/even-americans-who-use-ai-every-day-are-worried-about-it-techcrunch.json",
+      "published_at_utc": "2026-09-23T18:13:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-23/exclusive-bill-gates-breakthrough-energy-bets-these-21-startups-will-s.png": {
       "buffer_due_at_utc": "2026-09-23T03:13:17.000Z",
       "buffer_mode": "customScheduled",
