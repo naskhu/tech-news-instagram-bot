@@ -90775,6 +90775,25 @@
       "published_at_utc": "2026-09-23T23:59:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-24/meta-is-trying-vr-glasses-again-this-time-with-more-imax.png": {
+      "buffer_due_at_utc": "2026-09-24T00:38:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab467fdb4fa591f3eccef6b",
+      "caption_file": "output/2026-09-24/meta-is-trying-vr-glasses-again-this-time-with-more-imax.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-24T00:38:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab467fdb4fa591f3eccef6b",
+          "published_at_utc": "2026-09-23T23:59:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/meta-is-trying-vr-glasses-again-this-time-with-more-imax.png",
+      "metadata_file": "output/2026-09-24/meta-is-trying-vr-glasses-again-this-time-with-more-imax.json",
+      "published_at_utc": "2026-09-23T23:59:57Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-24/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely-te.png": {
       "buffer_due_at_utc": "2026-09-23T22:16:54.000Z",
       "buffer_mode": "customScheduled",
