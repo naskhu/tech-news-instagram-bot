@@ -90751,12 +90751,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/meta-introduces-camera-free-ai-glasses-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-24T00:19:15.000Z",
+      "buffer_due_at_utc": "2026-09-24T00:21:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab467f2a9da2eb42fbeb9c2",
+      "buffer_post_id": "6ab467f7ccbef1e0a53e9f40",
       "caption_file": "output/2026-09-24/meta-introduces-camera-free-ai-glasses-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-24T00:21:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab467f7ccbef1e0a53e9f40",
+          "published_at_utc": "2026-09-23T23:59:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T00:19:15.000Z",
           "buffer_mode": "customScheduled",
@@ -90766,7 +90772,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/meta-introduces-camera-free-ai-glasses-techcrunch.png",
       "metadata_file": "output/2026-09-24/meta-introduces-camera-free-ai-glasses-techcrunch.json",
-      "published_at_utc": "2026-09-23T23:59:46Z",
+      "published_at_utc": "2026-09-23T23:59:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely-te.png": {
