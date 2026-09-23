@@ -90652,6 +90652,23 @@
       "metadata_file": "output/2026-09-23/we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets.json",
       "published_at_utc": "2026-09-23T08:15:17Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposur.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ab416d619e9e8848155c6cc",
+      "caption_file": "output/2026-09-23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposur.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab416d619e9e8848155c6cc",
+          "published_at_utc": "2026-09-23T18:13:51Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposur.png",
+      "metadata_file": "output/2026-09-23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposur.json",
+      "published_at_utc": "2026-09-23T18:13:51Z",
+      "publisher": "buffer_threads"
     }
   }
 }
