@@ -91388,6 +91388,25 @@
       "published_at_utc": "2026-09-24T21:10:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-25/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-cent.png": {
+      "buffer_due_at_utc": "2026-09-25T00:35:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab5b8fa4be54730309dd04c",
+      "caption_file": "output/2026-09-25/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-cent.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-25T00:35:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab5b8fa4be54730309dd04c",
+          "published_at_utc": "2026-09-24T23:57:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-cent.png",
+      "metadata_file": "output/2026-09-25/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-cent.json",
+      "published_at_utc": "2026-09-24T23:57:46Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-25/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses-techcru.png": {
       "buffer_due_at_utc": "2026-09-24T22:09:19.000Z",
       "buffer_mode": "customScheduled",
