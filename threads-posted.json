@@ -90951,12 +90951,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/youtube-s-conversational-video-editing-tool-lets-creators-make-edits-i.png": {
-      "buffer_due_at_utc": "2026-09-24T03:44:40.000Z",
+      "buffer_due_at_utc": "2026-09-24T03:46:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab48f535b0b95240b473ce2",
+      "buffer_post_id": "6ab48f59514df3bc1eca30a0",
       "caption_file": "output/2026-09-24/youtube-s-conversational-video-editing-tool-lets-creators-make-edits-i.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-24T03:46:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab48f59514df3bc1eca30a0",
+          "published_at_utc": "2026-09-24T02:47:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T03:44:40.000Z",
           "buffer_mode": "customScheduled",
@@ -90966,7 +90972,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/youtube-s-conversational-video-editing-tool-lets-creators-make-edits-i.png",
       "metadata_file": "output/2026-09-24/youtube-s-conversational-video-editing-tool-lets-creators-make-edits-i.json",
-      "published_at_utc": "2026-09-24T02:47:48Z",
+      "published_at_utc": "2026-09-24T02:47:54Z",
       "publisher": "buffer_threads"
     }
   }
