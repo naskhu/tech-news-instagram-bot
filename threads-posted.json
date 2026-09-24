@@ -91437,6 +91437,25 @@
       "metadata_file": "output/2026-09-25/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses-techcru.json",
       "published_at_utc": "2026-09-24T21:10:38Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-25T00:54:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab5b905a14029bcc71c0c9d",
+      "caption_file": "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-25T00:54:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab5b905a14029bcc71c0c9d",
+          "published_at_utc": "2026-09-24T23:57:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.png",
+      "metadata_file": "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.json",
+      "published_at_utc": "2026-09-24T23:57:57Z",
+      "publisher": "buffer_threads"
     }
   }
 }
