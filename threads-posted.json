@@ -90776,12 +90776,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/everything-is-spying-on-you-and-there-s-no-opting-out.png": {
-      "buffer_due_at_utc": "2026-09-24T13:58:30.000Z",
+      "buffer_due_at_utc": "2026-09-24T14:00:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab527f70e453245460f15b3",
+      "buffer_post_id": "6ab527fd898abeff1c7f9f5c",
       "caption_file": "output/2026-09-24/everything-is-spying-on-you-and-there-s-no-opting-out.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-24T14:00:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab527fd898abeff1c7f9f5c",
+          "published_at_utc": "2026-09-24T13:39:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T13:58:30.000Z",
           "buffer_mode": "customScheduled",
@@ -90791,7 +90797,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/everything-is-spying-on-you-and-there-s-no-opting-out.png",
       "metadata_file": "output/2026-09-24/everything-is-spying-on-you-and-there-s-no-opting-out.json",
-      "published_at_utc": "2026-09-24T13:39:04Z",
+      "published_at_utc": "2026-09-24T13:39:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/everything-new-coming-to-meta-s-ai-agent-muse-techcrunch.png": {
