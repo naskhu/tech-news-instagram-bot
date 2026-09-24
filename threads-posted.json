@@ -91439,12 +91439,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-25T00:54:51.000Z",
+      "buffer_due_at_utc": "2026-09-25T00:56:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab5b905a14029bcc71c0c9d",
+      "buffer_post_id": "6ab5b90bdb73444101d91983",
       "caption_file": "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T00:56:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab5b90bdb73444101d91983",
+          "published_at_utc": "2026-09-24T23:58:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T00:54:51.000Z",
           "buffer_mode": "customScheduled",
@@ -91454,7 +91460,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.png",
       "metadata_file": "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.json",
-      "published_at_utc": "2026-09-24T23:57:57Z",
+      "published_at_utc": "2026-09-24T23:58:03Z",
       "publisher": "buffer_threads"
     }
   }
