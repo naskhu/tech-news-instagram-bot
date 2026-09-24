@@ -90726,12 +90726,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/everything-new-coming-to-meta-s-ai-agent-muse-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-24T02:47:55.000Z",
+      "buffer_due_at_utc": "2026-09-24T02:49:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab48f2f5b0b95240b473717",
+      "buffer_post_id": "6ab48f351a0af484261fb6e4",
       "caption_file": "output/2026-09-24/everything-new-coming-to-meta-s-ai-agent-muse-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-24T02:49:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab48f351a0af484261fb6e4",
+          "published_at_utc": "2026-09-24T02:47:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T02:47:55.000Z",
           "buffer_mode": "customScheduled",
@@ -90741,7 +90747,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/everything-new-coming-to-meta-s-ai-agent-muse-techcrunch.png",
       "metadata_file": "output/2026-09-24/everything-new-coming-to-meta-s-ai-agent-muse-techcrunch.json",
-      "published_at_utc": "2026-09-24T02:47:11Z",
+      "published_at_utc": "2026-09-24T02:47:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/if-amazon-doesn-t-know-how-to-eliminate-carbon-emissions-then-who-does.png": {
