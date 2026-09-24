@@ -90975,6 +90975,25 @@
       "published_at_utc": "2026-09-24T02:47:41Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-24/youtube-music-gets-more-conversational-with-new-ai-features-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-24T08:25:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab4d9dd514df3bc1ed2b682",
+      "caption_file": "output/2026-09-24/youtube-music-gets-more-conversational-with-new-ai-features-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-24T08:25:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab4d9dd514df3bc1ed2b682",
+          "published_at_utc": "2026-09-24T08:05:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/youtube-music-gets-more-conversational-with-new-ai-features-techcrunch.png",
+      "metadata_file": "output/2026-09-24/youtube-music-gets-more-conversational-with-new-ai-features-techcrunch.json",
+      "published_at_utc": "2026-09-24T08:05:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-24/youtube-s-conversational-video-editing-tool-lets-creators-make-edits-i.png": {
       "buffer_due_at_utc": "2026-09-24T03:46:40.000Z",
       "buffer_mode": "customScheduled",
