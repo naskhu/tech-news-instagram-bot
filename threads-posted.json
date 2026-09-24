@@ -90701,12 +90701,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/eight-sleep-s-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1-.png": {
-      "buffer_due_at_utc": "2026-09-24T08:06:21.000Z",
+      "buffer_due_at_utc": "2026-09-24T08:08:21.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab4d9d15b0b95240b4fc54a",
+      "buffer_post_id": "6ab4d9d75b0b95240b4fc664",
       "caption_file": "output/2026-09-24/eight-sleep-s-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-24T08:08:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab4d9d75b0b95240b4fc664",
+          "published_at_utc": "2026-09-24T08:05:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T08:06:21.000Z",
           "buffer_mode": "customScheduled",
@@ -90716,7 +90722,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/eight-sleep-s-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1-.png",
       "metadata_file": "output/2026-09-24/eight-sleep-s-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1-.json",
-      "published_at_utc": "2026-09-24T08:05:37Z",
+      "published_at_utc": "2026-09-24T08:05:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinica.png": {
