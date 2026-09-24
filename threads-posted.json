@@ -91338,6 +91338,25 @@
       "published_at_utc": "2026-09-24T21:10:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-25/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunc.png": {
+      "buffer_due_at_utc": "2026-09-25T00:17:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab5b8ee8c95968bb024ac42",
+      "caption_file": "output/2026-09-25/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-25T00:17:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab5b8ee8c95968bb024ac42",
+          "published_at_utc": "2026-09-24T23:57:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunc.png",
+      "metadata_file": "output/2026-09-25/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunc.json",
+      "published_at_utc": "2026-09-24T23:57:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-25/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting-tec.png": {
       "buffer_due_at_utc": "2026-09-24T21:50:24.000Z",
       "buffer_mode": "customScheduled",
