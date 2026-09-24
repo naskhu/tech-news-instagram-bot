@@ -91289,12 +91289,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/meet-feather-the-startup-building-the-android-of-robotics-for-develope.png": {
-      "buffer_due_at_utc": "2026-09-24T21:29:29.000Z",
+      "buffer_due_at_utc": "2026-09-24T21:31:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab591ab79ceb34ba6b63ed1",
+      "buffer_post_id": "6ab591b303180a4897a0ff1f",
       "caption_file": "output/2026-09-25/meet-feather-the-startup-building-the-android-of-robotics-for-develope.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-24T21:31:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab591b303180a4897a0ff1f",
+          "published_at_utc": "2026-09-24T21:10:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T21:29:29.000Z",
           "buffer_mode": "customScheduled",
@@ -91304,7 +91310,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/meet-feather-the-startup-building-the-android-of-robotics-for-develope.png",
       "metadata_file": "output/2026-09-25/meet-feather-the-startup-building-the-android-of-robotics-for-develope.json",
-      "published_at_utc": "2026-09-24T21:10:03Z",
+      "published_at_utc": "2026-09-24T21:10:11Z",
       "publisher": "buffer_threads"
     }
   }
