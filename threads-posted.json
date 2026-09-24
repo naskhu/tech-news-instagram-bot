@@ -90924,6 +90924,25 @@
       "metadata_file": "output/2026-09-24/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-i.json",
       "published_at_utc": "2026-09-24T00:00:19Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-24/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-crea.png": {
+      "buffer_due_at_utc": "2026-09-24T03:25:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab48f471a0af484261fb929",
+      "caption_file": "output/2026-09-24/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-crea.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-24T03:25:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab48f471a0af484261fb929",
+          "published_at_utc": "2026-09-24T02:47:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-crea.png",
+      "metadata_file": "output/2026-09-24/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-crea.json",
+      "published_at_utc": "2026-09-24T02:47:35Z",
+      "publisher": "buffer_threads"
     }
   }
 }
