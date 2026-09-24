@@ -91289,12 +91289,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/elevenlabs-ceo-on-margins-ipo-timing-and-telling-customers-they-re-tal.png": {
-      "buffer_due_at_utc": "2026-09-24T23:58:06.000Z",
+      "buffer_due_at_utc": "2026-09-25T00:00:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab5b8e209a937241591a82b",
+      "buffer_post_id": "6ab5b8e84be54730309dcfc7",
       "caption_file": "output/2026-09-25/elevenlabs-ceo-on-margins-ipo-timing-and-telling-customers-they-re-tal.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T00:00:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab5b8e84be54730309dcfc7",
+          "published_at_utc": "2026-09-24T23:57:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T23:58:06.000Z",
           "buffer_mode": "customScheduled",
@@ -91304,7 +91310,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/elevenlabs-ceo-on-margins-ipo-timing-and-telling-customers-they-re-tal.png",
       "metadata_file": "output/2026-09-25/elevenlabs-ceo-on-margins-ipo-timing-and-telling-customers-they-re-tal.json",
-      "published_at_utc": "2026-09-24T23:57:22Z",
+      "published_at_utc": "2026-09-24T23:57:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/meet-feather-the-startup-building-the-android-of-robotics-for-develope.png": {
