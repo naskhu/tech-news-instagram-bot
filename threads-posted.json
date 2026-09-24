@@ -90847,6 +90847,23 @@
       "published_at_utc": "2026-09-24T02:47:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-and.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ab56565cedffd528f2e4e81",
+      "caption_file": "output/2026-09-24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-and.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab56565cedffd528f2e4e81",
+          "published_at_utc": "2026-09-24T18:01:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-and.png",
+      "metadata_file": "output/2026-09-24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-and.json",
+      "published_at_utc": "2026-09-24T18:01:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-24/if-amazon-doesn-t-know-how-to-eliminate-carbon-emissions-then-who-does.png": {
       "buffer_due_at_utc": "2026-09-23T21:57:59.000Z",
       "buffer_mode": "customScheduled",
