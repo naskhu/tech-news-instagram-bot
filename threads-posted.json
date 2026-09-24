@@ -91339,12 +91339,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses-techcru.png": {
-      "buffer_due_at_utc": "2026-09-24T22:07:19.000Z",
+      "buffer_due_at_utc": "2026-09-24T22:09:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab591c703180a4897a10229",
+      "buffer_post_id": "6ab591ce9a9996eef172d06c",
       "caption_file": "output/2026-09-25/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-24T22:09:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab591ce9a9996eef172d06c",
+          "published_at_utc": "2026-09-24T21:10:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T22:07:19.000Z",
           "buffer_mode": "customScheduled",
@@ -91354,7 +91360,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses-techcru.png",
       "metadata_file": "output/2026-09-25/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses-techcru.json",
-      "published_at_utc": "2026-09-24T21:10:31Z",
+      "published_at_utc": "2026-09-24T21:10:38Z",
       "publisher": "buffer_threads"
     }
   }
