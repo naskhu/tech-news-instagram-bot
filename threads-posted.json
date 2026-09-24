@@ -91001,12 +91001,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/youtube-releases-new-ai-features-for-creators-within-its-studio-app-te.png": {
-      "buffer_due_at_utc": "2026-09-24T08:44:11.000Z",
+      "buffer_due_at_utc": "2026-09-24T08:46:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab4d9e85b0b95240b4fc7a0",
+      "buffer_post_id": "6ab4d9ee5b0b95240b4fc831",
       "caption_file": "output/2026-09-24/youtube-releases-new-ai-features-for-creators-within-its-studio-app-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-24T08:46:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab4d9ee5b0b95240b4fc831",
+          "published_at_utc": "2026-09-24T08:06:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-24T08:44:11.000Z",
           "buffer_mode": "customScheduled",
@@ -91016,7 +91022,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-24/youtube-releases-new-ai-features-for-creators-within-its-studio-app-te.png",
       "metadata_file": "output/2026-09-24/youtube-releases-new-ai-features-for-creators-within-its-studio-app-te.json",
-      "published_at_utc": "2026-09-24T08:06:00Z",
+      "published_at_utc": "2026-09-24T08:06:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-24/youtube-s-conversational-video-editing-tool-lets-creators-make-edits-i.png": {
