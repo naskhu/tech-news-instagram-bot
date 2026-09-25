@@ -91337,10 +91337,15 @@
     },
     "output/2026-09-25/astra-and-opus-just-passed-turing-s-other-test-techcrunch.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ab6c103637945f3f28d6ada",
+      "buffer_post_id": "6ab6c116bb822d0d17f1ef91",
       "caption_file": "output/2026-09-25/astra-and-opus-just-passed-turing-s-other-test-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab6c116bb822d0d17f1ef91",
+          "published_at_utc": "2026-09-25T18:44:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ab6c103637945f3f28d6ada",
@@ -91349,7 +91354,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/astra-and-opus-just-passed-turing-s-other-test-techcrunch.png",
       "metadata_file": "output/2026-09-25/astra-and-opus-just-passed-turing-s-other-test-techcrunch.json",
-      "published_at_utc": "2026-09-25T18:44:29Z",
+      "published_at_utc": "2026-09-25T18:44:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-tec.png": {
