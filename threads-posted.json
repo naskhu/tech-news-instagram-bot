@@ -91902,12 +91902,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/meta-opens-early-access-program-for-new-muse-features-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-25T22:31:43.000Z",
+      "buffer_due_at_utc": "2026-09-25T22:33:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab6ed5a84e8fc26af17531f",
+      "buffer_post_id": "6ab6ed60f28173fa3f4f9498",
       "caption_file": "output/2026-09-26/meta-opens-early-access-program-for-new-muse-features-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T22:33:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab6ed60f28173fa3f4f9498",
+          "published_at_utc": "2026-09-25T21:53:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T22:31:43.000Z",
           "buffer_mode": "customScheduled",
@@ -91917,7 +91923,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/meta-opens-early-access-program-for-new-muse-features-techcrunch.png",
       "metadata_file": "output/2026-09-26/meta-opens-early-access-program-for-new-muse-features-techcrunch.json",
-      "published_at_utc": "2026-09-25T21:53:30Z",
+      "published_at_utc": "2026-09-25T21:53:36Z",
       "publisher": "buffer_threads"
     }
   }
