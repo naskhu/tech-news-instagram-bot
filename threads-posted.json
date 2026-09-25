@@ -91614,12 +91614,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/techcrunch-disrupt-2026-cal-ai-s-zach-yadegari-on-how-to-create-viral-.png": {
-      "buffer_due_at_utc": "2026-09-25T09:27:58.000Z",
+      "buffer_due_at_utc": "2026-09-25T09:29:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab63148a14029bcc729295d",
+      "buffer_post_id": "6ab6314e4be5473030ab3f6c",
       "caption_file": "output/2026-09-25/techcrunch-disrupt-2026-cal-ai-s-zach-yadegari-on-how-to-create-viral-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T09:29:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab6314e4be5473030ab3f6c",
+          "published_at_utc": "2026-09-25T08:31:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T09:27:58.000Z",
           "buffer_mode": "customScheduled",
@@ -91629,7 +91635,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/techcrunch-disrupt-2026-cal-ai-s-zach-yadegari-on-how-to-create-viral-.png",
       "metadata_file": "output/2026-09-25/techcrunch-disrupt-2026-cal-ai-s-zach-yadegari-on-how-to-create-viral-.json",
-      "published_at_utc": "2026-09-25T08:31:04Z",
+      "published_at_utc": "2026-09-25T08:31:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.png": {
