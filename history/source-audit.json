@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-09-24T23:55:00.022209+00:00",
+  "run_utc": "2026-09-25T02:55:21.753763+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-09-23T23:55:00.022352+00:00",
-  "eligible_story_count": 293,
+  "cutoff_utc": "2026-09-24T02:55:21.753905+00:00",
+  "eligible_story_count": 278,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 27,
       "page_articles": 27,
-      "eligible_new": 10,
-      "already_processed": 17,
+      "eligible_new": 6,
+      "already_processed": 21,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -54,13 +54,11 @@
       ],
       "rss_candidates": 10,
       "page_links": 30,
-      "page_articles": 29,
+      "page_articles": 30,
       "eligible_new": 18,
       "already_processed": 3,
-      "older_than_window": 12,
-      "metadata_errors": {
-        "no_article_metadata": 1
-      }
+      "older_than_window": 13,
+      "metadata_errors": {}
     },
     {
       "source": "Ars Technica",
@@ -214,9 +212,9 @@
       "rss_candidates": 20,
       "page_links": 32,
       "page_articles": 32,
-      "eligible_new": 26,
+      "eligible_new": 22,
       "already_processed": 0,
-      "older_than_window": 6,
+      "older_than_window": 10,
       "metadata_errors": {}
     },
     {
@@ -250,9 +248,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 10,
+      "eligible_new": 11,
       "already_processed": 3,
-      "older_than_window": 100,
+      "older_than_window": 99,
       "metadata_errors": {}
     },
     {
@@ -305,18 +303,18 @@
         {
           "url": "https://www.theinformation.com/",
           "status": 200,
-          "links": 21,
+          "links": 19,
           "error": ""
         }
       ],
-      "rss_candidates": 11,
-      "page_links": 21,
+      "rss_candidates": 13,
+      "page_links": 19,
       "page_articles": 14,
       "eligible_new": 11,
       "already_processed": 0,
-      "older_than_window": 7,
+      "older_than_window": 8,
       "metadata_errors": {
-        "not_article_path": 7
+        "not_article_path": 5
       }
     },
     {
@@ -379,22 +377,22 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 18,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 32,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 61,
+      "eligible_new": 59,
       "already_processed": 1,
-      "older_than_window": 24,
+      "older_than_window": 25,
       "metadata_errors": {
         "no_article_metadata": 5,
         "missing_title": 1
@@ -426,16 +424,16 @@
         {
           "url": "https://www.pcmag.com/news",
           "status": 200,
-          "links": 21,
+          "links": 20,
           "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 21,
-      "page_articles": 21,
-      "eligible_new": 18,
+      "page_links": 20,
+      "page_articles": 20,
+      "eligible_new": 14,
       "already_processed": 0,
-      "older_than_window": 3,
+      "older_than_window": 6,
       "metadata_errors": {}
     },
     {
@@ -490,22 +488,22 @@
         {
           "url": "https://www.cnet.com/news/",
           "status": 200,
-          "links": 31,
+          "links": 32,
           "error": ""
         },
         {
           "url": "https://www.cnet.com/",
           "status": 200,
-          "links": 9,
+          "links": 8,
           "error": ""
         }
       ],
-      "rss_candidates": 34,
+      "rss_candidates": 35,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 20,
+      "eligible_new": 21,
       "already_processed": 6,
-      "older_than_window": 28,
+      "older_than_window": 26,
       "metadata_errors": {}
     },
     {
@@ -558,7 +556,7 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 28,
+          "links": 25,
           "error": ""
         },
         {
@@ -569,14 +567,14 @@
         }
       ],
       "rss_candidates": 15,
-      "page_links": 30,
-      "page_articles": 3,
+      "page_links": 27,
+      "page_articles": 6,
       "eligible_new": 9,
       "already_processed": 0,
-      "older_than_window": 9,
+      "older_than_window": 7,
       "metadata_errors": {
         "no_article_metadata": 1,
-        "http_429": 26
+        "http_429": 20
       }
     },
     {
@@ -608,9 +606,9 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 23,
+      "eligible_new": 24,
       "already_processed": 0,
-      "older_than_window": 90,
+      "older_than_window": 89,
       "metadata_errors": {}
     },
     {
@@ -642,9 +640,9 @@
       "rss_candidates": 95,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 26,
+      "eligible_new": 24,
       "already_processed": 1,
-      "older_than_window": 84,
+      "older_than_window": 86,
       "metadata_errors": {}
     },
     {
