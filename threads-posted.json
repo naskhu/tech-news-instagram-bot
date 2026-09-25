@@ -91513,6 +91513,25 @@
       "published_at_utc": "2026-09-24T21:10:38Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-25/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-.png": {
+      "buffer_due_at_utc": "2026-09-25T03:55:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab5e368db73444101ddb1d4",
+      "caption_file": "output/2026-09-25/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-25T03:55:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab5e368db73444101ddb1d4",
+          "published_at_utc": "2026-09-25T02:58:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-.png",
+      "metadata_file": "output/2026-09-25/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-.json",
+      "published_at_utc": "2026-09-25T02:58:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-25T00:56:51.000Z",
       "buffer_mode": "customScheduled",
