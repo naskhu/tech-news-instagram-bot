@@ -91732,6 +91732,23 @@
       "published_at_utc": "2026-09-25T08:30:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-25/some-supabase-customers-are-publicly-exposing-reams-of-people-s-data-t.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ab6c126637945f3f28d6db4",
+      "caption_file": "output/2026-09-25/some-supabase-customers-are-publicly-exposing-reams-of-people-s-data-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab6c126637945f3f28d6db4",
+          "published_at_utc": "2026-09-25T18:45:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/some-supabase-customers-are-publicly-exposing-reams-of-people-s-data-t.png",
+      "metadata_file": "output/2026-09-25/some-supabase-customers-are-publicly-exposing-reams-of-people-s-data-t.json",
+      "published_at_utc": "2026-09-25T18:45:03Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-25/techcrunch-disrupt-2026-cal-ai-s-zach-yadegari-on-how-to-create-viral-.png": {
       "buffer_due_at_utc": "2026-09-25T09:29:58.000Z",
       "buffer_mode": "customScheduled",
