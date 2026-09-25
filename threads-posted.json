@@ -91464,12 +91464,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-.png": {
-      "buffer_due_at_utc": "2026-09-25T14:32:59.000Z",
+      "buffer_due_at_utc": "2026-09-25T14:34:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab6818c7f836b2e3d98cdb9",
+      "buffer_post_id": "6ab68192607bee5b03373949",
       "caption_file": "output/2026-09-25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T14:34:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab68192607bee5b03373949",
+          "published_at_utc": "2026-09-25T14:13:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T14:32:59.000Z",
           "buffer_mode": "customScheduled",
@@ -91479,7 +91485,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-.png",
       "metadata_file": "output/2026-09-25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-.json",
-      "published_at_utc": "2026-09-25T14:13:32Z",
+      "published_at_utc": "2026-09-25T14:13:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/meet-feather-the-startup-building-the-android-of-robotics-for-develope.png": {
