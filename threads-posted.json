@@ -91388,6 +91388,25 @@
       "published_at_utc": "2026-09-25T02:58:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-25/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai-.png": {
+      "buffer_due_at_utc": "2026-09-25T08:50:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab631318c95968bb03239f5",
+      "caption_file": "output/2026-09-25/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-25T08:50:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab631318c95968bb03239f5",
+          "published_at_utc": "2026-09-25T08:30:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai-.png",
+      "metadata_file": "output/2026-09-25/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai-.json",
+      "published_at_utc": "2026-09-25T08:30:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-25/lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-takes-off-tec.png": {
       "buffer_due_at_utc": "2026-09-25T03:38:45.000Z",
       "buffer_mode": "customScheduled",
