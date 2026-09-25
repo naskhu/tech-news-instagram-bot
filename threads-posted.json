@@ -91779,6 +91779,23 @@
       "published_at_utc": "2026-09-25T08:31:10Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcru.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ab6c147115c32477f3b7189",
+      "caption_file": "output/2026-09-25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcru.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab6c147115c32477f3b7189",
+          "published_at_utc": "2026-09-25T18:45:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcru.png",
+      "metadata_file": "output/2026-09-25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcru.json",
+      "published_at_utc": "2026-09-25T18:45:35Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-25T00:56:51.000Z",
       "buffer_mode": "customScheduled",
