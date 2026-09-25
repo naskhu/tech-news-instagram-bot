@@ -91264,12 +91264,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/2-days-left-to-save-up-to-200-on-a-techcrunch-disrupt-2026-pass-reason.png": {
-      "buffer_due_at_utc": "2026-09-25T08:31:13.000Z",
+      "buffer_due_at_utc": "2026-09-25T08:33:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab631258c95968bb032372b",
+      "buffer_post_id": "6ab6312b4be5473030ab399b",
       "caption_file": "output/2026-09-25/2-days-left-to-save-up-to-200-on-a-techcrunch-disrupt-2026-pass-reason.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T08:33:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab6312b4be5473030ab399b",
+          "published_at_utc": "2026-09-25T08:30:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T08:31:13.000Z",
           "buffer_mode": "customScheduled",
@@ -91279,7 +91285,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/2-days-left-to-save-up-to-200-on-a-techcrunch-disrupt-2026-pass-reason.png",
       "metadata_file": "output/2026-09-25/2-days-left-to-save-up-to-200-on-a-techcrunch-disrupt-2026-pass-reason.json",
-      "published_at_utc": "2026-09-25T08:30:29Z",
+      "published_at_utc": "2026-09-25T08:30:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/ando-wants-to-take-on-slack-with-a-team-messaging-app-that-lets-humans.png": {
