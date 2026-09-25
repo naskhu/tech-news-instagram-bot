@@ -91875,6 +91875,25 @@
       "metadata_file": "output/2026-09-26/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal-te.json",
       "published_at_utc": "2026-09-25T21:53:14Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-26/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.png": {
+      "buffer_due_at_utc": "2026-09-25T22:12:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab6ed4fb097c5b401a393dd",
+      "caption_file": "output/2026-09-26/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-25T22:12:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab6ed4fb097c5b401a393dd",
+          "published_at_utc": "2026-09-25T21:53:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.png",
+      "metadata_file": "output/2026-09-26/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.json",
+      "published_at_utc": "2026-09-25T21:53:19Z",
+      "publisher": "buffer_threads"
     }
   }
 }
