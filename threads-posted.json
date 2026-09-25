@@ -91739,12 +91739,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/you-can-customize-the-eq-on-some-airpods-now.png": {
-      "buffer_due_at_utc": "2026-09-25T15:10:49.000Z",
+      "buffer_due_at_utc": "2026-09-25T15:12:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab681a57f836b2e3d98cffc",
+      "buffer_post_id": "6ab681ab77257a20a032edca",
       "caption_file": "output/2026-09-25/you-can-customize-the-eq-on-some-airpods-now.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T15:12:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab681ab77257a20a032edca",
+          "published_at_utc": "2026-09-25T14:14:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T15:10:49.000Z",
           "buffer_mode": "customScheduled",
@@ -91754,7 +91760,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/you-can-customize-the-eq-on-some-airpods-now.png",
       "metadata_file": "output/2026-09-25/you-can-customize-the-eq-on-some-airpods-now.json",
-      "published_at_utc": "2026-09-25T14:13:57Z",
+      "published_at_utc": "2026-09-25T14:14:03Z",
       "publisher": "buffer_threads"
     }
   }
