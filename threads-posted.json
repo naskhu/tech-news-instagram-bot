@@ -91364,12 +91364,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-takes-off-tec.png": {
-      "buffer_due_at_utc": "2026-09-25T03:36:45.000Z",
+      "buffer_due_at_utc": "2026-09-25T03:38:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab5e35ccbe818dd4ff65cc7",
+      "buffer_post_id": "6ab5e3624be5473030a218c2",
       "caption_file": "output/2026-09-25/lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-takes-off-tec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T03:38:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab5e3624be5473030a218c2",
+          "published_at_utc": "2026-09-25T02:58:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T03:36:45.000Z",
           "buffer_mode": "customScheduled",
@@ -91379,7 +91385,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-takes-off-tec.png",
       "metadata_file": "output/2026-09-25/lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-takes-off-tec.json",
-      "published_at_utc": "2026-09-25T02:58:36Z",
+      "published_at_utc": "2026-09-25T02:58:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/meet-feather-the-startup-building-the-android-of-robotics-for-develope.png": {
