@@ -91589,12 +91589,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/silicon-valley-s-power-ranking.png": {
-      "buffer_due_at_utc": "2026-09-25T09:09:03.000Z",
+      "buffer_due_at_utc": "2026-09-25T09:11:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab6313c8c95968bb0323da1",
+      "buffer_post_id": "6ab63142607bee5b032d34b9",
       "caption_file": "output/2026-09-25/silicon-valley-s-power-ranking.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T09:11:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab63142607bee5b032d34b9",
+          "published_at_utc": "2026-09-25T08:30:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T09:09:03.000Z",
           "buffer_mode": "customScheduled",
@@ -91604,7 +91610,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/silicon-valley-s-power-ranking.png",
       "metadata_file": "output/2026-09-25/silicon-valley-s-power-ranking.json",
-      "published_at_utc": "2026-09-25T08:30:53Z",
+      "published_at_utc": "2026-09-25T08:30:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/waymo-is-scaling-fast-here-s-what-the-fleet-data-shows-techcrunch.png": {
