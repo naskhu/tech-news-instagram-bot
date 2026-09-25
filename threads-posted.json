@@ -91389,12 +91389,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-.png": {
-      "buffer_due_at_utc": "2026-09-25T14:14:04.000Z",
+      "buffer_due_at_utc": "2026-09-25T14:16:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab681804be5473030b5acce",
+      "buffer_post_id": "6ab6818677257a20a032e9e5",
       "caption_file": "output/2026-09-25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-25T14:16:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab6818677257a20a032e9e5",
+          "published_at_utc": "2026-09-25T14:13:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-25T14:14:04.000Z",
           "buffer_mode": "customScheduled",
@@ -91404,7 +91410,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-.png",
       "metadata_file": "output/2026-09-25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-.json",
-      "published_at_utc": "2026-09-25T14:13:20Z",
+      "published_at_utc": "2026-09-25T14:13:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-25/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai-.png": {
