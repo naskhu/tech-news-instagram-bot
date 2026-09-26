@@ -92002,12 +92002,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-thr.png": {
-      "buffer_due_at_utc": "2026-09-26T06:10:40.000Z",
+      "buffer_due_at_utc": "2026-09-26T06:12:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab75487dffba3cec6ef975d",
+      "buffer_post_id": "6ab7548cdffba3cec6ef97ac",
       "caption_file": "output/2026-09-26/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-thr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-26T06:12:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab7548cdffba3cec6ef97ac",
+          "published_at_utc": "2026-09-26T05:13:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-26T06:10:40.000Z",
           "buffer_mode": "customScheduled",
@@ -92017,7 +92023,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-thr.png",
       "metadata_file": "output/2026-09-26/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-thr.json",
-      "published_at_utc": "2026-09-26T05:13:43Z",
+      "published_at_utc": "2026-09-26T05:13:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.png": {
