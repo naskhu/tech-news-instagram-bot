@@ -91901,6 +91901,25 @@
       "published_at_utc": "2026-09-25T21:53:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-26/at-meta-connect-the-company-s-smart-glasses-were-everywhere-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-26T05:32:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab75472f59168c9753648a2",
+      "caption_file": "output/2026-09-26/at-meta-connect-the-company-s-smart-glasses-were-everywhere-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-26T05:32:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab75472f59168c9753648a2",
+          "published_at_utc": "2026-09-26T05:13:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/at-meta-connect-the-company-s-smart-glasses-were-everywhere-techcrunch.png",
+      "metadata_file": "output/2026-09-26/at-meta-connect-the-company-s-smart-glasses-were-everywhere-techcrunch.json",
+      "published_at_utc": "2026-09-26T05:13:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-26/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave-te.png": {
       "buffer_due_at_utc": "2026-09-26T00:26:06.000Z",
       "buffer_mode": "customScheduled",
