@@ -92465,12 +92465,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/decap-is-the-man-behind-the-drums-behind-your-favorite-song.png": {
-      "buffer_due_at_utc": "2026-09-26T23:31:41.000Z",
+      "buffer_due_at_utc": "2026-09-26T23:33:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab8514d3d66d464e5c05958",
+      "buffer_post_id": "6ab851520f79a37c5d3e4714",
       "caption_file": "output/2026-09-27/decap-is-the-man-behind-the-drums-behind-your-favorite-song.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-26T23:33:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab851520f79a37c5d3e4714",
+          "published_at_utc": "2026-09-26T23:12:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-26T23:31:41.000Z",
           "buffer_mode": "customScheduled",
@@ -92480,7 +92486,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/decap-is-the-man-behind-the-drums-behind-your-favorite-song.png",
       "metadata_file": "output/2026-09-27/decap-is-the-man-behind-the-drums-behind-your-favorite-song.json",
-      "published_at_utc": "2026-09-26T23:12:13Z",
+      "published_at_utc": "2026-09-26T23:12:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/meta-and-youtube-say-they-will-run-ads-for-musk-documentary-after-all-.png": {
