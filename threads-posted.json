@@ -92515,12 +92515,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/john-goodman-joins-the-cast-of-the-last-of-us.png": {
-      "buffer_due_at_utc": "2026-09-27T00:09:31.000Z",
+      "buffer_due_at_utc": "2026-09-27T00:11:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab851639f89edbefe81e774",
+      "buffer_post_id": "6ab85169ccccb9429c3d255b",
       "caption_file": "output/2026-09-27/john-goodman-joins-the-cast-of-the-last-of-us.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-27T00:11:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab85169ccccb9429c3d255b",
+          "published_at_utc": "2026-09-26T23:12:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-27T00:09:31.000Z",
           "buffer_mode": "customScheduled",
@@ -92530,7 +92536,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/john-goodman-joins-the-cast-of-the-last-of-us.png",
       "metadata_file": "output/2026-09-27/john-goodman-joins-the-cast-of-the-last-of-us.json",
-      "published_at_utc": "2026-09-26T23:12:35Z",
+      "published_at_utc": "2026-09-26T23:12:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/meta-and-youtube-say-they-will-run-ads-for-musk-documentary-after-all-.png": {
