@@ -92172,10 +92172,15 @@
     },
     "output/2026-09-26/levoit-s-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-yo.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ab80519ccccb9429c358d2d",
+      "buffer_post_id": "6ab805289f89edbefe7a4e47",
       "caption_file": "output/2026-09-26/levoit-s-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-yo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab805289f89edbefe7a4e47",
+          "published_at_utc": "2026-09-26T17:47:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ab80519ccccb9429c358d2d",
@@ -92184,7 +92189,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/levoit-s-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-yo.png",
       "metadata_file": "output/2026-09-26/levoit-s-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-yo.json",
-      "published_at_utc": "2026-09-26T17:47:15Z",
+      "published_at_utc": "2026-09-26T17:47:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.png": {
