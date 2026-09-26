@@ -91851,6 +91851,25 @@
       "published_at_utc": "2026-09-25T14:14:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-26/anthropic-s-founders-seek-voting-control-ahead-of-ipo-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-26T05:13:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab75467dffba3cec6ef91c8",
+      "caption_file": "output/2026-09-26/anthropic-s-founders-seek-voting-control-ahead-of-ipo-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-26T05:13:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab75467dffba3cec6ef91c8",
+          "published_at_utc": "2026-09-26T05:13:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/anthropic-s-founders-seek-voting-control-ahead-of-ipo-techcrunch.png",
+      "metadata_file": "output/2026-09-26/anthropic-s-founders-seek-voting-control-ahead-of-ipo-techcrunch.json",
+      "published_at_utc": "2026-09-26T05:13:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-26/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal-te.png": {
       "buffer_due_at_utc": "2026-09-25T21:55:53.000Z",
       "buffer_mode": "customScheduled",
