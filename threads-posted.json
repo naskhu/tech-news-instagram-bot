@@ -91977,12 +91977,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/for-months-openai-s-agent-swarms-have-been-attacking-online-databases-.png": {
-      "buffer_due_at_utc": "2026-09-26T05:51:45.000Z",
+      "buffer_due_at_utc": "2026-09-26T05:53:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab7547cb097c5b401ae3b92",
+      "buffer_post_id": "6ab75482f28173fa3f5a1e13",
       "caption_file": "output/2026-09-26/for-months-openai-s-agent-swarms-have-been-attacking-online-databases-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-26T05:53:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab75482f28173fa3f5a1e13",
+          "published_at_utc": "2026-09-26T05:13:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-26T05:51:45.000Z",
           "buffer_mode": "customScheduled",
@@ -91992,7 +91998,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/for-months-openai-s-agent-swarms-have-been-attacking-online-databases-.png",
       "metadata_file": "output/2026-09-26/for-months-openai-s-agent-swarms-have-been-attacking-online-databases-.json",
-      "published_at_utc": "2026-09-26T05:13:33Z",
+      "published_at_utc": "2026-09-26T05:13:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-tal.png": {
