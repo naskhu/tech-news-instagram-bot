@@ -92490,12 +92490,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/insurers-claim-ai-is-already-increasing-healthcare-costs-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-26T23:50:36.000Z",
+      "buffer_due_at_utc": "2026-09-26T23:52:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab851584b4b9f2c1c5b2fbe",
+      "buffer_post_id": "6ab8515d3d66d464e5c05aee",
       "caption_file": "output/2026-09-27/insurers-claim-ai-is-already-increasing-healthcare-costs-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-26T23:52:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab8515d3d66d464e5c05aee",
+          "published_at_utc": "2026-09-26T23:12:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-26T23:50:36.000Z",
           "buffer_mode": "customScheduled",
@@ -92505,7 +92511,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/insurers-claim-ai-is-already-increasing-healthcare-costs-techcrunch.png",
       "metadata_file": "output/2026-09-27/insurers-claim-ai-is-already-increasing-healthcare-costs-techcrunch.json",
-      "published_at_utc": "2026-09-26T23:12:24Z",
+      "published_at_utc": "2026-09-26T23:12:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/meta-and-youtube-say-they-will-run-ads-for-musk-documentary-after-all-.png": {
