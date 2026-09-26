@@ -92027,12 +92027,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-.png": {
-      "buffer_due_at_utc": "2026-09-26T01:20:51.000Z",
+      "buffer_due_at_utc": "2026-09-26T01:22:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab7109ab097c5b401a73ae8",
+      "buffer_post_id": "6ab7109f84e8fc26af1af251",
       "caption_file": "output/2026-09-26/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-26T01:22:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab7109f84e8fc26af1af251",
+          "published_at_utc": "2026-09-26T00:23:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-26T01:20:51.000Z",
           "buffer_mode": "customScheduled",
@@ -92042,7 +92048,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-.png",
       "metadata_file": "output/2026-09-26/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-.json",
-      "published_at_utc": "2026-09-26T00:23:54Z",
+      "published_at_utc": "2026-09-26T00:23:59Z",
       "publisher": "buffer_threads"
     }
   }
