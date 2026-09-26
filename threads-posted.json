@@ -91852,12 +91852,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/affected-by-layoffs-don-t-miss-this-75-deal-for-your-techcrunch-disrup.png": {
-      "buffer_due_at_utc": "2026-09-26T09:59:38.000Z",
+      "buffer_due_at_utc": "2026-09-26T10:01:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab7975d3afb9171a82cd5a8",
+      "buffer_post_id": "6ab797633afb9171a82cd791",
       "caption_file": "output/2026-09-26/affected-by-layoffs-don-t-miss-this-75-deal-for-your-techcrunch-disrup.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-26T10:01:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab797633afb9171a82cd791",
+          "published_at_utc": "2026-09-26T09:58:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-26T09:59:38.000Z",
           "buffer_mode": "customScheduled",
@@ -91867,7 +91873,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/affected-by-layoffs-don-t-miss-this-75-deal-for-your-techcrunch-disrup.png",
       "metadata_file": "output/2026-09-26/affected-by-layoffs-don-t-miss-this-75-deal-for-your-techcrunch-disrup.json",
-      "published_at_utc": "2026-09-26T09:58:54Z",
+      "published_at_utc": "2026-09-26T09:58:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/anthropic-s-founders-seek-voting-control-ahead-of-ipo-techcrunch.png": {
