@@ -91952,12 +91952,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off-techcru.png": {
-      "buffer_due_at_utc": "2026-09-26T01:01:56.000Z",
+      "buffer_due_at_utc": "2026-09-26T01:03:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab7108fb097c5b401a73a82",
+      "buffer_post_id": "6ab71094dffba3cec6e95a94",
       "caption_file": "output/2026-09-26/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-26T01:03:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab71094dffba3cec6e95a94",
+          "published_at_utc": "2026-09-26T00:23:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-26T01:01:56.000Z",
           "buffer_mode": "customScheduled",
@@ -91967,7 +91973,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-26/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off-techcru.png",
       "metadata_file": "output/2026-09-26/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off-techcru.json",
-      "published_at_utc": "2026-09-26T00:23:43Z",
+      "published_at_utc": "2026-09-26T00:23:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-26/meta-opens-early-access-program-for-new-muse-features-techcrunch.png": {
