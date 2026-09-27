@@ -1,0 +1,23 @@
+{
+  "title": "Old-School Credit Card Scams Are Far From Dead",
+  "summary": "Fraud related to chip credit cards does exist as well, but this recent case serves as a reminder that classic skimmers targeting magnetic stripe credit cards are still deployed by scammers because there’s apparently still enough swiping going on to make it…",
+  "source": "Wired",
+  "url": "https://wired.com/story/kernel-panic-old-timey-credit-card-scams",
+  "published_utc": "2026-09-26T12:00:00+00:00",
+  "output_day": "2026-09-27",
+  "date_source": "meta",
+  "generated_utc": "2026-09-27T07:05:52.349184+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://media.wired.com/photos/6ab58bd2c1b44e18bee51f48/master/pass/Kernel-Panic-Credit-Card-Scams-Security.jpg",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image": "output/2026-09-27/old-school-credit-card-scams-are-far-from-dead.png",
+  "caption": "output/2026-09-27/old-school-credit-card-scams-are-far-from-dead.txt"
+}
