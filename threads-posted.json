@@ -92540,12 +92540,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/googlebooks-might-be-the-real-deal.png": {
-      "buffer_due_at_utc": "2026-09-27T13:29:29.000Z",
+      "buffer_due_at_utc": "2026-09-27T13:31:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab915a91bf030e330a80820",
+      "buffer_post_id": "6ab915ae70ec211d1d18ad59",
       "caption_file": "output/2026-09-27/googlebooks-might-be-the-real-deal.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-27T13:31:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab915ae70ec211d1d18ad59",
+          "published_at_utc": "2026-09-27T13:10:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-27T13:29:29.000Z",
           "buffer_mode": "customScheduled",
@@ -92555,7 +92561,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/googlebooks-might-be-the-real-deal.png",
       "metadata_file": "output/2026-09-27/googlebooks-might-be-the-real-deal.json",
-      "published_at_utc": "2026-09-27T13:10:01Z",
+      "published_at_utc": "2026-09-27T13:10:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/insurers-claim-ai-is-already-increasing-healthcare-costs-techcrunch.png": {
