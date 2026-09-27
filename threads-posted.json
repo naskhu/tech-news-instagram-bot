@@ -92857,10 +92857,15 @@
     },
     "output/2026-09-27/techcrunch-mobility-av-companies-pick-their-lanes-techcrunch.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ab9580070ec211d1d21a193",
+      "buffer_post_id": "6ab9580e1bf030e330b0dff4",
       "caption_file": "output/2026-09-27/techcrunch-mobility-av-companies-pick-their-lanes-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab9580e1bf030e330b0dff4",
+          "published_at_utc": "2026-09-27T17:53:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ab9580070ec211d1d21a193",
@@ -92869,7 +92874,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/techcrunch-mobility-av-companies-pick-their-lanes-techcrunch.png",
       "metadata_file": "output/2026-09-27/techcrunch-mobility-av-companies-pick-their-lanes-techcrunch.json",
-      "published_at_utc": "2026-09-27T17:53:13Z",
+      "published_at_utc": "2026-09-27T17:53:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/tesla-s-big-electric-truck-faces-an-even-bigger-infrastructure-challen.png": {
