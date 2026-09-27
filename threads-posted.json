@@ -93026,6 +93026,25 @@
       "metadata_file": "output/2026-09-27/youtube-and-meta-now-say-they-ll-run-ads-for-alex-gibney-s-musk-docume.json",
       "published_at_utc": "2026-09-26T20:34:13Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-28/anthropic-s-ceo-is-about-to-have-dinner-with-president-trump.png": {
+      "buffer_due_at_utc": "2026-09-27T20:45:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab9804d36a0dcfcb3e40935",
+      "caption_file": "output/2026-09-28/anthropic-s-ceo-is-about-to-have-dinner-with-president-trump.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-27T20:45:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab9804d36a0dcfcb3e40935",
+          "published_at_utc": "2026-09-27T20:45:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/anthropic-s-ceo-is-about-to-have-dinner-with-president-trump.png",
+      "metadata_file": "output/2026-09-28/anthropic-s-ceo-is-about-to-have-dinner-with-president-trump.json",
+      "published_at_utc": "2026-09-27T20:45:01Z",
+      "publisher": "buffer_threads"
     }
   }
 }
