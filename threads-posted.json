@@ -92765,12 +92765,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/this-browser-extension-lets-you-snooze-open-tabs-until-later.png": {
-      "buffer_due_at_utc": "2026-09-27T08:05:09.000Z",
+      "buffer_due_at_utc": "2026-09-27T08:07:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab8c0e09f89edbefe8d14c8",
+      "buffer_post_id": "6ab8c0e6ccccb9429c47ec62",
       "caption_file": "output/2026-09-27/this-browser-extension-lets-you-snooze-open-tabs-until-later.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-27T08:07:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab8c0e6ccccb9429c47ec62",
+          "published_at_utc": "2026-09-27T07:08:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-27T08:05:09.000Z",
           "buffer_mode": "customScheduled",
@@ -92780,7 +92786,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/this-browser-extension-lets-you-snooze-open-tabs-until-later.png",
       "metadata_file": "output/2026-09-27/this-browser-extension-lets-you-snooze-open-tabs-until-later.json",
-      "published_at_utc": "2026-09-27T07:08:16Z",
+      "published_at_utc": "2026-09-27T07:08:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement-techcrunch.png": {
