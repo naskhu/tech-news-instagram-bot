@@ -93051,6 +93051,25 @@
       "metadata_file": "output/2026-09-28/anthropic-s-ceo-is-about-to-have-dinner-with-president-trump.json",
       "published_at_utc": "2026-09-27T20:45:07Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-28/can-muse-overcome-meta-s-trust-issues-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-27T21:04:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab9805954f1e60c7e7a710f",
+      "caption_file": "output/2026-09-28/can-muse-overcome-meta-s-trust-issues-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-27T21:04:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab9805954f1e60c7e7a710f",
+          "published_at_utc": "2026-09-27T20:45:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/can-muse-overcome-meta-s-trust-issues-techcrunch.png",
+      "metadata_file": "output/2026-09-28/can-muse-overcome-meta-s-trust-issues-techcrunch.json",
+      "published_at_utc": "2026-09-27T20:45:13Z",
+      "publisher": "buffer_threads"
     }
   }
 }
