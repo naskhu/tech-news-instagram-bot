@@ -92763,10 +92763,15 @@
     },
     "output/2026-09-27/openai-agents-tried-to-bruteforce-a-un-website.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ab957c143493a0ede985754",
+      "buffer_post_id": "6ab957d1612c9e6ac92da713",
       "caption_file": "output/2026-09-27/openai-agents-tried-to-bruteforce-a-un-website.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab957d1612c9e6ac92da713",
+          "published_at_utc": "2026-09-27T17:52:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ab957c143493a0ede985754",
@@ -92775,7 +92780,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/openai-agents-tried-to-bruteforce-a-un-website.png",
       "metadata_file": "output/2026-09-27/openai-agents-tried-to-bruteforce-a-un-website.json",
-      "published_at_utc": "2026-09-27T17:52:12Z",
+      "published_at_utc": "2026-09-27T17:52:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/pnoe-s-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-ser.png": {
