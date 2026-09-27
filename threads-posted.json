@@ -92564,6 +92564,25 @@
       "published_at_utc": "2026-09-26T23:12:41Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-27/look-at-all-of-the-silicon-valley-bigwigs-gathered-to-pay-fealty-to-tr.png": {
+      "buffer_due_at_utc": "2026-09-27T01:53:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab872a14b4b9f2c1c5e6367",
+      "caption_file": "output/2026-09-27/look-at-all-of-the-silicon-valley-bigwigs-gathered-to-pay-fealty-to-tr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-27T01:53:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab872a14b4b9f2c1c5e6367",
+          "published_at_utc": "2026-09-27T01:34:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/look-at-all-of-the-silicon-valley-bigwigs-gathered-to-pay-fealty-to-tr.png",
+      "metadata_file": "output/2026-09-27/look-at-all-of-the-silicon-valley-bigwigs-gathered-to-pay-fealty-to-tr.json",
+      "published_at_utc": "2026-09-27T01:34:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-27/meta-and-youtube-say-they-will-run-ads-for-musk-documentary-after-all-.png": {
       "buffer_due_at_utc": "2026-09-26T20:36:17.000Z",
       "buffer_mode": "customScheduled",
