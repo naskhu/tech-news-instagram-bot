@@ -92833,6 +92833,23 @@
       "published_at_utc": "2026-09-27T01:34:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-f.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ab957e1612c9e6ac92da8c7",
+      "caption_file": "output/2026-09-27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-f.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ab957e1612c9e6ac92da8c7",
+          "published_at_utc": "2026-09-27T17:52:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-f.png",
+      "metadata_file": "output/2026-09-27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-f.json",
+      "published_at_utc": "2026-09-27T17:52:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-27/tesla-s-big-electric-truck-faces-an-even-bigger-infrastructure-challen.png": {
       "buffer_due_at_utc": "2026-09-27T02:33:43.000Z",
       "buffer_mode": "customScheduled",
