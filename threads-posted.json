@@ -92639,6 +92639,25 @@
       "published_at_utc": "2026-09-27T01:34:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-27/tesla-s-big-electric-truck-faces-an-even-bigger-infrastructure-challen.png": {
+      "buffer_due_at_utc": "2026-09-27T02:31:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ab872b84b4b9f2c1c5e6460",
+      "caption_file": "output/2026-09-27/tesla-s-big-electric-truck-faces-an-even-bigger-infrastructure-challen.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-27T02:31:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab872b84b4b9f2c1c5e6460",
+          "published_at_utc": "2026-09-27T01:34:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/tesla-s-big-electric-truck-faces-an-even-bigger-infrastructure-challen.png",
+      "metadata_file": "output/2026-09-27/tesla-s-big-electric-truck-faces-an-even-bigger-infrastructure-challen.json",
+      "published_at_utc": "2026-09-27T01:34:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-27/the-drama-at-automattic-continues.png": {
       "buffer_due_at_utc": "2026-09-26T20:55:12.000Z",
       "buffer_mode": "customScheduled",
