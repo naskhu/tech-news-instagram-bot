@@ -93078,12 +93078,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/if-we-can-pressure-lawmakers-to-create-guardrails-we-will-be-able-to-s.png": {
-      "buffer_due_at_utc": "2026-09-27T21:23:35.000Z",
+      "buffer_due_at_utc": "2026-09-27T21:25:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab9806370ec211d1d2775bb",
+      "buffer_post_id": "6ab9806836a0dcfcb3e415f7",
       "caption_file": "output/2026-09-28/if-we-can-pressure-lawmakers-to-create-guardrails-we-will-be-able-to-s.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-27T21:25:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab9806836a0dcfcb3e415f7",
+          "published_at_utc": "2026-09-27T20:45:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-27T21:23:35.000Z",
           "buffer_mode": "customScheduled",
@@ -93093,7 +93099,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/if-we-can-pressure-lawmakers-to-create-guardrails-we-will-be-able-to-s.png",
       "metadata_file": "output/2026-09-28/if-we-can-pressure-lawmakers-to-create-guardrails-we-will-be-able-to-s.json",
-      "published_at_utc": "2026-09-27T20:45:23Z",
+      "published_at_utc": "2026-09-27T20:45:28Z",
       "publisher": "buffer_threads"
     }
   }
