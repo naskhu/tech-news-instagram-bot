@@ -92665,12 +92665,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/pnoe-s-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-ser.png": {
-      "buffer_due_at_utc": "2026-09-27T07:46:14.000Z",
+      "buffer_due_at_utc": "2026-09-27T07:48:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab8c0d40f79a37c5d49266d",
+      "buffer_post_id": "6ab8c0daccccb9429c47eb9f",
       "caption_file": "output/2026-09-27/pnoe-s-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-ser.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-27T07:48:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab8c0daccccb9429c47eb9f",
+          "published_at_utc": "2026-09-27T07:08:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-27T07:46:14.000Z",
           "buffer_mode": "customScheduled",
@@ -92680,7 +92686,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/pnoe-s-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-ser.png",
       "metadata_file": "output/2026-09-27/pnoe-s-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-ser.json",
-      "published_at_utc": "2026-09-27T07:08:04Z",
+      "published_at_utc": "2026-09-27T07:08:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/prime-day-hasn-t-started-yet-but-i-ve-already-found-deals-worth-buying.png": {
