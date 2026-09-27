@@ -93078,12 +93078,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music.png": {
-      "buffer_due_at_utc": "2026-09-27T23:36:53.000Z",
+      "buffer_due_at_utc": "2026-09-27T23:38:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab9a869612c9e6ac937e9ac",
+      "buffer_post_id": "6ab9a86e82dee5c85bcec7ec",
       "caption_file": "output/2026-09-28/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-27T23:38:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab9a86e82dee5c85bcec7ec",
+          "published_at_utc": "2026-09-27T23:36:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-27T23:36:53.000Z",
           "buffer_mode": "customScheduled",
@@ -93093,7 +93099,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music.png",
       "metadata_file": "output/2026-09-28/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music.json",
-      "published_at_utc": "2026-09-27T23:36:09Z",
+      "published_at_utc": "2026-09-27T23:36:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/if-we-can-pressure-lawmakers-to-create-guardrails-we-will-be-able-to-s.png": {
