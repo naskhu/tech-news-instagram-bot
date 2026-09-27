@@ -92640,12 +92640,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/old-school-credit-card-scams-are-far-from-dead.png": {
-      "buffer_due_at_utc": "2026-09-27T07:27:19.000Z",
+      "buffer_due_at_utc": "2026-09-27T07:29:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab8c0c93d66d464e5cbaf72",
+      "buffer_post_id": "6ab8c0ceccccb9429c47e9f3",
       "caption_file": "output/2026-09-27/old-school-credit-card-scams-are-far-from-dead.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-27T07:29:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab8c0ceccccb9429c47e9f3",
+          "published_at_utc": "2026-09-27T07:07:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-27T07:27:19.000Z",
           "buffer_mode": "customScheduled",
@@ -92655,7 +92661,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/old-school-credit-card-scams-are-far-from-dead.png",
       "metadata_file": "output/2026-09-27/old-school-credit-card-scams-are-far-from-dead.json",
-      "published_at_utc": "2026-09-27T07:07:53Z",
+      "published_at_utc": "2026-09-27T07:07:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/prime-day-hasn-t-started-yet-but-i-ve-already-found-deals-worth-buying.png": {
