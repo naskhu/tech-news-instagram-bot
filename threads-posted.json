@@ -92565,12 +92565,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/how-the-smithsonian-became-the-latest-front-in-trump-s-culture-war.png": {
-      "buffer_due_at_utc": "2026-09-27T13:48:24.000Z",
+      "buffer_due_at_utc": "2026-09-27T13:50:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab915b443493a0ede8f82d4",
+      "buffer_post_id": "6ab915b954f1e60c7e6c0e33",
       "caption_file": "output/2026-09-27/how-the-smithsonian-became-the-latest-front-in-trump-s-culture-war.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-27T13:50:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab915b954f1e60c7e6c0e33",
+          "published_at_utc": "2026-09-27T13:10:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-27T13:48:24.000Z",
           "buffer_mode": "customScheduled",
@@ -92580,7 +92586,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-27/how-the-smithsonian-became-the-latest-front-in-trump-s-culture-war.png",
       "metadata_file": "output/2026-09-27/how-the-smithsonian-became-the-latest-front-in-trump-s-culture-war.json",
-      "published_at_utc": "2026-09-27T13:10:12Z",
+      "published_at_utc": "2026-09-27T13:10:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-27/insurers-claim-ai-is-already-increasing-healthcare-costs-techcrunch.png": {
