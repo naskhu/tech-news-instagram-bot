@@ -1,0 +1,23 @@
+{
+  "title": "Dario Amodei’s date night with the President.",
+  "summary": "All the news about Anthropic’s new AI fight with the White House Donald Trump reportedly hosted the Anthropic CEO at the White House for a private dinner on Sunday evening, after Amodei was notably not included among the Silicon Valley bigwigs at…",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/1001217/dario-amodei-donald-trump-private-dinner",
+  "published_utc": "2026-09-28T07:42:01+00:00",
+  "output_day": "2026-09-28",
+  "date_source": "meta",
+  "generated_utc": "2026-09-28T08:17:18.531787+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VRH_Site_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-09-28/dario-amodei-s-date-night-with-the-president.png",
+  "caption": "output/2026-09-28/dario-amodei-s-date-night-with-the-president.txt"
+}
