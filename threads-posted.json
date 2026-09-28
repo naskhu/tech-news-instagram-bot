@@ -93253,12 +93253,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/some-pancreatic-cells-are-just-one-genetic-tweak-away-from-treating-di.png": {
-      "buffer_due_at_utc": "2026-09-28T02:40:10.000Z",
+      "buffer_due_at_utc": "2026-09-28T02:42:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ab9ca9854f1e60c7e829dd7",
+      "buffer_post_id": "6ab9ca9e36a0dcfcb3ec3954",
       "caption_file": "output/2026-09-28/some-pancreatic-cells-are-just-one-genetic-tweak-away-from-treating-di.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-28T02:42:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ab9ca9e36a0dcfcb3ec3954",
+          "published_at_utc": "2026-09-28T02:02:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-28T02:40:10.000Z",
           "buffer_mode": "customScheduled",
@@ -93268,7 +93274,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/some-pancreatic-cells-are-just-one-genetic-tweak-away-from-treating-di.png",
       "metadata_file": "output/2026-09-28/some-pancreatic-cells-are-just-one-genetic-tweak-away-from-treating-di.json",
-      "published_at_utc": "2026-09-28T02:02:00Z",
+      "published_at_utc": "2026-09-28T02:02:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/what-s-the-most-creative-way-you-misused-tech-to-connect-with-others.png": {
