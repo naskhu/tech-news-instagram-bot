@@ -93603,12 +93603,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/tesla-delays-roadster-2-event-again-due-to-bad-weather-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-28T23:24:03.000Z",
+      "buffer_due_at_utc": "2026-09-28T23:26:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abae9bfc5484f9414a278f2",
+      "buffer_post_id": "6abae9c47889d8281c1f0ff5",
       "caption_file": "output/2026-09-29/tesla-delays-roadster-2-event-again-due-to-bad-weather-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-28T23:26:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abae9c47889d8281c1f0ff5",
+          "published_at_utc": "2026-09-28T22:27:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-28T23:24:03.000Z",
           "buffer_mode": "customScheduled",
@@ -93618,7 +93624,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/tesla-delays-roadster-2-event-again-due-to-bad-weather-techcrunch.png",
       "metadata_file": "output/2026-09-29/tesla-delays-roadster-2-event-again-due-to-bad-weather-techcrunch.json",
-      "published_at_utc": "2026-09-28T22:27:11Z",
+      "published_at_utc": "2026-09-28T22:27:16Z",
       "publisher": "buffer_threads"
     }
   }
