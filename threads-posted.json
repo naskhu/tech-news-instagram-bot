@@ -93353,12 +93353,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-bey.png": {
-      "buffer_due_at_utc": "2026-09-28T08:57:38.000Z",
+      "buffer_due_at_utc": "2026-09-28T08:59:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aba231029541a28ca8c167b",
+      "buffer_post_id": "6aba23166de6170c5000a0fb",
       "caption_file": "output/2026-09-28/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-bey.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-28T08:59:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aba23166de6170c5000a0fb",
+          "published_at_utc": "2026-09-28T08:19:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-28T08:57:38.000Z",
           "buffer_mode": "customScheduled",
@@ -93368,7 +93374,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-bey.png",
       "metadata_file": "output/2026-09-28/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-bey.json",
-      "published_at_utc": "2026-09-28T08:19:29Z",
+      "published_at_utc": "2026-09-28T08:19:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/what-s-the-most-creative-way-you-misused-tech-to-connect-with-others.png": {
