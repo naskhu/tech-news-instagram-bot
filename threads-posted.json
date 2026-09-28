@@ -93578,12 +93578,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75.png": {
-      "buffer_due_at_utc": "2026-09-28T23:05:08.000Z",
+      "buffer_due_at_utc": "2026-09-28T23:07:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abae9b293a81b612b5135f6",
+      "buffer_post_id": "6abae9b8c5484f9414a278b0",
       "caption_file": "output/2026-09-29/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-28T23:07:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abae9b8c5484f9414a278b0",
+          "published_at_utc": "2026-09-28T22:27:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-28T23:05:08.000Z",
           "buffer_mode": "customScheduled",
@@ -93593,7 +93599,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75.png",
       "metadata_file": "output/2026-09-29/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75.json",
-      "published_at_utc": "2026-09-28T22:26:58Z",
+      "published_at_utc": "2026-09-28T22:27:04Z",
       "publisher": "buffer_threads"
     }
   }
