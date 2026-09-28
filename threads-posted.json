@@ -93077,6 +93077,25 @@
       "published_at_utc": "2026-09-27T20:45:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-28/dario-amodei-s-date-night-with-the-president.png": {
+      "buffer_due_at_utc": "2026-09-28T08:19:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aba22f820e4570cbd9b6911",
+      "caption_file": "output/2026-09-28/dario-amodei-s-date-night-with-the-president.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-28T08:19:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aba22f820e4570cbd9b6911",
+          "published_at_utc": "2026-09-28T08:19:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/dario-amodei-s-date-night-with-the-president.png",
+      "metadata_file": "output/2026-09-28/dario-amodei-s-date-night-with-the-president.json",
+      "published_at_utc": "2026-09-28T08:19:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-28/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music.png": {
       "buffer_due_at_utc": "2026-09-27T23:38:53.000Z",
       "buffer_mode": "customScheduled",
