@@ -93252,6 +93252,25 @@
       "published_at_utc": "2026-09-27T20:45:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant-.png": {
+      "buffer_due_at_utc": "2026-09-28T17:10:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aba9aeee3532db9cb034e14",
+      "caption_file": "output/2026-09-28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-28T17:10:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aba9aeee3532db9cb034e14",
+          "published_at_utc": "2026-09-28T16:50:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant-.png",
+      "metadata_file": "output/2026-09-28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant-.json",
+      "published_at_utc": "2026-09-28T16:50:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-28/maybe-don-t-let-muse-run-your-facebook-marketplace-account.png": {
       "buffer_due_at_utc": "2026-09-27T23:57:48.000Z",
       "buffer_mode": "customScheduled",
