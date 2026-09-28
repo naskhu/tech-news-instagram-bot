@@ -93378,12 +93378,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/watch-uefa-nations-league-soccer-livestream-norway-vs-portugal-from-an.png": {
-      "buffer_due_at_utc": "2026-09-28T09:16:33.000Z",
+      "buffer_due_at_utc": "2026-09-28T09:18:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aba231c01369cd33e99c462",
+      "buffer_post_id": "6aba2322c60ce5c8dcc4c936",
       "caption_file": "output/2026-09-28/watch-uefa-nations-league-soccer-livestream-norway-vs-portugal-from-an.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-28T09:18:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aba2322c60ce5c8dcc4c936",
+          "published_at_utc": "2026-09-28T08:19:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-28T09:16:33.000Z",
           "buffer_mode": "customScheduled",
@@ -93393,7 +93399,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-28/watch-uefa-nations-league-soccer-livestream-norway-vs-portugal-from-an.png",
       "metadata_file": "output/2026-09-28/watch-uefa-nations-league-soccer-livestream-norway-vs-portugal-from-an.json",
-      "published_at_utc": "2026-09-28T08:19:40Z",
+      "published_at_utc": "2026-09-28T08:19:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-28/what-s-the-most-creative-way-you-misused-tech-to-connect-with-others.png": {
