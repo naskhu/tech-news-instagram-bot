@@ -93703,12 +93703,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it-.png": {
-      "buffer_due_at_utc": "2026-09-29T03:17:18.000Z",
+      "buffer_due_at_utc": "2026-09-29T03:19:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abb20697889d8281c2544c4",
+      "buffer_post_id": "6abb206f320ca548b4d5bda8",
       "caption_file": "output/2026-09-29/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-29T03:19:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abb206f320ca548b4d5bda8",
+          "published_at_utc": "2026-09-29T02:20:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-29T03:17:18.000Z",
           "buffer_mode": "customScheduled",
@@ -93718,7 +93724,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it-.png",
       "metadata_file": "output/2026-09-29/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it-.json",
-      "published_at_utc": "2026-09-29T02:20:25Z",
+      "published_at_utc": "2026-09-29T02:20:31Z",
       "publisher": "buffer_threads"
     }
   }
