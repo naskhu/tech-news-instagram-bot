@@ -94003,12 +94003,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation.png": {
-      "buffer_due_at_utc": "2026-09-29T21:02:18.000Z",
+      "buffer_due_at_utc": "2026-09-29T21:04:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abc1a032b2f93f6099d17eb",
+      "buffer_post_id": "6abc1a09a1ba5ce146dac732",
       "caption_file": "output/2026-09-30/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-29T21:04:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc1a09a1ba5ce146dac732",
+          "published_at_utc": "2026-09-29T20:05:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-29T21:02:18.000Z",
           "buffer_mode": "customScheduled",
@@ -94018,7 +94024,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation.png",
       "metadata_file": "output/2026-09-30/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation.json",
-      "published_at_utc": "2026-09-29T20:05:23Z",
+      "published_at_utc": "2026-09-29T20:05:29Z",
       "publisher": "buffer_threads"
     }
   }
