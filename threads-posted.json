@@ -93926,6 +93926,25 @@
       "metadata_file": "output/2026-09-29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-.json",
       "published_at_utc": "2026-09-29T15:08:33Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-30/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say-tech.png": {
+      "buffer_due_at_utc": "2026-09-29T20:05:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abc19e15df9296bd8d19faf",
+      "caption_file": "output/2026-09-30/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-29T20:05:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc19e15df9296bd8d19faf",
+          "published_at_utc": "2026-09-29T20:04:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say-tech.png",
+      "metadata_file": "output/2026-09-30/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say-tech.json",
+      "published_at_utc": "2026-09-29T20:04:49Z",
+      "publisher": "buffer_threads"
     }
   }
 }
