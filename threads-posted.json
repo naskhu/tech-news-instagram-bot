@@ -93903,12 +93903,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-.png": {
-      "buffer_due_at_utc": "2026-09-29T16:05:19.000Z",
+      "buffer_due_at_utc": "2026-09-29T16:07:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abbd46b366dc407c5f00fc9",
+      "buffer_post_id": "6abbd4711adcc81f03ea78b6",
       "caption_file": "output/2026-09-29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-29T16:07:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abbd4711adcc81f03ea78b6",
+          "published_at_utc": "2026-09-29T15:08:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-29T16:05:19.000Z",
           "buffer_mode": "customScheduled",
@@ -93918,7 +93924,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-.png",
       "metadata_file": "output/2026-09-29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-.json",
-      "published_at_utc": "2026-09-29T15:08:27Z",
+      "published_at_utc": "2026-09-29T15:08:33Z",
       "publisher": "buffer_threads"
     }
   }
