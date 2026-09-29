@@ -94103,12 +94103,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-dat.png": {
-      "buffer_due_at_utc": "2026-09-30T00:45:42.000Z",
+      "buffer_due_at_utc": "2026-09-30T00:47:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abc4e605df9296bd8d76e39",
+      "buffer_post_id": "6abc4e665df9296bd8d76ed9",
       "caption_file": "output/2026-09-30/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-dat.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-30T00:47:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc4e665df9296bd8d76ed9",
+          "published_at_utc": "2026-09-29T23:48:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-30T00:45:42.000Z",
           "buffer_mode": "customScheduled",
@@ -94118,7 +94124,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-dat.png",
       "metadata_file": "output/2026-09-30/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-dat.json",
-      "published_at_utc": "2026-09-29T23:48:49Z",
+      "published_at_utc": "2026-09-29T23:48:54Z",
       "publisher": "buffer_threads"
     }
   }
