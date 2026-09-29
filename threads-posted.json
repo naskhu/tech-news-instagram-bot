@@ -93753,12 +93753,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market.png": {
-      "buffer_due_at_utc": "2026-09-29T15:46:24.000Z",
+      "buffer_due_at_utc": "2026-09-29T15:48:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abbd45f572b35312d5b07c7",
+      "buffer_post_id": "6abbd4640f3d8cbbb1406887",
       "caption_file": "output/2026-09-29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-29T15:48:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abbd4640f3d8cbbb1406887",
+          "published_at_utc": "2026-09-29T15:08:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-29T15:46:24.000Z",
           "buffer_mode": "customScheduled",
@@ -93768,7 +93774,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market.png",
       "metadata_file": "output/2026-09-29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market.json",
-      "published_at_utc": "2026-09-29T15:08:15Z",
+      "published_at_utc": "2026-09-29T15:08:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-coh.png": {
