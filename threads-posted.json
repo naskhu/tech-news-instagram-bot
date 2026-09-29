@@ -93602,6 +93602,25 @@
       "published_at_utc": "2026-09-29T02:20:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-29/peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-coh.png": {
+      "buffer_due_at_utc": "2026-09-29T02:58:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abb205c320ca548b4d5b9cd",
+      "caption_file": "output/2026-09-29/peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-coh.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-29T02:58:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abb205c320ca548b4d5b9cd",
+          "published_at_utc": "2026-09-29T02:20:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-coh.png",
+      "metadata_file": "output/2026-09-29/peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-coh.json",
+      "published_at_utc": "2026-09-29T02:20:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-29/shopify-opens-checkout-to-browser-based-ai-agents-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-28T22:48:13.000Z",
       "buffer_mode": "customScheduled",
