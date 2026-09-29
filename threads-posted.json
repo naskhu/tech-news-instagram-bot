@@ -93578,12 +93578,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/anthropic-s-prospectus-details-losses-growth-and-yes-a-warning-that-it.png": {
-      "buffer_due_at_utc": "2026-09-29T09:01:31.000Z",
+      "buffer_due_at_utc": "2026-09-29T09:03:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abb79db76fa1f54a59d95c5",
+      "buffer_post_id": "6abb79e093a81b612b63df13",
       "caption_file": "output/2026-09-29/anthropic-s-prospectus-details-losses-growth-and-yes-a-warning-that-it.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-29T09:03:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abb79e093a81b612b63df13",
+          "published_at_utc": "2026-09-29T08:42:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-29T09:01:31.000Z",
           "buffer_mode": "customScheduled",
@@ -93593,7 +93599,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/anthropic-s-prospectus-details-losses-growth-and-yes-a-warning-that-it.png",
       "metadata_file": "output/2026-09-29/anthropic-s-prospectus-details-losses-growth-and-yes-a-warning-that-it.json",
-      "published_at_utc": "2026-09-29T08:42:03Z",
+      "published_at_utc": "2026-09-29T08:42:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-t-as-far-fetched-.png": {
