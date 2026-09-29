@@ -93701,6 +93701,25 @@
       "metadata_file": "output/2026-09-29/tesla-delays-roadster-2-event-again-due-to-bad-weather-techcrunch.json",
       "published_at_utc": "2026-09-28T22:27:16Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-29/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it-.png": {
+      "buffer_due_at_utc": "2026-09-29T03:17:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abb20697889d8281c2544c4",
+      "caption_file": "output/2026-09-29/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-29T03:17:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abb20697889d8281c2544c4",
+          "published_at_utc": "2026-09-29T02:20:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it-.png",
+      "metadata_file": "output/2026-09-29/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it-.json",
+      "published_at_utc": "2026-09-29T02:20:25Z",
+      "publisher": "buffer_threads"
     }
   }
 }
