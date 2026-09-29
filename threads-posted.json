@@ -94078,12 +94078,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch.png": {
-      "buffer_due_at_utc": "2026-09-30T00:26:47.000Z",
+      "buffer_due_at_utc": "2026-09-30T00:28:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abc4e555df9296bd8d76d98",
+      "buffer_post_id": "6abc4e5bd3050be9e379df84",
       "caption_file": "output/2026-09-30/the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-30T00:28:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc4e5bd3050be9e379df84",
+          "published_at_utc": "2026-09-29T23:48:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-30T00:26:47.000Z",
           "buffer_mode": "customScheduled",
@@ -94093,7 +94099,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch.png",
       "metadata_file": "output/2026-09-30/the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch.json",
-      "published_at_utc": "2026-09-29T23:48:37Z",
+      "published_at_utc": "2026-09-29T23:48:43Z",
       "publisher": "buffer_threads"
     }
   }
