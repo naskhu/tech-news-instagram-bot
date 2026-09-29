@@ -93577,6 +93577,25 @@
       "published_at_utc": "2026-09-29T02:19:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-29/openai-reportedly-ditches-model-over-safety-concerns-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-29T02:39:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abb205193a81b612b579172",
+      "caption_file": "output/2026-09-29/openai-reportedly-ditches-model-over-safety-concerns-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-29T02:39:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abb205193a81b612b579172",
+          "published_at_utc": "2026-09-29T02:20:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/openai-reportedly-ditches-model-over-safety-concerns-techcrunch.png",
+      "metadata_file": "output/2026-09-29/openai-reportedly-ditches-model-over-safety-concerns-techcrunch.json",
+      "published_at_utc": "2026-09-29T02:20:01Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-29/shopify-opens-checkout-to-browser-based-ai-agents-techcrunch.png": {
       "buffer_due_at_utc": "2026-09-28T22:48:13.000Z",
       "buffer_mode": "customScheduled",
