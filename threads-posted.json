@@ -93553,12 +93553,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-t-as-far-fetched-.png": {
-      "buffer_due_at_utc": "2026-09-29T02:20:33.000Z",
+      "buffer_due_at_utc": "2026-09-29T02:22:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abb2045b6b26148958b8b7b",
+      "buffer_post_id": "6abb204a320ca548b4d5b570",
       "caption_file": "output/2026-09-29/aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-t-as-far-fetched-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-29T02:22:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abb204a320ca548b4d5b570",
+          "published_at_utc": "2026-09-29T02:19:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-29T02:20:33.000Z",
           "buffer_mode": "customScheduled",
@@ -93568,7 +93574,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-t-as-far-fetched-.png",
       "metadata_file": "output/2026-09-29/aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-t-as-far-fetched-.json",
-      "published_at_utc": "2026-09-29T02:19:49Z",
+      "published_at_utc": "2026-09-29T02:19:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/shopify-opens-checkout-to-browser-based-ai-agents-techcrunch.png": {
