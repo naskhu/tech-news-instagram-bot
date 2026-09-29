@@ -93976,6 +93976,25 @@
       "metadata_file": "output/2026-09-30/here-s-why-openai-is-absent-from-nvidia-s-industry-wide-effort-to-end-.json",
       "published_at_utc": "2026-09-29T20:05:06Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-09-30/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterp.png": {
+      "buffer_due_at_utc": "2026-09-29T20:43:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abc19f8a1ba5ce146dac568",
+      "caption_file": "output/2026-09-30/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterp.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-29T20:43:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc19f8a1ba5ce146dac568",
+          "published_at_utc": "2026-09-29T20:05:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterp.png",
+      "metadata_file": "output/2026-09-30/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterp.json",
+      "published_at_utc": "2026-09-29T20:05:12Z",
+      "publisher": "buffer_threads"
     }
   }
 }
