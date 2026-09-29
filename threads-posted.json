@@ -93953,12 +93953,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-it-s.png": {
-      "buffer_due_at_utc": "2026-09-30T00:07:52.000Z",
+      "buffer_due_at_utc": "2026-09-30T00:09:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abc4e49d3050be9e379de4d",
+      "buffer_post_id": "6abc4e4fa1ba5ce146e0e7a1",
       "caption_file": "output/2026-09-30/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-it-s.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-30T00:09:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc4e4fa1ba5ce146e0e7a1",
+          "published_at_utc": "2026-09-29T23:48:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-30T00:07:52.000Z",
           "buffer_mode": "customScheduled",
@@ -93968,7 +93974,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-it-s.png",
       "metadata_file": "output/2026-09-30/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-it-s.json",
-      "published_at_utc": "2026-09-29T23:48:25Z",
+      "published_at_utc": "2026-09-29T23:48:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say-tech.png": {
