@@ -93552,6 +93552,25 @@
       "published_at_utc": "2026-09-28T22:26:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-29/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-f.png": {
+      "buffer_due_at_utc": "2026-09-29T08:42:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abb79d076fa1f54a59d94db",
+      "caption_file": "output/2026-09-29/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-f.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-29T08:42:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abb79d076fa1f54a59d94db",
+          "published_at_utc": "2026-09-29T08:41:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-f.png",
+      "metadata_file": "output/2026-09-29/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-f.json",
+      "published_at_utc": "2026-09-29T08:41:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-29/aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-t-as-far-fetched-.png": {
       "buffer_due_at_utc": "2026-09-29T02:22:33.000Z",
       "buffer_mode": "customScheduled",
