@@ -93528,12 +93528,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-.png": {
-      "buffer_due_at_utc": "2026-09-29T15:08:34.000Z",
+      "buffer_due_at_utc": "2026-09-29T15:10:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abbd446d379548ba9967c98",
+      "buffer_post_id": "6abbd44c0f3d8cbbb1406554",
       "caption_file": "output/2026-09-29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-29T15:10:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abbd44c0f3d8cbbb1406554",
+          "published_at_utc": "2026-09-29T15:07:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-29T15:08:34.000Z",
           "buffer_mode": "customScheduled",
@@ -93543,7 +93549,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-.png",
       "metadata_file": "output/2026-09-29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-.json",
-      "published_at_utc": "2026-09-29T15:07:50Z",
+      "published_at_utc": "2026-09-29T15:07:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-29/amd-will-acquire-fei-fei-li-s-world-labs-for-8-2-billion-techcrunch.png": {
