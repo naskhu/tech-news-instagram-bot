@@ -93928,12 +93928,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b-techcrunch.png": {
-      "buffer_due_at_utc": "2026-09-29T23:48:57.000Z",
+      "buffer_due_at_utc": "2026-09-29T23:50:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abc4e3d5df9296bd8d7631b",
+      "buffer_post_id": "6abc4e43a1ba5ce146e0e6df",
       "caption_file": "output/2026-09-30/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-29T23:50:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc4e43a1ba5ce146e0e6df",
+          "published_at_utc": "2026-09-29T23:48:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-29T23:48:57.000Z",
           "buffer_mode": "customScheduled",
@@ -93943,7 +93949,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b-techcrunch.png",
       "metadata_file": "output/2026-09-30/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b-techcrunch.json",
-      "published_at_utc": "2026-09-29T23:48:13Z",
+      "published_at_utc": "2026-09-29T23:48:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say-tech.png": {
