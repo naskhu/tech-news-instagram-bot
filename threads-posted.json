@@ -94451,6 +94451,25 @@
       "metadata_file": "output/2026-10-01/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4-400-cheaper-te.json",
       "published_at_utc": "2026-09-30T20:57:55Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-01/doordash-s-drone-strategy-started-on-the-ground-techcrunch.png": {
+      "buffer_due_at_utc": "2026-09-30T21:17:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abd77d95feb60d6345b89ed",
+      "caption_file": "output/2026-10-01/doordash-s-drone-strategy-started-on-the-ground-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-30T21:17:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abd77d95feb60d6345b89ed",
+          "published_at_utc": "2026-09-30T20:58:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/doordash-s-drone-strategy-started-on-the-ground-techcrunch.png",
+      "metadata_file": "output/2026-10-01/doordash-s-drone-strategy-started-on-the-ground-techcrunch.json",
+      "published_at_utc": "2026-09-30T20:58:01Z",
+      "publisher": "buffer_threads"
     }
   }
 }
