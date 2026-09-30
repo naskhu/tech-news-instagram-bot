@@ -94127,6 +94127,25 @@
       "published_at_utc": "2026-09-30T03:30:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-30/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-li.png": {
+      "buffer_due_at_utc": "2026-09-30T04:08:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abc824f3b1eb12e6e41b697",
+      "caption_file": "output/2026-09-30/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-li.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-30T04:08:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc824f3b1eb12e6e41b697",
+          "published_at_utc": "2026-09-30T03:30:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-li.png",
+      "metadata_file": "output/2026-09-30/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-li.json",
+      "published_at_utc": "2026-09-30T03:30:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-30/the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch.png": {
       "buffer_due_at_utc": "2026-09-30T00:28:47.000Z",
       "buffer_mode": "customScheduled",
