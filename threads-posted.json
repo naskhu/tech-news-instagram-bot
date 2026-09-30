@@ -94501,6 +94501,25 @@
       "metadata_file": "output/2026-10-01/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition-.json",
       "published_at_utc": "2026-09-30T20:58:18Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-01/hackers-stole-millions-of-us-military-personnel-records-during-months-.png": {
+      "buffer_due_at_utc": "2026-09-30T21:55:19.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abd77f0af8c06e9595087ee",
+      "caption_file": "output/2026-10-01/hackers-stole-millions-of-us-military-personnel-records-during-months-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-30T21:55:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abd77f0af8c06e9595087ee",
+          "published_at_utc": "2026-09-30T20:58:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/hackers-stole-millions-of-us-military-personnel-records-during-months-.png",
+      "metadata_file": "output/2026-10-01/hackers-stole-millions-of-us-military-personnel-records-during-months-.json",
+      "published_at_utc": "2026-09-30T20:58:25Z",
+      "publisher": "buffer_threads"
     }
   }
 }
