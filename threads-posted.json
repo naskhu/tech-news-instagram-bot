@@ -94103,12 +94103,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/openai-s-latest-features-take-direct-aim-at-the-app-store-model-techcr.png": {
-      "buffer_due_at_utc": "2026-09-30T03:49:40.000Z",
+      "buffer_due_at_utc": "2026-09-30T03:51:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abc8244bc79f72188937a6c",
+      "buffer_post_id": "6abc8249f3db08ac92725fa6",
       "caption_file": "output/2026-09-30/openai-s-latest-features-take-direct-aim-at-the-app-store-model-techcr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-30T03:51:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc8249f3db08ac92725fa6",
+          "published_at_utc": "2026-09-30T03:30:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-30T03:49:40.000Z",
           "buffer_mode": "customScheduled",
@@ -94118,7 +94124,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/openai-s-latest-features-take-direct-aim-at-the-app-store-model-techcr.png",
       "metadata_file": "output/2026-09-30/openai-s-latest-features-take-direct-aim-at-the-app-store-model-techcr.json",
-      "published_at_utc": "2026-09-30T03:30:12Z",
+      "published_at_utc": "2026-09-30T03:30:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch.png": {
