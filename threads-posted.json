@@ -94028,12 +94028,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/destro-ai-s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.png": {
-      "buffer_due_at_utc": "2026-09-30T16:25:19.000Z",
+      "buffer_due_at_utc": "2026-09-30T16:27:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abd37c3c213ea27c7185edb",
+      "buffer_post_id": "6abd37c99b1389900eb906cc",
       "caption_file": "output/2026-09-30/destro-ai-s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-30T16:27:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abd37c99b1389900eb906cc",
+          "published_at_utc": "2026-09-30T16:24:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-30T16:25:19.000Z",
           "buffer_mode": "customScheduled",
@@ -94043,7 +94049,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/destro-ai-s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.png",
       "metadata_file": "output/2026-09-30/destro-ai-s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.json",
-      "published_at_utc": "2026-09-30T16:24:35Z",
+      "published_at_utc": "2026-09-30T16:24:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murder.png": {
