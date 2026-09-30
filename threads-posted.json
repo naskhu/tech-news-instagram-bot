@@ -94428,12 +94428,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4-400-cheaper-te.png": {
-      "buffer_due_at_utc": "2026-09-30T20:58:34.000Z",
+      "buffer_due_at_utc": "2026-09-30T21:00:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abd77cec6f337a779f3b73c",
+      "buffer_post_id": "6abd77d3c6f337a779f3b7ab",
       "caption_file": "output/2026-10-01/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4-400-cheaper-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-30T21:00:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abd77d3c6f337a779f3b7ab",
+          "published_at_utc": "2026-09-30T20:57:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-30T20:58:34.000Z",
           "buffer_mode": "customScheduled",
@@ -94443,7 +94449,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4-400-cheaper-te.png",
       "metadata_file": "output/2026-10-01/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4-400-cheaper-te.json",
-      "published_at_utc": "2026-09-30T20:57:50Z",
+      "published_at_utc": "2026-09-30T20:57:55Z",
       "publisher": "buffer_threads"
     }
   }
