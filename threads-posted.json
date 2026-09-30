@@ -94027,6 +94027,25 @@
       "published_at_utc": "2026-09-29T20:04:54Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-09-30/destro-ai-s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.png": {
+      "buffer_due_at_utc": "2026-09-30T16:25:19.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abd37c3c213ea27c7185edb",
+      "caption_file": "output/2026-09-30/destro-ai-s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-30T16:25:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abd37c3c213ea27c7185edb",
+          "published_at_utc": "2026-09-30T16:24:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/destro-ai-s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.png",
+      "metadata_file": "output/2026-09-30/destro-ai-s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.json",
+      "published_at_utc": "2026-09-30T16:24:35Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-09-30/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murder.png": {
       "buffer_due_at_utc": "2026-09-30T10:24:18.000Z",
       "buffer_mode": "customScheduled",
