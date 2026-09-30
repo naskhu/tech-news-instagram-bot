@@ -94476,6 +94476,25 @@
       "metadata_file": "output/2026-10-01/doordash-s-drone-strategy-started-on-the-ground-techcrunch.json",
       "published_at_utc": "2026-09-30T20:58:07Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-01/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition-.png": {
+      "buffer_due_at_utc": "2026-09-30T21:36:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abd77e55feb60d6345b8afe",
+      "caption_file": "output/2026-10-01/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-09-30T21:36:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abd77e55feb60d6345b8afe",
+          "published_at_utc": "2026-09-30T20:58:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition-.png",
+      "metadata_file": "output/2026-10-01/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition-.json",
+      "published_at_utc": "2026-09-30T20:58:13Z",
+      "publisher": "buffer_threads"
     }
   }
 }
