@@ -94128,12 +94128,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-li.png": {
-      "buffer_due_at_utc": "2026-09-30T04:08:35.000Z",
+      "buffer_due_at_utc": "2026-09-30T04:10:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abc824f3b1eb12e6e41b697",
+      "buffer_post_id": "6abc825428074da804be7905",
       "caption_file": "output/2026-09-30/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-li.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-09-30T04:10:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abc825428074da804be7905",
+          "published_at_utc": "2026-09-30T03:30:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-09-30T04:08:35.000Z",
           "buffer_mode": "customScheduled",
@@ -94143,7 +94149,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-09-30/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-li.png",
       "metadata_file": "output/2026-09-30/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-li.json",
-      "published_at_utc": "2026-09-30T03:30:23Z",
+      "published_at_utc": "2026-09-30T03:30:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-09-30/the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch.png": {
