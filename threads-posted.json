@@ -94877,6 +94877,25 @@
       "published_at_utc": "2026-10-01T23:18:20Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-02/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers.png": {
+      "buffer_due_at_utc": "2026-10-01T23:56:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abeea4145400a0e30febdb3",
+      "caption_file": "output/2026-10-02/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-01T23:56:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abeea4145400a0e30febdb3",
+          "published_at_utc": "2026-10-01T23:18:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers.png",
+      "metadata_file": "output/2026-10-02/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers.json",
+      "published_at_utc": "2026-10-01T23:18:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-02/openai-cuts-ties-with-3-safety-researchers-wsj-reports-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-01T19:08:26.000Z",
       "buffer_mode": "customScheduled",
