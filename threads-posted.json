@@ -94728,12 +94728,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-.png": {
-      "buffer_due_at_utc": "2026-10-01T14:25:39.000Z",
+      "buffer_due_at_utc": "2026-10-01T14:27:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abe600fa39e324a5b77bf63",
+      "buffer_post_id": "6abe6015ecb687b124936b75",
       "caption_file": "output/2026-10-01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T14:27:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abe6015ecb687b124936b75",
+          "published_at_utc": "2026-10-01T13:28:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T14:25:39.000Z",
           "buffer_mode": "customScheduled",
@@ -94743,7 +94749,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-.png",
       "metadata_file": "output/2026-10-01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-.json",
-      "published_at_utc": "2026-10-01T13:28:48Z",
+      "published_at_utc": "2026-10-01T13:28:54Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-.png": {
