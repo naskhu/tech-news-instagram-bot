@@ -94628,12 +94628,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses.png": {
-      "buffer_due_at_utc": "2026-10-01T14:06:44.000Z",
+      "buffer_due_at_utc": "2026-10-01T14:08:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abe6003ecb687b1249369e9",
+      "buffer_post_id": "6abe6009a1257d1a53a1f8ac",
       "caption_file": "output/2026-10-01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T14:08:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abe6009a1257d1a53a1f8ac",
+          "published_at_utc": "2026-10-01T13:28:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T14:06:44.000Z",
           "buffer_mode": "customScheduled",
@@ -94643,7 +94649,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses.png",
       "metadata_file": "output/2026-10-01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses.json",
-      "published_at_utc": "2026-10-01T13:28:36Z",
+      "published_at_utc": "2026-10-01T13:28:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/meta-disputes-claim-that-muse-read-a-user-s-private-messages-without-p.png": {
