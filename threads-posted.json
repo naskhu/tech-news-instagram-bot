@@ -94902,6 +94902,25 @@
       "published_at_utc": "2026-10-01T23:18:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-02/musk-s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuel.png": {
+      "buffer_due_at_utc": "2026-10-02T00:15:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abeea4cb435ee0119049548",
+      "caption_file": "output/2026-10-02/musk-s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuel.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-02T00:15:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abeea4cb435ee0119049548",
+          "published_at_utc": "2026-10-01T23:18:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/musk-s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuel.png",
+      "metadata_file": "output/2026-10-02/musk-s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuel.json",
+      "published_at_utc": "2026-10-01T23:18:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-02/openai-cuts-ties-with-3-safety-researchers-wsj-reports-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-01T19:08:26.000Z",
       "buffer_mode": "customScheduled",
