@@ -94828,12 +94828,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/chatgpt-can-now-virtually-try-on-clothes-for-you-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-01T23:18:48.000Z",
+      "buffer_due_at_utc": "2026-10-01T23:20:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abeea2cc07bdc2fc25e7228",
+      "buffer_post_id": "6abeea31b435ee0119049324",
       "caption_file": "output/2026-10-02/chatgpt-can-now-virtually-try-on-clothes-for-you-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T23:20:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abeea31b435ee0119049324",
+          "published_at_utc": "2026-10-01T23:18:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T23:18:48.000Z",
           "buffer_mode": "customScheduled",
@@ -94843,7 +94849,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/chatgpt-can-now-virtually-try-on-clothes-for-you-techcrunch.png",
       "metadata_file": "output/2026-10-02/chatgpt-can-now-virtually-try-on-clothes-for-you-techcrunch.json",
-      "published_at_utc": "2026-10-01T23:18:04Z",
+      "published_at_utc": "2026-10-01T23:18:09Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/openai-cuts-ties-with-3-safety-researchers-wsj-reports-techcrunch.png": {
