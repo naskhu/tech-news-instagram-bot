@@ -94627,6 +94627,25 @@
       "published_at_utc": "2026-10-01T00:22:38Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-01/reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai.png": {
+      "buffer_due_at_utc": "2026-10-01T06:50:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abdf9bdcbc2e2c98ff5554b",
+      "caption_file": "output/2026-10-01/reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-01T06:50:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abdf9bdcbc2e2c98ff5554b",
+          "published_at_utc": "2026-10-01T06:12:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai.png",
+      "metadata_file": "output/2026-10-01/reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai.json",
+      "published_at_utc": "2026-10-01T06:12:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-01/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-.png": {
       "buffer_due_at_utc": "2026-10-01T01:02:57.000Z",
       "buffer_mode": "customScheduled",
