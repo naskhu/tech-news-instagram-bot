@@ -1,0 +1,23 @@
+{
+  "title": "Opus 5.5 loves to tell you 'this matters' (and other AI writing tells) | TechCrunch",
+  "summary": "According to Graphite’s results, Claude Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples. In Graphite’s samples, Opus 5.5 used the punctuation mark 99% less often than Opus 5.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
+  "published_utc": "2026-10-01T17:50:19+00:00",
+  "output_day": "2026-10-02",
+  "date_source": "meta",
+  "generated_utc": "2026-10-01T19:03:57.044660+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-02/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells-tec.png",
+  "caption": "output/2026-10-02/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells-tec.txt"
+}
