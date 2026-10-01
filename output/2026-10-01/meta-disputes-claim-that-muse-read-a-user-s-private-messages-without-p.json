@@ -1,0 +1,23 @@
+{
+  "title": "Meta disputes claim that Muse read a user's private messages without permission | TechCrunch",
+  "summary": "Meta is fighting back against a journalist’s claim that its AI agent Muse read the user’s private messages without permission. However, Aten’s report claimed that when Muse read his messages, Full Disk Access was off.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission",
+  "published_utc": "2026-09-30T16:24:23+00:00",
+  "output_day": "2026-10-01",
+  "date_source": "meta",
+  "generated_utc": "2026-10-01T06:10:18.446068+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-01/meta-disputes-claim-that-muse-read-a-user-s-private-messages-without-p.png",
+  "caption": "output/2026-10-01/meta-disputes-claim-that-muse-read-a-user-s-private-messages-without-p.txt"
+}

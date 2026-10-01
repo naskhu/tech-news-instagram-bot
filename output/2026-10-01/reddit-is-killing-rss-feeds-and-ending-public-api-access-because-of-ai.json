@@ -1,0 +1,23 @@
+{
+  "title": "Reddit is killing RSS feeds and ending public API access because of AI bots | TechCrunch",
+  "summary": "Reddit said RSS support will cease on November 13. After publication, we updated to note that Reddit extended the Old Reddit “recent access” period from 3 to 6 months.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
+  "published_utc": "2026-09-30T17:45:00+00:00",
+  "output_day": "2026-10-01",
+  "date_source": "meta",
+  "generated_utc": "2026-10-01T06:10:13.447423+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 1,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-01/reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai.png",
+  "caption": "output/2026-10-01/reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai.txt"
+}
