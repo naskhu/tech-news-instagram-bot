@@ -94603,12 +94603,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-va.png": {
-      "buffer_due_at_utc": "2026-10-01T01:19:52.000Z",
+      "buffer_due_at_utc": "2026-10-01T01:21:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abda7de532e76427a497bbc",
+      "buffer_post_id": "6abda7e322aa8e883718b26b",
       "caption_file": "output/2026-10-01/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-va.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T01:21:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abda7e322aa8e883718b26b",
+          "published_at_utc": "2026-10-01T00:22:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T01:19:52.000Z",
           "buffer_mode": "customScheduled",
@@ -94618,7 +94624,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-va.png",
       "metadata_file": "output/2026-10-01/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-va.json",
-      "published_at_utc": "2026-10-01T00:22:54Z",
+      "published_at_utc": "2026-10-01T00:22:59Z",
       "publisher": "buffer_threads"
     }
   }
