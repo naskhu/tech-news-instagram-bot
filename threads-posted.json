@@ -94853,12 +94853,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/kevin-mandia-s-new-agent-swarm-security-startup-armadin-raises-255-5m-.png": {
-      "buffer_due_at_utc": "2026-10-01T23:37:43.000Z",
+      "buffer_due_at_utc": "2026-10-01T23:39:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abeea3663de9e09a28096e6",
+      "buffer_post_id": "6abeea3c45400a0e30febd0f",
       "caption_file": "output/2026-10-02/kevin-mandia-s-new-agent-swarm-security-startup-armadin-raises-255-5m-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T23:39:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abeea3c45400a0e30febd0f",
+          "published_at_utc": "2026-10-01T23:18:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T23:37:43.000Z",
           "buffer_mode": "customScheduled",
@@ -94868,7 +94874,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/kevin-mandia-s-new-agent-swarm-security-startup-armadin-raises-255-5m-.png",
       "metadata_file": "output/2026-10-02/kevin-mandia-s-new-agent-swarm-security-startup-armadin-raises-255-5m-.json",
-      "published_at_utc": "2026-10-01T23:18:15Z",
+      "published_at_utc": "2026-10-01T23:18:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/openai-cuts-ties-with-3-safety-researchers-wsj-reports-techcrunch.png": {
