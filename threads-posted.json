@@ -94678,12 +94678,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/the-ugly-economics-of-consumer-ai-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-01T07:09:20.000Z",
+      "buffer_due_at_utc": "2026-10-01T07:11:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abdf9c8bb0abb08f8d0ffc5",
+      "buffer_post_id": "6abdf9cd457c6cadda353f70",
       "caption_file": "output/2026-10-01/the-ugly-economics-of-consumer-ai-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T07:11:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abdf9cd457c6cadda353f70",
+          "published_at_utc": "2026-10-01T06:12:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T07:09:20.000Z",
           "buffer_mode": "customScheduled",
@@ -94693,7 +94699,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/the-ugly-economics-of-consumer-ai-techcrunch.png",
       "metadata_file": "output/2026-10-01/the-ugly-economics-of-consumer-ai-techcrunch.json",
-      "published_at_utc": "2026-10-01T06:12:24Z",
+      "published_at_utc": "2026-10-01T06:12:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-va.png": {
