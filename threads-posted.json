@@ -94553,12 +94553,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agent.png": {
-      "buffer_due_at_utc": "2026-10-01T00:42:02.000Z",
+      "buffer_due_at_utc": "2026-10-01T00:44:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abda7c926106f733268f029",
+      "buffer_post_id": "6abda7ce22aa8e883718b0d9",
       "caption_file": "output/2026-10-01/openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agent.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T00:44:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abda7ce22aa8e883718b0d9",
+          "published_at_utc": "2026-10-01T00:22:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T00:42:02.000Z",
           "buffer_mode": "customScheduled",
@@ -94568,7 +94574,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agent.png",
       "metadata_file": "output/2026-10-01/openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agent.json",
-      "published_at_utc": "2026-10-01T00:22:33Z",
+      "published_at_utc": "2026-10-01T00:22:38Z",
       "publisher": "buffer_threads"
     }
   }
