@@ -94578,12 +94578,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-01/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-.png": {
-      "buffer_due_at_utc": "2026-10-01T01:00:57.000Z",
+      "buffer_due_at_utc": "2026-10-01T01:02:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abda7d326106f733268f0f8",
+      "buffer_post_id": "6abda7d9f245fa4cd537fdb6",
       "caption_file": "output/2026-10-01/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T01:02:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abda7d9f245fa4cd537fdb6",
+          "published_at_utc": "2026-10-01T00:22:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T01:00:57.000Z",
           "buffer_mode": "customScheduled",
@@ -94593,7 +94599,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-.png",
       "metadata_file": "output/2026-10-01/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-.json",
-      "published_at_utc": "2026-10-01T00:22:44Z",
+      "published_at_utc": "2026-10-01T00:22:49Z",
       "publisher": "buffer_threads"
     }
   }
