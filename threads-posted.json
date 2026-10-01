@@ -94903,12 +94903,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/world-s-first-enhanced-geothermal-power-plant-completed-in-just-23-mon.png": {
-      "buffer_due_at_utc": "2026-10-01T20:03:11.000Z",
+      "buffer_due_at_utc": "2026-10-01T20:05:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abeaf290d6dc6150ea2ec70",
+      "buffer_post_id": "6abeaf2e46d3dfca001e8710",
       "caption_file": "output/2026-10-02/world-s-first-enhanced-geothermal-power-plant-completed-in-just-23-mon.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T20:05:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abeaf2e46d3dfca001e8710",
+          "published_at_utc": "2026-10-01T19:06:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T20:03:11.000Z",
           "buffer_mode": "customScheduled",
@@ -94918,7 +94924,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/world-s-first-enhanced-geothermal-power-plant-completed-in-just-23-mon.png",
       "metadata_file": "output/2026-10-02/world-s-first-enhanced-geothermal-power-plant-completed-in-just-23-mon.json",
-      "published_at_utc": "2026-10-01T19:06:17Z",
+      "published_at_utc": "2026-10-01T19:06:22Z",
       "publisher": "buffer_threads"
     }
   }
