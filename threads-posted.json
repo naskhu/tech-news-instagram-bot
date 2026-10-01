@@ -94477,6 +94477,25 @@
       "published_at_utc": "2026-10-01T13:28:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-01/audible-s-new-features-let-you-explore-book-worlds-and-use-ai-to-talk-.png": {
+      "buffer_due_at_utc": "2026-10-01T13:47:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abe5ff8a39e324a5b77bd68",
+      "caption_file": "output/2026-10-01/audible-s-new-features-let-you-explore-book-worlds-and-use-ai-to-talk-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-01T13:47:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abe5ff8a39e324a5b77bd68",
+          "published_at_utc": "2026-10-01T13:28:24Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-01/audible-s-new-features-let-you-explore-book-worlds-and-use-ai-to-talk-.png",
+      "metadata_file": "output/2026-10-01/audible-s-new-features-let-you-explore-book-worlds-and-use-ai-to-talk-.json",
+      "published_at_utc": "2026-10-01T13:28:24Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-01/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4-400-cheaper-te.png": {
       "buffer_due_at_utc": "2026-09-30T21:00:34.000Z",
       "buffer_mode": "customScheduled",
