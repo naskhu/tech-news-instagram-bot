@@ -94878,12 +94878,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue.png": {
-      "buffer_due_at_utc": "2026-10-01T19:44:16.000Z",
+      "buffer_due_at_utc": "2026-10-01T19:46:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abeaf1c953d3552c4d81f1a",
+      "buffer_post_id": "6abeaf230d6dc6150ea2ebed",
       "caption_file": "output/2026-10-02/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-01T19:46:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abeaf230d6dc6150ea2ebed",
+          "published_at_utc": "2026-10-01T19:06:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-01T19:44:16.000Z",
           "buffer_mode": "customScheduled",
@@ -94893,7 +94899,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue.png",
       "metadata_file": "output/2026-10-02/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue.json",
-      "published_at_utc": "2026-10-01T19:06:04Z",
+      "published_at_utc": "2026-10-01T19:06:11Z",
       "publisher": "buffer_threads"
     }
   }
