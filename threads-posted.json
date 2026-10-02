@@ -95177,6 +95177,25 @@
       "published_at_utc": "2026-10-02T08:43:57Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-02/slovenia-s-si-domain-sees-a-surge-in-registrations-after-trump-s-super.png": {
+      "buffer_due_at_utc": "2026-10-02T15:42:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abfc7ef5f7061ee2f1ad7be",
+      "caption_file": "output/2026-10-02/slovenia-s-si-domain-sees-a-surge-in-registrations-after-trump-s-super.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-02T15:42:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abfc7ef5f7061ee2f1ad7be",
+          "published_at_utc": "2026-10-02T15:04:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/slovenia-s-si-domain-sees-a-surge-in-registrations-after-trump-s-super.png",
+      "metadata_file": "output/2026-10-02/slovenia-s-si-domain-sees-a-surge-in-registrations-after-trump-s-super.json",
+      "published_at_utc": "2026-10-02T15:04:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-02/the-founder-s-guide-to-techcrunch-disrupt-2026-everything-you-need-to-.png": {
       "buffer_due_at_utc": "2026-10-02T03:02:59.000Z",
       "buffer_mode": "customScheduled",
