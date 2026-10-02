@@ -94853,12 +94853,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/google-thinks-spacex-s-starship-has-to-launch-1-800-times-before-space.png": {
-      "buffer_due_at_utc": "2026-10-02T02:23:09.000Z",
+      "buffer_due_at_utc": "2026-10-02T02:25:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abf156145400a0e30066390",
+      "buffer_post_id": "6abf1566c07bdc2fc2665f16",
       "caption_file": "output/2026-10-02/google-thinks-spacex-s-starship-has-to-launch-1-800-times-before-space.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-02T02:25:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abf1566c07bdc2fc2665f16",
+          "published_at_utc": "2026-10-02T02:22:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-02T02:23:09.000Z",
           "buffer_mode": "customScheduled",
@@ -94868,7 +94874,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/google-thinks-spacex-s-starship-has-to-launch-1-800-times-before-space.png",
       "metadata_file": "output/2026-10-02/google-thinks-spacex-s-starship-has-to-launch-1-800-times-before-space.json",
-      "published_at_utc": "2026-10-02T02:22:25Z",
+      "published_at_utc": "2026-10-02T02:22:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/kevin-mandia-s-new-agent-swarm-security-startup-armadin-raises-255-5m-.png": {
