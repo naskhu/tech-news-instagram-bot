@@ -95353,12 +95353,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-03/apple-says-it-s-tightening-macos-full-disk-access-controls-due-to-new-.png": {
-      "buffer_due_at_utc": "2026-10-02T20:11:59.000Z",
+      "buffer_due_at_utc": "2026-10-02T20:13:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac00b7fa82b64098f42e85c",
+      "buffer_post_id": "6ac00b849df0308ea07cd6f2",
       "caption_file": "output/2026-10-03/apple-says-it-s-tightening-macos-full-disk-access-controls-due-to-new-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-02T20:13:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac00b849df0308ea07cd6f2",
+          "published_at_utc": "2026-10-02T19:52:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-02T20:11:59.000Z",
           "buffer_mode": "customScheduled",
@@ -95368,7 +95374,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/apple-says-it-s-tightening-macos-full-disk-access-controls-due-to-new-.png",
       "metadata_file": "output/2026-10-03/apple-says-it-s-tightening-macos-full-disk-access-controls-due-to-new-.json",
-      "published_at_utc": "2026-10-02T19:52:31Z",
+      "published_at_utc": "2026-10-02T19:52:36Z",
       "publisher": "buffer_threads"
     }
   }
