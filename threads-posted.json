@@ -95103,12 +95103,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai.png": {
-      "buffer_due_at_utc": "2026-10-02T09:40:47.000Z",
+      "buffer_due_at_utc": "2026-10-02T09:42:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abf6ec8b41a266eabf17069",
+      "buffer_post_id": "6abf6ecdf781c1ecf15ca907",
       "caption_file": "output/2026-10-02/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-02T09:42:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abf6ecdf781c1ecf15ca907",
+          "published_at_utc": "2026-10-02T08:43:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-02T09:40:47.000Z",
           "buffer_mode": "customScheduled",
@@ -95118,7 +95124,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai.png",
       "metadata_file": "output/2026-10-02/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai.json",
-      "published_at_utc": "2026-10-02T08:43:52Z",
+      "published_at_utc": "2026-10-02T08:43:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/the-founder-s-guide-to-techcrunch-disrupt-2026-everything-you-need-to-.png": {
