@@ -94953,12 +94953,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10-000-tech.png": {
-      "buffer_due_at_utc": "2026-10-02T15:04:37.000Z",
+      "buffer_due_at_utc": "2026-10-02T15:06:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6abfc7d95f7061ee2f1ad3fc",
+      "buffer_post_id": "6abfc7de5f7061ee2f1ad49f",
       "caption_file": "output/2026-10-02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10-000-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-02T15:06:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abfc7de5f7061ee2f1ad49f",
+          "published_at_utc": "2026-10-02T15:03:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-02T15:04:37.000Z",
           "buffer_mode": "customScheduled",
@@ -94968,7 +94974,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10-000-tech.png",
       "metadata_file": "output/2026-10-02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10-000-tech.json",
-      "published_at_utc": "2026-10-02T15:03:53Z",
+      "published_at_utc": "2026-10-02T15:03:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-02/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers.png": {
