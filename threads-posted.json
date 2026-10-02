@@ -95002,6 +95002,25 @@
       "published_at_utc": "2026-10-01T19:05:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-02/robotaxi-operators-will-face-fines-for-blocking-first-responders-techc.png": {
+      "buffer_due_at_utc": "2026-10-02T02:42:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abf156cc07bdc2fc2665f58",
+      "caption_file": "output/2026-10-02/robotaxi-operators-will-face-fines-for-blocking-first-responders-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-02T02:42:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abf156cc07bdc2fc2665f58",
+          "published_at_utc": "2026-10-02T02:22:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/robotaxi-operators-will-face-fines-for-blocking-first-responders-techc.png",
+      "metadata_file": "output/2026-10-02/robotaxi-operators-will-face-fines-for-blocking-first-responders-techc.json",
+      "published_at_utc": "2026-10-02T02:22:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-02/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue.png": {
       "buffer_due_at_utc": "2026-10-01T19:46:16.000Z",
       "buffer_mode": "customScheduled",
