@@ -94827,6 +94827,25 @@
       "published_at_utc": "2026-10-01T00:22:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-02/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web-tec.png": {
+      "buffer_due_at_utc": "2026-10-02T08:44:02.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abf6ea61b2a6a8e1555f307",
+      "caption_file": "output/2026-10-02/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web-tec.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-02T08:44:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abf6ea61b2a6a8e1555f307",
+          "published_at_utc": "2026-10-02T08:43:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web-tec.png",
+      "metadata_file": "output/2026-10-02/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web-tec.json",
+      "published_at_utc": "2026-10-02T08:43:18Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-02/chatgpt-can-now-virtually-try-on-clothes-for-you-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-01T23:20:48.000Z",
       "buffer_mode": "customScheduled",
