@@ -95102,6 +95102,25 @@
       "published_at_utc": "2026-10-02T02:22:41Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-02/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai.png": {
+      "buffer_due_at_utc": "2026-10-02T09:40:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abf6ec8b41a266eabf17069",
+      "caption_file": "output/2026-10-02/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-02T09:40:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abf6ec8b41a266eabf17069",
+          "published_at_utc": "2026-10-02T08:43:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai.png",
+      "metadata_file": "output/2026-10-02/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai.json",
+      "published_at_utc": "2026-10-02T08:43:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-02/the-founder-s-guide-to-techcrunch-disrupt-2026-everything-you-need-to-.png": {
       "buffer_due_at_utc": "2026-10-02T03:02:59.000Z",
       "buffer_mode": "customScheduled",
