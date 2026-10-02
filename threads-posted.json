@@ -94852,6 +94852,25 @@
       "published_at_utc": "2026-10-02T08:43:24Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-02/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secr.png": {
+      "buffer_due_at_utc": "2026-10-02T09:02:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6abf6eb1d2e71b2f339c8d8a",
+      "caption_file": "output/2026-10-02/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-02T09:02:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6abf6eb1d2e71b2f339c8d8a",
+          "published_at_utc": "2026-10-02T08:43:29Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-02/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secr.png",
+      "metadata_file": "output/2026-10-02/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secr.json",
+      "published_at_utc": "2026-10-02T08:43:29Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-02/chatgpt-can-now-virtually-try-on-clothes-for-you-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-01T23:20:48.000Z",
       "buffer_mode": "customScheduled",
