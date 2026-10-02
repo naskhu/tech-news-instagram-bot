@@ -95478,12 +95478,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-03/sean-parker-is-rebuilding-stability-ai-around-music-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-03T00:30:23.000Z",
+      "buffer_due_at_utc": "2026-10-03T00:32:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac03f47ad2f47bd7d4b7b20",
+      "buffer_post_id": "6ac03f4cf942e39137013243",
       "caption_file": "output/2026-10-03/sean-parker-is-rebuilding-stability-ai-around-music-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-03T00:32:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac03f4cf942e39137013243",
+          "published_at_utc": "2026-10-02T23:33:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-03T00:30:23.000Z",
           "buffer_mode": "customScheduled",
@@ -95493,7 +95499,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/sean-parker-is-rebuilding-stability-ai-around-music-techcrunch.png",
       "metadata_file": "output/2026-10-03/sean-parker-is-rebuilding-stability-ai-around-music-techcrunch.json",
-      "published_at_utc": "2026-10-02T23:33:27Z",
+      "published_at_utc": "2026-10-02T23:33:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-03/techcrunch-disrupt-2026-blackstone-s-jas-khaira-on-building-the-next-g.png": {
