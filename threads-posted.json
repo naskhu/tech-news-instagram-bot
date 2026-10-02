@@ -95376,6 +95376,25 @@
       "metadata_file": "output/2026-10-03/apple-says-it-s-tightening-macos-full-disk-access-controls-due-to-new-.json",
       "published_at_utc": "2026-10-02T19:52:36Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-03/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you-tech.png": {
+      "buffer_due_at_utc": "2026-10-02T20:30:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac00b899df0308ea07cd74b",
+      "caption_file": "output/2026-10-03/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-02T20:30:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac00b899df0308ea07cd74b",
+          "published_at_utc": "2026-10-02T19:52:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you-tech.png",
+      "metadata_file": "output/2026-10-03/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you-tech.json",
+      "published_at_utc": "2026-10-02T19:52:42Z",
+      "publisher": "buffer_threads"
     }
   }
 }
