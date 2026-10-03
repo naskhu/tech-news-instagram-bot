@@ -95552,6 +95552,25 @@
       "published_at_utc": "2026-10-02T23:33:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-03/rivian-issues-r2-recall-for-poorly-tightened-battery-packs-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-03T08:39:11.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac0ba9eca55406b4b288edf",
+      "caption_file": "output/2026-10-03/rivian-issues-r2-recall-for-poorly-tightened-battery-packs-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-03T08:39:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac0ba9eca55406b4b288edf",
+          "published_at_utc": "2026-10-03T08:19:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/rivian-issues-r2-recall-for-poorly-tightened-battery-packs-techcrunch.png",
+      "metadata_file": "output/2026-10-03/rivian-issues-r2-recall-for-poorly-tightened-battery-packs-techcrunch.json",
+      "published_at_utc": "2026-10-03T08:19:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-03/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock.png": {
       "buffer_due_at_utc": "2026-10-03T03:02:18.000Z",
       "buffer_mode": "customScheduled",
