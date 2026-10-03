@@ -95453,12 +95453,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-03/meta-wants-your-next-gadget-to-be-muse-infused-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-03T02:41:23.000Z",
+      "buffer_due_at_utc": "2026-10-03T02:43:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac066c35831428806ad963a",
+      "buffer_post_id": "6ac066c8ad2f47bd7d501fef",
       "caption_file": "output/2026-10-03/meta-wants-your-next-gadget-to-be-muse-infused-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-03T02:43:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac066c8ad2f47bd7d501fef",
+          "published_at_utc": "2026-10-03T02:22:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-03T02:41:23.000Z",
           "buffer_mode": "customScheduled",
@@ -95468,7 +95474,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/meta-wants-your-next-gadget-to-be-muse-infused-techcrunch.png",
       "metadata_file": "output/2026-10-03/meta-wants-your-next-gadget-to-be-muse-infused-techcrunch.json",
-      "published_at_utc": "2026-10-03T02:21:55Z",
+      "published_at_utc": "2026-10-03T02:22:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-03/paramount-and-warner-bros-discovery-to-become-skydance-techcrunch.png": {
