@@ -95914,6 +95914,25 @@
       "metadata_file": "output/2026-10-03/vessev-built-an-electric-ferry-that-almost-flies-techcrunch.json",
       "published_at_utc": "2026-10-03T17:40:45Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.png": {
+      "buffer_due_at_utc": "2026-10-03T20:15:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac1621b7d53b827e0ec727d",
+      "caption_file": "output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-03T20:15:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac1621b7d53b827e0ec727d",
+          "published_at_utc": "2026-10-03T20:14:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.png",
+      "metadata_file": "output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.json",
+      "published_at_utc": "2026-10-03T20:14:20Z",
+      "publisher": "buffer_threads"
     }
   }
 }
