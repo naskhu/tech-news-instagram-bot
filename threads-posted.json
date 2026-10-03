@@ -95428,12 +95428,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-03/medical-records-giant-epic-pauses-product-development-to-fix-security-.png": {
-      "buffer_due_at_utc": "2026-10-03T02:22:28.000Z",
+      "buffer_due_at_utc": "2026-10-03T02:24:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac066b8724c7034229e6d34",
+      "buffer_post_id": "6ac066be724c7034229e6db6",
       "caption_file": "output/2026-10-03/medical-records-giant-epic-pauses-product-development-to-fix-security-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-03T02:24:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac066be724c7034229e6db6",
+          "published_at_utc": "2026-10-03T02:21:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-03T02:22:28.000Z",
           "buffer_mode": "customScheduled",
@@ -95443,7 +95449,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/medical-records-giant-epic-pauses-product-development-to-fix-security-.png",
       "metadata_file": "output/2026-10-03/medical-records-giant-epic-pauses-product-development-to-fix-security-.json",
-      "published_at_utc": "2026-10-03T02:21:44Z",
+      "published_at_utc": "2026-10-03T02:21:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-03/paramount-and-warner-bros-discovery-to-become-skydance-techcrunch.png": {
