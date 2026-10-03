@@ -95402,6 +95402,25 @@
       "published_at_utc": "2026-10-02T19:52:47Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-03/hbo-s-boss-reflecting-on-the-cable-bundle-that-was-a-really-good-busin.png": {
+      "buffer_due_at_utc": "2026-10-03T08:20:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac0ba9316dec17c26598649",
+      "caption_file": "output/2026-10-03/hbo-s-boss-reflecting-on-the-cable-bundle-that-was-a-really-good-busin.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-03T08:20:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac0ba9316dec17c26598649",
+          "published_at_utc": "2026-10-03T08:19:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/hbo-s-boss-reflecting-on-the-cable-bundle-that-was-a-really-good-busin.png",
+      "metadata_file": "output/2026-10-03/hbo-s-boss-reflecting-on-the-cable-bundle-that-was-a-really-good-busin.json",
+      "published_at_utc": "2026-10-03T08:19:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-03/laytr-s-new-app-lets-you-save-anything-you-find-online-not-just-articl.png": {
       "buffer_due_at_utc": "2026-10-02T23:35:38.000Z",
       "buffer_mode": "customScheduled",
