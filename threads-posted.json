@@ -95427,6 +95427,23 @@
       "published_at_utc": "2026-10-02T19:52:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-03/all-the-ai-agents-that-can-live-in-your-text-messages-techcrunch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ac13db07d53b827e0e6a540",
+      "caption_file": "output/2026-10-03/all-the-ai-agents-that-can-live-in-your-text-messages-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ac13db07d53b827e0e6a540",
+          "published_at_utc": "2026-10-03T17:39:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/all-the-ai-agents-that-can-live-in-your-text-messages-techcrunch.png",
+      "metadata_file": "output/2026-10-03/all-the-ai-agents-that-can-live-in-your-text-messages-techcrunch.json",
+      "published_at_utc": "2026-10-03T17:39:06Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-03/apple-says-it-s-tightening-macos-full-disk-access-controls-due-to-new-.png": {
       "buffer_due_at_utc": "2026-10-02T20:13:59.000Z",
       "buffer_mode": "customScheduled",
