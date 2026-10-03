@@ -95941,12 +95941,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-04/federal-judge-calls-flock-indiscriminate-mass-surveillance-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-03T20:33:59.000Z",
+      "buffer_due_at_utc": "2026-10-03T20:35:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac16227aa79e514b9fdd05c",
+      "buffer_post_id": "6ac1622c7d53b827e0ec7335",
       "caption_file": "output/2026-10-04/federal-judge-calls-flock-indiscriminate-mass-surveillance-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-03T20:35:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac1622c7d53b827e0ec7335",
+          "published_at_utc": "2026-10-03T20:14:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-03T20:33:59.000Z",
           "buffer_mode": "customScheduled",
@@ -95956,7 +95962,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/federal-judge-calls-flock-indiscriminate-mass-surveillance-techcrunch.png",
       "metadata_file": "output/2026-10-04/federal-judge-calls-flock-indiscriminate-mass-surveillance-techcrunch.json",
-      "published_at_utc": "2026-10-03T20:14:31Z",
+      "published_at_utc": "2026-10-03T20:14:36Z",
       "publisher": "buffer_threads"
     }
   }
