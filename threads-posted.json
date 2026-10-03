@@ -95916,12 +95916,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.png": {
-      "buffer_due_at_utc": "2026-10-03T20:15:04.000Z",
+      "buffer_due_at_utc": "2026-10-03T20:17:04.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac1621b7d53b827e0ec727d",
+      "buffer_post_id": "6ac16221aa79e514b9fdcfe3",
       "caption_file": "output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-03T20:17:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac16221aa79e514b9fdcfe3",
+          "published_at_utc": "2026-10-03T20:14:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-03T20:15:04.000Z",
           "buffer_mode": "customScheduled",
@@ -95931,7 +95937,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.png",
       "metadata_file": "output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.json",
-      "published_at_utc": "2026-10-03T20:14:20Z",
+      "published_at_utc": "2026-10-03T20:14:25Z",
       "publisher": "buffer_threads"
     }
   }
