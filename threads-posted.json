@@ -95646,6 +95646,23 @@
       "published_at_utc": "2026-10-03T02:22:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-03/openai-safety-employee-resigns-claiming-the-company-s-culture-is-broke.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ac13decfec59133948098fc",
+      "caption_file": "output/2026-10-03/openai-safety-employee-resigns-claiming-the-company-s-culture-is-broke.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ac13decfec59133948098fc",
+          "published_at_utc": "2026-10-03T17:40:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-03/openai-safety-employee-resigns-claiming-the-company-s-culture-is-broke.png",
+      "metadata_file": "output/2026-10-03/openai-safety-employee-resigns-claiming-the-company-s-culture-is-broke.json",
+      "published_at_utc": "2026-10-03T17:40:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-03/paramount-and-warner-bros-discovery-to-become-skydance-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-02T23:54:33.000Z",
       "buffer_mode": "customScheduled",
