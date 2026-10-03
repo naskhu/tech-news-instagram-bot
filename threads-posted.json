@@ -95989,6 +95989,25 @@
       "metadata_file": "output/2026-10-04/one-of-the-authors-of-the-stochastic-parrots-paper-explains-what-it-ac.json",
       "published_at_utc": "2026-10-03T20:14:47Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-04/spotify-billionaire-s-body-scan-startup-has-come-to-america-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-03T21:11:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac1623dfec5913394860846",
+      "caption_file": "output/2026-10-04/spotify-billionaire-s-body-scan-startup-has-come-to-america-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-03T21:11:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac1623dfec5913394860846",
+          "published_at_utc": "2026-10-03T20:14:53Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/spotify-billionaire-s-body-scan-startup-has-come-to-america-techcrunch.png",
+      "metadata_file": "output/2026-10-04/spotify-billionaire-s-body-scan-startup-has-come-to-america-techcrunch.json",
+      "published_at_utc": "2026-10-03T20:14:53Z",
+      "publisher": "buffer_threads"
     }
   }
 }
