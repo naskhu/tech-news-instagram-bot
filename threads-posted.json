@@ -96316,12 +96316,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-04/the-ipad-mini-is-slightly-cheaper-again-during-prime-day.png": {
-      "buffer_due_at_utc": "2026-10-04T15:12:31.000Z",
+      "buffer_due_at_utc": "2026-10-04T15:14:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac2684fa486988a6e1bbb94",
+      "buffer_post_id": "6ac268547d5538d1baa52c77",
       "caption_file": "output/2026-10-04/the-ipad-mini-is-slightly-cheaper-again-during-prime-day.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-04T15:14:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac268547d5538d1baa52c77",
+          "published_at_utc": "2026-10-04T14:53:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-04T15:12:31.000Z",
           "buffer_mode": "customScheduled",
@@ -96331,7 +96337,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/the-ipad-mini-is-slightly-cheaper-again-during-prime-day.png",
       "metadata_file": "output/2026-10-04/the-ipad-mini-is-slightly-cheaper-again-during-prime-day.json",
-      "published_at_utc": "2026-10-04T14:53:03Z",
+      "published_at_utc": "2026-10-04T14:53:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-04/the-nvidia-shield-tv-is-7-years-old-it-just-got-a-100-price-hike.png": {
