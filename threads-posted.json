@@ -96040,6 +96040,25 @@
       "published_at_utc": "2026-10-03T20:14:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-04/how-to-collect-cds.png": {
+      "buffer_due_at_utc": "2026-10-04T09:36:34.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac219938dc991c73c726c91",
+      "caption_file": "output/2026-10-04/how-to-collect-cds.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-04T09:36:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac219938dc991c73c726c91",
+          "published_at_utc": "2026-10-04T09:17:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/how-to-collect-cds.png",
+      "metadata_file": "output/2026-10-04/how-to-collect-cds.json",
+      "published_at_utc": "2026-10-04T09:17:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-04/it-s-news-to-me-in-terms-of-david.png": {
       "buffer_due_at_utc": "2026-10-03T23:31:40.000Z",
       "buffer_mode": "customScheduled",
