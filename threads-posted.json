@@ -96552,6 +96552,25 @@
       "metadata_file": "output/2026-10-05/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-r.json",
       "published_at_utc": "2026-10-04T21:57:42Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-05/sam-altman-thinks-the-world-should-accept-some-bad-things-happening-fo.png": {
+      "buffer_due_at_utc": "2026-10-04T22:36:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac2cbdbd467abe8cfc90b94",
+      "caption_file": "output/2026-10-05/sam-altman-thinks-the-world-should-accept-some-bad-things-happening-fo.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-04T22:36:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac2cbdbd467abe8cfc90b94",
+          "published_at_utc": "2026-10-04T21:57:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/sam-altman-thinks-the-world-should-accept-some-bad-things-happening-fo.png",
+      "metadata_file": "output/2026-10-05/sam-altman-thinks-the-world-should-accept-some-bad-things-happening-fo.json",
+      "published_at_utc": "2026-10-04T21:57:47Z",
+      "publisher": "buffer_threads"
     }
   }
 }
