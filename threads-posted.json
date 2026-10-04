@@ -96502,6 +96502,25 @@
       "metadata_file": "output/2026-10-04/trump-unveils-his-new-super-intelligence-force-techcrunch.json",
       "published_at_utc": "2026-10-04T18:37:30Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-05/can-super-intelligence-and-a-non-binding-safety-pact-solve-ai-s-image-.png": {
+      "buffer_due_at_utc": "2026-10-04T21:58:11.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac2cbc6fe1389e41342ed1e",
+      "caption_file": "output/2026-10-05/can-super-intelligence-and-a-non-binding-safety-pact-solve-ai-s-image-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-04T21:58:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac2cbc6fe1389e41342ed1e",
+          "published_at_utc": "2026-10-04T21:57:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/can-super-intelligence-and-a-non-binding-safety-pact-solve-ai-s-image-.png",
+      "metadata_file": "output/2026-10-05/can-super-intelligence-and-a-non-binding-safety-pact-solve-ai-s-image-.json",
+      "published_at_utc": "2026-10-04T21:57:26Z",
+      "publisher": "buffer_threads"
     }
   }
 }
