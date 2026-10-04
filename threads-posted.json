@@ -95917,10 +95917,15 @@
     },
     "output/2026-10-04/a-computer-glitch-brought-f1-s-malaysia-race-to-a-halt.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ac29c736ae9cbb01a563cde",
+      "buffer_post_id": "6ac29c8263761da98b5844a3",
       "caption_file": "output/2026-10-04/a-computer-glitch-brought-f1-s-malaysia-race-to-a-halt.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ac29c8263761da98b5844a3",
+          "published_at_utc": "2026-10-04T18:35:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ac29c736ae9cbb01a563cde",
@@ -95929,7 +95934,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/a-computer-glitch-brought-f1-s-malaysia-race-to-a-halt.png",
       "metadata_file": "output/2026-10-04/a-computer-glitch-brought-f1-s-malaysia-race-to-a-halt.json",
-      "published_at_utc": "2026-10-04T18:35:41Z",
+      "published_at_utc": "2026-10-04T18:35:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-04/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas-te.png": {
