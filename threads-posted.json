@@ -96529,12 +96529,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-r.png": {
-      "buffer_due_at_utc": "2026-10-04T22:17:06.000Z",
+      "buffer_due_at_utc": "2026-10-04T22:19:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac2cbd1d467abe8cfc90afd",
+      "buffer_post_id": "6ac2cbd6fe1389e41342edc9",
       "caption_file": "output/2026-10-05/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-r.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-04T22:19:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac2cbd6fe1389e41342edc9",
+          "published_at_utc": "2026-10-04T21:57:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-04T22:17:06.000Z",
           "buffer_mode": "customScheduled",
@@ -96544,7 +96550,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-r.png",
       "metadata_file": "output/2026-10-05/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-r.json",
-      "published_at_utc": "2026-10-04T21:57:37Z",
+      "published_at_utc": "2026-10-04T21:57:42Z",
       "publisher": "buffer_threads"
     }
   }
