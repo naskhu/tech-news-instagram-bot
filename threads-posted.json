@@ -95990,6 +95990,25 @@
       "published_at_utc": "2026-10-03T23:10:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-04/elusive-geoneutrinos-are-building-a-new-map-of-earth-s-volatile-interi.png": {
+      "buffer_due_at_utc": "2026-10-04T09:17:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac21987aa79e514b9147207",
+      "caption_file": "output/2026-10-04/elusive-geoneutrinos-are-building-a-new-map-of-earth-s-volatile-interi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-04T09:17:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac21987aa79e514b9147207",
+          "published_at_utc": "2026-10-04T09:16:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/elusive-geoneutrinos-are-building-a-new-map-of-earth-s-volatile-interi.png",
+      "metadata_file": "output/2026-10-04/elusive-geoneutrinos-are-building-a-new-map-of-earth-s-volatile-interi.json",
+      "published_at_utc": "2026-10-04T09:16:55Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-04/federal-judge-calls-flock-indiscriminate-mass-surveillance-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-03T20:35:59.000Z",
       "buffer_mode": "customScheduled",
