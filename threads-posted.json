@@ -96116,12 +96116,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-04/muse-creates-detailed-profiles-of-all-your-friends-and-family.png": {
-      "buffer_due_at_utc": "2026-10-04T09:55:29.000Z",
+      "buffer_due_at_utc": "2026-10-04T09:57:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac2199f8dc991c73c72711e",
+      "buffer_post_id": "6ac219a55829d2489a0d7801",
       "caption_file": "output/2026-10-04/muse-creates-detailed-profiles-of-all-your-friends-and-family.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-04T09:57:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac219a55829d2489a0d7801",
+          "published_at_utc": "2026-10-04T09:17:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-04T09:55:29.000Z",
           "buffer_mode": "customScheduled",
@@ -96131,7 +96137,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/muse-creates-detailed-profiles-of-all-your-friends-and-family.png",
       "metadata_file": "output/2026-10-04/muse-creates-detailed-profiles-of-all-your-friends-and-family.json",
-      "published_at_utc": "2026-10-04T09:17:19Z",
+      "published_at_utc": "2026-10-04T09:17:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-04/one-of-the-authors-of-the-stochastic-parrots-paper-explains-what-it-ac.png": {
