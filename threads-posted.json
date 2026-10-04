@@ -96340,6 +96340,25 @@
       "published_at_utc": "2026-10-04T14:53:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-04/the-macbook-air-m5-is-200-off-for-the-first-time-in-months.png": {
+      "buffer_due_at_utc": "2026-10-04T15:31:26.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac2685ad8dbde86e14c20a9",
+      "caption_file": "output/2026-10-04/the-macbook-air-m5-is-200-off-for-the-first-time-in-months.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-04T15:31:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac2685ad8dbde86e14c20a9",
+          "published_at_utc": "2026-10-04T14:53:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/the-macbook-air-m5-is-200-off-for-the-first-time-in-months.png",
+      "metadata_file": "output/2026-10-04/the-macbook-air-m5-is-200-off-for-the-first-time-in-months.json",
+      "published_at_utc": "2026-10-04T14:53:14Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-04/the-nvidia-shield-tv-is-7-years-old-it-just-got-a-100-price-hike.png": {
       "buffer_due_at_utc": "2026-10-04T10:16:24.000Z",
       "buffer_mode": "customScheduled",
