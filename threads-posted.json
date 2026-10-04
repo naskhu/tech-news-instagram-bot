@@ -95940,6 +95940,25 @@
       "published_at_utc": "2026-10-03T20:14:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-04/an-openai-safety-employee-has-quit-and-is-sounding-the-alarm.png": {
+      "buffer_due_at_utc": "2026-10-04T02:52:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac1bf5d8dc991c73c670430",
+      "caption_file": "output/2026-10-04/an-openai-safety-employee-has-quit-and-is-sounding-the-alarm.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-04T02:52:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac1bf5d8dc991c73c670430",
+          "published_at_utc": "2026-10-04T02:52:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/an-openai-safety-employee-has-quit-and-is-sounding-the-alarm.png",
+      "metadata_file": "output/2026-10-04/an-openai-safety-employee-has-quit-and-is-sounding-the-alarm.json",
+      "published_at_utc": "2026-10-04T02:52:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-04/capcom-is-preparing-for-a-future-where-we-create-games-together-with-a.png": {
       "buffer_due_at_utc": "2026-10-03T23:12:45.000Z",
       "buffer_mode": "customScheduled",
