@@ -95987,6 +95987,23 @@
       "published_at_utc": "2026-10-04T02:52:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-04/avengers-endgame-is-the-highest-grossing-movie-in-history-again.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ac29c9263761da98b5845c7",
+      "caption_file": "output/2026-10-04/avengers-endgame-is-the-highest-grossing-movie-in-history-again.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ac29c9263761da98b5845c7",
+          "published_at_utc": "2026-10-04T18:36:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/avengers-endgame-is-the-highest-grossing-movie-in-history-again.png",
+      "metadata_file": "output/2026-10-04/avengers-endgame-is-the-highest-grossing-movie-in-history-again.json",
+      "published_at_utc": "2026-10-04T18:36:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-04/capcom-is-preparing-for-a-future-where-we-create-games-together-with-a.png": {
       "buffer_due_at_utc": "2026-10-03T23:12:45.000Z",
       "buffer_mode": "customScheduled",
