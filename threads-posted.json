@@ -96309,6 +96309,23 @@
       "published_at_utc": "2026-10-03T20:14:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-04/techcrunch-mobility-reining-in-robotaxis-techcrunch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ac29cb2d467abe8cfc2dfbd",
+      "caption_file": "output/2026-10-04/techcrunch-mobility-reining-in-robotaxis-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ac29cb2d467abe8cfc2dfbd",
+          "published_at_utc": "2026-10-04T18:36:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/techcrunch-mobility-reining-in-robotaxis-techcrunch.png",
+      "metadata_file": "output/2026-10-04/techcrunch-mobility-reining-in-robotaxis-techcrunch.json",
+      "published_at_utc": "2026-10-04T18:36:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-04/the-airpods-pro-3-are-a-fantastic-deal-at-179.png": {
       "buffer_due_at_utc": "2026-10-04T14:55:36.000Z",
       "buffer_mode": "customScheduled",
