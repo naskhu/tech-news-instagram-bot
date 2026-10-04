@@ -96265,6 +96265,25 @@
       "published_at_utc": "2026-10-03T20:14:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-04/the-airpods-pro-3-are-a-fantastic-deal-at-179.png": {
+      "buffer_due_at_utc": "2026-10-04T14:53:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac26843fb26f2c2fb63fd37",
+      "caption_file": "output/2026-10-04/the-airpods-pro-3-are-a-fantastic-deal-at-179.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-04T14:53:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac26843fb26f2c2fb63fd37",
+          "published_at_utc": "2026-10-04T14:52:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-04/the-airpods-pro-3-are-a-fantastic-deal-at-179.png",
+      "metadata_file": "output/2026-10-04/the-airpods-pro-3-are-a-fantastic-deal-at-179.json",
+      "published_at_utc": "2026-10-04T14:52:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-04/the-dawn-of-the-age-of-the-exoskeleton.png": {
       "buffer_due_at_utc": "2026-10-04T03:51:42.000Z",
       "buffer_mode": "customScheduled",
