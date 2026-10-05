@@ -96554,12 +96554,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/john-ternus-has-basically-made-himself-apple-s-design-chief.png": {
-      "buffer_due_at_utc": "2026-10-05T00:26:37.000Z",
+      "buffer_due_at_utc": "2026-10-05T00:28:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac2ee9069a169193a531765",
+      "buffer_post_id": "6ac2ee95d467abe8cfce7849",
       "caption_file": "output/2026-10-05/john-ternus-has-basically-made-himself-apple-s-design-chief.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-05T00:28:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac2ee95d467abe8cfce7849",
+          "published_at_utc": "2026-10-05T00:25:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-05T00:26:37.000Z",
           "buffer_mode": "customScheduled",
@@ -96569,7 +96575,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/john-ternus-has-basically-made-himself-apple-s-design-chief.png",
       "metadata_file": "output/2026-10-05/john-ternus-has-basically-made-himself-apple-s-design-chief.json",
-      "published_at_utc": "2026-10-05T00:25:52Z",
+      "published_at_utc": "2026-10-05T00:25:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/sam-altman-thinks-the-world-should-accept-some-bad-things-happening-fo.png": {
