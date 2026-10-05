@@ -96579,12 +96579,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/prick-s-theatrical-industrial-punk-is-perfect-for-spooky-season.png": {
-      "buffer_due_at_utc": "2026-10-05T00:45:32.000Z",
+      "buffer_due_at_utc": "2026-10-05T00:47:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac2ee9bca1380ada83e8190",
+      "buffer_post_id": "6ac2eea063761da98b635c09",
       "caption_file": "output/2026-10-05/prick-s-theatrical-industrial-punk-is-perfect-for-spooky-season.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-05T00:47:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac2eea063761da98b635c09",
+          "published_at_utc": "2026-10-05T00:26:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-05T00:45:32.000Z",
           "buffer_mode": "customScheduled",
@@ -96594,7 +96600,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/prick-s-theatrical-industrial-punk-is-perfect-for-spooky-season.png",
       "metadata_file": "output/2026-10-05/prick-s-theatrical-industrial-punk-is-perfect-for-spooky-season.json",
-      "published_at_utc": "2026-10-05T00:26:03Z",
+      "published_at_utc": "2026-10-05T00:26:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/sam-altman-thinks-the-world-should-accept-some-bad-things-happening-fo.png": {
