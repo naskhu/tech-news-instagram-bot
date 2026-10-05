@@ -96927,6 +96927,25 @@
       "metadata_file": "output/2026-10-06/after-factory-s-public-spat-with-khosla-menlo-proudly-invests-techcrun.json",
       "published_at_utc": "2026-10-05T21:51:30Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-06/etched-fields-funding-offers-at-40b-valuation-sources-say-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-05T22:11:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac41be8a1596ff3fb049130",
+      "caption_file": "output/2026-10-06/etched-fields-funding-offers-at-40b-valuation-sources-say-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-05T22:11:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac41be8a1596ff3fb049130",
+          "published_at_utc": "2026-10-05T21:51:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/etched-fields-funding-offers-at-40b-valuation-sources-say-techcrunch.png",
+      "metadata_file": "output/2026-10-06/etched-fields-funding-offers-at-40b-valuation-sources-say-techcrunch.json",
+      "published_at_utc": "2026-10-05T21:51:36Z",
+      "publisher": "buffer_threads"
     }
   }
 }
