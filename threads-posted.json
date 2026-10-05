@@ -96654,12 +96654,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/meet-the-startup-battlefield-200-judges-who-ll-decide-the-winner-at-te.png": {
-      "buffer_due_at_utc": "2026-10-05T15:11:14.000Z",
+      "buffer_due_at_utc": "2026-10-05T15:13:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac3b9824eaf4aacfc8a6586",
+      "buffer_post_id": "6ac3b9884eaf4aacfc8a6642",
       "caption_file": "output/2026-10-05/meet-the-startup-battlefield-200-judges-who-ll-decide-the-winner-at-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-05T15:13:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac3b9884eaf4aacfc8a6642",
+          "published_at_utc": "2026-10-05T14:51:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-05T15:11:14.000Z",
           "buffer_mode": "customScheduled",
@@ -96669,7 +96675,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/meet-the-startup-battlefield-200-judges-who-ll-decide-the-winner-at-te.png",
       "metadata_file": "output/2026-10-05/meet-the-startup-battlefield-200-judges-who-ll-decide-the-winner-at-te.json",
-      "published_at_utc": "2026-10-05T14:51:46Z",
+      "published_at_utc": "2026-10-05T14:51:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.png": {
