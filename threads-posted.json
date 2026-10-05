@@ -96629,12 +96629,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.png": {
-      "buffer_due_at_utc": "2026-10-05T06:52:35.000Z",
+      "buffer_due_at_utc": "2026-10-05T06:54:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac3403fd467abe8cfd9e6ff",
+      "buffer_post_id": "6ac340445de5ee424c299c84",
       "caption_file": "output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-05T06:54:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac340445de5ee424c299c84",
+          "published_at_utc": "2026-10-05T06:14:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-05T06:52:35.000Z",
           "buffer_mode": "customScheduled",
@@ -96644,7 +96650,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.png",
       "metadata_file": "output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.json",
-      "published_at_utc": "2026-10-05T06:14:23Z",
+      "published_at_utc": "2026-10-05T06:14:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/prick-s-theatrical-industrial-punk-is-perfect-for-spooky-season.png": {
