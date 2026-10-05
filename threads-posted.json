@@ -96528,6 +96528,25 @@
       "published_at_utc": "2026-10-05T06:14:07Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-05/can-safeworld-convince-people-that-genai-robots-won-t-hurt-them-techcr.png": {
+      "buffer_due_at_utc": "2026-10-05T14:52:19.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac3b97777106839389872f2",
+      "caption_file": "output/2026-10-05/can-safeworld-convince-people-that-genai-robots-won-t-hurt-them-techcr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-05T14:52:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac3b97777106839389872f2",
+          "published_at_utc": "2026-10-05T14:51:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/can-safeworld-convince-people-that-genai-robots-won-t-hurt-them-techcr.png",
+      "metadata_file": "output/2026-10-05/can-safeworld-convince-people-that-genai-robots-won-t-hurt-them-techcr.json",
+      "published_at_utc": "2026-10-05T14:51:35Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-05/can-super-intelligence-and-a-non-binding-safety-pact-solve-ai-s-image-.png": {
       "buffer_due_at_utc": "2026-10-04T22:00:11.000Z",
       "buffer_mode": "customScheduled",
