@@ -96952,6 +96952,25 @@
       "metadata_file": "output/2026-10-06/etched-fields-funding-offers-at-40b-valuation-sources-say-techcrunch.json",
       "published_at_utc": "2026-10-05T21:51:42Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-06/openai-will-start-watermarking-chatgpt-s-text-in-the-eu-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-05T22:29:59.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac41bf3a1596ff3fb049287",
+      "caption_file": "output/2026-10-06/openai-will-start-watermarking-chatgpt-s-text-in-the-eu-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-05T22:29:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac41bf3a1596ff3fb049287",
+          "published_at_utc": "2026-10-05T21:51:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/openai-will-start-watermarking-chatgpt-s-text-in-the-eu-techcrunch.png",
+      "metadata_file": "output/2026-10-06/openai-will-start-watermarking-chatgpt-s-text-in-the-eu-techcrunch.json",
+      "published_at_utc": "2026-10-05T21:51:47Z",
+      "publisher": "buffer_threads"
     }
   }
 }
