@@ -96703,6 +96703,25 @@
       "published_at_utc": "2026-10-04T21:57:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-05/the-best-early-october-prime-day-deals-happening-now.png": {
+      "buffer_due_at_utc": "2026-10-05T07:11:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac3404a63761da98b6ea464",
+      "caption_file": "output/2026-10-05/the-best-early-october-prime-day-deals-happening-now.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-05T07:11:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac3404a63761da98b6ea464",
+          "published_at_utc": "2026-10-05T06:14:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/the-best-early-october-prime-day-deals-happening-now.png",
+      "metadata_file": "output/2026-10-05/the-best-early-october-prime-day-deals-happening-now.json",
+      "published_at_utc": "2026-10-05T06:14:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-05/the-new-fitbit-edge-leaks.png": {
       "buffer_due_at_utc": "2026-10-05T01:06:27.000Z",
       "buffer_mode": "customScheduled",
