@@ -96504,12 +96504,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/an-ai-couldn-t-beat-humans-at-starcraft-so-it-decided-to-cheat.png": {
-      "buffer_due_at_utc": "2026-10-05T06:14:45.000Z",
+      "buffer_due_at_utc": "2026-10-05T06:16:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac3402963761da98b6e9f1c",
+      "buffer_post_id": "6ac3402ed467abe8cfd9e5b5",
       "caption_file": "output/2026-10-05/an-ai-couldn-t-beat-humans-at-starcraft-so-it-decided-to-cheat.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-05T06:16:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac3402ed467abe8cfd9e5b5",
+          "published_at_utc": "2026-10-05T06:14:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-05T06:14:45.000Z",
           "buffer_mode": "customScheduled",
@@ -96519,7 +96525,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/an-ai-couldn-t-beat-humans-at-starcraft-so-it-decided-to-cheat.png",
       "metadata_file": "output/2026-10-05/an-ai-couldn-t-beat-humans-at-starcraft-so-it-decided-to-cheat.json",
-      "published_at_utc": "2026-10-05T06:14:01Z",
+      "published_at_utc": "2026-10-05T06:14:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/can-super-intelligence-and-a-non-binding-safety-pact-solve-ai-s-image-.png": {
