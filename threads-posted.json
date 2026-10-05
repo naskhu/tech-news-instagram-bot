@@ -96729,12 +96729,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/researchers-are-tracking-a-chinese-ai-agent-fleet-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-05T15:30:09.000Z",
+      "buffer_due_at_utc": "2026-10-05T15:32:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac3b98e84bf56c5bbde0ac0",
+      "buffer_post_id": "6ac3b993e40422bf13b478c9",
       "caption_file": "output/2026-10-05/researchers-are-tracking-a-chinese-ai-agent-fleet-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-05T15:32:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac3b993e40422bf13b478c9",
+          "published_at_utc": "2026-10-05T14:52:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-05T15:30:09.000Z",
           "buffer_mode": "customScheduled",
@@ -96744,7 +96750,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/researchers-are-tracking-a-chinese-ai-agent-fleet-techcrunch.png",
       "metadata_file": "output/2026-10-05/researchers-are-tracking-a-chinese-ai-agent-fleet-techcrunch.json",
-      "published_at_utc": "2026-10-05T14:51:58Z",
+      "published_at_utc": "2026-10-05T14:52:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-05/sam-altman-thinks-the-world-should-accept-some-bad-things-happening-fo.png": {
