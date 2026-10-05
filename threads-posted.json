@@ -96628,6 +96628,25 @@
       "published_at_utc": "2026-10-05T00:25:58Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.png": {
+      "buffer_due_at_utc": "2026-10-05T06:52:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac3403fd467abe8cfd9e6ff",
+      "caption_file": "output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-05T06:52:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac3403fd467abe8cfd9e6ff",
+          "published_at_utc": "2026-10-05T06:14:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.png",
+      "metadata_file": "output/2026-10-05/nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocent-of-sexual-harassme.json",
+      "published_at_utc": "2026-10-05T06:14:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-05/prick-s-theatrical-industrial-punk-is-perfect-for-spooky-season.png": {
       "buffer_due_at_utc": "2026-10-05T00:47:32.000Z",
       "buffer_mode": "customScheduled",
