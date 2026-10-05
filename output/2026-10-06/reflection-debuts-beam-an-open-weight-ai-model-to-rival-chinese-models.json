@@ -1,0 +1,23 @@
+{
+  "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost | TechCrunch",
+  "summary": "Reflection’s performance claims haven’t been independently verified, but on advanced reasoning benchmarks, the company says Beam scores on par with Z.ai’s GLM-5.2 and outperforms today’s leading Western open models while using “3-4x less inference compute.” Reflection calls it a “workhorse model” for…",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
+  "published_utc": "2026-10-05T19:33:53+00:00",
+  "output_day": "2026-10-06",
+  "date_source": "meta",
+  "generated_utc": "2026-10-05T21:49:40.763011+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-06/reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-models.png",
+  "caption": "output/2026-10-06/reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-models.txt"
+}
