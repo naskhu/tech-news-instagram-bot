@@ -97379,12 +97379,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.png": {
-      "buffer_due_at_utc": "2026-10-06T21:52:53.000Z",
+      "buffer_due_at_utc": "2026-10-06T21:54:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac5606010de5e15cbddb611",
+      "buffer_post_id": "6ac560661f519c3119fb98ba",
       "caption_file": "output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-06T21:54:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac560661f519c3119fb98ba",
+          "published_at_utc": "2026-10-06T20:56:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-06T21:52:53.000Z",
           "buffer_mode": "customScheduled",
@@ -97394,7 +97400,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.png",
       "metadata_file": "output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.json",
-      "published_at_utc": "2026-10-06T20:56:00Z",
+      "published_at_utc": "2026-10-06T20:56:06Z",
       "publisher": "buffer_threads"
     }
   }
