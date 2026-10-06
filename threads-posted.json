@@ -97104,12 +97104,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/openai-launches-visual-ads-that-appear-alongside-image-generation-resu.png": {
-      "buffer_due_at_utc": "2026-10-06T10:04:00.000Z",
+      "buffer_due_at_utc": "2026-10-06T10:06:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac4ba378a3284e91417c19d",
+      "buffer_post_id": "6ac4ba3cebab06c88312392a",
       "caption_file": "output/2026-10-06/openai-launches-visual-ads-that-appear-alongside-image-generation-resu.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-06T10:06:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac4ba3cebab06c88312392a",
+          "published_at_utc": "2026-10-06T09:07:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-06T10:04:00.000Z",
           "buffer_mode": "customScheduled",
@@ -97119,7 +97125,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/openai-launches-visual-ads-that-appear-alongside-image-generation-resu.png",
       "metadata_file": "output/2026-10-06/openai-launches-visual-ads-that-appear-alongside-image-generation-resu.json",
-      "published_at_utc": "2026-10-06T09:07:03Z",
+      "published_at_utc": "2026-10-06T09:07:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/openai-will-start-watermarking-chatgpt-s-text-in-the-eu-techcrunch.png": {
