@@ -97327,6 +97327,25 @@
       "metadata_file": "output/2026-10-07/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo-techcrunc.json",
       "published_at_utc": "2026-10-06T20:55:30Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-07/how-ai-decision-models-could-change-content-moderation.png": {
+      "buffer_due_at_utc": "2026-10-06T21:15:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac5604910de5e15cbddb46f",
+      "caption_file": "output/2026-10-07/how-ai-decision-models-could-change-content-moderation.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-06T21:15:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac5604910de5e15cbddb46f",
+          "published_at_utc": "2026-10-06T20:55:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/how-ai-decision-models-could-change-content-moderation.png",
+      "metadata_file": "output/2026-10-07/how-ai-decision-models-could-change-content-moderation.json",
+      "published_at_utc": "2026-10-06T20:55:37Z",
+      "publisher": "buffer_threads"
     }
   }
 }
