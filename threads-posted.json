@@ -97304,12 +97304,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo-techcrunc.png": {
-      "buffer_due_at_utc": "2026-10-06T20:56:08.000Z",
+      "buffer_due_at_utc": "2026-10-06T20:58:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac5603cbca7979e516fe656",
+      "buffer_post_id": "6ac560421f519c3119fb953f",
       "caption_file": "output/2026-10-07/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo-techcrunc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-06T20:58:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac560421f519c3119fb953f",
+          "published_at_utc": "2026-10-06T20:55:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-06T20:56:08.000Z",
           "buffer_mode": "customScheduled",
@@ -97319,7 +97325,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo-techcrunc.png",
       "metadata_file": "output/2026-10-07/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo-techcrunc.json",
-      "published_at_utc": "2026-10-06T20:55:24Z",
+      "published_at_utc": "2026-10-06T20:55:30Z",
       "publisher": "buffer_threads"
     }
   }
