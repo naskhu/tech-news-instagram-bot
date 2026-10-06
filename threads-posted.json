@@ -96979,12 +96979,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-a.png": {
-      "buffer_due_at_utc": "2026-10-06T02:32:50.000Z",
+      "buffer_due_at_utc": "2026-10-06T02:34:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac45943ae999c0b7ff928d1",
+      "buffer_post_id": "6ac45949acc08dcd5e9dd37e",
       "caption_file": "output/2026-10-06/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-a.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-06T02:34:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac45949acc08dcd5e9dd37e",
+          "published_at_utc": "2026-10-06T02:13:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-06T02:32:50.000Z",
           "buffer_mode": "customScheduled",
@@ -96994,7 +97000,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-a.png",
       "metadata_file": "output/2026-10-06/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-a.json",
-      "published_at_utc": "2026-10-06T02:13:23Z",
+      "published_at_utc": "2026-10-06T02:13:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/openai-will-start-watermarking-chatgpt-s-text-in-the-eu-techcrunch.png": {
