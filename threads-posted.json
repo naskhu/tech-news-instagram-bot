@@ -97004,12 +97004,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/lucid-motors-ev-output-falls-to-lowest-level-in-almost-2-years-techcru.png": {
-      "buffer_due_at_utc": "2026-10-06T02:51:45.000Z",
+      "buffer_due_at_utc": "2026-10-06T02:53:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac4594facc08dcd5e9dd413",
+      "buffer_post_id": "6ac4595598d02b181e1c74be",
       "caption_file": "output/2026-10-06/lucid-motors-ev-output-falls-to-lowest-level-in-almost-2-years-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-06T02:53:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac4595598d02b181e1c74be",
+          "published_at_utc": "2026-10-06T02:13:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-06T02:51:45.000Z",
           "buffer_mode": "customScheduled",
@@ -97019,7 +97025,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/lucid-motors-ev-output-falls-to-lowest-level-in-almost-2-years-techcru.png",
       "metadata_file": "output/2026-10-06/lucid-motors-ev-output-falls-to-lowest-level-in-almost-2-years-techcru.json",
-      "published_at_utc": "2026-10-06T02:13:35Z",
+      "published_at_utc": "2026-10-06T02:13:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/openai-will-start-watermarking-chatgpt-s-text-in-the-eu-techcrunch.png": {
