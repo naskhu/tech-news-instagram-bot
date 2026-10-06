@@ -96978,6 +96978,25 @@
       "published_at_utc": "2026-10-06T02:13:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-06T16:04:02.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac51bc6f2aae537b247eeb4",
+      "caption_file": "output/2026-10-06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-06T16:04:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac51bc6f2aae537b247eeb4",
+          "published_at_utc": "2026-10-06T16:03:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web-techcrunch.png",
+      "metadata_file": "output/2026-10-06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web-techcrunch.json",
+      "published_at_utc": "2026-10-06T16:03:18Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-06/etched-fields-funding-offers-at-40b-valuation-sources-say-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-05T22:13:04.000Z",
       "buffer_mode": "customScheduled",
