@@ -97377,6 +97377,25 @@
       "metadata_file": "output/2026-10-07/silicon-valley-s-ai-wunderkind-launches-underdog-the-most-private-inst.json",
       "published_at_utc": "2026-10-06T20:55:54Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.png": {
+      "buffer_due_at_utc": "2026-10-06T21:52:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac5606010de5e15cbddb611",
+      "caption_file": "output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-06T21:52:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac5606010de5e15cbddb611",
+          "published_at_utc": "2026-10-06T20:56:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.png",
+      "metadata_file": "output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.json",
+      "published_at_utc": "2026-10-06T20:56:00Z",
+      "publisher": "buffer_threads"
     }
   }
 }
