@@ -97003,6 +97003,25 @@
       "published_at_utc": "2026-10-05T21:51:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-06/hackerrank-s-ai-interviewer-offers-a-glimpse-into-what-job-interviews-.png": {
+      "buffer_due_at_utc": "2026-10-06T09:26:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac4ba216787a0dd36dc341a",
+      "caption_file": "output/2026-10-06/hackerrank-s-ai-interviewer-offers-a-glimpse-into-what-job-interviews-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-06T09:26:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac4ba216787a0dd36dc341a",
+          "published_at_utc": "2026-10-06T09:06:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/hackerrank-s-ai-interviewer-offers-a-glimpse-into-what-job-interviews-.png",
+      "metadata_file": "output/2026-10-06/hackerrank-s-ai-interviewer-offers-a-glimpse-into-what-job-interviews-.json",
+      "published_at_utc": "2026-10-06T09:06:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-06/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-a.png": {
       "buffer_due_at_utc": "2026-10-06T02:34:50.000Z",
       "buffer_mode": "customScheduled",
