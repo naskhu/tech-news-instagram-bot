@@ -97277,6 +97277,25 @@
       "metadata_file": "output/2026-10-06/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout-techc.json",
       "published_at_utc": "2026-10-06T02:13:53Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-06/vinod-khosla-believes-ex-deepmind-engineer-s-wajo-will-win-agent-marke.png": {
+      "buffer_due_at_utc": "2026-10-06T17:00:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac51bed7422476c11205e7f",
+      "caption_file": "output/2026-10-06/vinod-khosla-believes-ex-deepmind-engineer-s-wajo-will-win-agent-marke.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-06T17:00:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac51bed7422476c11205e7f",
+          "published_at_utc": "2026-10-06T16:03:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/vinod-khosla-believes-ex-deepmind-engineer-s-wajo-will-win-agent-marke.png",
+      "metadata_file": "output/2026-10-06/vinod-khosla-believes-ex-deepmind-engineer-s-wajo-will-win-agent-marke.json",
+      "published_at_utc": "2026-10-06T16:03:57Z",
+      "publisher": "buffer_threads"
     }
   }
 }
