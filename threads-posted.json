@@ -96929,12 +96929,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/at-19-founder-raises-11m-for-ghost-maker-of-a-3-499-computer-for-perso.png": {
-      "buffer_due_at_utc": "2026-10-06T02:13:55.000Z",
+      "buffer_due_at_utc": "2026-10-06T02:15:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac45937b0e0485fb46741d6",
+      "buffer_post_id": "6ac4593dacc08dcd5e9dd19a",
       "caption_file": "output/2026-10-06/at-19-founder-raises-11m-for-ghost-maker-of-a-3-499-computer-for-perso.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-06T02:15:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac4593dacc08dcd5e9dd19a",
+          "published_at_utc": "2026-10-06T02:13:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-06T02:13:55.000Z",
           "buffer_mode": "customScheduled",
@@ -96944,7 +96950,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/at-19-founder-raises-11m-for-ghost-maker-of-a-3-499-computer-for-perso.png",
       "metadata_file": "output/2026-10-06/at-19-founder-raises-11m-for-ghost-maker-of-a-3-499-computer-for-perso.json",
-      "published_at_utc": "2026-10-06T02:13:11Z",
+      "published_at_utc": "2026-10-06T02:13:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/etched-fields-funding-offers-at-40b-valuation-sources-say-techcrunch.png": {
