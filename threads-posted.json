@@ -96904,12 +96904,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day-tech.png": {
-      "buffer_due_at_utc": "2026-10-06T09:07:15.000Z",
+      "buffer_due_at_utc": "2026-10-06T09:09:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac4ba16ebab06c883123489",
+      "buffer_post_id": "6ac4ba1c6787a0dd36dc32a3",
       "caption_file": "output/2026-10-06/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-06T09:09:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac4ba1c6787a0dd36dc32a3",
+          "published_at_utc": "2026-10-06T09:06:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-06T09:07:15.000Z",
           "buffer_mode": "customScheduled",
@@ -96919,7 +96925,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-06/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day-tech.png",
       "metadata_file": "output/2026-10-06/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day-tech.json",
-      "published_at_utc": "2026-10-06T09:06:31Z",
+      "published_at_utc": "2026-10-06T09:06:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-06/after-factory-s-public-spat-with-khosla-menlo-proudly-invests-techcrun.png": {
