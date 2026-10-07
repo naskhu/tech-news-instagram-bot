@@ -97654,12 +97654,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/spotify-expands-audiobooks-to-over-180-markets-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-07T14:30:56.000Z",
+      "buffer_due_at_utc": "2026-10-07T14:32:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac64a4a0f4d385dd63262d4",
+      "buffer_post_id": "6ac64a4f002d92909c81e954",
       "caption_file": "output/2026-10-07/spotify-expands-audiobooks-to-over-180-markets-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-07T14:32:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac64a4f002d92909c81e954",
+          "published_at_utc": "2026-10-07T13:34:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-07T14:30:56.000Z",
           "buffer_mode": "customScheduled",
@@ -97669,7 +97675,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/spotify-expands-audiobooks-to-over-180-markets-techcrunch.png",
       "metadata_file": "output/2026-10-07/spotify-expands-audiobooks-to-over-180-markets-techcrunch.json",
-      "published_at_utc": "2026-10-07T13:34:02Z",
+      "published_at_utc": "2026-10-07T13:34:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in-techcrun.png": {
