@@ -97379,12 +97379,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy-techcru.png": {
-      "buffer_due_at_utc": "2026-10-07T00:59:43.000Z",
+      "buffer_due_at_utc": "2026-10-07T01:01:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac5908b4b5d6c56693da95f",
+      "buffer_post_id": "6ac590904b5d6c56693da9fb",
       "caption_file": "output/2026-10-07/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-07T01:01:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac590904b5d6c56693da9fb",
+          "published_at_utc": "2026-10-07T00:21:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-07T00:59:43.000Z",
           "buffer_mode": "customScheduled",
@@ -97394,7 +97400,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy-techcru.png",
       "metadata_file": "output/2026-10-07/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy-techcru.json",
-      "published_at_utc": "2026-10-07T00:21:31Z",
+      "published_at_utc": "2026-10-07T00:21:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/how-ai-decision-models-could-change-content-moderation.png": {
