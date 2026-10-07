@@ -1,0 +1,23 @@
+{
+  "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals | TechCrunch",
+  "summary": "Another important behind-the-scenes aspect is that ML4 was trained entirely on Mistral’s compute; using only 4,000 Nvidia GPUs “which is two to three times less than our Chinese competitors, and significantly less than the closed source competitors,” Stock said.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
+  "published_utc": "2026-10-06T14:33:16+00:00",
+  "output_day": "2026-10-07",
+  "date_source": "meta",
+  "generated_utc": "2026-10-07T13:32:15.608542+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 1,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-07/mistral-s-new-1t-model-aims-to-leapfrog-closed-and-open-rivals-techcru.png",
+  "caption": "output/2026-10-07/mistral-s-new-1t-model-aims-to-leapfrog-closed-and-open-rivals-techcru.txt"
+}
