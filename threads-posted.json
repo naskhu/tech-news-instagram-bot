@@ -97604,12 +97604,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/pinterest-s-ai-now-turns-beauty-pins-into-action-plans-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-07T14:12:01.000Z",
+      "buffer_due_at_utc": "2026-10-07T14:14:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac64a3e002d92909c81e4e5",
+      "buffer_post_id": "6ac64a44cf6aaa083c744f50",
       "caption_file": "output/2026-10-07/pinterest-s-ai-now-turns-beauty-pins-into-action-plans-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-07T14:14:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac64a44cf6aaa083c744f50",
+          "published_at_utc": "2026-10-07T13:33:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-07T14:12:01.000Z",
           "buffer_mode": "customScheduled",
@@ -97619,7 +97625,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/pinterest-s-ai-now-turns-beauty-pins-into-action-plans-techcrunch.png",
       "metadata_file": "output/2026-10-07/pinterest-s-ai-now-turns-beauty-pins-into-action-plans-techcrunch.json",
-      "published_at_utc": "2026-10-07T13:33:51Z",
+      "published_at_utc": "2026-10-07T13:33:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/silicon-valley-s-ai-wunderkind-launches-underdog-the-most-private-inst.png": {
