@@ -97428,6 +97428,25 @@
       "published_at_utc": "2026-10-06T20:55:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-07/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-07T01:18:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac59096fb94ca825704d8b5",
+      "caption_file": "output/2026-10-07/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-07T01:18:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac59096fb94ca825704d8b5",
+          "published_at_utc": "2026-10-07T00:21:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks-techcrunch.png",
+      "metadata_file": "output/2026-10-07/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks-techcrunch.json",
+      "published_at_utc": "2026-10-07T00:21:42Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-07/silicon-valley-s-ai-wunderkind-launches-underdog-the-most-private-inst.png": {
       "buffer_due_at_utc": "2026-10-06T21:35:58.000Z",
       "buffer_mode": "customScheduled",
