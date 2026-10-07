@@ -97804,12 +97804,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.png": {
-      "buffer_due_at_utc": "2026-10-08T00:10:06.000Z",
+      "buffer_due_at_utc": "2026-10-08T00:12:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac6dacd5632f7b74bd1deea",
+      "buffer_post_id": "6ac6dad22977c961bdbc7e6f",
       "caption_file": "output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-08T00:12:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac6dad22977c961bdbc7e6f",
+          "published_at_utc": "2026-10-07T23:50:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-08T00:10:06.000Z",
           "buffer_mode": "customScheduled",
@@ -97819,7 +97825,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.png",
       "metadata_file": "output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.json",
-      "published_at_utc": "2026-10-07T23:50:37Z",
+      "published_at_utc": "2026-10-07T23:50:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb-tec.png": {
