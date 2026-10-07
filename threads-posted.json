@@ -97779,12 +97779,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb-tec.png": {
-      "buffer_due_at_utc": "2026-10-07T20:31:38.000Z",
+      "buffer_due_at_utc": "2026-10-07T20:33:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac69ed666aa35478820c0f7",
+      "buffer_post_id": "6ac69edc819a4d01246c7a43",
       "caption_file": "output/2026-10-08/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb-tec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-07T20:33:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac69edc819a4d01246c7a43",
+          "published_at_utc": "2026-10-07T19:34:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-07T20:31:38.000Z",
           "buffer_mode": "customScheduled",
@@ -97794,7 +97800,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb-tec.png",
       "metadata_file": "output/2026-10-08/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb-tec.json",
-      "published_at_utc": "2026-10-07T19:34:46Z",
+      "published_at_utc": "2026-10-07T19:34:52Z",
       "publisher": "buffer_threads"
     }
   }
