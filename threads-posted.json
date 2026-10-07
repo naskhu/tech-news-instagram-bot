@@ -97328,6 +97328,25 @@
       "published_at_utc": "2026-10-06T20:55:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-07/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermost.png": {
+      "buffer_due_at_utc": "2026-10-07T00:21:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac590744b5d6c56693da711",
+      "caption_file": "output/2026-10-07/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermost.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-07T00:21:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac590744b5d6c56693da711",
+          "published_at_utc": "2026-10-07T00:21:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermost.png",
+      "metadata_file": "output/2026-10-07/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermost.json",
+      "published_at_utc": "2026-10-07T00:21:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-07/how-ai-decision-models-could-change-content-moderation.png": {
       "buffer_due_at_utc": "2026-10-06T21:17:03.000Z",
       "buffer_mode": "customScheduled",
