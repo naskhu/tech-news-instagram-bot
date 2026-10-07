@@ -97854,12 +97854,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-f.png": {
-      "buffer_due_at_utc": "2026-10-08T00:47:56.000Z",
+      "buffer_due_at_utc": "2026-10-08T00:49:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac6dae257f9bd074d1eb44b",
+      "buffer_post_id": "6ac6dae801166a3e1c0b7154",
       "caption_file": "output/2026-10-08/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-f.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-08T00:49:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac6dae801166a3e1c0b7154",
+          "published_at_utc": "2026-10-07T23:51:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-08T00:47:56.000Z",
           "buffer_mode": "customScheduled",
@@ -97869,7 +97875,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-f.png",
       "metadata_file": "output/2026-10-08/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-f.json",
-      "published_at_utc": "2026-10-07T23:50:59Z",
+      "published_at_utc": "2026-10-07T23:51:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb-tec.png": {
