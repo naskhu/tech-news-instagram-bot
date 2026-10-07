@@ -97353,6 +97353,25 @@
       "published_at_utc": "2026-10-07T00:21:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-07/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-.png": {
+      "buffer_due_at_utc": "2026-10-07T00:40:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac5907ffb94ca825704d6c5",
+      "caption_file": "output/2026-10-07/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-07T00:40:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac5907ffb94ca825704d6c5",
+          "published_at_utc": "2026-10-07T00:21:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-.png",
+      "metadata_file": "output/2026-10-07/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-.json",
+      "published_at_utc": "2026-10-07T00:21:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-07/how-ai-decision-models-could-change-content-moderation.png": {
       "buffer_due_at_utc": "2026-10-06T21:17:03.000Z",
       "buffer_mode": "customScheduled",
