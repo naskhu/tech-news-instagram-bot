@@ -97829,12 +97829,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/robot-data-startup-mecka-ai-nabs-60m-from-sequoia.png": {
-      "buffer_due_at_utc": "2026-10-08T00:29:01.000Z",
+      "buffer_due_at_utc": "2026-10-08T00:31:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac6dad895b0fb1c5cc21b4e",
+      "buffer_post_id": "6ac6dadd95b0fb1c5cc21c15",
       "caption_file": "output/2026-10-08/robot-data-startup-mecka-ai-nabs-60m-from-sequoia.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-08T00:31:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac6dadd95b0fb1c5cc21c15",
+          "published_at_utc": "2026-10-07T23:50:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-08T00:29:01.000Z",
           "buffer_mode": "customScheduled",
@@ -97844,7 +97850,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/robot-data-startup-mecka-ai-nabs-60m-from-sequoia.png",
       "metadata_file": "output/2026-10-08/robot-data-startup-mecka-ai-nabs-60m-from-sequoia.json",
-      "published_at_utc": "2026-10-07T23:50:48Z",
+      "published_at_utc": "2026-10-07T23:50:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb-tec.png": {
