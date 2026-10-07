@@ -97579,12 +97579,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/mistral-s-new-1t-model-aims-to-leapfrog-closed-and-open-rivals-techcru.png": {
-      "buffer_due_at_utc": "2026-10-07T13:53:06.000Z",
+      "buffer_due_at_utc": "2026-10-07T13:55:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac64a33686a926ce2ae79e8",
+      "buffer_post_id": "6ac64a39d75d415cada4cc60",
       "caption_file": "output/2026-10-07/mistral-s-new-1t-model-aims-to-leapfrog-closed-and-open-rivals-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-07T13:55:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac64a39d75d415cada4cc60",
+          "published_at_utc": "2026-10-07T13:33:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-07T13:53:06.000Z",
           "buffer_mode": "customScheduled",
@@ -97594,7 +97600,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/mistral-s-new-1t-model-aims-to-leapfrog-closed-and-open-rivals-techcru.png",
       "metadata_file": "output/2026-10-07/mistral-s-new-1t-model-aims-to-leapfrog-closed-and-open-rivals-techcru.json",
-      "published_at_utc": "2026-10-07T13:33:39Z",
+      "published_at_utc": "2026-10-07T13:33:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-07/silicon-valley-s-ai-wunderkind-launches-underdog-the-most-private-inst.png": {
