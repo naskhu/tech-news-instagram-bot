@@ -97803,6 +97803,25 @@
       "published_at_utc": "2026-10-07T23:50:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.png": {
+      "buffer_due_at_utc": "2026-10-08T00:10:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac6dacd5632f7b74bd1deea",
+      "caption_file": "output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-08T00:10:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac6dacd5632f7b74bd1deea",
+          "published_at_utc": "2026-10-07T23:50:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.png",
+      "metadata_file": "output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.json",
+      "published_at_utc": "2026-10-07T23:50:37Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-08/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb-tec.png": {
       "buffer_due_at_utc": "2026-10-07T20:33:38.000Z",
       "buffer_mode": "customScheduled",
