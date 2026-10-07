@@ -97378,6 +97378,25 @@
       "published_at_utc": "2026-10-07T00:21:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-07/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-in.png": {
+      "buffer_due_at_utc": "2026-10-07T06:19:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac5e4286d07ab8da75e8437",
+      "caption_file": "output/2026-10-07/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-in.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-07T06:19:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac5e4286d07ab8da75e8437",
+          "published_at_utc": "2026-10-07T06:18:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-in.png",
+      "metadata_file": "output/2026-10-07/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-in.json",
+      "published_at_utc": "2026-10-07T06:18:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-07/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy-techcru.png": {
       "buffer_due_at_utc": "2026-10-07T01:01:43.000Z",
       "buffer_mode": "customScheduled",
