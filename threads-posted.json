@@ -97704,12 +97704,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises.png": {
-      "buffer_due_at_utc": "2026-10-07T19:34:53.000Z",
+      "buffer_due_at_utc": "2026-10-07T19:36:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac69eb166aa35478820bad4",
+      "buffer_post_id": "6ac69eb766aa35478820bbcb",
       "caption_file": "output/2026-10-08/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-07T19:36:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac69eb766aa35478820bbcb",
+          "published_at_utc": "2026-10-07T19:34:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-07T19:34:53.000Z",
           "buffer_mode": "customScheduled",
@@ -97719,7 +97725,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises.png",
       "metadata_file": "output/2026-10-08/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises.json",
-      "published_at_utc": "2026-10-07T19:34:09Z",
+      "published_at_utc": "2026-10-07T19:34:15Z",
       "publisher": "buffer_threads"
     }
   }
