@@ -97503,6 +97503,25 @@
       "published_at_utc": "2026-10-07T06:18:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-07/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcr.png": {
+      "buffer_due_at_utc": "2026-10-07T06:56:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac5e43dc22c37a573bb2747",
+      "caption_file": "output/2026-10-07/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-07T06:56:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac5e43dc22c37a573bb2747",
+          "published_at_utc": "2026-10-07T06:18:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-07/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcr.png",
+      "metadata_file": "output/2026-10-07/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcr.json",
+      "published_at_utc": "2026-10-07T06:18:38Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-07/silicon-valley-s-ai-wunderkind-launches-underdog-the-most-private-inst.png": {
       "buffer_due_at_utc": "2026-10-06T21:35:58.000Z",
       "buffer_mode": "customScheduled",
