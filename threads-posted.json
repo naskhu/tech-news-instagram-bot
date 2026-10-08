@@ -97999,10 +97999,15 @@
     },
     "output/2026-10-08/natura-s-99-smart-ring-puts-ai-agents-on-your-finger-techcrunch.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ac7da4df4c7c231297fa24e",
+      "buffer_post_id": "6ac7da5df4c7c231297faa08",
       "caption_file": "output/2026-10-08/natura-s-99-smart-ring-puts-ai-agents-on-your-finger-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ac7da5df4c7c231297faa08",
+          "published_at_utc": "2026-10-08T18:01:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ac7da4df4c7c231297fa24e",
@@ -98011,7 +98016,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/natura-s-99-smart-ring-puts-ai-agents-on-your-finger-techcrunch.png",
       "metadata_file": "output/2026-10-08/natura-s-99-smart-ring-puts-ai-agents-on-your-finger-techcrunch.json",
-      "published_at_utc": "2026-10-08T18:00:55Z",
+      "published_at_utc": "2026-10-08T18:01:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-bu.png": {
