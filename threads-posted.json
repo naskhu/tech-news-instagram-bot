@@ -97854,12 +97854,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/india-rejects-elon-musk-s-claim-of-discrimination-over-starlink-launch.png": {
-      "buffer_due_at_utc": "2026-10-08T11:30:48.000Z",
+      "buffer_due_at_utc": "2026-10-08T11:32:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac77a5808d405a9e7fb58bf",
+      "buffer_post_id": "6ac77a5e444a36d3be1c360c",
       "caption_file": "output/2026-10-08/india-rejects-elon-musk-s-claim-of-discrimination-over-starlink-launch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-08T11:32:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac77a5e444a36d3be1c360c",
+          "published_at_utc": "2026-10-08T11:11:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-08T11:30:48.000Z",
           "buffer_mode": "customScheduled",
@@ -97869,7 +97875,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/india-rejects-elon-musk-s-claim-of-discrimination-over-starlink-launch.png",
       "metadata_file": "output/2026-10-08/india-rejects-elon-musk-s-claim-of-discrimination-over-starlink-launch.json",
-      "published_at_utc": "2026-10-08T11:11:20Z",
+      "published_at_utc": "2026-10-08T11:11:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-.png": {
