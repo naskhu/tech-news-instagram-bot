@@ -98028,6 +98028,25 @@
       "published_at_utc": "2026-10-08T11:11:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-08/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-.png": {
+      "buffer_due_at_utc": "2026-10-08T12:08:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac77a71444a36d3be1c3b85",
+      "caption_file": "output/2026-10-08/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-08T12:08:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac77a71444a36d3be1c3b85",
+          "published_at_utc": "2026-10-08T11:11:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-.png",
+      "metadata_file": "output/2026-10-08/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-.json",
+      "published_at_utc": "2026-10-08T11:11:45Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-08/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-f.png": {
       "buffer_due_at_utc": "2026-10-08T00:49:56.000Z",
       "buffer_mode": "customScheduled",
