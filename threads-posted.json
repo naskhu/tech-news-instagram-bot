@@ -97754,12 +97754,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/cia-officer-admits-to-creating-fake-top-secret-government-program-to-s.png": {
-      "buffer_due_at_utc": "2026-10-08T04:01:08.000Z",
+      "buffer_due_at_utc": "2026-10-08T04:03:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac7155801166a3e1c13ea6f",
+      "buffer_post_id": "6ac7155e01166a3e1c13ec4c",
       "caption_file": "output/2026-10-08/cia-officer-admits-to-creating-fake-top-secret-government-program-to-s.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-08T04:03:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac7155e01166a3e1c13ec4c",
+          "published_at_utc": "2026-10-08T04:00:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-08T04:01:08.000Z",
           "buffer_mode": "customScheduled",
@@ -97769,7 +97775,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/cia-officer-admits-to-creating-fake-top-secret-government-program-to-s.png",
       "metadata_file": "output/2026-10-08/cia-officer-admits-to-creating-fake-top-secret-government-program-to-s.json",
-      "published_at_utc": "2026-10-08T04:00:24Z",
+      "published_at_utc": "2026-10-08T04:00:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/meta-s-muse-launches-on-ipad-just-a-month-after-its-mobile-debut-techc.png": {
