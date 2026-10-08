@@ -97829,12 +97829,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-.png": {
-      "buffer_due_at_utc": "2026-10-08T04:57:53.000Z",
+      "buffer_due_at_utc": "2026-10-08T04:59:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac7157c95b0fb1c5cca5135",
+      "buffer_post_id": "6ac71582365feab0d73cc025",
       "caption_file": "output/2026-10-08/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-08T04:59:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac71582365feab0d73cc025",
+          "published_at_utc": "2026-10-08T04:01:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-08T04:57:53.000Z",
           "buffer_mode": "customScheduled",
@@ -97844,7 +97850,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-.png",
       "metadata_file": "output/2026-10-08/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-.json",
-      "published_at_utc": "2026-10-08T04:01:00Z",
+      "published_at_utc": "2026-10-08T04:01:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/meta-s-muse-launches-on-ipad-just-a-month-after-its-mobile-debut-techc.png": {
