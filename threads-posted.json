@@ -97704,12 +97704,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing-tech.png": {
-      "buffer_due_at_utc": "2026-10-08T11:11:53.000Z",
+      "buffer_due_at_utc": "2026-10-08T11:13:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac77a4d82db5af660bf483c",
+      "buffer_post_id": "6ac77a5208d405a9e7fb581f",
       "caption_file": "output/2026-10-08/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-08T11:13:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac77a5208d405a9e7fb581f",
+          "published_at_utc": "2026-10-08T11:11:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-08T11:11:53.000Z",
           "buffer_mode": "customScheduled",
@@ -97719,7 +97725,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing-tech.png",
       "metadata_file": "output/2026-10-08/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing-tech.json",
-      "published_at_utc": "2026-10-08T11:11:09Z",
+      "published_at_utc": "2026-10-08T11:11:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises.png": {
