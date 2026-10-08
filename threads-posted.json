@@ -98003,6 +98003,25 @@
       "published_at_utc": "2026-10-07T23:50:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-08/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-tra.png": {
+      "buffer_due_at_utc": "2026-10-08T11:49:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac77a64444a36d3be1c396c",
+      "caption_file": "output/2026-10-08/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-tra.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-08T11:49:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac77a64444a36d3be1c396c",
+          "published_at_utc": "2026-10-08T11:11:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-tra.png",
+      "metadata_file": "output/2026-10-08/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-tra.json",
+      "published_at_utc": "2026-10-08T11:11:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-08/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-f.png": {
       "buffer_due_at_utc": "2026-10-08T00:49:56.000Z",
       "buffer_mode": "customScheduled",
