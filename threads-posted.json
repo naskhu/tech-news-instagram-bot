@@ -98121,10 +98121,15 @@
     },
     "output/2026-10-08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ac7da6d5b76911adddb2314",
+      "buffer_post_id": "6ac7da7d357f26ef519a724e",
       "caption_file": "output/2026-10-08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ac7da7d357f26ef519a724e",
+          "published_at_utc": "2026-10-08T18:01:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ac7da6d5b76911adddb2314",
@@ -98133,7 +98138,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for.png",
       "metadata_file": "output/2026-10-08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for.json",
-      "published_at_utc": "2026-10-08T18:01:27Z",
+      "published_at_utc": "2026-10-08T18:01:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-08/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-f.png": {
