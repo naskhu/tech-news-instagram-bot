@@ -97778,6 +97778,25 @@
       "published_at_utc": "2026-10-08T04:00:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-08/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-offi.png": {
+      "buffer_due_at_utc": "2026-10-08T04:20:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac7156401166a3e1c13ef92",
+      "caption_file": "output/2026-10-08/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-offi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-08T04:20:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac7156401166a3e1c13ef92",
+          "published_at_utc": "2026-10-08T04:00:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-08/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-offi.png",
+      "metadata_file": "output/2026-10-08/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-offi.json",
+      "published_at_utc": "2026-10-08T04:00:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-08/meta-s-muse-launches-on-ipad-just-a-month-after-its-mobile-debut-techc.png": {
       "buffer_due_at_utc": "2026-10-07T20:14:43.000Z",
       "buffer_mode": "customScheduled",
