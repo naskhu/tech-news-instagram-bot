@@ -98617,12 +98617,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-.png": {
-      "buffer_due_at_utc": "2026-10-09T21:47:56.000Z",
+      "buffer_due_at_utc": "2026-10-09T21:49:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac95c7cf91f772d45723942",
+      "buffer_post_id": "6ac95c81bba9419ccbdfe928",
       "caption_file": "output/2026-10-10/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-09T21:49:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac95c81bba9419ccbdfe928",
+          "published_at_utc": "2026-10-09T21:28:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-09T21:47:56.000Z",
           "buffer_mode": "customScheduled",
@@ -98632,7 +98638,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-.png",
       "metadata_file": "output/2026-10-10/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-.json",
-      "published_at_utc": "2026-10-09T21:28:28Z",
+      "published_at_utc": "2026-10-09T21:28:34Z",
       "publisher": "buffer_threads"
     }
   }
