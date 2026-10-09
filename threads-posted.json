@@ -98517,12 +98517,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe-te.png": {
-      "buffer_due_at_utc": "2026-10-09T17:27:49.000Z",
+      "buffer_due_at_utc": "2026-10-09T17:29:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac91b23cb5a8140da222c33",
+      "buffer_post_id": "6ac91b28a5e49fef9bbc96a0",
       "caption_file": "output/2026-10-09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-09T17:29:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac91b28a5e49fef9bbc96a0",
+          "published_at_utc": "2026-10-09T16:49:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-09T17:27:49.000Z",
           "buffer_mode": "customScheduled",
@@ -98532,7 +98538,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe-te.png",
       "metadata_file": "output/2026-10-09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe-te.json",
-      "published_at_utc": "2026-10-09T16:49:39Z",
+      "published_at_utc": "2026-10-09T16:49:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/watch-the-trailer-for-the-altruists-netflix-s-show-about-the-ftx-scand.png": {
