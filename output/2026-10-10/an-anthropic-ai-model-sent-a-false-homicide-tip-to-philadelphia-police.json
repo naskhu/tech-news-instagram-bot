@@ -1,0 +1,23 @@
+{
+  "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police | TechCrunch",
+  "summary": "Anthropic did not immediately respond to a request for comment, but the PPD elaborated on the incident in an emailed press release shared with TechCrunch. “According to Anthropic, its model was conducting a test involving interactions with randomly selected websites when it…",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+  "published_utc": "2026-10-09T19:36:56+00:00",
+  "output_day": "2026-10-10",
+  "date_source": "meta",
+  "generated_utc": "2026-10-09T21:27:00.724089+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-10/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police.png",
+  "caption": "output/2026-10-10/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police.txt"
+}
