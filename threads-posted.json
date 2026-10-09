@@ -98492,12 +98492,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/remember-orkut-its-founder-wants-to-bring-it-back-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-09T17:08:54.000Z",
+      "buffer_due_at_utc": "2026-10-09T17:10:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac91b17cb5a8140da222b9d",
+      "buffer_post_id": "6ac91b1d810582311aea7d35",
       "caption_file": "output/2026-10-09/remember-orkut-its-founder-wants-to-bring-it-back-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-09T17:10:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac91b1d810582311aea7d35",
+          "published_at_utc": "2026-10-09T16:49:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-09T17:08:54.000Z",
           "buffer_mode": "customScheduled",
@@ -98507,7 +98513,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-09/remember-orkut-its-founder-wants-to-bring-it-back-techcrunch.png",
       "metadata_file": "output/2026-10-09/remember-orkut-its-founder-wants-to-bring-it-back-techcrunch.json",
-      "published_at_utc": "2026-10-09T16:49:27Z",
+      "published_at_utc": "2026-10-09T16:49:33Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/watch-the-trailer-for-the-altruists-netflix-s-show-about-the-ftx-scand.png": {
