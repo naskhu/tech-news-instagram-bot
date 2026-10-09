@@ -98242,12 +98242,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/danu-robotics-fight-to-build-a-better-recycling-robot.png": {
-      "buffer_due_at_utc": "2026-10-09T16:49:59.000Z",
+      "buffer_due_at_utc": "2026-10-09T16:51:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac91b0bcb5a8140da222a55",
+      "buffer_post_id": "6ac91b11810582311aea7cb6",
       "caption_file": "output/2026-10-09/danu-robotics-fight-to-build-a-better-recycling-robot.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-09T16:51:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac91b11810582311aea7cb6",
+          "published_at_utc": "2026-10-09T16:49:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-09T16:49:59.000Z",
           "buffer_mode": "customScheduled",
@@ -98257,7 +98263,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-09/danu-robotics-fight-to-build-a-better-recycling-robot.png",
       "metadata_file": "output/2026-10-09/danu-robotics-fight-to-build-a-better-recycling-robot.json",
-      "published_at_utc": "2026-10-09T16:49:16Z",
+      "published_at_utc": "2026-10-09T16:49:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/elon-musk-questions-ambani-s-influence-as-starlink-india-launch-stalls.png": {
