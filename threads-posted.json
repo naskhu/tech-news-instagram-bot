@@ -98192,12 +98192,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-09T02:45:27.000Z",
+      "buffer_due_at_utc": "2026-10-09T02:47:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac8551a04f06b2e8f76c4fd",
+      "buffer_post_id": "6ac855207d9f9f3301213656",
       "caption_file": "output/2026-10-09/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-09T02:47:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac855207d9f9f3301213656",
+          "published_at_utc": "2026-10-09T02:44:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-09T02:45:27.000Z",
           "buffer_mode": "customScheduled",
@@ -98207,7 +98213,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-09/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed-techcrunch.png",
       "metadata_file": "output/2026-10-09/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed-techcrunch.json",
-      "published_at_utc": "2026-10-09T02:44:43Z",
+      "published_at_utc": "2026-10-09T02:44:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chil.png": {
