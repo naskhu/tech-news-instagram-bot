@@ -98291,6 +98291,25 @@
       "published_at_utc": "2026-10-09T02:45:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-09/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuatio.png": {
+      "buffer_due_at_utc": "2026-10-09T03:42:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac8553d04f06b2e8f76cb10",
+      "caption_file": "output/2026-10-09/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuatio.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-09T03:42:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac8553d04f06b2e8f76cb10",
+          "published_at_utc": "2026-10-09T02:45:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-09/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuatio.png",
+      "metadata_file": "output/2026-10-09/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuatio.json",
+      "published_at_utc": "2026-10-09T02:45:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-09/president-trump-awards-big-tech-donors-with-nation-s-highest-science-p.png": {
       "buffer_due_at_utc": "2026-10-08T23:09:38.000Z",
       "buffer_mode": "customScheduled",
