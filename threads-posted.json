@@ -98590,6 +98590,25 @@
       "metadata_file": "output/2026-10-09/we-can-t-help-treating-ai-like-it-s-human-but-should-we-techcrunch.json",
       "published_at_utc": "2026-10-09T16:49:56Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-10/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police.png": {
+      "buffer_due_at_utc": "2026-10-09T21:29:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac95c71b07d37ac9750b0d1",
+      "caption_file": "output/2026-10-10/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-09T21:29:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac95c71b07d37ac9750b0d1",
+          "published_at_utc": "2026-10-09T21:28:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police.png",
+      "metadata_file": "output/2026-10-10/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police.json",
+      "published_at_utc": "2026-10-09T21:28:17Z",
+      "publisher": "buffer_threads"
     }
   }
 }
