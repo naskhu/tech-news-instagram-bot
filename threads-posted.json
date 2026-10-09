@@ -98342,12 +98342,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/openai-s-math-solutions-aren-t-meeting-the-field-s-standards-yet-techc.png": {
-      "buffer_due_at_utc": "2026-10-09T10:54:34.000Z",
+      "buffer_due_at_utc": "2026-10-09T10:56:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac8ba9344e5efbcc599aefa",
+      "buffer_post_id": "6ac8ba980949e66c891996be",
       "caption_file": "output/2026-10-09/openai-s-math-solutions-aren-t-meeting-the-field-s-standards-yet-techc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-09T10:56:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac8ba980949e66c891996be",
+          "published_at_utc": "2026-10-09T09:57:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-09T10:54:34.000Z",
           "buffer_mode": "customScheduled",
@@ -98357,7 +98363,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-09/openai-s-math-solutions-aren-t-meeting-the-field-s-standards-yet-techc.png",
       "metadata_file": "output/2026-10-09/openai-s-math-solutions-aren-t-meeting-the-field-s-standards-yet-techc.json",
-      "published_at_utc": "2026-10-09T09:57:39Z",
+      "published_at_utc": "2026-10-09T09:57:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-09/openai-s-revenue-is-reportedly-20-billion-less-than-previously-project.png": {
