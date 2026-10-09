@@ -98667,12 +98667,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/techcrunch-disrupt-2026-gamma-s-grant-lee-engine-s-elia-wallen-and-gv-.png": {
-      "buffer_due_at_utc": "2026-10-09T22:25:46.000Z",
+      "buffer_due_at_utc": "2026-10-09T22:27:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac95c92b07d37ac9750b3c1",
+      "buffer_post_id": "6ac95c97bba9419ccbdfeaec",
       "caption_file": "output/2026-10-10/techcrunch-disrupt-2026-gamma-s-grant-lee-engine-s-elia-wallen-and-gv-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-09T22:27:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac95c97bba9419ccbdfeaec",
+          "published_at_utc": "2026-10-09T21:28:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-09T22:25:46.000Z",
           "buffer_mode": "customScheduled",
@@ -98682,7 +98688,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/techcrunch-disrupt-2026-gamma-s-grant-lee-engine-s-elia-wallen-and-gv-.png",
       "metadata_file": "output/2026-10-10/techcrunch-disrupt-2026-gamma-s-grant-lee-engine-s-elia-wallen-and-gv-.json",
-      "published_at_utc": "2026-10-09T21:28:50Z",
+      "published_at_utc": "2026-10-09T21:28:55Z",
       "publisher": "buffer_threads"
     }
   }
