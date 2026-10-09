@@ -98191,6 +98191,25 @@
       "published_at_utc": "2026-10-07T19:34:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-09/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interfe.png": {
+      "buffer_due_at_utc": "2026-10-09T09:57:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac8ba700949e66c8919909e",
+      "caption_file": "output/2026-10-09/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interfe.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-09T09:57:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac8ba700949e66c8919909e",
+          "published_at_utc": "2026-10-09T09:57:05Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-09/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interfe.png",
+      "metadata_file": "output/2026-10-09/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interfe.json",
+      "published_at_utc": "2026-10-09T09:57:05Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-09/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-09T02:47:27.000Z",
       "buffer_mode": "customScheduled",
