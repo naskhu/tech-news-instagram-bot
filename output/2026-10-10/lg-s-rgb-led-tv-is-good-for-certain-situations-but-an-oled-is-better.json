@@ -1,0 +1,23 @@
+{
+  "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+  "summary": "RGB LED TVs have a color filter, too, but since the backlight is already creating color based on what’s needed onscreen, the color filter doesn’t need to work as hard to dial that in.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+  "published_utc": "2026-10-10T13:00:00+00:00",
+  "output_day": "2026-10-10",
+  "date_source": "meta",
+  "generated_utc": "2026-10-10T13:49:02.859984+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268807_LG_MRGB95B_RGB_LED_TV_review_JHIGGINS_3.jpg?quality=90&strip=all&crop=0%2C9.7825788181082%2C100%2C78.534031413613&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-10-10/lg-s-rgb-led-tv-is-good-for-certain-situations-but-an-oled-is-better.png",
+  "caption": "output/2026-10-10/lg-s-rgb-led-tv-is-good-for-certain-situations-but-an-oled-is-better.txt"
+}
