@@ -98742,12 +98742,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/dj-mehdi-gets-a-square-named-after-him-in-paris.png": {
-      "buffer_due_at_utc": "2026-10-10T14:10:19.000Z",
+      "buffer_due_at_utc": "2026-10-10T14:12:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aca42bcbba9419ccb03d1a4",
+      "buffer_post_id": "6aca42c1c4de2d2b122bb55d",
       "caption_file": "output/2026-10-10/dj-mehdi-gets-a-square-named-after-him-in-paris.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-10T14:12:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aca42c1c4de2d2b122bb55d",
+          "published_at_utc": "2026-10-10T13:50:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-10T14:10:19.000Z",
           "buffer_mode": "customScheduled",
@@ -98757,7 +98763,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/dj-mehdi-gets-a-square-named-after-him-in-paris.png",
       "metadata_file": "output/2026-10-10/dj-mehdi-gets-a-square-named-after-him-in-paris.json",
-      "published_at_utc": "2026-10-10T13:50:52Z",
+      "published_at_utc": "2026-10-10T13:50:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-dela.png": {
