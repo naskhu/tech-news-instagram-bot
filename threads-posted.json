@@ -98842,12 +98842,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-.png": {
-      "buffer_due_at_utc": "2026-10-10T08:14:46.000Z",
+      "buffer_due_at_utc": "2026-10-10T08:16:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac9e69ebba9419ccbf31fc3",
+      "buffer_post_id": "6ac9e6a3ed92ed8fa5bdf6e2",
       "caption_file": "output/2026-10-10/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-10T08:16:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac9e6a3ed92ed8fa5bdf6e2",
+          "published_at_utc": "2026-10-10T07:17:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-10T08:14:46.000Z",
           "buffer_mode": "customScheduled",
@@ -98857,7 +98863,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-.png",
       "metadata_file": "output/2026-10-10/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-.json",
-      "published_at_utc": "2026-10-10T07:17:50Z",
+      "published_at_utc": "2026-10-10T07:17:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-lau.png": {
