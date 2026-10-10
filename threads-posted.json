@@ -98692,12 +98692,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/long-live-the-mechanical-keyboard-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-10T01:54:56.000Z",
+      "buffer_due_at_utc": "2026-10-10T01:56:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ac991faed92ed8fa5b261c1",
+      "buffer_post_id": "6ac991ffbba9419ccbe79e46",
       "caption_file": "output/2026-10-10/long-live-the-mechanical-keyboard-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-10T01:56:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac991ffbba9419ccbe79e46",
+          "published_at_utc": "2026-10-10T01:16:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-10T01:54:56.000Z",
           "buffer_mode": "customScheduled",
@@ -98707,7 +98713,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/long-live-the-mechanical-keyboard-techcrunch.png",
       "metadata_file": "output/2026-10-10/long-live-the-mechanical-keyboard-techcrunch.json",
-      "published_at_utc": "2026-10-10T01:16:42Z",
+      "published_at_utc": "2026-10-10T01:16:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/lumenus-helps-automate-tedious-paperwork-in-times-of-grief-techcrunch.png": {
