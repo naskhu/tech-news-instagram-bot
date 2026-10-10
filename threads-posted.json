@@ -99153,6 +99153,25 @@
       "metadata_file": "output/2026-10-11/microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake.json",
       "published_at_utc": "2026-10-10T21:52:13Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-11/nicolas-cage-says-he-probably-won-t-work-with-amazon-again-over-ai-con.png": {
+      "buffer_due_at_utc": "2026-10-10T22:49:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acab392bba9419ccb1753d7",
+      "caption_file": "output/2026-10-11/nicolas-cage-says-he-probably-won-t-work-with-amazon-again-over-ai-con.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-10T22:49:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acab392bba9419ccb1753d7",
+          "published_at_utc": "2026-10-10T21:52:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/nicolas-cage-says-he-probably-won-t-work-with-amazon-again-over-ai-con.png",
+      "metadata_file": "output/2026-10-11/nicolas-cage-says-he-probably-won-t-work-with-amazon-again-over-ai-con.json",
+      "published_at_utc": "2026-10-10T21:52:18Z",
+      "publisher": "buffer_threads"
     }
   }
 }
