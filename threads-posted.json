@@ -98965,6 +98965,25 @@
       "metadata_file": "output/2026-10-10/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-lau.json",
       "published_at_utc": "2026-10-10T01:16:58Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-10/the-techlash-has-gone-hollywood.png": {
+      "buffer_due_at_utc": "2026-10-10T14:48:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aca42d3d9cab260a7c71d1d",
+      "caption_file": "output/2026-10-10/the-techlash-has-gone-hollywood.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-10T14:48:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aca42d3d9cab260a7c71d1d",
+          "published_at_utc": "2026-10-10T13:51:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/the-techlash-has-gone-hollywood.png",
+      "metadata_file": "output/2026-10-10/the-techlash-has-gone-hollywood.json",
+      "published_at_utc": "2026-10-10T13:51:15Z",
+      "publisher": "buffer_threads"
     }
   }
 }
