@@ -98741,6 +98741,25 @@
       "published_at_utc": "2026-10-10T07:17:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-10/exclusive-automattic-loses-its-interim-cfo-just-weeks-after-boardroom-.png": {
+      "buffer_due_at_utc": "2026-10-10T07:55:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac9e693ed92ed8fa5bdf4d5",
+      "caption_file": "output/2026-10-10/exclusive-automattic-loses-its-interim-cfo-just-weeks-after-boardroom-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-10T07:55:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac9e693ed92ed8fa5bdf4d5",
+          "published_at_utc": "2026-10-10T07:17:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/exclusive-automattic-loses-its-interim-cfo-just-weeks-after-boardroom-.png",
+      "metadata_file": "output/2026-10-10/exclusive-automattic-loses-its-interim-cfo-just-weeks-after-boardroom-.json",
+      "published_at_utc": "2026-10-10T07:17:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-10/long-live-the-mechanical-keyboard-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-10T01:56:56.000Z",
       "buffer_mode": "customScheduled",
