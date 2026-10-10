@@ -98862,10 +98862,15 @@
     },
     "output/2026-10-10/here-are-the-top-ai-agents-that-can-live-in-your-text-messages-techcru.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aca809af91f772d45a1b69a",
+      "buffer_post_id": "6aca80a9bba9419ccb0fb8a6",
       "caption_file": "output/2026-10-10/here-are-the-top-ai-agents-that-can-live-in-your-text-messages-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aca80a9bba9419ccb0fb8a6",
+          "published_at_utc": "2026-10-10T18:15:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aca809af91f772d45a1b69a",
@@ -98874,7 +98879,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/here-are-the-top-ai-agents-that-can-live-in-your-text-messages-techcru.png",
       "metadata_file": "output/2026-10-10/here-are-the-top-ai-agents-that-can-live-in-your-text-messages-techcru.json",
-      "published_at_utc": "2026-10-10T18:15:00Z",
+      "published_at_utc": "2026-10-10T18:15:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/lg-s-rgb-led-tv-is-good-for-certain-situations-but-an-oled-is-better.png": {
