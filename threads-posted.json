@@ -98591,6 +98591,23 @@
       "published_at_utc": "2026-10-09T16:49:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream-te.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6aca805dd9cab260a7d2de06",
+      "caption_file": "output/2026-10-10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream-te.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aca805dd9cab260a7d2de06",
+          "published_at_utc": "2026-10-10T18:13:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream-te.png",
+      "metadata_file": "output/2026-10-10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream-te.json",
+      "published_at_utc": "2026-10-10T18:13:59Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-10/a16z-s-olivia-moore-on-the-state-of-consumer-ai-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-10T01:19:06.000Z",
       "buffer_mode": "customScheduled",
