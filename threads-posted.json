@@ -98959,10 +98959,15 @@
     },
     "output/2026-10-10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-veh.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aca80b8c4de2d2b12377ed0",
+      "buffer_post_id": "6aca80c7ed92ed8fa5da2904",
       "caption_file": "output/2026-10-10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-veh.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aca80c7ed92ed8fa5da2904",
+          "published_at_utc": "2026-10-10T18:15:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aca80b8c4de2d2b12377ed0",
@@ -98971,7 +98976,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-veh.png",
       "metadata_file": "output/2026-10-10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-veh.json",
-      "published_at_utc": "2026-10-10T18:15:31Z",
+      "published_at_utc": "2026-10-10T18:15:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/techcrunch-disrupt-2026-gamma-s-grant-lee-engine-s-elia-wallen-and-gv-.png": {
