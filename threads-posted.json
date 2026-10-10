@@ -98716,6 +98716,25 @@
       "published_at_utc": "2026-10-10T07:17:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-10/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-dela.png": {
+      "buffer_due_at_utc": "2026-10-10T07:36:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac9e688ed92ed8fa5bdf284",
+      "caption_file": "output/2026-10-10/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-dela.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-10T07:36:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac9e688ed92ed8fa5bdf284",
+          "published_at_utc": "2026-10-10T07:17:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-dela.png",
+      "metadata_file": "output/2026-10-10/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-dela.json",
+      "published_at_utc": "2026-10-10T07:17:28Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-10/long-live-the-mechanical-keyboard-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-10T01:56:56.000Z",
       "buffer_mode": "customScheduled",
