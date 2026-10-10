@@ -98967,12 +98967,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/the-techlash-has-gone-hollywood.png": {
-      "buffer_due_at_utc": "2026-10-10T14:48:09.000Z",
+      "buffer_due_at_utc": "2026-10-10T14:50:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aca42d3d9cab260a7c71d1d",
+      "buffer_post_id": "6aca42d9d9cab260a7c71da8",
       "caption_file": "output/2026-10-10/the-techlash-has-gone-hollywood.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-10T14:50:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aca42d9d9cab260a7c71da8",
+          "published_at_utc": "2026-10-10T13:51:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-10T14:48:09.000Z",
           "buffer_mode": "customScheduled",
@@ -98982,7 +98988,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/the-techlash-has-gone-hollywood.png",
       "metadata_file": "output/2026-10-10/the-techlash-has-gone-hollywood.json",
-      "published_at_utc": "2026-10-10T13:51:15Z",
+      "published_at_utc": "2026-10-10T13:51:21Z",
       "publisher": "buffer_threads"
     }
   }
