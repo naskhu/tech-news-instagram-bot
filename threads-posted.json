@@ -98817,12 +98817,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/lg-s-rgb-led-tv-is-good-for-certain-situations-but-an-oled-is-better.png": {
-      "buffer_due_at_utc": "2026-10-10T14:29:14.000Z",
+      "buffer_due_at_utc": "2026-10-10T14:31:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aca42c7bba9419ccb03d25f",
+      "buffer_post_id": "6aca42cded92ed8fa5ce5c0b",
       "caption_file": "output/2026-10-10/lg-s-rgb-led-tv-is-good-for-certain-situations-but-an-oled-is-better.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-10T14:31:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aca42cded92ed8fa5ce5c0b",
+          "published_at_utc": "2026-10-10T13:51:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-10T14:29:14.000Z",
           "buffer_mode": "customScheduled",
@@ -98832,7 +98838,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/lg-s-rgb-led-tv-is-good-for-certain-situations-but-an-oled-is-better.png",
       "metadata_file": "output/2026-10-10/lg-s-rgb-led-tv-is-good-for-certain-situations-but-an-oled-is-better.json",
-      "published_at_utc": "2026-10-10T13:51:03Z",
+      "published_at_utc": "2026-10-10T13:51:09Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-10/long-live-the-mechanical-keyboard-techcrunch.png": {
