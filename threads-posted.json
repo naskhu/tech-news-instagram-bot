@@ -98641,6 +98641,25 @@
       "published_at_utc": "2026-10-09T21:28:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-10/anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-in.png": {
+      "buffer_due_at_utc": "2026-10-10T01:36:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ac991f0f91f772d4579ce8b",
+      "caption_file": "output/2026-10-10/anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-in.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-10T01:36:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ac991f0f91f772d4579ce8b",
+          "published_at_utc": "2026-10-10T01:16:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-10/anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-in.png",
+      "metadata_file": "output/2026-10-10/anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-in.json",
+      "published_at_utc": "2026-10-10T01:16:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-10/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-.png": {
       "buffer_due_at_utc": "2026-10-09T21:49:56.000Z",
       "buffer_mode": "customScheduled",
