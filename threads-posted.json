@@ -99155,12 +99155,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-11/goodreads-finally-adds-half-star-and-quarter-star-ratings.png": {
-      "buffer_due_at_utc": "2026-10-11T06:48:21.000Z",
+      "buffer_due_at_utc": "2026-10-11T06:50:21.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acb2ca6f91f772d45bb272c",
+      "buffer_post_id": "6acb2cabbba9419ccb2842df",
       "caption_file": "output/2026-10-11/goodreads-finally-adds-half-star-and-quarter-star-ratings.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-11T06:50:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acb2cabbba9419ccb2842df",
+          "published_at_utc": "2026-10-11T06:28:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-11T06:48:21.000Z",
           "buffer_mode": "customScheduled",
@@ -99170,7 +99176,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/goodreads-finally-adds-half-star-and-quarter-star-ratings.png",
       "metadata_file": "output/2026-10-11/goodreads-finally-adds-half-star-and-quarter-star-ratings.json",
-      "published_at_utc": "2026-10-11T06:28:54Z",
+      "published_at_utc": "2026-10-11T06:28:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-11/k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos.png": {
