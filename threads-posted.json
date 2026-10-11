@@ -99154,6 +99154,25 @@
       "published_at_utc": "2026-10-10T21:52:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-11/goodreads-finally-adds-half-star-and-quarter-star-ratings.png": {
+      "buffer_due_at_utc": "2026-10-11T06:48:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acb2ca6f91f772d45bb272c",
+      "caption_file": "output/2026-10-11/goodreads-finally-adds-half-star-and-quarter-star-ratings.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-11T06:48:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acb2ca6f91f772d45bb272c",
+          "published_at_utc": "2026-10-11T06:28:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/goodreads-finally-adds-half-star-and-quarter-star-ratings.png",
+      "metadata_file": "output/2026-10-11/goodreads-finally-adds-half-star-and-quarter-star-ratings.json",
+      "published_at_utc": "2026-10-11T06:28:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-11/k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos.png": {
       "buffer_due_at_utc": "2026-10-11T00:44:50.000Z",
       "buffer_mode": "customScheduled",
