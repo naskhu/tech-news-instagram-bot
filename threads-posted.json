@@ -99079,6 +99079,25 @@
       "published_at_utc": "2026-10-10T13:51:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-11/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet.png": {
+      "buffer_due_at_utc": "2026-10-11T06:29:26.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acb2c9ad9cab260a7eb5bdb",
+      "caption_file": "output/2026-10-11/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-11T06:29:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acb2c9ad9cab260a7eb5bdb",
+          "published_at_utc": "2026-10-11T06:28:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet.png",
+      "metadata_file": "output/2026-10-11/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet.json",
+      "published_at_utc": "2026-10-11T06:28:42Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-11/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-p.png": {
       "buffer_due_at_utc": "2026-10-10T21:54:31.000Z",
       "buffer_mode": "customScheduled",
