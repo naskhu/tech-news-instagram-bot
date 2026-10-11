@@ -99155,12 +99155,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-11/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts.png": {
-      "buffer_due_at_utc": "2026-10-11T01:01:45.000Z",
+      "buffer_due_at_utc": "2026-10-11T01:03:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acadb69f91f772d45af6b71",
+      "buffer_post_id": "6acadb6eb07d37ac978e8926",
       "caption_file": "output/2026-10-11/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-11T01:03:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acadb6eb07d37ac978e8926",
+          "published_at_utc": "2026-10-11T00:42:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-11T01:01:45.000Z",
           "buffer_mode": "customScheduled",
@@ -99170,7 +99176,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts.png",
       "metadata_file": "output/2026-10-11/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts.json",
-      "published_at_utc": "2026-10-11T00:42:17Z",
+      "published_at_utc": "2026-10-11T00:42:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-11/microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake.png": {
