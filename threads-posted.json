@@ -99230,12 +99230,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-11/remember-when-tom-hanks-incredulously-roasted-sony-at-its-own-ces-keyn.png": {
-      "buffer_due_at_utc": "2026-10-11T01:20:40.000Z",
+      "buffer_due_at_utc": "2026-10-11T01:22:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acadb74ed92ed8fa5e7e973",
+      "buffer_post_id": "6acadb79ed92ed8fa5e7e9ef",
       "caption_file": "output/2026-10-11/remember-when-tom-hanks-incredulously-roasted-sony-at-its-own-ces-keyn.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-11T01:22:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acadb79ed92ed8fa5e7e9ef",
+          "published_at_utc": "2026-10-11T00:42:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-11T01:20:40.000Z",
           "buffer_mode": "customScheduled",
@@ -99245,7 +99251,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/remember-when-tom-hanks-incredulously-roasted-sony-at-its-own-ces-keyn.png",
       "metadata_file": "output/2026-10-11/remember-when-tom-hanks-incredulously-roasted-sony-at-its-own-ces-keyn.json",
-      "published_at_utc": "2026-10-11T00:42:28Z",
+      "published_at_utc": "2026-10-11T00:42:33Z",
       "publisher": "buffer_threads"
     }
   }
