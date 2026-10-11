@@ -99129,6 +99129,25 @@
       "published_at_utc": "2026-10-10T21:52:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-11/k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos.png": {
+      "buffer_due_at_utc": "2026-10-11T00:42:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acadb5ded92ed8fa5e7e4ff",
+      "caption_file": "output/2026-10-11/k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-11T00:42:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acadb5ded92ed8fa5e7e4ff",
+          "published_at_utc": "2026-10-11T00:42:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos.png",
+      "metadata_file": "output/2026-10-11/k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos.json",
+      "published_at_utc": "2026-10-11T00:42:06Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-11/microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake.png": {
       "buffer_due_at_utc": "2026-10-10T22:32:21.000Z",
       "buffer_mode": "customScheduled",
