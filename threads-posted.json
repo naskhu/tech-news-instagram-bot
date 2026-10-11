@@ -99253,6 +99253,25 @@
       "metadata_file": "output/2026-10-11/remember-when-tom-hanks-incredulously-roasted-sony-at-its-own-ces-keyn.json",
       "published_at_utc": "2026-10-11T00:42:33Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-11/satya-nadella-says-we-should-assume-all-ai-models-are-compromised.png": {
+      "buffer_due_at_utc": "2026-10-11T01:39:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acadb7fbba9419ccb1d1a3c",
+      "caption_file": "output/2026-10-11/satya-nadella-says-we-should-assume-all-ai-models-are-compromised.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-11T01:39:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acadb7fbba9419ccb1d1a3c",
+          "published_at_utc": "2026-10-11T00:42:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/satya-nadella-says-we-should-assume-all-ai-models-are-compromised.png",
+      "metadata_file": "output/2026-10-11/satya-nadella-says-we-should-assume-all-ai-models-are-compromised.json",
+      "published_at_utc": "2026-10-11T00:42:39Z",
+      "publisher": "buffer_threads"
     }
   }
 }
