@@ -99254,6 +99254,25 @@
       "published_at_utc": "2026-10-10T21:52:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-11/my-brief-romance-with-an-ai-bird-feeder.png": {
+      "buffer_due_at_utc": "2026-10-11T07:07:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acb2cb1c4de2d2b12506ab1",
+      "caption_file": "output/2026-10-11/my-brief-romance-with-an-ai-bird-feeder.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-11T07:07:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acb2cb1c4de2d2b12506ab1",
+          "published_at_utc": "2026-10-11T06:29:05Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/my-brief-romance-with-an-ai-bird-feeder.png",
+      "metadata_file": "output/2026-10-11/my-brief-romance-with-an-ai-bird-feeder.json",
+      "published_at_utc": "2026-10-11T06:29:05Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-11/nicolas-cage-says-he-probably-won-t-work-with-amazon-again-over-ai-con.png": {
       "buffer_due_at_utc": "2026-10-10T22:51:16.000Z",
       "buffer_mode": "customScheduled",
