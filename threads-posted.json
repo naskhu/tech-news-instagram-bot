@@ -99353,6 +99353,25 @@
       "metadata_file": "output/2026-10-11/satya-nadella-says-we-should-assume-all-ai-models-are-compromised.json",
       "published_at_utc": "2026-10-11T00:42:44Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.png": {
+      "buffer_due_at_utc": "2026-10-11T07:26:11.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acb2cbdbba9419ccb28449a",
+      "caption_file": "output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-11T07:26:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acb2cbdbba9419ccb28449a",
+          "published_at_utc": "2026-10-11T06:29:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.png",
+      "metadata_file": "output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.json",
+      "published_at_utc": "2026-10-11T06:29:17Z",
+      "publisher": "buffer_threads"
     }
   }
 }
