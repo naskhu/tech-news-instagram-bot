@@ -99448,6 +99448,23 @@
       "published_at_utc": "2026-10-11T00:42:44Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks-techcru.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6acbd5c9ea568e911a395565",
+      "caption_file": "output/2026-10-11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks-techcru.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6acbd5c9ea568e911a395565",
+          "published_at_utc": "2026-10-11T18:30:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks-techcru.png",
+      "metadata_file": "output/2026-10-11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks-techcru.json",
+      "published_at_utc": "2026-10-11T18:30:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.png": {
       "buffer_due_at_utc": "2026-10-11T07:28:11.000Z",
       "buffer_mode": "customScheduled",
