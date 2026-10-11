@@ -99355,12 +99355,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.png": {
-      "buffer_due_at_utc": "2026-10-11T07:26:11.000Z",
+      "buffer_due_at_utc": "2026-10-11T07:28:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acb2cbdbba9419ccb28449a",
+      "buffer_post_id": "6acb2cc3d9cab260a7eb5ea6",
       "caption_file": "output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-11T07:28:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acb2cc3d9cab260a7eb5ea6",
+          "published_at_utc": "2026-10-11T06:29:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-11T07:26:11.000Z",
           "buffer_mode": "customScheduled",
@@ -99370,7 +99376,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.png",
       "metadata_file": "output/2026-10-11/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body.json",
-      "published_at_utc": "2026-10-11T06:29:17Z",
+      "published_at_utc": "2026-10-11T06:29:23Z",
       "publisher": "buffer_threads"
     }
   }
