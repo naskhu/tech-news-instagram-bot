@@ -99430,12 +99430,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-11/vurt-wants-you-to-look-at-vertical-videos-as-a-genre-of-their-own.png": {
-      "buffer_due_at_utc": "2026-10-11T14:10:09.000Z",
+      "buffer_due_at_utc": "2026-10-11T14:12:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acb8fceb07d37ac97aa1ccd",
+      "buffer_post_id": "6acb8fd4d9cab260a7fbc5af",
       "caption_file": "output/2026-10-11/vurt-wants-you-to-look-at-vertical-videos-as-a-genre-of-their-own.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-11T14:12:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acb8fd4d9cab260a7fbc5af",
+          "published_at_utc": "2026-10-11T13:32:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-11T14:10:09.000Z",
           "buffer_mode": "customScheduled",
@@ -99445,7 +99451,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/vurt-wants-you-to-look-at-vertical-videos-as-a-genre-of-their-own.png",
       "metadata_file": "output/2026-10-11/vurt-wants-you-to-look-at-vertical-videos-as-a-genre-of-their-own.json",
-      "published_at_utc": "2026-10-11T13:31:59Z",
+      "published_at_utc": "2026-10-11T13:32:04Z",
       "publisher": "buffer_threads"
     }
   }
