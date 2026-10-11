@@ -99229,6 +99229,25 @@
       "published_at_utc": "2026-10-11T00:42:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-11/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating.png": {
+      "buffer_due_at_utc": "2026-10-11T13:51:14.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acb8fc3c4de2d2b12613bc4",
+      "caption_file": "output/2026-10-11/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-11T13:51:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acb8fc3c4de2d2b12613bc4",
+          "published_at_utc": "2026-10-11T13:31:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-11/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating.png",
+      "metadata_file": "output/2026-10-11/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating.json",
+      "published_at_utc": "2026-10-11T13:31:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-11/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts.png": {
       "buffer_due_at_utc": "2026-10-11T01:03:45.000Z",
       "buffer_mode": "customScheduled",
