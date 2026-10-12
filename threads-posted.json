@@ -99593,12 +99593,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-12/a-college-in-illinois-tried-to-cancel-its-flock-contact-and-it-refused.png": {
-      "buffer_due_at_utc": "2026-10-12T08:29:25.000Z",
+      "buffer_due_at_utc": "2026-10-12T08:31:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acc9a395feb3462de97c863",
+      "buffer_post_id": "6acc9a3edd062ea3c8196b69",
       "caption_file": "output/2026-10-12/a-college-in-illinois-tried-to-cancel-its-flock-contact-and-it-refused.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-12T08:31:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acc9a3edd062ea3c8196b69",
+          "published_at_utc": "2026-10-12T08:28:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-12T08:29:25.000Z",
           "buffer_mode": "customScheduled",
@@ -99608,7 +99614,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-12/a-college-in-illinois-tried-to-cancel-its-flock-contact-and-it-refused.png",
       "metadata_file": "output/2026-10-12/a-college-in-illinois-tried-to-cancel-its-flock-contact-and-it-refused.json",
-      "published_at_utc": "2026-10-12T08:28:41Z",
+      "published_at_utc": "2026-10-12T08:28:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-12/aaron-sorkin-s-social-reckoning-is-off-to-a-weak-start-techcrunch.png": {
