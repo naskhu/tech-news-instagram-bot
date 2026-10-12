@@ -99642,6 +99642,25 @@
       "published_at_utc": "2026-10-11T22:29:41Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-12/did-russian-bot-traffic-really-disappear-after-ukrainian-strikes-on-ya.png": {
+      "buffer_due_at_utc": "2026-10-12T08:48:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acc9a44a2941ce81768679e",
+      "caption_file": "output/2026-10-12/did-russian-bot-traffic-really-disappear-after-ukrainian-strikes-on-ya.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-12T08:48:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acc9a44a2941ce81768679e",
+          "published_at_utc": "2026-10-12T08:28:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-12/did-russian-bot-traffic-really-disappear-after-ukrainian-strikes-on-ya.png",
+      "metadata_file": "output/2026-10-12/did-russian-bot-traffic-really-disappear-after-ukrainian-strikes-on-ya.json",
+      "published_at_utc": "2026-10-12T08:28:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-12/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis-te.png": {
       "buffer_due_at_utc": "2026-10-12T01:50:37.000Z",
       "buffer_mode": "customScheduled",
