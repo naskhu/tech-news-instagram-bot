@@ -99719,10 +99719,15 @@
     },
     "output/2026-10-12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company-tech.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6acd23b86082b70707584db8",
+      "buffer_post_id": "6acd2e14fc09a06c324e5cbb",
       "caption_file": "output/2026-10-12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6acd2e14fc09a06c324e5cbb",
+          "published_at_utc": "2026-10-12T18:59:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6acd23b86082b70707584db8",
@@ -99731,7 +99736,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company-tech.png",
       "metadata_file": "output/2026-10-12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company-tech.json",
-      "published_at_utc": "2026-10-12T18:15:30Z",
+      "published_at_utc": "2026-10-12T18:59:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-12/nine-desk-gadgets-that-can-make-your-workday-better-techcrunch.png": {
