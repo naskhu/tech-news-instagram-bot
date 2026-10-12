@@ -99668,12 +99668,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-12/dungeon-crawler-carl-is-getting-a-live-action-series.png": {
-      "buffer_due_at_utc": "2026-10-12T09:07:15.000Z",
+      "buffer_due_at_utc": "2026-10-12T09:09:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acc9a4ec5fdc4c02d0e256e",
+      "buffer_post_id": "6acc9a54802e657d5c3f4490",
       "caption_file": "output/2026-10-12/dungeon-crawler-carl-is-getting-a-live-action-series.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-12T09:09:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acc9a54802e657d5c3f4490",
+          "published_at_utc": "2026-10-12T08:29:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-12T09:07:15.000Z",
           "buffer_mode": "customScheduled",
@@ -99683,7 +99689,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-12/dungeon-crawler-carl-is-getting-a-live-action-series.png",
       "metadata_file": "output/2026-10-12/dungeon-crawler-carl-is-getting-a-live-action-series.json",
-      "published_at_utc": "2026-10-12T08:29:02Z",
+      "published_at_utc": "2026-10-12T08:29:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-12/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis-te.png": {
