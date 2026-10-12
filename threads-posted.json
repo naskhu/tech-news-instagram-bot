@@ -99692,6 +99692,25 @@
       "published_at_utc": "2026-10-12T01:48:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-12/these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet-techc.png": {
+      "buffer_due_at_utc": "2026-10-12T02:26:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acc3c6063ff33d8c9a1b6dc",
+      "caption_file": "output/2026-10-12/these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-12T02:26:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acc3c6063ff33d8c9a1b6dc",
+          "published_at_utc": "2026-10-12T01:48:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-12/these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet-techc.png",
+      "metadata_file": "output/2026-10-12/these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet-techc.json",
+      "published_at_utc": "2026-10-12T01:48:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-12/will-the-homeview-be-apple-s-first-smart-home-success-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-11T23:28:53.000Z",
       "buffer_mode": "customScheduled",
