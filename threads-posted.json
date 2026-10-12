@@ -99742,6 +99742,25 @@
       "published_at_utc": "2026-10-11T22:29:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-12/signal-s-meredith-whittaker-gets-feisty-in-bbc-quick-fire-interview.png": {
+      "buffer_due_at_utc": "2026-10-12T09:26:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acc9a595feb3462de97cb87",
+      "caption_file": "output/2026-10-12/signal-s-meredith-whittaker-gets-feisty-in-bbc-quick-fire-interview.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-12T09:26:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acc9a595feb3462de97cb87",
+          "published_at_utc": "2026-10-12T08:29:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-12/signal-s-meredith-whittaker-gets-feisty-in-bbc-quick-fire-interview.png",
+      "metadata_file": "output/2026-10-12/signal-s-meredith-whittaker-gets-feisty-in-bbc-quick-fire-interview.json",
+      "published_at_utc": "2026-10-12T08:29:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-12/the-founder-s-guide-to-techcrunch-disrupt-2026-everything-you-need-to-.png": {
       "buffer_due_at_utc": "2026-10-12T02:09:32.000Z",
       "buffer_mode": "customScheduled",
