@@ -99987,12 +99987,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-13/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minute.png": {
-      "buffer_due_at_utc": "2026-10-13T01:47:09.000Z",
+      "buffer_due_at_utc": "2026-10-13T01:49:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acd80455229b40e868aa20c",
+      "buffer_post_id": "6acd804ac210c8c6dd41b690",
       "caption_file": "output/2026-10-13/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minute.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-13T01:49:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acd804ac210c8c6dd41b690",
+          "published_at_utc": "2026-10-13T00:50:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-13T01:47:09.000Z",
           "buffer_mode": "customScheduled",
@@ -100002,7 +100008,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-13/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minute.png",
       "metadata_file": "output/2026-10-13/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minute.json",
-      "published_at_utc": "2026-10-13T00:50:13Z",
+      "published_at_utc": "2026-10-13T00:50:18Z",
       "publisher": "buffer_threads"
     }
   }
