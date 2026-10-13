@@ -99912,12 +99912,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-13/fitbit-edge-is-google-s-middle-ground-between-fitbit-air-and-pixel-wat.png": {
-      "buffer_due_at_utc": "2026-10-13T00:50:24.000Z",
+      "buffer_due_at_utc": "2026-10-13T00:52:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acd8023c210c8c6dd41b368",
+      "buffer_post_id": "6acd80293d6121df4037384c",
       "caption_file": "output/2026-10-13/fitbit-edge-is-google-s-middle-ground-between-fitbit-air-and-pixel-wat.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-13T00:52:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acd80293d6121df4037384c",
+          "published_at_utc": "2026-10-13T00:49:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-13T00:50:24.000Z",
           "buffer_mode": "customScheduled",
@@ -99927,7 +99933,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-13/fitbit-edge-is-google-s-middle-ground-between-fitbit-air-and-pixel-wat.png",
       "metadata_file": "output/2026-10-13/fitbit-edge-is-google-s-middle-ground-between-fitbit-air-and-pixel-wat.json",
-      "published_at_utc": "2026-10-13T00:49:39Z",
+      "published_at_utc": "2026-10-13T00:49:45Z",
       "publisher": "buffer_threads"
     }
   }
