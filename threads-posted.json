@@ -100135,6 +100135,25 @@
       "metadata_file": "output/2026-10-14/exclusive-cambridge-heavy-industries-has-been-quietly-building-a-deskt.json",
       "published_at_utc": "2026-10-13T20:47:01Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-14/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets.png": {
+      "buffer_due_at_utc": "2026-10-13T21:06:34.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ace98cab5699de5d7098d83",
+      "caption_file": "output/2026-10-14/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-13T21:06:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ace98cab5699de5d7098d83",
+          "published_at_utc": "2026-10-13T20:47:06Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets.png",
+      "metadata_file": "output/2026-10-14/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets.json",
+      "published_at_utc": "2026-10-13T20:47:06Z",
+      "publisher": "buffer_threads"
     }
   }
 }
