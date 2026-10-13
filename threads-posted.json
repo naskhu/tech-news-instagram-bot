@@ -99985,6 +99985,25 @@
       "metadata_file": "output/2026-10-13/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up.json",
       "published_at_utc": "2026-10-13T00:50:07Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-13/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minute.png": {
+      "buffer_due_at_utc": "2026-10-13T01:47:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acd80455229b40e868aa20c",
+      "caption_file": "output/2026-10-13/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minute.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-13T01:47:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acd80455229b40e868aa20c",
+          "published_at_utc": "2026-10-13T00:50:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-13/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minute.png",
+      "metadata_file": "output/2026-10-13/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minute.json",
+      "published_at_utc": "2026-10-13T00:50:13Z",
+      "publisher": "buffer_threads"
     }
   }
 }
