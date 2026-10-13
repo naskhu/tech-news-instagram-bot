@@ -100012,12 +100012,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-.png": {
-      "buffer_due_at_utc": "2026-10-13T15:49:43.000Z",
+      "buffer_due_at_utc": "2026-10-13T15:51:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ace4a23aae68f5d3cccb5df",
+      "buffer_post_id": "6ace4a2953128ef284b450d5",
       "caption_file": "output/2026-10-13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-13T15:51:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ace4a2953128ef284b450d5",
+          "published_at_utc": "2026-10-13T15:11:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-13T15:49:43.000Z",
           "buffer_mode": "customScheduled",
@@ -100027,7 +100033,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-.png",
       "metadata_file": "output/2026-10-13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-.json",
-      "published_at_utc": "2026-10-13T15:11:32Z",
+      "published_at_utc": "2026-10-13T15:11:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-13/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up.png": {
