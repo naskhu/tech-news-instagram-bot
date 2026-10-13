@@ -100187,12 +100187,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/niobia-takes-the-guesswork-out-of-some-of-tech-s-most-expensive-mistak.png": {
-      "buffer_due_at_utc": "2026-10-13T21:44:24.000Z",
+      "buffer_due_at_utc": "2026-10-13T21:46:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ace98e1b5699de5d70990ec",
+      "buffer_post_id": "6ace98e79d95f50fddb9329a",
       "caption_file": "output/2026-10-14/niobia-takes-the-guesswork-out-of-some-of-tech-s-most-expensive-mistak.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-13T21:46:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ace98e79d95f50fddb9329a",
+          "published_at_utc": "2026-10-13T20:47:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-13T21:44:24.000Z",
           "buffer_mode": "customScheduled",
@@ -100202,7 +100208,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/niobia-takes-the-guesswork-out-of-some-of-tech-s-most-expensive-mistak.png",
       "metadata_file": "output/2026-10-14/niobia-takes-the-guesswork-out-of-some-of-tech-s-most-expensive-mistak.json",
-      "published_at_utc": "2026-10-13T20:47:29Z",
+      "published_at_utc": "2026-10-13T20:47:35Z",
       "publisher": "buffer_threads"
     }
   }
