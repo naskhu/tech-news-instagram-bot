@@ -100537,12 +100537,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-.png": {
-      "buffer_due_at_utc": "2026-10-14T15:37:41.000Z",
+      "buffer_due_at_utc": "2026-10-14T15:39:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acf98d4ad9763be98e5c007",
+      "buffer_post_id": "6acf98da6b5b6837d34172c5",
       "caption_file": "output/2026-10-14/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T15:39:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acf98da6b5b6837d34172c5",
+          "published_at_utc": "2026-10-14T14:59:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T15:37:41.000Z",
           "buffer_mode": "customScheduled",
@@ -100552,7 +100558,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-.png",
       "metadata_file": "output/2026-10-14/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-.json",
-      "published_at_utc": "2026-10-14T14:59:32Z",
+      "published_at_utc": "2026-10-14T14:59:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/science-corporation-implants-its-vision-restoring-chip-in-its-first-st.png": {
