@@ -100212,12 +100212,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-devic.png": {
-      "buffer_due_at_utc": "2026-10-14T05:24:56.000Z",
+      "buffer_due_at_utc": "2026-10-14T05:26:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acf0d99b610c3011fa00acc",
+      "buffer_post_id": "6acf0da0b610c3011fa00c83",
       "caption_file": "output/2026-10-14/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-devic.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T05:26:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acf0da0b610c3011fa00c83",
+          "published_at_utc": "2026-10-14T05:05:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T05:24:56.000Z",
           "buffer_mode": "customScheduled",
@@ -100227,7 +100233,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-devic.png",
       "metadata_file": "output/2026-10-14/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-devic.json",
-      "published_at_utc": "2026-10-14T05:05:30Z",
+      "published_at_utc": "2026-10-14T05:05:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-we.png": {
