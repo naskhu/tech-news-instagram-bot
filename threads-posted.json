@@ -100261,6 +100261,25 @@
       "published_at_utc": "2026-10-14T05:05:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-14/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-air.png": {
+      "buffer_due_at_utc": "2026-10-14T10:21:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acf52fddd6faa9f508a233d",
+      "caption_file": "output/2026-10-14/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-air.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-14T10:21:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acf52fddd6faa9f508a233d",
+          "published_at_utc": "2026-10-14T10:01:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-air.png",
+      "metadata_file": "output/2026-10-14/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-air.json",
+      "published_at_utc": "2026-10-14T10:01:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-14/helix-carbon-says-it-can-make-iron-cheaper-by-recycling-blast-furnace-.png": {
       "buffer_due_at_utc": "2026-10-14T05:45:51.000Z",
       "buffer_mode": "customScheduled",
