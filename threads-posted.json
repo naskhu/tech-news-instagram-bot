@@ -100237,12 +100237,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/helix-carbon-says-it-can-make-iron-cheaper-by-recycling-blast-furnace-.png": {
-      "buffer_due_at_utc": "2026-10-14T05:43:51.000Z",
+      "buffer_due_at_utc": "2026-10-14T05:45:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acf0da61f3f10bcb7b1e7f0",
+      "buffer_post_id": "6acf0dac1f3f10bcb7b1e953",
       "caption_file": "output/2026-10-14/helix-carbon-says-it-can-make-iron-cheaper-by-recycling-blast-furnace-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T05:45:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acf0dac1f3f10bcb7b1e953",
+          "published_at_utc": "2026-10-14T05:05:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T05:43:51.000Z",
           "buffer_mode": "customScheduled",
@@ -100252,7 +100258,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/helix-carbon-says-it-can-make-iron-cheaper-by-recycling-blast-furnace-.png",
       "metadata_file": "output/2026-10-14/helix-carbon-says-it-can-make-iron-cheaper-by-recycling-blast-furnace-.json",
-      "published_at_utc": "2026-10-14T05:05:42Z",
+      "published_at_utc": "2026-10-14T05:05:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-we.png": {
