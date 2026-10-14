@@ -100587,12 +100587,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/scimplify-raises-25m-to-challenge-china-s-grip-on-critical-materials-w.png": {
-      "buffer_due_at_utc": "2026-10-14T15:56:36.000Z",
+      "buffer_due_at_utc": "2026-10-14T15:58:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acf98e04713c18c89d618a1",
+      "buffer_post_id": "6acf98e638098deaf9e5b2fd",
       "caption_file": "output/2026-10-14/scimplify-raises-25m-to-challenge-china-s-grip-on-critical-materials-w.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T15:58:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acf98e638098deaf9e5b2fd",
+          "published_at_utc": "2026-10-14T14:59:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T15:56:36.000Z",
           "buffer_mode": "customScheduled",
@@ -100602,7 +100608,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/scimplify-raises-25m-to-challenge-china-s-grip-on-critical-materials-w.png",
       "metadata_file": "output/2026-10-14/scimplify-raises-25m-to-challenge-china-s-grip-on-critical-materials-w.json",
-      "published_at_utc": "2026-10-14T14:59:44Z",
+      "published_at_utc": "2026-10-14T14:59:50Z",
       "publisher": "buffer_threads"
     }
   }
