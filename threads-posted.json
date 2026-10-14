@@ -100687,12 +100687,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-e.png": {
-      "buffer_due_at_utc": "2026-10-14T23:02:41.000Z",
+      "buffer_due_at_utc": "2026-10-14T23:04:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad001202a2f648468f1a452",
+      "buffer_post_id": "6ad00126097897a778db885d",
       "caption_file": "output/2026-10-15/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-e.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T23:04:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad00126097897a778db885d",
+          "published_at_utc": "2026-10-14T22:24:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T23:02:41.000Z",
           "buffer_mode": "customScheduled",
@@ -100702,7 +100708,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-e.png",
       "metadata_file": "output/2026-10-15/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-e.json",
-      "published_at_utc": "2026-10-14T22:24:32Z",
+      "published_at_utc": "2026-10-14T22:24:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear-t.png": {
