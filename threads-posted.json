@@ -100111,6 +100111,25 @@
       "published_at_utc": "2026-10-13T00:50:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-14/cerebras-ceo-pushes-back-on-ai-doomsday-warnings-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-14T00:08:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acec7e81f3f10bcb7a5f1da",
+      "caption_file": "output/2026-10-14/cerebras-ceo-pushes-back-on-ai-doomsday-warnings-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-14T00:08:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acec7e81f3f10bcb7a5f1da",
+          "published_at_utc": "2026-10-14T00:08:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/cerebras-ceo-pushes-back-on-ai-doomsday-warnings-techcrunch.png",
+      "metadata_file": "output/2026-10-14/cerebras-ceo-pushes-back-on-ai-doomsday-warnings-techcrunch.json",
+      "published_at_utc": "2026-10-14T00:08:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-14/exclusive-cambridge-heavy-industries-has-been-quietly-building-a-deskt.png": {
       "buffer_due_at_utc": "2026-10-13T20:49:39.000Z",
       "buffer_mode": "customScheduled",
