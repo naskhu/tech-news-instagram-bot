@@ -100285,6 +100285,25 @@
       "metadata_file": "output/2026-10-14/niobia-takes-the-guesswork-out-of-some-of-tech-s-most-expensive-mistak.json",
       "published_at_utc": "2026-10-13T20:47:35Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-14/science-corporation-implants-its-vision-restoring-chip-in-its-first-st.png": {
+      "buffer_due_at_utc": "2026-10-14T01:05:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acec80d848c31c809524319",
+      "caption_file": "output/2026-10-14/science-corporation-implants-its-vision-restoring-chip-in-its-first-st.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-14T01:05:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acec80d848c31c809524319",
+          "published_at_utc": "2026-10-14T00:08:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/science-corporation-implants-its-vision-restoring-chip-in-its-first-st.png",
+      "metadata_file": "output/2026-10-14/science-corporation-implants-its-vision-restoring-chip-in-its-first-st.json",
+      "published_at_utc": "2026-10-14T00:08:45Z",
+      "publisher": "buffer_threads"
     }
   }
 }
