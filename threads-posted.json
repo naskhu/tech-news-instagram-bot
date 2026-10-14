@@ -100660,6 +100660,25 @@
       "metadata_file": "output/2026-10-15/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear-t.json",
       "published_at_utc": "2026-10-14T19:12:26Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-15/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillanc.png": {
+      "buffer_due_at_utc": "2026-10-14T19:50:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6acfd41f199c0449d73b500f",
+      "caption_file": "output/2026-10-15/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillanc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-14T19:50:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acfd41f199c0449d73b500f",
+          "published_at_utc": "2026-10-14T19:12:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillanc.png",
+      "metadata_file": "output/2026-10-15/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillanc.json",
+      "published_at_utc": "2026-10-14T19:12:31Z",
+      "publisher": "buffer_threads"
     }
   }
 }
