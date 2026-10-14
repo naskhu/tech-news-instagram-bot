@@ -100187,12 +100187,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-we.png": {
-      "buffer_due_at_utc": "2026-10-14T00:46:42.000Z",
+      "buffer_due_at_utc": "2026-10-14T00:48:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acec800b610c3011f946453",
+      "buffer_post_id": "6acec806f847f2ad9eb79a9d",
       "caption_file": "output/2026-10-14/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-we.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T00:48:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acec806f847f2ad9eb79a9d",
+          "published_at_utc": "2026-10-14T00:08:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T00:46:42.000Z",
           "buffer_mode": "customScheduled",
@@ -100202,7 +100208,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-we.png",
       "metadata_file": "output/2026-10-14/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-we.json",
-      "published_at_utc": "2026-10-14T00:08:33Z",
+      "published_at_utc": "2026-10-14T00:08:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets.png": {
