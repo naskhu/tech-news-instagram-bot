@@ -100637,12 +100637,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear-t.png": {
-      "buffer_due_at_utc": "2026-10-14T19:31:48.000Z",
+      "buffer_due_at_utc": "2026-10-14T19:33:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acfd414bf9402436860bbe1",
+      "buffer_post_id": "6acfd419edcab17b812945f6",
       "caption_file": "output/2026-10-15/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T19:33:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acfd419edcab17b812945f6",
+          "published_at_utc": "2026-10-14T19:12:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T19:31:48.000Z",
           "buffer_mode": "customScheduled",
@@ -100652,7 +100658,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear-t.png",
       "metadata_file": "output/2026-10-15/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear-t.json",
-      "published_at_utc": "2026-10-14T19:12:20Z",
+      "published_at_utc": "2026-10-14T19:12:26Z",
       "publisher": "buffer_threads"
     }
   }
