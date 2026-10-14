@@ -100287,12 +100287,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-.png": {
-      "buffer_due_at_utc": "2026-10-14T10:39:56.000Z",
+      "buffer_due_at_utc": "2026-10-14T10:41:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acf5309dd6faa9f508a2861",
+      "buffer_post_id": "6acf530e4c17f8453734170e",
       "caption_file": "output/2026-10-14/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T10:41:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acf530e4c17f8453734170e",
+          "published_at_utc": "2026-10-14T10:01:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T10:39:56.000Z",
           "buffer_mode": "customScheduled",
@@ -100302,7 +100308,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-.png",
       "metadata_file": "output/2026-10-14/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-.json",
-      "published_at_utc": "2026-10-14T10:01:45Z",
+      "published_at_utc": "2026-10-14T10:01:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/helix-carbon-says-it-can-make-iron-cheaper-by-recycling-blast-furnace-.png": {
