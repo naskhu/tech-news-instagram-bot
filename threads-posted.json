@@ -100162,12 +100162,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/disrupt-2026-day-2-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-14T14:59:51.000Z",
+      "buffer_due_at_utc": "2026-10-14T15:01:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acf98bb4713c18c89d6151d",
+      "buffer_post_id": "6acf98c16e3cf954481ad759",
       "caption_file": "output/2026-10-14/disrupt-2026-day-2-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T15:01:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acf98c16e3cf954481ad759",
+          "published_at_utc": "2026-10-14T14:59:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T14:59:51.000Z",
           "buffer_mode": "customScheduled",
@@ -100177,7 +100183,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-14/disrupt-2026-day-2-techcrunch.png",
       "metadata_file": "output/2026-10-14/disrupt-2026-day-2-techcrunch.json",
-      "published_at_utc": "2026-10-14T14:59:07Z",
+      "published_at_utc": "2026-10-14T14:59:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-14/exclusive-cambridge-heavy-industries-has-been-quietly-building-a-deskt.png": {
