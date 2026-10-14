@@ -100687,12 +100687,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/youtube-music-launches-new-labels-as-ai-generated-music-floods-streami.png": {
-      "buffer_due_at_utc": "2026-10-14T20:09:38.000Z",
+      "buffer_due_at_utc": "2026-10-14T20:11:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6acfd42a0b61877d1315bc7c",
+      "buffer_post_id": "6acfd4300b61877d1315bdce",
       "caption_file": "output/2026-10-15/youtube-music-launches-new-labels-as-ai-generated-music-floods-streami.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-14T20:11:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6acfd4300b61877d1315bdce",
+          "published_at_utc": "2026-10-14T19:12:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-14T20:09:38.000Z",
           "buffer_mode": "customScheduled",
@@ -100702,7 +100708,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/youtube-music-launches-new-labels-as-ai-generated-music-floods-streami.png",
       "metadata_file": "output/2026-10-15/youtube-music-launches-new-labels-as-ai-generated-music-floods-streami.json",
-      "published_at_utc": "2026-10-14T19:12:42Z",
+      "published_at_utc": "2026-10-14T19:12:48Z",
       "publisher": "buffer_threads"
     }
   }
