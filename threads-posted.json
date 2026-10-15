@@ -101011,6 +101011,25 @@
       "published_at_utc": "2026-10-14T19:12:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-15/prismm-helps-banks-keep-inherited-money-in-house-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-15T10:42:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad0a505d3c0a05adb098852",
+      "caption_file": "output/2026-10-15/prismm-helps-banks-keep-inherited-money-in-house-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-15T10:42:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad0a505d3c0a05adb098852",
+          "published_at_utc": "2026-10-15T10:03:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/prismm-helps-banks-keep-inherited-money-in-house-techcrunch.png",
+      "metadata_file": "output/2026-10-15/prismm-helps-banks-keep-inherited-money-in-house-techcrunch.json",
+      "published_at_utc": "2026-10-15T10:03:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-15/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-t.png": {
       "buffer_due_at_utc": "2026-10-15T06:11:14.000Z",
       "buffer_mode": "customScheduled",
