@@ -100761,6 +100761,25 @@
       "published_at_utc": "2026-10-15T00:48:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-15/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-b.png": {
+      "buffer_due_at_utc": "2026-10-15T01:08:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad022ea29c470dd80b7fa03",
+      "caption_file": "output/2026-10-15/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-b.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-15T01:08:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad022ea29c470dd80b7fa03",
+          "published_at_utc": "2026-10-15T00:48:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-b.png",
+      "metadata_file": "output/2026-10-15/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-b.json",
+      "published_at_utc": "2026-10-15T00:48:42Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-15/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear-t.png": {
       "buffer_due_at_utc": "2026-10-14T19:33:48.000Z",
       "buffer_mode": "customScheduled",
