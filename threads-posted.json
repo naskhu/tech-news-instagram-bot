@@ -100737,12 +100737,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-wit.png": {
-      "buffer_due_at_utc": "2026-10-15T15:10:05.000Z",
+      "buffer_due_at_utc": "2026-10-15T15:12:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad0e83d52c687f7505532d7",
+      "buffer_post_id": "6ad0e8439244f4b375b69d7a",
       "caption_file": "output/2026-10-15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-wit.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-15T15:12:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad0e8439244f4b375b69d7a",
+          "published_at_utc": "2026-10-15T14:50:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-15T15:10:05.000Z",
           "buffer_mode": "customScheduled",
@@ -100752,7 +100758,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-wit.png",
       "metadata_file": "output/2026-10-15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-wit.json",
-      "published_at_utc": "2026-10-15T14:50:37Z",
+      "published_at_utc": "2026-10-15T14:50:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-e.png": {
