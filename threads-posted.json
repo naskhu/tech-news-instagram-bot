@@ -100711,6 +100711,25 @@
       "published_at_utc": "2026-10-14T22:24:38Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-15/electric-vehicle-sales-in-the-us-are-showing-signs-of-life-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-15T05:12:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad060906ff8a3fe7b39c8c2",
+      "caption_file": "output/2026-10-15/electric-vehicle-sales-in-the-us-are-showing-signs-of-life-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-15T05:12:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad060906ff8a3fe7b39c8c2",
+          "published_at_utc": "2026-10-15T05:11:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/electric-vehicle-sales-in-the-us-are-showing-signs-of-life-techcrunch.png",
+      "metadata_file": "output/2026-10-15/electric-vehicle-sales-in-the-us-are-showing-signs-of-life-techcrunch.json",
+      "published_at_utc": "2026-10-15T05:11:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-15/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-d.png": {
       "buffer_due_at_utc": "2026-10-14T23:23:36.000Z",
       "buffer_mode": "customScheduled",
