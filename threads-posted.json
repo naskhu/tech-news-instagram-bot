@@ -100737,12 +100737,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/figma-announces-new-features-to-define-how-agents-work-on-its-platform.png": {
-      "buffer_due_at_utc": "2026-10-15T05:31:24.000Z",
+      "buffer_due_at_utc": "2026-10-15T05:33:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad0609c0d0df6a75bc54e0a",
+      "buffer_post_id": "6ad060a1e09e6bdb27e471f1",
       "caption_file": "output/2026-10-15/figma-announces-new-features-to-define-how-agents-work-on-its-platform.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-15T05:33:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad060a1e09e6bdb27e471f1",
+          "published_at_utc": "2026-10-15T05:12:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-15T05:31:24.000Z",
           "buffer_mode": "customScheduled",
@@ -100752,7 +100758,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/figma-announces-new-features-to-define-how-agents-work-on-its-platform.png",
       "metadata_file": "output/2026-10-15/figma-announces-new-features-to-define-how-agents-work-on-its-platform.json",
-      "published_at_utc": "2026-10-15T05:11:56Z",
+      "published_at_utc": "2026-10-15T05:12:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-d.png": {
