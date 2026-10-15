@@ -100636,6 +100636,25 @@
       "published_at_utc": "2026-10-14T22:24:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-15/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries.png": {
+      "buffer_due_at_utc": "2026-10-15T10:04:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad0a4ee68263b283a1496bf",
+      "caption_file": "output/2026-10-15/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-15T10:04:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad0a4ee68263b283a1496bf",
+          "published_at_utc": "2026-10-15T10:03:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries.png",
+      "metadata_file": "output/2026-10-15/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries.json",
+      "published_at_utc": "2026-10-15T10:03:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-15/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fra.png": {
       "buffer_due_at_utc": "2026-10-14T19:14:53.000Z",
       "buffer_mode": "customScheduled",
