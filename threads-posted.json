@@ -101235,6 +101235,25 @@
       "metadata_file": "output/2026-10-16/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-boun.json",
       "published_at_utc": "2026-10-15T21:57:45Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-16/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replac.png": {
+      "buffer_due_at_utc": "2026-10-15T22:17:19.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad14c5ffb64fffcf1a0aeaf",
+      "caption_file": "output/2026-10-16/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replac.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-15T22:17:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad14c5ffb64fffcf1a0aeaf",
+          "published_at_utc": "2026-10-15T21:57:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replac.png",
+      "metadata_file": "output/2026-10-16/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replac.json",
+      "published_at_utc": "2026-10-15T21:57:52Z",
+      "publisher": "buffer_threads"
     }
   }
 }
