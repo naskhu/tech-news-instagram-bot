@@ -101237,12 +101237,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replac.png": {
-      "buffer_due_at_utc": "2026-10-15T22:17:19.000Z",
+      "buffer_due_at_utc": "2026-10-15T22:19:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad14c5ffb64fffcf1a0aeaf",
+      "buffer_post_id": "6ad14c65fb64fffcf1a0af4a",
       "caption_file": "output/2026-10-16/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replac.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-15T22:19:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad14c65fb64fffcf1a0af4a",
+          "published_at_utc": "2026-10-15T21:57:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-15T22:17:19.000Z",
           "buffer_mode": "customScheduled",
@@ -101252,7 +101258,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replac.png",
       "metadata_file": "output/2026-10-16/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replac.json",
-      "published_at_utc": "2026-10-15T21:57:52Z",
+      "published_at_utc": "2026-10-15T21:57:57Z",
       "publisher": "buffer_threads"
     }
   }
