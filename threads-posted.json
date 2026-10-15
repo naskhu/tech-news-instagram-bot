@@ -100611,6 +100611,25 @@
       "published_at_utc": "2026-10-14T14:59:50Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-15/amazon-s-bee-launches-two-new-personal-ai-devices-starting-at-75-techc.png": {
+      "buffer_due_at_utc": "2026-10-15T14:51:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad0e831b64fbd45c4f83546",
+      "caption_file": "output/2026-10-15/amazon-s-bee-launches-two-new-personal-ai-devices-starting-at-75-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-15T14:51:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad0e831b64fbd45c4f83546",
+          "published_at_utc": "2026-10-15T14:50:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/amazon-s-bee-launches-two-new-personal-ai-devices-starting-at-75-techc.png",
+      "metadata_file": "output/2026-10-15/amazon-s-bee-launches-two-new-personal-ai-devices-starting-at-75-techc.json",
+      "published_at_utc": "2026-10-15T14:50:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-15/ambani-s-jio-seeks-to-raise-3-2b-in-what-could-be-india-s-biggest-ipo-.png": {
       "buffer_due_at_utc": "2026-10-14T22:26:51.000Z",
       "buffer_mode": "customScheduled",
