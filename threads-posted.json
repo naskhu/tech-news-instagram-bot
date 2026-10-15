@@ -101210,6 +101210,25 @@
       "metadata_file": "output/2026-10-15/youtube-music-launches-new-labels-as-ai-generated-music-floods-streami.json",
       "published_at_utc": "2026-10-14T19:12:48Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-16/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-boun.png": {
+      "buffer_due_at_utc": "2026-10-15T21:58:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad14c54e991a49db3b64a8d",
+      "caption_file": "output/2026-10-16/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-boun.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-15T21:58:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad14c54e991a49db3b64a8d",
+          "published_at_utc": "2026-10-15T21:57:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-boun.png",
+      "metadata_file": "output/2026-10-16/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-boun.json",
+      "published_at_utc": "2026-10-15T21:57:40Z",
+      "publisher": "buffer_threads"
     }
   }
 }
