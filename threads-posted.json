@@ -100762,12 +100762,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-sh.png": {
-      "buffer_due_at_utc": "2026-10-15T05:50:19.000Z",
+      "buffer_due_at_utc": "2026-10-15T05:52:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad060a7e09e6bdb27e47271",
+      "buffer_post_id": "6ad060ad78f377d888b24efb",
       "caption_file": "output/2026-10-15/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-sh.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-15T05:52:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad060ad78f377d888b24efb",
+          "published_at_utc": "2026-10-15T05:12:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-15T05:50:19.000Z",
           "buffer_mode": "customScheduled",
@@ -100777,7 +100783,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-sh.png",
       "metadata_file": "output/2026-10-15/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-sh.json",
-      "published_at_utc": "2026-10-15T05:12:07Z",
+      "published_at_utc": "2026-10-15T05:12:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-d.png": {
