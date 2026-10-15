@@ -101262,12 +101262,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-netwo.png": {
-      "buffer_due_at_utc": "2026-10-15T22:36:14.000Z",
+      "buffer_due_at_utc": "2026-10-15T22:38:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad14c6c4ed7d375a4324e4d",
+      "buffer_post_id": "6ad14c724ed7d375a4324eaf",
       "caption_file": "output/2026-10-16/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-netwo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-15T22:38:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad14c724ed7d375a4324eaf",
+          "published_at_utc": "2026-10-15T21:58:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-15T22:36:14.000Z",
           "buffer_mode": "customScheduled",
@@ -101277,7 +101283,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-netwo.png",
       "metadata_file": "output/2026-10-16/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-netwo.json",
-      "published_at_utc": "2026-10-15T21:58:04Z",
+      "published_at_utc": "2026-10-15T21:58:10Z",
       "publisher": "buffer_threads"
     }
   }
