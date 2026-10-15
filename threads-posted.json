@@ -100812,12 +100812,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-no.png": {
-      "buffer_due_at_utc": "2026-10-15T01:27:05.000Z",
+      "buffer_due_at_utc": "2026-10-15T01:29:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad022f6ba6d896f9b51a800",
+      "buffer_post_id": "6ad022fc44227f52a8c0d6cd",
       "caption_file": "output/2026-10-15/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-no.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-15T01:29:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad022fc44227f52a8c0d6cd",
+          "published_at_utc": "2026-10-15T00:49:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-15T01:27:05.000Z",
           "buffer_mode": "customScheduled",
@@ -100827,7 +100833,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-no.png",
       "metadata_file": "output/2026-10-15/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-no.json",
-      "published_at_utc": "2026-10-15T00:48:55Z",
+      "published_at_utc": "2026-10-15T00:49:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillanc.png": {
