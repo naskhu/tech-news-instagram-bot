@@ -101285,6 +101285,25 @@
       "metadata_file": "output/2026-10-16/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-netwo.json",
       "published_at_utc": "2026-10-15T21:58:10Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-16/meta-launches-an-open-weight-ai-model-that-runs-on-macs-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-15T22:55:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad14c789597cd166254a181",
+      "caption_file": "output/2026-10-16/meta-launches-an-open-weight-ai-model-that-runs-on-macs-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-15T22:55:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad14c789597cd166254a181",
+          "published_at_utc": "2026-10-15T21:58:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/meta-launches-an-open-weight-ai-model-that-runs-on-macs-techcrunch.png",
+      "metadata_file": "output/2026-10-16/meta-launches-an-open-weight-ai-model-that-runs-on-macs-techcrunch.json",
+      "published_at_utc": "2026-10-15T21:58:16Z",
+      "publisher": "buffer_threads"
     }
   }
 }
