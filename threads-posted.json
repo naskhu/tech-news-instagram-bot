@@ -100962,12 +100962,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-t.png": {
-      "buffer_due_at_utc": "2026-10-15T06:09:14.000Z",
+      "buffer_due_at_utc": "2026-10-15T06:11:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad060b3e09e6bdb27e47355",
+      "buffer_post_id": "6ad060b87b2b6a2866e4f0eb",
       "caption_file": "output/2026-10-15/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-15T06:11:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad060b87b2b6a2866e4f0eb",
+          "published_at_utc": "2026-10-15T05:12:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-15T06:09:14.000Z",
           "buffer_mode": "customScheduled",
@@ -100977,7 +100983,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-15/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-t.png",
       "metadata_file": "output/2026-10-15/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-t.json",
-      "published_at_utc": "2026-10-15T05:12:19Z",
+      "published_at_utc": "2026-10-15T05:12:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-15/youtube-music-launches-new-labels-as-ai-generated-music-floods-streami.png": {
