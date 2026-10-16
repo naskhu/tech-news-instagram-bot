@@ -101975,12 +101975,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/we-can-finally-hear-some-of-wu-tang-clan-s-once-upon-a-time-in-shaolin.png": {
-      "buffer_due_at_utc": "2026-10-17T00:02:51.000Z",
+      "buffer_due_at_utc": "2026-10-17T00:04:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad2add287c4935770a07524",
+      "buffer_post_id": "6ad2add71c7e49ea4c2a34da",
       "caption_file": "output/2026-10-17/we-can-finally-hear-some-of-wu-tang-clan-s-once-upon-a-time-in-shaolin.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T00:04:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad2add71c7e49ea4c2a34da",
+          "published_at_utc": "2026-10-16T23:05:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T00:02:51.000Z",
           "buffer_mode": "customScheduled",
@@ -101990,7 +101996,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/we-can-finally-hear-some-of-wu-tang-clan-s-once-upon-a-time-in-shaolin.png",
       "metadata_file": "output/2026-10-17/we-can-finally-hear-some-of-wu-tang-clan-s-once-upon-a-time-in-shaolin.json",
-      "published_at_utc": "2026-10-16T23:05:54Z",
+      "published_at_utc": "2026-10-16T23:05:59Z",
       "publisher": "buffer_threads"
     }
   }
