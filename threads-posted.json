@@ -101637,12 +101637,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/this-stretchy-magsafe-storage-pouch-gives-your-phone-a-sizable-trunk.png": {
-      "buffer_due_at_utc": "2026-10-16T14:42:22.000Z",
+      "buffer_due_at_utc": "2026-10-16T14:44:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad22ede2fe657de6eaa5e10",
+      "buffer_post_id": "6ad22ee525d13dd62eed0915",
       "caption_file": "output/2026-10-16/this-stretchy-magsafe-storage-pouch-gives-your-phone-a-sizable-trunk.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-16T14:44:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad22ee525d13dd62eed0915",
+          "published_at_utc": "2026-10-16T14:04:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-16T14:42:22.000Z",
           "buffer_mode": "customScheduled",
@@ -101652,7 +101658,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/this-stretchy-magsafe-storage-pouch-gives-your-phone-a-sizable-trunk.png",
       "metadata_file": "output/2026-10-16/this-stretchy-magsafe-storage-pouch-gives-your-phone-a-sizable-trunk.json",
-      "published_at_utc": "2026-10-16T14:04:14Z",
+      "published_at_utc": "2026-10-16T14:04:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/when-it-came-to-cal-ai-s-viral-success-a-small-army-of-influencers-pai.png": {
