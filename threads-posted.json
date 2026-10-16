@@ -101286,6 +101286,25 @@
       "published_at_utc": "2026-10-16T00:03:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-16/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employe.png": {
+      "buffer_due_at_utc": "2026-10-16T00:23:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad169f4fb64fffcf1a7765d",
+      "caption_file": "output/2026-10-16/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employe.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-16T00:23:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad169f4fb64fffcf1a7765d",
+          "published_at_utc": "2026-10-16T00:04:05Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employe.png",
+      "metadata_file": "output/2026-10-16/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employe.json",
+      "published_at_utc": "2026-10-16T00:04:05Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-16/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-netwo.png": {
       "buffer_due_at_utc": "2026-10-15T22:38:14.000Z",
       "buffer_mode": "customScheduled",
