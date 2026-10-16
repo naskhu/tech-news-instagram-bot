@@ -101312,12 +101312,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-.png": {
-      "buffer_due_at_utc": "2026-10-16T00:42:27.000Z",
+      "buffer_due_at_utc": "2026-10-16T00:44:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad16a004ed7d375a438c6c2",
+      "buffer_post_id": "6ad16a06ee2c696029af8f20",
       "caption_file": "output/2026-10-16/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-16T00:44:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad16a06ee2c696029af8f20",
+          "published_at_utc": "2026-10-16T00:04:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-16T00:42:27.000Z",
           "buffer_mode": "customScheduled",
@@ -101327,7 +101333,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-.png",
       "metadata_file": "output/2026-10-16/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-.json",
-      "published_at_utc": "2026-10-16T00:04:17Z",
+      "published_at_utc": "2026-10-16T00:04:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-netwo.png": {
