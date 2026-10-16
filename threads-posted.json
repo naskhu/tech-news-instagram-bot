@@ -101413,10 +101413,15 @@
     },
     "output/2026-10-16/elorian-s-first-ai-model-wants-to-reason-with-images-not-just-about-th.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ad265a6b54530c2c99c0430",
+      "buffer_post_id": "6ad265b6b54530c2c99c0699",
       "caption_file": "output/2026-10-16/elorian-s-first-ai-model-wants-to-reason-with-images-not-just-about-th.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad265b6b54530c2c99c0699",
+          "published_at_utc": "2026-10-16T17:58:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ad265a6b54530c2c99c0430",
@@ -101425,7 +101430,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/elorian-s-first-ai-model-wants-to-reason-with-images-not-just-about-th.png",
       "metadata_file": "output/2026-10-16/elorian-s-first-ai-model-wants-to-reason-with-images-not-just-about-th.json",
-      "published_at_utc": "2026-10-16T17:58:08Z",
+      "published_at_utc": "2026-10-16T17:58:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-r.png": {
