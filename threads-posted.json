@@ -101387,12 +101387,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-16T04:15:39.000Z",
+      "buffer_due_at_utc": "2026-10-16T04:17:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad1a4bffb64fffcf1b3daf6",
+      "buffer_post_id": "6ad1a4c5a82f34dbe145f72c",
       "caption_file": "output/2026-10-16/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-16T04:17:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad1a4c5a82f34dbe145f72c",
+          "published_at_utc": "2026-10-16T04:15:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-16T04:15:39.000Z",
           "buffer_mode": "customScheduled",
@@ -101402,7 +101408,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai-techcrunch.png",
       "metadata_file": "output/2026-10-16/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai-techcrunch.json",
-      "published_at_utc": "2026-10-16T04:14:55Z",
+      "published_at_utc": "2026-10-16T04:15:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/when-it-came-to-cal-ai-s-viral-success-a-small-army-of-influencers-pai.png": {
