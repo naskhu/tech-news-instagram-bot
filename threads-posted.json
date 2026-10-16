@@ -101437,12 +101437,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/the-batman-part-ii-is-getting-some-help-from-steven-soderbergh.png": {
-      "buffer_due_at_utc": "2026-10-16T04:53:29.000Z",
+      "buffer_due_at_utc": "2026-10-16T04:55:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad1a4d7a82f34dbe14600fc",
+      "buffer_post_id": "6ad1a4dd4ed7d375a444bf8e",
       "caption_file": "output/2026-10-16/the-batman-part-ii-is-getting-some-help-from-steven-soderbergh.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-16T04:55:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad1a4dd4ed7d375a444bf8e",
+          "published_at_utc": "2026-10-16T04:15:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-16T04:53:29.000Z",
           "buffer_mode": "customScheduled",
@@ -101452,7 +101458,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/the-batman-part-ii-is-getting-some-help-from-steven-soderbergh.png",
       "metadata_file": "output/2026-10-16/the-batman-part-ii-is-getting-some-help-from-steven-soderbergh.json",
-      "published_at_utc": "2026-10-16T04:15:19Z",
+      "published_at_utc": "2026-10-16T04:15:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/when-it-came-to-cal-ai-s-viral-success-a-small-army-of-influencers-pai.png": {
