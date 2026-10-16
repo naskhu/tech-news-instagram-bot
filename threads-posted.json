@@ -101436,6 +101436,25 @@
       "published_at_utc": "2026-10-16T09:07:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-16/g7-countries-plan-tabletop-exercises-simulating-ai-cyberattacks-on-ban.png": {
+      "buffer_due_at_utc": "2026-10-16T10:04:44.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad1e9649597cd1662757e9a",
+      "caption_file": "output/2026-10-16/g7-countries-plan-tabletop-exercises-simulating-ai-cyberattacks-on-ban.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-16T10:04:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad1e9649597cd1662757e9a",
+          "published_at_utc": "2026-10-16T09:07:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/g7-countries-plan-tabletop-exercises-simulating-ai-cyberattacks-on-ban.png",
+      "metadata_file": "output/2026-10-16/g7-countries-plan-tabletop-exercises-simulating-ai-cyberattacks-on-ban.json",
+      "published_at_utc": "2026-10-16T09:07:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-16/meta-launches-an-open-weight-ai-model-that-runs-on-macs-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-15T22:57:09.000Z",
       "buffer_mode": "customScheduled",
