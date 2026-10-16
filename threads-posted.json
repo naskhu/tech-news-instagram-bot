@@ -101799,6 +101799,25 @@
       "published_at_utc": "2026-10-16T00:04:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-17/apple-s-updated-app-store-rules-go-after-nudify-ai-apps.png": {
+      "buffer_due_at_utc": "2026-10-16T23:06:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad2adb187c4935770a06fb0",
+      "caption_file": "output/2026-10-17/apple-s-updated-app-store-rules-go-after-nudify-ai-apps.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-16T23:06:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad2adb187c4935770a06fb0",
+          "published_at_utc": "2026-10-16T23:05:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/apple-s-updated-app-store-rules-go-after-nudify-ai-apps.png",
+      "metadata_file": "output/2026-10-17/apple-s-updated-app-store-rules-go-after-nudify-ai-apps.json",
+      "published_at_utc": "2026-10-16T23:05:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-17/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian.png": {
       "buffer_due_at_utc": "2026-10-16T20:29:13.000Z",
       "buffer_mode": "customScheduled",
