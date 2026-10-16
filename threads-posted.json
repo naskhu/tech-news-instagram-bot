@@ -101483,6 +101483,23 @@
       "published_at_utc": "2026-10-16T09:07:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ad265c6c5dca815991a2328",
+      "caption_file": "output/2026-10-16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad265c6c5dca815991a2328",
+          "published_at_utc": "2026-10-16T17:58:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity.png",
+      "metadata_file": "output/2026-10-16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity.json",
+      "published_at_utc": "2026-10-16T17:58:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-16/iphone-duo-orders-are-already-delayed-into-2027.png": {
       "buffer_due_at_utc": "2026-10-16T14:06:32.000Z",
       "buffer_mode": "customScheduled",
