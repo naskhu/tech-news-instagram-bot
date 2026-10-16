@@ -101462,12 +101462,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/the-tesla-roadster-flew-drove-upside-down-and-hit-60mph-in-under-a-sec.png": {
-      "buffer_due_at_utc": "2026-10-16T05:12:24.000Z",
+      "buffer_due_at_utc": "2026-10-16T05:14:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad1a4e3fb64fffcf1b3e9c4",
+      "buffer_post_id": "6ad1a4e9a82f34dbe1460675",
       "caption_file": "output/2026-10-16/the-tesla-roadster-flew-drove-upside-down-and-hit-60mph-in-under-a-sec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-16T05:14:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad1a4e9a82f34dbe1460675",
+          "published_at_utc": "2026-10-16T04:15:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-16T05:12:24.000Z",
           "buffer_mode": "customScheduled",
@@ -101477,7 +101483,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/the-tesla-roadster-flew-drove-upside-down-and-hit-60mph-in-under-a-sec.png",
       "metadata_file": "output/2026-10-16/the-tesla-roadster-flew-drove-upside-down-and-hit-60mph-in-under-a-sec.json",
-      "published_at_utc": "2026-10-16T04:15:31Z",
+      "published_at_utc": "2026-10-16T04:15:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-16/when-it-came-to-cal-ai-s-viral-success-a-small-army-of-influencers-pai.png": {
