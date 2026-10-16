@@ -101461,6 +101461,25 @@
       "published_at_utc": "2026-10-16T09:07:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-16/iphone-duo-orders-are-already-delayed-into-2027.png": {
+      "buffer_due_at_utc": "2026-10-16T14:04:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad22ec4f24c5797a2424538",
+      "caption_file": "output/2026-10-16/iphone-duo-orders-are-already-delayed-into-2027.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-16T14:04:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad22ec4f24c5797a2424538",
+          "published_at_utc": "2026-10-16T14:03:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/iphone-duo-orders-are-already-delayed-into-2027.png",
+      "metadata_file": "output/2026-10-16/iphone-duo-orders-are-already-delayed-into-2027.json",
+      "published_at_utc": "2026-10-16T14:03:48Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-16/meta-launches-an-open-weight-ai-model-that-runs-on-macs-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-15T22:57:09.000Z",
       "buffer_mode": "customScheduled",
