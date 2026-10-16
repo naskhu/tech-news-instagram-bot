@@ -101311,6 +101311,25 @@
       "published_at_utc": "2026-10-16T00:04:10Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-16/apple-s-own-website-could-be-teasing-a-new-ipad-mini.png": {
+      "buffer_due_at_utc": "2026-10-16T09:07:59.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad1e943e991a49db3d71929",
+      "caption_file": "output/2026-10-16/apple-s-own-website-could-be-teasing-a-new-ipad-mini.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-16T09:07:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad1e943e991a49db3d71929",
+          "published_at_utc": "2026-10-16T09:07:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/apple-s-own-website-could-be-teasing-a-new-ipad-mini.png",
+      "metadata_file": "output/2026-10-16/apple-s-own-website-could-be-teasing-a-new-ipad-mini.json",
+      "published_at_utc": "2026-10-16T09:07:15Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-16/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-.png": {
       "buffer_due_at_utc": "2026-10-16T00:44:27.000Z",
       "buffer_mode": "customScheduled",
