@@ -101411,6 +101411,25 @@
       "published_at_utc": "2026-10-16T09:07:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-16/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-r.png": {
+      "buffer_due_at_utc": "2026-10-16T09:45:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad1e959e991a49db3d71d77",
+      "caption_file": "output/2026-10-16/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-r.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-16T09:45:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad1e959e991a49db3d71d77",
+          "published_at_utc": "2026-10-16T09:07:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-r.png",
+      "metadata_file": "output/2026-10-16/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-r.json",
+      "published_at_utc": "2026-10-16T09:07:37Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-16/meta-launches-an-open-weight-ai-model-that-runs-on-macs-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-15T22:57:09.000Z",
       "buffer_mode": "customScheduled",
