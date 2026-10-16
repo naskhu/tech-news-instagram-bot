@@ -101705,6 +101705,23 @@
       "published_at_utc": "2026-10-16T14:04:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairsty.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ad265e5505728588836feca",
+      "caption_file": "output/2026-10-16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairsty.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad265e5505728588836feca",
+          "published_at_utc": "2026-10-16T17:59:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairsty.png",
+      "metadata_file": "output/2026-10-16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairsty.json",
+      "published_at_utc": "2026-10-16T17:59:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-16/veritas-expands-its-anti-counterfeit-chip-to-jewelry-trophies-and-frag.png": {
       "buffer_due_at_utc": "2026-10-16T15:03:17.000Z",
       "buffer_mode": "customScheduled",
