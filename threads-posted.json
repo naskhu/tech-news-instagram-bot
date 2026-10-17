@@ -102590,6 +102590,25 @@
       "published_at_utc": "2026-10-17T21:27:46Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-18/keep-up-with-the-latest-no-kings-news-on-the-states-newsroom-live-blog.png": {
+      "buffer_due_at_utc": "2026-10-17T23:14:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad40123938409f1d0a7c551",
+      "caption_file": "output/2026-10-18/keep-up-with-the-latest-no-kings-news-on-the-states-newsroom-live-blog.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-17T23:14:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad40123938409f1d0a7c551",
+          "published_at_utc": "2026-10-17T23:13:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/keep-up-with-the-latest-no-kings-news-on-the-states-newsroom-live-blog.png",
+      "metadata_file": "output/2026-10-18/keep-up-with-the-latest-no-kings-news-on-the-states-newsroom-live-blog.json",
+      "published_at_utc": "2026-10-17T23:13:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-18/tiktok-bans-musk-documentary-account.png": {
       "buffer_due_at_utc": "2026-10-17T21:49:19.000Z",
       "buffer_mode": "customScheduled",
