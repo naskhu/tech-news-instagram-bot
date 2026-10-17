@@ -102050,12 +102050,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-into-hig.png": {
-      "buffer_due_at_utc": "2026-10-17T02:14:27.000Z",
+      "buffer_due_at_utc": "2026-10-17T02:16:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad2ccac8ac6cfe5442547fe",
+      "buffer_post_id": "6ad2ccb11694d771d5148703",
       "caption_file": "output/2026-10-17/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-into-hig.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T02:16:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad2ccb11694d771d5148703",
+          "published_at_utc": "2026-10-17T01:17:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T02:14:27.000Z",
           "buffer_mode": "customScheduled",
@@ -102065,7 +102071,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-into-hig.png",
       "metadata_file": "output/2026-10-17/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-into-hig.json",
-      "published_at_utc": "2026-10-17T01:17:32Z",
+      "published_at_utc": "2026-10-17T01:17:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/we-can-finally-hear-some-of-wu-tang-clan-s-once-upon-a-time-in-shaolin.png": {
