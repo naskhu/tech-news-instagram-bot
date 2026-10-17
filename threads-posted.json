@@ -102175,12 +102175,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/xbox-ally-x20-the-most-refined-pc-handheld-is-now-available.png": {
-      "buffer_due_at_utc": "2026-10-17T06:40:13.000Z",
+      "buffer_due_at_utc": "2026-10-17T06:42:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad30af6c34368e4b0ab7e50",
+      "buffer_post_id": "6ad30afc8ac6cfe544310b7d",
       "caption_file": "output/2026-10-17/xbox-ally-x20-the-most-refined-pc-handheld-is-now-available.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T06:42:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad30afc8ac6cfe544310b7d",
+          "published_at_utc": "2026-10-17T05:43:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T06:40:13.000Z",
           "buffer_mode": "customScheduled",
@@ -102190,7 +102196,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/xbox-ally-x20-the-most-refined-pc-handheld-is-now-available.png",
       "metadata_file": "output/2026-10-17/xbox-ally-x20-the-most-refined-pc-handheld-is-now-available.json",
-      "published_at_utc": "2026-10-17T05:43:18Z",
+      "published_at_utc": "2026-10-17T05:43:24Z",
       "publisher": "buffer_threads"
     }
   }
