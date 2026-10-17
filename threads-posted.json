@@ -102175,12 +102175,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/tesla-cannot-guarantee-roadster-pre-orders-will-be-delivered.png": {
-      "buffer_due_at_utc": "2026-10-17T13:35:22.000Z",
+      "buffer_due_at_utc": "2026-10-17T13:37:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad3750a0b0d72757ada8682",
+      "buffer_post_id": "6ad3750f938409f1d08899cd",
       "caption_file": "output/2026-10-17/tesla-cannot-guarantee-roadster-pre-orders-will-be-delivered.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T13:37:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad3750f938409f1d08899cd",
+          "published_at_utc": "2026-10-17T13:15:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T13:35:22.000Z",
           "buffer_mode": "customScheduled",
@@ -102190,7 +102196,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/tesla-cannot-guarantee-roadster-pre-orders-will-be-delivered.png",
       "metadata_file": "output/2026-10-17/tesla-cannot-guarantee-roadster-pre-orders-will-be-delivered.json",
-      "published_at_utc": "2026-10-17T13:15:54Z",
+      "published_at_utc": "2026-10-17T13:15:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-into-hig.png": {
