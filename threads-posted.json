@@ -102100,12 +102100,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/no-kings-midterms-edition.png": {
-      "buffer_due_at_utc": "2026-10-17T13:16:27.000Z",
+      "buffer_due_at_utc": "2026-10-17T13:18:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad374fe0b0d72757ada8485",
+      "buffer_post_id": "6ad37504dd83363c4dd2a9fc",
       "caption_file": "output/2026-10-17/no-kings-midterms-edition.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T13:18:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad37504dd83363c4dd2a9fc",
+          "published_at_utc": "2026-10-17T13:15:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T13:16:27.000Z",
           "buffer_mode": "customScheduled",
@@ -102115,7 +102121,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/no-kings-midterms-edition.png",
       "metadata_file": "output/2026-10-17/no-kings-midterms-edition.json",
-      "published_at_utc": "2026-10-17T13:15:42Z",
+      "published_at_utc": "2026-10-17T13:15:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/porsche-s-electric-macan-turbo-is-an-automotive-existential-crisis-tec.png": {
