@@ -101875,12 +101875,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/analogue-is-re-releasing-its-snes-and-genesis-consoles-with-some-nice-.png": {
-      "buffer_due_at_utc": "2026-10-17T10:22:09.000Z",
+      "buffer_due_at_utc": "2026-10-17T10:24:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad3435b0a208cb32313f7b0",
+      "buffer_post_id": "6ad34360938409f1d07c7830",
       "caption_file": "output/2026-10-17/analogue-is-re-releasing-its-snes-and-genesis-consoles-with-some-nice-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T10:24:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad34360938409f1d07c7830",
+          "published_at_utc": "2026-10-17T09:44:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T10:22:09.000Z",
           "buffer_mode": "customScheduled",
@@ -101890,7 +101896,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/analogue-is-re-releasing-its-snes-and-genesis-consoles-with-some-nice-.png",
       "metadata_file": "output/2026-10-17/analogue-is-re-releasing-its-snes-and-genesis-consoles-with-some-nice-.json",
-      "published_at_utc": "2026-10-17T09:43:55Z",
+      "published_at_utc": "2026-10-17T09:44:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/another-dji-front-company-bites-the-dust.png": {
