@@ -102195,10 +102195,15 @@
     },
     "output/2026-10-17/mercedes-amg-s-first-ground-up-suv-is-a-1-150hp-electric-beast.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ad3c48f0b0d72757aee595b",
+      "buffer_post_id": "6ad3c49d0b0d72757aee5b36",
       "caption_file": "output/2026-10-17/mercedes-amg-s-first-ground-up-suv-is-a-1-150hp-electric-beast.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad3c49d0b0d72757aee5b36",
+          "published_at_utc": "2026-10-17T18:55:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ad3c48f0b0d72757aee595b",
@@ -102207,7 +102212,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/mercedes-amg-s-first-ground-up-suv-is-a-1-150hp-electric-beast.png",
       "metadata_file": "output/2026-10-17/mercedes-amg-s-first-ground-up-suv-is-a-1-150hp-electric-beast.json",
-      "published_at_utc": "2026-10-17T18:55:20Z",
+      "published_at_utc": "2026-10-17T18:55:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites.png": {
