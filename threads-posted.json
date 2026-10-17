@@ -102025,12 +102025,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/ember-s-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-eve.png": {
-      "buffer_due_at_utc": "2026-10-17T16:55:32.000Z",
+      "buffer_due_at_utc": "2026-10-17T16:57:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad3a3f6769b45793487b014",
+      "buffer_post_id": "6ad3a3fbae173d6e00c5db19",
       "caption_file": "output/2026-10-17/ember-s-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-eve.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T16:57:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad3a3fbae173d6e00c5db19",
+          "published_at_utc": "2026-10-17T16:36:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T16:55:32.000Z",
           "buffer_mode": "customScheduled",
@@ -102040,7 +102046,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/ember-s-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-eve.png",
       "metadata_file": "output/2026-10-17/ember-s-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-eve.json",
-      "published_at_utc": "2026-10-17T16:36:06Z",
+      "published_at_utc": "2026-10-17T16:36:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian.png": {
