@@ -102174,6 +102174,25 @@
       "published_at_utc": "2026-10-17T01:17:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-17/the-incredible-flying-tesla-roadster-is-just-for-show.png": {
+      "buffer_due_at_utc": "2026-10-17T10:41:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad343650b0d72757ace724e",
+      "caption_file": "output/2026-10-17/the-incredible-flying-tesla-roadster-is-just-for-show.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-17T10:41:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad343650b0d72757ace724e",
+          "published_at_utc": "2026-10-17T09:44:05Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/the-incredible-flying-tesla-roadster-is-just-for-show.png",
+      "metadata_file": "output/2026-10-17/the-incredible-flying-tesla-roadster-is-just-for-show.json",
+      "published_at_utc": "2026-10-17T09:44:05Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-17/the-new-apple-tv-4k-just-got-its-first-very-small-discount.png": {
       "buffer_due_at_utc": "2026-10-17T06:04:23.000Z",
       "buffer_mode": "customScheduled",
