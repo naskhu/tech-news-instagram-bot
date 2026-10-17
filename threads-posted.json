@@ -101799,6 +101799,25 @@
       "published_at_utc": "2026-10-16T00:04:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-17/a-fake-whatsapp-clone-is-showing-up-before-the-real-version-on-the-pla.png": {
+      "buffer_due_at_utc": "2026-10-17T09:44:19.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad34346769b4579346f012b",
+      "caption_file": "output/2026-10-17/a-fake-whatsapp-clone-is-showing-up-before-the-real-version-on-the-pla.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-17T09:44:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad34346769b4579346f012b",
+          "published_at_utc": "2026-10-17T09:43:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/a-fake-whatsapp-clone-is-showing-up-before-the-real-version-on-the-pla.png",
+      "metadata_file": "output/2026-10-17/a-fake-whatsapp-clone-is-showing-up-before-the-real-version-on-the-pla.json",
+      "published_at_utc": "2026-10-17T09:43:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-17/all-the-news-about-the-iphone-duo.png": {
       "buffer_due_at_utc": "2026-10-17T01:19:42.000Z",
       "buffer_mode": "customScheduled",
