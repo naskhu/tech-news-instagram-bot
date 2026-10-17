@@ -102616,12 +102616,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/tiktok-permanently-bans-musk-documentary-advertising-account-techcrunc.png": {
-      "buffer_due_at_utc": "2026-10-17T22:06:14.000Z",
+      "buffer_due_at_utc": "2026-10-17T22:08:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad3e863769b45793495a44c",
+      "buffer_post_id": "6ad3e869938409f1d0a2d748",
       "caption_file": "output/2026-10-18/tiktok-permanently-bans-musk-documentary-advertising-account-techcrunc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T22:08:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad3e869938409f1d0a2d748",
+          "published_at_utc": "2026-10-17T21:28:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T22:06:14.000Z",
           "buffer_mode": "customScheduled",
@@ -102631,7 +102637,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/tiktok-permanently-bans-musk-documentary-advertising-account-techcrunc.png",
       "metadata_file": "output/2026-10-18/tiktok-permanently-bans-musk-documentary-advertising-account-techcrunc.json",
-      "published_at_utc": "2026-10-17T21:28:03Z",
+      "published_at_utc": "2026-10-17T21:28:09Z",
       "publisher": "buffer_threads"
     }
   }
