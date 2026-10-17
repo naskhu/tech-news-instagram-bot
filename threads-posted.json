@@ -102149,6 +102149,25 @@
       "published_at_utc": "2026-10-17T05:42:50Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-17/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites.png": {
+      "buffer_due_at_utc": "2026-10-17T17:14:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad3a4010b0d72757ae713c4",
+      "caption_file": "output/2026-10-17/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-17T17:14:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad3a4010b0d72757ae713c4",
+          "published_at_utc": "2026-10-17T16:36:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites.png",
+      "metadata_file": "output/2026-10-17/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites.json",
+      "published_at_utc": "2026-10-17T16:36:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-17/no-kings-midterms-edition.png": {
       "buffer_due_at_utc": "2026-10-17T13:18:27.000Z",
       "buffer_mode": "customScheduled",
