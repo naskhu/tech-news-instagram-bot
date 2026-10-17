@@ -102640,6 +102640,25 @@
       "published_at_utc": "2026-10-17T23:13:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-18/science-says-your-boss-should-talk-less-in-meetings.png": {
+      "buffer_due_at_utc": "2026-10-17T23:52:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad4013ae272c4918fa59fdc",
+      "caption_file": "output/2026-10-18/science-says-your-boss-should-talk-less-in-meetings.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-17T23:52:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad4013ae272c4918fa59fdc",
+          "published_at_utc": "2026-10-17T23:14:02Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/science-says-your-boss-should-talk-less-in-meetings.png",
+      "metadata_file": "output/2026-10-18/science-says-your-boss-should-talk-less-in-meetings.json",
+      "published_at_utc": "2026-10-17T23:14:02Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-18/tiktok-bans-musk-documentary-account.png": {
       "buffer_due_at_utc": "2026-10-17T21:49:19.000Z",
       "buffer_mode": "customScheduled",
