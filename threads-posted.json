@@ -102150,12 +102150,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/why-apple-is-finally-making-its-own-smart-home-devices.png": {
-      "buffer_due_at_utc": "2026-10-17T06:21:18.000Z",
+      "buffer_due_at_utc": "2026-10-17T06:23:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad30aeb87c4935770b22221",
+      "buffer_post_id": "6ad30af01c7e49ea4c3c1ece",
       "caption_file": "output/2026-10-17/why-apple-is-finally-making-its-own-smart-home-devices.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T06:23:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad30af01c7e49ea4c3c1ece",
+          "published_at_utc": "2026-10-17T05:43:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T06:21:18.000Z",
           "buffer_mode": "customScheduled",
@@ -102165,7 +102171,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/why-apple-is-finally-making-its-own-smart-home-devices.png",
       "metadata_file": "output/2026-10-17/why-apple-is-finally-making-its-own-smart-home-devices.json",
-      "published_at_utc": "2026-10-17T05:43:07Z",
+      "published_at_utc": "2026-10-17T05:43:12Z",
       "publisher": "buffer_threads"
     }
   }
