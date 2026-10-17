@@ -102098,10 +102098,15 @@
     },
     "output/2026-10-17/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ad3c4430b0d72757aee4ce1",
+      "buffer_post_id": "6ad3c453ae173d6e00ccea07",
       "caption_file": "output/2026-10-17/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad3c453ae173d6e00ccea07",
+          "published_at_utc": "2026-10-17T18:54:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ad3c4430b0d72757aee4ce1",
@@ -102110,7 +102115,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow.png",
       "metadata_file": "output/2026-10-17/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow.json",
-      "published_at_utc": "2026-10-17T18:54:06Z",
+      "published_at_utc": "2026-10-17T18:54:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/jev-is-vercel-s-fastest-adopted-ai-model-ever-techcrunch.png": {
