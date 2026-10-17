@@ -102739,6 +102739,25 @@
       "metadata_file": "output/2026-10-18/what-ai-sees-when-it-sees-your-photos.json",
       "published_at_utc": "2026-10-17T21:28:21Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-18/why-bioware-s-neverwinter-nights-still-has-thousands-of-active-players.png": {
+      "buffer_due_at_utc": "2026-10-18T00:11:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad40145938409f1d0a7c89d",
+      "caption_file": "output/2026-10-18/why-bioware-s-neverwinter-nights-still-has-thousands-of-active-players.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-18T00:11:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad40145938409f1d0a7c89d",
+          "published_at_utc": "2026-10-17T23:14:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/why-bioware-s-neverwinter-nights-still-has-thousands-of-active-players.png",
+      "metadata_file": "output/2026-10-18/why-bioware-s-neverwinter-nights-still-has-thousands-of-active-players.json",
+      "published_at_utc": "2026-10-17T23:14:14Z",
+      "publisher": "buffer_threads"
     }
   }
 }
