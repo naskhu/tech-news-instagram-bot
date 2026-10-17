@@ -102173,6 +102173,25 @@
       "metadata_file": "output/2026-10-17/why-apple-is-finally-making-its-own-smart-home-devices.json",
       "published_at_utc": "2026-10-17T05:43:12Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-17/xbox-ally-x20-the-most-refined-pc-handheld-is-now-available.png": {
+      "buffer_due_at_utc": "2026-10-17T06:40:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad30af6c34368e4b0ab7e50",
+      "caption_file": "output/2026-10-17/xbox-ally-x20-the-most-refined-pc-handheld-is-now-available.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-17T06:40:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad30af6c34368e4b0ab7e50",
+          "published_at_utc": "2026-10-17T05:43:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/xbox-ally-x20-the-most-refined-pc-handheld-is-now-available.png",
+      "metadata_file": "output/2026-10-17/xbox-ally-x20-the-most-refined-pc-handheld-is-now-available.json",
+      "published_at_utc": "2026-10-17T05:43:18Z",
+      "publisher": "buffer_threads"
     }
   }
 }
