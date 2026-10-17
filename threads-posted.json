@@ -101800,12 +101800,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/all-the-news-about-the-iphone-duo.png": {
-      "buffer_due_at_utc": "2026-10-17T01:17:42.000Z",
+      "buffer_due_at_utc": "2026-10-17T01:19:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad2cc8a8ac6cfe544253be7",
+      "buffer_post_id": "6ad2cc8f87c4935770a6e9a4",
       "caption_file": "output/2026-10-17/all-the-news-about-the-iphone-duo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-17T01:19:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad2cc8f87c4935770a6e9a4",
+          "published_at_utc": "2026-10-17T01:17:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-17T01:17:42.000Z",
           "buffer_mode": "customScheduled",
@@ -101815,7 +101821,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-17/all-the-news-about-the-iphone-duo.png",
       "metadata_file": "output/2026-10-17/all-the-news-about-the-iphone-duo.json",
-      "published_at_utc": "2026-10-17T01:16:58Z",
+      "published_at_utc": "2026-10-17T01:17:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-17/apple-s-updated-app-store-rules-go-after-nudify-ai-apps.png": {
