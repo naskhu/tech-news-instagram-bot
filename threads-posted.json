@@ -102841,12 +102841,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty.png": {
-      "buffer_due_at_utc": "2026-10-18T11:15:34.000Z",
+      "buffer_due_at_utc": "2026-10-18T11:17:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad4a163cde7082661534e03",
+      "buffer_post_id": "6ad4a168938409f1d0c79ace",
       "caption_file": "output/2026-10-18/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T11:17:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad4a168938409f1d0c79ace",
+          "published_at_utc": "2026-10-18T10:37:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T11:15:34.000Z",
           "buffer_mode": "customScheduled",
@@ -102856,7 +102862,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty.png",
       "metadata_file": "output/2026-10-18/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty.json",
-      "published_at_utc": "2026-10-18T10:37:23Z",
+      "published_at_utc": "2026-10-18T10:37:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/science-says-your-boss-should-talk-less-in-meetings.png": {
