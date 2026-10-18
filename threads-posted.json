@@ -103290,6 +103290,25 @@
       "published_at_utc": "2026-10-18T19:42:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/anthropic-is-committing-5-of-its-shares-to-a-public-benefit-fund.png": {
+      "buffer_due_at_utc": "2026-10-18T21:55:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad5403c769b457934deef30",
+      "caption_file": "output/2026-10-19/anthropic-is-committing-5-of-its-shares-to-a-public-benefit-fund.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-18T21:55:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad5403c769b457934deef30",
+          "published_at_utc": "2026-10-18T21:55:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/anthropic-is-committing-5-of-its-shares-to-a-public-benefit-fund.png",
+      "metadata_file": "output/2026-10-19/anthropic-is-committing-5-of-its-shares-to-a-public-benefit-fund.json",
+      "published_at_utc": "2026-10-18T21:55:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/everyone-s-watching-the-elizabeth-holmes-documentary-you-can-see-every.png": {
       "buffer_due_at_utc": "2026-10-18T20:03:35.000Z",
       "buffer_mode": "customScheduled",
