@@ -103266,12 +103266,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/a-savannah-police-officer-gave-her-flock-login-to-her-ice-agent-husban.png": {
-      "buffer_due_at_utc": "2026-10-18T23:55:30.000Z",
+      "buffer_due_at_utc": "2026-10-18T23:57:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad55c460b0d72757a437568",
+      "buffer_post_id": "6ad55c4b938409f1d0f04307",
       "caption_file": "output/2026-10-19/a-savannah-police-officer-gave-her-flock-login-to-her-ice-agent-husban.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T23:57:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad55c4b938409f1d0f04307",
+          "published_at_utc": "2026-10-18T23:54:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T23:55:30.000Z",
           "buffer_mode": "customScheduled",
@@ -103281,7 +103287,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/a-savannah-police-officer-gave-her-flock-login-to-her-ice-agent-husban.png",
       "metadata_file": "output/2026-10-19/a-savannah-police-officer-gave-her-flock-login-to-her-ice-agent-husban.json",
-      "published_at_utc": "2026-10-18T23:54:46Z",
+      "published_at_utc": "2026-10-18T23:54:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot.png": {
