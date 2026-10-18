@@ -102740,6 +102740,25 @@
       "published_at_utc": "2026-10-17T23:13:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-18/microplastics-react-with-water-a-new-study-says-that-s-a-problem-for-b.png": {
+      "buffer_due_at_utc": "2026-10-18T06:40:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad460fc0a208cb32351525d",
+      "caption_file": "output/2026-10-18/microplastics-react-with-water-a-new-study-says-that-s-a-problem-for-b.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-18T06:40:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad460fc0a208cb32351525d",
+          "published_at_utc": "2026-10-18T06:02:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/microplastics-react-with-water-a-new-study-says-that-s-a-problem-for-b.png",
+      "metadata_file": "output/2026-10-18/microplastics-react-with-water-a-new-study-says-that-s-a-problem-for-b.json",
+      "published_at_utc": "2026-10-18T06:02:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-18/no-kings-coalition-s-official-instagram-briefly-went-dark.png": {
       "buffer_due_at_utc": "2026-10-18T01:52:22.000Z",
       "buffer_mode": "customScheduled",
