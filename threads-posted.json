@@ -103341,12 +103341,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/nicolas-cage-and-antonio-banderas-will-star-in-true-detective-season-f.png": {
-      "buffer_due_at_utc": "2026-10-18T20:39:25.000Z",
+      "buffer_due_at_utc": "2026-10-18T20:41:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad52123a48c8f8371b04709",
+      "buffer_post_id": "6ad52128938409f1d0e4d6b7",
       "caption_file": "output/2026-10-19/nicolas-cage-and-antonio-banderas-will-star-in-true-detective-season-f.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T20:41:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad52128938409f1d0e4d6b7",
+          "published_at_utc": "2026-10-18T19:42:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T20:39:25.000Z",
           "buffer_mode": "customScheduled",
@@ -103356,7 +103362,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/nicolas-cage-and-antonio-banderas-will-star-in-true-detective-season-f.png",
       "metadata_file": "output/2026-10-19/nicolas-cage-and-antonio-banderas-will-star-in-true-detective-season-f.json",
-      "published_at_utc": "2026-10-18T19:42:27Z",
+      "published_at_utc": "2026-10-18T19:42:32Z",
       "publisher": "buffer_threads"
     }
   }
