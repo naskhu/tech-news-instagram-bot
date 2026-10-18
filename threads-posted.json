@@ -102915,6 +102915,25 @@
       "published_at_utc": "2026-10-18T01:12:28Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-18/this-serious-home-projector-lets-cinephiles-make-all-the-adjustments-t.png": {
+      "buffer_due_at_utc": "2026-10-18T11:34:29.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad4a16eae173d6e00f8ae3e",
+      "caption_file": "output/2026-10-18/this-serious-home-projector-lets-cinephiles-make-all-the-adjustments-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-18T11:34:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad4a16eae173d6e00f8ae3e",
+          "published_at_utc": "2026-10-18T10:37:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/this-serious-home-projector-lets-cinephiles-make-all-the-adjustments-t.png",
+      "metadata_file": "output/2026-10-18/this-serious-home-projector-lets-cinephiles-make-all-the-adjustments-t.json",
+      "published_at_utc": "2026-10-18T10:37:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-18/tiktok-bans-musk-documentary-account.png": {
       "buffer_due_at_utc": "2026-10-17T21:49:19.000Z",
       "buffer_mode": "customScheduled",
