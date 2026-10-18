@@ -102666,12 +102666,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/disney-agrees-to-hire-the-majority-of-character-ai-s-workforce-techcru.png": {
-      "buffer_due_at_utc": "2026-10-18T17:29:33.000Z",
+      "buffer_due_at_utc": "2026-10-18T17:31:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad501d10b0d72757a31477b",
+      "buffer_post_id": "6ad501d6ae173d6e00101089",
       "caption_file": "output/2026-10-18/disney-agrees-to-hire-the-majority-of-character-ai-s-workforce-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T17:31:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad501d6ae173d6e00101089",
+          "published_at_utc": "2026-10-18T17:28:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T17:29:33.000Z",
           "buffer_mode": "customScheduled",
@@ -102681,7 +102687,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/disney-agrees-to-hire-the-majority-of-character-ai-s-workforce-techcru.png",
       "metadata_file": "output/2026-10-18/disney-agrees-to-hire-the-majority-of-character-ai-s-workforce-techcru.json",
-      "published_at_utc": "2026-10-18T17:28:49Z",
+      "published_at_utc": "2026-10-18T17:28:54Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/don-t-let-a-crypto-inheritance-get-stuck-on-the-blockchain.png": {
