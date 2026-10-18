@@ -102916,12 +102916,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/why-ai-isn-t-ready-to-tackle-our-convoluted-genomes.png": {
-      "buffer_due_at_utc": "2026-10-18T06:59:43.000Z",
+      "buffer_due_at_utc": "2026-10-18T07:01:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad461070b0d72757a0c8fa9",
+      "buffer_post_id": "6ad4610d6d56c60a73fa2f23",
       "caption_file": "output/2026-10-18/why-ai-isn-t-ready-to-tackle-our-convoluted-genomes.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T07:01:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad4610d6d56c60a73fa2f23",
+          "published_at_utc": "2026-10-18T06:02:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T06:59:43.000Z",
           "buffer_mode": "customScheduled",
@@ -102931,7 +102937,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/why-ai-isn-t-ready-to-tackle-our-convoluted-genomes.png",
       "metadata_file": "output/2026-10-18/why-ai-isn-t-ready-to-tackle-our-convoluted-genomes.json",
-      "published_at_utc": "2026-10-18T06:02:48Z",
+      "published_at_utc": "2026-10-18T06:02:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/why-bioware-s-neverwinter-nights-still-has-thousands-of-active-players.png": {
