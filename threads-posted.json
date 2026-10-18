@@ -102615,6 +102615,25 @@
       "published_at_utc": "2026-10-18T01:11:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-18/htc-made-smart-glasses-that-are-way-more-private.png": {
+      "buffer_due_at_utc": "2026-10-18T01:31:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad41cdfae173d6e00df1d31",
+      "caption_file": "output/2026-10-18/htc-made-smart-glasses-that-are-way-more-private.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-18T01:31:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad41cdfae173d6e00df1d31",
+          "published_at_utc": "2026-10-18T01:11:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/htc-made-smart-glasses-that-are-way-more-private.png",
+      "metadata_file": "output/2026-10-18/htc-made-smart-glasses-that-are-way-more-private.json",
+      "published_at_utc": "2026-10-18T01:11:59Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-18/keep-up-with-the-latest-no-kings-news-on-the-states-newsroom-live-blog.png": {
       "buffer_due_at_utc": "2026-10-17T23:16:23.000Z",
       "buffer_mode": "customScheduled",
