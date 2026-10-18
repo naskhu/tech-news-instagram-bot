@@ -103515,6 +103515,25 @@
       "published_at_utc": "2026-10-18T23:55:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/what-s-your-favorite-documentary-feature-film.png": {
+      "buffer_due_at_utc": "2026-10-19T00:52:15.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad55c668206df0c0fa5f655",
+      "caption_file": "output/2026-10-19/what-s-your-favorite-documentary-feature-film.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T00:52:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad55c668206df0c0fa5f655",
+          "published_at_utc": "2026-10-18T23:55:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/what-s-your-favorite-documentary-feature-film.png",
+      "metadata_file": "output/2026-10-19/what-s-your-favorite-documentary-feature-film.json",
+      "published_at_utc": "2026-10-18T23:55:18Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/you-can-see-everything-has-the-biggest-opening-weekend-for-a-doc-in-20.png": {
       "buffer_due_at_utc": "2026-10-18T22:54:38.000Z",
       "buffer_mode": "customScheduled",
