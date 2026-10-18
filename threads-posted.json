@@ -102741,12 +102741,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/the-best-led-grow-lights-for-houseplants-this-winter-2026.png": {
-      "buffer_due_at_utc": "2026-10-18T02:09:17.000Z",
+      "buffer_due_at_utc": "2026-10-18T02:11:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad41cf60a208cb323459107",
+      "buffer_post_id": "6ad41cfc938409f1d0adff61",
       "caption_file": "output/2026-10-18/the-best-led-grow-lights-for-houseplants-this-winter-2026.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T02:11:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad41cfc938409f1d0adff61",
+          "published_at_utc": "2026-10-18T01:12:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T02:09:17.000Z",
           "buffer_mode": "customScheduled",
@@ -102756,7 +102762,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/the-best-led-grow-lights-for-houseplants-this-winter-2026.png",
       "metadata_file": "output/2026-10-18/the-best-led-grow-lights-for-houseplants-this-winter-2026.json",
-      "published_at_utc": "2026-10-18T01:12:22Z",
+      "published_at_utc": "2026-10-18T01:12:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/tiktok-bans-musk-documentary-account.png": {
