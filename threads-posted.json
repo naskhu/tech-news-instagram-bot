@@ -103390,6 +103390,25 @@
       "published_at_utc": "2026-10-18T19:42:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/lenovo-s-fast-comfy-steamos-handheld-is-hundreds-off.png": {
+      "buffer_due_at_utc": "2026-10-19T00:14:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad55c500a208cb323878dd4",
+      "caption_file": "output/2026-10-19/lenovo-s-fast-comfy-steamos-handheld-is-hundreds-off.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T00:14:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad55c500a208cb323878dd4",
+          "published_at_utc": "2026-10-18T23:54:56Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/lenovo-s-fast-comfy-steamos-handheld-is-hundreds-off.png",
+      "metadata_file": "output/2026-10-19/lenovo-s-fast-comfy-steamos-handheld-is-hundreds-off.json",
+      "published_at_utc": "2026-10-18T23:54:56Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/mister-organ-is-one-of-the-most-unsettling-documentaries-i-ve-ever-see.png": {
       "buffer_due_at_utc": "2026-10-18T20:22:30.000Z",
       "buffer_mode": "customScheduled",
