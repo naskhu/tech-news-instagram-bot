@@ -102741,12 +102741,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/j-mascis-has-nothing-better-to-do.png": {
-      "buffer_due_at_utc": "2026-10-18T14:31:46.000Z",
+      "buffer_due_at_utc": "2026-10-18T14:33:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad4d3c2ae173d6e0004c62b",
+      "buffer_post_id": "6ad4d3c7a48c8f83719e76f8",
       "caption_file": "output/2026-10-18/j-mascis-has-nothing-better-to-do.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T14:33:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad4d3c7a48c8f83719e76f8",
+          "published_at_utc": "2026-10-18T14:12:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T14:31:46.000Z",
           "buffer_mode": "customScheduled",
@@ -102756,7 +102762,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/j-mascis-has-nothing-better-to-do.png",
       "metadata_file": "output/2026-10-18/j-mascis-has-nothing-better-to-do.json",
-      "published_at_utc": "2026-10-18T14:12:18Z",
+      "published_at_utc": "2026-10-18T14:12:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/keep-up-with-the-latest-no-kings-news-on-the-states-newsroom-live-blog.png": {
