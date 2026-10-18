@@ -102690,6 +102690,25 @@
       "published_at_utc": "2026-10-17T23:13:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-18/no-kings-coalition-s-official-instagram-briefly-went-dark.png": {
+      "buffer_due_at_utc": "2026-10-18T01:50:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad41cebae173d6e00df1dfd",
+      "caption_file": "output/2026-10-18/no-kings-coalition-s-official-instagram-briefly-went-dark.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-18T01:50:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad41cebae173d6e00df1dfd",
+          "published_at_utc": "2026-10-18T01:12:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/no-kings-coalition-s-official-instagram-briefly-went-dark.png",
+      "metadata_file": "output/2026-10-18/no-kings-coalition-s-official-instagram-briefly-went-dark.json",
+      "published_at_utc": "2026-10-18T01:12:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-18/science-says-your-boss-should-talk-less-in-meetings.png": {
       "buffer_due_at_utc": "2026-10-17T23:54:13.000Z",
       "buffer_mode": "customScheduled",
