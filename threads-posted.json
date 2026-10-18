@@ -103166,12 +103166,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/video-game-ownership-bill-introduced-in-congress.png": {
-      "buffer_due_at_utc": "2026-10-18T18:26:18.000Z",
+      "buffer_due_at_utc": "2026-10-18T18:28:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad501f00b0d72757a314b0b",
+      "buffer_post_id": "6ad501f5ae173d6e0010168c",
       "caption_file": "output/2026-10-18/video-game-ownership-bill-introduced-in-congress.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T18:28:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad501f5ae173d6e0010168c",
+          "published_at_utc": "2026-10-18T17:29:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T18:26:18.000Z",
           "buffer_mode": "customScheduled",
@@ -103181,7 +103187,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/video-game-ownership-bill-introduced-in-congress.png",
       "metadata_file": "output/2026-10-18/video-game-ownership-bill-introduced-in-congress.json",
-      "published_at_utc": "2026-10-18T17:29:20Z",
+      "published_at_utc": "2026-10-18T17:29:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/what-ai-sees-when-it-sees-your-photos.png": {
