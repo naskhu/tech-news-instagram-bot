@@ -102941,12 +102941,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/the-best-gadget-i-bought-this-year-is-a-milk-frother.png": {
-      "buffer_due_at_utc": "2026-10-18T14:50:41.000Z",
+      "buffer_due_at_utc": "2026-10-18T14:52:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad4d3cda48c8f83719e7814",
+      "buffer_post_id": "6ad4d3d30a208cb3236ab26e",
       "caption_file": "output/2026-10-18/the-best-gadget-i-bought-this-year-is-a-milk-frother.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T14:52:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad4d3d30a208cb3236ab26e",
+          "published_at_utc": "2026-10-18T14:12:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T14:50:41.000Z",
           "buffer_mode": "customScheduled",
@@ -102956,7 +102962,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/the-best-gadget-i-bought-this-year-is-a-milk-frother.png",
       "metadata_file": "output/2026-10-18/the-best-gadget-i-bought-this-year-is-a-milk-frother.json",
-      "published_at_utc": "2026-10-18T14:12:29Z",
+      "published_at_utc": "2026-10-18T14:12:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/the-best-led-grow-lights-for-houseplants-this-winter-2026.png": {
