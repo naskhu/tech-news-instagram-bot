@@ -103439,6 +103439,25 @@
       "metadata_file": "output/2026-10-19/no-agenda-no-rush-no-leaving-san-francisco-benchmark-s-partners-on-inv.json",
       "published_at_utc": "2026-10-18T21:55:37Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-19/you-can-see-everything-has-the-biggest-opening-weekend-for-a-doc-in-20.png": {
+      "buffer_due_at_utc": "2026-10-18T22:52:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad5405f0b0d72757a3d94d6",
+      "caption_file": "output/2026-10-19/you-can-see-everything-has-the-biggest-opening-weekend-for-a-doc-in-20.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-18T22:52:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad5405f0b0d72757a3d94d6",
+          "published_at_utc": "2026-10-18T21:55:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/you-can-see-everything-has-the-biggest-opening-weekend-for-a-doc-in-20.png",
+      "metadata_file": "output/2026-10-19/you-can-see-everything-has-the-biggest-opening-weekend-for-a-doc-in-20.json",
+      "published_at_utc": "2026-10-18T21:55:43Z",
+      "publisher": "buffer_threads"
     }
   }
 }
