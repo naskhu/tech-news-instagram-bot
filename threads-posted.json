@@ -103316,12 +103316,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/anthropic-says-it-s-committing-5-of-its-shares-to-a-public-benefit-fun.png": {
-      "buffer_due_at_utc": "2026-10-18T22:14:48.000Z",
+      "buffer_due_at_utc": "2026-10-18T22:16:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad540480b0d72757a3d9227",
+      "buffer_post_id": "6ad5404d769b457934def0c5",
       "caption_file": "output/2026-10-19/anthropic-says-it-s-committing-5-of-its-shares-to-a-public-benefit-fun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T22:16:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad5404d769b457934def0c5",
+          "published_at_utc": "2026-10-18T21:55:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T22:14:48.000Z",
           "buffer_mode": "customScheduled",
@@ -103331,7 +103337,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/anthropic-says-it-s-committing-5-of-its-shares-to-a-public-benefit-fun.png",
       "metadata_file": "output/2026-10-19/anthropic-says-it-s-committing-5-of-its-shares-to-a-public-benefit-fun.json",
-      "published_at_utc": "2026-10-18T21:55:20Z",
+      "published_at_utc": "2026-10-18T21:55:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/everyone-s-watching-the-elizabeth-holmes-documentary-you-can-see-every.png": {
