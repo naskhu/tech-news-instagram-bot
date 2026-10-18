@@ -102591,12 +102591,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/encryption-is-getting-squeezed-from-all-sides.png": {
-      "buffer_due_at_utc": "2026-10-18T01:12:32.000Z",
+      "buffer_due_at_utc": "2026-10-18T01:14:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad41cd30a208cb323458d5c",
+      "buffer_post_id": "6ad41cd9938409f1d0adfbbb",
       "caption_file": "output/2026-10-18/encryption-is-getting-squeezed-from-all-sides.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-18T01:14:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad41cd9938409f1d0adfbbb",
+          "published_at_utc": "2026-10-18T01:11:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-18T01:12:32.000Z",
           "buffer_mode": "customScheduled",
@@ -102606,7 +102612,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-18/encryption-is-getting-squeezed-from-all-sides.png",
       "metadata_file": "output/2026-10-18/encryption-is-getting-squeezed-from-all-sides.json",
-      "published_at_utc": "2026-10-18T01:11:48Z",
+      "published_at_utc": "2026-10-18T01:11:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-18/keep-up-with-the-latest-no-kings-news-on-the-states-newsroom-live-blog.png": {
