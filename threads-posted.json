@@ -103314,6 +103314,25 @@
       "metadata_file": "output/2026-10-19/everyone-s-watching-the-elizabeth-holmes-documentary-you-can-see-every.json",
       "published_at_utc": "2026-10-18T19:42:12Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-19/mister-organ-is-one-of-the-most-unsettling-documentaries-i-ve-ever-see.png": {
+      "buffer_due_at_utc": "2026-10-18T20:20:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad521190b0d72757a37b031",
+      "caption_file": "output/2026-10-19/mister-organ-is-one-of-the-most-unsettling-documentaries-i-ve-ever-see.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-18T20:20:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad521190b0d72757a37b031",
+          "published_at_utc": "2026-10-18T19:42:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/mister-organ-is-one-of-the-most-unsettling-documentaries-i-ve-ever-see.png",
+      "metadata_file": "output/2026-10-19/mister-organ-is-one-of-the-most-unsettling-documentaries-i-ve-ever-see.json",
+      "published_at_utc": "2026-10-18T19:42:17Z",
+      "publisher": "buffer_threads"
     }
   }
 }
