@@ -103916,12 +103916,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.png": {
-      "buffer_due_at_utc": "2026-10-19T21:32:33.000Z",
+      "buffer_due_at_utc": "2026-10-19T21:34:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad6837d52bb7ebd605dddd3",
+      "buffer_post_id": "6ad683837b002f7cbe4e6bc2",
       "caption_file": "output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-19T21:34:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad683837b002f7cbe4e6bc2",
+          "published_at_utc": "2026-10-19T20:54:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-19T21:32:33.000Z",
           "buffer_mode": "customScheduled",
@@ -103931,7 +103937,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.png",
       "metadata_file": "output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.json",
-      "published_at_utc": "2026-10-19T20:54:22Z",
+      "published_at_utc": "2026-10-19T20:54:27Z",
       "publisher": "buffer_threads"
     }
   }
