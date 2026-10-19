@@ -103914,6 +103914,25 @@
       "metadata_file": "output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.json",
       "published_at_utc": "2026-10-19T20:54:16Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.png": {
+      "buffer_due_at_utc": "2026-10-19T21:32:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad6837d52bb7ebd605dddd3",
+      "caption_file": "output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T21:32:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad6837d52bb7ebd605dddd3",
+          "published_at_utc": "2026-10-19T20:54:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.png",
+      "metadata_file": "output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.json",
+      "published_at_utc": "2026-10-19T20:54:22Z",
+      "publisher": "buffer_threads"
     }
   }
 }
