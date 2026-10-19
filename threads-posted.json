@@ -103889,6 +103889,25 @@
       "metadata_file": "output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.json",
       "published_at_utc": "2026-10-19T20:54:04Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.png": {
+      "buffer_due_at_utc": "2026-10-19T21:13:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad683724d814f3c38390ede",
+      "caption_file": "output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T21:13:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad683724d814f3c38390ede",
+          "published_at_utc": "2026-10-19T20:54:10Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.png",
+      "metadata_file": "output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.json",
+      "published_at_utc": "2026-10-19T20:54:10Z",
+      "publisher": "buffer_threads"
     }
   }
 }
