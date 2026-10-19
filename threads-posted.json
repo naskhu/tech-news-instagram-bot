@@ -103315,6 +103315,25 @@
       "published_at_utc": "2026-10-18T19:42:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.png": {
+      "buffer_due_at_utc": "2026-10-19T02:49:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad58523ae173d6e002a5df4",
+      "caption_file": "output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T02:49:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad58523ae173d6e002a5df4",
+          "published_at_utc": "2026-10-19T02:49:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.png",
+      "metadata_file": "output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.json",
+      "published_at_utc": "2026-10-19T02:49:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/anthropic-is-committing-5-of-its-shares-to-a-public-benefit-fund.png": {
       "buffer_due_at_utc": "2026-10-18T21:57:53.000Z",
       "buffer_mode": "customScheduled",
