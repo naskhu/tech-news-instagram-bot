@@ -103640,6 +103640,25 @@
       "published_at_utc": "2026-10-18T19:42:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares-tec.png": {
+      "buffer_due_at_utc": "2026-10-19T17:04:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad6448e983a9a91498e62de",
+      "caption_file": "output/2026-10-19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares-tec.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T17:04:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad6448e983a9a91498e62de",
+          "published_at_utc": "2026-10-19T16:25:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares-tec.png",
+      "metadata_file": "output/2026-10-19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares-tec.json",
+      "published_at_utc": "2026-10-19T16:25:50Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/nicolas-cage-and-antonio-banderas-will-star-in-true-detective-season-f.png": {
       "buffer_due_at_utc": "2026-10-18T20:41:25.000Z",
       "buffer_mode": "customScheduled",
