@@ -103866,12 +103866,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.png": {
-      "buffer_due_at_utc": "2026-10-19T20:54:43.000Z",
+      "buffer_due_at_utc": "2026-10-19T20:56:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad683674d814f3c38390b55",
+      "buffer_post_id": "6ad6836c46c9e2453b9f6ed7",
       "caption_file": "output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-19T20:56:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad6836c46c9e2453b9f6ed7",
+          "published_at_utc": "2026-10-19T20:54:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-19T20:54:43.000Z",
           "buffer_mode": "customScheduled",
@@ -103881,7 +103887,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.png",
       "metadata_file": "output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.json",
-      "published_at_utc": "2026-10-19T20:53:59Z",
+      "published_at_utc": "2026-10-19T20:54:04Z",
       "publisher": "buffer_threads"
     }
   }
