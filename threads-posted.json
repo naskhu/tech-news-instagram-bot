@@ -103939,6 +103939,25 @@
       "metadata_file": "output/2026-10-20/replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-yea.json",
       "published_at_utc": "2026-10-19T20:54:27Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-20/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life-te.png": {
+      "buffer_due_at_utc": "2026-10-19T21:51:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad683894d814f3c38391064",
+      "caption_file": "output/2026-10-20/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life-te.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T21:51:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad683894d814f3c38391064",
+          "published_at_utc": "2026-10-19T20:54:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life-te.png",
+      "metadata_file": "output/2026-10-20/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life-te.json",
+      "published_at_utc": "2026-10-19T20:54:33Z",
+      "publisher": "buffer_threads"
     }
   }
 }
