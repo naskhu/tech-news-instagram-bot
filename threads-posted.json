@@ -103616,12 +103616,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/yes-your-airpods-need-a-better-case-these-are-the-best-for-stylish-pro.png": {
-      "buffer_due_at_utc": "2026-10-19T03:46:36.000Z",
+      "buffer_due_at_utc": "2026-10-19T03:48:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad585468206df0c0fad8b42",
+      "buffer_post_id": "6ad5854bae173d6e002a65cb",
       "caption_file": "output/2026-10-19/yes-your-airpods-need-a-better-case-these-are-the-best-for-stylish-pro.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-19T03:48:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad5854bae173d6e002a65cb",
+          "published_at_utc": "2026-10-19T02:49:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-19T03:46:36.000Z",
           "buffer_mode": "customScheduled",
@@ -103631,7 +103637,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/yes-your-airpods-need-a-better-case-these-are-the-best-for-stylish-pro.png",
       "metadata_file": "output/2026-10-19/yes-your-airpods-need-a-better-case-these-are-the-best-for-stylish-pro.json",
-      "published_at_utc": "2026-10-19T02:49:42Z",
+      "published_at_utc": "2026-10-19T02:49:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/you-can-see-everything-has-the-biggest-opening-weekend-for-a-doc-in-20.png": {
