@@ -103891,12 +103891,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.png": {
-      "buffer_due_at_utc": "2026-10-19T21:13:38.000Z",
+      "buffer_due_at_utc": "2026-10-19T21:15:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad683724d814f3c38390ede",
+      "buffer_post_id": "6ad683787b002f7cbe4e6acb",
       "caption_file": "output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-19T21:15:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad683787b002f7cbe4e6acb",
+          "published_at_utc": "2026-10-19T20:54:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-19T21:13:38.000Z",
           "buffer_mode": "customScheduled",
@@ -103906,7 +103912,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.png",
       "metadata_file": "output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.json",
-      "published_at_utc": "2026-10-19T20:54:10Z",
+      "published_at_utc": "2026-10-19T20:54:16Z",
       "publisher": "buffer_threads"
     }
   }
