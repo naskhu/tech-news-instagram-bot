@@ -103316,12 +103316,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.png": {
-      "buffer_due_at_utc": "2026-10-19T02:49:51.000Z",
+      "buffer_due_at_utc": "2026-10-19T02:51:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad58523ae173d6e002a5df4",
+      "buffer_post_id": "6ad585298206df0c0fad871e",
       "caption_file": "output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-19T02:51:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad585298206df0c0fad871e",
+          "published_at_utc": "2026-10-19T02:49:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-19T02:49:51.000Z",
           "buffer_mode": "customScheduled",
@@ -103331,7 +103337,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.png",
       "metadata_file": "output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.json",
-      "published_at_utc": "2026-10-19T02:49:07Z",
+      "published_at_utc": "2026-10-19T02:49:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/anthropic-is-committing-5-of-its-shares-to-a-public-benefit-fund.png": {
