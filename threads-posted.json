@@ -103515,6 +103515,25 @@
       "published_at_utc": "2026-10-19T08:25:51Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-india-s-h.png": {
+      "buffer_due_at_utc": "2026-10-19T09:04:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad5d4158499c6b28d729f61",
+      "caption_file": "output/2026-10-19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-india-s-h.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T09:04:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad5d4158499c6b28d729f61",
+          "published_at_utc": "2026-10-19T08:25:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-india-s-h.png",
+      "metadata_file": "output/2026-10-19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-india-s-h.json",
+      "published_at_utc": "2026-10-19T08:25:57Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/lenovo-s-fast-comfy-steamos-handheld-is-hundreds-off.png": {
       "buffer_due_at_utc": "2026-10-19T00:16:25.000Z",
       "buffer_mode": "customScheduled",
