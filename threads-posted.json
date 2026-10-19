@@ -103415,6 +103415,25 @@
       "published_at_utc": "2026-10-18T21:55:26Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-ap.png": {
+      "buffer_due_at_utc": "2026-10-19T16:26:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad644768652c01563b0415a",
+      "caption_file": "output/2026-10-19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-ap.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T16:26:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad644768652c01563b0415a",
+          "published_at_utc": "2026-10-19T16:25:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-ap.png",
+      "metadata_file": "output/2026-10-19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-ap.json",
+      "published_at_utc": "2026-10-19T16:25:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/cities-want-to-put-the-boot-on-robotaxis.png": {
       "buffer_due_at_utc": "2026-10-19T03:10:46.000Z",
       "buffer_mode": "customScheduled",
