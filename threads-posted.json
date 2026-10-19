@@ -103864,6 +103864,25 @@
       "metadata_file": "output/2026-10-19/you-can-see-everything-has-the-biggest-opening-weekend-for-a-doc-in-20.json",
       "published_at_utc": "2026-10-18T21:55:49Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.png": {
+      "buffer_due_at_utc": "2026-10-19T20:54:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad683674d814f3c38390b55",
+      "caption_file": "output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T20:54:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad683674d814f3c38390b55",
+          "published_at_utc": "2026-10-19T20:53:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.png",
+      "metadata_file": "output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.json",
+      "published_at_utc": "2026-10-19T20:53:59Z",
+      "publisher": "buffer_threads"
     }
   }
 }
