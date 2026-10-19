@@ -103490,6 +103490,25 @@
       "published_at_utc": "2026-10-18T19:42:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/japan-is-launching-a-mars-moon-probe-later-today.png": {
+      "buffer_due_at_utc": "2026-10-19T08:45:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad5d40afd8708632325e800",
+      "caption_file": "output/2026-10-19/japan-is-launching-a-mars-moon-probe-later-today.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T08:45:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad5d40afd8708632325e800",
+          "published_at_utc": "2026-10-19T08:25:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/japan-is-launching-a-mars-moon-probe-later-today.png",
+      "metadata_file": "output/2026-10-19/japan-is-launching-a-mars-moon-probe-later-today.json",
+      "published_at_utc": "2026-10-19T08:25:46Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/lenovo-s-fast-comfy-steamos-handheld-is-hundreds-off.png": {
       "buffer_due_at_utc": "2026-10-19T00:16:25.000Z",
       "buffer_mode": "customScheduled",
