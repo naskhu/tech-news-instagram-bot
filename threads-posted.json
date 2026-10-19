@@ -103315,6 +103315,25 @@
       "published_at_utc": "2026-10-18T19:42:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-19/amazon-luna-in-prime-video-is-coming-to-more-countries.png": {
+      "buffer_due_at_utc": "2026-10-19T08:26:17.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad5d3fc41a12ee99c6f86d7",
+      "caption_file": "output/2026-10-19/amazon-luna-in-prime-video-is-coming-to-more-countries.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-19T08:26:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad5d3fc41a12ee99c6f86d7",
+          "published_at_utc": "2026-10-19T08:25:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/amazon-luna-in-prime-video-is-coming-to-more-countries.png",
+      "metadata_file": "output/2026-10-19/amazon-luna-in-prime-video-is-coming-to-more-countries.json",
+      "published_at_utc": "2026-10-19T08:25:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-19/anthropic-gives-outside-ai-watchdog-employee-like-access.png": {
       "buffer_due_at_utc": "2026-10-19T02:51:51.000Z",
       "buffer_mode": "customScheduled",
