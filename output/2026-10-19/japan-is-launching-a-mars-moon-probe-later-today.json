@@ -1,0 +1,23 @@
+{
+  "title": "Japan is launching a Mars moon probe later today.",
+  "summary": "The Martian Moons eXploration mission is scheduled to launch at 2:41PM ET and, if successful, should return to Earth in 2031 carrying samples from Phobos.",
+  "source": "The Verge",
+  "url": "https://theverge.com/science/1013577/japan-is-launching-a-mars-moon-probe-later-today",
+  "published_utc": "2026-10-19T08:10:54+00:00",
+  "output_day": "2026-10-19",
+  "date_source": "meta",
+  "generated_utc": "2026-10-19T08:23:45.071856+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-10-19/japan-is-launching-a-mars-moon-probe-later-today.png",
+  "caption": "output/2026-10-19/japan-is-launching-a-mars-moon-probe-later-today.txt"
+}
