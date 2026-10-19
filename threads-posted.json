@@ -103491,12 +103491,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/dozens-of-towns-have-found-ways-to-install-flock-cameras-before-reside.png": {
-      "buffer_due_at_utc": "2026-10-19T16:45:05.000Z",
+      "buffer_due_at_utc": "2026-10-19T16:47:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad644828652c01563b0430b",
+      "buffer_post_id": "6ad644888652c01563b0446b",
       "caption_file": "output/2026-10-19/dozens-of-towns-have-found-ways-to-install-flock-cameras-before-reside.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-19T16:47:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad644888652c01563b0446b",
+          "published_at_utc": "2026-10-19T16:25:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-19T16:45:05.000Z",
           "buffer_mode": "customScheduled",
@@ -103506,7 +103512,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/dozens-of-towns-have-found-ways-to-install-flock-cameras-before-reside.png",
       "metadata_file": "output/2026-10-19/dozens-of-towns-have-found-ways-to-install-flock-cameras-before-reside.json",
-      "published_at_utc": "2026-10-19T16:25:38Z",
+      "published_at_utc": "2026-10-19T16:25:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/everyone-s-watching-the-elizabeth-holmes-documentary-you-can-see-every.png": {
