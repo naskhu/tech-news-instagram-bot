@@ -103641,12 +103641,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/the-best-phone-cameras-you-can-buy-right-now.png": {
-      "buffer_due_at_utc": "2026-10-19T09:23:02.000Z",
+      "buffer_due_at_utc": "2026-10-19T09:25:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad5d4207ad0c844b40c444f",
+      "buffer_post_id": "6ad5d4254572d5e4b66ded65",
       "caption_file": "output/2026-10-19/the-best-phone-cameras-you-can-buy-right-now.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-19T09:25:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad5d4254572d5e4b66ded65",
+          "published_at_utc": "2026-10-19T08:26:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-19T09:23:02.000Z",
           "buffer_mode": "customScheduled",
@@ -103656,7 +103662,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-19/the-best-phone-cameras-you-can-buy-right-now.png",
       "metadata_file": "output/2026-10-19/the-best-phone-cameras-you-can-buy-right-now.json",
-      "published_at_utc": "2026-10-19T08:26:08Z",
+      "published_at_utc": "2026-10-19T08:26:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-19/the-musk-documentary-s-tiktok-ad-account-has-been-restored-after-an-er.png": {
