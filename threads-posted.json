@@ -104183,10 +104183,15 @@
     },
     "output/2026-10-20/meta-s-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-o.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ad7b75ae519c58f0e12d06f",
+      "buffer_post_id": "6ad7b76759e93798fafbe80f",
       "caption_file": "output/2026-10-20/meta-s-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-o.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad7b76759e93798fafbe80f",
+          "published_at_utc": "2026-10-20T18:48:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ad7b75ae519c58f0e12d06f",
@@ -104195,7 +104200,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/meta-s-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-o.png",
       "metadata_file": "output/2026-10-20/meta-s-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-o.json",
-      "published_at_utc": "2026-10-20T18:48:01Z",
+      "published_at_utc": "2026-10-20T18:48:15Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-c.png": {
