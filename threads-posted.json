@@ -103866,12 +103866,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/ai-assistant-startup-town-nabs-unicorn-valuation-4-months-after-launch.png": {
-      "buffer_due_at_utc": "2026-10-20T05:00:41.000Z",
+      "buffer_due_at_utc": "2026-10-20T05:02:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad6f54dcba41b01405fbefd",
+      "buffer_post_id": "6ad6f553e9c669def5ededde",
       "caption_file": "output/2026-10-20/ai-assistant-startup-town-nabs-unicorn-valuation-4-months-after-launch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-20T05:02:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad6f553e9c669def5ededde",
+          "published_at_utc": "2026-10-20T05:00:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-20T05:00:41.000Z",
           "buffer_mode": "customScheduled",
@@ -103881,7 +103887,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/ai-assistant-startup-town-nabs-unicorn-valuation-4-months-after-launch.png",
       "metadata_file": "output/2026-10-20/ai-assistant-startup-town-nabs-unicorn-valuation-4-months-after-launch.json",
-      "published_at_utc": "2026-10-20T04:59:57Z",
+      "published_at_utc": "2026-10-20T05:00:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-d.png": {
