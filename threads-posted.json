@@ -104241,12 +104241,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/spacex-alum-s-aviation-startup-reliable-robotics-lands-115m-topping-1b.png": {
-      "buffer_due_at_utc": "2026-10-20T15:19:37.000Z",
+      "buffer_due_at_utc": "2026-10-20T15:21:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad77d96c52c0706fd9271a9",
+      "buffer_post_id": "6ad77d9c8e28a63abaf0493e",
       "caption_file": "output/2026-10-20/spacex-alum-s-aviation-startup-reliable-robotics-lands-115m-topping-1b.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-20T15:21:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad77d9c8e28a63abaf0493e",
+          "published_at_utc": "2026-10-20T14:41:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-20T15:19:37.000Z",
           "buffer_mode": "customScheduled",
@@ -104256,7 +104262,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/spacex-alum-s-aviation-startup-reliable-robotics-lands-115m-topping-1b.png",
       "metadata_file": "output/2026-10-20/spacex-alum-s-aviation-startup-reliable-robotics-lands-115m-topping-1b.json",
-      "published_at_utc": "2026-10-20T14:41:26Z",
+      "published_at_utc": "2026-10-20T14:41:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips-techcrun.png": {
