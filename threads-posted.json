@@ -104016,12 +104016,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips-techcrun.png": {
-      "buffer_due_at_utc": "2026-10-20T01:05:23.000Z",
+      "buffer_due_at_utc": "2026-10-20T01:07:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad6b0fe9d034d7aedcd3c20",
+      "buffer_post_id": "6ad6b104b81183413da4990d",
       "caption_file": "output/2026-10-20/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips-techcrun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-20T01:07:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad6b104b81183413da4990d",
+          "published_at_utc": "2026-10-20T00:08:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-20T01:05:23.000Z",
           "buffer_mode": "customScheduled",
@@ -104031,7 +104037,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips-techcrun.png",
       "metadata_file": "output/2026-10-20/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips-techcrun.json",
-      "published_at_utc": "2026-10-20T00:08:30Z",
+      "published_at_utc": "2026-10-20T00:08:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life-te.png": {
