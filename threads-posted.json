@@ -103965,6 +103965,23 @@
       "published_at_utc": "2026-10-20T09:50:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-20/chatgpt-now-lets-you-lock-your-chats.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ad7b6ffec26959816689347",
+      "caption_file": "output/2026-10-20/chatgpt-now-lets-you-lock-your-chats.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad7b6ffec26959816689347",
+          "published_at_utc": "2026-10-20T18:46:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/chatgpt-now-lets-you-lock-your-chats.png",
+      "metadata_file": "output/2026-10-20/chatgpt-now-lets-you-lock-your-chats.json",
+      "published_at_utc": "2026-10-20T18:46:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-20/eka-is-worth-1-45b-thanks-to-a-physical-ai-model-that-has-experts-ravi.png": {
       "buffer_due_at_utc": "2026-10-20T14:43:47.000Z",
       "buffer_mode": "customScheduled",
