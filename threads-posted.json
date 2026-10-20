@@ -104479,12 +104479,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-21/openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business-.png": {
-      "buffer_due_at_utc": "2026-10-20T22:24:45.000Z",
+      "buffer_due_at_utc": "2026-10-20T22:26:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad7e59e294af05c91b9cb34",
+      "buffer_post_id": "6ad7e5a4d89405ab33f5a88c",
       "caption_file": "output/2026-10-21/openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-20T22:26:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad7e5a4d89405ab33f5a88c",
+          "published_at_utc": "2026-10-20T22:05:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-20T22:24:45.000Z",
           "buffer_mode": "customScheduled",
@@ -104494,7 +104500,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business-.png",
       "metadata_file": "output/2026-10-21/openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business-.json",
-      "published_at_utc": "2026-10-20T22:05:18Z",
+      "published_at_utc": "2026-10-20T22:05:24Z",
       "publisher": "buffer_threads"
     }
   }
