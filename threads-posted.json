@@ -103941,12 +103941,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasi.png": {
-      "buffer_due_at_utc": "2026-10-20T10:09:37.000Z",
+      "buffer_due_at_utc": "2026-10-20T10:11:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad73951fc46f49b9286a0d0",
+      "buffer_post_id": "6ad7395695f8ed1a3c84b144",
       "caption_file": "output/2026-10-20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasi.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-20T10:11:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad7395695f8ed1a3c84b144",
+          "published_at_utc": "2026-10-20T09:50:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-20T10:09:37.000Z",
           "buffer_mode": "customScheduled",
@@ -103956,7 +103962,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasi.png",
       "metadata_file": "output/2026-10-20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasi.json",
-      "published_at_utc": "2026-10-20T09:50:09Z",
+      "published_at_utc": "2026-10-20T09:50:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/embedded-ai-evaluators-won-t-be-an-easy-solution-hugging-face-s-policy.png": {
