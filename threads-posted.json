@@ -104316,12 +104316,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-sy.png": {
-      "buffer_due_at_utc": "2026-10-20T15:38:32.000Z",
+      "buffer_due_at_utc": "2026-10-20T15:40:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad77da38e28a63abaf04abd",
+      "buffer_post_id": "6ad77da93b892b3795170b62",
       "caption_file": "output/2026-10-20/us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-sy.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-20T15:40:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad77da93b892b3795170b62",
+          "published_at_utc": "2026-10-20T14:41:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-20T15:38:32.000Z",
           "buffer_mode": "customScheduled",
@@ -104331,7 +104337,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-sy.png",
       "metadata_file": "output/2026-10-20/us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-sy.json",
-      "published_at_utc": "2026-10-20T14:41:39Z",
+      "published_at_utc": "2026-10-20T14:41:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/walmart-s-flipkart-is-quietly-building-a-food-delivery-challenger-in-i.png": {
