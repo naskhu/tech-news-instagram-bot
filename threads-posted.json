@@ -103916,12 +103916,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant-.png": {
-      "buffer_due_at_utc": "2026-10-20T09:50:42.000Z",
+      "buffer_due_at_utc": "2026-10-20T09:52:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad7394595f8ed1a3c84ace2",
+      "buffer_post_id": "6ad7394b95f8ed1a3c84aed1",
       "caption_file": "output/2026-10-20/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-20T09:52:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad7394b95f8ed1a3c84aed1",
+          "published_at_utc": "2026-10-20T09:50:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-20T09:50:42.000Z",
           "buffer_mode": "customScheduled",
@@ -103931,7 +103937,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant-.png",
       "metadata_file": "output/2026-10-20/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant-.json",
-      "published_at_utc": "2026-10-20T09:49:57Z",
+      "published_at_utc": "2026-10-20T09:50:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/embedded-ai-evaluators-won-t-be-an-easy-solution-hugging-face-s-policy.png": {
