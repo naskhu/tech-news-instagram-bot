@@ -104039,10 +104039,15 @@
     },
     "output/2026-10-20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-da.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ad7b71f53a36a527e492d41",
+      "buffer_post_id": "6ad7b72c53a36a527e492f59",
       "caption_file": "output/2026-10-20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-da.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad7b72c53a36a527e492f59",
+          "published_at_utc": "2026-10-20T18:47:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ad7b71f53a36a527e492d41",
@@ -104051,7 +104056,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-da.png",
       "metadata_file": "output/2026-10-20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-da.json",
-      "published_at_utc": "2026-10-20T18:47:02Z",
+      "published_at_utc": "2026-10-20T18:47:18Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol-tech.png": {
