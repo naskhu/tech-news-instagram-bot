@@ -104084,6 +104084,23 @@
       "published_at_utc": "2026-10-20T14:41:20Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-20/google-has-joined-amazon-in-attacking-nvidia-s-stronghold-with-ai-app-.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ad7b73ce519c58f0e12cc36",
+      "caption_file": "output/2026-10-20/google-has-joined-amazon-in-attacking-nvidia-s-stronghold-with-ai-app-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ad7b73ce519c58f0e12cc36",
+          "published_at_utc": "2026-10-20T18:47:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/google-has-joined-amazon-in-attacking-nvidia-s-stronghold-with-ai-app-.png",
+      "metadata_file": "output/2026-10-20/google-has-joined-amazon-in-attacking-nvidia-s-stronghold-with-ai-app-.json",
+      "published_at_utc": "2026-10-20T18:47:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-20/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-acc.png": {
       "buffer_due_at_utc": "2026-10-19T21:15:38.000Z",
       "buffer_mode": "customScheduled",
