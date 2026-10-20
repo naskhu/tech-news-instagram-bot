@@ -104315,6 +104315,25 @@
       "published_at_utc": "2026-10-19T20:54:38Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-20/us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-sy.png": {
+      "buffer_due_at_utc": "2026-10-20T15:38:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad77da38e28a63abaf04abd",
+      "caption_file": "output/2026-10-20/us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-sy.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-20T15:38:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad77da38e28a63abaf04abd",
+          "published_at_utc": "2026-10-20T14:41:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-20/us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-sy.png",
+      "metadata_file": "output/2026-10-20/us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-sy.json",
+      "published_at_utc": "2026-10-20T14:41:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-20/walmart-s-flipkart-is-quietly-building-a-food-delivery-challenger-in-i.png": {
       "buffer_due_at_utc": "2026-10-20T05:59:26.000Z",
       "buffer_mode": "customScheduled",
