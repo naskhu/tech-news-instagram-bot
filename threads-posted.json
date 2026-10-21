@@ -105002,6 +105002,25 @@
       "metadata_file": "output/2026-10-22/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation-techcru.json",
       "published_at_utc": "2026-10-21T19:26:40Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-22/php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-in.png": {
+      "buffer_due_at_utc": "2026-10-21T20:04:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad911f66f7e62fb4f149cb4",
+      "caption_file": "output/2026-10-22/php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-in.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T20:04:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad911f66f7e62fb4f149cb4",
+          "published_at_utc": "2026-10-21T19:26:46Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-in.png",
+      "metadata_file": "output/2026-10-22/php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-in.json",
+      "published_at_utc": "2026-10-21T19:26:46Z",
+      "publisher": "buffer_threads"
     }
   }
 }
