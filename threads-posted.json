@@ -104529,12 +104529,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-21/exclusive-plants-can-speak-using-electricity-so-this-startup-built-an-.png": {
-      "buffer_due_at_utc": "2026-10-21T05:39:08.000Z",
+      "buffer_due_at_utc": "2026-10-21T05:41:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad84b6dd894396f66c8a46f",
+      "buffer_post_id": "6ad84b73a9967de04976cbf4",
       "caption_file": "output/2026-10-21/exclusive-plants-can-speak-using-electricity-so-this-startup-built-an-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-21T05:41:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad84b73a9967de04976cbf4",
+          "published_at_utc": "2026-10-21T05:19:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-21T05:39:08.000Z",
           "buffer_mode": "customScheduled",
@@ -104544,7 +104550,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/exclusive-plants-can-speak-using-electricity-so-this-startup-built-an-.png",
       "metadata_file": "output/2026-10-21/exclusive-plants-can-speak-using-electricity-so-this-startup-built-an-.json",
-      "published_at_utc": "2026-10-21T05:19:41Z",
+      "published_at_utc": "2026-10-21T05:19:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-21/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-.png": {
