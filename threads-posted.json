@@ -104528,6 +104528,25 @@
       "published_at_utc": "2026-10-21T00:32:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-21/hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-isn-t-ac.png": {
+      "buffer_due_at_utc": "2026-10-21T01:11:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad8083be591f1f2d27bde8d",
+      "caption_file": "output/2026-10-21/hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-isn-t-ac.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T01:11:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad8083be591f1f2d27bde8d",
+          "published_at_utc": "2026-10-21T00:32:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-isn-t-ac.png",
+      "metadata_file": "output/2026-10-21/hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-isn-t-ac.json",
+      "published_at_utc": "2026-10-21T00:32:59Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-21/openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business-.png": {
       "buffer_due_at_utc": "2026-10-20T22:26:45.000Z",
       "buffer_mode": "customScheduled",
