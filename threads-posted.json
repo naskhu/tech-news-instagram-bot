@@ -104504,12 +104504,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-21/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era-t.png": {
-      "buffer_due_at_utc": "2026-10-21T05:20:13.000Z",
+      "buffer_due_at_utc": "2026-10-21T05:22:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad84b61a9967de04976c9dc",
+      "buffer_post_id": "6ad84b67d894396f66c8a3f9",
       "caption_file": "output/2026-10-21/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-21T05:22:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad84b67d894396f66c8a3f9",
+          "published_at_utc": "2026-10-21T05:19:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-21T05:20:13.000Z",
           "buffer_mode": "customScheduled",
@@ -104519,7 +104525,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era-t.png",
       "metadata_file": "output/2026-10-21/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era-t.json",
-      "published_at_utc": "2026-10-21T05:19:29Z",
+      "published_at_utc": "2026-10-21T05:19:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-21/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-.png": {
