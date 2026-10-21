@@ -104629,12 +104629,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-21/insecure-tls-certificates-will-be-a-massive-cleanup-job-for-system-adm.png": {
-      "buffer_due_at_utc": "2026-10-21T10:21:02.000Z",
+      "buffer_due_at_utc": "2026-10-21T10:23:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad891e1d803b33b75381bcc",
+      "buffer_post_id": "6ad891e7611a87957c8ed1ec",
       "caption_file": "output/2026-10-21/insecure-tls-certificates-will-be-a-massive-cleanup-job-for-system-adm.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-21T10:23:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad891e7611a87957c8ed1ec",
+          "published_at_utc": "2026-10-21T10:20:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-21T10:21:02.000Z",
           "buffer_mode": "customScheduled",
@@ -104644,7 +104650,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/insecure-tls-certificates-will-be-a-massive-cleanup-job-for-system-adm.png",
       "metadata_file": "output/2026-10-21/insecure-tls-certificates-will-be-a-massive-cleanup-job-for-system-adm.json",
-      "published_at_utc": "2026-10-21T10:20:17Z",
+      "published_at_utc": "2026-10-21T10:20:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-21/openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business-.png": {
