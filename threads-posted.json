@@ -105127,6 +105127,25 @@
       "metadata_file": "output/2026-10-22/the-internet-is-having-a-very-bad-cybersecurity-day-techcrunch.json",
       "published_at_utc": "2026-10-21T19:27:04Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.png": {
+      "buffer_due_at_utc": "2026-10-21T23:43:44.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad940d8d0598dd30cf97894",
+      "caption_file": "output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T23:43:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad940d8d0598dd30cf97894",
+          "published_at_utc": "2026-10-21T22:46:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.png",
+      "metadata_file": "output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.json",
+      "published_at_utc": "2026-10-21T22:46:48Z",
+      "publisher": "buffer_threads"
     }
   }
 }
