@@ -104553,6 +104553,25 @@
       "published_at_utc": "2026-10-21T05:19:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-21/exclusive-heat-pump-tech-is-170-years-old-pascal-thinks-it-s-time-for-.png": {
+      "buffer_due_at_utc": "2026-10-21T15:44:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad8d957d7ec68457b6af6bd",
+      "caption_file": "output/2026-10-21/exclusive-heat-pump-tech-is-170-years-old-pascal-thinks-it-s-time-for-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T15:44:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad8d957d7ec68457b6af6bd",
+          "published_at_utc": "2026-10-21T15:25:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/exclusive-heat-pump-tech-is-170-years-old-pascal-thinks-it-s-time-for-.png",
+      "metadata_file": "output/2026-10-21/exclusive-heat-pump-tech-is-170-years-old-pascal-thinks-it-s-time-for-.json",
+      "published_at_utc": "2026-10-21T15:25:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-21/exclusive-plants-can-speak-using-electricity-so-this-startup-built-an-.png": {
       "buffer_due_at_utc": "2026-10-21T05:41:08.000Z",
       "buffer_mode": "customScheduled",
