@@ -1,0 +1,23 @@
+{
+  "title": "The internet is having a very bad cybersecurity day | TechCrunch",
+  "summary": "Buy One Founder Summit Ticket, Get a Second for Free. One allowed remote code execution, and two others would have permitted a TLS validation bypass, potentially allowing attackers to bypass checks intended to verify a server’s identity.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day",
+  "published_utc": "2026-10-21T19:03:28+00:00",
+  "output_day": "2026-10-22",
+  "date_source": "meta",
+  "generated_utc": "2026-10-21T19:24:34.241665+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-22/the-internet-is-having-a-very-bad-cybersecurity-day-techcrunch.png",
+  "caption": "output/2026-10-22/the-internet-is-having-a-very-bad-cybersecurity-day-techcrunch.txt"
+}

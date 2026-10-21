@@ -1,0 +1,23 @@
+{
+  "title": "PHP armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet | TechCrunch",
+  "summary": "Both OpenAI and Wiz followed responsible security research practices and worked with PHP on patches before publicly disclosing the flaws. LLMs can help adapt an exploit to different PHP versions, configurations and memory layouts,” Wiz warned in its blog about the flaws.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+  "published_utc": "2026-10-21T17:59:12+00:00",
+  "output_day": "2026-10-22",
+  "date_source": "meta",
+  "generated_utc": "2026-10-21T19:24:38.248621+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-22/php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-in.png",
+  "caption": "output/2026-10-22/php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-in.txt"
+}
