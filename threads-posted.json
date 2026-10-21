@@ -104827,6 +104827,25 @@
       "metadata_file": "output/2026-10-21/youtube-has-a-new-way-to-protect-hacked-channels.json",
       "published_at_utc": "2026-10-21T10:20:46Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-21/youtube-might-be-testing-hiding-the-dislike-button.png": {
+      "buffer_due_at_utc": "2026-10-21T11:17:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad89204eeda5396835d93bd",
+      "caption_file": "output/2026-10-21/youtube-might-be-testing-hiding-the-dislike-button.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T11:17:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad89204eeda5396835d93bd",
+          "published_at_utc": "2026-10-21T10:20:53Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/youtube-might-be-testing-hiding-the-dislike-button.png",
+      "metadata_file": "output/2026-10-21/youtube-might-be-testing-hiding-the-dislike-button.json",
+      "published_at_utc": "2026-10-21T10:20:53Z",
+      "publisher": "buffer_threads"
     }
   }
 }
