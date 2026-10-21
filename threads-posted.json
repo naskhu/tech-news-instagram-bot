@@ -104603,6 +104603,25 @@
       "published_at_utc": "2026-10-20T22:05:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-21/spacex-and-tesla-boards-form-special-committees-to-review-merger-techc.png": {
+      "buffer_due_at_utc": "2026-10-21T01:30:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad80847c8ead57d68513897",
+      "caption_file": "output/2026-10-21/spacex-and-tesla-boards-form-special-committees-to-review-merger-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T01:30:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad80847c8ead57d68513897",
+          "published_at_utc": "2026-10-21T00:33:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/spacex-and-tesla-boards-form-special-committees-to-review-merger-techc.png",
+      "metadata_file": "output/2026-10-21/spacex-and-tesla-boards-form-special-committees-to-review-merger-techc.json",
+      "published_at_utc": "2026-10-21T00:33:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-21/spacex-s-ai-business-is-beating-expectations-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-20T23:04:35.000Z",
       "buffer_mode": "customScheduled",
