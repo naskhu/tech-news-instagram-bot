@@ -104804,12 +104804,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-21/youtube-has-a-new-way-to-protect-hacked-channels.png": {
-      "buffer_due_at_utc": "2026-10-21T10:58:52.000Z",
+      "buffer_due_at_utc": "2026-10-21T11:00:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad891f9cde39787811d775a",
+      "buffer_post_id": "6ad891fed803b33b75382ae8",
       "caption_file": "output/2026-10-21/youtube-has-a-new-way-to-protect-hacked-channels.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-21T11:00:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad891fed803b33b75382ae8",
+          "published_at_utc": "2026-10-21T10:20:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-21T10:58:52.000Z",
           "buffer_mode": "customScheduled",
@@ -104819,7 +104825,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/youtube-has-a-new-way-to-protect-hacked-channels.png",
       "metadata_file": "output/2026-10-21/youtube-has-a-new-way-to-protect-hacked-channels.json",
-      "published_at_utc": "2026-10-21T10:20:41Z",
+      "published_at_utc": "2026-10-21T10:20:46Z",
       "publisher": "buffer_threads"
     }
   }
