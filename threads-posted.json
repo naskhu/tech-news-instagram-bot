@@ -104777,6 +104777,25 @@
       "metadata_file": "output/2026-10-21/streaming-guide-justwatch-becomes-a-streamer-itself-techcrunch.json",
       "published_at_utc": "2026-10-21T05:20:11Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-21/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-fa.png": {
+      "buffer_due_at_utc": "2026-10-21T10:39:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad891ed7bfd13c0fd92ad30",
+      "caption_file": "output/2026-10-21/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-fa.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T10:39:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad891ed7bfd13c0fd92ad30",
+          "published_at_utc": "2026-10-21T10:20:29Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-fa.png",
+      "metadata_file": "output/2026-10-21/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-fa.json",
+      "published_at_utc": "2026-10-21T10:20:29Z",
+      "publisher": "buffer_threads"
     }
   }
 }
