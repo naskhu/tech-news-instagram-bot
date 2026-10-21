@@ -104977,6 +104977,25 @@
       "metadata_file": "output/2026-10-22/gm-is-giving-onstar-an-ai-makeover-techcrunch.json",
       "published_at_utc": "2026-10-21T19:26:28Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-22/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation-techcru.png": {
+      "buffer_due_at_utc": "2026-10-21T19:46:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad911eabc693610b62a5811",
+      "caption_file": "output/2026-10-22/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation-techcru.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T19:46:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad911eabc693610b62a5811",
+          "published_at_utc": "2026-10-21T19:26:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation-techcru.png",
+      "metadata_file": "output/2026-10-22/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation-techcru.json",
+      "published_at_utc": "2026-10-21T19:26:35Z",
+      "publisher": "buffer_threads"
     }
   }
 }
