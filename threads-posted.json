@@ -104453,6 +104453,25 @@
       "published_at_utc": "2026-10-20T05:00:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-21/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-c.png": {
+      "buffer_due_at_utc": "2026-10-21T00:33:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad8082250009d9e95ff33bb",
+      "caption_file": "output/2026-10-21/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-c.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T00:33:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad8082250009d9e95ff33bb",
+          "published_at_utc": "2026-10-21T00:32:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-21/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-c.png",
+      "metadata_file": "output/2026-10-21/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-c.json",
+      "published_at_utc": "2026-10-21T00:32:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-21/anthropic-s-cloud-partnerships-are-getting-messy-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-20T22:07:50.000Z",
       "buffer_mode": "customScheduled",
