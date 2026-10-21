@@ -105027,6 +105027,25 @@
       "metadata_file": "output/2026-10-22/php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-in.json",
       "published_at_utc": "2026-10-21T19:26:52Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-22/the-internet-is-having-a-very-bad-cybersecurity-day-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-21T20:23:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad912026f7e62fb4f149efa",
+      "caption_file": "output/2026-10-22/the-internet-is-having-a-very-bad-cybersecurity-day-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-21T20:23:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad912026f7e62fb4f149efa",
+          "published_at_utc": "2026-10-21T19:26:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/the-internet-is-having-a-very-bad-cybersecurity-day-techcrunch.png",
+      "metadata_file": "output/2026-10-22/the-internet-is-having-a-very-bad-cybersecurity-day-techcrunch.json",
+      "published_at_utc": "2026-10-21T19:26:58Z",
+      "publisher": "buffer_threads"
     }
   }
 }
