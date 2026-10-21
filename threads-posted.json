@@ -105129,12 +105129,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.png": {
-      "buffer_due_at_utc": "2026-10-21T23:43:44.000Z",
+      "buffer_due_at_utc": "2026-10-21T23:45:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad940d8d0598dd30cf97894",
+      "buffer_post_id": "6ad940dd9b7af5217d15be3d",
       "caption_file": "output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-21T23:45:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad940dd9b7af5217d15be3d",
+          "published_at_utc": "2026-10-21T22:46:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-21T23:43:44.000Z",
           "buffer_mode": "customScheduled",
@@ -105144,7 +105150,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.png",
       "metadata_file": "output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.json",
-      "published_at_utc": "2026-10-21T22:46:48Z",
+      "published_at_utc": "2026-10-21T22:46:53Z",
       "publisher": "buffer_threads"
     }
   }
