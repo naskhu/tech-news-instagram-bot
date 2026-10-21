@@ -1,0 +1,23 @@
+{
+  "title": "Insecure TLS certificates will be ‘a massive cleanup job’ for system admins.",
+  "summary": "Cryptography engineer Filippo Valsorda told Ars that the number of affected devices means it’ll take longer to clean up than Heartbleed , an infamous OpenSSL vulnerability that rocked the internet in 2014 and took years to fix.",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/1015234/insecure-tls-certificates-will-be-a-massive-cleanup-job-for-system-admins",
+  "published_utc": "2026-10-21T08:49:55+00:00",
+  "output_day": "2026-10-21",
+  "date_source": "meta",
+  "generated_utc": "2026-10-21T10:16:40.303228+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/DOM_BLURPLE-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-10-21/insecure-tls-certificates-will-be-a-massive-cleanup-job-for-system-adm.png",
+  "caption": "output/2026-10-21/insecure-tls-certificates-will-be-a-massive-cleanup-job-for-system-adm.txt"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "YouTube has a new way to protect hacked channels.",
+  "summary": "When unusual activity is detected on an account, the platform will now temporarily pause features for 24 hours, including uploading or updating videos, livestreaming, creating or adjusting playlists, uploading thumbnails, and making private videos public.",
+  "source": "The Verge",
+  "url": "https://theverge.com/streaming/1015228/youtube-has-a-new-way-to-protect-hacked-channels",
+  "published_utc": "2026-10-21T08:22:39+00:00",
+  "output_day": "2026-10-21",
+  "date_source": "meta",
+  "generated_utc": "2026-10-21T10:16:41.026975+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923972/acastro_STK072_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-10-21/youtube-has-a-new-way-to-protect-hacked-channels.png",
+  "caption": "output/2026-10-21/youtube-has-a-new-way-to-protect-hacked-channels.txt"
+}
