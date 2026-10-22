@@ -105552,6 +105552,25 @@
       "metadata_file": "output/2026-10-22/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation-techcru.json",
       "published_at_utc": "2026-10-21T22:46:53Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-23/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-withou.png": {
+      "buffer_due_at_utc": "2026-10-22T20:27:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ada716d1ef43d26398566d2",
+      "caption_file": "output/2026-10-23/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-withou.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-22T20:27:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ada716d1ef43d26398566d2",
+          "published_at_utc": "2026-10-22T20:26:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-23/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-withou.png",
+      "metadata_file": "output/2026-10-23/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-withou.json",
+      "published_at_utc": "2026-10-22T20:26:21Z",
+      "publisher": "buffer_threads"
     }
   }
 }
