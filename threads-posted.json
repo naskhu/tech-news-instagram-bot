@@ -105079,12 +105079,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class.png": {
-      "buffer_due_at_utc": "2026-10-22T01:31:55.000Z",
+      "buffer_due_at_utc": "2026-10-22T01:33:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad962fa7dadc432f7337b80",
+      "buffer_post_id": "6ad962ffb086d40f57297a58",
       "caption_file": "output/2026-10-22/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-22T01:33:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad962ffb086d40f57297a58",
+          "published_at_utc": "2026-10-22T01:12:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-22T01:31:55.000Z",
           "buffer_mode": "customScheduled",
@@ -105094,7 +105100,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class.png",
       "metadata_file": "output/2026-10-22/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class.json",
-      "published_at_utc": "2026-10-22T01:12:26Z",
+      "published_at_utc": "2026-10-22T01:12:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-in.png": {
