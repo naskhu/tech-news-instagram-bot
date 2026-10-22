@@ -105729,12 +105729,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-23/warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with-anduril-ge.png": {
-      "buffer_due_at_utc": "2026-10-23T00:36:02.000Z",
+      "buffer_due_at_utc": "2026-10-23T00:38:02.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ada9e9b535235087b703130",
+      "buffer_post_id": "6ada9ea09ef33e7811aa500c",
       "caption_file": "output/2026-10-23/warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with-anduril-ge.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-23T00:38:02.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ada9ea09ef33e7811aa500c",
+          "published_at_utc": "2026-10-22T23:39:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-23T00:36:02.000Z",
           "buffer_mode": "customScheduled",
@@ -105744,7 +105750,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-23/warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with-anduril-ge.png",
       "metadata_file": "output/2026-10-23/warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with-anduril-ge.json",
-      "published_at_utc": "2026-10-22T23:39:07Z",
+      "published_at_utc": "2026-10-22T23:39:12Z",
       "publisher": "buffer_threads"
     }
   }
