@@ -105279,12 +105279,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstandin.png": {
-      "buffer_due_at_utc": "2026-10-22T17:11:59.000Z",
+      "buffer_due_at_utc": "2026-10-22T17:13:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ada3f52b2fbfbb7e98555bb",
+      "buffer_post_id": "6ada3f59ca69a1b7d3ca53f2",
       "caption_file": "output/2026-10-22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstandin.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-22T17:13:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ada3f59ca69a1b7d3ca53f2",
+          "published_at_utc": "2026-10-22T16:52:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-22T17:11:59.000Z",
           "buffer_mode": "customScheduled",
@@ -105294,7 +105300,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstandin.png",
       "metadata_file": "output/2026-10-22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstandin.json",
-      "published_at_utc": "2026-10-22T16:52:34Z",
+      "published_at_utc": "2026-10-22T16:52:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/techcrunch-founder-summit-2026-everything-you-need-to-know-techcrunch.png": {
