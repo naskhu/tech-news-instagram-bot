@@ -105603,6 +105603,25 @@
       "published_at_utc": "2026-10-22T20:26:41Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-23/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16.png": {
+      "buffer_due_at_utc": "2026-10-22T23:39:17.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ada9e79d447d56a6468dbe8",
+      "caption_file": "output/2026-10-23/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-22T23:39:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ada9e79d447d56a6468dbe8",
+          "published_at_utc": "2026-10-22T23:38:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-23/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16.png",
+      "metadata_file": "output/2026-10-23/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16.json",
+      "published_at_utc": "2026-10-22T23:38:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-23/canva-releases-its-first-image-generation-model-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-22T21:06:55.000Z",
       "buffer_mode": "customScheduled",
