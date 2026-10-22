@@ -105029,12 +105029,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automak.png": {
-      "buffer_due_at_utc": "2026-10-22T06:32:36.000Z",
+      "buffer_due_at_utc": "2026-10-22T06:34:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad9a973b086d40f5737b739",
+      "buffer_post_id": "6ad9a979282deeeeb2d06163",
       "caption_file": "output/2026-10-22/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automak.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-22T06:34:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad9a979282deeeeb2d06163",
+          "published_at_utc": "2026-10-22T06:13:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-22T06:32:36.000Z",
           "buffer_mode": "customScheduled",
@@ -105044,7 +105050,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automak.png",
       "metadata_file": "output/2026-10-22/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automak.json",
-      "published_at_utc": "2026-10-22T06:13:07Z",
+      "published_at_utc": "2026-10-22T06:13:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/gm-is-giving-onstar-an-ai-makeover-techcrunch.png": {
