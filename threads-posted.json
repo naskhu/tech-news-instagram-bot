@@ -105104,12 +105104,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/meta-ordered-to-pay-25b-in-case-related-to-cambridge-analytica-scandal.png": {
-      "buffer_due_at_utc": "2026-10-22T06:51:31.000Z",
+      "buffer_due_at_utc": "2026-10-22T06:53:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ad9a97eecaa6cda042d7a26",
+      "buffer_post_id": "6ad9a9841093844846e387d9",
       "caption_file": "output/2026-10-22/meta-ordered-to-pay-25b-in-case-related-to-cambridge-analytica-scandal.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-22T06:53:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad9a9841093844846e387d9",
+          "published_at_utc": "2026-10-22T06:13:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-22T06:51:31.000Z",
           "buffer_mode": "customScheduled",
@@ -105119,7 +105125,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/meta-ordered-to-pay-25b-in-case-related-to-cambridge-analytica-scandal.png",
       "metadata_file": "output/2026-10-22/meta-ordered-to-pay-25b-in-case-related-to-cambridge-analytica-scandal.json",
-      "published_at_utc": "2026-10-22T06:13:18Z",
+      "published_at_utc": "2026-10-22T06:13:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity-techcru.png": {
