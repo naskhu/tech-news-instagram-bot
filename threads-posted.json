@@ -105454,12 +105454,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/uber-puts-all-30-000-employees-on-chatgpt-work-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-22T17:49:49.000Z",
+      "buffer_due_at_utc": "2026-10-22T17:51:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ada3f6fad1fc1b55278cbb2",
+      "buffer_post_id": "6ada3f7677984f39b2ab5aa6",
       "caption_file": "output/2026-10-22/uber-puts-all-30-000-employees-on-chatgpt-work-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-22T17:51:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ada3f7677984f39b2ab5aa6",
+          "published_at_utc": "2026-10-22T16:53:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-22T17:49:49.000Z",
           "buffer_mode": "customScheduled",
@@ -105469,7 +105475,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/uber-puts-all-30-000-employees-on-chatgpt-work-techcrunch.png",
       "metadata_file": "output/2026-10-22/uber-puts-all-30-000-employees-on-chatgpt-work-techcrunch.json",
-      "published_at_utc": "2026-10-22T16:53:04Z",
+      "published_at_utc": "2026-10-22T16:53:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-22/waymo-starts-offering-rides-at-the-las-vegas-airport-techcrunch.png": {
