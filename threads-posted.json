@@ -105178,6 +105178,25 @@
       "published_at_utc": "2026-10-22T01:12:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-22/tesla-starts-optimus-robot-production-in-california-as-profit-falls-43.png": {
+      "buffer_due_at_utc": "2026-10-22T02:09:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ad9630f282deeeeb2c26c15",
+      "caption_file": "output/2026-10-22/tesla-starts-optimus-robot-production-in-california-as-profit-falls-43.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-22T02:09:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ad9630f282deeeeb2c26c15",
+          "published_at_utc": "2026-10-22T01:12:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-22/tesla-starts-optimus-robot-production-in-california-as-profit-falls-43.png",
+      "metadata_file": "output/2026-10-22/tesla-starts-optimus-robot-production-in-california-as-profit-falls-43.json",
+      "published_at_utc": "2026-10-22T01:12:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-22/the-internet-is-having-a-very-bad-cybersecurity-day-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-21T20:25:51.000Z",
       "buffer_mode": "customScheduled",
