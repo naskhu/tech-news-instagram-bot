@@ -105728,6 +105728,25 @@
       "published_at_utc": "2026-10-23T12:23:54Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-23/high-heat-killed-50-000-europeans-this-summer.png": {
+      "buffer_due_at_utc": "2026-10-23T12:43:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adb51e04553446d6b7e762a",
+      "caption_file": "output/2026-10-23/high-heat-killed-50-000-europeans-this-summer.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-23T12:43:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adb51e04553446d6b7e762a",
+          "published_at_utc": "2026-10-23T12:24:00Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-23/high-heat-killed-50-000-europeans-this-summer.png",
+      "metadata_file": "output/2026-10-23/high-heat-killed-50-000-europeans-this-summer.json",
+      "published_at_utc": "2026-10-23T12:24:00Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-23/left-alone-with-nothing-to-do-ai-agents-started-playing-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-23T01:59:16.000Z",
       "buffer_mode": "customScheduled",
