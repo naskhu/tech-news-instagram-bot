@@ -105903,6 +105903,25 @@
       "published_at_utc": "2026-10-23T06:53:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-23/retro-gaming-is-being-overrun-with-ai.png": {
+      "buffer_due_at_utc": "2026-10-23T13:02:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adb51ec7c3aac797e7efdf7",
+      "caption_file": "output/2026-10-23/retro-gaming-is-being-overrun-with-ai.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-23T13:02:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adb51ec7c3aac797e7efdf7",
+          "published_at_utc": "2026-10-23T12:24:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-23/retro-gaming-is-being-overrun-with-ai.png",
+      "metadata_file": "output/2026-10-23/retro-gaming-is-being-overrun-with-ai.json",
+      "published_at_utc": "2026-10-23T12:24:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-23/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions-t.png": {
       "buffer_due_at_utc": "2026-10-23T00:19:07.000Z",
       "buffer_mode": "customScheduled",
