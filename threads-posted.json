@@ -105703,6 +105703,25 @@
       "published_at_utc": "2026-10-23T01:56:48Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-23/microsoft-s-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-c.png": {
+      "buffer_due_at_utc": "2026-10-23T02:35:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adabee6535235087b7742a5",
+      "caption_file": "output/2026-10-23/microsoft-s-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-c.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-23T02:35:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adabee6535235087b7742a5",
+          "published_at_utc": "2026-10-23T01:56:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-23/microsoft-s-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-c.png",
+      "metadata_file": "output/2026-10-23/microsoft-s-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-c.json",
+      "published_at_utc": "2026-10-23T01:56:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-23/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo-techcr.png": {
       "buffer_due_at_utc": "2026-10-23T00:00:12.000Z",
       "buffer_mode": "customScheduled",
