@@ -106278,6 +106278,25 @@
       "published_at_utc": "2026-10-23T23:31:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/startups-don-t-need-to-go-viral-to-win-customers-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-24T00:09:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adbee5b0b5343d07055bfff",
+      "caption_file": "output/2026-10-24/startups-don-t-need-to-go-viral-to-win-customers-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T00:09:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adbee5b0b5343d07055bfff",
+          "published_at_utc": "2026-10-23T23:31:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/startups-don-t-need-to-go-viral-to-win-customers-techcrunch.png",
+      "metadata_file": "output/2026-10-24/startups-don-t-need-to-go-viral-to-win-customers-techcrunch.json",
+      "published_at_utc": "2026-10-23T23:31:39Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.png": {
       "buffer_due_at_utc": "2026-10-23T21:33:44.000Z",
       "buffer_mode": "customScheduled",
