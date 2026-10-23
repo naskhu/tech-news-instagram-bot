@@ -106203,6 +106203,25 @@
       "published_at_utc": "2026-10-23T20:34:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-rob.png": {
+      "buffer_due_at_utc": "2026-10-23T23:32:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adbee44e4be8a4d862e0db4",
+      "caption_file": "output/2026-10-24/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-rob.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-23T23:32:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adbee44e4be8a4d862e0db4",
+          "published_at_utc": "2026-10-23T23:31:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-rob.png",
+      "metadata_file": "output/2026-10-24/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-rob.json",
+      "published_at_utc": "2026-10-23T23:31:16Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/netflix-reportedly-offered-microsoft-500-million-to-license-xbox-games.png": {
       "buffer_due_at_utc": "2026-10-23T21:14:49.000Z",
       "buffer_mode": "customScheduled",
