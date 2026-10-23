@@ -106229,12 +106229,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.png": {
-      "buffer_due_at_utc": "2026-10-23T21:31:44.000Z",
+      "buffer_due_at_utc": "2026-10-23T21:33:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adbc4e9bd33ce99c3ecc59b",
+      "buffer_post_id": "6adbc4eee4be8a4d86250a03",
       "caption_file": "output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-23T21:33:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adbc4eee4be8a4d86250a03",
+          "published_at_utc": "2026-10-23T20:34:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-23T21:31:44.000Z",
           "buffer_mode": "customScheduled",
@@ -106244,7 +106250,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.png",
       "metadata_file": "output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.json",
-      "published_at_utc": "2026-10-23T20:34:49Z",
+      "published_at_utc": "2026-10-23T20:34:54Z",
       "publisher": "buffer_threads"
     }
   }
