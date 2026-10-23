@@ -106227,6 +106227,25 @@
       "metadata_file": "output/2026-10-24/netflix-reportedly-offered-microsoft-500-million-to-license-xbox-games.json",
       "published_at_utc": "2026-10-23T20:34:43Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.png": {
+      "buffer_due_at_utc": "2026-10-23T21:31:44.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adbc4e9bd33ce99c3ecc59b",
+      "caption_file": "output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-23T21:31:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adbc4e9bd33ce99c3ecc59b",
+          "published_at_utc": "2026-10-23T20:34:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.png",
+      "metadata_file": "output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.json",
+      "published_at_utc": "2026-10-23T20:34:49Z",
+      "publisher": "buffer_threads"
     }
   }
 }
