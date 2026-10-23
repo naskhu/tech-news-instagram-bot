@@ -105903,6 +105903,25 @@
       "published_at_utc": "2026-10-22T20:27:04Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-23/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-.png": {
+      "buffer_due_at_utc": "2026-10-23T07:50:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adb0487d447d56a6480a84b",
+      "caption_file": "output/2026-10-23/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-23T07:50:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adb0487d447d56a6480a84b",
+          "published_at_utc": "2026-10-23T06:53:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-23/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-.png",
+      "metadata_file": "output/2026-10-23/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-.json",
+      "published_at_utc": "2026-10-23T06:53:59Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-23/warhound-raises-200m-to-engineer-war-dogs-and-arm-them-with-anduril-ge.png": {
       "buffer_due_at_utc": "2026-10-23T00:38:02.000Z",
       "buffer_mode": "customScheduled",
