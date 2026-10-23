@@ -106152,6 +106152,25 @@
       "metadata_file": "output/2026-10-23/what-some-of-anthropic-s-backers-are-reportedly-worth-before-its-ipo-t.json",
       "published_at_utc": "2026-10-23T17:21:56Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-24/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employ.png": {
+      "buffer_due_at_utc": "2026-10-23T20:34:59.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adbc4c79acae620d818ce77",
+      "caption_file": "output/2026-10-24/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employ.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-23T20:34:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adbc4c79acae620d818ce77",
+          "published_at_utc": "2026-10-23T20:34:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employ.png",
+      "metadata_file": "output/2026-10-24/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employ.json",
+      "published_at_utc": "2026-10-23T20:34:15Z",
+      "publisher": "buffer_threads"
     }
   }
 }
