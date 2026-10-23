@@ -105953,6 +105953,25 @@
       "published_at_utc": "2026-10-22T23:39:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-23/startup-equips-genetically-enhanced-dogs-with-palmer-luckey-s-military.png": {
+      "buffer_due_at_utc": "2026-10-23T13:21:17.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adb51f76556f503c42fa8df",
+      "caption_file": "output/2026-10-23/startup-equips-genetically-enhanced-dogs-with-palmer-luckey-s-military.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-23T13:21:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adb51f76556f503c42fa8df",
+          "published_at_utc": "2026-10-23T12:24:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-23/startup-equips-genetically-enhanced-dogs-with-palmer-luckey-s-military.png",
+      "metadata_file": "output/2026-10-23/startup-equips-genetically-enhanced-dogs-with-palmer-luckey-s-military.json",
+      "published_at_utc": "2026-10-23T12:24:23Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-23/the-secret-to-fast-startup-growth-isn-t-early-sales-top-names-in-tech-.png": {
       "buffer_due_at_utc": "2026-10-22T21:25:50.000Z",
       "buffer_mode": "customScheduled",
