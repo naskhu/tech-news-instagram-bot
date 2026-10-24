@@ -106204,12 +106204,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-24/elon-musk-s-dangerous-grip-on-outer-space.png": {
-      "buffer_due_at_utc": "2026-10-24T11:51:05.000Z",
+      "buffer_due_at_utc": "2026-10-24T11:53:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adc9b7cbd33ce99c31e8b50",
+      "buffer_post_id": "6adc9b82e4be8a4d8657796e",
       "caption_file": "output/2026-10-24/elon-musk-s-dangerous-grip-on-outer-space.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-24T11:53:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adc9b82e4be8a4d8657796e",
+          "published_at_utc": "2026-10-24T11:50:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-24T11:51:05.000Z",
           "buffer_mode": "customScheduled",
@@ -106219,7 +106225,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/elon-musk-s-dangerous-grip-on-outer-space.png",
       "metadata_file": "output/2026-10-24/elon-musk-s-dangerous-grip-on-outer-space.json",
-      "published_at_utc": "2026-10-24T11:50:20Z",
+      "published_at_utc": "2026-10-24T11:50:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-24/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-found.png": {
