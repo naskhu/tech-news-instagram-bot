@@ -106353,6 +106353,25 @@
       "published_at_utc": "2026-10-23T23:31:44Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/steam-s-personal-calendar-feature-is-exiting-beta.png": {
+      "buffer_due_at_utc": "2026-10-24T02:38:14.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adc11248b3d437ddc972dac",
+      "caption_file": "output/2026-10-24/steam-s-personal-calendar-feature-is-exiting-beta.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T02:38:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adc11248b3d437ddc972dac",
+          "published_at_utc": "2026-10-24T02:00:04Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/steam-s-personal-calendar-feature-is-exiting-beta.png",
+      "metadata_file": "output/2026-10-24/steam-s-personal-calendar-feature-is-exiting-beta.json",
+      "published_at_utc": "2026-10-24T02:00:04Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges.png": {
       "buffer_due_at_utc": "2026-10-23T21:33:44.000Z",
       "buffer_mode": "customScheduled",
