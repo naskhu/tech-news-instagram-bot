@@ -106178,6 +106178,23 @@
       "published_at_utc": "2026-10-24T06:52:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/block-s-new-voice-model-sounds-eerily-human-techcrunch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6adcf6803d5b27036b99c18d",
+      "caption_file": "output/2026-10-24/block-s-new-voice-model-sounds-eerily-human-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6adcf6803d5b27036b99c18d",
+          "published_at_utc": "2026-10-24T18:18:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/block-s-new-voice-model-sounds-eerily-human-techcrunch.png",
+      "metadata_file": "output/2026-10-24/block-s-new-voice-model-sounds-eerily-human-techcrunch.json",
+      "published_at_utc": "2026-10-24T18:18:50Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employ.png": {
       "buffer_due_at_utc": "2026-10-23T20:36:59.000Z",
       "buffer_mode": "customScheduled",
