@@ -106917,12 +106917,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/pennsylvania-will-require-labels-on-ai-generated-ads.png": {
-      "buffer_due_at_utc": "2026-10-24T23:50:18.000Z",
+      "buffer_due_at_utc": "2026-10-24T23:52:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6add36e40b5343d070a5ff40",
+      "buffer_post_id": "6add36ea3d5b27036ba704a2",
       "caption_file": "output/2026-10-25/pennsylvania-will-require-labels-on-ai-generated-ads.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-24T23:52:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add36ea3d5b27036ba704a2",
+          "published_at_utc": "2026-10-24T22:53:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-24T23:50:18.000Z",
           "buffer_mode": "customScheduled",
@@ -106932,7 +106938,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/pennsylvania-will-require-labels-on-ai-generated-ads.png",
       "metadata_file": "output/2026-10-25/pennsylvania-will-require-labels-on-ai-generated-ads.json",
-      "published_at_utc": "2026-10-24T22:53:24Z",
+      "published_at_utc": "2026-10-24T22:53:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.png": {
