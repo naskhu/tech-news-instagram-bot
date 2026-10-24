@@ -106278,6 +106278,25 @@
       "published_at_utc": "2026-10-23T20:34:43Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/openai-now-trains-its-frontier-ai-models-with-no-internet-access.png": {
+      "buffer_due_at_utc": "2026-10-24T02:19:19.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adc11180b5343d0705e2226",
+      "caption_file": "output/2026-10-24/openai-now-trains-its-frontier-ai-models-with-no-internet-access.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T02:19:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adc11180b5343d0705e2226",
+          "published_at_utc": "2026-10-24T01:59:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/openai-now-trains-its-frontier-ai-models-with-no-internet-access.png",
+      "metadata_file": "output/2026-10-24/openai-now-trains-its-frontier-ai-models-with-no-internet-access.json",
+      "published_at_utc": "2026-10-24T01:59:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet.png": {
       "buffer_due_at_utc": "2026-10-23T23:52:55.000Z",
       "buffer_mode": "customScheduled",
