@@ -106628,6 +106628,25 @@
       "published_at_utc": "2026-10-23T20:34:54Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone-techcr.png": {
+      "buffer_due_at_utc": "2026-10-24T15:53:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adccb9fe4be8a4d86659f5b",
+      "caption_file": "output/2026-10-24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone-techcr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T15:53:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adccb9fe4be8a4d86659f5b",
+          "published_at_utc": "2026-10-24T15:15:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone-techcr.png",
+      "metadata_file": "output/2026-10-24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone-techcr.json",
+      "published_at_utc": "2026-10-24T15:15:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/the-first-broken-iphone-duos-are-here.png": {
       "buffer_due_at_utc": "2026-10-24T12:49:50.000Z",
       "buffer_mode": "customScheduled",
