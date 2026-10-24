@@ -106840,6 +106840,25 @@
       "metadata_file": "output/2026-10-24/xbox-s-first-chief-operating-officer-is-out-after-just-a-few-months.json",
       "published_at_utc": "2026-10-24T02:00:23Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.png": {
+      "buffer_due_at_utc": "2026-10-24T20:57:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6add1b9e3d5b27036ba160d1",
+      "caption_file": "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T20:57:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add1b9e3d5b27036ba160d1",
+          "published_at_utc": "2026-10-24T20:57:02Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.png",
+      "metadata_file": "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.json",
+      "published_at_utc": "2026-10-24T20:57:02Z",
+      "publisher": "buffer_threads"
     }
   }
 }
