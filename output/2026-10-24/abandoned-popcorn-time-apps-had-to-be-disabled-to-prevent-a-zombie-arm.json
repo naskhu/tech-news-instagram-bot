@@ -1,0 +1,23 @@
+{
+  "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+  "summary": "Researchers at Eye Security found the updater for a Popcorn Time fork called “Time4Popcorn” still running on tons of Windows, macOS, and Android devices located around the world, phoning home to now-abandoned web domains over unencrypted HTTP and running an outdated, insecure…",
+  "source": "The Verge",
+  "url": "https://theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+  "published_utc": "2026-10-23T19:35:15+00:00",
+  "output_day": "2026-10-24",
+  "date_source": "rss",
+  "generated_utc": "2026-10-24T06:50:23.539137+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-10-24/abandoned-popcorn-time-apps-had-to-be-disabled-to-prevent-a-zombie-arm.png",
+  "caption": "output/2026-10-24/abandoned-popcorn-time-apps-had-to-be-disabled-to-prevent-a-zombie-arm.txt"
+}
