@@ -106578,6 +106578,25 @@
       "published_at_utc": "2026-10-23T20:34:54Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/the-first-broken-iphone-duos-are-here.png": {
+      "buffer_due_at_utc": "2026-10-24T12:47:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adc9b9cbd33ce99c31e9253",
+      "caption_file": "output/2026-10-24/the-first-broken-iphone-duos-are-here.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T12:47:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adc9b9cbd33ce99c31e9253",
+          "published_at_utc": "2026-10-24T11:50:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/the-first-broken-iphone-duos-are-here.png",
+      "metadata_file": "output/2026-10-24/the-first-broken-iphone-duos-are-here.json",
+      "published_at_utc": "2026-10-24T11:50:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit-t.png": {
       "buffer_due_at_utc": "2026-10-24T00:30:45.000Z",
       "buffer_mode": "customScheduled",
