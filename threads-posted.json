@@ -106304,12 +106304,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-24/here-are-the-top-ai-agents-that-can-live-in-your-text-messages-techcru.png": {
-      "buffer_due_at_utc": "2026-10-24T15:35:01.000Z",
+      "buffer_due_at_utc": "2026-10-24T15:37:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adccb94e4be8a4d86659cdd",
+      "buffer_post_id": "6adccb9a6887a2efc1c20edd",
       "caption_file": "output/2026-10-24/here-are-the-top-ai-agents-that-can-live-in-your-text-messages-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-24T15:37:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adccb9a6887a2efc1c20edd",
+          "published_at_utc": "2026-10-24T15:15:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-24T15:35:01.000Z",
           "buffer_mode": "customScheduled",
@@ -106319,7 +106325,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/here-are-the-top-ai-agents-that-can-live-in-your-text-messages-techcru.png",
       "metadata_file": "output/2026-10-24/here-are-the-top-ai-agents-that-can-live-in-your-text-messages-techcru.json",
-      "published_at_utc": "2026-10-24T15:15:33Z",
+      "published_at_utc": "2026-10-24T15:15:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-24/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-rob.png": {
