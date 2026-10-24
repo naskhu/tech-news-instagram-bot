@@ -106867,12 +106867,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.png": {
-      "buffer_due_at_utc": "2026-10-24T21:16:41.000Z",
+      "buffer_due_at_utc": "2026-10-24T21:18:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6add1ba98b3d437ddcd98002",
+      "buffer_post_id": "6add1bae0b5343d070a05c0d",
       "caption_file": "output/2026-10-25/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-24T21:18:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add1bae0b5343d070a05c0d",
+          "published_at_utc": "2026-10-24T20:57:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-24T21:16:41.000Z",
           "buffer_mode": "customScheduled",
@@ -106882,7 +106888,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.png",
       "metadata_file": "output/2026-10-25/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.json",
-      "published_at_utc": "2026-10-24T20:57:13Z",
+      "published_at_utc": "2026-10-24T20:57:18Z",
       "publisher": "buffer_threads"
     }
   }
