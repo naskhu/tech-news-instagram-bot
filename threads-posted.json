@@ -106842,12 +106842,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.png": {
-      "buffer_due_at_utc": "2026-10-24T20:57:46.000Z",
+      "buffer_due_at_utc": "2026-10-24T20:59:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6add1b9e3d5b27036ba160d1",
+      "buffer_post_id": "6add1ba3e4be8a4d8678f17c",
       "caption_file": "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-24T20:59:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add1ba3e4be8a4d8678f17c",
+          "published_at_utc": "2026-10-24T20:57:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-24T20:57:46.000Z",
           "buffer_mode": "customScheduled",
@@ -106857,7 +106863,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.png",
       "metadata_file": "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.json",
-      "published_at_utc": "2026-10-24T20:57:02Z",
+      "published_at_utc": "2026-10-24T20:57:08Z",
       "publisher": "buffer_threads"
     }
   }
