@@ -106254,12 +106254,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-24/forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-demo.png": {
-      "buffer_due_at_utc": "2026-10-24T15:16:06.000Z",
+      "buffer_due_at_utc": "2026-10-24T15:18:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adccb896887a2efc1c20a51",
+      "buffer_post_id": "6adccb8f0b5343d0708d07c1",
       "caption_file": "output/2026-10-24/forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-demo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-24T15:18:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adccb8f0b5343d0708d07c1",
+          "published_at_utc": "2026-10-24T15:15:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-24T15:16:06.000Z",
           "buffer_mode": "customScheduled",
@@ -106269,7 +106275,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-demo.png",
       "metadata_file": "output/2026-10-24/forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-demo.json",
-      "published_at_utc": "2026-10-24T15:15:21Z",
+      "published_at_utc": "2026-10-24T15:15:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-24/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-found.png": {
