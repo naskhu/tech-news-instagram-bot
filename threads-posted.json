@@ -106427,6 +106427,25 @@
       "metadata_file": "output/2026-10-24/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit-t.json",
       "published_at_utc": "2026-10-23T23:31:56Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-24/xbox-s-first-chief-operating-officer-is-out-after-just-a-few-months.png": {
+      "buffer_due_at_utc": "2026-10-24T02:57:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adc11306887a2efc193c664",
+      "caption_file": "output/2026-10-24/xbox-s-first-chief-operating-officer-is-out-after-just-a-few-months.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T02:57:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adc11306887a2efc193c664",
+          "published_at_utc": "2026-10-24T02:00:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/xbox-s-first-chief-operating-officer-is-out-after-just-a-few-months.png",
+      "metadata_file": "output/2026-10-24/xbox-s-first-chief-operating-officer-is-out-after-just-a-few-months.json",
+      "published_at_utc": "2026-10-24T02:00:17Z",
+      "publisher": "buffer_threads"
     }
   }
 }
