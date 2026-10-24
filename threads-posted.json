@@ -106866,6 +106866,25 @@
       "published_at_utc": "2026-10-24T22:52:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-25/fielded-is-obsessed-with-scammers-and-unhinged-japanese-cyberpunk.png": {
+      "buffer_due_at_utc": "2026-10-24T23:12:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6add36cde4be8a4d867e7183",
+      "caption_file": "output/2026-10-25/fielded-is-obsessed-with-scammers-and-unhinged-japanese-cyberpunk.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T23:12:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add36cde4be8a4d867e7183",
+          "published_at_utc": "2026-10-24T22:53:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/fielded-is-obsessed-with-scammers-and-unhinged-japanese-cyberpunk.png",
+      "metadata_file": "output/2026-10-25/fielded-is-obsessed-with-scammers-and-unhinged-japanese-cyberpunk.json",
+      "published_at_utc": "2026-10-24T22:53:01Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.png": {
       "buffer_due_at_utc": "2026-10-24T20:59:46.000Z",
       "buffer_mode": "customScheduled",
