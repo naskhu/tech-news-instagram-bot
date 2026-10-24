@@ -106253,6 +106253,25 @@
       "published_at_utc": "2026-10-23T23:31:21Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/jack-dorsey-s-block-made-an-ai-model-that-talks-to-you-like-an-awkward.png": {
+      "buffer_due_at_utc": "2026-10-24T07:11:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adc559b6887a2efc1a281ad",
+      "caption_file": "output/2026-10-24/jack-dorsey-s-block-made-an-ai-model-that-talks-to-you-like-an-awkward.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T07:11:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adc559b6887a2efc1a281ad",
+          "published_at_utc": "2026-10-24T06:52:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/jack-dorsey-s-block-made-an-ai-model-that-talks-to-you-like-an-awkward.png",
+      "metadata_file": "output/2026-10-24/jack-dorsey-s-block-made-an-ai-model-that-talks-to-you-like-an-awkward.json",
+      "published_at_utc": "2026-10-24T06:52:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/meta-is-acquiring-an-ai-analytics-company.png": {
       "buffer_due_at_utc": "2026-10-24T02:02:24.000Z",
       "buffer_mode": "customScheduled",
