@@ -106794,6 +106794,23 @@
       "published_at_utc": "2026-10-23T23:31:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/volodymyr-zelenskiy-confirms-starshield-and-starlink-are-back-to-norma.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6adcf6df6887a2efc1cd920e",
+      "caption_file": "output/2026-10-24/volodymyr-zelenskiy-confirms-starshield-and-starlink-are-back-to-norma.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6adcf6df6887a2efc1cd920e",
+          "published_at_utc": "2026-10-24T18:20:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/volodymyr-zelenskiy-confirms-starshield-and-starlink-are-back-to-norma.png",
+      "metadata_file": "output/2026-10-24/volodymyr-zelenskiy-confirms-starshield-and-starlink-are-back-to-norma.json",
+      "published_at_utc": "2026-10-24T18:20:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/xbox-s-first-chief-operating-officer-is-out-after-just-a-few-months.png": {
       "buffer_due_at_utc": "2026-10-24T02:59:09.000Z",
       "buffer_mode": "customScheduled",
