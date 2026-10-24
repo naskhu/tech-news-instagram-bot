@@ -106153,6 +106153,25 @@
       "published_at_utc": "2026-10-23T17:21:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-24/abandoned-popcorn-time-apps-had-to-be-disabled-to-prevent-a-zombie-arm.png": {
+      "buffer_due_at_utc": "2026-10-24T06:52:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adc55910b5343d0706d0223",
+      "caption_file": "output/2026-10-24/abandoned-popcorn-time-apps-had-to-be-disabled-to-prevent-a-zombie-arm.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-24T06:52:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adc55910b5343d0706d0223",
+          "published_at_utc": "2026-10-24T06:52:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-24/abandoned-popcorn-time-apps-had-to-be-disabled-to-prevent-a-zombie-arm.png",
+      "metadata_file": "output/2026-10-24/abandoned-popcorn-time-apps-had-to-be-disabled-to-prevent-a-zombie-arm.json",
+      "published_at_utc": "2026-10-24T06:52:01Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-24/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employ.png": {
       "buffer_due_at_utc": "2026-10-23T20:36:59.000Z",
       "buffer_mode": "customScheduled",
