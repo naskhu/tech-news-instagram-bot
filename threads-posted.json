@@ -107605,12 +107605,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/zen-browser-is-the-arc-replacement-i-was-looking-for.png": {
-      "buffer_due_at_utc": "2026-10-25T21:16:06.000Z",
+      "buffer_due_at_utc": "2026-10-25T21:18:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ade643d3d5b27036bee8bf6",
+      "buffer_post_id": "6ade64420b5343d070edb75f",
       "caption_file": "output/2026-10-26/zen-browser-is-the-arc-replacement-i-was-looking-for.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-25T21:18:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ade64420b5343d070edb75f",
+          "published_at_utc": "2026-10-25T20:19:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-25T21:16:06.000Z",
           "buffer_mode": "customScheduled",
@@ -107620,7 +107626,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/zen-browser-is-the-arc-replacement-i-was-looking-for.png",
       "metadata_file": "output/2026-10-26/zen-browser-is-the-arc-replacement-i-was-looking-for.json",
-      "published_at_utc": "2026-10-25T20:19:09Z",
+      "published_at_utc": "2026-10-25T20:19:14Z",
       "publisher": "buffer_threads"
     }
   }
