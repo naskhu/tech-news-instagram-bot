@@ -107041,6 +107041,25 @@
       "published_at_utc": "2026-10-25T05:37:16Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-25/lee-chang-dong-ponders-the-ethics-of-the-camera.png": {
+      "buffer_due_at_utc": "2026-10-25T06:34:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6add95913d5b27036bba30c2",
+      "caption_file": "output/2026-10-25/lee-chang-dong-ponders-the-ethics-of-the-camera.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T06:34:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add95913d5b27036bba30c2",
+          "published_at_utc": "2026-10-25T05:37:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/lee-chang-dong-ponders-the-ethics-of-the-camera.png",
+      "metadata_file": "output/2026-10-25/lee-chang-dong-ponders-the-ethics-of-the-camera.json",
+      "published_at_utc": "2026-10-25T05:37:21Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-25/lg-s-brilliant-c6-oled-tv-is-already-400-off-ahead-of-black-friday.png": {
       "buffer_due_at_utc": "2026-10-25T01:28:32.000Z",
       "buffer_mode": "customScheduled",
