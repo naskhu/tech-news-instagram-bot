@@ -107216,6 +107216,25 @@
       "published_at_utc": "2026-10-24T22:53:30Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-25/r-opensource-just-banned-ai-non-english-speakers-and-more.png": {
+      "buffer_due_at_utc": "2026-10-25T15:08:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ade126f6887a2efc10c1442",
+      "caption_file": "output/2026-10-25/r-opensource-just-banned-ai-non-english-speakers-and-more.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T15:08:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ade126f6887a2efc10c1442",
+          "published_at_utc": "2026-10-25T14:30:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/r-opensource-just-banned-ai-non-english-speakers-and-more.png",
+      "metadata_file": "output/2026-10-25/r-opensource-just-banned-ai-non-english-speakers-and-more.json",
+      "published_at_utc": "2026-10-25T14:30:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-25/starlink-seems-to-be-working-normally-again-in-ukraine.png": {
       "buffer_due_at_utc": "2026-10-24T20:59:46.000Z",
       "buffer_mode": "customScheduled",
