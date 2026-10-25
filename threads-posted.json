@@ -107092,12 +107092,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/what-to-expect-from-apple-s-pro-and-tell-event.png": {
-      "buffer_due_at_utc": "2026-10-25T01:45:27.000Z",
+      "buffer_due_at_utc": "2026-10-25T01:47:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6add51dee4be8a4d8684c2d9",
+      "buffer_post_id": "6add51e4e4be8a4d8684c32b",
       "caption_file": "output/2026-10-25/what-to-expect-from-apple-s-pro-and-tell-event.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-25T01:47:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add51e4e4be8a4d8684c32b",
+          "published_at_utc": "2026-10-25T00:48:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-25T01:45:27.000Z",
           "buffer_mode": "customScheduled",
@@ -107107,7 +107113,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/what-to-expect-from-apple-s-pro-and-tell-event.png",
       "metadata_file": "output/2026-10-25/what-to-expect-from-apple-s-pro-and-tell-event.json",
-      "published_at_utc": "2026-10-25T00:48:30Z",
+      "published_at_utc": "2026-10-25T00:48:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/will-ai-expose-the-rickety-infrastructure-of-the-internet-techcrunch.png": {
