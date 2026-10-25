@@ -106941,6 +106941,25 @@
       "published_at_utc": "2026-10-25T14:29:49Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-25/google-s-ai-search-changes-upended-online-publishing.png": {
+      "buffer_due_at_utc": "2026-10-25T14:49:23.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ade12630b5343d070d7180c",
+      "caption_file": "output/2026-10-25/google-s-ai-search-changes-upended-online-publishing.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T14:49:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ade12630b5343d070d7180c",
+          "published_at_utc": "2026-10-25T14:29:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/google-s-ai-search-changes-upended-online-publishing.png",
+      "metadata_file": "output/2026-10-25/google-s-ai-search-changes-upended-online-publishing.json",
+      "published_at_utc": "2026-10-25T14:29:55Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-25/hyve-smart-package-locker-review-protecting-your-holiday-deliveries.png": {
       "buffer_due_at_utc": "2026-10-25T10:12:48.000Z",
       "buffer_mode": "customScheduled",
