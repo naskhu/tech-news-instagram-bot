@@ -106917,12 +106917,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/hyve-smart-package-locker-review-protecting-your-holiday-deliveries.png": {
-      "buffer_due_at_utc": "2026-10-25T10:10:48.000Z",
+      "buffer_due_at_utc": "2026-10-25T10:12:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6addd57c6887a2efc1fc43b6",
+      "buffer_post_id": "6addd5828b3d437ddc006318",
       "caption_file": "output/2026-10-25/hyve-smart-package-locker-review-protecting-your-holiday-deliveries.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-25T10:12:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6addd5828b3d437ddc006318",
+          "published_at_utc": "2026-10-25T10:10:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-25T10:10:48.000Z",
           "buffer_mode": "customScheduled",
@@ -106932,7 +106938,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/hyve-smart-package-locker-review-protecting-your-holiday-deliveries.png",
       "metadata_file": "output/2026-10-25/hyve-smart-package-locker-review-protecting-your-holiday-deliveries.json",
-      "published_at_utc": "2026-10-25T10:10:04Z",
+      "published_at_utc": "2026-10-25T10:10:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/i-hope-apple-s-touchscreen-macbook-takes-some-lessons-from-this-lenovo.png": {
