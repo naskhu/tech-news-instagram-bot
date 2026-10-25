@@ -107604,6 +107604,25 @@
       "published_at_utc": "2026-10-25T22:40:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-26/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey-tech.png": {
+      "buffer_due_at_utc": "2026-10-25T23:00:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ade856de4be8a4d86cd905d",
+      "caption_file": "output/2026-10-26/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T23:00:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ade856de4be8a4d86cd905d",
+          "published_at_utc": "2026-10-25T22:40:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey-tech.png",
+      "metadata_file": "output/2026-10-26/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey-tech.json",
+      "published_at_utc": "2026-10-25T22:40:45Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-26/this-was-the-most-fun-i-ve-had-reviewing-a-mouse-in-a-long-time.png": {
       "buffer_due_at_utc": "2026-10-25T20:59:11.000Z",
       "buffer_mode": "customScheduled",
