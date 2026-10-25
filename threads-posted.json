@@ -107409,10 +107409,15 @@
     },
     "output/2026-10-25/this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-g.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ade426c8b3d437ddc1d9054",
+      "buffer_post_id": "6ade42783d5b27036be57e6f",
       "caption_file": "output/2026-10-25/this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-g.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ade42783d5b27036be57e6f",
+          "published_at_utc": "2026-10-25T17:55:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ade426c8b3d437ddc1d9054",
@@ -107421,7 +107426,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-g.png",
       "metadata_file": "output/2026-10-25/this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-g.json",
-      "published_at_utc": "2026-10-25T17:54:59Z",
+      "published_at_utc": "2026-10-25T17:55:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/we-linked-150-of-ikea-s-10-speakers-to-make-a-wall-of-sound.png": {
