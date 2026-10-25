@@ -107654,6 +107654,25 @@
       "published_at_utc": "2026-10-25T22:41:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-26/robbing-a-train-in-2026-for-54-000-worth-of-hot-wheels.png": {
+      "buffer_due_at_utc": "2026-10-25T23:38:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ade85848b3d437ddc2f07bb",
+      "caption_file": "output/2026-10-26/robbing-a-train-in-2026-for-54-000-worth-of-hot-wheels.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T23:38:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ade85848b3d437ddc2f07bb",
+          "published_at_utc": "2026-10-25T22:41:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/robbing-a-train-in-2026-for-54-000-worth-of-hot-wheels.png",
+      "metadata_file": "output/2026-10-26/robbing-a-train-in-2026-for-54-000-worth-of-hot-wheels.json",
+      "published_at_utc": "2026-10-25T22:41:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-26/this-was-the-most-fun-i-ve-had-reviewing-a-mouse-in-a-long-time.png": {
       "buffer_due_at_utc": "2026-10-25T20:59:11.000Z",
       "buffer_mode": "customScheduled",
