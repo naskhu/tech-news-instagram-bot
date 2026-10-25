@@ -106916,6 +106916,25 @@
       "published_at_utc": "2026-10-24T22:53:07Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-25/firefox-s-new-ad-tries-to-remind-you-of-a-time-before-the-internet-suc.png": {
+      "buffer_due_at_utc": "2026-10-25T14:30:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ade12573d5b27036bd7ee94",
+      "caption_file": "output/2026-10-25/firefox-s-new-ad-tries-to-remind-you-of-a-time-before-the-internet-suc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T14:30:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ade12573d5b27036bd7ee94",
+          "published_at_utc": "2026-10-25T14:29:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/firefox-s-new-ad-tries-to-remind-you-of-a-time-before-the-internet-suc.png",
+      "metadata_file": "output/2026-10-25/firefox-s-new-ad-tries-to-remind-you-of-a-time-before-the-internet-suc.json",
+      "published_at_utc": "2026-10-25T14:29:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-25/hyve-smart-package-locker-review-protecting-your-holiday-deliveries.png": {
       "buffer_due_at_utc": "2026-10-25T10:12:48.000Z",
       "buffer_mode": "customScheduled",
