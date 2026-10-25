@@ -107310,6 +107310,23 @@
       "published_at_utc": "2026-10-24T20:57:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-25/techcrunch-mobility-blue-green-is-the-color-of-autonomy-techcrunch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ade424d6887a2efc1195249",
+      "caption_file": "output/2026-10-25/techcrunch-mobility-blue-green-is-the-color-of-autonomy-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ade424d6887a2efc1195249",
+          "published_at_utc": "2026-10-25T17:54:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/techcrunch-mobility-blue-green-is-the-color-of-autonomy-techcrunch.png",
+      "metadata_file": "output/2026-10-25/techcrunch-mobility-blue-green-is-the-color-of-autonomy-techcrunch.json",
+      "published_at_utc": "2026-10-25T17:54:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-25/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.png": {
       "buffer_due_at_utc": "2026-10-24T21:18:41.000Z",
       "buffer_mode": "customScheduled",
