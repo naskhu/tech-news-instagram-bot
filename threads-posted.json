@@ -107241,6 +107241,25 @@
       "published_at_utc": "2026-10-24T20:57:29Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-25/we-linked-150-of-ikea-s-10-speakers-to-make-a-wall-of-sound.png": {
+      "buffer_due_at_utc": "2026-10-25T10:48:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6addd5916887a2efc1fc4dd4",
+      "caption_file": "output/2026-10-25/we-linked-150-of-ikea-s-10-speakers-to-make-a-wall-of-sound.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T10:48:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6addd5916887a2efc1fc4dd4",
+          "published_at_utc": "2026-10-25T10:10:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/we-linked-150-of-ikea-s-10-speakers-to-make-a-wall-of-sound.png",
+      "metadata_file": "output/2026-10-25/we-linked-150-of-ikea-s-10-speakers-to-make-a-wall-of-sound.json",
+      "published_at_utc": "2026-10-25T10:10:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-25/what-to-expect-from-apple-s-pro-and-tell-event.png": {
       "buffer_due_at_utc": "2026-10-25T01:47:27.000Z",
       "buffer_mode": "customScheduled",
