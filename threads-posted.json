@@ -107016,6 +107016,25 @@
       "published_at_utc": "2026-10-24T22:53:18Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-25/laika-has-spent-20-years-building-up-to-wildwood.png": {
+      "buffer_due_at_utc": "2026-10-25T06:15:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6add9587e4be8a4d8691c422",
+      "caption_file": "output/2026-10-25/laika-has-spent-20-years-building-up-to-wildwood.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T06:15:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add9587e4be8a4d8691c422",
+          "published_at_utc": "2026-10-25T05:37:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/laika-has-spent-20-years-building-up-to-wildwood.png",
+      "metadata_file": "output/2026-10-25/laika-has-spent-20-years-building-up-to-wildwood.json",
+      "published_at_utc": "2026-10-25T05:37:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-25/lg-s-brilliant-c6-oled-tv-is-already-400-off-ahead-of-black-friday.png": {
       "buffer_due_at_utc": "2026-10-25T01:28:32.000Z",
       "buffer_mode": "customScheduled",
