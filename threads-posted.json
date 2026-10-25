@@ -106892,12 +106892,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/i-hope-apple-s-touchscreen-macbook-takes-some-lessons-from-this-lenovo.png": {
-      "buffer_due_at_utc": "2026-10-25T00:48:42.000Z",
+      "buffer_due_at_utc": "2026-10-25T00:50:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6add51be0b5343d070ac1009",
+      "buffer_post_id": "6add51c3e4be8a4d8684c133",
       "caption_file": "output/2026-10-25/i-hope-apple-s-touchscreen-macbook-takes-some-lessons-from-this-lenovo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-25T00:50:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6add51c3e4be8a4d8684c133",
+          "published_at_utc": "2026-10-25T00:48:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-25T00:48:42.000Z",
           "buffer_mode": "customScheduled",
@@ -106907,7 +106913,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/i-hope-apple-s-touchscreen-macbook-takes-some-lessons-from-this-lenovo.png",
       "metadata_file": "output/2026-10-25/i-hope-apple-s-touchscreen-macbook-takes-some-lessons-from-this-lenovo.json",
-      "published_at_utc": "2026-10-25T00:47:58Z",
+      "published_at_utc": "2026-10-25T00:48:03Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/ken-kutaragi-calls-physical-media-just-a-metaphor-for-owning-games.png": {
