@@ -106967,12 +106967,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/ice-sheet-expansion-may-have-started-2-000-years-ago-but-we-canceled-t.png": {
-      "buffer_due_at_utc": "2026-10-25T10:29:43.000Z",
+      "buffer_due_at_utc": "2026-10-25T10:31:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6addd587e4be8a4d86a018e4",
+      "buffer_post_id": "6addd58ce4be8a4d86a01981",
       "caption_file": "output/2026-10-25/ice-sheet-expansion-may-have-started-2-000-years-ago-but-we-canceled-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-25T10:31:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6addd58ce4be8a4d86a01981",
+          "published_at_utc": "2026-10-25T10:10:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-25T10:29:43.000Z",
           "buffer_mode": "customScheduled",
@@ -106982,7 +106988,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-25/ice-sheet-expansion-may-have-started-2-000-years-ago-but-we-canceled-t.png",
       "metadata_file": "output/2026-10-25/ice-sheet-expansion-may-have-started-2-000-years-ago-but-we-canceled-t.json",
-      "published_at_utc": "2026-10-25T10:10:15Z",
+      "published_at_utc": "2026-10-25T10:10:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-25/it-s-time-to-find-a-new-browser.png": {
