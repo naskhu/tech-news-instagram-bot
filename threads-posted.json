@@ -107579,6 +107579,25 @@
       "published_at_utc": "2026-10-25T20:18:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-26/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-ret.png": {
+      "buffer_due_at_utc": "2026-10-25T22:41:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ade8562e4be8a4d86cd8eba",
+      "caption_file": "output/2026-10-26/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-ret.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-25T22:41:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ade8562e4be8a4d86cd8eba",
+          "published_at_utc": "2026-10-25T22:40:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-ret.png",
+      "metadata_file": "output/2026-10-26/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-ret.json",
+      "published_at_utc": "2026-10-25T22:40:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-26/this-was-the-most-fun-i-ve-had-reviewing-a-mouse-in-a-long-time.png": {
       "buffer_due_at_utc": "2026-10-25T20:59:11.000Z",
       "buffer_mode": "customScheduled",
