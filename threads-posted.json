@@ -108193,12 +108193,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos-t.png": {
-      "buffer_due_at_utc": "2026-10-26T23:59:48.000Z",
+      "buffer_due_at_utc": "2026-10-27T00:01:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adfdc1fade6626d9318dbae",
+      "buffer_post_id": "6adfdc255d20d74bbda02755",
       "caption_file": "output/2026-10-27/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-27T00:01:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adfdc255d20d74bbda02755",
+          "published_at_utc": "2026-10-26T23:03:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-26T23:59:48.000Z",
           "buffer_mode": "customScheduled",
@@ -108208,7 +108214,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos-t.png",
       "metadata_file": "output/2026-10-27/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos-t.json",
-      "published_at_utc": "2026-10-26T23:02:55Z",
+      "published_at_utc": "2026-10-26T23:03:01Z",
       "publisher": "buffer_threads"
     }
   }
