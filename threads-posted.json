@@ -107930,12 +107930,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/the-city-that-fought-flock.png": {
-      "buffer_due_at_utc": "2026-10-26T13:04:05.000Z",
+      "buffer_due_at_utc": "2026-10-26T13:06:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adf427143e462eb4475867e",
+      "buffer_post_id": "6adf427712840f969dc43ab1",
       "caption_file": "output/2026-10-26/the-city-that-fought-flock.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-26T13:06:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adf427712840f969dc43ab1",
+          "published_at_utc": "2026-10-26T12:07:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-26T13:04:05.000Z",
           "buffer_mode": "customScheduled",
@@ -107945,7 +107951,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/the-city-that-fought-flock.png",
       "metadata_file": "output/2026-10-26/the-city-that-fought-flock.json",
-      "published_at_utc": "2026-10-26T12:07:13Z",
+      "published_at_utc": "2026-10-26T12:07:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/the-macbook-pro-max-just-dropped-to-its-lowest-price-ever.png": {
