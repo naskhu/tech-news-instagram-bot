@@ -107704,6 +107704,25 @@
       "published_at_utc": "2026-10-25T22:40:51Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-26/here-s-the-first-episode-of-grok-s-historically-accurate-odyssey.png": {
+      "buffer_due_at_utc": "2026-10-26T12:07:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adf424c43e462eb44757326",
+      "caption_file": "output/2026-10-26/here-s-the-first-episode-of-grok-s-historically-accurate-odyssey.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-26T12:07:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adf424c43e462eb44757326",
+          "published_at_utc": "2026-10-26T12:06:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/here-s-the-first-episode-of-grok-s-historically-accurate-odyssey.png",
+      "metadata_file": "output/2026-10-26/here-s-the-first-episode-of-grok-s-historically-accurate-odyssey.json",
+      "published_at_utc": "2026-10-26T12:06:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-26/ifixit-s-look-inside-the-iphone-duo-may-explain-those-broken-screens-a.png": {
       "buffer_due_at_utc": "2026-10-25T23:21:08.000Z",
       "buffer_mode": "customScheduled",
