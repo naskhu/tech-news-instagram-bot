@@ -107729,6 +107729,25 @@
       "published_at_utc": "2026-10-25T22:41:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-26/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secr.png": {
+      "buffer_due_at_utc": "2026-10-26T01:34:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adea521e4be8a4d86d65f90",
+      "caption_file": "output/2026-10-26/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-26T01:34:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adea521e4be8a4d86d65f90",
+          "published_at_utc": "2026-10-26T00:56:02Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secr.png",
+      "metadata_file": "output/2026-10-26/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secr.json",
+      "published_at_utc": "2026-10-26T00:56:02Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-26/this-was-the-most-fun-i-ve-had-reviewing-a-mouse-in-a-long-time.png": {
       "buffer_due_at_utc": "2026-10-25T20:59:11.000Z",
       "buffer_mode": "customScheduled",
