@@ -107755,12 +107755,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/inside-netflix-s-creative-clearout.png": {
-      "buffer_due_at_utc": "2026-10-26T12:26:15.000Z",
+      "buffer_due_at_utc": "2026-10-26T12:28:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adf425812840f969dc42648",
+      "buffer_post_id": "6adf425f9c091261b914aa45",
       "caption_file": "output/2026-10-26/inside-netflix-s-creative-clearout.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-26T12:28:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adf425f9c091261b914aa45",
+          "published_at_utc": "2026-10-26T12:06:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-26T12:26:15.000Z",
           "buffer_mode": "customScheduled",
@@ -107770,7 +107776,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/inside-netflix-s-creative-clearout.png",
       "metadata_file": "output/2026-10-26/inside-netflix-s-creative-clearout.json",
-      "published_at_utc": "2026-10-26T12:06:48Z",
+      "published_at_utc": "2026-10-26T12:06:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later.png": {
