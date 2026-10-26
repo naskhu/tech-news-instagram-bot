@@ -107854,6 +107854,25 @@
       "published_at_utc": "2026-10-26T05:45:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-26/the-macbook-pro-max-just-dropped-to-its-lowest-price-ever.png": {
+      "buffer_due_at_utc": "2026-10-26T06:42:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adee90bb217de1f80547737",
+      "caption_file": "output/2026-10-26/the-macbook-pro-max-just-dropped-to-its-lowest-price-ever.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-26T06:42:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adee90bb217de1f80547737",
+          "published_at_utc": "2026-10-26T05:45:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/the-macbook-pro-max-just-dropped-to-its-lowest-price-ever.png",
+      "metadata_file": "output/2026-10-26/the-macbook-pro-max-just-dropped-to-its-lowest-price-ever.json",
+      "published_at_utc": "2026-10-26T05:45:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-26/this-was-the-most-fun-i-ve-had-reviewing-a-mouse-in-a-long-time.png": {
       "buffer_due_at_utc": "2026-10-25T20:59:11.000Z",
       "buffer_mode": "customScheduled",
