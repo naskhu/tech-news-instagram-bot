@@ -107730,12 +107730,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later.png": {
-      "buffer_due_at_utc": "2026-10-26T06:04:49.000Z",
+      "buffer_due_at_utc": "2026-10-26T06:06:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adee8f33c2b9287727c0a95",
+      "buffer_post_id": "6adee8f8a59aa33bb5763398",
       "caption_file": "output/2026-10-26/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-26T06:06:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adee8f8a59aa33bb5763398",
+          "published_at_utc": "2026-10-26T05:45:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-26T06:04:49.000Z",
           "buffer_mode": "customScheduled",
@@ -107745,7 +107751,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later.png",
       "metadata_file": "output/2026-10-26/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later.json",
-      "published_at_utc": "2026-10-26T05:45:23Z",
+      "published_at_utc": "2026-10-26T05:45:29Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/robbing-a-train-in-2026-for-54-000-worth-of-hot-wheels.png": {
