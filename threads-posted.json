@@ -107555,12 +107555,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/a-youtuber-dissected-an-iphone-duo-and-thinks-he-found-the-cause-of-cr.png": {
-      "buffer_due_at_utc": "2026-10-26T01:15:18.000Z",
+      "buffer_due_at_utc": "2026-10-26T01:17:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adea5163d5b27036bff9aa6",
+      "buffer_post_id": "6adea51c8b3d437ddc389023",
       "caption_file": "output/2026-10-26/a-youtuber-dissected-an-iphone-duo-and-thinks-he-found-the-cause-of-cr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-26T01:17:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adea51c8b3d437ddc389023",
+          "published_at_utc": "2026-10-26T00:55:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-26T01:15:18.000Z",
           "buffer_mode": "customScheduled",
@@ -107570,7 +107576,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/a-youtuber-dissected-an-iphone-duo-and-thinks-he-found-the-cause-of-cr.png",
       "metadata_file": "output/2026-10-26/a-youtuber-dissected-an-iphone-duo-and-thinks-he-found-the-cause-of-cr.json",
-      "published_at_utc": "2026-10-26T00:55:50Z",
+      "published_at_utc": "2026-10-26T00:55:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/adam-mosseri-admits-instagram-on-the-iphone-duo-needs-some-work.png": {
