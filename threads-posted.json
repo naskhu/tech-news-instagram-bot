@@ -107830,12 +107830,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/the-best-apps-for-tracking-your-reading-and-discovering-new-books-tech.png": {
-      "buffer_due_at_utc": "2026-10-26T06:23:44.000Z",
+      "buffer_due_at_utc": "2026-10-26T06:25:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adee8fe14e7509845ad0a1a",
+      "buffer_post_id": "6adee9043c2b9287727c0f6d",
       "caption_file": "output/2026-10-26/the-best-apps-for-tracking-your-reading-and-discovering-new-books-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-26T06:25:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adee9043c2b9287727c0f6d",
+          "published_at_utc": "2026-10-26T05:45:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-26T06:23:44.000Z",
           "buffer_mode": "customScheduled",
@@ -107845,7 +107851,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/the-best-apps-for-tracking-your-reading-and-discovering-new-books-tech.png",
       "metadata_file": "output/2026-10-26/the-best-apps-for-tracking-your-reading-and-discovering-new-books-tech.json",
-      "published_at_utc": "2026-10-26T05:45:35Z",
+      "published_at_utc": "2026-10-26T05:45:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/this-was-the-most-fun-i-ve-had-reviewing-a-mouse-in-a-long-time.png": {
