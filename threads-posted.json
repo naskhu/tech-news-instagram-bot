@@ -108141,6 +108141,25 @@
       "metadata_file": "output/2026-10-27/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-c.json",
       "published_at_utc": "2026-10-26T23:02:25Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-27/fusion-startups-are-giving-the-government-shares-in-exchange-for-award.png": {
+      "buffer_due_at_utc": "2026-10-26T23:21:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adfdc07c26d8b40cc7c9fa5",
+      "caption_file": "output/2026-10-27/fusion-startups-are-giving-the-government-shares-in-exchange-for-award.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-26T23:21:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adfdc07c26d8b40cc7c9fa5",
+          "published_at_utc": "2026-10-26T23:02:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/fusion-startups-are-giving-the-government-shares-in-exchange-for-award.png",
+      "metadata_file": "output/2026-10-27/fusion-startups-are-giving-the-government-shares-in-exchange-for-award.json",
+      "published_at_utc": "2026-10-26T23:02:31Z",
+      "publisher": "buffer_threads"
     }
   }
 }
