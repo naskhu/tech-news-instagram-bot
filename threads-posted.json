@@ -107780,12 +107780,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/marissa-mayer-made-an-ai-assistant-that-learns-from-your-camera-roll.png": {
-      "buffer_due_at_utc": "2026-10-26T12:45:10.000Z",
+      "buffer_due_at_utc": "2026-10-26T12:47:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6adf42651b6e0444dbeedd38",
+      "buffer_post_id": "6adf426b1b6e0444dbeedf60",
       "caption_file": "output/2026-10-26/marissa-mayer-made-an-ai-assistant-that-learns-from-your-camera-roll.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-26T12:47:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adf426b1b6e0444dbeedf60",
+          "published_at_utc": "2026-10-26T12:07:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-26T12:45:10.000Z",
           "buffer_mode": "customScheduled",
@@ -107795,7 +107801,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/marissa-mayer-made-an-ai-assistant-that-learns-from-your-camera-roll.png",
       "metadata_file": "output/2026-10-26/marissa-mayer-made-an-ai-assistant-that-learns-from-your-camera-roll.json",
-      "published_at_utc": "2026-10-26T12:07:02Z",
+      "published_at_utc": "2026-10-26T12:07:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-26/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later.png": {
