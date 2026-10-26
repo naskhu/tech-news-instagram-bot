@@ -107604,6 +107604,25 @@
       "published_at_utc": "2026-10-25T20:18:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-26/apple-carplay-and-android-auto-make-your-phone-hot-here-s-how-to-keep-.png": {
+      "buffer_due_at_utc": "2026-10-26T05:45:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6adee8e714e7509845ad05e8",
+      "caption_file": "output/2026-10-26/apple-carplay-and-android-auto-make-your-phone-hot-here-s-how-to-keep-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-26T05:45:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6adee8e714e7509845ad05e8",
+          "published_at_utc": "2026-10-26T05:45:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/apple-carplay-and-android-auto-make-your-phone-hot-here-s-how-to-keep-.png",
+      "metadata_file": "output/2026-10-26/apple-carplay-and-android-auto-make-your-phone-hot-here-s-how-to-keep-.json",
+      "published_at_utc": "2026-10-26T05:45:11Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-26/benn-jordan-s-long-running-investigation-of-flock-culminates-in-a-revi.png": {
       "buffer_due_at_utc": "2026-10-25T20:40:16.000Z",
       "buffer_mode": "customScheduled",
