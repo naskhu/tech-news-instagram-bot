@@ -108045,6 +108045,23 @@
       "published_at_utc": "2026-10-26T05:45:53Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-26/this-startup-s-self-driving-excavators-help-dig-up-600m-in-new-funding.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6adfa04e3faf46bfb54d5daf",
+      "caption_file": "output/2026-10-26/this-startup-s-self-driving-excavators-help-dig-up-600m-in-new-funding.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6adfa04e3faf46bfb54d5daf",
+          "published_at_utc": "2026-10-26T18:47:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-26/this-startup-s-self-driving-excavators-help-dig-up-600m-in-new-funding.png",
+      "metadata_file": "output/2026-10-26/this-startup-s-self-driving-excavators-help-dig-up-600m-in-new-funding.json",
+      "published_at_utc": "2026-10-26T18:47:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-26/this-was-the-most-fun-i-ve-had-reviewing-a-mouse-in-a-long-time.png": {
       "buffer_due_at_utc": "2026-10-25T20:59:11.000Z",
       "buffer_mode": "customScheduled",
