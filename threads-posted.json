@@ -108117,6 +108117,25 @@
       "published_at_utc": "2026-10-25T20:19:14Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop.png": {
+      "buffer_due_at_utc": "2026-10-27T13:20:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae0a4f5d477c7b7131101b6",
+      "caption_file": "output/2026-10-27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-27T13:20:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae0a4f5d477c7b7131101b6",
+          "published_at_utc": "2026-10-27T13:19:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop.png",
+      "metadata_file": "output/2026-10-27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop.json",
+      "published_at_utc": "2026-10-27T13:19:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-27/anthropic-officially-files-for-its-public-debut-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-27T02:03:15.000Z",
       "buffer_mode": "customScheduled",
