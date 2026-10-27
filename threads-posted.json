@@ -108192,6 +108192,25 @@
       "published_at_utc": "2026-10-27T02:00:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-27/billionaire-palmer-luckey-isn-t-leaving-california-over-the-wealth-tax.png": {
+      "buffer_due_at_utc": "2026-10-27T13:39:28.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae0a5016cd613c4832b566c",
+      "caption_file": "output/2026-10-27/billionaire-palmer-luckey-isn-t-leaving-california-over-the-wealth-tax.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-27T13:39:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae0a5016cd613c4832b566c",
+          "published_at_utc": "2026-10-27T13:20:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/billionaire-palmer-luckey-isn-t-leaving-california-over-the-wealth-tax.png",
+      "metadata_file": "output/2026-10-27/billionaire-palmer-luckey-isn-t-leaving-california-over-the-wealth-tax.json",
+      "published_at_utc": "2026-10-27T13:20:01Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-27/cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-beijing-techc.png": {
       "buffer_due_at_utc": "2026-10-27T02:41:05.000Z",
       "buffer_mode": "customScheduled",
