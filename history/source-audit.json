@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-10-27T01:52:59.020281+00:00",
+  "run_utc": "2026-10-27T07:11:12.608886+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-10-26T01:52:59.020419+00:00",
-  "eligible_story_count": 304,
+  "cutoff_utc": "2026-10-26T07:11:12.609017+00:00",
+  "eligible_story_count": 307,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 26,
       "page_articles": 26,
-      "eligible_new": 5,
-      "already_processed": 21,
+      "eligible_new": 3,
+      "already_processed": 23,
       "older_than_window": 0,
       "metadata_errors": {}
     },
@@ -252,7 +252,7 @@
       "page_articles": 40,
       "eligible_new": 10,
       "already_processed": 3,
-      "older_than_window": 100,
+      "older_than_window": 101,
       "metadata_errors": {}
     },
     {
@@ -379,25 +379,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 17,
+          "links": 19,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 33,
+          "links": 31,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 44,
-      "eligible_new": 53,
+      "eligible_new": 58,
       "already_processed": 0,
-      "older_than_window": 36,
+      "older_than_window": 31,
       "metadata_errors": {
-        "no_article_metadata": 5,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 5
       }
     },
     {
@@ -502,12 +502,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 32,
+      "rss_candidates": 33,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 23,
+      "eligible_new": 25,
       "already_processed": 4,
-      "older_than_window": 19,
+      "older_than_window": 17,
       "metadata_errors": {}
     },
     {
@@ -560,13 +560,13 @@
         {
           "url": "https://www.bleepingcomputer.com/",
           "status": 200,
-          "links": 25,
+          "links": 24,
           "error": ""
         },
         {
           "url": "https://www.bleepingcomputer.com/news/",
           "status": 200,
-          "links": 2,
+          "links": 3,
           "error": ""
         }
       ],
@@ -575,10 +575,10 @@
       "page_articles": 6,
       "eligible_new": 10,
       "already_processed": 0,
-      "older_than_window": 6,
+      "older_than_window": 5,
       "metadata_errors": {
-        "http_429": 20,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "http_429": 20
       }
     },
     {
