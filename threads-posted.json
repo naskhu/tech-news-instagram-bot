@@ -108318,12 +108318,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised-.png": {
-      "buffer_due_at_utc": "2026-10-27T07:54:28.000Z",
+      "buffer_due_at_utc": "2026-10-27T07:56:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae04fc2ab50f19da3642587",
+      "buffer_post_id": "6ae04fc76546b985f8d604b6",
       "caption_file": "output/2026-10-27/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-27T07:56:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae04fc76546b985f8d604b6",
+          "published_at_utc": "2026-10-27T07:16:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-27T07:54:28.000Z",
           "buffer_mode": "customScheduled",
@@ -108333,7 +108339,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised-.png",
       "metadata_file": "output/2026-10-27/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised-.json",
-      "published_at_utc": "2026-10-27T07:16:18Z",
+      "published_at_utc": "2026-10-27T07:16:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-aren-t-ha.png": {
