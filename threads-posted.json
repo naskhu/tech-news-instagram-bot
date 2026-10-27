@@ -108167,6 +108167,25 @@
       "published_at_utc": "2026-10-27T02:00:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-27/cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-beijing-techc.png": {
+      "buffer_due_at_utc": "2026-10-27T02:39:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae005de8f5aed9e2e2fff2f",
+      "caption_file": "output/2026-10-27/cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-beijing-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-27T02:39:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae005de8f5aed9e2e2fff2f",
+          "published_at_utc": "2026-10-27T02:01:02Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-beijing-techc.png",
+      "metadata_file": "output/2026-10-27/cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-beijing-techc.json",
+      "published_at_utc": "2026-10-27T02:01:02Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-27/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-c.png": {
       "buffer_due_at_utc": "2026-10-26T23:05:03.000Z",
       "buffer_mode": "customScheduled",
