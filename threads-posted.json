@@ -108654,6 +108654,25 @@
       "metadata_file": "output/2026-10-28/from-8vc-to-benchmark-here-s-what-s-hiding-in-october-sec-filings-tech.json",
       "published_at_utc": "2026-10-27T22:51:49Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-28/gm-is-embracing-hybrids-now-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-27T23:30:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae12b0b3df35baeeedfc731",
+      "caption_file": "output/2026-10-28/gm-is-embracing-hybrids-now-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-27T23:30:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae12b0b3df35baeeedfc731",
+          "published_at_utc": "2026-10-27T22:51:55Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/gm-is-embracing-hybrids-now-techcrunch.png",
+      "metadata_file": "output/2026-10-28/gm-is-embracing-hybrids-now-techcrunch.json",
+      "published_at_utc": "2026-10-27T22:51:55Z",
+      "publisher": "buffer_threads"
     }
   }
 }
