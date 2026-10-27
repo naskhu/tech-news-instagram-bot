@@ -108385,10 +108385,15 @@
     },
     "output/2026-10-27/google-s-genie-4-world-model-adds-audio-more-realistic-worlds-and-real.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ae0f4659886bd6ed21e17d1",
+      "buffer_post_id": "6ae0f475327423179f377489",
       "caption_file": "output/2026-10-27/google-s-genie-4-world-model-adds-audio-more-realistic-worlds-and-real.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ae0f475327423179f377489",
+          "published_at_utc": "2026-10-27T18:59:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ae0f4659886bd6ed21e17d1",
@@ -108397,7 +108402,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/google-s-genie-4-world-model-adds-audio-more-realistic-worlds-and-real.png",
       "metadata_file": "output/2026-10-27/google-s-genie-4-world-model-adds-audio-more-realistic-worlds-and-real.json",
-      "published_at_utc": "2026-10-27T18:58:55Z",
+      "published_at_utc": "2026-10-27T18:59:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-ass.png": {
