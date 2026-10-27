@@ -108143,12 +108143,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip-.png": {
-      "buffer_due_at_utc": "2026-10-27T02:20:10.000Z",
+      "buffer_due_at_utc": "2026-10-27T02:22:10.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae005cf05551cc35918b9ea",
+      "buffer_post_id": "6ae005d78f5aed9e2e2ffcfe",
       "caption_file": "output/2026-10-27/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-27T02:22:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae005d78f5aed9e2e2ffcfe",
+          "published_at_utc": "2026-10-27T02:00:55Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-27T02:20:10.000Z",
           "buffer_mode": "customScheduled",
@@ -108158,7 +108164,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip-.png",
       "metadata_file": "output/2026-10-27/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip-.json",
-      "published_at_utc": "2026-10-27T02:00:48Z",
+      "published_at_utc": "2026-10-27T02:00:55Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-c.png": {
