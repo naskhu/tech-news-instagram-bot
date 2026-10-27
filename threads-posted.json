@@ -108392,6 +108392,25 @@
       "published_at_utc": "2026-10-27T07:16:12Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-.png": {
+      "buffer_due_at_utc": "2026-10-27T14:17:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae0a51a55e456f4b3c5dd7d",
+      "caption_file": "output/2026-10-27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-27T14:17:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae0a51a55e456f4b3c5dd7d",
+          "published_at_utc": "2026-10-27T13:20:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-.png",
+      "metadata_file": "output/2026-10-27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-.json",
+      "published_at_utc": "2026-10-27T13:20:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-27/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised-.png": {
       "buffer_due_at_utc": "2026-10-27T07:56:28.000Z",
       "buffer_mode": "customScheduled",
