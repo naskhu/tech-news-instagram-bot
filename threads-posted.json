@@ -108293,12 +108293,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/general-compute-raises-100-million-series-a-countering-the-neocloud-di.png": {
-      "buffer_due_at_utc": "2026-10-27T13:58:23.000Z",
+      "buffer_due_at_utc": "2026-10-27T14:00:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae0a50ed477c7b713110c2f",
+      "buffer_post_id": "6ae0a51458fd3c2079ed6da1",
       "caption_file": "output/2026-10-27/general-compute-raises-100-million-series-a-countering-the-neocloud-di.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-27T14:00:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae0a51458fd3c2079ed6da1",
+          "published_at_utc": "2026-10-27T13:20:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-27T13:58:23.000Z",
           "buffer_mode": "customScheduled",
@@ -108308,7 +108314,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/general-compute-raises-100-million-series-a-countering-the-neocloud-di.png",
       "metadata_file": "output/2026-10-27/general-compute-raises-100-million-series-a-countering-the-neocloud-di.json",
-      "published_at_utc": "2026-10-27T13:20:14Z",
+      "published_at_utc": "2026-10-27T13:20:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-ass.png": {
