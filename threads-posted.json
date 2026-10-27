@@ -108393,12 +108393,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-27/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-peo.png": {
-      "buffer_due_at_utc": "2026-10-27T08:13:23.000Z",
+      "buffer_due_at_utc": "2026-10-27T08:15:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae04fcdda2ca338b15050d8",
+      "buffer_post_id": "6ae04fd3ab50f19da3642a42",
       "caption_file": "output/2026-10-27/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-peo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-27T08:15:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae04fd3ab50f19da3642a42",
+          "published_at_utc": "2026-10-27T07:16:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-27T08:13:23.000Z",
           "buffer_mode": "customScheduled",
@@ -108408,7 +108414,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-27/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-peo.png",
       "metadata_file": "output/2026-10-27/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-peo.json",
-      "published_at_utc": "2026-10-27T07:16:29Z",
+      "published_at_utc": "2026-10-27T07:16:35Z",
       "publisher": "buffer_threads"
     }
   }
