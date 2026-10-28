@@ -108631,12 +108631,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/discord-is-making-its-public-communities-more-searchable-and-people-ha.png": {
-      "buffer_due_at_utc": "2026-10-28T08:02:51.000Z",
+      "buffer_due_at_utc": "2026-10-28T08:04:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae1abff074a2fccd986adfe",
+      "buffer_post_id": "6ae1ac063ca4e5ab3b2df594",
       "caption_file": "output/2026-10-28/discord-is-making-its-public-communities-more-searchable-and-people-ha.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-28T08:04:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae1ac063ca4e5ab3b2df594",
+          "published_at_utc": "2026-10-28T08:02:14Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-28T08:02:51.000Z",
           "buffer_mode": "customScheduled",
@@ -108646,7 +108652,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/discord-is-making-its-public-communities-more-searchable-and-people-ha.png",
       "metadata_file": "output/2026-10-28/discord-is-making-its-public-communities-more-searchable-and-people-ha.json",
-      "published_at_utc": "2026-10-28T08:02:07Z",
+      "published_at_utc": "2026-10-28T08:02:14Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/from-8vc-to-benchmark-here-s-what-s-hiding-in-october-sec-filings-tech.png": {
