@@ -108756,12 +108756,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo-techcr.png": {
-      "buffer_due_at_utc": "2026-10-28T08:40:41.000Z",
+      "buffer_due_at_utc": "2026-10-28T08:42:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae1ac1816af01251ce25ffc",
+      "buffer_post_id": "6ae1ac1e45e232dcee571dbd",
       "caption_file": "output/2026-10-28/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo-techcr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-28T08:42:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae1ac1e45e232dcee571dbd",
+          "published_at_utc": "2026-10-28T08:02:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-28T08:40:41.000Z",
           "buffer_mode": "customScheduled",
@@ -108771,7 +108777,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo-techcr.png",
       "metadata_file": "output/2026-10-28/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo-techcr.json",
-      "published_at_utc": "2026-10-28T08:02:32Z",
+      "published_at_utc": "2026-10-28T08:02:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-.png": {
