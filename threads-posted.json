@@ -108930,6 +108930,25 @@
       "published_at_utc": "2026-10-28T02:02:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-28/tiktok-expands-into-restaurant-guides-with-must-eat-feature.png": {
+      "buffer_due_at_utc": "2026-10-28T15:56:44.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae20ded522cb4d351186de3",
+      "caption_file": "output/2026-10-28/tiktok-expands-into-restaurant-guides-with-must-eat-feature.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-28T15:56:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae20ded522cb4d351186de3",
+          "published_at_utc": "2026-10-28T14:59:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/tiktok-expands-into-restaurant-guides-with-must-eat-feature.png",
+      "metadata_file": "output/2026-10-28/tiktok-expands-into-restaurant-guides-with-must-eat-feature.json",
+      "published_at_utc": "2026-10-28T14:59:57Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-28/vcs-will-make-billions-on-anthropic-s-ipo-but-amazon-is-set-to-make-mu.png": {
       "buffer_due_at_utc": "2026-10-28T02:42:32.000Z",
       "buffer_mode": "customScheduled",
