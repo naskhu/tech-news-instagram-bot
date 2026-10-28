@@ -108781,12 +108781,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/who-s-really-in-charge-at-anthropic-after-the-ipo-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-28T02:59:27.000Z",
+      "buffer_due_at_utc": "2026-10-28T03:01:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae157b6b24fed5fb496ba9c",
+      "buffer_post_id": "6ae157bbd689807dda1a0a2b",
       "caption_file": "output/2026-10-28/who-s-really-in-charge-at-anthropic-after-the-ipo-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-28T03:01:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae157bbd689807dda1a0a2b",
+          "published_at_utc": "2026-10-28T02:02:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-28T02:59:27.000Z",
           "buffer_mode": "customScheduled",
@@ -108796,7 +108802,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/who-s-really-in-charge-at-anthropic-after-the-ipo-techcrunch.png",
       "metadata_file": "output/2026-10-28/who-s-really-in-charge-at-anthropic-after-the-ipo-techcrunch.json",
-      "published_at_utc": "2026-10-28T02:02:30Z",
+      "published_at_utc": "2026-10-28T02:02:35Z",
       "publisher": "buffer_threads"
     }
   }
