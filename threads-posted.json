@@ -108805,6 +108805,25 @@
       "published_at_utc": "2026-10-28T02:02:03Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-28/re-build-which-spun-out-slate-auto-raises-2-1b-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-28T08:59:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae1ac23074a2fccd986c655",
+      "caption_file": "output/2026-10-28/re-build-which-spun-out-slate-auto-raises-2-1b-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-28T08:59:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae1ac23074a2fccd986c655",
+          "published_at_utc": "2026-10-28T08:02:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/re-build-which-spun-out-slate-auto-raises-2-1b-techcrunch.png",
+      "metadata_file": "output/2026-10-28/re-build-which-spun-out-slate-auto-raises-2-1b-techcrunch.json",
+      "published_at_utc": "2026-10-28T08:02:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-28/the-data-center-boom-has-an-upside-innovation-for-the-us-grid-techcrun.png": {
       "buffer_due_at_utc": "2026-10-28T02:23:37.000Z",
       "buffer_mode": "customScheduled",
