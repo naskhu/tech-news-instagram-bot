@@ -108606,12 +108606,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-oth.png": {
-      "buffer_due_at_utc": "2026-10-28T14:59:59.000Z",
+      "buffer_due_at_utc": "2026-10-28T15:01:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae20dc3522cb4d351185cf7",
+      "buffer_post_id": "6ae20dcb24430b41b8a646db",
       "caption_file": "output/2026-10-28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-oth.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-28T15:01:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae20dcb24430b41b8a646db",
+          "published_at_utc": "2026-10-28T14:59:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-28T14:59:59.000Z",
           "buffer_mode": "customScheduled",
@@ -108621,7 +108627,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-oth.png",
       "metadata_file": "output/2026-10-28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-oth.json",
-      "published_at_utc": "2026-10-28T14:59:15Z",
+      "published_at_utc": "2026-10-28T14:59:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/bank-of-america-kindly-asks-that-you-don-t-share-your-banking-password.png": {
