@@ -108830,6 +108830,25 @@
       "published_at_utc": "2026-10-28T08:02:38Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-28/meta-has-a-new-ai-pet-app-called-waddle-world-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-28T15:37:49.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae20de0c7a76511de19ce6e",
+      "caption_file": "output/2026-10-28/meta-has-a-new-ai-pet-app-called-waddle-world-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-28T15:37:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae20de0c7a76511de19ce6e",
+          "published_at_utc": "2026-10-28T14:59:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/meta-has-a-new-ai-pet-app-called-waddle-world-techcrunch.png",
+      "metadata_file": "output/2026-10-28/meta-has-a-new-ai-pet-app-called-waddle-world-techcrunch.json",
+      "published_at_utc": "2026-10-28T14:59:44Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-28/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-.png": {
       "buffer_due_at_utc": "2026-10-28T02:04:42.000Z",
       "buffer_mode": "customScheduled",
