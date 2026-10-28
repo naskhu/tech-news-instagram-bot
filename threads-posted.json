@@ -108755,6 +108755,25 @@
       "published_at_utc": "2026-10-27T22:52:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-28/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo-techcr.png": {
+      "buffer_due_at_utc": "2026-10-28T08:40:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae1ac1816af01251ce25ffc",
+      "caption_file": "output/2026-10-28/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo-techcr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-28T08:40:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae1ac1816af01251ce25ffc",
+          "published_at_utc": "2026-10-28T08:02:32Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo-techcr.png",
+      "metadata_file": "output/2026-10-28/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo-techcr.json",
+      "published_at_utc": "2026-10-28T08:02:32Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-28/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-.png": {
       "buffer_due_at_utc": "2026-10-28T02:04:42.000Z",
       "buffer_mode": "customScheduled",
