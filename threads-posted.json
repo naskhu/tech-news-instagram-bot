@@ -108706,12 +108706,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/free-fire-returns-to-india-as-garena-launches-localized-version-four-y.png": {
-      "buffer_due_at_utc": "2026-10-28T15:18:54.000Z",
+      "buffer_due_at_utc": "2026-10-28T15:20:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae20dd2c7a76511de19c754",
+      "buffer_post_id": "6ae20dd924430b41b8a649fa",
       "caption_file": "output/2026-10-28/free-fire-returns-to-india-as-garena-launches-localized-version-four-y.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-28T15:20:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae20dd924430b41b8a649fa",
+          "published_at_utc": "2026-10-28T14:59:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-28T15:18:54.000Z",
           "buffer_mode": "customScheduled",
@@ -108721,7 +108727,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/free-fire-returns-to-india-as-garena-launches-localized-version-four-y.png",
       "metadata_file": "output/2026-10-28/free-fire-returns-to-india-as-garena-launches-localized-version-four-y.json",
-      "published_at_utc": "2026-10-28T14:59:31Z",
+      "published_at_utc": "2026-10-28T14:59:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/from-8vc-to-benchmark-here-s-what-s-hiding-in-october-sec-filings-tech.png": {
