@@ -108656,12 +108656,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies-t.png": {
-      "buffer_due_at_utc": "2026-10-28T08:21:46.000Z",
+      "buffer_due_at_utc": "2026-10-28T08:23:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae1ac0c3ca4e5ab3b2df745",
+      "buffer_post_id": "6ae1ac123ca4e5ab3b2df914",
       "caption_file": "output/2026-10-28/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-28T08:23:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae1ac123ca4e5ab3b2df914",
+          "published_at_utc": "2026-10-28T08:02:26Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-28T08:21:46.000Z",
           "buffer_mode": "customScheduled",
@@ -108671,7 +108677,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-28/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies-t.png",
       "metadata_file": "output/2026-10-28/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies-t.json",
-      "published_at_utc": "2026-10-28T08:02:21Z",
+      "published_at_utc": "2026-10-28T08:02:26Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-28/from-8vc-to-benchmark-here-s-what-s-hiding-in-october-sec-filings-tech.png": {
