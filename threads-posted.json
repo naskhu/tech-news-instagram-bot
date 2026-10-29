@@ -109029,6 +109029,25 @@
       "metadata_file": "output/2026-10-29/apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme.json",
       "published_at_utc": "2026-10-29T00:06:16Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-29/google-expands-ai-search-ads-globally-as-core-ad-growth-slows-techcrun.png": {
+      "buffer_due_at_utc": "2026-10-29T00:25:50.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae28dfeb5c2969a0721522f",
+      "caption_file": "output/2026-10-29/google-expands-ai-search-ads-globally-as-core-ad-growth-slows-techcrun.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-29T00:25:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae28dfeb5c2969a0721522f",
+          "published_at_utc": "2026-10-29T00:06:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/google-expands-ai-search-ads-globally-as-core-ad-growth-slows-techcrun.png",
+      "metadata_file": "output/2026-10-29/google-expands-ai-search-ads-globally-as-core-ad-growth-slows-techcrun.json",
+      "published_at_utc": "2026-10-29T00:06:22Z",
+      "publisher": "buffer_threads"
     }
   }
 }
