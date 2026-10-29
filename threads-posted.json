@@ -109419,12 +109419,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.png": {
-      "buffer_due_at_utc": "2026-10-29T23:20:32.000Z",
+      "buffer_due_at_utc": "2026-10-29T23:22:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae3d030a83a7fb63c8106ac",
+      "buffer_post_id": "6ae3d03656e01b976374b12f",
       "caption_file": "output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-29T23:22:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae3d03656e01b976374b12f",
+          "published_at_utc": "2026-10-29T23:01:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-29T23:20:32.000Z",
           "buffer_mode": "customScheduled",
@@ -109434,7 +109440,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.png",
       "metadata_file": "output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.json",
-      "published_at_utc": "2026-10-29T23:01:05Z",
+      "published_at_utc": "2026-10-29T23:01:10Z",
       "publisher": "buffer_threads"
     }
   }
