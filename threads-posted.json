@@ -109469,12 +109469,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/gm-reaches-220m-settlement-over-selling-drivers-private-data-techcrunc.png": {
-      "buffer_due_at_utc": "2026-10-29T23:58:22.000Z",
+      "buffer_due_at_utc": "2026-10-30T00:00:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae3d0476385db216a121b71",
+      "buffer_post_id": "6ae3d04ca83a7fb63c810f7b",
       "caption_file": "output/2026-10-30/gm-reaches-220m-settlement-over-selling-drivers-private-data-techcrunc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-30T00:00:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae3d04ca83a7fb63c810f7b",
+          "published_at_utc": "2026-10-29T23:01:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-29T23:58:22.000Z",
           "buffer_mode": "customScheduled",
@@ -109484,7 +109490,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/gm-reaches-220m-settlement-over-selling-drivers-private-data-techcrunc.png",
       "metadata_file": "output/2026-10-30/gm-reaches-220m-settlement-over-selling-drivers-private-data-techcrunc.json",
-      "published_at_utc": "2026-10-29T23:01:27Z",
+      "published_at_utc": "2026-10-29T23:01:32Z",
       "publisher": "buffer_threads"
     }
   }
