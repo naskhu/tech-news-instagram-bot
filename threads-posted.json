@@ -109417,6 +109417,25 @@
       "metadata_file": "output/2026-10-30/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectation.json",
       "published_at_utc": "2026-10-29T23:00:58Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.png": {
+      "buffer_due_at_utc": "2026-10-29T23:20:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae3d030a83a7fb63c8106ac",
+      "caption_file": "output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-29T23:20:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae3d030a83a7fb63c8106ac",
+          "published_at_utc": "2026-10-29T23:01:05Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.png",
+      "metadata_file": "output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.json",
+      "published_at_utc": "2026-10-29T23:01:05Z",
+      "publisher": "buffer_threads"
     }
   }
 }
