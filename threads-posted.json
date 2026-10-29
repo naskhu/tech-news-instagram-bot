@@ -109346,6 +109346,23 @@
       "published_at_utc": "2026-10-29T00:06:50Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-29/us-investigated-chinese-spy-plot-aimed-at-nvidia-ceo-techcrunch.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ae3921b4ae687d9696a8a8f",
+      "caption_file": "output/2026-10-29/us-investigated-chinese-spy-plot-aimed-at-nvidia-ceo-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ae3921b4ae687d9696a8a8f",
+          "published_at_utc": "2026-10-29T18:36:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/us-investigated-chinese-spy-plot-aimed-at-nvidia-ceo-techcrunch.png",
+      "metadata_file": "output/2026-10-29/us-investigated-chinese-spy-plot-aimed-at-nvidia-ceo-techcrunch.json",
+      "published_at_utc": "2026-10-29T18:36:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-29/xreal-aura-is-a-new-wired-headset-powered-by-android-xr-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-29T13:08:11.000Z",
       "buffer_mode": "customScheduled",
