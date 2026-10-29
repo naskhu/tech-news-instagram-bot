@@ -109156,12 +109156,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/microsoft-recorded-10-billion-in-revenue-from-openai-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-29T06:54:26.000Z",
+      "buffer_due_at_utc": "2026-10-29T06:56:26.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae2e04b9c833862134e6d7e",
+      "buffer_post_id": "6ae2e051f66393dd568e44a3",
       "caption_file": "output/2026-10-29/microsoft-recorded-10-billion-in-revenue-from-openai-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-29T06:56:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae2e051f66393dd568e44a3",
+          "published_at_utc": "2026-10-29T05:57:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-29T06:54:26.000Z",
           "buffer_mode": "customScheduled",
@@ -109171,7 +109177,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/microsoft-recorded-10-billion-in-revenue-from-openai-techcrunch.png",
       "metadata_file": "output/2026-10-29/microsoft-recorded-10-billion-in-revenue-from-openai-techcrunch.json",
-      "published_at_utc": "2026-10-29T05:57:31Z",
+      "published_at_utc": "2026-10-29T05:57:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.png": {
