@@ -109392,6 +109392,25 @@
       "metadata_file": "output/2026-10-29/xreal-aura-is-a-new-wired-headset-powered-by-android-xr-techcrunch.json",
       "published_at_utc": "2026-10-29T12:09:25Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-30/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectation.png": {
+      "buffer_due_at_utc": "2026-10-29T23:01:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae3d0246385db216a120efb",
+      "caption_file": "output/2026-10-30/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectation.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-29T23:01:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae3d0246385db216a120efb",
+          "published_at_utc": "2026-10-29T23:00:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectation.png",
+      "metadata_file": "output/2026-10-30/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectation.json",
+      "published_at_utc": "2026-10-29T23:00:52Z",
+      "publisher": "buffer_threads"
     }
   }
 }
