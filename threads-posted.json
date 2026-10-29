@@ -109299,6 +109299,23 @@
       "published_at_utc": "2026-10-29T05:57:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6ae391fb780a8b49185365ed",
+      "caption_file": "output/2026-10-29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ae391fb780a8b49185365ed",
+          "published_at_utc": "2026-10-29T18:35:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting.png",
+      "metadata_file": "output/2026-10-29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting.json",
+      "published_at_utc": "2026-10-29T18:35:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.png": {
       "buffer_due_at_utc": "2026-10-29T01:05:40.000Z",
       "buffer_mode": "customScheduled",
