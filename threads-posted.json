@@ -109006,12 +109006,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending.png": {
-      "buffer_due_at_utc": "2026-10-29T05:57:41.000Z",
+      "buffer_due_at_utc": "2026-10-29T05:59:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae2e02835657f219b2d4184",
+      "buffer_post_id": "6ae2e02eb8abb6631d0e6ab0",
       "caption_file": "output/2026-10-29/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-29T05:59:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae2e02eb8abb6631d0e6ab0",
+          "published_at_utc": "2026-10-29T05:57:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-29T05:57:41.000Z",
           "buffer_mode": "customScheduled",
@@ -109021,7 +109027,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending.png",
       "metadata_file": "output/2026-10-29/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending.json",
-      "published_at_utc": "2026-10-29T05:56:56Z",
+      "published_at_utc": "2026-10-29T05:57:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme.png": {
