@@ -109442,6 +109442,25 @@
       "metadata_file": "output/2026-10-30/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-i.json",
       "published_at_utc": "2026-10-29T23:01:10Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-30/elon-musk-is-truly-a-genius-says-vladimir-putin-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-29T23:39:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae3d03b2782e7f331bdaa27",
+      "caption_file": "output/2026-10-30/elon-musk-is-truly-a-genius-says-vladimir-putin-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-29T23:39:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae3d03b2782e7f331bdaa27",
+          "published_at_utc": "2026-10-29T23:01:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/elon-musk-is-truly-a-genius-says-vladimir-putin-techcrunch.png",
+      "metadata_file": "output/2026-10-30/elon-musk-is-truly-a-genius-says-vladimir-putin-techcrunch.json",
+      "published_at_utc": "2026-10-29T23:01:16Z",
+      "publisher": "buffer_threads"
     }
   }
 }
