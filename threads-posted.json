@@ -109179,10 +109179,15 @@
     },
     "output/2026-10-29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr-techcrun.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6ae391db18a6132aaf6b980c",
+      "buffer_post_id": "6ae391eb4ae687d9696a8226",
       "caption_file": "output/2026-10-29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr-techcrun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6ae391eb4ae687d9696a8226",
+          "published_at_utc": "2026-10-29T18:35:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6ae391db18a6132aaf6b980c",
@@ -109191,7 +109196,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr-techcrun.png",
       "metadata_file": "output/2026-10-29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr-techcrun.json",
-      "published_at_utc": "2026-10-29T18:35:18Z",
+      "published_at_utc": "2026-10-29T18:35:33Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/hacker-stole-personnel-data-about-thousands-of-homeland-security-emplo.png": {
