@@ -109081,12 +109081,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.png": {
-      "buffer_due_at_utc": "2026-10-29T01:03:40.000Z",
+      "buffer_due_at_utc": "2026-10-29T01:05:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae28e14cfdbbf6de4f3a671",
+      "buffer_post_id": "6ae28e19b5c2969a072159ee",
       "caption_file": "output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-29T01:05:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae28e19b5c2969a072159ee",
+          "published_at_utc": "2026-10-29T00:06:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-29T01:03:40.000Z",
           "buffer_mode": "customScheduled",
@@ -109096,7 +109102,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.png",
       "metadata_file": "output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.json",
-      "published_at_utc": "2026-10-29T00:06:44Z",
+      "published_at_utc": "2026-10-29T00:06:50Z",
       "publisher": "buffer_threads"
     }
   }
