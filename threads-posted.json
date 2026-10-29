@@ -109081,12 +109081,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-ap.png": {
-      "buffer_due_at_utc": "2026-10-29T12:28:21.000Z",
+      "buffer_due_at_utc": "2026-10-29T12:30:21.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae33756b36cf8170e7c388d",
+      "buffer_post_id": "6ae3375cb36cf8170e7c3a7f",
       "caption_file": "output/2026-10-29/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-ap.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-29T12:30:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae3375cb36cf8170e7c3a7f",
+          "published_at_utc": "2026-10-29T12:09:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-29T12:28:21.000Z",
           "buffer_mode": "customScheduled",
@@ -109096,7 +109102,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-ap.png",
       "metadata_file": "output/2026-10-29/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-ap.json",
-      "published_at_utc": "2026-10-29T12:08:54Z",
+      "published_at_utc": "2026-10-29T12:09:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/google-expands-ai-search-ads-globally-as-core-ad-growth-slows-techcrun.png": {
