@@ -109006,12 +109006,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-29/apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme.png": {
-      "buffer_due_at_utc": "2026-10-29T00:06:55.000Z",
+      "buffer_due_at_utc": "2026-10-29T00:08:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae28df2cc91be5434b98982",
+      "buffer_post_id": "6ae28df8cfdbbf6de4f39f4b",
       "caption_file": "output/2026-10-29/apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-29T00:08:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae28df8cfdbbf6de4f39f4b",
+          "published_at_utc": "2026-10-29T00:06:16Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-29T00:06:55.000Z",
           "buffer_mode": "customScheduled",
@@ -109021,7 +109027,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme.png",
       "metadata_file": "output/2026-10-29/apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme.json",
-      "published_at_utc": "2026-10-29T00:06:10Z",
+      "published_at_utc": "2026-10-29T00:06:16Z",
       "publisher": "buffer_threads"
     }
   }
