@@ -109079,6 +109079,25 @@
       "metadata_file": "output/2026-10-29/microsoft-just-shared-azure-s-actual-revenue-in-dollars-33-2-billion-t.json",
       "published_at_utc": "2026-10-29T00:06:38Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.png": {
+      "buffer_due_at_utc": "2026-10-29T01:03:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae28e14cfdbbf6de4f3a671",
+      "caption_file": "output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-29T01:03:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae28e14cfdbbf6de4f3a671",
+          "published_at_utc": "2026-10-29T00:06:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.png",
+      "metadata_file": "output/2026-10-29/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer-t.json",
+      "published_at_utc": "2026-10-29T00:06:44Z",
+      "publisher": "buffer_threads"
     }
   }
 }
