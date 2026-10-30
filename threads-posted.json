@@ -109544,12 +109544,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/doordash-said-it-s-only-received-several-hundred-orders-from-ai-agents.png": {
-      "buffer_due_at_utc": "2026-10-30T15:54:08.000Z",
+      "buffer_due_at_utc": "2026-10-30T15:56:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae4b91179ddf9a28a021137",
+      "buffer_post_id": "6ae4b9179394ea34c120dbac",
       "caption_file": "output/2026-10-30/doordash-said-it-s-only-received-several-hundred-orders-from-ai-agents.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-30T15:56:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae4b9179394ea34c120dbac",
+          "published_at_utc": "2026-10-30T15:34:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-30T15:54:08.000Z",
           "buffer_mode": "customScheduled",
@@ -109559,7 +109565,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/doordash-said-it-s-only-received-several-hundred-orders-from-ai-agents.png",
       "metadata_file": "output/2026-10-30/doordash-said-it-s-only-received-several-hundred-orders-from-ai-agents.json",
-      "published_at_utc": "2026-10-30T15:34:41Z",
+      "published_at_utc": "2026-10-30T15:34:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/elon-musk-is-truly-a-genius-says-vladimir-putin-techcrunch.png": {
