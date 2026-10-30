@@ -109594,12 +109594,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/rivian-expands-joint-venture-with-vw-to-include-ai-assistant-techcrunc.png": {
-      "buffer_due_at_utc": "2026-10-30T09:20:50.000Z",
+      "buffer_due_at_utc": "2026-10-30T09:22:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae45ce2c2427e8527c70b92",
+      "buffer_post_id": "6ae45ce838b96b6f5b9c8bca",
       "caption_file": "output/2026-10-30/rivian-expands-joint-venture-with-vw-to-include-ai-assistant-techcrunc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-30T09:22:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae45ce838b96b6f5b9c8bca",
+          "published_at_utc": "2026-10-30T09:01:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-30T09:20:50.000Z",
           "buffer_mode": "customScheduled",
@@ -109609,7 +109615,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/rivian-expands-joint-venture-with-vw-to-include-ai-assistant-techcrunc.png",
       "metadata_file": "output/2026-10-30/rivian-expands-joint-venture-with-vw-to-include-ai-assistant-techcrunc.json",
-      "published_at_utc": "2026-10-30T09:01:22Z",
+      "published_at_utc": "2026-10-30T09:01:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/you-don-t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-u.png": {
