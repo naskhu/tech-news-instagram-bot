@@ -109644,12 +109644,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-u-k-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-30T09:58:40.000Z",
+      "buffer_due_at_utc": "2026-10-30T10:00:40.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae45cf958a62337fb76bdc8",
+      "buffer_post_id": "6ae45cffceb12661efd7d48e",
       "caption_file": "output/2026-10-30/waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-u-k-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-30T10:00:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae45cffceb12661efd7d48e",
+          "published_at_utc": "2026-10-30T09:01:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-30T09:58:40.000Z",
           "buffer_mode": "customScheduled",
@@ -109659,7 +109665,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-u-k-techcrunch.png",
       "metadata_file": "output/2026-10-30/waymo-taps-toyota-to-supply-robotaxis-for-japan-and-the-u-k-techcrunch.json",
-      "published_at_utc": "2026-10-30T09:01:45Z",
+      "published_at_utc": "2026-10-30T09:01:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/you-don-t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-u.png": {
