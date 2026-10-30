@@ -1,0 +1,23 @@
+{
+  "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+  "summary": "DoorDash has its own agents, including a text-to-order agent it launched in September , a CLI agent introduced in July , and a chatbot called Ask DoorDash it launched it June, which allows users to place orders through prompts and photos .",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+  "published_utc": "2026-10-30T13:54:25+00:00",
+  "output_day": "2026-10-30",
+  "date_source": "rss",
+  "generated_utc": "2026-10-30T15:33:09.472631+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-30/doordash-said-it-s-only-received-several-hundred-orders-from-ai-agents.png",
+  "caption": "output/2026-10-30/doordash-said-it-s-only-received-several-hundred-orders-from-ai-agents.txt"
+}
