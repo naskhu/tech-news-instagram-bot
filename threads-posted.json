@@ -109819,12 +109819,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-fo.png": {
-      "buffer_due_at_utc": "2026-10-30T23:56:17.000Z",
+      "buffer_due_at_utc": "2026-10-30T23:58:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae52e75eaa24d6f9a46b475",
+      "buffer_post_id": "6ae52e7bb84259308baa0845",
       "caption_file": "output/2026-10-31/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-fo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-30T23:58:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae52e7bb84259308baa0845",
+          "published_at_utc": "2026-10-30T23:55:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-30T23:56:17.000Z",
           "buffer_mode": "customScheduled",
@@ -109834,7 +109840,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-fo.png",
       "metadata_file": "output/2026-10-31/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-fo.json",
-      "published_at_utc": "2026-10-30T23:55:33Z",
+      "published_at_utc": "2026-10-30T23:55:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/google-s-first-data-center-satellite-is-online-and-writing-poetry-tech.png": {
