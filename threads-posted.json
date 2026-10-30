@@ -109443,6 +109443,25 @@
       "published_at_utc": "2026-10-30T02:26:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-30/as-search-traffic-dries-up-reddit-announces-it-s-shifting-to-a-logged-.png": {
+      "buffer_due_at_utc": "2026-10-30T09:01:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae45cd658a62337fb76afea",
+      "caption_file": "output/2026-10-30/as-search-traffic-dries-up-reddit-announces-it-s-shifting-to-a-logged-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-30T09:01:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae45cd658a62337fb76afea",
+          "published_at_utc": "2026-10-30T09:01:10Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/as-search-traffic-dries-up-reddit-announces-it-s-shifting-to-a-logged-.png",
+      "metadata_file": "output/2026-10-30/as-search-traffic-dries-up-reddit-announces-it-s-shifting-to-a-logged-.json",
+      "published_at_utc": "2026-10-30T09:01:10Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-30/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big-techc.png": {
       "buffer_due_at_utc": "2026-10-30T02:48:08.000Z",
       "buffer_mode": "customScheduled",
