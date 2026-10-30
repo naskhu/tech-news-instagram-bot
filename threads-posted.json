@@ -109518,6 +109518,25 @@
       "published_at_utc": "2026-10-29T23:01:10Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-30/can-ai-data-centers-be-mass-produced-like-cars-this-startup-aims-to-fi.png": {
+      "buffer_due_at_utc": "2026-10-30T15:35:13.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae4b904e266b27191f3b417",
+      "caption_file": "output/2026-10-30/can-ai-data-centers-be-mass-produced-like-cars-this-startup-aims-to-fi.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-30T15:35:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae4b904e266b27191f3b417",
+          "published_at_utc": "2026-10-30T15:34:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/can-ai-data-centers-be-mass-produced-like-cars-this-startup-aims-to-fi.png",
+      "metadata_file": "output/2026-10-30/can-ai-data-centers-be-mass-produced-like-cars-this-startup-aims-to-fi.json",
+      "published_at_utc": "2026-10-30T15:34:28Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-30/elon-musk-is-truly-a-genius-says-vladimir-putin-techcrunch.png": {
       "buffer_due_at_utc": "2026-10-29T23:41:27.000Z",
       "buffer_mode": "customScheduled",
