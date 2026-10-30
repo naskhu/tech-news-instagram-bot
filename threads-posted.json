@@ -109867,6 +109867,25 @@
       "metadata_file": "output/2026-10-31/satlyt-takes-another-step-toward-turning-satellites-into-space-data-ce.json",
       "published_at_utc": "2026-10-30T20:15:20Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-10-31/zest-s-new-ai-agent-finds-restaurants-and-books-reservations-over-text.png": {
+      "buffer_due_at_utc": "2026-10-30T21:12:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae4fadeeaa24d6f9a38deb9",
+      "caption_file": "output/2026-10-31/zest-s-new-ai-agent-finds-restaurants-and-books-reservations-over-text.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-30T21:12:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae4fadeeaa24d6f9a38deb9",
+          "published_at_utc": "2026-10-30T20:15:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/zest-s-new-ai-agent-finds-restaurants-and-books-reservations-over-text.png",
+      "metadata_file": "output/2026-10-31/zest-s-new-ai-agent-finds-restaurants-and-books-reservations-over-text.json",
+      "published_at_utc": "2026-10-30T20:15:26Z",
+      "publisher": "buffer_threads"
     }
   }
 }
