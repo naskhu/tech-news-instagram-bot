@@ -109844,12 +109844,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/satlyt-takes-another-step-toward-turning-satellites-into-space-data-ce.png": {
-      "buffer_due_at_utc": "2026-10-30T20:53:25.000Z",
+      "buffer_due_at_utc": "2026-10-30T20:55:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae4fad3406ab8a0187e6d12",
+      "buffer_post_id": "6ae4fad81891472093963145",
       "caption_file": "output/2026-10-31/satlyt-takes-another-step-toward-turning-satellites-into-space-data-ce.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-30T20:55:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae4fad81891472093963145",
+          "published_at_utc": "2026-10-30T20:15:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-30T20:53:25.000Z",
           "buffer_mode": "customScheduled",
@@ -109859,7 +109865,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/satlyt-takes-another-step-toward-turning-satellites-into-space-data-ce.png",
       "metadata_file": "output/2026-10-31/satlyt-takes-another-step-toward-turning-satellites-into-space-data-ce.json",
-      "published_at_utc": "2026-10-30T20:15:15Z",
+      "published_at_utc": "2026-10-30T20:15:20Z",
       "publisher": "buffer_threads"
     }
   }
