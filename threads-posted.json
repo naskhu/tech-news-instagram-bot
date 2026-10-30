@@ -109694,12 +109694,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-found.png": {
-      "buffer_due_at_utc": "2026-10-30T16:31:58.000Z",
+      "buffer_due_at_utc": "2026-10-30T16:33:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae4b92adf85d8ab2f41baf0",
+      "buffer_post_id": "6ae4b9301c3539c1f4e3c92f",
       "caption_file": "output/2026-10-30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-found.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-30T16:33:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae4b9301c3539c1f4e3c92f",
+          "published_at_utc": "2026-10-30T15:35:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-30T16:31:58.000Z",
           "buffer_mode": "customScheduled",
@@ -109709,7 +109715,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-found.png",
       "metadata_file": "output/2026-10-30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-found.json",
-      "published_at_utc": "2026-10-30T15:35:06Z",
+      "published_at_utc": "2026-10-30T15:35:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-30/the-r2-suv-is-already-rivian-s-best-selling-vehicle-techcrunch.png": {
