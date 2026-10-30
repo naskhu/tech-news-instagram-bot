@@ -109819,12 +109819,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/google-s-first-data-center-satellite-is-online-and-writing-poetry-tech.png": {
-      "buffer_due_at_utc": "2026-10-30T20:34:30.000Z",
+      "buffer_due_at_utc": "2026-10-30T20:36:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae4fac6fc1ac02b6edaf491",
+      "buffer_post_id": "6ae4facdfc1ac02b6edaf8fd",
       "caption_file": "output/2026-10-31/google-s-first-data-center-satellite-is-online-and-writing-poetry-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-30T20:36:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae4facdfc1ac02b6edaf8fd",
+          "published_at_utc": "2026-10-30T20:15:09Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-30T20:34:30.000Z",
           "buffer_mode": "customScheduled",
@@ -109834,7 +109840,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/google-s-first-data-center-satellite-is-online-and-writing-poetry-tech.png",
       "metadata_file": "output/2026-10-31/google-s-first-data-center-satellite-is-online-and-writing-poetry-tech.json",
-      "published_at_utc": "2026-10-30T20:15:03Z",
+      "published_at_utc": "2026-10-30T20:15:09Z",
       "publisher": "buffer_threads"
     }
   }
