@@ -110469,12 +110469,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/these-30th-anniversary-pok-mon-guitars-are-gorgeous-and-gorgeous-sound.png": {
-      "buffer_due_at_utc": "2026-10-31T23:49:09.000Z",
+      "buffer_due_at_utc": "2026-10-31T23:51:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae6711ef0984eef333657d3",
+      "buffer_post_id": "6ae67123f0984eef33365abd",
       "caption_file": "output/2026-11-01/these-30th-anniversary-pok-mon-guitars-are-gorgeous-and-gorgeous-sound.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-31T23:51:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae67123f0984eef33365abd",
+          "published_at_utc": "2026-10-31T22:52:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-31T23:49:09.000Z",
           "buffer_mode": "customScheduled",
@@ -110484,7 +110490,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/these-30th-anniversary-pok-mon-guitars-are-gorgeous-and-gorgeous-sound.png",
       "metadata_file": "output/2026-11-01/these-30th-anniversary-pok-mon-guitars-are-gorgeous-and-gorgeous-sound.json",
-      "published_at_utc": "2026-10-31T22:52:14Z",
+      "published_at_utc": "2026-10-31T22:52:19Z",
       "publisher": "buffer_threads"
     }
   }
