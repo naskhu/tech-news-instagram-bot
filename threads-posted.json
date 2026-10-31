@@ -110219,12 +110219,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/vic-mensa-can-t-live-without-the-voice-memos-app.png": {
-      "buffer_due_at_utc": "2026-10-31T16:18:50.000Z",
+      "buffer_due_at_utc": "2026-10-31T16:20:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae60bf71ee172cd6dac6c34",
+      "buffer_post_id": "6ae60bfc37c1acd2a0b85248",
       "caption_file": "output/2026-10-31/vic-mensa-can-t-live-without-the-voice-memos-app.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-31T16:20:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae60bfc37c1acd2a0b85248",
+          "published_at_utc": "2026-10-31T15:40:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-31T16:18:50.000Z",
           "buffer_mode": "customScheduled",
@@ -110234,7 +110240,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/vic-mensa-can-t-live-without-the-voice-memos-app.png",
       "metadata_file": "output/2026-10-31/vic-mensa-can-t-live-without-the-voice-memos-app.json",
-      "published_at_utc": "2026-10-31T15:40:39Z",
+      "published_at_utc": "2026-10-31T15:40:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/zest-s-new-ai-agent-finds-restaurants-and-books-reservations-over-text.png": {
