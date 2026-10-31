@@ -110342,6 +110342,25 @@
       "metadata_file": "output/2026-11-01/from-restaurant-guides-to-payments-here-s-how-tiktok-is-building-a-sup.json",
       "published_at_utc": "2026-10-31T19:35:18Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-01/keyboards-of-the-verge.png": {
+      "buffer_due_at_utc": "2026-10-31T20:13:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae642fcab019b90871f110e",
+      "caption_file": "output/2026-11-01/keyboards-of-the-verge.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-31T20:13:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae642fcab019b90871f110e",
+          "published_at_utc": "2026-10-31T19:35:24Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/keyboards-of-the-verge.png",
+      "metadata_file": "output/2026-11-01/keyboards-of-the-verge.json",
+      "published_at_utc": "2026-10-31T19:35:24Z",
+      "publisher": "buffer_threads"
     }
   }
 }
