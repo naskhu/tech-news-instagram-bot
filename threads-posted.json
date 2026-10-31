@@ -109969,12 +109969,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west.png": {
-      "buffer_due_at_utc": "2026-10-31T04:40:46.000Z",
+      "buffer_due_at_utc": "2026-10-31T04:42:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae563faceb491e585d67053",
+      "buffer_post_id": "6ae56400a114574349846fd7",
       "caption_file": "output/2026-10-31/nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-31T04:42:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae56400a114574349846fd7",
+          "published_at_utc": "2026-10-31T03:44:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-31T04:40:46.000Z",
           "buffer_mode": "customScheduled",
@@ -109984,7 +109990,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west.png",
       "metadata_file": "output/2026-10-31/nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west.json",
-      "published_at_utc": "2026-10-31T03:43:54Z",
+      "published_at_utc": "2026-10-31T03:44:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/ollie-a-privacy-focused-ai-assistant-is-shutting-down-techcrunch.png": {
