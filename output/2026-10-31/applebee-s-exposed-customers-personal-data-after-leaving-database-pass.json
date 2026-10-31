@@ -1,0 +1,23 @@
+{
+  "title": "Applebee's exposed customers' personal data after leaving database password in app | TechCrunch",
+  "summary": "Applebee’s has fixed a security flaw that allowed anyone to access the personal information of its registered customers, after a researcher found a password for an internal database inside Applebee’s mobile app, TechCrunch has learned.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app",
+  "published_utc": "2026-10-30T21:48:53+00:00",
+  "output_day": "2026-10-31",
+  "date_source": "meta",
+  "generated_utc": "2026-10-31T03:41:16.119113+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/applebees-501705240.jpg?resize=1200,899",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-10-31/applebee-s-exposed-customers-personal-data-after-leaving-database-pass.png",
+  "caption": "output/2026-10-31/applebee-s-exposed-customers-personal-data-after-leaving-database-pass.txt"
+}
