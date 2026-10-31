@@ -110319,12 +110319,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake-techc.png": {
-      "buffer_due_at_utc": "2026-10-31T23:11:19.000Z",
+      "buffer_due_at_utc": "2026-10-31T23:13:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae6710721c807e9d58d0018",
+      "buffer_post_id": "6ae6710c37c1acd2a0d5e9ef",
       "caption_file": "output/2026-11-01/apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake-techc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-31T23:13:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae6710c37c1acd2a0d5e9ef",
+          "published_at_utc": "2026-10-31T22:51:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-31T23:11:19.000Z",
           "buffer_mode": "customScheduled",
@@ -110334,7 +110340,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake-techc.png",
       "metadata_file": "output/2026-11-01/apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake-techc.json",
-      "published_at_utc": "2026-10-31T22:51:51Z",
+      "published_at_utc": "2026-10-31T22:51:56Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/binance-ceo-says-90-percent-of-stolen-assets-have-been-replenished.png": {
