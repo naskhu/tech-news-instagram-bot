@@ -109944,12 +109944,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/last-minute-halloween-costumes-for-tech-nerds-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-31T04:21:51.000Z",
+      "buffer_due_at_utc": "2026-10-31T04:23:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae563edceb491e585d66e85",
+      "buffer_post_id": "6ae563f3a114574349846e28",
       "caption_file": "output/2026-10-31/last-minute-halloween-costumes-for-tech-nerds-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-31T04:23:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae563f3a114574349846e28",
+          "published_at_utc": "2026-10-31T03:43:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-31T04:21:51.000Z",
           "buffer_mode": "customScheduled",
@@ -109959,7 +109965,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/last-minute-halloween-costumes-for-tech-nerds-techcrunch.png",
       "metadata_file": "output/2026-10-31/last-minute-halloween-costumes-for-tech-nerds-techcrunch.json",
-      "published_at_utc": "2026-10-31T03:43:41Z",
+      "published_at_utc": "2026-10-31T03:43:47Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/ollie-a-privacy-focused-ai-assistant-is-shutting-down-techcrunch.png": {
