@@ -110243,6 +110243,25 @@
       "published_at_utc": "2026-10-31T15:40:44Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-31/windows-11-tries-new-shortcuts-for-xbox-gaming-mode-and-search.png": {
+      "buffer_due_at_utc": "2026-10-31T16:37:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae60c02ab019b90870e8ff4",
+      "caption_file": "output/2026-10-31/windows-11-tries-new-shortcuts-for-xbox-gaming-mode-and-search.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-31T16:37:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae60c02ab019b90870e8ff4",
+          "published_at_utc": "2026-10-31T15:40:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/windows-11-tries-new-shortcuts-for-xbox-gaming-mode-and-search.png",
+      "metadata_file": "output/2026-10-31/windows-11-tries-new-shortcuts-for-xbox-gaming-mode-and-search.json",
+      "published_at_utc": "2026-10-31T15:40:50Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-31/zest-s-new-ai-agent-finds-restaurants-and-books-reservations-over-text.png": {
       "buffer_due_at_utc": "2026-10-30T21:14:20.000Z",
       "buffer_mode": "customScheduled",
