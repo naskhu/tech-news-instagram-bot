@@ -109868,6 +109868,25 @@
       "published_at_utc": "2026-10-31T03:43:23Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-10-31/cracks-are-emerging-in-the-ai-spending-boom-techcrunch.png": {
+      "buffer_due_at_utc": "2026-10-31T04:02:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae563e11891472093b1258e",
+      "caption_file": "output/2026-10-31/cracks-are-emerging-in-the-ai-spending-boom-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-10-31T04:02:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae563e11891472093b1258e",
+          "published_at_utc": "2026-10-31T03:43:29Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/cracks-are-emerging-in-the-ai-spending-boom-techcrunch.png",
+      "metadata_file": "output/2026-10-31/cracks-are-emerging-in-the-ai-spending-boom-techcrunch.json",
+      "published_at_utc": "2026-10-31T03:43:29Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-10-31/google-s-first-data-center-satellite-is-online-and-writing-poetry-tech.png": {
       "buffer_due_at_utc": "2026-10-30T20:36:30.000Z",
       "buffer_mode": "customScheduled",
