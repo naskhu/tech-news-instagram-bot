@@ -110319,12 +110319,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/from-restaurant-guides-to-payments-here-s-how-tiktok-is-building-a-sup.png": {
-      "buffer_due_at_utc": "2026-10-31T19:54:41.000Z",
+      "buffer_due_at_utc": "2026-10-31T19:56:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae642f037c1acd2a0c874bb",
+      "buffer_post_id": "6ae642f61ee172cd6dbcb321",
       "caption_file": "output/2026-11-01/from-restaurant-guides-to-payments-here-s-how-tiktok-is-building-a-sup.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-31T19:56:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae642f61ee172cd6dbcb321",
+          "published_at_utc": "2026-10-31T19:35:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-31T19:54:41.000Z",
           "buffer_mode": "customScheduled",
@@ -110334,7 +110340,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/from-restaurant-guides-to-payments-here-s-how-tiktok-is-building-a-sup.png",
       "metadata_file": "output/2026-11-01/from-restaurant-guides-to-payments-here-s-how-tiktok-is-building-a-sup.json",
-      "published_at_utc": "2026-10-31T19:35:13Z",
+      "published_at_utc": "2026-10-31T19:35:18Z",
       "publisher": "buffer_threads"
     }
   }
