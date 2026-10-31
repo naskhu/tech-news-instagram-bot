@@ -109794,12 +109794,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-f.png": {
-      "buffer_due_at_utc": "2026-10-31T10:01:22.000Z",
+      "buffer_due_at_utc": "2026-10-31T10:03:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae5bc46a1145743499a3c6c",
+      "buffer_post_id": "6ae5bc4c1891472093c66bf4",
       "caption_file": "output/2026-10-31/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-f.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-31T10:03:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae5bc4c1891472093c66bf4",
+          "published_at_utc": "2026-10-31T10:00:44Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-31T10:01:22.000Z",
           "buffer_mode": "customScheduled",
@@ -109809,7 +109815,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-f.png",
       "metadata_file": "output/2026-10-31/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-f.json",
-      "published_at_utc": "2026-10-31T10:00:38Z",
+      "published_at_utc": "2026-10-31T10:00:44Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal-tech.png": {
