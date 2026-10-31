@@ -109994,12 +109994,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/i-took-two-iphones-on-vacation-the-duo-won-me-over-techcrunch.png": {
-      "buffer_due_at_utc": "2026-10-31T15:59:55.000Z",
+      "buffer_due_at_utc": "2026-10-31T16:01:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae60bebcf3a3112f3ad9ad3",
+      "buffer_post_id": "6ae60bf1cf3a3112f3ad9cb4",
       "caption_file": "output/2026-10-31/i-took-two-iphones-on-vacation-the-duo-won-me-over-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-10-31T16:01:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae60bf1cf3a3112f3ad9cb4",
+          "published_at_utc": "2026-10-31T15:40:33Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-10-31T15:59:55.000Z",
           "buffer_mode": "customScheduled",
@@ -110009,7 +110015,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-10-31/i-took-two-iphones-on-vacation-the-duo-won-me-over-techcrunch.png",
       "metadata_file": "output/2026-10-31/i-took-two-iphones-on-vacation-the-duo-won-me-over-techcrunch.json",
-      "published_at_utc": "2026-10-31T15:40:27Z",
+      "published_at_utc": "2026-10-31T15:40:33Z",
       "publisher": "buffer_threads"
     },
     "output/2026-10-31/intel-s-stock-crashes-knocking-12b-from-government-s-stake-techcrunch.png": {
