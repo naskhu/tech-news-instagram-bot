@@ -110419,12 +110419,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/happy-pikmin-day-eve.png": {
-      "buffer_due_at_utc": "2026-11-01T02:09:08.000Z",
+      "buffer_due_at_utc": "2026-11-01T02:11:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae69ab4cf3a3112f3d46dd8",
+      "buffer_post_id": "6ae69ab91ee172cd6dd386cf",
       "caption_file": "output/2026-11-01/happy-pikmin-day-eve.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-01T02:11:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae69ab91ee172cd6dd386cf",
+          "published_at_utc": "2026-11-01T01:49:45Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-01T02:09:08.000Z",
           "buffer_mode": "customScheduled",
@@ -110434,7 +110440,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/happy-pikmin-day-eve.png",
       "metadata_file": "output/2026-11-01/happy-pikmin-day-eve.json",
-      "published_at_utc": "2026-11-01T01:49:40Z",
+      "published_at_utc": "2026-11-01T01:49:45Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forw.png": {
