@@ -110894,12 +110894,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/nasa-hopes-the-commercial-space-industry-can-help-save-hubble.png": {
-      "buffer_due_at_utc": "2026-11-01T23:59:48.000Z",
+      "buffer_due_at_utc": "2026-11-02T00:01:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae7c98101fa08ffbe718207",
+      "buffer_post_id": "6ae7c98701fa08ffbe71831c",
       "caption_file": "output/2026-11-02/nasa-hopes-the-commercial-space-industry-can-help-save-hubble.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-02T00:01:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae7c98701fa08ffbe71831c",
+          "published_at_utc": "2026-11-01T23:21:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-01T23:59:48.000Z",
           "buffer_mode": "customScheduled",
@@ -110909,7 +110915,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/nasa-hopes-the-commercial-space-industry-can-help-save-hubble.png",
       "metadata_file": "output/2026-11-02/nasa-hopes-the-commercial-space-industry-can-help-save-hubble.json",
-      "published_at_utc": "2026-11-01T23:21:37Z",
+      "published_at_utc": "2026-11-01T23:21:43Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/techcrunch-mobility-a-new-bigger-av-boom-is-here-techcrunch.png": {
