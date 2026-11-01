@@ -110468,6 +110468,25 @@
       "published_at_utc": "2026-11-01T01:49:56Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-01/it-welcome-to-derry-has-a-halloween-surprise.png": {
+      "buffer_due_at_utc": "2026-11-01T02:46:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae69ac921c807e9d5970ac9",
+      "caption_file": "output/2026-11-01/it-welcome-to-derry-has-a-halloween-surprise.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-01T02:46:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae69ac921c807e9d5970ac9",
+          "published_at_utc": "2026-11-01T01:50:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/it-welcome-to-derry-has-a-halloween-surprise.png",
+      "metadata_file": "output/2026-11-01/it-welcome-to-derry-has-a-halloween-surprise.json",
+      "published_at_utc": "2026-11-01T01:50:01Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-01/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forw.png": {
       "buffer_due_at_utc": "2026-10-31T23:32:14.000Z",
       "buffer_mode": "customScheduled",
