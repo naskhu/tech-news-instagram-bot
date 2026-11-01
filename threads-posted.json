@@ -110817,6 +110817,25 @@
       "metadata_file": "output/2026-11-02/apple-s-homeview-could-add-security-camera-features.json",
       "published_at_utc": "2026-11-01T20:00:25Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-02/binance-resumes-withdrawals-following-6-3-billion-breach-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-01T20:19:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae79a5f5604f9d85b8582fc",
+      "caption_file": "output/2026-11-02/binance-resumes-withdrawals-following-6-3-billion-breach-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-01T20:19:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae79a5f5604f9d85b8582fc",
+          "published_at_utc": "2026-11-01T20:00:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/binance-resumes-withdrawals-following-6-3-billion-breach-techcrunch.png",
+      "metadata_file": "output/2026-11-02/binance-resumes-withdrawals-following-6-3-billion-breach-techcrunch.json",
+      "published_at_utc": "2026-11-01T20:00:31Z",
+      "publisher": "buffer_threads"
     }
   }
 }
