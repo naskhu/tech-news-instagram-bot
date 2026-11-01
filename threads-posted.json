@@ -110719,12 +110719,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world.png": {
-      "buffer_due_at_utc": "2026-11-01T16:28:13.000Z",
+      "buffer_due_at_utc": "2026-11-01T16:30:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae75b467924eda132d283c5",
+      "buffer_post_id": "6ae75b4b8755094b828ec8c7",
       "caption_file": "output/2026-11-01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-01T16:30:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae75b4b8755094b828ec8c7",
+          "published_at_utc": "2026-11-01T15:31:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-01T16:28:13.000Z",
           "buffer_mode": "customScheduled",
@@ -110734,7 +110740,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world.png",
       "metadata_file": "output/2026-11-01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world.json",
-      "published_at_utc": "2026-11-01T15:31:18Z",
+      "published_at_utc": "2026-11-01T15:31:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/these-30th-anniversary-pok-mon-guitars-are-gorgeous-and-gorgeous-sound.png": {
