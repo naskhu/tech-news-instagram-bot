@@ -110669,12 +110669,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-01/touchscreens-everywhere.png": {
-      "buffer_due_at_utc": "2026-11-01T09:45:44.000Z",
+      "buffer_due_at_utc": "2026-11-01T09:47:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae6fcf4ab019b90874c370a",
+      "buffer_post_id": "6ae6fcfaab019b90874c37d5",
       "caption_file": "output/2026-11-01/touchscreens-everywhere.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-01T09:47:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae6fcfaab019b90874c37d5",
+          "published_at_utc": "2026-11-01T08:48:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-01T09:45:44.000Z",
           "buffer_mode": "customScheduled",
@@ -110684,7 +110690,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/touchscreens-everywhere.png",
       "metadata_file": "output/2026-11-01/touchscreens-everywhere.json",
-      "published_at_utc": "2026-11-01T08:48:52Z",
+      "published_at_utc": "2026-11-01T08:48:58Z",
       "publisher": "buffer_threads"
     }
   }
