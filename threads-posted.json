@@ -110792,6 +110792,25 @@
       "metadata_file": "output/2026-11-01/touchscreens-everywhere.json",
       "published_at_utc": "2026-11-01T08:48:58Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-02/apple-s-homeview-could-add-security-camera-features.png": {
+      "buffer_due_at_utc": "2026-11-01T20:01:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae79a533f7155902f73a8e7",
+      "caption_file": "output/2026-11-02/apple-s-homeview-could-add-security-camera-features.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-01T20:01:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae79a533f7155902f73a8e7",
+          "published_at_utc": "2026-11-01T20:00:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/apple-s-homeview-could-add-security-camera-features.png",
+      "metadata_file": "output/2026-11-02/apple-s-homeview-could-add-security-camera-features.json",
+      "published_at_utc": "2026-11-01T20:00:19Z",
+      "publisher": "buffer_threads"
     }
   }
 }
