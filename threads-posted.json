@@ -110794,12 +110794,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/apple-s-homeview-could-add-security-camera-features.png": {
-      "buffer_due_at_utc": "2026-11-01T20:01:03.000Z",
+      "buffer_due_at_utc": "2026-11-01T20:03:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae79a533f7155902f73a8e7",
+      "buffer_post_id": "6ae79a59026a1294e55d6f62",
       "caption_file": "output/2026-11-02/apple-s-homeview-could-add-security-camera-features.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-01T20:03:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae79a59026a1294e55d6f62",
+          "published_at_utc": "2026-11-01T20:00:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-01T20:01:03.000Z",
           "buffer_mode": "customScheduled",
@@ -110809,7 +110815,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/apple-s-homeview-could-add-security-camera-features.png",
       "metadata_file": "output/2026-11-02/apple-s-homeview-could-add-security-camera-features.json",
-      "published_at_utc": "2026-11-01T20:00:19Z",
+      "published_at_utc": "2026-11-01T20:00:25Z",
       "publisher": "buffer_threads"
     }
   }
