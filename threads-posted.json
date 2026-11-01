@@ -110918,6 +110918,25 @@
       "published_at_utc": "2026-11-01T23:21:43Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-02/openai-might-rebrand-its-data-centers-as-ai-compute-campuses-techcrunc.png": {
+      "buffer_due_at_utc": "2026-11-02T00:18:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae7c98d48ce42a6b43085b2",
+      "caption_file": "output/2026-11-02/openai-might-rebrand-its-data-centers-as-ai-compute-campuses-techcrunc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-02T00:18:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae7c98d48ce42a6b43085b2",
+          "published_at_utc": "2026-11-01T23:21:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/openai-might-rebrand-its-data-centers-as-ai-compute-campuses-techcrunc.png",
+      "metadata_file": "output/2026-11-02/openai-might-rebrand-its-data-centers-as-ai-compute-campuses-techcrunc.json",
+      "published_at_utc": "2026-11-01T23:21:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-02/techcrunch-mobility-a-new-bigger-av-boom-is-here-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-01T20:40:53.000Z",
       "buffer_mode": "customScheduled",
