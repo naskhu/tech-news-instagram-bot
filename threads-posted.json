@@ -110443,6 +110443,25 @@
       "published_at_utc": "2026-11-01T01:49:34Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-01/google-made-a-robot-planter.png": {
+      "buffer_due_at_utc": "2026-11-01T09:07:54.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae6fcdb21c807e9d5ac26d7",
+      "caption_file": "output/2026-11-01/google-made-a-robot-planter.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-01T09:07:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae6fcdb21c807e9d5ac26d7",
+          "published_at_utc": "2026-11-01T08:48:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-01/google-made-a-robot-planter.png",
+      "metadata_file": "output/2026-11-01/google-made-a-robot-planter.json",
+      "published_at_utc": "2026-11-01T08:48:28Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-01/happy-pikmin-day-eve.png": {
       "buffer_due_at_utc": "2026-11-01T02:11:08.000Z",
       "buffer_mode": "customScheduled",
