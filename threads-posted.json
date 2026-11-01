@@ -110844,12 +110844,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/billboards-around-the-globe-were-hacked-to-show-porn.png": {
-      "buffer_due_at_utc": "2026-11-01T23:40:53.000Z",
+      "buffer_due_at_utc": "2026-11-01T23:42:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae7c975d016796999f7944b",
+      "buffer_post_id": "6ae7c97bd016796999f794d3",
       "caption_file": "output/2026-11-02/billboards-around-the-globe-were-hacked-to-show-porn.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-01T23:42:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae7c97bd016796999f794d3",
+          "published_at_utc": "2026-11-01T23:21:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-01T23:40:53.000Z",
           "buffer_mode": "customScheduled",
@@ -110859,7 +110865,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/billboards-around-the-globe-were-hacked-to-show-porn.png",
       "metadata_file": "output/2026-11-02/billboards-around-the-globe-were-hacked-to-show-porn.json",
-      "published_at_utc": "2026-11-01T23:21:25Z",
+      "published_at_utc": "2026-11-01T23:21:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/binance-resumes-withdrawals-following-6-3-billion-breach-techcrunch.png": {
