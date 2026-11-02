@@ -111269,12 +111269,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-03/web-host-squarespace-lays-off-19-of-its-employees-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-02T20:57:28.000Z",
+      "buffer_due_at_utc": "2026-11-02T20:59:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae8ebea9299fa2e50064371",
+      "buffer_post_id": "6ae8ebf02e33fbc3e1b61849",
       "caption_file": "output/2026-11-03/web-host-squarespace-lays-off-19-of-its-employees-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-02T20:59:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae8ebf02e33fbc3e1b61849",
+          "published_at_utc": "2026-11-02T20:00:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-02T20:57:28.000Z",
           "buffer_mode": "customScheduled",
@@ -111284,7 +111290,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-03/web-host-squarespace-lays-off-19-of-its-employees-techcrunch.png",
       "metadata_file": "output/2026-11-03/web-host-squarespace-lays-off-19-of-its-employees-techcrunch.json",
-      "published_at_utc": "2026-11-02T20:00:42Z",
+      "published_at_utc": "2026-11-02T20:00:49Z",
       "publisher": "buffer_threads"
     }
   }
