@@ -110968,6 +110968,25 @@
       "published_at_utc": "2026-11-01T20:00:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-02/borrowed-reading-stories-from-our-extended-colleagues-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-02T10:20:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae85f6f4a24ce7f3633ed14",
+      "caption_file": "output/2026-11-02/borrowed-reading-stories-from-our-extended-colleagues-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-02T10:20:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae85f6f4a24ce7f3633ed14",
+          "published_at_utc": "2026-11-02T10:01:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/borrowed-reading-stories-from-our-extended-colleagues-techcrunch.png",
+      "metadata_file": "output/2026-11-02/borrowed-reading-stories-from-our-extended-colleagues-techcrunch.json",
+      "published_at_utc": "2026-11-02T10:01:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-02/flock-keeps-ignoring-requests-to-cancel-its-contracts.png": {
       "buffer_due_at_utc": "2026-11-02T03:19:42.000Z",
       "buffer_mode": "customScheduled",
