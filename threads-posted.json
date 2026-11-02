@@ -111217,6 +111217,25 @@
       "metadata_file": "output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.json",
       "published_at_utc": "2026-11-02T20:00:07Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.png": {
+      "buffer_due_at_utc": "2026-11-02T20:19:38.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae8ebce9299fa2e500622b1",
+      "caption_file": "output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-02T20:19:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae8ebce9299fa2e500622b1",
+          "published_at_utc": "2026-11-02T20:00:15Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.png",
+      "metadata_file": "output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.json",
+      "published_at_utc": "2026-11-02T20:00:15Z",
+      "publisher": "buffer_threads"
     }
   }
 }
