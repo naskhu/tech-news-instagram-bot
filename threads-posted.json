@@ -111118,6 +111118,25 @@
       "published_at_utc": "2026-11-01T23:21:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-02/openai-says-it-s-tightening-chatgpt-controls-around-violence.png": {
+      "buffer_due_at_utc": "2026-11-02T10:58:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae85f87c100ba337af1f8f2",
+      "caption_file": "output/2026-11-02/openai-says-it-s-tightening-chatgpt-controls-around-violence.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-02T10:58:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae85f87c100ba337af1f8f2",
+          "published_at_utc": "2026-11-02T10:01:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/openai-says-it-s-tightening-chatgpt-controls-around-violence.png",
+      "metadata_file": "output/2026-11-02/openai-says-it-s-tightening-chatgpt-controls-around-violence.json",
+      "published_at_utc": "2026-11-02T10:01:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-02/techcrunch-mobility-a-new-bigger-av-boom-is-here-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-01T20:40:53.000Z",
       "buffer_mode": "customScheduled",
