@@ -110819,12 +110819,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/adam-mosseri-tries-instagram-s-new-long-form-features.png": {
-      "buffer_due_at_utc": "2026-11-02T02:58:47.000Z",
+      "buffer_due_at_utc": "2026-11-02T03:00:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae7f7d6ab5edfbf4a4d46a4",
+      "buffer_post_id": "6ae7f7dcc181038f3ba3ffed",
       "caption_file": "output/2026-11-02/adam-mosseri-tries-instagram-s-new-long-form-features.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-02T03:00:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae7f7dcc181038f3ba3ffed",
+          "published_at_utc": "2026-11-02T02:39:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-02T02:58:47.000Z",
           "buffer_mode": "customScheduled",
@@ -110834,7 +110840,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/adam-mosseri-tries-instagram-s-new-long-form-features.png",
       "metadata_file": "output/2026-11-02/adam-mosseri-tries-instagram-s-new-long-form-features.json",
-      "published_at_utc": "2026-11-02T02:39:19Z",
+      "published_at_utc": "2026-11-02T02:39:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else-techcrunch.png": {
