@@ -111194,12 +111194,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.png": {
-      "buffer_due_at_utc": "2026-11-02T20:00:43.000Z",
+      "buffer_due_at_utc": "2026-11-02T20:02:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae8ebbe2e33fbc3e1b5f1de",
+      "buffer_post_id": "6ae8ebc69299fa2e50061544",
       "caption_file": "output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-02T20:02:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae8ebc69299fa2e50061544",
+          "published_at_utc": "2026-11-02T20:00:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-02T20:00:43.000Z",
           "buffer_mode": "customScheduled",
@@ -111209,7 +111215,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.png",
       "metadata_file": "output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.json",
-      "published_at_utc": "2026-11-02T19:59:58Z",
+      "published_at_utc": "2026-11-02T20:00:07Z",
       "publisher": "buffer_threads"
     }
   }
