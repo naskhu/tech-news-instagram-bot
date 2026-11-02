@@ -111219,12 +111219,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.png": {
-      "buffer_due_at_utc": "2026-11-02T20:19:38.000Z",
+      "buffer_due_at_utc": "2026-11-02T20:21:38.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae8ebce9299fa2e500622b1",
+      "buffer_post_id": "6ae8ebd5fb05897d9d395782",
       "caption_file": "output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-02T20:21:38.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae8ebd5fb05897d9d395782",
+          "published_at_utc": "2026-11-02T20:00:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-02T20:19:38.000Z",
           "buffer_mode": "customScheduled",
@@ -111234,7 +111240,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.png",
       "metadata_file": "output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.json",
-      "published_at_utc": "2026-11-02T20:00:15Z",
+      "published_at_utc": "2026-11-02T20:00:22Z",
       "publisher": "buffer_threads"
     }
   }
