@@ -110993,6 +110993,25 @@
       "published_at_utc": "2026-11-01T23:21:43Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-02/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists.png": {
+      "buffer_due_at_utc": "2026-11-02T03:36:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae7f7ec22752db9a6fa3bbd",
+      "caption_file": "output/2026-11-02/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-02T03:36:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae7f7ec22752db9a6fa3bbd",
+          "published_at_utc": "2026-11-02T02:39:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists.png",
+      "metadata_file": "output/2026-11-02/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists.json",
+      "published_at_utc": "2026-11-02T02:39:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-02/openai-might-rebrand-its-data-centers-as-ai-compute-campuses-techcrunc.png": {
       "buffer_due_at_utc": "2026-11-02T00:20:43.000Z",
       "buffer_mode": "customScheduled",
