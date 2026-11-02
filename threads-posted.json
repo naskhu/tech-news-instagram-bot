@@ -111242,6 +111242,25 @@
       "metadata_file": "output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.json",
       "published_at_utc": "2026-11-02T20:00:22Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-03/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-.png": {
+      "buffer_due_at_utc": "2026-11-02T20:38:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae8ebdc2e33fbc3e1b60e0c",
+      "caption_file": "output/2026-11-03/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-02T20:38:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae8ebdc2e33fbc3e1b60e0c",
+          "published_at_utc": "2026-11-02T20:00:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-03/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-.png",
+      "metadata_file": "output/2026-11-03/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-.json",
+      "published_at_utc": "2026-11-02T20:00:28Z",
+      "publisher": "buffer_threads"
     }
   }
 }
