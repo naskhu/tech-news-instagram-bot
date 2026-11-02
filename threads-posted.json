@@ -111192,6 +111192,25 @@
       "metadata_file": "output/2026-11-02/what-s-the-scariest-thing-you-ve-ever-seen-on-youtube.json",
       "published_at_utc": "2026-11-01T20:00:59Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.png": {
+      "buffer_due_at_utc": "2026-11-02T20:00:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae8ebbe2e33fbc3e1b5f1de",
+      "caption_file": "output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-02T20:00:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae8ebbe2e33fbc3e1b5f1de",
+          "published_at_utc": "2026-11-02T19:59:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.png",
+      "metadata_file": "output/2026-11-03/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware.json",
+      "published_at_utc": "2026-11-02T19:59:58Z",
+      "publisher": "buffer_threads"
     }
   }
 }
