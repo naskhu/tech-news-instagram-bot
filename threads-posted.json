@@ -110794,12 +110794,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/a-fully-playable-version-of-portal-prequel-f-stop-leaked.png": {
-      "buffer_due_at_utc": "2026-11-02T02:39:52.000Z",
+      "buffer_due_at_utc": "2026-11-02T02:41:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae7f7cc386eccf91254e8a5",
+      "buffer_post_id": "6ae7f7d1ab5edfbf4a4d45e8",
       "caption_file": "output/2026-11-02/a-fully-playable-version-of-portal-prequel-f-stop-leaked.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-02T02:41:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae7f7d1ab5edfbf4a4d45e8",
+          "published_at_utc": "2026-11-02T02:39:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-02T02:39:52.000Z",
           "buffer_mode": "customScheduled",
@@ -110809,7 +110815,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/a-fully-playable-version-of-portal-prequel-f-stop-leaked.png",
       "metadata_file": "output/2026-11-02/a-fully-playable-version-of-portal-prequel-f-stop-leaked.json",
-      "published_at_utc": "2026-11-02T02:39:08Z",
+      "published_at_utc": "2026-11-02T02:39:13Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-02/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else-techcrunch.png": {
