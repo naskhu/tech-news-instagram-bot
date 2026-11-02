@@ -110868,6 +110868,25 @@
       "published_at_utc": "2026-11-01T23:21:19Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-02/ai-is-being-used-to-churn-out-a-lot-of-indie-games.png": {
+      "buffer_due_at_utc": "2026-11-02T10:01:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6ae85f62bc7258b27b3d6f2a",
+      "caption_file": "output/2026-11-02/ai-is-being-used-to-churn-out-a-lot-of-indie-games.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-02T10:01:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae85f62bc7258b27b3d6f2a",
+          "published_at_utc": "2026-11-02T10:01:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-02/ai-is-being-used-to-churn-out-a-lot-of-indie-games.png",
+      "metadata_file": "output/2026-11-02/ai-is-being-used-to-churn-out-a-lot-of-indie-games.json",
+      "published_at_utc": "2026-11-02T10:01:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-02/apple-s-homeview-could-add-security-camera-features.png": {
       "buffer_due_at_utc": "2026-11-01T20:03:03.000Z",
       "buffer_mode": "customScheduled",
