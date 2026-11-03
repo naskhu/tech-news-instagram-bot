@@ -111369,12 +111369,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europe-s-startup-sce.png": {
-      "buffer_due_at_utc": "2026-11-03T10:00:49.000Z",
+      "buffer_due_at_utc": "2026-11-03T10:02:49.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae9a37d993cb1e1d57ba7fa",
+      "buffer_post_id": "6ae9a383620d285705cbe3a1",
       "caption_file": "output/2026-11-03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europe-s-startup-sce.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-03T10:02:49.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae9a383620d285705cbe3a1",
+          "published_at_utc": "2026-11-03T09:04:03Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-03T10:00:49.000Z",
           "buffer_mode": "customScheduled",
@@ -111384,7 +111390,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europe-s-startup-sce.png",
       "metadata_file": "output/2026-11-03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europe-s-startup-sce.json",
-      "published_at_utc": "2026-11-03T09:03:57Z",
+      "published_at_utc": "2026-11-03T09:04:03Z",
       "publisher": "buffer_threads"
     }
   }
