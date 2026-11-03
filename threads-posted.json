@@ -111269,12 +111269,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-03/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal.png": {
-      "buffer_due_at_utc": "2026-11-03T09:41:54.000Z",
+      "buffer_due_at_utc": "2026-11-03T09:43:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6ae9a371b9df486b0ab593f9",
+      "buffer_post_id": "6ae9a377620d285705cbde36",
       "caption_file": "output/2026-11-03/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-03T09:43:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6ae9a377620d285705cbde36",
+          "published_at_utc": "2026-11-03T09:03:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-03T09:41:54.000Z",
           "buffer_mode": "customScheduled",
@@ -111284,7 +111290,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-03/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal.png",
       "metadata_file": "output/2026-11-03/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal.json",
-      "published_at_utc": "2026-11-03T09:03:45Z",
+      "published_at_utc": "2026-11-03T09:03:51Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-03/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-co.png": {
