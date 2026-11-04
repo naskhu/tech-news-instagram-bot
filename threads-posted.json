@@ -111494,12 +111494,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-04/india-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-country-s-risi.png": {
-      "buffer_due_at_utc": "2026-11-04T10:12:11.000Z",
+      "buffer_due_at_utc": "2026-11-04T10:14:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aeb00821d881477a61992e2",
+      "buffer_post_id": "6aeb0098961fae078ac7101b",
       "caption_file": "output/2026-11-04/india-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-country-s-risi.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-04T10:14:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aeb0098961fae078ac7101b",
+          "published_at_utc": "2026-11-04T09:53:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-04T10:12:11.000Z",
           "buffer_mode": "customScheduled",
@@ -111509,7 +111515,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/india-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-country-s-risi.png",
       "metadata_file": "output/2026-11-04/india-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-country-s-risi.json",
-      "published_at_utc": "2026-11-04T09:53:07Z",
+      "published_at_utc": "2026-11-04T09:53:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-04/ted-schlein-s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driv.png": {
