@@ -111392,6 +111392,25 @@
       "metadata_file": "output/2026-11-03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europe-s-startup-sce.json",
       "published_at_utc": "2026-11-03T09:04:03Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-04/anthropic-is-working-on-a-system-to-prove-ai-models-identity-techcrunc.png": {
+      "buffer_due_at_utc": "2026-11-04T02:27:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aea97dd69ad1ef03b70d043",
+      "caption_file": "output/2026-11-04/anthropic-is-working-on-a-system-to-prove-ai-models-identity-techcrunc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-04T02:27:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aea97dd69ad1ef03b70d043",
+          "published_at_utc": "2026-11-04T02:26:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/anthropic-is-working-on-a-system-to-prove-ai-models-identity-techcrunc.png",
+      "metadata_file": "output/2026-11-04/anthropic-is-working-on-a-system-to-prove-ai-models-identity-techcrunc.json",
+      "published_at_utc": "2026-11-04T02:26:37Z",
+      "publisher": "buffer_threads"
     }
   }
 }
