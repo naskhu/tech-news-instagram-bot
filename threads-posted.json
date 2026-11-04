@@ -111444,12 +111444,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.png": {
-      "buffer_due_at_utc": "2026-11-04T03:05:12.000Z",
+      "buffer_due_at_utc": "2026-11-04T03:07:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aea97f3b8d162e0d8fb9c81",
+      "buffer_post_id": "6aea97f8ff887f055ce2d0df",
       "caption_file": "output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-04T03:07:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aea97f8ff887f055ce2d0df",
+          "published_at_utc": "2026-11-04T02:27:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-04T03:05:12.000Z",
           "buffer_mode": "customScheduled",
@@ -111459,7 +111465,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.png",
       "metadata_file": "output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.json",
-      "published_at_utc": "2026-11-04T02:26:59Z",
+      "published_at_utc": "2026-11-04T02:27:04Z",
       "publisher": "buffer_threads"
     }
   }
