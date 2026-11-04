@@ -111394,12 +111394,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-04/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges.png": {
-      "buffer_due_at_utc": "2026-11-04T09:53:16.000Z",
+      "buffer_due_at_utc": "2026-11-04T09:55:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aeb005f9e12e98b309d2707",
+      "buffer_post_id": "6aeb006e0eea02ace32b92dd",
       "caption_file": "output/2026-11-04/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-04T09:55:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aeb006e0eea02ace32b92dd",
+          "published_at_utc": "2026-11-04T09:52:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-04T09:53:16.000Z",
           "buffer_mode": "customScheduled",
@@ -111409,7 +111415,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges.png",
       "metadata_file": "output/2026-11-04/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges.json",
-      "published_at_utc": "2026-11-04T09:52:31Z",
+      "published_at_utc": "2026-11-04T09:52:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-04/anthropic-is-working-on-a-system-to-prove-ai-models-identity-techcrunc.png": {
