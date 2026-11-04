@@ -111705,6 +111705,25 @@
       "metadata_file": "output/2026-11-05/ai-pacs-spent-millions-trying-to-shape-congress-here-s-how-they-fared.json",
       "published_at_utc": "2026-11-04T23:08:26Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-05/almost-no-one-uses-ai-agents-to-book-their-uber-company-says-techcrunc.png": {
+      "buffer_due_at_utc": "2026-11-04T23:28:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aebbaef321c00b924516e33",
+      "caption_file": "output/2026-11-05/almost-no-one-uses-ai-agents-to-book-their-uber-company-says-techcrunc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-04T23:28:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aebbaef321c00b924516e33",
+          "published_at_utc": "2026-11-04T23:08:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-05/almost-no-one-uses-ai-agents-to-book-their-uber-company-says-techcrunc.png",
+      "metadata_file": "output/2026-11-05/almost-no-one-uses-ai-agents-to-book-their-uber-company-says-techcrunc.json",
+      "published_at_utc": "2026-11-04T23:08:31Z",
+      "publisher": "buffer_threads"
     }
   }
 }
