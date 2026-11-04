@@ -111467,6 +111467,25 @@
       "metadata_file": "output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.json",
       "published_at_utc": "2026-11-04T02:27:04Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-04/ted-schlein-s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driv.png": {
+      "buffer_due_at_utc": "2026-11-04T03:24:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aea97fd4c41ba80aa51bc4e",
+      "caption_file": "output/2026-11-04/ted-schlein-s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driv.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-04T03:24:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aea97fd4c41ba80aa51bc4e",
+          "published_at_utc": "2026-11-04T02:27:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/ted-schlein-s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driv.png",
+      "metadata_file": "output/2026-11-04/ted-schlein-s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driv.json",
+      "published_at_utc": "2026-11-04T02:27:09Z",
+      "publisher": "buffer_threads"
     }
   }
 }
