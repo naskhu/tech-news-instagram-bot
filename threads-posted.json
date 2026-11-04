@@ -111661,10 +111661,15 @@
     },
     "output/2026-11-04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally-t.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aeb71f0de5163115e1c83cb",
+      "buffer_post_id": "6aeb720076b2ba7a5c8f482c",
       "caption_file": "output/2026-11-04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aeb720076b2ba7a5c8f482c",
+          "published_at_utc": "2026-11-04T17:57:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aeb71f0de5163115e1c83cb",
@@ -111673,7 +111678,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally-t.png",
       "metadata_file": "output/2026-11-04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally-t.json",
-      "published_at_utc": "2026-11-04T17:57:14Z",
+      "published_at_utc": "2026-11-04T17:57:30Z",
       "publisher": "buffer_threads"
     }
   }
