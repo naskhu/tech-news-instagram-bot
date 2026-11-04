@@ -111442,6 +111442,25 @@
       "metadata_file": "output/2026-11-04/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grow.json",
       "published_at_utc": "2026-11-04T02:26:53Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.png": {
+      "buffer_due_at_utc": "2026-11-04T03:05:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aea97f3b8d162e0d8fb9c81",
+      "caption_file": "output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-04T03:05:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aea97f3b8d162e0d8fb9c81",
+          "published_at_utc": "2026-11-04T02:26:59Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.png",
+      "metadata_file": "output/2026-11-04/hiding-inside-palantir-s-skyrocketing-quarter-is-a-foreboding-signal-t.json",
+      "published_at_utc": "2026-11-04T02:26:59Z",
+      "publisher": "buffer_threads"
     }
   }
 }
