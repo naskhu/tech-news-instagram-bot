@@ -111417,6 +111417,25 @@
       "metadata_file": "output/2026-11-04/anthropic-is-working-on-a-system-to-prove-ai-models-identity-techcrunc.json",
       "published_at_utc": "2026-11-04T02:26:43Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-04/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grow.png": {
+      "buffer_due_at_utc": "2026-11-04T02:46:17.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aea97e887b7c6d24c868ca4",
+      "caption_file": "output/2026-11-04/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grow.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-04T02:46:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aea97e887b7c6d24c868ca4",
+          "published_at_utc": "2026-11-04T02:26:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grow.png",
+      "metadata_file": "output/2026-11-04/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grow.json",
+      "published_at_utc": "2026-11-04T02:26:48Z",
+      "publisher": "buffer_threads"
     }
   }
 }
