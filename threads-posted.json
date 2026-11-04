@@ -111515,6 +111515,23 @@
       "published_at_utc": "2026-11-04T02:27:04Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-04/i-tried-apple-s-siri-recaps-they-re-surprisingly-useful-and-a-little-u.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6aeb71afde5163115e1c6e19",
+      "caption_file": "output/2026-11-04/i-tried-apple-s-siri-recaps-they-re-surprisingly-useful-and-a-little-u.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aeb71afde5163115e1c6e19",
+          "published_at_utc": "2026-11-04T17:56:10Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-04/i-tried-apple-s-siri-recaps-they-re-surprisingly-useful-and-a-little-u.png",
+      "metadata_file": "output/2026-11-04/i-tried-apple-s-siri-recaps-they-re-surprisingly-useful-and-a-little-u.json",
+      "published_at_utc": "2026-11-04T17:56:10Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-04/india-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-country-s-risi.png": {
       "buffer_due_at_utc": "2026-11-04T10:14:11.000Z",
       "buffer_mode": "customScheduled",
