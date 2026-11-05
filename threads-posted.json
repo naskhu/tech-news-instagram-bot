@@ -112007,12 +112007,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.png": {
-      "buffer_due_at_utc": "2026-11-06T00:19:09.000Z",
+      "buffer_due_at_utc": "2026-11-06T00:21:09.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aed186ddbada656bedf73ec",
+      "buffer_post_id": "6aed1873c1e74b84e5b49f03",
       "caption_file": "output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-06T00:21:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aed1873c1e74b84e5b49f03",
+          "published_at_utc": "2026-11-05T23:59:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-06T00:19:09.000Z",
           "buffer_mode": "customScheduled",
@@ -112022,7 +112028,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.png",
       "metadata_file": "output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.json",
-      "published_at_utc": "2026-11-05T23:59:42Z",
+      "published_at_utc": "2026-11-05T23:59:47Z",
       "publisher": "buffer_threads"
     }
   }
