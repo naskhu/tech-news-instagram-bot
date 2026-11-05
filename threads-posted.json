@@ -111757,12 +111757,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-05/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage-techcrun.png": {
-      "buffer_due_at_utc": "2026-11-05T03:55:55.000Z",
+      "buffer_due_at_utc": "2026-11-05T03:57:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aebf9bdf283c8dd45b81080",
+      "buffer_post_id": "6aebf9c2e95790cd46b45ff5",
       "caption_file": "output/2026-11-05/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage-techcrun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-05T03:57:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aebf9c2e95790cd46b45ff5",
+          "published_at_utc": "2026-11-05T03:36:34Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-05T03:55:55.000Z",
           "buffer_mode": "customScheduled",
@@ -111772,7 +111778,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-05/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage-techcrun.png",
       "metadata_file": "output/2026-11-05/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage-techcrun.json",
-      "published_at_utc": "2026-11-05T03:36:29Z",
+      "published_at_utc": "2026-11-05T03:36:34Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-05/nothing-ceo-says-company-s-mysterious-ai-first-device-is-dropping-next.png": {
