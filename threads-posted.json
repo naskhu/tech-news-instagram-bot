@@ -111982,12 +111982,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-202.png": {
-      "buffer_due_at_utc": "2026-11-06T00:00:14.000Z",
+      "buffer_due_at_utc": "2026-11-06T00:02:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aed186286fe9b83795e71bf",
+      "buffer_post_id": "6aed1868dbada656bedf7258",
       "caption_file": "output/2026-11-06/airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-202.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-06T00:02:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aed1868dbada656bedf7258",
+          "published_at_utc": "2026-11-05T23:59:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-06T00:00:14.000Z",
           "buffer_mode": "customScheduled",
@@ -111997,7 +112003,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-202.png",
       "metadata_file": "output/2026-11-06/airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-202.json",
-      "published_at_utc": "2026-11-05T23:59:30Z",
+      "published_at_utc": "2026-11-05T23:59:36Z",
       "publisher": "buffer_threads"
     }
   }
