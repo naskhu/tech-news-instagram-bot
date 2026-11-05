@@ -111807,12 +111807,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-05/duckduckgo-pitches-itself-to-schools-amid-backlash-over-google-s-ai-po.png": {
-      "buffer_due_at_utc": "2026-11-05T11:50:50.000Z",
+      "buffer_due_at_utc": "2026-11-05T11:52:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aec69098ed5e05aeda3f42e",
+      "buffer_post_id": "6aec690f20e5812fe94521e3",
       "caption_file": "output/2026-11-05/duckduckgo-pitches-itself-to-schools-amid-backlash-over-google-s-ai-po.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-05T11:52:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aec690f20e5812fe94521e3",
+          "published_at_utc": "2026-11-05T11:31:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-05T11:50:50.000Z",
           "buffer_mode": "customScheduled",
@@ -111822,7 +111828,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-05/duckduckgo-pitches-itself-to-schools-amid-backlash-over-google-s-ai-po.png",
       "metadata_file": "output/2026-11-05/duckduckgo-pitches-itself-to-schools-amid-backlash-over-google-s-ai-po.json",
-      "published_at_utc": "2026-11-05T11:31:22Z",
+      "published_at_utc": "2026-11-05T11:31:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-05/meta-acquires-ai-coding-startup-conductor-techcrunch.png": {
