@@ -111955,6 +111955,25 @@
       "metadata_file": "output/2026-11-05/snapchat-surpasses-30m-paid-subscribers-techcrunch.json",
       "published_at_utc": "2026-11-04T23:09:01Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-05/waymo-confirms-it-s-shaking-up-its-uber-relationship-in-january-2028-t.png": {
+      "buffer_due_at_utc": "2026-11-05T12:28:40.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aec6920f26542fc33d31016",
+      "caption_file": "output/2026-11-05/waymo-confirms-it-s-shaking-up-its-uber-relationship-in-january-2028-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-05T12:28:40.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aec6920f26542fc33d31016",
+          "published_at_utc": "2026-11-05T11:31:44Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-05/waymo-confirms-it-s-shaking-up-its-uber-relationship-in-january-2028-t.png",
+      "metadata_file": "output/2026-11-05/waymo-confirms-it-s-shaking-up-its-uber-relationship-in-january-2028-t.json",
+      "published_at_utc": "2026-11-05T11:31:44Z",
+      "publisher": "buffer_threads"
     }
   }
 }
