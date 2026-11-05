@@ -111831,6 +111831,25 @@
       "published_at_utc": "2026-11-05T11:31:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-05/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-.png": {
+      "buffer_due_at_utc": "2026-11-05T12:09:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aec6915f26542fc33d308bf",
+      "caption_file": "output/2026-11-05/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-05T12:09:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aec6915f26542fc33d308bf",
+          "published_at_utc": "2026-11-05T11:31:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-05/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-.png",
+      "metadata_file": "output/2026-11-05/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-.json",
+      "published_at_utc": "2026-11-05T11:31:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-05/meta-acquires-ai-coding-startup-conductor-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-05T04:16:50.000Z",
       "buffer_mode": "customScheduled",
