@@ -111682,12 +111682,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-05/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming-te.png": {
-      "buffer_due_at_utc": "2026-11-05T03:37:00.000Z",
+      "buffer_due_at_utc": "2026-11-05T03:39:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aebf9b001b5398f87a87861",
+      "buffer_post_id": "6aebf9b70d0de73ccefcd17c",
       "caption_file": "output/2026-11-05/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-05T03:39:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aebf9b70d0de73ccefcd17c",
+          "published_at_utc": "2026-11-05T03:36:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-05T03:37:00.000Z",
           "buffer_mode": "customScheduled",
@@ -111697,7 +111703,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-05/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming-te.png",
       "metadata_file": "output/2026-11-05/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming-te.json",
-      "published_at_utc": "2026-11-05T03:36:17Z",
+      "published_at_utc": "2026-11-05T03:36:23Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-05/ai-pacs-spent-millions-trying-to-shape-congress-here-s-how-they-fared.png": {
