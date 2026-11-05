@@ -112005,6 +112005,25 @@
       "metadata_file": "output/2026-11-06/airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-202.json",
       "published_at_utc": "2026-11-05T23:59:36Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.png": {
+      "buffer_due_at_utc": "2026-11-06T00:19:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aed186ddbada656bedf73ec",
+      "caption_file": "output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-06T00:19:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aed186ddbada656bedf73ec",
+          "published_at_utc": "2026-11-05T23:59:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.png",
+      "metadata_file": "output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.json",
+      "published_at_utc": "2026-11-05T23:59:42Z",
+      "publisher": "buffer_threads"
     }
   }
 }
