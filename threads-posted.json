@@ -112282,12 +112282,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/fox-completes-its-22b-acquisition-of-roku-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-06T19:45:33.000Z",
+      "buffer_due_at_utc": "2026-11-06T19:47:33.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aee2e31a7751de7c9a3faf3",
+      "buffer_post_id": "6aee2e38af7e526d43da4743",
       "caption_file": "output/2026-11-07/fox-completes-its-22b-acquisition-of-roku-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-06T19:47:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aee2e38af7e526d43da4743",
+          "published_at_utc": "2026-11-06T19:44:56Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-06T19:45:33.000Z",
           "buffer_mode": "customScheduled",
@@ -112297,7 +112303,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/fox-completes-its-22b-acquisition-of-roku-techcrunch.png",
       "metadata_file": "output/2026-11-07/fox-completes-its-22b-acquisition-of-roku-techcrunch.json",
-      "published_at_utc": "2026-11-06T19:44:49Z",
+      "published_at_utc": "2026-11-06T19:44:56Z",
       "publisher": "buffer_threads"
     }
   }
