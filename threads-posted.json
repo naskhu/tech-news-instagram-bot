@@ -112032,12 +112032,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law-te.png": {
-      "buffer_due_at_utc": "2026-11-06T05:10:19.000Z",
+      "buffer_due_at_utc": "2026-11-06T05:12:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aed5cac86fe9b837972d4da",
+      "buffer_post_id": "6aed5cb2f3498efda76e2268",
       "caption_file": "output/2026-11-06/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-06T05:12:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aed5cb2f3498efda76e2268",
+          "published_at_utc": "2026-11-06T04:50:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-06T05:10:19.000Z",
           "buffer_mode": "customScheduled",
@@ -112047,7 +112053,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law-te.png",
       "metadata_file": "output/2026-11-06/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law-te.json",
-      "published_at_utc": "2026-11-06T04:50:52Z",
+      "published_at_utc": "2026-11-06T04:50:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.png": {
