@@ -112355,6 +112355,25 @@
       "metadata_file": "output/2026-11-07/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent-t.json",
       "published_at_utc": "2026-11-06T19:45:21Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-07/pentagon-offers-battery-startup-6k-250m-loan-to-build-us-factory-techc.png": {
+      "buffer_due_at_utc": "2026-11-06T20:42:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aee2e589214322f68aa0e30",
+      "caption_file": "output/2026-11-07/pentagon-offers-battery-startup-6k-250m-loan-to-build-us-factory-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-06T20:42:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aee2e589214322f68aa0e30",
+          "published_at_utc": "2026-11-06T19:45:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/pentagon-offers-battery-startup-6k-250m-loan-to-build-us-factory-techc.png",
+      "metadata_file": "output/2026-11-07/pentagon-offers-battery-startup-6k-250m-loan-to-build-us-factory-techc.json",
+      "published_at_utc": "2026-11-06T19:45:28Z",
+      "publisher": "buffer_threads"
     }
   }
 }
