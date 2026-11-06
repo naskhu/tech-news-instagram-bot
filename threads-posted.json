@@ -112182,12 +112182,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-fo.png": {
-      "buffer_due_at_utc": "2026-11-06T13:21:36.000Z",
+      "buffer_due_at_utc": "2026-11-06T13:23:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aedcb6d1fcdcefa468da0cb",
+      "buffer_post_id": "6aedcb73e45c1855cb3b2f1b",
       "caption_file": "output/2026-11-06/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-fo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-06T13:23:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aedcb73e45c1855cb3b2f1b",
+          "published_at_utc": "2026-11-06T12:43:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-06T13:21:36.000Z",
           "buffer_mode": "customScheduled",
@@ -112197,7 +112203,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-fo.png",
       "metadata_file": "output/2026-11-06/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-fo.json",
-      "published_at_utc": "2026-11-06T12:43:25Z",
+      "published_at_utc": "2026-11-06T12:43:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/serve-robotics-launches-new-business-to-become-the-aws-for-robots-tech.png": {
