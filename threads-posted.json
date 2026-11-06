@@ -112107,12 +112107,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/openai-released-a-new-cybersecurity-model-is-that-enough-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-06T05:29:14.000Z",
+      "buffer_due_at_utc": "2026-11-06T05:31:14.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aed5cb8c1e74b84e5c8f288",
+      "buffer_post_id": "6aed5cbe07f945cca9401a1f",
       "caption_file": "output/2026-11-06/openai-released-a-new-cybersecurity-model-is-that-enough-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-06T05:31:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aed5cbe07f945cca9401a1f",
+          "published_at_utc": "2026-11-06T04:51:10Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-06T05:29:14.000Z",
           "buffer_mode": "customScheduled",
@@ -112122,7 +112128,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/openai-released-a-new-cybersecurity-model-is-that-enough-techcrunch.png",
       "metadata_file": "output/2026-11-06/openai-released-a-new-cybersecurity-model-is-that-enough-techcrunch.json",
-      "published_at_utc": "2026-11-06T04:51:04Z",
+      "published_at_utc": "2026-11-06T04:51:10Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/serve-robotics-launches-new-business-to-become-the-aws-for-robots-tech.png": {
