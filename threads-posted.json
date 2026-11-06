@@ -112281,6 +112281,25 @@
       "published_at_utc": "2026-11-06T04:51:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-07/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop.png": {
+      "buffer_due_at_utc": "2026-11-06T23:58:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aee696ea7751de7c9b53dad",
+      "caption_file": "output/2026-11-07/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-06T23:58:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aee696ea7751de7c9b53dad",
+          "published_at_utc": "2026-11-06T23:57:34Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop.png",
+      "metadata_file": "output/2026-11-07/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop.json",
+      "published_at_utc": "2026-11-06T23:57:34Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-07/fox-completes-its-22b-acquisition-of-roku-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-06T19:47:33.000Z",
       "buffer_mode": "customScheduled",
