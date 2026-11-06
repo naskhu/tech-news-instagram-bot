@@ -112155,6 +112155,25 @@
       "metadata_file": "output/2026-11-06/serve-robotics-launches-new-business-to-become-the-aws-for-robots-tech.json",
       "published_at_utc": "2026-11-06T00:00:14Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-06/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-milli.png": {
+      "buffer_due_at_utc": "2026-11-06T05:48:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aed5cc486fe9b837972d7a2",
+      "caption_file": "output/2026-11-06/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-milli.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-06T05:48:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aed5cc486fe9b837972d7a2",
+          "published_at_utc": "2026-11-06T04:51:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-milli.png",
+      "metadata_file": "output/2026-11-06/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-milli.json",
+      "published_at_utc": "2026-11-06T04:51:16Z",
+      "publisher": "buffer_threads"
     }
   }
 }
