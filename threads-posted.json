@@ -112007,12 +112007,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/at-least-10-local-governments-have-moved-to-drop-flock-s-surveillance-.png": {
-      "buffer_due_at_utc": "2026-11-06T12:43:46.000Z",
+      "buffer_due_at_utc": "2026-11-06T12:45:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aedcb56fd32b2a5bf0af9c7",
+      "buffer_post_id": "6aedcb5ce45c1855cb3b2871",
       "caption_file": "output/2026-11-06/at-least-10-local-governments-have-moved-to-drop-flock-s-surveillance-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-06T12:45:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aedcb5ce45c1855cb3b2871",
+          "published_at_utc": "2026-11-06T12:43:08Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-06T12:43:46.000Z",
           "buffer_mode": "customScheduled",
@@ -112022,7 +112028,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/at-least-10-local-governments-have-moved-to-drop-flock-s-surveillance-.png",
       "metadata_file": "output/2026-11-06/at-least-10-local-governments-have-moved-to-drop-flock-s-surveillance-.json",
-      "published_at_utc": "2026-11-06T12:43:02Z",
+      "published_at_utc": "2026-11-06T12:43:08Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-06/harbinger-raises-240m-after-expanding-into-defense-techcrunch.png": {
