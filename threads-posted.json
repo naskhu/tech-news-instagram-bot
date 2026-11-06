@@ -112006,6 +112006,25 @@
       "published_at_utc": "2026-11-05T23:59:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-06/harbinger-raises-240m-after-expanding-into-defense-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-06T04:51:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aed5ca0dbada656bef32f65",
+      "caption_file": "output/2026-11-06/harbinger-raises-240m-after-expanding-into-defense-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-06T04:51:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aed5ca0dbada656bef32f65",
+          "published_at_utc": "2026-11-06T04:50:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-06/harbinger-raises-240m-after-expanding-into-defense-techcrunch.png",
+      "metadata_file": "output/2026-11-06/harbinger-raises-240m-after-expanding-into-defense-techcrunch.json",
+      "published_at_utc": "2026-11-06T04:50:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-06/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-techcr.png": {
       "buffer_due_at_utc": "2026-11-06T00:21:09.000Z",
       "buffer_mode": "customScheduled",
