@@ -112780,6 +112780,25 @@
       "metadata_file": "output/2026-11-07/underdog-shows-off-a-32mb-speech-model-in-new-demo-techcrunch.json",
       "published_at_utc": "2026-11-07T04:06:02Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.png": {
+      "buffer_due_at_utc": "2026-11-07T20:42:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aef8cf29214322f681568ad",
+      "caption_file": "output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-07T20:42:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef8cf29214322f681568ad",
+          "published_at_utc": "2026-11-07T20:41:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.png",
+      "metadata_file": "output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.json",
+      "published_at_utc": "2026-11-07T20:41:22Z",
+      "publisher": "buffer_threads"
     }
   }
 }
