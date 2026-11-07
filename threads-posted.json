@@ -112782,12 +112782,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.png": {
-      "buffer_due_at_utc": "2026-11-07T20:42:06.000Z",
+      "buffer_due_at_utc": "2026-11-07T20:44:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aef8cf29214322f681568ad",
+      "buffer_post_id": "6aef8cf8004e4879a77b4bbc",
       "caption_file": "output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-07T20:44:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef8cf8004e4879a77b4bbc",
+          "published_at_utc": "2026-11-07T20:41:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-07T20:42:06.000Z",
           "buffer_mode": "customScheduled",
@@ -112797,7 +112803,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.png",
       "metadata_file": "output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.json",
-      "published_at_utc": "2026-11-07T20:41:22Z",
+      "published_at_utc": "2026-11-07T20:41:28Z",
       "publisher": "buffer_threads"
     }
   }
