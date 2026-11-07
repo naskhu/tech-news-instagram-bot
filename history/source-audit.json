@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-11-07T16:52:54.798752+00:00",
+  "run_utc": "2026-11-07T20:38:54.781720+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-11-06T16:52:54.798927+00:00",
-  "eligible_story_count": 198,
+  "cutoff_utc": "2026-11-06T20:38:54.781838+00:00",
+  "eligible_story_count": 156,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 19,
       "page_links": 26,
       "page_articles": 26,
-      "eligible_new": 0,
-      "already_processed": 23,
+      "eligible_new": 3,
+      "already_processed": 20,
       "older_than_window": 3,
       "metadata_errors": {}
     },
@@ -55,9 +55,9 @@
       "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 10,
-      "already_processed": 4,
-      "older_than_window": 17,
+      "eligible_new": 6,
+      "already_processed": 7,
+      "older_than_window": 18,
       "metadata_errors": {}
     },
     {
@@ -83,9 +83,9 @@
       "rss_candidates": 20,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 14,
+      "eligible_new": 6,
       "already_processed": 0,
-      "older_than_window": 16,
+      "older_than_window": 24,
       "metadata_errors": {}
     },
     {
@@ -131,18 +131,21 @@
       "page_attempts": [
         {
           "url": "https://blog.google/",
-          "status": 500,
-          "links": 0,
-          "error": "HTTPError:500 Server Error: Internal Server Error for url: https://blog.google/"
+          "status": 200,
+          "links": 14,
+          "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 0,
-      "page_articles": 0,
+      "page_links": 14,
+      "page_articles": 4,
       "eligible_new": 0,
       "already_processed": 0,
-      "older_than_window": 20,
-      "metadata_errors": {}
+      "older_than_window": 21,
+      "metadata_errors": {
+        "no_article_metadata": 1,
+        "missing_title": 9
+      }
     },
     {
       "source": "Microsoft Blog",
@@ -203,9 +206,9 @@
       "rss_candidates": 20,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 21,
+      "eligible_new": 22,
       "already_processed": 1,
-      "older_than_window": 23,
+      "older_than_window": 22,
       "metadata_errors": {}
     },
     {
@@ -239,9 +242,9 @@
       "rss_candidates": 200,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 6,
+      "eligible_new": 2,
       "already_processed": 3,
-      "older_than_window": 105,
+      "older_than_window": 108,
       "metadata_errors": {}
     },
     {
@@ -339,9 +342,9 @@
       "rss_candidates": 10,
       "page_links": 10,
       "page_articles": 10,
-      "eligible_new": 10,
+      "eligible_new": 5,
       "already_processed": 0,
-      "older_than_window": 0,
+      "older_than_window": 5,
       "metadata_errors": {}
     },
     {
@@ -368,25 +371,25 @@
         {
           "url": "https://www.techradar.com/news",
           "status": 200,
-          "links": 19,
+          "links": 22,
           "error": ""
         },
         {
           "url": "https://www.techradar.com/",
           "status": 200,
-          "links": 31,
+          "links": 28,
           "error": ""
         }
       ],
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 42,
+      "eligible_new": 40,
       "already_processed": 0,
-      "older_than_window": 43,
+      "older_than_window": 46,
       "metadata_errors": {
-        "no_article_metadata": 4,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 4
       }
     },
     {
@@ -415,16 +418,16 @@
         {
           "url": "https://www.pcmag.com/news",
           "status": 200,
-          "links": 25,
+          "links": 24,
           "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 25,
-      "page_articles": 25,
-      "eligible_new": 18,
+      "page_links": 24,
+      "page_articles": 24,
+      "eligible_new": 7,
       "already_processed": 0,
-      "older_than_window": 7,
+      "older_than_window": 17,
       "metadata_errors": {}
     },
     {
@@ -450,9 +453,9 @@
       "rss_candidates": 50,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 11,
+      "eligible_new": 8,
       "already_processed": 7,
-      "older_than_window": 42,
+      "older_than_window": 45,
       "metadata_errors": {}
     },
     {
@@ -489,12 +492,12 @@
           "error": ""
         }
       ],
-      "rss_candidates": 35,
+      "rss_candidates": 36,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 16,
+      "eligible_new": 13,
       "already_processed": 4,
-      "older_than_window": 30,
+      "older_than_window": 34,
       "metadata_errors": {}
     },
     {
@@ -560,9 +563,9 @@
       "rss_candidates": 15,
       "page_links": 30,
       "page_articles": 5,
-      "eligible_new": 7,
+      "eligible_new": 4,
       "already_processed": 0,
-      "older_than_window": 11,
+      "older_than_window": 14,
       "metadata_errors": {
         "no_article_metadata": 1,
         "http_429": 24
@@ -597,9 +600,9 @@
       "rss_candidates": 100,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 13,
+      "eligible_new": 15,
       "already_processed": 0,
-      "older_than_window": 99,
+      "older_than_window": 97,
       "metadata_errors": {}
     },
     {
@@ -631,9 +634,9 @@
       "rss_candidates": 95,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 7,
+      "eligible_new": 5,
       "already_processed": 1,
-      "older_than_window": 101,
+      "older_than_window": 103,
       "metadata_errors": {}
     },
     {
@@ -694,16 +697,16 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 3,
+          "links": 2,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 35,
-      "page_articles": 35,
-      "eligible_new": 35,
+      "page_links": 34,
+      "page_articles": 34,
+      "eligible_new": 32,
       "already_processed": 0,
-      "older_than_window": 0,
+      "older_than_window": 2,
       "metadata_errors": {}
     }
   ]
