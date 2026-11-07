@@ -112582,12 +112582,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era-techc.png": {
-      "buffer_due_at_utc": "2026-11-07T11:48:45.000Z",
+      "buffer_due_at_utc": "2026-11-07T11:50:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aef07299214322f68e8ab04",
+      "buffer_post_id": "6aef072e9214322f68e8ac6f",
       "caption_file": "output/2026-11-07/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era-techc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-07T11:50:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef072e9214322f68e8ac6f",
+          "published_at_utc": "2026-11-07T11:10:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-07T11:48:45.000Z",
           "buffer_mode": "customScheduled",
@@ -112597,7 +112603,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era-techc.png",
       "metadata_file": "output/2026-11-07/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era-techc.json",
-      "published_at_utc": "2026-11-07T11:10:33Z",
+      "published_at_utc": "2026-11-07T11:10:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/the-duo-apps-are-coming-says-apple-techcrunch.png": {
