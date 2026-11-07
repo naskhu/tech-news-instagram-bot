@@ -112507,12 +112507,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/nyt-cooking-s-ai-assistant-saved-my-weeknight-chicken-but-almost-ruine.png": {
-      "buffer_due_at_utc": "2026-11-07T17:35:17.000Z",
+      "buffer_due_at_utc": "2026-11-07T17:37:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aef5862562f2e6de96c5b36",
+      "buffer_post_id": "6aef5868d6bbae6fa19c7681",
       "caption_file": "output/2026-11-07/nyt-cooking-s-ai-assistant-saved-my-weeknight-chicken-but-almost-ruine.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-07T17:37:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef5868d6bbae6fa19c7681",
+          "published_at_utc": "2026-11-07T16:57:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-07T17:35:17.000Z",
           "buffer_mode": "customScheduled",
@@ -112522,7 +112528,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/nyt-cooking-s-ai-assistant-saved-my-weeknight-chicken-but-almost-ruine.png",
       "metadata_file": "output/2026-11-07/nyt-cooking-s-ai-assistant-saved-my-weeknight-chicken-but-almost-ruine.json",
-      "published_at_utc": "2026-11-07T16:57:06Z",
+      "published_at_utc": "2026-11-07T16:57:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-v.png": {
