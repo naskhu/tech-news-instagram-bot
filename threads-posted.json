@@ -112581,6 +112581,25 @@
       "published_at_utc": "2026-11-06T23:58:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-07/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era-techc.png": {
+      "buffer_due_at_utc": "2026-11-07T11:48:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aef07299214322f68e8ab04",
+      "caption_file": "output/2026-11-07/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-07T11:48:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef07299214322f68e8ab04",
+          "published_at_utc": "2026-11-07T11:10:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era-techc.png",
+      "metadata_file": "output/2026-11-07/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era-techc.json",
+      "published_at_utc": "2026-11-07T11:10:33Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-07/the-duo-apps-are-coming-says-apple-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-07T00:57:03.000Z",
       "buffer_mode": "customScheduled",
