@@ -112382,12 +112382,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech.png": {
-      "buffer_due_at_utc": "2026-11-07T11:29:50.000Z",
+      "buffer_due_at_utc": "2026-11-07T11:31:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aef071ea7751de7c9e213b2",
+      "buffer_post_id": "6aef0723d6bbae6fa180c6c8",
       "caption_file": "output/2026-11-07/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-07T11:31:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef0723d6bbae6fa180c6c8",
+          "published_at_utc": "2026-11-07T11:10:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-07T11:29:50.000Z",
           "buffer_mode": "customScheduled",
@@ -112397,7 +112403,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech.png",
       "metadata_file": "output/2026-11-07/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech.json",
-      "published_at_utc": "2026-11-07T11:10:22Z",
+      "published_at_utc": "2026-11-07T11:10:27Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web-t.png": {
