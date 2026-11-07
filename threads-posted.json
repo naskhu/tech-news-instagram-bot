@@ -112382,12 +112382,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/discogs-kevin-lewandowski-can-t-live-without-his-aeropress.png": {
-      "buffer_due_at_utc": "2026-11-07T17:16:22.000Z",
+      "buffer_due_at_utc": "2026-11-07T17:18:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aef58569214322f68049932",
+      "buffer_post_id": "6aef585c9214322f68049a42",
       "caption_file": "output/2026-11-07/discogs-kevin-lewandowski-can-t-live-without-his-aeropress.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-07T17:18:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef585c9214322f68049a42",
+          "published_at_utc": "2026-11-07T16:57:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-07T17:16:22.000Z",
           "buffer_mode": "customScheduled",
@@ -112397,7 +112403,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/discogs-kevin-lewandowski-can-t-live-without-his-aeropress.png",
       "metadata_file": "output/2026-11-07/discogs-kevin-lewandowski-can-t-live-without-his-aeropress.json",
-      "published_at_utc": "2026-11-07T16:56:55Z",
+      "published_at_utc": "2026-11-07T16:57:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/fox-completes-its-22b-acquisition-of-roku-techcrunch.png": {
