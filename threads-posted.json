@@ -112807,12 +112807,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack-.png": {
-      "buffer_due_at_utc": "2026-11-07T21:01:01.000Z",
+      "buffer_due_at_utc": "2026-11-07T21:03:01.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aef8cfd9214322f68156999",
+      "buffer_post_id": "6aef8d02562f2e6de97d4c4c",
       "caption_file": "output/2026-11-08/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-07T21:03:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef8d02562f2e6de97d4c4c",
+          "published_at_utc": "2026-11-07T20:41:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-07T21:01:01.000Z",
           "buffer_mode": "customScheduled",
@@ -112822,7 +112828,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack-.png",
       "metadata_file": "output/2026-11-08/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack-.json",
-      "published_at_utc": "2026-11-07T20:41:33Z",
+      "published_at_utc": "2026-11-07T20:41:38Z",
       "publisher": "buffer_threads"
     }
   }
