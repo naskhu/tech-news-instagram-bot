@@ -112432,12 +112432,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/openai-valued-at-1-25-trillion-as-rival-anthropic-nears-its-ipo.png": {
-      "buffer_due_at_utc": "2026-11-07T04:25:03.000Z",
+      "buffer_due_at_utc": "2026-11-07T04:27:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aeea38f9214322f68cb8430",
+      "buffer_post_id": "6aeea394a7751de7c9c4b5ef",
       "caption_file": "output/2026-11-07/openai-valued-at-1-25-trillion-as-rival-anthropic-nears-its-ipo.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-07T04:27:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aeea394a7751de7c9c4b5ef",
+          "published_at_utc": "2026-11-07T04:05:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-07T04:25:03.000Z",
           "buffer_mode": "customScheduled",
@@ -112447,7 +112453,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/openai-valued-at-1-25-trillion-as-rival-anthropic-nears-its-ipo.png",
       "metadata_file": "output/2026-11-07/openai-valued-at-1-25-trillion-as-rival-anthropic-nears-its-ipo.json",
-      "published_at_utc": "2026-11-07T04:05:35Z",
+      "published_at_utc": "2026-11-07T04:05:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/pentagon-offers-battery-startup-6k-250m-loan-to-build-us-factory-techc.png": {
