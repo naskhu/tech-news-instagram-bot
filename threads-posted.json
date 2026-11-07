@@ -112331,6 +112331,25 @@
       "published_at_utc": "2026-11-07T11:10:17Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-07/costco-members-can-get-5-off-the-reimagined-ocarina-of-time.png": {
+      "buffer_due_at_utc": "2026-11-07T16:57:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aef584bd6bbae6fa19c7069",
+      "caption_file": "output/2026-11-07/costco-members-can-get-5-off-the-reimagined-ocarina-of-time.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-07T16:57:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef584bd6bbae6fa19c7069",
+          "published_at_utc": "2026-11-07T16:56:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/costco-members-can-get-5-off-the-reimagined-ocarina-of-time.png",
+      "metadata_file": "output/2026-11-07/costco-members-can-get-5-off-the-reimagined-ocarina-of-time.json",
+      "published_at_utc": "2026-11-07T16:56:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-07/crusoe-sells-troubled-wyoming-data-center-project-to-google-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-07T04:08:08.000Z",
       "buffer_mode": "customScheduled",
