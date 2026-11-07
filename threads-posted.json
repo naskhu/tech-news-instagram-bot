@@ -112731,6 +112731,25 @@
       "published_at_utc": "2026-11-06T23:58:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-07/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china.png": {
+      "buffer_due_at_utc": "2026-11-07T17:54:12.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aef586e004e4879a76ae0a5",
+      "caption_file": "output/2026-11-07/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-07T17:54:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef586e004e4879a76ae0a5",
+          "published_at_utc": "2026-11-07T16:57:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china.png",
+      "metadata_file": "output/2026-11-07/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china.json",
+      "published_at_utc": "2026-11-07T16:57:18Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-07/underdog-shows-off-a-32mb-speech-model-in-new-demo-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-07T05:04:53.000Z",
       "buffer_mode": "customScheduled",
