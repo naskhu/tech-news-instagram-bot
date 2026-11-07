@@ -112306,6 +112306,25 @@
       "published_at_utc": "2026-11-06T23:57:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-07/crusoe-sells-troubled-wyoming-data-center-project-to-google-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-07T04:06:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aeea384d6bbae6fa1639039",
+      "caption_file": "output/2026-11-07/crusoe-sells-troubled-wyoming-data-center-project-to-google-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-07T04:06:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aeea384d6bbae6fa1639039",
+          "published_at_utc": "2026-11-07T04:05:24Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/crusoe-sells-troubled-wyoming-data-center-project-to-google-techcrunch.png",
+      "metadata_file": "output/2026-11-07/crusoe-sells-troubled-wyoming-data-center-project-to-google-techcrunch.json",
+      "published_at_utc": "2026-11-07T04:05:24Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-07/fox-completes-its-22b-acquisition-of-roku-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-06T19:47:33.000Z",
       "buffer_mode": "customScheduled",
