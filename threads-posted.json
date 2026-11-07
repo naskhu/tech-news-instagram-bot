@@ -112307,12 +112307,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang.png": {
-      "buffer_due_at_utc": "2026-11-07T11:10:55.000Z",
+      "buffer_due_at_utc": "2026-11-07T11:12:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aef0712a7751de7c9e20e2b",
+      "buffer_post_id": "6aef0718af7e526d4318ecb0",
       "caption_file": "output/2026-11-07/china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-07T11:12:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aef0718af7e526d4318ecb0",
+          "published_at_utc": "2026-11-07T11:10:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-07T11:10:55.000Z",
           "buffer_mode": "customScheduled",
@@ -112322,7 +112328,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-07/china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang.png",
       "metadata_file": "output/2026-11-07/china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang.json",
-      "published_at_utc": "2026-11-07T11:10:11Z",
+      "published_at_utc": "2026-11-07T11:10:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-07/crusoe-sells-troubled-wyoming-data-center-project-to-google-techcrunch.png": {
