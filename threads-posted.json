@@ -112981,6 +112981,25 @@
       "published_at_utc": "2026-11-08T17:11:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-08/ninja-s-autobarista-is-impressively-versatile-but-one-feature-was-a-de.png": {
+      "buffer_due_at_utc": "2026-11-08T17:31:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af0ad4dd6bbae6fa1ff3dd2",
+      "caption_file": "output/2026-11-08/ninja-s-autobarista-is-impressively-versatile-but-one-feature-was-a-de.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T17:31:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af0ad4dd6bbae6fa1ff3dd2",
+          "published_at_utc": "2026-11-08T17:11:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/ninja-s-autobarista-is-impressively-versatile-but-one-feature-was-a-de.png",
+      "metadata_file": "output/2026-11-08/ninja-s-autobarista-is-impressively-versatile-but-one-feature-was-a-de.json",
+      "published_at_utc": "2026-11-08T17:11:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-08/parents-want-safer-phones-for-kids-these-companies-are-answering-the-c.png": {
       "buffer_due_at_utc": "2026-11-07T21:21:56.000Z",
       "buffer_mode": "customScheduled",
