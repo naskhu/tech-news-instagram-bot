@@ -113132,12 +113132,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/the-world-s-smallest-gamestop-is-hiding-under-a-fake-flock-camera.png": {
-      "buffer_due_at_utc": "2026-11-08T18:08:58.000Z",
+      "buffer_due_at_utc": "2026-11-08T18:10:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af0ad659214322f6867d919",
+      "buffer_post_id": "6af0ad6a229bf05dafc479fc",
       "caption_file": "output/2026-11-08/the-world-s-smallest-gamestop-is-hiding-under-a-fake-flock-camera.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-08T18:10:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af0ad6a229bf05dafc479fc",
+          "published_at_utc": "2026-11-08T17:12:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-08T18:08:58.000Z",
           "buffer_mode": "customScheduled",
@@ -113147,7 +113153,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/the-world-s-smallest-gamestop-is-hiding-under-a-fake-flock-camera.png",
       "metadata_file": "output/2026-11-08/the-world-s-smallest-gamestop-is-hiding-under-a-fake-flock-camera.json",
-      "published_at_utc": "2026-11-08T17:12:05Z",
+      "published_at_utc": "2026-11-08T17:12:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/triplets-of-belleville-director-pushes-back-against-ai-accusations.png": {
