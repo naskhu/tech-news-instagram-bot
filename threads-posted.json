@@ -112957,12 +112957,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/nasa-is-taking-applications-for-its-next-class-of-astronauts.png": {
-      "buffer_due_at_utc": "2026-11-08T17:12:13.000Z",
+      "buffer_due_at_utc": "2026-11-08T17:14:13.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af0ad419214322f6867d030",
+      "buffer_post_id": "6af0ad4751492b796e4e830f",
       "caption_file": "output/2026-11-08/nasa-is-taking-applications-for-its-next-class-of-astronauts.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-08T17:14:13.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af0ad4751492b796e4e830f",
+          "published_at_utc": "2026-11-08T17:11:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-08T17:12:13.000Z",
           "buffer_mode": "customScheduled",
@@ -112972,7 +112978,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/nasa-is-taking-applications-for-its-next-class-of-astronauts.png",
       "metadata_file": "output/2026-11-08/nasa-is-taking-applications-for-its-next-class-of-astronauts.json",
-      "published_at_utc": "2026-11-08T17:11:29Z",
+      "published_at_utc": "2026-11-08T17:11:35Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/parents-want-safer-phones-for-kids-these-companies-are-answering-the-c.png": {
