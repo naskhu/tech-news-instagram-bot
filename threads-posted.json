@@ -113032,12 +113032,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.png": {
-      "buffer_due_at_utc": "2026-11-08T04:53:41.000Z",
+      "buffer_due_at_utc": "2026-11-08T04:55:41.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aeff762d6bbae6fa1c8264d",
+      "buffer_post_id": "6aeff76751492b796e17aabc",
       "caption_file": "output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-08T04:55:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aeff76751492b796e17aabc",
+          "published_at_utc": "2026-11-08T04:15:35Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-08T04:53:41.000Z",
           "buffer_mode": "customScheduled",
@@ -113047,7 +113053,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.png",
       "metadata_file": "output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.json",
-      "published_at_utc": "2026-11-08T04:15:30Z",
+      "published_at_utc": "2026-11-08T04:15:35Z",
       "publisher": "buffer_threads"
     }
   }
