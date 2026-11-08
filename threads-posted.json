@@ -112906,6 +112906,25 @@
       "published_at_utc": "2026-11-08T00:02:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-08/how-to-remind-your-boss-of-your-pto-without-pissing-them-off.png": {
+      "buffer_due_at_utc": "2026-11-08T11:43:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af05bbd004e4879a7b29ce0",
+      "caption_file": "output/2026-11-08/how-to-remind-your-boss-of-your-pto-without-pissing-them-off.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T11:43:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af05bbd004e4879a7b29ce0",
+          "published_at_utc": "2026-11-08T11:23:41Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/how-to-remind-your-boss-of-your-pto-without-pissing-them-off.png",
+      "metadata_file": "output/2026-11-08/how-to-remind-your-boss-of-your-pto-without-pissing-them-off.json",
+      "published_at_utc": "2026-11-08T11:23:41Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-08/megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-inte.png": {
       "buffer_due_at_utc": "2026-11-08T00:42:43.000Z",
       "buffer_mode": "customScheduled",
