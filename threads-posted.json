@@ -112781,6 +112781,25 @@
       "published_at_utc": "2026-11-07T04:06:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-08/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-cen.png": {
+      "buffer_due_at_utc": "2026-11-08T00:02:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aefbc0051492b796e0979ab",
+      "caption_file": "output/2026-11-08/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-cen.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T00:02:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aefbc0051492b796e0979ab",
+          "published_at_utc": "2026-11-08T00:02:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-cen.png",
+      "metadata_file": "output/2026-11-08/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-cen.json",
+      "published_at_utc": "2026-11-08T00:02:08Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-08/amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-and-whis.png": {
       "buffer_due_at_utc": "2026-11-07T20:44:06.000Z",
       "buffer_mode": "customScheduled",
