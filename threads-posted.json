@@ -112981,6 +112981,25 @@
       "published_at_utc": "2026-11-08T00:02:46Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-08/triplets-of-belleville-director-pushes-back-against-ai-accusations.png": {
+      "buffer_due_at_utc": "2026-11-08T04:34:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aeff757004e4879a7962758",
+      "caption_file": "output/2026-11-08/triplets-of-belleville-director-pushes-back-against-ai-accusations.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T04:34:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aeff757004e4879a7962758",
+          "published_at_utc": "2026-11-08T04:15:19Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/triplets-of-belleville-director-pushes-back-against-ai-accusations.png",
+      "metadata_file": "output/2026-11-08/triplets-of-belleville-director-pushes-back-against-ai-accusations.json",
+      "published_at_utc": "2026-11-08T04:15:19Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-08/what-classic-should-nintendo-remake-next.png": {
       "buffer_due_at_utc": "2026-11-07T21:40:51.000Z",
       "buffer_mode": "customScheduled",
