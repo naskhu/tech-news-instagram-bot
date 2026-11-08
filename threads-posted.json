@@ -113006,6 +113006,25 @@
       "published_at_utc": "2026-11-08T04:15:13Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-08/the-macbook-pro-m5-isn-t-apple-s-newest-laptop-but-it-s-the-best-to-bu.png": {
+      "buffer_due_at_utc": "2026-11-08T12:02:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af05bc951492b796e340701",
+      "caption_file": "output/2026-11-08/the-macbook-pro-m5-isn-t-apple-s-newest-laptop-but-it-s-the-best-to-bu.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T12:02:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af05bc951492b796e340701",
+          "published_at_utc": "2026-11-08T11:23:53Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/the-macbook-pro-m5-isn-t-apple-s-newest-laptop-but-it-s-the-best-to-bu.png",
+      "metadata_file": "output/2026-11-08/the-macbook-pro-m5-isn-t-apple-s-newest-laptop-but-it-s-the-best-to-bu.json",
+      "published_at_utc": "2026-11-08T11:23:53Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-08/the-uv-tracking-gem-made-me-rethink-how-sunlight-affects-my-health-not.png": {
       "buffer_due_at_utc": "2026-11-08T01:01:38.000Z",
       "buffer_mode": "customScheduled",
