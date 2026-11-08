@@ -112781,6 +112781,25 @@
       "published_at_utc": "2026-11-07T04:06:02Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-08/a-55-year-old-math-problem-was-solved-this-time-by-humans.png": {
+      "buffer_due_at_utc": "2026-11-08T11:24:14.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af05bb151492b796e340156",
+      "caption_file": "output/2026-11-08/a-55-year-old-math-problem-was-solved-this-time-by-humans.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T11:24:14.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af05bb151492b796e340156",
+          "published_at_utc": "2026-11-08T11:23:29Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/a-55-year-old-math-problem-was-solved-this-time-by-humans.png",
+      "metadata_file": "output/2026-11-08/a-55-year-old-math-problem-was-solved-this-time-by-humans.json",
+      "published_at_utc": "2026-11-08T11:23:29Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-08/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-cen.png": {
       "buffer_due_at_utc": "2026-11-08T00:04:53.000Z",
       "buffer_mode": "customScheduled",
