@@ -113055,6 +113055,25 @@
       "metadata_file": "output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.json",
       "published_at_utc": "2026-11-08T04:15:35Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-08/zelda-is-back-and-better-than-ever.png": {
+      "buffer_due_at_utc": "2026-11-08T05:12:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aeff76cd6bbae6fa1c82874",
+      "caption_file": "output/2026-11-08/zelda-is-back-and-better-than-ever.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T05:12:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aeff76cd6bbae6fa1c82874",
+          "published_at_utc": "2026-11-08T04:15:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/zelda-is-back-and-better-than-ever.png",
+      "metadata_file": "output/2026-11-08/zelda-is-back-and-better-than-ever.json",
+      "published_at_utc": "2026-11-08T04:15:40Z",
+      "publisher": "buffer_threads"
     }
   }
 }
