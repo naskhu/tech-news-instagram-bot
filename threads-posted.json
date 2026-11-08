@@ -113030,6 +113030,25 @@
       "metadata_file": "output/2026-11-08/what-classic-should-nintendo-remake-next.json",
       "published_at_utc": "2026-11-07T20:41:59Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.png": {
+      "buffer_due_at_utc": "2026-11-08T04:53:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aeff762d6bbae6fa1c8264d",
+      "caption_file": "output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T04:53:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aeff762d6bbae6fa1c8264d",
+          "published_at_utc": "2026-11-08T04:15:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.png",
+      "metadata_file": "output/2026-11-08/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-re.json",
+      "published_at_utc": "2026-11-08T04:15:30Z",
+      "publisher": "buffer_threads"
     }
   }
 }
