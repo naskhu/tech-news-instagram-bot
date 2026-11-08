@@ -112857,12 +112857,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/good-riddance-cybertruck.png": {
-      "buffer_due_at_utc": "2026-11-08T00:21:48.000Z",
+      "buffer_due_at_utc": "2026-11-08T00:23:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aefbc0b51492b796e097ede",
+      "buffer_post_id": "6aefbc119214322f6821f632",
       "caption_file": "output/2026-11-08/good-riddance-cybertruck.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-08T00:23:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aefbc119214322f6821f632",
+          "published_at_utc": "2026-11-08T00:02:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-08T00:21:48.000Z",
           "buffer_mode": "customScheduled",
@@ -112872,7 +112878,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-08/good-riddance-cybertruck.png",
       "metadata_file": "output/2026-11-08/good-riddance-cybertruck.json",
-      "published_at_utc": "2026-11-08T00:02:19Z",
+      "published_at_utc": "2026-11-08T00:02:25Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-08/parents-want-safer-phones-for-kids-these-companies-are-answering-the-c.png": {
