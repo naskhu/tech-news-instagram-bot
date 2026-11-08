@@ -113355,6 +113355,25 @@
       "metadata_file": "output/2026-11-09/nvidia-will-investigate-ceo-jensen-huang-s-relationship-with-possible-.json",
       "published_at_utc": "2026-11-08T21:18:29Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-09/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex.png": {
+      "buffer_due_at_utc": "2026-11-08T22:15:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af0e72b9214322f6879505f",
+      "caption_file": "output/2026-11-09/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-08T22:15:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af0e72b9214322f6879505f",
+          "published_at_utc": "2026-11-08T21:18:35Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex.png",
+      "metadata_file": "output/2026-11-09/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex.json",
+      "published_at_utc": "2026-11-08T21:18:35Z",
+      "publisher": "buffer_threads"
     }
   }
 }
