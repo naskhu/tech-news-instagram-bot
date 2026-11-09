@@ -113532,12 +113532,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.png": {
-      "buffer_due_at_utc": "2026-11-09T08:20:25.000Z",
+      "buffer_due_at_utc": "2026-11-09T08:22:25.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af17959cac9d7525f7815ee",
+      "buffer_post_id": "6af1795fcac9d7525f781688",
       "caption_file": "output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-09T08:22:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af1795fcac9d7525f781688",
+          "published_at_utc": "2026-11-09T07:42:23Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-09T08:20:25.000Z",
           "buffer_mode": "customScheduled",
@@ -113547,7 +113553,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.png",
       "metadata_file": "output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.json",
-      "published_at_utc": "2026-11-09T07:42:17Z",
+      "published_at_utc": "2026-11-09T07:42:23Z",
       "publisher": "buffer_threads"
     }
   }
