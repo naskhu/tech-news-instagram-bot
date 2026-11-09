@@ -113502,10 +113502,15 @@
     },
     "output/2026-11-09/meta-expands-instagram-s-ai-age-guessing-tech-globally-techcrunch.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6af209037176a1c926ff55d6",
+      "buffer_post_id": "6af209133aa5c0b251b63523",
       "caption_file": "output/2026-11-09/meta-expands-instagram-s-ai-age-guessing-tech-globally-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6af209133aa5c0b251b63523",
+          "published_at_utc": "2026-11-09T17:55:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6af209037176a1c926ff55d6",
@@ -113514,7 +113519,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/meta-expands-instagram-s-ai-age-guessing-tech-globally-techcrunch.png",
       "metadata_file": "output/2026-11-09/meta-expands-instagram-s-ai-age-guessing-tech-globally-techcrunch.json",
-      "published_at_utc": "2026-11-09T17:55:25Z",
+      "published_at_utc": "2026-11-09T17:55:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-09/nvidia-will-investigate-ceo-jensen-huang-s-relationship-with-possible-.png": {
