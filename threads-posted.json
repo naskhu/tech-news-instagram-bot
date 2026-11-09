@@ -113281,6 +113281,25 @@
       "published_at_utc": "2026-11-08T04:15:45Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-09/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling-techcrunc.png": {
+      "buffer_due_at_utc": "2026-11-09T01:01:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af11b21004e4879a7eea283",
+      "caption_file": "output/2026-11-09/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling-techcrunc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-09T01:01:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af11b21004e4879a7eea283",
+          "published_at_utc": "2026-11-09T01:00:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling-techcrunc.png",
+      "metadata_file": "output/2026-11-09/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling-techcrunc.json",
+      "published_at_utc": "2026-11-09T01:00:18Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-09/coordinated-disturbances-haunt-grids-worldwide-here-s-how-researchers-.png": {
       "buffer_due_at_utc": "2026-11-08T21:20:45.000Z",
       "buffer_mode": "customScheduled",
