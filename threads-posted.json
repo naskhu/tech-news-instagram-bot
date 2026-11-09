@@ -113331,6 +113331,25 @@
       "published_at_utc": "2026-11-08T21:18:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-09/he-arrested-a-hacker-then-spent-18-months-clearing-his-own-name-now-he.png": {
+      "buffer_due_at_utc": "2026-11-09T01:19:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af11b2e229bf05dafe57610",
+      "caption_file": "output/2026-11-09/he-arrested-a-hacker-then-spent-18-months-clearing-his-own-name-now-he.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-09T01:19:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af11b2e229bf05dafe57610",
+          "published_at_utc": "2026-11-09T01:00:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/he-arrested-a-hacker-then-spent-18-months-clearing-his-own-name-now-he.png",
+      "metadata_file": "output/2026-11-09/he-arrested-a-hacker-then-spent-18-months-clearing-his-own-name-now-he.json",
+      "published_at_utc": "2026-11-09T01:00:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-09/if-snap-s-specs-are-still-ridiculously-expensive-they-re-also-a-lot-mo.png": {
       "buffer_due_at_utc": "2026-11-08T21:39:40.000Z",
       "buffer_mode": "customScheduled",
