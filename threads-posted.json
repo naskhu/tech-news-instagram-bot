@@ -113331,6 +113331,25 @@
       "published_at_utc": "2026-11-08T21:18:06Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-09/epic-games-launcher-is-coming-to-steamos.png": {
+      "buffer_due_at_utc": "2026-11-09T07:42:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af1793fcac9d7525f780593",
+      "caption_file": "output/2026-11-09/epic-games-launcher-is-coming-to-steamos.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-09T07:42:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af1793fcac9d7525f780593",
+          "published_at_utc": "2026-11-09T07:41:51Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/epic-games-launcher-is-coming-to-steamos.png",
+      "metadata_file": "output/2026-11-09/epic-games-launcher-is-coming-to-steamos.json",
+      "published_at_utc": "2026-11-09T07:41:51Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-09/he-arrested-a-hacker-then-spent-18-months-clearing-his-own-name-now-he.png": {
       "buffer_due_at_utc": "2026-11-09T01:21:55.000Z",
       "buffer_mode": "customScheduled",
