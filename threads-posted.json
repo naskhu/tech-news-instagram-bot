@@ -113432,12 +113432,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-09/is-jensen-huang-s-job-on-the-line-yale-s-jeffrey-sonnenfeld-estimates-.png": {
-      "buffer_due_at_utc": "2026-11-09T08:01:30.000Z",
+      "buffer_due_at_utc": "2026-11-09T08:03:30.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af1794ce29b1359f0d9c0ad",
+      "buffer_post_id": "6af179537522f65ac0ca1034",
       "caption_file": "output/2026-11-09/is-jensen-huang-s-job-on-the-line-yale-s-jeffrey-sonnenfeld-estimates-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-09T08:03:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af179537522f65ac0ca1034",
+          "published_at_utc": "2026-11-09T07:42:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-09T08:01:30.000Z",
           "buffer_mode": "customScheduled",
@@ -113447,7 +113453,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/is-jensen-huang-s-job-on-the-line-yale-s-jeffrey-sonnenfeld-estimates-.png",
       "metadata_file": "output/2026-11-09/is-jensen-huang-s-job-on-the-line-yale-s-jeffrey-sonnenfeld-estimates-.json",
-      "published_at_utc": "2026-11-09T07:42:04Z",
+      "published_at_utc": "2026-11-09T07:42:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-09/nvidia-will-investigate-ceo-jensen-huang-s-relationship-with-possible-.png": {
