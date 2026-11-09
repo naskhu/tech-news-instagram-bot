@@ -113530,6 +113530,25 @@
       "metadata_file": "output/2026-11-09/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has.json",
       "published_at_utc": "2026-11-09T01:00:58Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.png": {
+      "buffer_due_at_utc": "2026-11-09T08:20:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af17959cac9d7525f7815ee",
+      "caption_file": "output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-09T08:20:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af17959cac9d7525f7815ee",
+          "published_at_utc": "2026-11-09T07:42:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.png",
+      "metadata_file": "output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.json",
+      "published_at_utc": "2026-11-09T07:42:17Z",
+      "publisher": "buffer_threads"
     }
   }
 }
