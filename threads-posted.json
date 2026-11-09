@@ -113357,12 +113357,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-09/here-s-the-full-text-of-jensen-huang-s-memo-to-nvidia.png": {
-      "buffer_due_at_utc": "2026-11-09T01:38:50.000Z",
+      "buffer_due_at_utc": "2026-11-09T01:40:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af11b399214322f68883bde",
+      "buffer_post_id": "6af11b3f004e4879a7eeba71",
       "caption_file": "output/2026-11-09/here-s-the-full-text-of-jensen-huang-s-memo-to-nvidia.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-09T01:40:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af11b3f004e4879a7eeba71",
+          "published_at_utc": "2026-11-09T01:00:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-09T01:38:50.000Z",
           "buffer_mode": "customScheduled",
@@ -113372,7 +113378,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/here-s-the-full-text-of-jensen-huang-s-memo-to-nvidia.png",
       "metadata_file": "output/2026-11-09/here-s-the-full-text-of-jensen-huang-s-memo-to-nvidia.json",
-      "published_at_utc": "2026-11-09T01:00:41Z",
+      "published_at_utc": "2026-11-09T01:00:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-09/if-snap-s-specs-are-still-ridiculously-expensive-they-re-also-a-lot-mo.png": {
