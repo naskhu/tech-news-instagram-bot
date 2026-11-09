@@ -113555,6 +113555,25 @@
       "metadata_file": "output/2026-11-09/sony-playstation-s-pulse-elevate-speakers-delayed-just-a-week-before-l.json",
       "published_at_utc": "2026-11-09T07:42:23Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-09/soul-glo-s-diaspora-problems-is-a-hardcore-record-like-no-other.png": {
+      "buffer_due_at_utc": "2026-11-09T08:39:20.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af17966796ccae2669164b9",
+      "caption_file": "output/2026-11-09/soul-glo-s-diaspora-problems-is-a-hardcore-record-like-no-other.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-09T08:39:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af17966796ccae2669164b9",
+          "published_at_utc": "2026-11-09T07:42:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-09/soul-glo-s-diaspora-problems-is-a-hardcore-record-like-no-other.png",
+      "metadata_file": "output/2026-11-09/soul-glo-s-diaspora-problems-is-a-hardcore-record-like-no-other.json",
+      "published_at_utc": "2026-11-09T07:42:30Z",
+      "publisher": "buffer_threads"
     }
   }
 }
