@@ -113694,6 +113694,25 @@
       "published_at_utc": "2026-11-10T01:06:35Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-10/anthropic-reportedly-plans-to-move-forward-with-ipo-plans-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-10T08:32:36.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af2d6786043a21c9f597ad8",
+      "caption_file": "output/2026-11-10/anthropic-reportedly-plans-to-move-forward-with-ipo-plans-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-10T08:32:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af2d6786043a21c9f597ad8",
+          "published_at_utc": "2026-11-10T08:31:52Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-10/anthropic-reportedly-plans-to-move-forward-with-ipo-plans-techcrunch.png",
+      "metadata_file": "output/2026-11-10/anthropic-reportedly-plans-to-move-forward-with-ipo-plans-techcrunch.json",
+      "published_at_utc": "2026-11-10T08:31:52Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-10/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse-tec.png": {
       "buffer_due_at_utc": "2026-11-10T01:28:08.000Z",
       "buffer_mode": "customScheduled",
