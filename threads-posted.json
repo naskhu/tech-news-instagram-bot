@@ -114020,12 +114020,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-dr.png": {
-      "buffer_due_at_utc": "2026-11-10T22:38:08.000Z",
+      "buffer_due_at_utc": "2026-11-10T22:40:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af393dd2cc03d2ce398f914",
+      "buffer_post_id": "6af393e4acda3662ff131e79",
       "caption_file": "output/2026-11-11/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-dr.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-10T22:40:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af393e4acda3662ff131e79",
+          "published_at_utc": "2026-11-10T22:00:05Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-10T22:38:08.000Z",
           "buffer_mode": "customScheduled",
@@ -114035,7 +114041,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-dr.png",
       "metadata_file": "output/2026-11-11/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-dr.json",
-      "published_at_utc": "2026-11-10T21:59:57Z",
+      "published_at_utc": "2026-11-10T22:00:05Z",
       "publisher": "buffer_threads"
     }
   }
