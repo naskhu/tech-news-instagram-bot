@@ -113770,12 +113770,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chi.png": {
-      "buffer_due_at_utc": "2026-11-10T16:59:31.000Z",
+      "buffer_due_at_utc": "2026-11-10T17:01:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af348e5825741bba8465742",
+      "buffer_post_id": "6af348eca80c88d576484be2",
       "caption_file": "output/2026-11-10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chi.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-10T17:01:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af348eca80c88d576484be2",
+          "published_at_utc": "2026-11-10T16:40:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-10T16:59:31.000Z",
           "buffer_mode": "customScheduled",
@@ -113785,7 +113791,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chi.png",
       "metadata_file": "output/2026-11-10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chi.json",
-      "published_at_utc": "2026-11-10T16:40:05Z",
+      "published_at_utc": "2026-11-10T16:40:12Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-10/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse-tec.png": {
