@@ -113894,6 +113894,25 @@
       "published_at_utc": "2026-11-10T16:40:28Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-10/n-able-takes-its-remote-access-service-offline-after-researcher-publis.png": {
+      "buffer_due_at_utc": "2026-11-10T17:37:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af34904825741bba8466096",
+      "caption_file": "output/2026-11-10/n-able-takes-its-remote-access-service-offline-after-researcher-publis.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-10T17:37:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af34904825741bba8466096",
+          "published_at_utc": "2026-11-10T16:40:36Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-10/n-able-takes-its-remote-access-service-offline-after-researcher-publis.png",
+      "metadata_file": "output/2026-11-10/n-able-takes-its-remote-access-service-offline-after-researcher-publis.json",
+      "published_at_utc": "2026-11-10T16:40:36Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-10/otter-ai-can-now-follow-conversations-across-30-languages-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-10T09:31:21.000Z",
       "buffer_mode": "customScheduled",
