@@ -113968,6 +113968,25 @@
       "metadata_file": "output/2026-11-10/the-race-is-on-to-sue-nvidia-techcrunch.json",
       "published_at_utc": "2026-11-10T01:07:10Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.png": {
+      "buffer_due_at_utc": "2026-11-10T22:00:18.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af393c580d21acacab3f4cf",
+      "caption_file": "output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-10T22:00:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af393c580d21acacab3f4cf",
+          "published_at_utc": "2026-11-10T21:59:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.png",
+      "metadata_file": "output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.json",
+      "published_at_utc": "2026-11-10T21:59:33Z",
+      "publisher": "buffer_threads"
     }
   }
 }
