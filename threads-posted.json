@@ -113970,12 +113970,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.png": {
-      "buffer_due_at_utc": "2026-11-10T22:00:18.000Z",
+      "buffer_due_at_utc": "2026-11-10T22:02:18.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af393c580d21acacab3f4cf",
+      "buffer_post_id": "6af393ccacda3662ff13127a",
       "caption_file": "output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-10T22:02:18.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af393ccacda3662ff13127a",
+          "published_at_utc": "2026-11-10T21:59:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-10T22:00:18.000Z",
           "buffer_mode": "customScheduled",
@@ -113985,7 +113991,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.png",
       "metadata_file": "output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.json",
-      "published_at_utc": "2026-11-10T21:59:33Z",
+      "published_at_utc": "2026-11-10T21:59:40Z",
       "publisher": "buffer_threads"
     }
   }
