@@ -114045,12 +114045,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-rea.png": {
-      "buffer_due_at_utc": "2026-11-10T22:57:03.000Z",
+      "buffer_due_at_utc": "2026-11-10T22:59:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af393ea2cc03d2ce39907e6",
+      "buffer_post_id": "6af393f2a1e37f4188014033",
       "caption_file": "output/2026-11-11/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-rea.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-10T22:59:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af393f2a1e37f4188014033",
+          "published_at_utc": "2026-11-10T22:00:18Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-10T22:57:03.000Z",
           "buffer_mode": "customScheduled",
@@ -114060,7 +114066,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-rea.png",
       "metadata_file": "output/2026-11-11/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-rea.json",
-      "published_at_utc": "2026-11-10T22:00:10Z",
+      "published_at_utc": "2026-11-10T22:00:18Z",
       "publisher": "buffer_threads"
     }
   }
