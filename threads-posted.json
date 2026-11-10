@@ -113870,12 +113870,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-10/meta-s-ai-agent-muse-lands-on-apple-watch-and-android-wear-os-techcrun.png": {
-      "buffer_due_at_utc": "2026-11-10T17:18:26.000Z",
+      "buffer_due_at_utc": "2026-11-10T17:20:26.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af348f5e9e4a87f7b52905f",
+      "buffer_post_id": "6af348fc2d2fdb3b7deb0650",
       "caption_file": "output/2026-11-10/meta-s-ai-agent-muse-lands-on-apple-watch-and-android-wear-os-techcrun.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-10T17:20:26.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af348fc2d2fdb3b7deb0650",
+          "published_at_utc": "2026-11-10T16:40:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-10T17:18:26.000Z",
           "buffer_mode": "customScheduled",
@@ -113885,7 +113891,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-10/meta-s-ai-agent-muse-lands-on-apple-watch-and-android-wear-os-techcrun.png",
       "metadata_file": "output/2026-11-10/meta-s-ai-agent-muse-lands-on-apple-watch-and-android-wear-os-techcrun.json",
-      "published_at_utc": "2026-11-10T16:40:21Z",
+      "published_at_utc": "2026-11-10T16:40:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-10/otter-ai-can-now-follow-conversations-across-30-languages-techcrunch.png": {
