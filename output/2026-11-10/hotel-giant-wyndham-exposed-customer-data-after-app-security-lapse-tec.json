@@ -1,0 +1,23 @@
+{
+  "title": "Hotel giant Wyndham exposed customer data after app security lapse | TechCrunch",
+  "summary": "Security researcher Robert Wiggins at What Security exclusively told TechCrunch that he found a password inside the source code of Wyndham’s Android app, which granted access to an internal company database, hosted by tech company Salesforce.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse",
+  "published_utc": "2026-11-09T23:03:46+00:00",
+  "output_day": "2026-11-10",
+  "date_source": "meta",
+  "generated_utc": "2026-11-10T01:04:40.458331+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2026/11/wyndham-967205948.jpg?resize=1200,843",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-11-10/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse-tec.png",
+  "caption": "output/2026-11-10/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse-tec.txt"
+}
