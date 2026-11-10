@@ -113720,12 +113720,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-f.png": {
-      "buffer_due_at_utc": "2026-11-10T16:40:36.000Z",
+      "buffer_due_at_utc": "2026-11-10T16:42:36.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af348d8a80c88d576484657",
+      "buffer_post_id": "6af348dea9f33a390a4fd671",
       "caption_file": "output/2026-11-10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-f.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-10T16:42:36.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af348dea9f33a390a4fd671",
+          "published_at_utc": "2026-11-10T16:39:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-10T16:40:36.000Z",
           "buffer_mode": "customScheduled",
@@ -113735,7 +113741,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-f.png",
       "metadata_file": "output/2026-11-10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-f.json",
-      "published_at_utc": "2026-11-10T16:39:52Z",
+      "published_at_utc": "2026-11-10T16:39:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-10/california-s-proposed-billionaire-tax-fails-to-pass-techcrunch.png": {
