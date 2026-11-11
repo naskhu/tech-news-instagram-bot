@@ -114145,12 +114145,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/x-launches-its-own-clipping-feature-to-spur-influencer-engagement-tech.png": {
-      "buffer_due_at_utc": "2026-11-11T02:41:05.000Z",
+      "buffer_due_at_utc": "2026-11-11T02:43:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af3c86961555afe9eee2716",
+      "buffer_post_id": "6af3c86f0b5acab586297f2e",
       "caption_file": "output/2026-11-11/x-launches-its-own-clipping-feature-to-spur-influencer-engagement-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-11T02:43:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af3c86f0b5acab586297f2e",
+          "published_at_utc": "2026-11-11T01:44:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-11T02:41:05.000Z",
           "buffer_mode": "customScheduled",
@@ -114160,7 +114166,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/x-launches-its-own-clipping-feature-to-spur-influencer-engagement-tech.png",
       "metadata_file": "output/2026-11-11/x-launches-its-own-clipping-feature-to-spur-influencer-engagement-tech.json",
-      "published_at_utc": "2026-11-11T01:44:09Z",
+      "published_at_utc": "2026-11-11T01:44:15Z",
       "publisher": "buffer_threads"
     }
   }
