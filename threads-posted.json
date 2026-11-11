@@ -114294,6 +114294,25 @@
       "published_at_utc": "2026-11-11T01:44:04Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-11/siri-co-founder-backs-helix-for-its-voice-id-tech-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-11T17:36:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af49a42b0396c2ba5365fcd",
+      "caption_file": "output/2026-11-11/siri-co-founder-backs-helix-for-its-voice-id-tech-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-11T17:36:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af49a42b0396c2ba5365fcd",
+          "published_at_utc": "2026-11-11T16:39:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/siri-co-founder-backs-helix-for-its-voice-id-tech-techcrunch.png",
+      "metadata_file": "output/2026-11-11/siri-co-founder-backs-helix-for-its-voice-id-tech-techcrunch.json",
+      "published_at_utc": "2026-11-11T16:39:30Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-11/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-rea.png": {
       "buffer_due_at_utc": "2026-11-10T22:59:03.000Z",
       "buffer_mode": "customScheduled",
