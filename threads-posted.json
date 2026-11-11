@@ -114370,12 +114370,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-12/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-g.png": {
-      "buffer_due_at_utc": "2026-11-11T23:04:17.000Z",
+      "buffer_due_at_utc": "2026-11-11T23:06:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af4f444304f8985c46e6275",
+      "buffer_post_id": "6af4f44bbc9f3773a1a6fa3d",
       "caption_file": "output/2026-11-12/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-g.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-11T23:06:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af4f44bbc9f3773a1a6fa3d",
+          "published_at_utc": "2026-11-11T23:03:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-11T23:04:17.000Z",
           "buffer_mode": "customScheduled",
@@ -114385,7 +114391,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-12/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-g.png",
       "metadata_file": "output/2026-11-12/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-g.json",
-      "published_at_utc": "2026-11-11T23:03:33Z",
+      "published_at_utc": "2026-11-11T23:03:39Z",
       "publisher": "buffer_threads"
     }
   }
