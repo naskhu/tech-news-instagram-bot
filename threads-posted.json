@@ -113995,12 +113995,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-.png": {
-      "buffer_due_at_utc": "2026-11-11T08:27:28.000Z",
+      "buffer_due_at_utc": "2026-11-11T08:29:28.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af426c460e4cf0fafb2f956",
+      "buffer_post_id": "6af426c927e91ec769be0755",
       "caption_file": "output/2026-11-11/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-11T08:29:28.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af426c927e91ec769be0755",
+          "published_at_utc": "2026-11-11T08:26:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-11T08:27:28.000Z",
           "buffer_mode": "customScheduled",
@@ -114010,7 +114016,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-.png",
       "metadata_file": "output/2026-11-11/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-.json",
-      "published_at_utc": "2026-11-11T08:26:44Z",
+      "published_at_utc": "2026-11-11T08:26:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.png": {
