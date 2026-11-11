@@ -114044,6 +114044,25 @@
       "published_at_utc": "2026-11-11T16:39:01Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-11/is-jensen-huang-s-bad-behavior-more-commonplace-than-it-seems-techcrun.png": {
+      "buffer_due_at_utc": "2026-11-11T16:58:34.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af49a2b8b79ccfb72f466d2",
+      "caption_file": "output/2026-11-11/is-jensen-huang-s-bad-behavior-more-commonplace-than-it-seems-techcrun.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-11T16:58:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af49a2b8b79ccfb72f466d2",
+          "published_at_utc": "2026-11-11T16:39:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/is-jensen-huang-s-bad-behavior-more-commonplace-than-it-seems-techcrun.png",
+      "metadata_file": "output/2026-11-11/is-jensen-huang-s-bad-behavior-more-commonplace-than-it-seems-techcrun.json",
+      "published_at_utc": "2026-11-11T16:39:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-11/nvidia-s-crisis-has-corporate-governance-experts-reaching-for-the-popc.png": {
       "buffer_due_at_utc": "2026-11-11T08:48:23.000Z",
       "buffer_mode": "customScheduled",
