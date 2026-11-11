@@ -114020,12 +114020,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/nvidia-s-crisis-has-corporate-governance-experts-reaching-for-the-popc.png": {
-      "buffer_due_at_utc": "2026-11-11T08:46:23.000Z",
+      "buffer_due_at_utc": "2026-11-11T08:48:23.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af426cf27e91ec769be07ff",
+      "buffer_post_id": "6af426d527e91ec769be098a",
       "caption_file": "output/2026-11-11/nvidia-s-crisis-has-corporate-governance-experts-reaching-for-the-popc.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-11T08:48:23.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af426d527e91ec769be098a",
+          "published_at_utc": "2026-11-11T08:27:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-11T08:46:23.000Z",
           "buffer_mode": "customScheduled",
@@ -114035,7 +114041,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/nvidia-s-crisis-has-corporate-governance-experts-reaching-for-the-popc.png",
       "metadata_file": "output/2026-11-11/nvidia-s-crisis-has-corporate-governance-experts-reaching-for-the-popc.json",
-      "published_at_utc": "2026-11-11T08:26:55Z",
+      "published_at_utc": "2026-11-11T08:27:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/openai-acquires-odessia-travel-startup-created-by-sonder-founder-techc.png": {
