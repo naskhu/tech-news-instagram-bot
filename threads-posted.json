@@ -114020,12 +114020,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth-tec.png": {
-      "buffer_due_at_utc": "2026-11-11T16:39:39.000Z",
+      "buffer_due_at_utc": "2026-11-11T16:41:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af49a1eb0396c2ba5365859",
+      "buffer_post_id": "6af49a258b79ccfb72f465ae",
       "caption_file": "output/2026-11-11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth-tec.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-11T16:41:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af49a258b79ccfb72f465ae",
+          "published_at_utc": "2026-11-11T16:39:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-11T16:39:39.000Z",
           "buffer_mode": "customScheduled",
@@ -114035,7 +114041,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth-tec.png",
       "metadata_file": "output/2026-11-11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth-tec.json",
-      "published_at_utc": "2026-11-11T16:38:55Z",
+      "published_at_utc": "2026-11-11T16:39:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/nvidia-s-crisis-has-corporate-governance-experts-reaching-for-the-popc.png": {
