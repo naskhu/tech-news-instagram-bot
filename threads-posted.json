@@ -114395,12 +114395,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-12/meta-is-losing-its-longtime-head-of-infrastructure-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-11T23:23:12.000Z",
+      "buffer_due_at_utc": "2026-11-11T23:25:12.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af4f451bc9f3773a1a6fc07",
+      "buffer_post_id": "6af4f457304f8985c46e6890",
       "caption_file": "output/2026-11-12/meta-is-losing-its-longtime-head-of-infrastructure-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-11T23:25:12.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af4f457304f8985c46e6890",
+          "published_at_utc": "2026-11-11T23:03:51Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-11T23:23:12.000Z",
           "buffer_mode": "customScheduled",
@@ -114410,7 +114416,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-12/meta-is-losing-its-longtime-head-of-infrastructure-techcrunch.png",
       "metadata_file": "output/2026-11-12/meta-is-losing-its-longtime-head-of-infrastructure-techcrunch.json",
-      "published_at_utc": "2026-11-11T23:03:45Z",
+      "published_at_utc": "2026-11-11T23:03:51Z",
       "publisher": "buffer_threads"
     }
   }
