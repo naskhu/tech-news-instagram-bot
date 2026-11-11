@@ -114170,12 +114170,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/openai-s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time-t.png": {
-      "buffer_due_at_utc": "2026-11-11T17:17:29.000Z",
+      "buffer_due_at_utc": "2026-11-11T17:19:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af49a368b79ccfb72f46ac9",
+      "buffer_post_id": "6af49a3c444c2727360f8d05",
       "caption_file": "output/2026-11-11/openai-s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-11T17:19:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af49a3c444c2727360f8d05",
+          "published_at_utc": "2026-11-11T16:39:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-11T17:17:29.000Z",
           "buffer_mode": "customScheduled",
@@ -114185,7 +114191,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-11/openai-s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time-t.png",
       "metadata_file": "output/2026-11-11/openai-s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time-t.json",
-      "published_at_utc": "2026-11-11T16:39:18Z",
+      "published_at_utc": "2026-11-11T16:39:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-11/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m.png": {
