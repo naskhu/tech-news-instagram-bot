@@ -114519,6 +114519,25 @@
       "published_at_utc": "2026-11-12T03:45:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-12/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-.png": {
+      "buffer_due_at_utc": "2026-11-12T04:42:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af536493d8c751bfd11eb85",
+      "caption_file": "output/2026-11-12/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-12T04:42:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af536493d8c751bfd11eb85",
+          "published_at_utc": "2026-11-12T03:45:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-12/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-.png",
+      "metadata_file": "output/2026-11-12/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-.json",
+      "published_at_utc": "2026-11-12T03:45:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-12/with-720m-round-britain-s-fractile-gets-a-leg-up-in-the-race-for-ai-ch.png": {
       "buffer_due_at_utc": "2026-11-12T00:03:02.000Z",
       "buffer_mode": "customScheduled",
