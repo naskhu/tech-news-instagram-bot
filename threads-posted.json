@@ -114394,6 +114394,25 @@
       "published_at_utc": "2026-11-11T23:03:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-12/jensen-huang-accused-of-having-another-affair-with-an-nvidia-exec-tech.png": {
+      "buffer_due_at_utc": "2026-11-12T03:45:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af53627cb4c7286fd107346",
+      "caption_file": "output/2026-11-12/jensen-huang-accused-of-having-another-affair-with-an-nvidia-exec-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-12T03:45:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af53627cb4c7286fd107346",
+          "published_at_utc": "2026-11-12T03:44:40Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-12/jensen-huang-accused-of-having-another-affair-with-an-nvidia-exec-tech.png",
+      "metadata_file": "output/2026-11-12/jensen-huang-accused-of-having-another-affair-with-an-nvidia-exec-tech.json",
+      "published_at_utc": "2026-11-12T03:44:40Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-12/meta-is-losing-its-longtime-head-of-infrastructure-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-11T23:25:12.000Z",
       "buffer_mode": "customScheduled",
