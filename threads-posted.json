@@ -114695,12 +114695,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.png": {
-      "buffer_due_at_utc": "2026-11-12T20:23:43.000Z",
+      "buffer_due_at_utc": "2026-11-12T20:25:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af61bc0f2ce3e7376de103d",
+      "buffer_post_id": "6af61bc6f2ce3e7376de1348",
       "caption_file": "output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-12T20:25:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af61bc6f2ce3e7376de1348",
+          "published_at_utc": "2026-11-12T20:04:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-12T20:23:43.000Z",
           "buffer_mode": "customScheduled",
@@ -114710,7 +114716,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.png",
       "metadata_file": "output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.json",
-      "published_at_utc": "2026-11-12T20:04:16Z",
+      "published_at_utc": "2026-11-12T20:04:22Z",
       "publisher": "buffer_threads"
     }
   }
