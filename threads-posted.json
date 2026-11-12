@@ -114570,12 +114570,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-12/ring-confirms-its-camera-drone-won-t-have-manual-controls-after-crashi.png": {
-      "buffer_due_at_utc": "2026-11-12T13:06:55.000Z",
+      "buffer_due_at_utc": "2026-11-12T13:08:55.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af5ac99c6319c29c4958f52",
+      "buffer_post_id": "6af5ac9fa3fba876f6c18583",
       "caption_file": "output/2026-11-12/ring-confirms-its-camera-drone-won-t-have-manual-controls-after-crashi.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-12T13:08:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af5ac9fa3fba876f6c18583",
+          "published_at_utc": "2026-11-12T12:10:07Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-12T13:06:55.000Z",
           "buffer_mode": "customScheduled",
@@ -114585,7 +114591,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-12/ring-confirms-its-camera-drone-won-t-have-manual-controls-after-crashi.png",
       "metadata_file": "output/2026-11-12/ring-confirms-its-camera-drone-won-t-have-manual-controls-after-crashi.json",
-      "published_at_utc": "2026-11-12T12:10:01Z",
+      "published_at_utc": "2026-11-12T12:10:07Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-12/the-unfolding-jensen-huang-scandal-a-timeline-techcrunch.png": {
