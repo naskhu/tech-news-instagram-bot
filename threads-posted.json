@@ -114369,6 +114369,25 @@
       "published_at_utc": "2026-11-11T01:44:15Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-12/blackmagic-made-a-usb-c-mic-for-spatial-audio.png": {
+      "buffer_due_at_utc": "2026-11-12T12:10:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af5ac764926d8280f0e3319",
+      "caption_file": "output/2026-11-12/blackmagic-made-a-usb-c-mic-for-spatial-audio.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-12T12:10:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af5ac764926d8280f0e3319",
+          "published_at_utc": "2026-11-12T12:09:26Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-12/blackmagic-made-a-usb-c-mic-for-spatial-audio.png",
+      "metadata_file": "output/2026-11-12/blackmagic-made-a-usb-c-mic-for-spatial-audio.json",
+      "published_at_utc": "2026-11-12T12:09:26Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-12/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-g.png": {
       "buffer_due_at_utc": "2026-11-11T23:06:17.000Z",
       "buffer_mode": "customScheduled",
