@@ -114693,6 +114693,25 @@
       "metadata_file": "output/2026-11-13/google-s-latest-search-upgrade-promises-better-answers-to-your-most-co.json",
       "published_at_utc": "2026-11-12T20:04:10Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.png": {
+      "buffer_due_at_utc": "2026-11-12T20:23:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af61bc0f2ce3e7376de103d",
+      "caption_file": "output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-12T20:23:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af61bc0f2ce3e7376de103d",
+          "published_at_utc": "2026-11-12T20:04:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.png",
+      "metadata_file": "output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.json",
+      "published_at_utc": "2026-11-12T20:04:16Z",
+      "publisher": "buffer_threads"
     }
   }
 }
