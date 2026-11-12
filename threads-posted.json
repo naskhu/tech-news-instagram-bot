@@ -114394,6 +114394,25 @@
       "published_at_utc": "2026-11-12T12:09:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-12/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-aff.png": {
+      "buffer_due_at_utc": "2026-11-12T12:29:05.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af5ac82fab891d6a9f27c62",
+      "caption_file": "output/2026-11-12/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-aff.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-12T12:29:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af5ac82fab891d6a9f27c62",
+          "published_at_utc": "2026-11-12T12:09:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-12/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-aff.png",
+      "metadata_file": "output/2026-11-12/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-aff.json",
+      "published_at_utc": "2026-11-12T12:09:38Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-12/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-g.png": {
       "buffer_due_at_utc": "2026-11-11T23:06:17.000Z",
       "buffer_mode": "customScheduled",
