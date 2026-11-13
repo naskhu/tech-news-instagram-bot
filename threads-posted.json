@@ -114694,6 +114694,25 @@
       "published_at_utc": "2026-11-13T01:00:46Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-team.png": {
+      "buffer_due_at_utc": "2026-11-13T15:44:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af7301af21c13fd2fdb3bca",
+      "caption_file": "output/2026-11-13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-team.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-13T15:44:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af7301af21c13fd2fdb3bca",
+          "published_at_utc": "2026-11-13T15:43:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-team.png",
+      "metadata_file": "output/2026-11-13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-team.json",
+      "published_at_utc": "2026-11-13T15:43:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-13/google-s-latest-search-upgrade-promises-better-answers-to-your-most-co.png": {
       "buffer_due_at_utc": "2026-11-12T20:06:48.000Z",
       "buffer_mode": "customScheduled",
