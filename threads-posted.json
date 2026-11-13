@@ -115095,12 +115095,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-14/chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-techcru.png": {
-      "buffer_due_at_utc": "2026-11-13T22:02:58.000Z",
+      "buffer_due_at_utc": "2026-11-13T22:04:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af784824b28296eb118f625",
+      "buffer_post_id": "6af784884b28296eb118f718",
       "caption_file": "output/2026-11-14/chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-techcru.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-13T22:04:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af784884b28296eb118f718",
+          "published_at_utc": "2026-11-13T21:43:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-13T22:02:58.000Z",
           "buffer_mode": "customScheduled",
@@ -115110,7 +115116,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-14/chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-techcru.png",
       "metadata_file": "output/2026-11-14/chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-techcru.json",
-      "published_at_utc": "2026-11-13T21:43:30Z",
+      "published_at_utc": "2026-11-13T21:43:36Z",
       "publisher": "buffer_threads"
     }
   }
