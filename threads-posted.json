@@ -114670,12 +114670,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/democrats-launch-nvidia-investigation-write-scathing-letter-on-huang-s.png": {
-      "buffer_due_at_utc": "2026-11-13T01:01:24.000Z",
+      "buffer_due_at_utc": "2026-11-13T01:03:24.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af66138da25c4db3e8821cc",
+      "buffer_post_id": "6af6613eba218f32636d1c73",
       "caption_file": "output/2026-11-13/democrats-launch-nvidia-investigation-write-scathing-letter-on-huang-s.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-13T01:03:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af6613eba218f32636d1c73",
+          "published_at_utc": "2026-11-13T01:00:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-13T01:01:24.000Z",
           "buffer_mode": "customScheduled",
@@ -114685,7 +114691,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/democrats-launch-nvidia-investigation-write-scathing-letter-on-huang-s.png",
       "metadata_file": "output/2026-11-13/democrats-launch-nvidia-investigation-write-scathing-letter-on-huang-s.json",
-      "published_at_utc": "2026-11-13T01:00:40Z",
+      "published_at_utc": "2026-11-13T01:00:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/google-s-latest-search-upgrade-promises-better-answers-to-your-most-co.png": {
