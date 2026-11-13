@@ -114770,12 +114770,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/jensen-huang-was-having-a-third-affair-reuters-reports-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-13T07:58:54.000Z",
+      "buffer_due_at_utc": "2026-11-13T08:00:54.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af6beaeba218f3263871610",
+      "buffer_post_id": "6af6beb4fb90ccefdd27ca5f",
       "caption_file": "output/2026-11-13/jensen-huang-was-having-a-third-affair-reuters-reports-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-13T08:00:54.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af6beb4fb90ccefdd27ca5f",
+          "published_at_utc": "2026-11-13T07:39:32Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-13T07:58:54.000Z",
           "buffer_mode": "customScheduled",
@@ -114785,7 +114791,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/jensen-huang-was-having-a-third-affair-reuters-reports-techcrunch.png",
       "metadata_file": "output/2026-11-13/jensen-huang-was-having-a-third-affair-reuters-reports-techcrunch.json",
-      "published_at_utc": "2026-11-13T07:39:26Z",
+      "published_at_utc": "2026-11-13T07:39:32Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/microsoft-s-outlook-email-hit-by-new-outage-techcrunch.png": {
