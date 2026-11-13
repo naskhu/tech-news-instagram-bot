@@ -114844,6 +114844,25 @@
       "published_at_utc": "2026-11-13T07:39:32Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-13/microsoft-s-latest-email-outage-turned-into-a-full-blown-global-cloud-.png": {
+      "buffer_due_at_utc": "2026-11-13T16:21:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af7303123eb7042c7b7c3c9",
+      "caption_file": "output/2026-11-13/microsoft-s-latest-email-outage-turned-into-a-full-blown-global-cloud-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-13T16:21:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af7303123eb7042c7b7c3c9",
+          "published_at_utc": "2026-11-13T15:43:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/microsoft-s-latest-email-outage-turned-into-a-full-blown-global-cloud-.png",
+      "metadata_file": "output/2026-11-13/microsoft-s-latest-email-outage-turned-into-a-full-blown-global-cloud-.json",
+      "published_at_utc": "2026-11-13T15:43:45Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-13/microsoft-s-outlook-email-hit-by-new-outage-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-12T20:44:38.000Z",
       "buffer_mode": "customScheduled",
