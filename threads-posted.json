@@ -115093,6 +115093,25 @@
       "metadata_file": "output/2026-11-14/ai-agent-startup-langchain-hits-3b-valuation-techcrunch.json",
       "published_at_utc": "2026-11-13T21:43:24Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-14/chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-techcru.png": {
+      "buffer_due_at_utc": "2026-11-13T22:02:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af784824b28296eb118f625",
+      "caption_file": "output/2026-11-14/chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-techcru.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-13T22:02:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af784824b28296eb118f625",
+          "published_at_utc": "2026-11-13T21:43:30Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-14/chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-techcru.png",
+      "metadata_file": "output/2026-11-14/chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you-techcru.json",
+      "published_at_utc": "2026-11-13T21:43:30Z",
+      "publisher": "buffer_threads"
     }
   }
 }
