@@ -114945,12 +114945,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecu.png": {
-      "buffer_due_at_utc": "2026-11-13T08:36:44.000Z",
+      "buffer_due_at_utc": "2026-11-13T08:38:44.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af6bec4da25c4db3ea1b5e0",
+      "buffer_post_id": "6af6beca5ec1c9d5be696fd7",
       "caption_file": "output/2026-11-13/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecu.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-13T08:38:44.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af6beca5ec1c9d5be696fd7",
+          "published_at_utc": "2026-11-13T07:39:54Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-13T08:36:44.000Z",
           "buffer_mode": "customScheduled",
@@ -114960,7 +114966,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecu.png",
       "metadata_file": "output/2026-11-13/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecu.json",
-      "published_at_utc": "2026-11-13T07:39:48Z",
+      "published_at_utc": "2026-11-13T07:39:54Z",
       "publisher": "buffer_threads"
     }
   }
