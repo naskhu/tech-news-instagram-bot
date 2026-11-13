@@ -114720,12 +114720,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen.png": {
-      "buffer_due_at_utc": "2026-11-13T07:39:59.000Z",
+      "buffer_due_at_utc": "2026-11-13T07:41:59.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af6bea3da25c4db3ea1aa61",
+      "buffer_post_id": "6af6bea9e1d8eff610aaf980",
       "caption_file": "output/2026-11-13/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-13T07:41:59.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af6bea9e1d8eff610aaf980",
+          "published_at_utc": "2026-11-13T07:39:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-13T07:39:59.000Z",
           "buffer_mode": "customScheduled",
@@ -114735,7 +114741,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen.png",
       "metadata_file": "output/2026-11-13/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen.json",
-      "published_at_utc": "2026-11-13T07:39:15Z",
+      "published_at_utc": "2026-11-13T07:39:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question-.png": {
