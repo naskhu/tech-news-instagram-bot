@@ -114770,12 +114770,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/muse-can-now-place-calls-to-us-businesses-if-you-pay-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-13T01:20:19.000Z",
+      "buffer_due_at_utc": "2026-11-13T01:22:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af661445ec1c9d5be4f1c75",
+      "buffer_post_id": "6af6614ac1a0010a5becdbe0",
       "caption_file": "output/2026-11-13/muse-can-now-place-calls-to-us-businesses-if-you-pay-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-13T01:22:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af6614ac1a0010a5becdbe0",
+          "published_at_utc": "2026-11-13T01:00:58Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-13T01:20:19.000Z",
           "buffer_mode": "customScheduled",
@@ -114785,7 +114791,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/muse-can-now-place-calls-to-us-businesses-if-you-pay-techcrunch.png",
       "metadata_file": "output/2026-11-13/muse-can-now-place-calls-to-us-businesses-if-you-pay-techcrunch.json",
-      "published_at_utc": "2026-11-13T01:00:52Z",
+      "published_at_utc": "2026-11-13T01:00:58Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach.png": {
