@@ -114695,12 +114695,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-team.png": {
-      "buffer_due_at_utc": "2026-11-13T15:44:06.000Z",
+      "buffer_due_at_utc": "2026-11-13T15:46:06.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af7301af21c13fd2fdb3bca",
+      "buffer_post_id": "6af73020928a8954cf432ecc",
       "caption_file": "output/2026-11-13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-team.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-13T15:46:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af73020928a8954cf432ecc",
+          "published_at_utc": "2026-11-13T15:43:28Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-13T15:44:06.000Z",
           "buffer_mode": "customScheduled",
@@ -114710,7 +114716,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-team.png",
       "metadata_file": "output/2026-11-13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-team.json",
-      "published_at_utc": "2026-11-13T15:43:22Z",
+      "published_at_utc": "2026-11-13T15:43:28Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-13/google-s-latest-search-upgrade-promises-better-answers-to-your-most-co.png": {
