@@ -115120,12 +115120,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-14/exclusive-this-young-startup-wants-to-power-floating-data-centers-with.png": {
-      "buffer_due_at_utc": "2026-11-13T22:21:53.000Z",
+      "buffer_due_at_utc": "2026-11-13T22:23:53.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af7848e9257ce3398120d1f",
+      "buffer_post_id": "6af7849378196a0a9721df28",
       "caption_file": "output/2026-11-14/exclusive-this-young-startup-wants-to-power-floating-data-centers-with.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-13T22:23:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af7849378196a0a9721df28",
+          "published_at_utc": "2026-11-13T21:43:47Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-13T22:21:53.000Z",
           "buffer_mode": "customScheduled",
@@ -115135,7 +115141,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-14/exclusive-this-young-startup-wants-to-power-floating-data-centers-with.png",
       "metadata_file": "output/2026-11-14/exclusive-this-young-startup-wants-to-power-floating-data-centers-with.json",
-      "published_at_utc": "2026-11-13T21:43:42Z",
+      "published_at_utc": "2026-11-13T21:43:47Z",
       "publisher": "buffer_threads"
     }
   }
