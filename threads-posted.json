@@ -115019,6 +115019,25 @@
       "published_at_utc": "2026-11-13T01:01:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-i.png": {
+      "buffer_due_at_utc": "2026-11-13T16:40:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af7303d86c72c18f3ee9744",
+      "caption_file": "output/2026-11-13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-i.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-13T16:40:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af7303d86c72c18f3ee9744",
+          "published_at_utc": "2026-11-13T15:43:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-i.png",
+      "metadata_file": "output/2026-11-13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-i.json",
+      "published_at_utc": "2026-11-13T15:43:57Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-13/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecu.png": {
       "buffer_due_at_utc": "2026-11-13T08:38:44.000Z",
       "buffer_mode": "customScheduled",
