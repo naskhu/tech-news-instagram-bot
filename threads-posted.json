@@ -115569,6 +115569,25 @@
       "published_at_utc": "2026-11-14T20:03:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-15/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions.png": {
+      "buffer_due_at_utc": "2026-11-15T00:24:10.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af8f2b6c5b364e0622286e5",
+      "caption_file": "output/2026-11-15/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-15T00:24:10.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af8f2b6c5b364e0622286e5",
+          "published_at_utc": "2026-11-14T23:45:58Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions.png",
+      "metadata_file": "output/2026-11-15/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions.json",
+      "published_at_utc": "2026-11-14T23:45:58Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.png": {
       "buffer_due_at_utc": "2026-11-14T20:43:44.000Z",
       "buffer_mode": "customScheduled",
