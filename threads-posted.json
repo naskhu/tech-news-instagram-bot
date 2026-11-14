@@ -115543,6 +115543,25 @@
       "metadata_file": "output/2026-11-15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-m.json",
       "published_at_utc": "2026-11-14T20:03:39Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-15/transportation-secretary-blames-routine-equipment-upgrade-for-groundin.png": {
+      "buffer_due_at_utc": "2026-11-14T21:00:39.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af8bea1e86a5789a6cc3090",
+      "caption_file": "output/2026-11-15/transportation-secretary-blames-routine-equipment-upgrade-for-groundin.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-14T21:00:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af8bea1e86a5789a6cc3090",
+          "published_at_utc": "2026-11-14T20:03:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/transportation-secretary-blames-routine-equipment-upgrade-for-groundin.png",
+      "metadata_file": "output/2026-11-15/transportation-secretary-blames-routine-equipment-upgrade-for-groundin.json",
+      "published_at_utc": "2026-11-14T20:03:45Z",
+      "publisher": "buffer_threads"
     }
   }
 }
