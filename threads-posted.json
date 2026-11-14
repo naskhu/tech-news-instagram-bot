@@ -115520,12 +115520,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstat.png": {
-      "buffer_due_at_utc": "2026-11-15T00:05:15.000Z",
+      "buffer_due_at_utc": "2026-11-15T00:07:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af8f2abe86a5789a6db073a",
+      "buffer_post_id": "6af8f2b076c23bf1c74914d6",
       "caption_file": "output/2026-11-15/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstat.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-15T00:07:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af8f2b076c23bf1c74914d6",
+          "published_at_utc": "2026-11-14T23:45:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-15T00:05:15.000Z",
           "buffer_mode": "customScheduled",
@@ -115535,7 +115541,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstat.png",
       "metadata_file": "output/2026-11-15/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstat.json",
-      "published_at_utc": "2026-11-14T23:45:47Z",
+      "published_at_utc": "2026-11-14T23:45:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/got-an-iphone-duo-these-9-settings-make-it-easier-to-use-techcrunch.png": {
