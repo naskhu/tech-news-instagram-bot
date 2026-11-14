@@ -115194,6 +115194,25 @@
       "published_at_utc": "2026-11-13T21:43:59Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-14/here-are-our-favorite-deals-from-rei-s-giant-holiday-sale.png": {
+      "buffer_due_at_utc": "2026-11-14T15:23:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af87cca76c23bf1c7233963",
+      "caption_file": "output/2026-11-14/here-are-our-favorite-deals-from-rei-s-giant-holiday-sale.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-14T15:23:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af87cca76c23bf1c7233963",
+          "published_at_utc": "2026-11-14T15:22:51Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-14/here-are-our-favorite-deals-from-rei-s-giant-holiday-sale.png",
+      "metadata_file": "output/2026-11-14/here-are-our-favorite-deals-from-rei-s-giant-holiday-sale.json",
+      "published_at_utc": "2026-11-14T15:22:51Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-14/in-light-of-today-s-nationwide-ground-stop.png": {
       "buffer_due_at_utc": "2026-11-14T08:31:46.000Z",
       "buffer_mode": "customScheduled",
