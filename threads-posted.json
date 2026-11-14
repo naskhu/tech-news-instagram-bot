@@ -115295,12 +115295,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-14/spacex-starship-launch-successful-but-a-booster-went-boom.png": {
-      "buffer_due_at_utc": "2026-11-14T09:26:31.000Z",
+      "buffer_due_at_utc": "2026-11-14T09:28:31.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af81beed8bd2962e417f335",
+      "buffer_post_id": "6af81bf481e1228421f30786",
       "caption_file": "output/2026-11-14/spacex-starship-launch-successful-but-a-booster-went-boom.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-14T09:28:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af81bf481e1228421f30786",
+          "published_at_utc": "2026-11-14T08:29:40Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-14T09:26:31.000Z",
           "buffer_mode": "customScheduled",
@@ -115310,7 +115316,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-14/spacex-starship-launch-successful-but-a-booster-went-boom.png",
       "metadata_file": "output/2026-11-14/spacex-starship-launch-successful-but-a-booster-went-boom.json",
-      "published_at_utc": "2026-11-14T08:29:35Z",
+      "published_at_utc": "2026-11-14T08:29:40Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-14/the-unfolding-jensen-huang-scandal-a-timeline-techcrunch.png": {
