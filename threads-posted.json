@@ -115344,6 +115344,25 @@
       "published_at_utc": "2026-11-14T15:23:08Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-14/of-course-elon-musk-wants-jensen-huang-to-get-his-job-back.png": {
+      "buffer_due_at_utc": "2026-11-14T16:01:25.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af87ce2e5a113497a8f3e08",
+      "caption_file": "output/2026-11-14/of-course-elon-musk-wants-jensen-huang-to-get-his-job-back.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-14T16:01:25.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af87ce2e5a113497a8f3e08",
+          "published_at_utc": "2026-11-14T15:23:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-14/of-course-elon-musk-wants-jensen-huang-to-get-his-job-back.png",
+      "metadata_file": "output/2026-11-14/of-course-elon-musk-wants-jensen-huang-to-get-his-job-back.json",
+      "published_at_utc": "2026-11-14T15:23:14Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-14/spacex-starship-launch-successful-but-a-booster-went-boom.png": {
       "buffer_due_at_utc": "2026-11-14T09:28:31.000Z",
       "buffer_mode": "customScheduled",
