@@ -115219,6 +115219,25 @@
       "published_at_utc": "2026-11-14T08:29:07Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-14/jensen-huang-didn-t-show-confidence-in-his-successor-report-says-techc.png": {
+      "buffer_due_at_utc": "2026-11-14T08:48:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af81bd9bb36d00909f995e4",
+      "caption_file": "output/2026-11-14/jensen-huang-didn-t-show-confidence-in-his-successor-report-says-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-14T08:48:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af81bd9bb36d00909f995e4",
+          "published_at_utc": "2026-11-14T08:29:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-14/jensen-huang-didn-t-show-confidence-in-his-successor-report-says-techc.png",
+      "metadata_file": "output/2026-11-14/jensen-huang-didn-t-show-confidence-in-his-successor-report-says-techc.json",
+      "published_at_utc": "2026-11-14T08:29:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-14/jensen-huang-s-departure-blasts-big-hole-in-ai-startup-funding-vcs-and.png": {
       "buffer_due_at_utc": "2026-11-14T02:08:13.000Z",
       "buffer_mode": "customScheduled",
