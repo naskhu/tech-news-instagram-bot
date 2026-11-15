@@ -115743,6 +115743,25 @@
       "metadata_file": "output/2026-11-15/where-was-nvidia-s-security-team-techcrunch.json",
       "published_at_utc": "2026-11-15T04:17:49Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-15/work-to-replace-old-copper-wire-led-to-the-faa-s-ground-stop.png": {
+      "buffer_due_at_utc": "2026-11-15T05:14:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af93272b9a106584c887b5c",
+      "caption_file": "output/2026-11-15/work-to-replace-old-copper-wire-led-to-the-faa-s-ground-stop.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-15T05:14:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af93272b9a106584c887b5c",
+          "published_at_utc": "2026-11-15T04:17:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/work-to-replace-old-copper-wire-led-to-the-faa-s-ground-stop.png",
+      "metadata_file": "output/2026-11-15/work-to-replace-old-copper-wire-led-to-the-faa-s-ground-stop.json",
+      "published_at_utc": "2026-11-15T04:17:54Z",
+      "publisher": "buffer_threads"
     }
   }
 }
