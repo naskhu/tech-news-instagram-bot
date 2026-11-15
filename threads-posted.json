@@ -115744,6 +115744,25 @@
       "published_at_utc": "2026-11-15T12:06:22Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-15/thoughts-and-prayers-to-anyone-flying-today.png": {
+      "buffer_due_at_utc": "2026-11-15T13:03:24.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af9a043e86a5789a60ac634",
+      "caption_file": "output/2026-11-15/thoughts-and-prayers-to-anyone-flying-today.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-15T13:03:24.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af9a043e86a5789a60ac634",
+          "published_at_utc": "2026-11-15T12:06:27Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/thoughts-and-prayers-to-anyone-flying-today.png",
+      "metadata_file": "output/2026-11-15/thoughts-and-prayers-to-anyone-flying-today.json",
+      "published_at_utc": "2026-11-15T12:06:27Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-15/transportation-secretary-blames-routine-equipment-upgrade-for-groundin.png": {
       "buffer_due_at_utc": "2026-11-14T21:02:39.000Z",
       "buffer_mode": "customScheduled",
