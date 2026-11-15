@@ -115544,6 +115544,25 @@
       "published_at_utc": "2026-11-14T23:45:52Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-15/free-speech-group-says-the-government-agreed-to-back-off-ice-monitorin.png": {
+      "buffer_due_at_utc": "2026-11-15T04:18:07.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6af93252e5a113497ac627a0",
+      "caption_file": "output/2026-11-15/free-speech-group-says-the-government-agreed-to-back-off-ice-monitorin.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-15T04:18:07.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af93252e5a113497ac627a0",
+          "published_at_utc": "2026-11-15T04:17:22Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/free-speech-group-says-the-government-agreed-to-back-off-ice-monitorin.png",
+      "metadata_file": "output/2026-11-15/free-speech-group-says-the-government-agreed-to-back-off-ice-monitorin.json",
+      "published_at_utc": "2026-11-15T04:17:22Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-15/got-an-iphone-duo-these-9-settings-make-it-easier-to-use-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-14T20:24:49.000Z",
       "buffer_mode": "customScheduled",
