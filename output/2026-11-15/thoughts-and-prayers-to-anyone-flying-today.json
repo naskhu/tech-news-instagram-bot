@@ -1,0 +1,23 @@
+{
+  "title": "Thoughts and prayers to anyone flying today.",
+  "summary": "Nearly 15 percent of all flights scheduled to depart the US on Saturday have been canceled following a nationwide ground stop , according to data from aviation analytics firm Cirium as of 8:30AM ET.",
+  "source": "The Verge",
+  "url": "https://theverge.com/transportation/1033891/thoughts-and-prayers-to-anyone-flying-today",
+  "published_utc": "2026-11-14T15:44:55+00:00",
+  "output_day": "2026-11-15",
+  "date_source": "meta",
+  "generated_utc": "2026-11-15T12:04:05.225869+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-11-15/thoughts-and-prayers-to-anyone-flying-today.png",
+  "caption": "output/2026-11-15/thoughts-and-prayers-to-anyone-flying-today.txt"
+}
