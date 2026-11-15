@@ -115645,12 +115645,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/spacex-returned-its-starship-rocket-on-saturday-but-there-s-a-catch.png": {
-      "buffer_due_at_utc": "2026-11-15T12:25:34.000Z",
+      "buffer_due_at_utc": "2026-11-15T12:27:34.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af9a02d918fe79d2edf05c5",
+      "buffer_post_id": "6af9a033e86a5789a60ac25d",
       "caption_file": "output/2026-11-15/spacex-returned-its-starship-rocket-on-saturday-but-there-s-a-catch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-15T12:27:34.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af9a033e86a5789a60ac25d",
+          "published_at_utc": "2026-11-15T12:06:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-15T12:25:34.000Z",
           "buffer_mode": "customScheduled",
@@ -115660,7 +115666,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/spacex-returned-its-starship-rocket-on-saturday-but-there-s-a-catch.png",
       "metadata_file": "output/2026-11-15/spacex-returned-its-starship-rocket-on-saturday-but-there-s-a-catch.json",
-      "published_at_utc": "2026-11-15T12:06:06Z",
+      "published_at_utc": "2026-11-15T12:06:11Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions.png": {
