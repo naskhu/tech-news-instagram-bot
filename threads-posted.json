@@ -115571,10 +115571,15 @@
     },
     "output/2026-11-15/flaming-hydra-s-new-kickstarter-campaign-rethinks-e-book-ownership-and.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6af9fd0955ad64be504ecaa8",
+      "buffer_post_id": "6af9fd18c5b364e062756cfd",
       "caption_file": "output/2026-11-15/flaming-hydra-s-new-kickstarter-campaign-rethinks-e-book-ownership-and.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6af9fd18c5b364e062756cfd",
+          "published_at_utc": "2026-11-15T18:42:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6af9fd0955ad64be504ecaa8",
@@ -115583,7 +115588,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/flaming-hydra-s-new-kickstarter-campaign-rethinks-e-book-ownership-and.png",
       "metadata_file": "output/2026-11-15/flaming-hydra-s-new-kickstarter-campaign-rethinks-e-book-ownership-and.json",
-      "published_at_utc": "2026-11-15T18:42:27Z",
+      "published_at_utc": "2026-11-15T18:42:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/free-speech-group-says-the-government-agreed-to-back-off-ice-monitorin.png": {
