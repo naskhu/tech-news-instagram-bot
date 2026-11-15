@@ -115720,12 +115720,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/this-tiny-gamepad-with-dual-analog-thumbsticks-pushes-the-limits-of-po.png": {
-      "buffer_due_at_utc": "2026-11-15T12:44:29.000Z",
+      "buffer_due_at_utc": "2026-11-15T12:46:29.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af9a038c5b364e06253423e",
+      "buffer_post_id": "6af9a03e76c23bf1c779b1a8",
       "caption_file": "output/2026-11-15/this-tiny-gamepad-with-dual-analog-thumbsticks-pushes-the-limits-of-po.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-15T12:46:29.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af9a03e76c23bf1c779b1a8",
+          "published_at_utc": "2026-11-15T12:06:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-15T12:44:29.000Z",
           "buffer_mode": "customScheduled",
@@ -115735,7 +115741,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/this-tiny-gamepad-with-dual-analog-thumbsticks-pushes-the-limits-of-po.png",
       "metadata_file": "output/2026-11-15/this-tiny-gamepad-with-dual-analog-thumbsticks-pushes-the-limits-of-po.json",
-      "published_at_utc": "2026-11-15T12:06:16Z",
+      "published_at_utc": "2026-11-15T12:06:22Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/transportation-secretary-blames-routine-equipment-upgrade-for-groundin.png": {
