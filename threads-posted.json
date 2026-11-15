@@ -115470,12 +115470,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/a-gadget-to-make-your-dumb-house-smarter.png": {
-      "buffer_due_at_utc": "2026-11-15T12:06:39.000Z",
+      "buffer_due_at_utc": "2026-11-15T12:08:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6af9a022e5a113497ae5d5d8",
+      "buffer_post_id": "6af9a028e5a113497ae5d850",
       "caption_file": "output/2026-11-15/a-gadget-to-make-your-dumb-house-smarter.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-15T12:08:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6af9a028e5a113497ae5d850",
+          "published_at_utc": "2026-11-15T12:06:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-15T12:06:39.000Z",
           "buffer_mode": "customScheduled",
@@ -115485,7 +115491,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/a-gadget-to-make-your-dumb-house-smarter.png",
       "metadata_file": "output/2026-11-15/a-gadget-to-make-your-dumb-house-smarter.json",
-      "published_at_utc": "2026-11-15T12:05:54Z",
+      "published_at_utc": "2026-11-15T12:06:00Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-15/asian-governments-react-to-nvidia-ceo-jensen-huang-s-exit-techcrunch.png": {
