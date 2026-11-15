@@ -115956,6 +115956,25 @@
       "metadata_file": "output/2026-11-15/work-to-replace-old-copper-wire-led-to-the-faa-s-ground-stop.json",
       "published_at_utc": "2026-11-15T04:18:00Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-16/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry-techcru.png": {
+      "buffer_due_at_utc": "2026-11-15T23:14:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afa3ca2ff465c57dabb342b",
+      "caption_file": "output/2026-11-16/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry-techcru.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-15T23:14:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afa3ca2ff465c57dabb342b",
+          "published_at_utc": "2026-11-15T23:13:38Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-16/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry-techcru.png",
+      "metadata_file": "output/2026-11-16/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry-techcru.json",
+      "published_at_utc": "2026-11-15T23:13:38Z",
+      "publisher": "buffer_threads"
     }
   }
 }
