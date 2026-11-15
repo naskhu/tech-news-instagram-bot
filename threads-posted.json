@@ -115713,6 +115713,23 @@
       "published_at_utc": "2026-11-15T12:06:11Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-15/techcrunch-mobility-the-nvidia-backup-plan-for-china-s-self-driving-in.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6af9fd47b9a106584cc9dca9",
+      "caption_file": "output/2026-11-15/techcrunch-mobility-the-nvidia-backup-plan-for-china-s-self-driving-in.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6af9fd47b9a106584cc9dca9",
+          "published_at_utc": "2026-11-15T18:43:29Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-15/techcrunch-mobility-the-nvidia-backup-plan-for-china-s-self-driving-in.png",
+      "metadata_file": "output/2026-11-15/techcrunch-mobility-the-nvidia-backup-plan-for-china-s-self-driving-in.json",
+      "published_at_utc": "2026-11-15T18:43:29Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-15/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions.png": {
       "buffer_due_at_utc": "2026-11-15T00:26:10.000Z",
       "buffer_mode": "customScheduled",
