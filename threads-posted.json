@@ -116057,6 +116057,25 @@
       "published_at_utc": "2026-11-16T10:33:36Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-16/helsing-backer-plural-raises-1-1b-to-fund-europe-s-next-moonshots-tech.png": {
+      "buffer_due_at_utc": "2026-11-16T11:11:51.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afadc0691ba8aa74bc85bc3",
+      "caption_file": "output/2026-11-16/helsing-backer-plural-raises-1-1b-to-fund-europe-s-next-moonshots-tech.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-16T11:11:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afadc0691ba8aa74bc85bc3",
+          "published_at_utc": "2026-11-16T10:33:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-16/helsing-backer-plural-raises-1-1b-to-fund-europe-s-next-moonshots-tech.png",
+      "metadata_file": "output/2026-11-16/helsing-backer-plural-raises-1-1b-to-fund-europe-s-next-moonshots-tech.json",
+      "published_at_utc": "2026-11-16T10:33:43Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-16/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global.png": {
       "buffer_due_at_utc": "2026-11-16T03:31:40.000Z",
       "buffer_mode": "customScheduled",
