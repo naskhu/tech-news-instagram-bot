@@ -116331,6 +116331,25 @@
       "metadata_file": "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.json",
       "published_at_utc": "2026-11-16T20:44:31Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.png": {
+      "buffer_due_at_utc": "2026-11-16T21:41:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afb6b355c671a37dd5bca57",
+      "caption_file": "output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-16T21:41:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afb6b355c671a37dd5bca57",
+          "published_at_utc": "2026-11-16T20:44:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.png",
+      "metadata_file": "output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.json",
+      "published_at_utc": "2026-11-16T20:44:37Z",
+      "publisher": "buffer_threads"
     }
   }
 }
