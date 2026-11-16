@@ -116033,12 +116033,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-16/fanttik-s-s1-pro-electric-screwdriver-is-40-off-in-the-run-up-to-black.png": {
-      "buffer_due_at_utc": "2026-11-16T10:52:56.000Z",
+      "buffer_due_at_utc": "2026-11-16T10:54:56.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afadbfa37f9e5273bdd75f9",
+      "buffer_post_id": "6afadc0091ba8aa74bc85a4f",
       "caption_file": "output/2026-11-16/fanttik-s-s1-pro-electric-screwdriver-is-40-off-in-the-run-up-to-black.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-16T10:54:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afadc0091ba8aa74bc85a4f",
+          "published_at_utc": "2026-11-16T10:33:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-16T10:52:56.000Z",
           "buffer_mode": "customScheduled",
@@ -116048,7 +116054,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-16/fanttik-s-s1-pro-electric-screwdriver-is-40-off-in-the-run-up-to-black.png",
       "metadata_file": "output/2026-11-16/fanttik-s-s1-pro-electric-screwdriver-is-40-off-in-the-run-up-to-black.json",
-      "published_at_utc": "2026-11-16T10:33:30Z",
+      "published_at_utc": "2026-11-16T10:33:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-16/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global.png": {
