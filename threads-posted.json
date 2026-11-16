@@ -116183,12 +116183,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-16/microsoft-is-bringing-back-the-original-xbox-bootup-animation.png": {
-      "buffer_due_at_utc": "2026-11-16T11:30:46.000Z",
+      "buffer_due_at_utc": "2026-11-16T11:32:46.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afadc130c2af02527d45723",
+      "buffer_post_id": "6afadc190c2af02527d4594e",
       "caption_file": "output/2026-11-16/microsoft-is-bringing-back-the-original-xbox-bootup-animation.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-16T11:32:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afadc190c2af02527d4594e",
+          "published_at_utc": "2026-11-16T10:34:01Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-16T11:30:46.000Z",
           "buffer_mode": "customScheduled",
@@ -116198,7 +116204,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-16/microsoft-is-bringing-back-the-original-xbox-bootup-animation.png",
       "metadata_file": "output/2026-11-16/microsoft-is-bringing-back-the-original-xbox-bootup-animation.json",
-      "published_at_utc": "2026-11-16T10:33:55Z",
+      "published_at_utc": "2026-11-16T10:34:01Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-16/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft-t.png": {
