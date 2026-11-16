@@ -116308,12 +116308,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.png": {
-      "buffer_due_at_utc": "2026-11-16T21:22:37.000Z",
+      "buffer_due_at_utc": "2026-11-16T21:24:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afb6b299c7c07cbc850a25f",
+      "buffer_post_id": "6afb6b2f3509d4c5b88261d8",
       "caption_file": "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-16T21:24:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afb6b2f3509d4c5b88261d8",
+          "published_at_utc": "2026-11-16T20:44:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-16T21:22:37.000Z",
           "buffer_mode": "customScheduled",
@@ -116323,7 +116329,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.png",
       "metadata_file": "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.json",
-      "published_at_utc": "2026-11-16T20:44:26Z",
+      "published_at_utc": "2026-11-16T20:44:31Z",
       "publisher": "buffer_threads"
     }
   }
