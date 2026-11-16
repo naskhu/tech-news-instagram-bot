@@ -116333,12 +116333,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.png": {
-      "buffer_due_at_utc": "2026-11-16T21:41:32.000Z",
+      "buffer_due_at_utc": "2026-11-16T21:43:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afb6b355c671a37dd5bca57",
+      "buffer_post_id": "6afb6b3be9e30bcd5a8c8e6b",
       "caption_file": "output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-16T21:43:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afb6b3be9e30bcd5a8c8e6b",
+          "published_at_utc": "2026-11-16T20:44:43Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-16T21:41:32.000Z",
           "buffer_mode": "customScheduled",
@@ -116348,7 +116354,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.png",
       "metadata_file": "output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.json",
-      "published_at_utc": "2026-11-16T20:44:37Z",
+      "published_at_utc": "2026-11-16T20:44:43Z",
       "publisher": "buffer_threads"
     }
   }
