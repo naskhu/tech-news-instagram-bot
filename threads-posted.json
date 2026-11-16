@@ -116058,12 +116058,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-16/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-.png": {
-      "buffer_due_at_utc": "2026-11-16T03:48:35.000Z",
+      "buffer_due_at_utc": "2026-11-16T03:50:35.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afa6fbc8e87c256a3a9e14b",
+      "buffer_post_id": "6afa6fc2ff465c57dacadd4e",
       "caption_file": "output/2026-11-16/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-16T03:50:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afa6fc2ff465c57dacadd4e",
+          "published_at_utc": "2026-11-16T02:51:46Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-16T03:48:35.000Z",
           "buffer_mode": "customScheduled",
@@ -116073,7 +116079,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-16/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-.png",
       "metadata_file": "output/2026-11-16/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-.json",
-      "published_at_utc": "2026-11-16T02:51:40Z",
+      "published_at_utc": "2026-11-16T02:51:46Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-16/listen-to-this-armand-hammer-s-snakes-ladders.png": {
