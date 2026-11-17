@@ -116458,12 +116458,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-17/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine-te.png": {
-      "buffer_due_at_utc": "2026-11-17T12:39:51.000Z",
+      "buffer_due_at_utc": "2026-11-17T12:41:51.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afc42269d7d4c6b785a2618",
+      "buffer_post_id": "6afc422c6d6484cf6f18fed5",
       "caption_file": "output/2026-11-17/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-17T12:41:51.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afc422c6d6484cf6f18fed5",
+          "published_at_utc": "2026-11-17T12:01:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-17T12:39:51.000Z",
           "buffer_mode": "customScheduled",
@@ -116473,7 +116479,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine-te.png",
       "metadata_file": "output/2026-11-17/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine-te.json",
-      "published_at_utc": "2026-11-17T12:01:42Z",
+      "published_at_utc": "2026-11-17T12:01:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.png": {
