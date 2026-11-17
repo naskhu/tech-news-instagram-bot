@@ -116358,12 +116358,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-17/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-c.png": {
-      "buffer_due_at_utc": "2026-11-17T03:51:42.000Z",
+      "buffer_due_at_utc": "2026-11-17T03:53:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afbc65c3e42cd001e4a9bdd",
+      "buffer_post_id": "6afbc6614b26315855b96cb8",
       "caption_file": "output/2026-11-17/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-c.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-17T03:53:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afbc6614b26315855b96cb8",
+          "published_at_utc": "2026-11-17T03:13:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-17T03:51:42.000Z",
           "buffer_mode": "customScheduled",
@@ -116373,7 +116379,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-c.png",
       "metadata_file": "output/2026-11-17/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-c.json",
-      "published_at_utc": "2026-11-17T03:13:32Z",
+      "published_at_utc": "2026-11-17T03:13:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.png": {
