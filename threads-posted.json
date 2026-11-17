@@ -116307,6 +116307,25 @@
       "published_at_utc": "2026-11-16T20:44:09Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-17/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-ris.png": {
+      "buffer_due_at_utc": "2026-11-17T03:32:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afbc650df36f4d825653d69",
+      "caption_file": "output/2026-11-17/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-ris.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-17T03:32:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afbc650df36f4d825653d69",
+          "published_at_utc": "2026-11-17T03:13:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-ris.png",
+      "metadata_file": "output/2026-11-17/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-ris.json",
+      "published_at_utc": "2026-11-17T03:13:20Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-17/california-state-ag-sues-openai-over-rogue-agent-incidents-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-16T21:05:42.000Z",
       "buffer_mode": "customScheduled",
