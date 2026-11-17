@@ -116482,6 +116482,25 @@
       "published_at_utc": "2026-11-17T12:01:48Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-17/tesla-goes-all-in-on-the-cybercab-with-upcoming-3b-berlin-gigafactory-.png": {
+      "buffer_due_at_utc": "2026-11-17T12:58:46.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afc423265882b4e0bd5f5f9",
+      "caption_file": "output/2026-11-17/tesla-goes-all-in-on-the-cybercab-with-upcoming-3b-berlin-gigafactory-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-17T12:58:46.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afc423265882b4e0bd5f5f9",
+          "published_at_utc": "2026-11-17T12:01:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/tesla-goes-all-in-on-the-cybercab-with-upcoming-3b-berlin-gigafactory-.png",
+      "metadata_file": "output/2026-11-17/tesla-goes-all-in-on-the-cybercab-with-upcoming-3b-berlin-gigafactory-.json",
+      "published_at_utc": "2026-11-17T12:01:54Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.png": {
       "buffer_due_at_utc": "2026-11-16T21:24:37.000Z",
       "buffer_mode": "customScheduled",
