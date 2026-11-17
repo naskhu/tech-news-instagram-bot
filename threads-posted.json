@@ -116606,6 +116606,25 @@
       "metadata_file": "output/2026-11-18/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purcha.json",
       "published_at_utc": "2026-11-17T20:34:17Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-18/model-ml-raises-250m-to-automate-investment-banking-grunt-work-techcru.png": {
+      "buffer_due_at_utc": "2026-11-17T21:12:31.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afcba4f33c71271f8c9764d",
+      "caption_file": "output/2026-11-18/model-ml-raises-250m-to-automate-investment-banking-grunt-work-techcru.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-17T21:12:31.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afcba4f33c71271f8c9764d",
+          "published_at_utc": "2026-11-17T20:34:23Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-18/model-ml-raises-250m-to-automate-investment-banking-grunt-work-techcru.png",
+      "metadata_file": "output/2026-11-18/model-ml-raises-250m-to-automate-investment-banking-grunt-work-techcru.json",
+      "published_at_utc": "2026-11-17T20:34:23Z",
+      "publisher": "buffer_threads"
     }
   }
 }
