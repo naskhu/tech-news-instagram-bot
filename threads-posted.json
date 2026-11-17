@@ -116383,12 +116383,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-17/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months-.png": {
-      "buffer_due_at_utc": "2026-11-17T04:10:37.000Z",
+      "buffer_due_at_utc": "2026-11-17T04:12:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afbc6673e42cd001e4a9dba",
+      "buffer_post_id": "6afbc66d85dca6b14a196f6f",
       "caption_file": "output/2026-11-17/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-17T04:12:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afbc66d85dca6b14a196f6f",
+          "published_at_utc": "2026-11-17T03:13:49Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-17T04:10:37.000Z",
           "buffer_mode": "customScheduled",
@@ -116398,7 +116404,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months-.png",
       "metadata_file": "output/2026-11-17/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months-.json",
-      "published_at_utc": "2026-11-17T03:13:43Z",
+      "published_at_utc": "2026-11-17T03:13:49Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.png": {
