@@ -116432,6 +116432,25 @@
       "published_at_utc": "2026-11-17T12:01:23Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-17/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into.png": {
+      "buffer_due_at_utc": "2026-11-17T12:20:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afc42199d7d4c6b785a10ea",
+      "caption_file": "output/2026-11-17/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-17T12:20:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afc42199d7d4c6b785a10ea",
+          "published_at_utc": "2026-11-17T12:01:29Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-17/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into.png",
+      "metadata_file": "output/2026-11-17/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into.json",
+      "published_at_utc": "2026-11-17T12:01:29Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-17/trump-says-ex-nvidia-ceo-jensen-huang-s-affair-with-an-alleged-chinese.png": {
       "buffer_due_at_utc": "2026-11-16T21:24:37.000Z",
       "buffer_mode": "customScheduled",
