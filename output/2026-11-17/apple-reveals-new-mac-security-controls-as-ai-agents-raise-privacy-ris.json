@@ -1,0 +1,23 @@
+{
+  "title": "Apple reveals new Mac security controls as AI agents raise privacy risks | TechCrunch",
+  "summary": "For starters, it’s splitting up Device Control and Data Access into two settings: System & App Protection Override and Accessibility. Similar guidance will appear when users enable Full Disk Access to allow an app to access their folders.",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks",
+  "published_utc": "2026-11-16T21:01:02+00:00",
+  "output_day": "2026-11-17",
+  "date_source": "meta",
+  "generated_utc": "2026-11-17T03:11:19.474149+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 2,
+  "theme_accent_rgb": [
+    16,
+    185,
+    110
+  ],
+  "image": "output/2026-11-17/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-ris.png",
+  "caption": "output/2026-11-17/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-ris.txt"
+}
