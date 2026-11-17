@@ -116556,6 +116556,25 @@
       "metadata_file": "output/2026-11-17/uber-says-hackers-stole-information-on-close-to-150-000-driver-s-licen.json",
       "published_at_utc": "2026-11-16T20:44:43Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-18/apple-services-including-icloud-app-store-apple-music-and-more-hit-by-.png": {
+      "buffer_due_at_utc": "2026-11-17T20:34:41.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afcba3533c71271f8c971dc",
+      "caption_file": "output/2026-11-18/apple-services-including-icloud-app-store-apple-music-and-more-hit-by-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-17T20:34:41.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afcba3533c71271f8c971dc",
+          "published_at_utc": "2026-11-17T20:33:57Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-18/apple-services-including-icloud-app-store-apple-music-and-more-hit-by-.png",
+      "metadata_file": "output/2026-11-18/apple-services-including-icloud-app-store-apple-music-and-more-hit-by-.json",
+      "published_at_utc": "2026-11-17T20:33:57Z",
+      "publisher": "buffer_threads"
     }
   }
 }
