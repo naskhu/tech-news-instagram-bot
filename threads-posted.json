@@ -116931,6 +116931,25 @@
       "metadata_file": "output/2026-11-19/more-banks-say-customers-using-ai-agents-are-on-their-own-even-if-they.json",
       "published_at_utc": "2026-11-18T19:07:14Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-19/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots-.png": {
+      "buffer_due_at_utc": "2026-11-18T20:04:08.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afdf768ad38b37352fa9882",
+      "caption_file": "output/2026-11-19/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-18T20:04:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afdf768ad38b37352fa9882",
+          "published_at_utc": "2026-11-18T19:07:20Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-19/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots-.png",
+      "metadata_file": "output/2026-11-19/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots-.json",
+      "published_at_utc": "2026-11-18T19:07:20Z",
+      "publisher": "buffer_threads"
     }
   }
 }
