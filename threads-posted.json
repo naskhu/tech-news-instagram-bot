@@ -116758,12 +116758,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-18/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-hu.png": {
-      "buffer_due_at_utc": "2026-11-18T11:21:42.000Z",
+      "buffer_due_at_utc": "2026-11-18T11:23:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afd815580767a5d60cd3f0b",
+      "buffer_post_id": "6afd815be6ccf7cfbbbed49d",
       "caption_file": "output/2026-11-18/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-hu.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-18T11:23:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afd815be6ccf7cfbbbed49d",
+          "published_at_utc": "2026-11-18T10:43:39Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-18T11:21:42.000Z",
           "buffer_mode": "customScheduled",
@@ -116773,7 +116779,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-18/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-hu.png",
       "metadata_file": "output/2026-11-18/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-hu.json",
-      "published_at_utc": "2026-11-18T10:43:33Z",
+      "published_at_utc": "2026-11-18T10:43:39Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-18/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories-tech.png": {
