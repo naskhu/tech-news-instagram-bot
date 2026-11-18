@@ -116708,12 +116708,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-18/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories-tech.png": {
-      "buffer_due_at_utc": "2026-11-18T03:37:05.000Z",
+      "buffer_due_at_utc": "2026-11-18T03:39:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afd100baa3b065dd969abe3",
+      "buffer_post_id": "6afd1011aa3b065dd969ad36",
       "caption_file": "output/2026-11-18/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories-tech.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-18T03:39:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afd1011aa3b065dd969ad36",
+          "published_at_utc": "2026-11-18T02:40:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-18T03:37:05.000Z",
           "buffer_mode": "customScheduled",
@@ -116723,7 +116729,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-18/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories-tech.png",
       "metadata_file": "output/2026-11-18/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories-tech.json",
-      "published_at_utc": "2026-11-18T02:40:11Z",
+      "published_at_utc": "2026-11-18T02:40:17Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-18/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order-tec.png": {
