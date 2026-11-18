@@ -116782,6 +116782,25 @@
       "published_at_utc": "2026-11-18T10:43:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-18/sec-reportedly-investigating-nvidia-amid-huang-exit-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-18T11:40:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afd8161e4de71c5c6dc88c7",
+      "caption_file": "output/2026-11-18/sec-reportedly-investigating-nvidia-amid-huang-exit-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-18T11:40:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afd8161e4de71c5c6dc88c7",
+          "published_at_utc": "2026-11-18T10:43:45Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-18/sec-reportedly-investigating-nvidia-amid-huang-exit-techcrunch.png",
+      "metadata_file": "output/2026-11-18/sec-reportedly-investigating-nvidia-amid-huang-exit-techcrunch.json",
+      "published_at_utc": "2026-11-18T10:43:45Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-18/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories-tech.png": {
       "buffer_due_at_utc": "2026-11-18T03:39:05.000Z",
       "buffer_mode": "customScheduled",
