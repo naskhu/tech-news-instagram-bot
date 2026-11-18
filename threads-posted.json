@@ -116658,12 +116658,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-18/nvidia-promises-that-revenue-will-keep-soaring-for-now-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-18T02:59:15.000Z",
+      "buffer_due_at_utc": "2026-11-18T03:01:15.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afd0ff4bb12698d15909a36",
+      "buffer_post_id": "6afd0ff99f3765f6ab2718a4",
       "caption_file": "output/2026-11-18/nvidia-promises-that-revenue-will-keep-soaring-for-now-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-18T03:01:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afd0ff99f3765f6ab2718a4",
+          "published_at_utc": "2026-11-18T02:39:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-18T02:59:15.000Z",
           "buffer_mode": "customScheduled",
@@ -116673,7 +116679,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-18/nvidia-promises-that-revenue-will-keep-soaring-for-now-techcrunch.png",
       "metadata_file": "output/2026-11-18/nvidia-promises-that-revenue-will-keep-soaring-for-now-techcrunch.json",
-      "published_at_utc": "2026-11-18T02:39:48Z",
+      "published_at_utc": "2026-11-18T02:39:53Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-18/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order-tec.png": {
