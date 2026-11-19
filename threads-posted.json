@@ -116857,6 +116857,25 @@
       "published_at_utc": "2026-11-17T20:34:40Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-19/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-in.png": {
+      "buffer_due_at_utc": "2026-11-19T01:19:58.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afe4e91b16549e9b814b14e",
+      "caption_file": "output/2026-11-19/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-in.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-19T01:19:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afe4e91b16549e9b814b14e",
+          "published_at_utc": "2026-11-19T01:19:13Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-19/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-in.png",
+      "metadata_file": "output/2026-11-19/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-in.json",
+      "published_at_utc": "2026-11-19T01:19:13Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-19/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite.png": {
       "buffer_due_at_utc": "2026-11-18T19:09:23.000Z",
       "buffer_mode": "customScheduled",
