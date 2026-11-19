@@ -117075,10 +117075,15 @@
     },
     "output/2026-11-19/meta-s-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-d.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6aff38e801da6c4df8d8f764",
+      "buffer_post_id": "6aff38f806d992381c754e86",
       "caption_file": "output/2026-11-19/meta-s-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-d.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6aff38f806d992381c754e86",
+          "published_at_utc": "2026-11-19T17:59:30Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6aff38e801da6c4df8d8f764",
@@ -117087,7 +117092,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-19/meta-s-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-d.png",
       "metadata_file": "output/2026-11-19/meta-s-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-d.json",
-      "published_at_utc": "2026-11-19T17:59:14Z",
+      "published_at_utc": "2026-11-19T17:59:30Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-19/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-qui.png": {
