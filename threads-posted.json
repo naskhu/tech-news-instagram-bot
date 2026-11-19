@@ -116983,12 +116983,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-19/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-qui.png": {
-      "buffer_due_at_utc": "2026-11-19T02:16:43.000Z",
+      "buffer_due_at_utc": "2026-11-19T02:18:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afe4eb33802f5b9fc59b5ae",
+      "buffer_post_id": "6afe4eb8b16549e9b814be55",
       "caption_file": "output/2026-11-19/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-qui.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-19T02:18:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afe4eb8b16549e9b814be55",
+          "published_at_utc": "2026-11-19T01:19:52Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-19T02:16:43.000Z",
           "buffer_mode": "customScheduled",
@@ -116998,7 +117004,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-19/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-qui.png",
       "metadata_file": "output/2026-11-19/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-qui.json",
-      "published_at_utc": "2026-11-19T01:19:47Z",
+      "published_at_utc": "2026-11-19T01:19:52Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-19/more-banks-say-customers-using-ai-agents-are-on-their-own-even-if-they.png": {
