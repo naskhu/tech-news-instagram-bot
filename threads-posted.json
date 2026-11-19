@@ -116933,12 +116933,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-19/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off.png": {
-      "buffer_due_at_utc": "2026-11-19T01:57:48.000Z",
+      "buffer_due_at_utc": "2026-11-19T01:59:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afe4ea83802f5b9fc59b344",
+      "buffer_post_id": "6afe4ead3802f5b9fc59b402",
       "caption_file": "output/2026-11-19/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-19T01:59:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afe4ead3802f5b9fc59b402",
+          "published_at_utc": "2026-11-19T01:19:41Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-19T01:57:48.000Z",
           "buffer_mode": "customScheduled",
@@ -116948,7 +116954,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-19/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off.png",
       "metadata_file": "output/2026-11-19/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off.json",
-      "published_at_utc": "2026-11-19T01:19:36Z",
+      "published_at_utc": "2026-11-19T01:19:41Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-19/google-s-ai-feature-in-search-gets-its-own-incognito-mode-techcrunch.png": {
