@@ -117245,6 +117245,25 @@
       "published_at_utc": "2026-11-19T08:55:39Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-20/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models-techc.png": {
+      "buffer_due_at_utc": "2026-11-20T07:28:21.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afff6697b0a126cebb7b1e5",
+      "caption_file": "output/2026-11-20/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models-techc.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-20T07:28:21.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afff6697b0a126cebb7b1e5",
+          "published_at_utc": "2026-11-20T07:27:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models-techc.png",
+      "metadata_file": "output/2026-11-20/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models-techc.json",
+      "published_at_utc": "2026-11-20T07:27:37Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.png": {
       "buffer_due_at_utc": "2026-11-20T00:16:52.000Z",
       "buffer_mode": "customScheduled",
