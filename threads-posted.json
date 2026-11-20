@@ -117270,6 +117270,25 @@
       "published_at_utc": "2026-11-20T07:27:43Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-20/anthropic-s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo-tec.png": {
+      "buffer_due_at_utc": "2026-11-20T07:47:16.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afff675ca85ebefb0054218",
+      "caption_file": "output/2026-11-20/anthropic-s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo-tec.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-20T07:47:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afff675ca85ebefb0054218",
+          "published_at_utc": "2026-11-20T07:27:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/anthropic-s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo-tec.png",
+      "metadata_file": "output/2026-11-20/anthropic-s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo-tec.json",
+      "published_at_utc": "2026-11-20T07:27:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.png": {
       "buffer_due_at_utc": "2026-11-20T00:16:52.000Z",
       "buffer_mode": "customScheduled",
