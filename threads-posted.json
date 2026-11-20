@@ -117346,12 +117346,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/behind-jensen-huang-s-exit-questions-about-a-management-style-reported.png": {
-      "buffer_due_at_utc": "2026-11-20T16:44:11.000Z",
+      "buffer_due_at_utc": "2026-11-20T16:46:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b00744c825e970fbdf95265",
+      "buffer_post_id": "6b0074518323fb252aa31bfc",
       "caption_file": "output/2026-11-20/behind-jensen-huang-s-exit-questions-about-a-management-style-reported.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-20T16:46:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0074518323fb252aa31bfc",
+          "published_at_utc": "2026-11-20T16:24:50Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-20T16:44:11.000Z",
           "buffer_mode": "customScheduled",
@@ -117361,7 +117367,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/behind-jensen-huang-s-exit-questions-about-a-management-style-reported.png",
       "metadata_file": "output/2026-11-20/behind-jensen-huang-s-exit-questions-about-a-management-style-reported.json",
-      "published_at_utc": "2026-11-20T16:24:44Z",
+      "published_at_utc": "2026-11-20T16:24:50Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.png": {
