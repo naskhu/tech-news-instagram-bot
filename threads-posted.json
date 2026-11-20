@@ -117296,12 +117296,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-20T08:06:11.000Z",
+      "buffer_due_at_utc": "2026-11-20T08:08:11.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6afff6804c1afd05deff3be3",
+      "buffer_post_id": "6afff6860f5eda1a57ce47da",
       "caption_file": "output/2026-11-20/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-20T08:08:11.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afff6860f5eda1a57ce47da",
+          "published_at_utc": "2026-11-20T07:28:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-20T08:06:11.000Z",
           "buffer_mode": "customScheduled",
@@ -117311,7 +117317,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac-techcrunch.png",
       "metadata_file": "output/2026-11-20/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac-techcrunch.json",
-      "published_at_utc": "2026-11-20T07:28:00Z",
+      "published_at_utc": "2026-11-20T07:28:06Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.png": {
