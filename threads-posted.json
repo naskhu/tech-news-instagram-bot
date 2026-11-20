@@ -117544,6 +117544,25 @@
       "metadata_file": "output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.json",
       "published_at_utc": "2026-11-20T00:14:48Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-21/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-hum.png": {
+      "buffer_due_at_utc": "2026-11-20T22:47:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b00cdec5102766245db421d",
+      "caption_file": "output/2026-11-21/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-hum.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-20T22:47:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b00cdec5102766245db421d",
+          "published_at_utc": "2026-11-20T22:47:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-21/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-hum.png",
+      "metadata_file": "output/2026-11-21/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-hum.json",
+      "published_at_utc": "2026-11-20T22:47:08Z",
+      "publisher": "buffer_threads"
     }
   }
 }
