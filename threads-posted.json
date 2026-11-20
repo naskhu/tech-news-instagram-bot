@@ -117319,6 +117319,25 @@
       "metadata_file": "output/2026-11-20/these-tech-outages-are-giving-y2k-ai-agent-style-techcrunch.json",
       "published_at_utc": "2026-11-20T00:14:37Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.png": {
+      "buffer_due_at_utc": "2026-11-20T01:11:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aff90f37b0a126ceb931d34",
+      "caption_file": "output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-20T01:11:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aff90f37b0a126ceb931d34",
+          "published_at_utc": "2026-11-20T00:14:43Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.png",
+      "metadata_file": "output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.json",
+      "published_at_utc": "2026-11-20T00:14:43Z",
+      "publisher": "buffer_threads"
     }
   }
 }
