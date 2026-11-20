@@ -117246,12 +117246,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-expose.png": {
-      "buffer_due_at_utc": "2026-11-20T16:25:16.000Z",
+      "buffer_due_at_utc": "2026-11-20T16:27:16.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b007440825e970fbdf94eda",
+      "buffer_post_id": "6b0074466eabfb806ccd436c",
       "caption_file": "output/2026-11-20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-expose.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-20T16:27:16.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0074466eabfb806ccd436c",
+          "published_at_utc": "2026-11-20T16:24:38Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-20T16:25:16.000Z",
           "buffer_mode": "customScheduled",
@@ -117261,7 +117267,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-expose.png",
       "metadata_file": "output/2026-11-20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-expose.json",
-      "published_at_utc": "2026-11-20T16:24:32Z",
+      "published_at_utc": "2026-11-20T16:24:38Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models-techc.png": {
