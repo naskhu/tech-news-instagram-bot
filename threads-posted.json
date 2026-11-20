@@ -117445,6 +117445,25 @@
       "published_at_utc": "2026-11-20T00:14:25Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-20/six-ai-powered-gadgets-that-could-make-your-home-office-smarter-techcr.png": {
+      "buffer_due_at_utc": "2026-11-20T17:22:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b007463fcc25b86564641a7",
+      "caption_file": "output/2026-11-20/six-ai-powered-gadgets-that-could-make-your-home-office-smarter-techcr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-20T17:22:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b007463fcc25b86564641a7",
+          "published_at_utc": "2026-11-20T16:25:07Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/six-ai-powered-gadgets-that-could-make-your-home-office-smarter-techcr.png",
+      "metadata_file": "output/2026-11-20/six-ai-powered-gadgets-that-could-make-your-home-office-smarter-techcr.json",
+      "published_at_utc": "2026-11-20T16:25:07Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-20/these-tech-outages-are-giving-y2k-ai-agent-style-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-20T00:54:42.000Z",
       "buffer_mode": "customScheduled",
