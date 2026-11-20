@@ -117246,12 +117246,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.png": {
-      "buffer_due_at_utc": "2026-11-20T00:14:52.000Z",
+      "buffer_due_at_utc": "2026-11-20T00:16:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aff90d04c1afd05deda69b0",
+      "buffer_post_id": "6aff90d5d5f8acdd0d594abb",
       "caption_file": "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-20T00:16:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aff90d5d5f8acdd0d594abb",
+          "published_at_utc": "2026-11-20T00:14:13Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-20T00:14:52.000Z",
           "buffer_mode": "customScheduled",
@@ -117261,7 +117267,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.png",
       "metadata_file": "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.json",
-      "published_at_utc": "2026-11-20T00:14:08Z",
+      "published_at_utc": "2026-11-20T00:14:13Z",
       "publisher": "buffer_threads"
     }
   }
