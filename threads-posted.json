@@ -117244,6 +117244,25 @@
       "metadata_file": "output/2026-11-19/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-w.json",
       "published_at_utc": "2026-11-19T08:55:39Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.png": {
+      "buffer_due_at_utc": "2026-11-20T00:14:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aff90d04c1afd05deda69b0",
+      "caption_file": "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-20T00:14:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aff90d04c1afd05deda69b0",
+          "published_at_utc": "2026-11-20T00:14:08Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.png",
+      "metadata_file": "output/2026-11-20/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones-te.json",
+      "published_at_utc": "2026-11-20T00:14:08Z",
+      "publisher": "buffer_threads"
     }
   }
 }
