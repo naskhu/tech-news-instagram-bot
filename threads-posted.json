@@ -117546,12 +117546,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-21/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-hum.png": {
-      "buffer_due_at_utc": "2026-11-20T22:47:52.000Z",
+      "buffer_due_at_utc": "2026-11-20T22:49:52.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b00cdec5102766245db421d",
+      "buffer_post_id": "6b00cdf39ffbc8503cdf27fa",
       "caption_file": "output/2026-11-21/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-hum.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-20T22:49:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b00cdf39ffbc8503cdf27fa",
+          "published_at_utc": "2026-11-20T22:47:15Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-20T22:47:52.000Z",
           "buffer_mode": "customScheduled",
@@ -117561,7 +117567,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-21/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-hum.png",
       "metadata_file": "output/2026-11-21/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-hum.json",
-      "published_at_utc": "2026-11-20T22:47:08Z",
+      "published_at_utc": "2026-11-20T22:47:15Z",
       "publisher": "buffer_threads"
     }
   }
