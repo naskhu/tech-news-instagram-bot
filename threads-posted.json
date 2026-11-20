@@ -117321,12 +117321,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.png": {
-      "buffer_due_at_utc": "2026-11-20T01:11:37.000Z",
+      "buffer_due_at_utc": "2026-11-20T01:13:37.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aff90f37b0a126ceb931d34",
+      "buffer_post_id": "6aff90f87b0a126ceb931f23",
       "caption_file": "output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-20T01:13:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aff90f87b0a126ceb931f23",
+          "published_at_utc": "2026-11-20T00:14:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-20T01:11:37.000Z",
           "buffer_mode": "customScheduled",
@@ -117336,7 +117342,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.png",
       "metadata_file": "output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.json",
-      "published_at_utc": "2026-11-20T00:14:43Z",
+      "published_at_utc": "2026-11-20T00:14:48Z",
       "publisher": "buffer_threads"
     }
   }
