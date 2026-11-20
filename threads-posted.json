@@ -117395,6 +117395,25 @@
       "published_at_utc": "2026-11-20T00:14:37Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-20/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers-te.png": {
+      "buffer_due_at_utc": "2026-11-20T08:25:06.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6afff68c7b0a126cebb7bee2",
+      "caption_file": "output/2026-11-20/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers-te.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-20T08:25:06.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6afff68c7b0a126cebb7bee2",
+          "published_at_utc": "2026-11-20T07:28:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers-te.png",
+      "metadata_file": "output/2026-11-20/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers-te.json",
+      "published_at_utc": "2026-11-20T07:28:12Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-20/want-to-see-your-live-ai-usage-on-your-mac-s-icons-this-clever-new-app.png": {
       "buffer_due_at_utc": "2026-11-20T01:13:37.000Z",
       "buffer_mode": "customScheduled",
