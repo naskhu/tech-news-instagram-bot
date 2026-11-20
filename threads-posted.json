@@ -117294,6 +117294,25 @@
       "metadata_file": "output/2026-11-20/meta-s-new-muse-charm-device-may-cost-300-techcrunch.json",
       "published_at_utc": "2026-11-20T00:14:25Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-20/these-tech-outages-are-giving-y2k-ai-agent-style-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-20T00:52:42.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6aff90e7d5f8acdd0d594f74",
+      "caption_file": "output/2026-11-20/these-tech-outages-are-giving-y2k-ai-agent-style-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-20T00:52:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aff90e7d5f8acdd0d594f74",
+          "published_at_utc": "2026-11-20T00:14:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/these-tech-outages-are-giving-y2k-ai-agent-style-techcrunch.png",
+      "metadata_file": "output/2026-11-20/these-tech-outages-are-giving-y2k-ai-agent-style-techcrunch.json",
+      "published_at_utc": "2026-11-20T00:14:31Z",
+      "publisher": "buffer_threads"
     }
   }
 }
