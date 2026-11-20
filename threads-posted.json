@@ -117271,12 +117271,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-20/meta-s-new-muse-charm-device-may-cost-300-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-20T00:33:47.000Z",
+      "buffer_due_at_utc": "2026-11-20T00:35:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6aff90db0f5eda1a57a99f77",
+      "buffer_post_id": "6aff90e1738ce4635f719f40",
       "caption_file": "output/2026-11-20/meta-s-new-muse-charm-device-may-cost-300-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-20T00:35:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6aff90e1738ce4635f719f40",
+          "published_at_utc": "2026-11-20T00:14:25Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-20T00:33:47.000Z",
           "buffer_mode": "customScheduled",
@@ -117286,7 +117292,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-20/meta-s-new-muse-charm-device-may-cost-300-techcrunch.png",
       "metadata_file": "output/2026-11-20/meta-s-new-muse-charm-device-may-cost-300-techcrunch.json",
-      "published_at_utc": "2026-11-20T00:14:19Z",
+      "published_at_utc": "2026-11-20T00:14:25Z",
       "publisher": "buffer_threads"
     }
   }
