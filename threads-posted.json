@@ -117796,12 +117796,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-21/the-clicks-communicator-is-getting-a-small-delay.png": {
-      "buffer_due_at_utc": "2026-11-21T12:58:50.000Z",
+      "buffer_due_at_utc": "2026-11-21T13:00:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0188328bd84d5966e5ae21",
+      "buffer_post_id": "6b0188378bd84d5966e5b26a",
       "caption_file": "output/2026-11-21/the-clicks-communicator-is-getting-a-small-delay.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-21T13:00:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0188378bd84d5966e5b26a",
+          "published_at_utc": "2026-11-21T12:01:59Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-21T12:58:50.000Z",
           "buffer_mode": "customScheduled",
@@ -117811,7 +117817,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-21/the-clicks-communicator-is-getting-a-small-delay.png",
       "metadata_file": "output/2026-11-21/the-clicks-communicator-is-getting-a-small-delay.json",
-      "published_at_utc": "2026-11-21T12:01:54Z",
+      "published_at_utc": "2026-11-21T12:01:59Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-21/the-us-national-cyber-director-is-stepping-down-techcrunch.png": {
