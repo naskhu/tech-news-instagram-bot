@@ -117671,12 +117671,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-21/gta-vi-broke-comcast-s-network-traffic-records.png": {
-      "buffer_due_at_utc": "2026-11-21T04:23:39.000Z",
+      "buffer_due_at_utc": "2026-11-21T04:25:39.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0113d6d9cbb430a118479b",
+      "buffer_post_id": "6b0113db9ffbc8503cf67807",
       "caption_file": "output/2026-11-21/gta-vi-broke-comcast-s-network-traffic-records.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-21T04:25:39.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0113db9ffbc8503cf67807",
+          "published_at_utc": "2026-11-21T03:45:31Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-21T04:23:39.000Z",
           "buffer_mode": "customScheduled",
@@ -117686,7 +117692,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-21/gta-vi-broke-comcast-s-network-traffic-records.png",
       "metadata_file": "output/2026-11-21/gta-vi-broke-comcast-s-network-traffic-records.json",
-      "published_at_utc": "2026-11-21T03:45:26Z",
+      "published_at_utc": "2026-11-21T03:45:31Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-21/super-hot-rock-geothermal-could-end-data-center-energy-woes-techcrunch.png": {
