@@ -118007,6 +118007,25 @@
       "metadata_file": "output/2026-11-22/amazon-is-complaining-about-nyc-council-on-shipping-labels-too.json",
       "published_at_utc": "2026-11-21T23:45:42Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-22/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat.png": {
+      "buffer_due_at_utc": "2026-11-22T00:42:35.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b022d2cd5eabfb8cc6c0269",
+      "caption_file": "output/2026-11-22/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-22T00:42:35.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b022d2cd5eabfb8cc6c0269",
+          "published_at_utc": "2026-11-21T23:45:48Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-22/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat.png",
+      "metadata_file": "output/2026-11-22/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat.json",
+      "published_at_utc": "2026-11-21T23:45:48Z",
+      "publisher": "buffer_threads"
     }
   }
 }
