@@ -117957,6 +117957,25 @@
       "metadata_file": "output/2026-11-22/a-tale-of-two-nvidias.json",
       "published_at_utc": "2026-11-21T23:45:12Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-22/alaska-your-next-governor-is-a-wikipedia-nerd-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-22T00:04:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b022d0ec72676f5e9ec8833",
+      "caption_file": "output/2026-11-22/alaska-your-next-governor-is-a-wikipedia-nerd-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-22T00:04:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b022d0ec72676f5e9ec8833",
+          "published_at_utc": "2026-11-21T23:45:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-22/alaska-your-next-governor-is-a-wikipedia-nerd-techcrunch.png",
+      "metadata_file": "output/2026-11-22/alaska-your-next-governor-is-a-wikipedia-nerd-techcrunch.json",
+      "published_at_utc": "2026-11-21T23:45:18Z",
+      "publisher": "buffer_threads"
     }
   }
 }
