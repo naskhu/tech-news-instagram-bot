@@ -117959,12 +117959,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-22/alaska-your-next-governor-is-a-wikipedia-nerd-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-22T00:04:45.000Z",
+      "buffer_due_at_utc": "2026-11-22T00:06:45.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b022d0ec72676f5e9ec8833",
+      "buffer_post_id": "6b022d19cc364169c1132694",
       "caption_file": "output/2026-11-22/alaska-your-next-governor-is-a-wikipedia-nerd-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-22T00:06:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b022d19cc364169c1132694",
+          "published_at_utc": "2026-11-21T23:45:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-22T00:04:45.000Z",
           "buffer_mode": "customScheduled",
@@ -117974,7 +117980,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-22/alaska-your-next-governor-is-a-wikipedia-nerd-techcrunch.png",
       "metadata_file": "output/2026-11-22/alaska-your-next-governor-is-a-wikipedia-nerd-techcrunch.json",
-      "published_at_utc": "2026-11-21T23:45:18Z",
+      "published_at_utc": "2026-11-21T23:45:29Z",
       "publisher": "buffer_threads"
     }
   }
