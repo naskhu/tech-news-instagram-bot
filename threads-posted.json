@@ -117934,12 +117934,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-22/a-tale-of-two-nvidias.png": {
-      "buffer_due_at_utc": "2026-11-21T23:45:50.000Z",
+      "buffer_due_at_utc": "2026-11-21T23:47:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b022d01d5eabfb8cc6bf985",
+      "buffer_post_id": "6b022d08846b0ee907474ec9",
       "caption_file": "output/2026-11-22/a-tale-of-two-nvidias.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-21T23:47:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b022d08846b0ee907474ec9",
+          "published_at_utc": "2026-11-21T23:45:12Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-21T23:45:50.000Z",
           "buffer_mode": "customScheduled",
@@ -117949,7 +117955,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-22/a-tale-of-two-nvidias.png",
       "metadata_file": "output/2026-11-22/a-tale-of-two-nvidias.json",
-      "published_at_utc": "2026-11-21T23:45:06Z",
+      "published_at_utc": "2026-11-21T23:45:12Z",
       "publisher": "buffer_threads"
     }
   }
