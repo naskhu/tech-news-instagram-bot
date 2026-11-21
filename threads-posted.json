@@ -117721,12 +117721,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-21/nvidia-s-stock-closes-the-week-down-14-percent-as-reuters-reports-the-.png": {
-      "buffer_due_at_utc": "2026-11-21T12:21:00.000Z",
+      "buffer_due_at_utc": "2026-11-21T12:23:00.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b01881bd5eabfb8cc29d23c",
+      "buffer_post_id": "6b018821d864a011053fd688",
       "caption_file": "output/2026-11-21/nvidia-s-stock-closes-the-week-down-14-percent-as-reuters-reports-the-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-21T12:23:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b018821d864a011053fd688",
+          "published_at_utc": "2026-11-21T12:01:37Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-21T12:21:00.000Z",
           "buffer_mode": "customScheduled",
@@ -117736,7 +117742,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-21/nvidia-s-stock-closes-the-week-down-14-percent-as-reuters-reports-the-.png",
       "metadata_file": "output/2026-11-21/nvidia-s-stock-closes-the-week-down-14-percent-as-reuters-reports-the-.json",
-      "published_at_utc": "2026-11-21T12:01:32Z",
+      "published_at_utc": "2026-11-21T12:01:37Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-21/super-hot-rock-geothermal-could-end-data-center-energy-woes-techcrunch.png": {
