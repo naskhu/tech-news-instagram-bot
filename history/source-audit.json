@@ -1,8 +1,8 @@
 {
-  "run_utc": "2026-11-21T23:41:57.573265+00:00",
+  "run_utc": "2026-11-22T03:29:49.343238+00:00",
   "freshness_hours": 24,
-  "cutoff_utc": "2026-11-20T23:41:57.573396+00:00",
-  "eligible_story_count": 177,
+  "cutoff_utc": "2026-11-21T03:29:49.343361+00:00",
+  "eligible_story_count": 178,
   "sources": [
     {
       "source": "TechCrunch",
@@ -27,8 +27,8 @@
       "rss_candidates": 20,
       "page_links": 24,
       "page_articles": 24,
-      "eligible_new": 3,
-      "already_processed": 22,
+      "eligible_new": 0,
+      "already_processed": 25,
       "older_than_window": 2,
       "metadata_errors": {}
     },
@@ -55,8 +55,8 @@
       "rss_candidates": 9,
       "page_links": 30,
       "page_articles": 30,
-      "eligible_new": 14,
-      "already_processed": 0,
+      "eligible_new": 13,
+      "already_processed": 1,
       "older_than_window": 16,
       "metadata_errors": {}
     },
@@ -143,8 +143,8 @@
       "already_processed": 0,
       "older_than_window": 24,
       "metadata_errors": {
-        "missing_title": 9,
-        "no_article_metadata": 1
+        "no_article_metadata": 1,
+        "missing_title": 9
       }
     },
     {
@@ -206,7 +206,7 @@
       "rss_candidates": 20,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 24,
+      "eligible_new": 22,
       "already_processed": 1,
       "older_than_window": 20,
       "metadata_errors": {}
@@ -244,7 +244,7 @@
       "page_articles": 40,
       "eligible_new": 1,
       "already_processed": 3,
-      "older_than_window": 107,
+      "older_than_window": 108,
       "metadata_errors": {}
     },
     {
@@ -252,34 +252,30 @@
       "rss_attempts": [
         {
           "url": "https://gizmodo.com/feed",
-          "status": 403,
-          "content_type": "text/html; charset=UTF-8",
-          "entries": 0,
-          "error": "HTTPError:403 Client Error: Forbidden for url: https://gizmodo.com/feed",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "entries": 20,
+          "error": "",
           "redirected_to": "https://gizmodo.com/feed"
         }
       ],
       "page_attempts": [
         {
           "url": "https://gizmodo.com/",
-          "status": 403,
-          "links": 0,
-          "error": "HTTPError:403 Client Error: Forbidden for url: https://gizmodo.com/"
-        },
-        {
-          "url": "https://gizmodo.com/latest",
-          "status": 403,
-          "links": 0,
-          "error": "HTTPError:403 Client Error: Forbidden for url: https://gizmodo.com/latest"
+          "status": 200,
+          "links": 40,
+          "error": ""
         }
       ],
-      "rss_candidates": 0,
-      "page_links": 0,
+      "rss_candidates": 20,
+      "page_links": 40,
       "page_articles": 0,
-      "eligible_new": 0,
+      "eligible_new": 12,
       "already_processed": 0,
-      "older_than_window": 0,
-      "metadata_errors": {}
+      "older_than_window": 8,
+      "metadata_errors": {
+        "http_403": 40
+      }
     },
     {
       "source": "The Information",
@@ -304,9 +300,9 @@
       "rss_candidates": 8,
       "page_links": 0,
       "page_articles": 0,
-      "eligible_new": 2,
+      "eligible_new": 1,
       "already_processed": 0,
-      "older_than_window": 6,
+      "older_than_window": 7,
       "metadata_errors": {}
     },
     {
@@ -382,12 +378,12 @@
       "rss_candidates": 100,
       "page_links": 50,
       "page_articles": 45,
-      "eligible_new": 48,
+      "eligible_new": 47,
       "already_processed": 0,
-      "older_than_window": 45,
+      "older_than_window": 46,
       "metadata_errors": {
-        "no_article_metadata": 4,
-        "missing_title": 1
+        "missing_title": 1,
+        "no_article_metadata": 4
       }
     },
     {
@@ -416,16 +412,16 @@
         {
           "url": "https://www.pcmag.com/news",
           "status": 200,
-          "links": 22,
+          "links": 21,
           "error": ""
         }
       ],
       "rss_candidates": 0,
-      "page_links": 22,
-      "page_articles": 22,
+      "page_links": 21,
+      "page_articles": 21,
       "eligible_new": 6,
       "already_processed": 0,
-      "older_than_window": 16,
+      "older_than_window": 15,
       "metadata_errors": {}
     },
     {
@@ -493,9 +489,9 @@
       "rss_candidates": 37,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 13,
+      "eligible_new": 12,
       "already_processed": 4,
-      "older_than_window": 36,
+      "older_than_window": 37,
       "metadata_errors": {}
     },
     {
@@ -597,9 +593,9 @@
       "rss_candidates": 94,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 8,
+      "eligible_new": 6,
       "already_processed": 0,
-      "older_than_window": 98,
+      "older_than_window": 104,
       "metadata_errors": {}
     },
     {
@@ -631,9 +627,9 @@
       "rss_candidates": 96,
       "page_links": 40,
       "page_articles": 40,
-      "eligible_new": 3,
+      "eligible_new": 2,
       "already_processed": 2,
-      "older_than_window": 104,
+      "older_than_window": 105,
       "metadata_errors": {}
     },
     {
@@ -695,16 +691,16 @@
         {
           "url": "https://bgr.com/tech/",
           "status": 200,
-          "links": 11,
+          "links": 9,
           "error": ""
         }
       ],
       "rss_candidates": 20,
-      "page_links": 31,
-      "page_articles": 31,
-      "eligible_new": 25,
+      "page_links": 29,
+      "page_articles": 29,
+      "eligible_new": 26,
       "already_processed": 0,
-      "older_than_window": 6,
+      "older_than_window": 4,
       "metadata_errors": {}
     }
   ]
