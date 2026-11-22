@@ -118107,6 +118107,25 @@
       "metadata_file": "output/2026-11-22/the-fbi-and-usda-were-reportedly-hacked.json",
       "published_at_utc": "2026-11-22T03:32:44Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-22/the-un-fails-to-agree-on-rules-regulating-killer-robots.png": {
+      "buffer_due_at_utc": "2026-11-22T04:29:47.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b02626202479690921ecc6f",
+      "caption_file": "output/2026-11-22/the-un-fails-to-agree-on-rules-regulating-killer-robots.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-22T04:29:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b02626202479690921ecc6f",
+          "published_at_utc": "2026-11-22T03:32:50Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-22/the-un-fails-to-agree-on-rules-regulating-killer-robots.png",
+      "metadata_file": "output/2026-11-22/the-un-fails-to-agree-on-rules-regulating-killer-robots.json",
+      "published_at_utc": "2026-11-22T03:32:50Z",
+      "publisher": "buffer_threads"
     }
   }
 }
