@@ -118207,6 +118207,25 @@
       "metadata_file": "output/2026-11-22/the-un-fails-to-agree-on-rules-regulating-killer-robots.json",
       "published_at_utc": "2026-11-22T03:32:55Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-22/todoist-launched-an-import-tool-for-burned-microsoft-to-do-users.png": {
+      "buffer_due_at_utc": "2026-11-22T12:58:09.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b02d98a846b0ee90781e39d",
+      "caption_file": "output/2026-11-22/todoist-launched-an-import-tool-for-burned-microsoft-to-do-users.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-22T12:58:09.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b02d98a846b0ee90781e39d",
+          "published_at_utc": "2026-11-22T12:01:14Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-22/todoist-launched-an-import-tool-for-burned-microsoft-to-do-users.png",
+      "metadata_file": "output/2026-11-22/todoist-launched-an-import-tool-for-burned-microsoft-to-do-users.json",
+      "published_at_utc": "2026-11-22T12:01:14Z",
+      "publisher": "buffer_threads"
     }
   }
 }
