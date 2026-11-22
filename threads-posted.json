@@ -118059,12 +118059,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-22/john-roberts-the-voice-of-linda-belcher-is-just-happy-to-finish-a-thin.png": {
-      "buffer_due_at_utc": "2026-11-22T12:20:19.000Z",
+      "buffer_due_at_utc": "2026-11-22T12:22:19.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b02d973d864a01105bdca94",
+      "buffer_post_id": "6b02d979c72676f5e9268000",
       "caption_file": "output/2026-11-22/john-roberts-the-voice-of-linda-belcher-is-just-happy-to-finish-a-thin.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-22T12:22:19.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b02d979c72676f5e9268000",
+          "published_at_utc": "2026-11-22T12:00:57Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-22T12:20:19.000Z",
           "buffer_mode": "customScheduled",
@@ -118074,7 +118080,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-22/john-roberts-the-voice-of-linda-belcher-is-just-happy-to-finish-a-thin.png",
       "metadata_file": "output/2026-11-22/john-roberts-the-voice-of-linda-belcher-is-just-happy-to-finish-a-thin.json",
-      "published_at_utc": "2026-11-22T12:00:52Z",
+      "published_at_utc": "2026-11-22T12:00:57Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-22/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat.png": {
