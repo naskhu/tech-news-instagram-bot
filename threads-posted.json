@@ -118307,6 +118307,25 @@
       "metadata_file": "output/2026-11-23/the-most-exciting-part-of-gta-vi-as-far-as-i-m-concerned-is-the-unrele.json",
       "published_at_utc": "2026-11-22T19:02:57Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-23/why-data-centers-are-at-the-center-of-the-big-tech-backlash-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-22T19:59:57.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b033c67d864a01105ea19dd",
+      "caption_file": "output/2026-11-23/why-data-centers-are-at-the-center-of-the-big-tech-backlash-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-22T19:59:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b033c67d864a01105ea19dd",
+          "published_at_utc": "2026-11-22T19:03:03Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-23/why-data-centers-are-at-the-center-of-the-big-tech-backlash-techcrunch.png",
+      "metadata_file": "output/2026-11-23/why-data-centers-are-at-the-center-of-the-big-tech-backlash-techcrunch.json",
+      "published_at_utc": "2026-11-22T19:03:03Z",
+      "publisher": "buffer_threads"
     }
   }
 }
