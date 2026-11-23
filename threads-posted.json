@@ -118259,12 +118259,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-23/openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development-t.png": {
-      "buffer_due_at_utc": "2026-11-23T00:07:03.000Z",
+      "buffer_due_at_utc": "2026-11-23T00:09:03.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b03837acc364169c196b62d",
+      "buffer_post_id": "6b038380d5eabfb8ccedffce",
       "caption_file": "output/2026-11-23/openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-23T00:09:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b038380d5eabfb8ccedffce",
+          "published_at_utc": "2026-11-23T00:06:24Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-23T00:07:03.000Z",
           "buffer_mode": "customScheduled",
@@ -118274,7 +118280,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-23/openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development-t.png",
       "metadata_file": "output/2026-11-23/openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development-t.json",
-      "published_at_utc": "2026-11-23T00:06:18Z",
+      "published_at_utc": "2026-11-23T00:06:24Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-23/techcrunch-mobility-a-b-testing-robots-vs-humans-techcrunch.png": {
