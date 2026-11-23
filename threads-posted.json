@@ -118584,12 +118584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.png": {
-      "buffer_due_at_utc": "2026-11-23T19:59:22.000Z",
+      "buffer_due_at_utc": "2026-11-23T20:01:22.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0492270191a6ffcb89dce7",
+      "buffer_post_id": "6b04922d0720ccb67305bbc1",
       "caption_file": "output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-23T20:01:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b04922d0720ccb67305bbc1",
+          "published_at_utc": "2026-11-23T19:21:17Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-23T19:59:22.000Z",
           "buffer_mode": "customScheduled",
@@ -118599,7 +118605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.png",
       "metadata_file": "output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.json",
-      "published_at_utc": "2026-11-23T19:21:11Z",
+      "published_at_utc": "2026-11-23T19:21:17Z",
       "publisher": "buffer_threads"
     }
   }
