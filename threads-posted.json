@@ -118534,12 +118534,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/amazon-snaps-up-decart-s-ai-optimization-tech-for-7-5b-as-it-prepares-.png": {
-      "buffer_due_at_utc": "2026-11-23T19:21:32.000Z",
+      "buffer_due_at_utc": "2026-11-23T19:23:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b04920f768ab8d8e40a6968",
+      "buffer_post_id": "6b0492156dffe25404da311c",
       "caption_file": "output/2026-11-24/amazon-snaps-up-decart-s-ai-optimization-tech-for-7-5b-as-it-prepares-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-23T19:23:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0492156dffe25404da311c",
+          "published_at_utc": "2026-11-23T19:20:53Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-23T19:21:32.000Z",
           "buffer_mode": "customScheduled",
@@ -118549,7 +118555,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-24/amazon-snaps-up-decart-s-ai-optimization-tech-for-7-5b-as-it-prepares-.png",
       "metadata_file": "output/2026-11-24/amazon-snaps-up-decart-s-ai-optimization-tech-for-7-5b-as-it-prepares-.json",
-      "published_at_utc": "2026-11-23T19:20:47Z",
+      "published_at_utc": "2026-11-23T19:20:53Z",
       "publisher": "buffer_threads"
     }
   }
