@@ -118582,6 +118582,25 @@
       "metadata_file": "output/2026-11-24/google-search-s-ai-mode-can-now-tap-into-drive-and-wallet-for-more-per.json",
       "published_at_utc": "2026-11-23T19:21:05Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.png": {
+      "buffer_due_at_utc": "2026-11-23T19:59:22.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0492270191a6ffcb89dce7",
+      "caption_file": "output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-23T19:59:22.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0492270191a6ffcb89dce7",
+          "published_at_utc": "2026-11-23T19:21:11Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.png",
+      "metadata_file": "output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.json",
+      "published_at_utc": "2026-11-23T19:21:11Z",
+      "publisher": "buffer_threads"
     }
   }
 }
