@@ -118458,6 +118458,25 @@
       "published_at_utc": "2026-11-23T00:06:48Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-23/what-sci-fi-dystopia-do-you-want-to-live-in.png": {
+      "buffer_due_at_utc": "2026-11-23T08:04:43.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b03e645f7628650812dfc66",
+      "caption_file": "output/2026-11-23/what-sci-fi-dystopia-do-you-want-to-live-in.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-23T08:04:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b03e645f7628650812dfc66",
+          "published_at_utc": "2026-11-23T07:07:49Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-23/what-sci-fi-dystopia-do-you-want-to-live-in.png",
+      "metadata_file": "output/2026-11-23/what-sci-fi-dystopia-do-you-want-to-live-in.json",
+      "published_at_utc": "2026-11-23T07:07:49Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-23/why-data-centers-are-at-the-center-of-the-big-tech-backlash-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-22T20:01:57.000Z",
       "buffer_mode": "customScheduled",
