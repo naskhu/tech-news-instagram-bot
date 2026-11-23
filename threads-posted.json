@@ -118258,6 +118258,25 @@
       "published_at_utc": "2026-11-22T19:02:33Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-23/openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development-t.png": {
+      "buffer_due_at_utc": "2026-11-23T00:07:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b03837acc364169c196b62d",
+      "caption_file": "output/2026-11-23/openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development-t.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-23T00:07:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b03837acc364169c196b62d",
+          "published_at_utc": "2026-11-23T00:06:18Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-23/openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development-t.png",
+      "metadata_file": "output/2026-11-23/openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development-t.json",
+      "published_at_utc": "2026-11-23T00:06:18Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-23/techcrunch-mobility-a-b-testing-robots-vs-humans-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-22T19:24:07.000Z",
       "buffer_mode": "customScheduled",
