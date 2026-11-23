@@ -118407,6 +118407,25 @@
       "metadata_file": "output/2026-11-23/why-data-centers-are-at-the-center-of-the-big-tech-backlash-techcrunch.json",
       "published_at_utc": "2026-11-22T19:03:09Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-23/you-can-see-everything-has-made-more-than-100m-worldwide-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-23T01:03:48.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b03839ec72676f5e96edca2",
+      "caption_file": "output/2026-11-23/you-can-see-everything-has-made-more-than-100m-worldwide-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-23T01:03:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b03839ec72676f5e96edca2",
+          "published_at_utc": "2026-11-23T00:06:54Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-23/you-can-see-everything-has-made-more-than-100m-worldwide-techcrunch.png",
+      "metadata_file": "output/2026-11-23/you-can-see-everything-has-made-more-than-100m-worldwide-techcrunch.json",
+      "published_at_utc": "2026-11-23T00:06:54Z",
+      "publisher": "buffer_threads"
     }
   }
 }
