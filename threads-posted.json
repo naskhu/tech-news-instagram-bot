@@ -118309,12 +118309,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-23/the-best-apps-to-make-new-friends-right-now-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-23T00:25:58.000Z",
+      "buffer_due_at_utc": "2026-11-23T00:27:58.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b038386d5eabfb8ccee04d3",
+      "buffer_post_id": "6b03838cd864a0110507188e",
       "caption_file": "output/2026-11-23/the-best-apps-to-make-new-friends-right-now-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-23T00:27:58.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b03838cd864a0110507188e",
+          "published_at_utc": "2026-11-23T00:06:36Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-23T00:25:58.000Z",
           "buffer_mode": "customScheduled",
@@ -118324,7 +118330,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-23/the-best-apps-to-make-new-friends-right-now-techcrunch.png",
       "metadata_file": "output/2026-11-23/the-best-apps-to-make-new-friends-right-now-techcrunch.json",
-      "published_at_utc": "2026-11-23T00:06:30Z",
+      "published_at_utc": "2026-11-23T00:06:36Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-23/the-most-exciting-part-of-gta-vi-as-far-as-i-m-concerned-is-the-unrele.png": {
