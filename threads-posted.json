@@ -118358,6 +118358,25 @@
       "published_at_utc": "2026-11-22T19:02:57Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-23/we-haven-t-seen-the-last-of-the-major-tech-outages.png": {
+      "buffer_due_at_utc": "2026-11-23T00:44:53.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b038392cc364169c196bf1a",
+      "caption_file": "output/2026-11-23/we-haven-t-seen-the-last-of-the-major-tech-outages.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-23T00:44:53.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b038392cc364169c196bf1a",
+          "published_at_utc": "2026-11-23T00:06:42Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-23/we-haven-t-seen-the-last-of-the-major-tech-outages.png",
+      "metadata_file": "output/2026-11-23/we-haven-t-seen-the-last-of-the-major-tech-outages.json",
+      "published_at_utc": "2026-11-23T00:06:42Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-23/why-data-centers-are-at-the-center-of-the-big-tech-backlash-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-22T20:01:57.000Z",
       "buffer_mode": "customScheduled",
