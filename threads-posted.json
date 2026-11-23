@@ -118409,12 +118409,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-23/you-can-see-everything-has-made-more-than-100m-worldwide-techcrunch.png": {
-      "buffer_due_at_utc": "2026-11-23T01:03:48.000Z",
+      "buffer_due_at_utc": "2026-11-23T01:05:48.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b03839ec72676f5e96edca2",
+      "buffer_post_id": "6b0383a4846b0ee907caceeb",
       "caption_file": "output/2026-11-23/you-can-see-everything-has-made-more-than-100m-worldwide-techcrunch.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-23T01:05:48.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0383a4846b0ee907caceeb",
+          "published_at_utc": "2026-11-23T00:07:00Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-23T01:03:48.000Z",
           "buffer_mode": "customScheduled",
@@ -118424,7 +118430,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-23/you-can-see-everything-has-made-more-than-100m-worldwide-techcrunch.png",
       "metadata_file": "output/2026-11-23/you-can-see-everything-has-made-more-than-100m-worldwide-techcrunch.json",
-      "published_at_utc": "2026-11-23T00:06:54Z",
+      "published_at_utc": "2026-11-23T00:07:00Z",
       "publisher": "buffer_threads"
     }
   }
