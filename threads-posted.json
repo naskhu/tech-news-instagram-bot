@@ -118609,12 +118609,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious-te.png": {
-      "buffer_due_at_utc": "2026-11-23T20:18:17.000Z",
+      "buffer_due_at_utc": "2026-11-23T20:20:17.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b04923376f8581f13947a68",
+      "buffer_post_id": "6b04923983d02a16338a34fe",
       "caption_file": "output/2026-11-24/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious-te.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-23T20:20:17.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b04923983d02a16338a34fe",
+          "published_at_utc": "2026-11-23T19:21:29Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-23T20:18:17.000Z",
           "buffer_mode": "customScheduled",
@@ -118624,7 +118630,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-24/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious-te.png",
       "metadata_file": "output/2026-11-24/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious-te.json",
-      "published_at_utc": "2026-11-23T19:21:23Z",
+      "published_at_utc": "2026-11-23T19:21:29Z",
       "publisher": "buffer_threads"
     }
   }
