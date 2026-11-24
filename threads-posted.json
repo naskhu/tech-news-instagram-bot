@@ -118659,12 +118659,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidia-s-board-t.png": {
-      "buffer_due_at_utc": "2026-11-24T15:04:20.000Z",
+      "buffer_due_at_utc": "2026-11-24T15:06:20.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b05a7480b598b725189b70c",
+      "buffer_post_id": "6b05a74e3e12cdd8a104a249",
       "caption_file": "output/2026-11-24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidia-s-board-t.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-24T15:06:20.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b05a74e3e12cdd8a104a249",
+          "published_at_utc": "2026-11-24T15:03:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-24T15:04:20.000Z",
           "buffer_mode": "customScheduled",
@@ -118674,7 +118680,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidia-s-board-t.png",
       "metadata_file": "output/2026-11-24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidia-s-board-t.json",
-      "published_at_utc": "2026-11-24T15:03:36Z",
+      "published_at_utc": "2026-11-24T15:03:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinst.png": {
