@@ -118857,6 +118857,25 @@
       "metadata_file": "output/2026-11-25/even-the-best-ai-agents-struggle-with-everyday-life-techcrunch.json",
       "published_at_utc": "2026-11-24T23:56:27Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-25/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he-s-in-.png": {
+      "buffer_due_at_utc": "2026-11-25T00:16:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0624319192919413250bd1",
+      "caption_file": "output/2026-11-25/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he-s-in-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-25T00:16:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0624319192919413250bd1",
+          "published_at_utc": "2026-11-24T23:56:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-25/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he-s-in-.png",
+      "metadata_file": "output/2026-11-25/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he-s-in-.json",
+      "published_at_utc": "2026-11-24T23:56:33Z",
+      "publisher": "buffer_threads"
     }
   }
 }
