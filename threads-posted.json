@@ -118784,12 +118784,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/outrageous-reckless-wow-here-s-what-politicians-are-saying-about-jense.png": {
-      "buffer_due_at_utc": "2026-11-24T16:01:05.000Z",
+      "buffer_due_at_utc": "2026-11-24T16:03:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b05a76e0b598b725189cd52",
+      "buffer_post_id": "6b05a7740b598b725189d05e",
       "caption_file": "output/2026-11-24/outrageous-reckless-wow-here-s-what-politicians-are-saying-about-jense.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-24T16:03:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b05a7740b598b725189d05e",
+          "published_at_utc": "2026-11-24T15:04:20Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-24T16:01:05.000Z",
           "buffer_mode": "customScheduled",
@@ -118799,7 +118805,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-24/outrageous-reckless-wow-here-s-what-politicians-are-saying-about-jense.png",
       "metadata_file": "output/2026-11-24/outrageous-reckless-wow-here-s-what-politicians-are-saying-about-jense.json",
-      "published_at_utc": "2026-11-24T15:04:14Z",
+      "published_at_utc": "2026-11-24T15:04:20Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-int.png": {
