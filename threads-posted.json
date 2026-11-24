@@ -118707,6 +118707,25 @@
       "metadata_file": "output/2026-11-24/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious-te.json",
       "published_at_utc": "2026-11-23T19:21:29Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-24/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-int.png": {
+      "buffer_due_at_utc": "2026-11-24T05:22:33.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0511c3db52b449cf25424d",
+      "caption_file": "output/2026-11-24/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-int.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-24T05:22:33.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0511c3db52b449cf25424d",
+          "published_at_utc": "2026-11-24T04:25:39Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-24/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-int.png",
+      "metadata_file": "output/2026-11-24/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-int.json",
+      "published_at_utc": "2026-11-24T04:25:39Z",
+      "publisher": "buffer_threads"
     }
   }
 }
