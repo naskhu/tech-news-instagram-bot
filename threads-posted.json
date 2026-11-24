@@ -118584,12 +118584,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-a.png": {
-      "buffer_due_at_utc": "2026-11-24T04:44:43.000Z",
+      "buffer_due_at_utc": "2026-11-24T04:46:43.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0511ac9a4bd32ca3f2a9d5",
+      "buffer_post_id": "6b0511b1bc151fa8ad224e42",
       "caption_file": "output/2026-11-24/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-a.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-24T04:46:43.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0511b1bc151fa8ad224e42",
+          "published_at_utc": "2026-11-24T04:25:21Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-24T04:44:43.000Z",
           "buffer_mode": "customScheduled",
@@ -118599,7 +118605,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-24/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-a.png",
       "metadata_file": "output/2026-11-24/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-a.json",
-      "published_at_utc": "2026-11-24T04:25:16Z",
+      "published_at_utc": "2026-11-24T04:25:21Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-24/google-search-s-ai-mode-can-now-tap-into-drive-and-wallet-for-more-per.png": {
