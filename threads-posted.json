@@ -119076,10 +119076,15 @@
     },
     "output/2026-11-25/x-s-latest-update-for-creators-focuses-on-vertical-video.png": {
       "buffer_mode": "shareNow",
-      "buffer_post_id": "6b071d96db4eb3d5351ecfae",
+      "buffer_post_id": "6b071da5c3e5b879357aa44b",
       "caption_file": "output/2026-11-25/x-s-latest-update-for-creators-focuses-on-vertical-video.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6b071da5c3e5b879357aa44b",
+          "published_at_utc": "2026-11-25T17:41:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_mode": "shareNow",
           "buffer_post_id": "6b071d96db4eb3d5351ecfae",
@@ -119088,7 +119093,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-25/x-s-latest-update-for-creators-focuses-on-vertical-video.png",
       "metadata_file": "output/2026-11-25/x-s-latest-update-for-creators-focuses-on-vertical-video.json",
-      "published_at_utc": "2026-11-25T17:40:48Z",
+      "published_at_utc": "2026-11-25T17:41:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-25/yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-c.png": {
