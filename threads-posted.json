@@ -119052,6 +119052,23 @@
       "published_at_utc": "2026-11-25T06:31:27Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats-.png": {
+      "buffer_mode": "shareNow",
+      "buffer_post_id": "6b071d77539d8fe993e17b2f",
+      "caption_file": "output/2026-11-25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats-.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_mode": "shareNow",
+          "buffer_post_id": "6b071d77539d8fe993e17b2f",
+          "published_at_utc": "2026-11-25T17:40:17Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats-.png",
+      "metadata_file": "output/2026-11-25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats-.json",
+      "published_at_utc": "2026-11-25T17:40:17Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-25/yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-c.png": {
       "buffer_due_at_utc": "2026-11-25T07:30:27.000Z",
       "buffer_mode": "customScheduled",
