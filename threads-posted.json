@@ -118982,6 +118982,25 @@
       "metadata_file": "output/2026-11-25/trump-reportedly-says-pardoning-jensen-huang-is-an-option-techcrunch.json",
       "published_at_utc": "2026-11-25T06:31:15Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.png": {
+      "buffer_due_at_utc": "2026-11-25T07:09:32.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0680b9d8874a038cfae64c",
+      "caption_file": "output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-25T07:09:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0680b9d8874a038cfae64c",
+          "published_at_utc": "2026-11-25T06:31:21Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.png",
+      "metadata_file": "output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.json",
+      "published_at_utc": "2026-11-25T06:31:21Z",
+      "publisher": "buffer_threads"
     }
   }
 }
