@@ -119007,6 +119007,25 @@
       "metadata_file": "output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.json",
       "published_at_utc": "2026-11-25T06:31:27Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-25/yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-c.png": {
+      "buffer_due_at_utc": "2026-11-25T07:28:27.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0680c5608549ccf26b2d55",
+      "caption_file": "output/2026-11-25/yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-c.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-25T07:28:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0680c5608549ccf26b2d55",
+          "published_at_utc": "2026-11-25T06:31:33Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-25/yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-c.png",
+      "metadata_file": "output/2026-11-25/yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-c.json",
+      "published_at_utc": "2026-11-25T06:31:33Z",
+      "publisher": "buffer_threads"
     }
   }
 }
