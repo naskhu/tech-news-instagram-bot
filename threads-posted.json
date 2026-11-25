@@ -118909,12 +118909,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-25/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-fro.png": {
-      "buffer_due_at_utc": "2026-11-25T06:31:42.000Z",
+      "buffer_due_at_utc": "2026-11-25T06:33:42.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0680a29cddd8483ab5dc57",
+      "buffer_post_id": "6b0680a822dfb7833a879bf9",
       "caption_file": "output/2026-11-25/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-fro.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-25T06:33:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0680a822dfb7833a879bf9",
+          "published_at_utc": "2026-11-25T06:31:04Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-25T06:31:42.000Z",
           "buffer_mode": "customScheduled",
@@ -118924,7 +118930,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-25/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-fro.png",
       "metadata_file": "output/2026-11-25/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-fro.json",
-      "published_at_utc": "2026-11-25T06:30:58Z",
+      "published_at_utc": "2026-11-25T06:31:04Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-25/ninja-s-first-ever-microwave-just-replaced-two-of-my-kitchen-appliance.png": {
