@@ -118984,12 +118984,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.png": {
-      "buffer_due_at_utc": "2026-11-25T07:09:32.000Z",
+      "buffer_due_at_utc": "2026-11-25T07:11:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0680b9d8874a038cfae64c",
+      "buffer_post_id": "6b0680bfd8874a038cfae880",
       "caption_file": "output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-25T07:11:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0680bfd8874a038cfae880",
+          "published_at_utc": "2026-11-25T06:31:27Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-25T07:09:32.000Z",
           "buffer_mode": "customScheduled",
@@ -118999,7 +119005,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.png",
       "metadata_file": "output/2026-11-25/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-mus.json",
-      "published_at_utc": "2026-11-25T06:31:21Z",
+      "published_at_utc": "2026-11-25T06:31:27Z",
       "publisher": "buffer_threads"
     }
   }
