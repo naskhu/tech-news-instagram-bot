@@ -119345,6 +119345,25 @@
       "metadata_file": "output/2026-11-27/6-kitchen-gadgets-that-make-adulting-feel-easier-techcrunch.json",
       "published_at_utc": "2026-11-26T19:19:22Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-27/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-26T19:38:56.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0886409068b6e0795a119a",
+      "caption_file": "output/2026-11-27/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-26T19:38:56.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0886409068b6e0795a119a",
+          "published_at_utc": "2026-11-26T19:19:28Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-27/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone-techcrunch.png",
+      "metadata_file": "output/2026-11-27/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone-techcrunch.json",
+      "published_at_utc": "2026-11-26T19:19:28Z",
+      "publisher": "buffer_threads"
     }
   }
 }
