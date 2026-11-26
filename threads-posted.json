@@ -119120,6 +119120,25 @@
       "metadata_file": "output/2026-11-25/yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-c.json",
       "published_at_utc": "2026-11-25T06:31:39Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-26/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-26T01:12:37.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b07875907071a606742268b",
+      "caption_file": "output/2026-11-26/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-26T01:12:37.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b07875907071a606742268b",
+          "published_at_utc": "2026-11-26T01:11:53Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-26/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space-techcrunch.png",
+      "metadata_file": "output/2026-11-26/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space-techcrunch.json",
+      "published_at_utc": "2026-11-26T01:11:53Z",
+      "publisher": "buffer_threads"
     }
   }
 }
