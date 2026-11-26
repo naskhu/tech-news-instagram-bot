@@ -119172,12 +119172,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-26/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-cha.png": {
-      "buffer_due_at_utc": "2026-11-26T01:50:27.000Z",
+      "buffer_due_at_utc": "2026-11-26T01:52:27.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b078771b96dd8d35179543a",
+      "buffer_post_id": "6b078776b8e2338b857addff",
       "caption_file": "output/2026-11-26/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-cha.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-26T01:52:27.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b078776b8e2338b857addff",
+          "published_at_utc": "2026-11-26T01:12:22Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-26T01:50:27.000Z",
           "buffer_mode": "customScheduled",
@@ -119187,7 +119193,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-26/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-cha.png",
       "metadata_file": "output/2026-11-26/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-cha.json",
-      "published_at_utc": "2026-11-26T01:12:17Z",
+      "published_at_utc": "2026-11-26T01:12:22Z",
       "publisher": "buffer_threads"
     }
   }
