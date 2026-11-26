@@ -119147,12 +119147,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-26/jensen-huang-broke-nvidia-s-code-of-conduct-and-his-employees-may-not-.png": {
-      "buffer_due_at_utc": "2026-11-26T01:31:32.000Z",
+      "buffer_due_at_utc": "2026-11-26T01:33:32.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b078764a791bea1b240ab65",
+      "buffer_post_id": "6b07876a9f6dda31ccb0785c",
       "caption_file": "output/2026-11-26/jensen-huang-broke-nvidia-s-code-of-conduct-and-his-employees-may-not-.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-26T01:33:32.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b07876a9f6dda31ccb0785c",
+          "published_at_utc": "2026-11-26T01:12:11Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-26T01:31:32.000Z",
           "buffer_mode": "customScheduled",
@@ -119162,7 +119168,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-26/jensen-huang-broke-nvidia-s-code-of-conduct-and-his-employees-may-not-.png",
       "metadata_file": "output/2026-11-26/jensen-huang-broke-nvidia-s-code-of-conduct-and-his-employees-may-not-.json",
-      "published_at_utc": "2026-11-26T01:12:04Z",
+      "published_at_utc": "2026-11-26T01:12:11Z",
       "publisher": "buffer_threads"
     }
   }
