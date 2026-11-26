@@ -119272,12 +119272,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-26/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-ame.png": {
-      "buffer_due_at_utc": "2026-11-26T10:18:08.000Z",
+      "buffer_due_at_utc": "2026-11-26T10:20:08.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b07fe6fe52242758a1d5c09",
+      "buffer_post_id": "6b07fe75bfa140308ddf709a",
       "caption_file": "output/2026-11-26/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-ame.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-26T10:20:08.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b07fe75bfa140308ddf709a",
+          "published_at_utc": "2026-11-26T09:40:06Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-26T10:18:08.000Z",
           "buffer_mode": "customScheduled",
@@ -119287,7 +119293,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-26/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-ame.png",
       "metadata_file": "output/2026-11-26/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-ame.json",
-      "published_at_utc": "2026-11-26T09:39:59Z",
+      "published_at_utc": "2026-11-26T09:40:06Z",
       "publisher": "buffer_threads"
     }
   }
