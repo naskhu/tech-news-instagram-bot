@@ -119295,6 +119295,25 @@
       "metadata_file": "output/2026-11-26/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-ame.json",
       "published_at_utc": "2026-11-26T09:40:06Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-26/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york-techcrun.png": {
+      "buffer_due_at_utc": "2026-11-26T10:37:03.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b07fe7ce52242758a1d66bd",
+      "caption_file": "output/2026-11-26/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york-techcrun.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-26T10:37:03.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b07fe7ce52242758a1d66bd",
+          "published_at_utc": "2026-11-26T09:40:12Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-26/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york-techcrun.png",
+      "metadata_file": "output/2026-11-26/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york-techcrun.json",
+      "published_at_utc": "2026-11-26T09:40:12Z",
+      "publisher": "buffer_threads"
     }
   }
 }
