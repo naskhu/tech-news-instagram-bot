@@ -119320,6 +119320,25 @@
       "metadata_file": "output/2026-11-26/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york-techcrun.json",
       "published_at_utc": "2026-11-26T09:40:18Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-27/6-kitchen-gadgets-that-make-adulting-feel-easier-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-26T19:20:01.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b088634f0a96d0f2183b57e",
+      "caption_file": "output/2026-11-27/6-kitchen-gadgets-that-make-adulting-feel-easier-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-26T19:20:01.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b088634f0a96d0f2183b57e",
+          "published_at_utc": "2026-11-26T19:19:16Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-27/6-kitchen-gadgets-that-make-adulting-feel-easier-techcrunch.png",
+      "metadata_file": "output/2026-11-27/6-kitchen-gadgets-that-make-adulting-feel-easier-techcrunch.json",
+      "published_at_utc": "2026-11-26T19:19:16Z",
+      "publisher": "buffer_threads"
     }
   }
 }
