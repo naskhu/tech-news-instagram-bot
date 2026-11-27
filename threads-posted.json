@@ -119695,6 +119695,25 @@
       "metadata_file": "output/2026-11-28/will-future-generations-shove-earbuds-into-their-mouths-to-avoid-the-e.json",
       "published_at_utc": "2026-11-27T19:50:31Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-28/you-might-lose-your-oura-health-data-if-you-re-still-using-an-old-andr.png": {
+      "buffer_due_at_utc": "2026-11-27T20:47:30.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b09df0d277f27038a33828c",
+      "caption_file": "output/2026-11-28/you-might-lose-your-oura-health-data-if-you-re-still-using-an-old-andr.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-27T20:47:30.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b09df0d277f27038a33828c",
+          "published_at_utc": "2026-11-27T19:50:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/you-might-lose-your-oura-health-data-if-you-re-still-using-an-old-andr.png",
+      "metadata_file": "output/2026-11-28/you-might-lose-your-oura-health-data-if-you-re-still-using-an-old-andr.json",
+      "published_at_utc": "2026-11-27T19:50:37Z",
+      "publisher": "buffer_threads"
     }
   }
 }
