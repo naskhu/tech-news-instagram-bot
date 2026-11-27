@@ -119521,6 +119521,25 @@
       "published_at_utc": "2026-11-27T02:17:55Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-27/our-favorite-headphones-and-earbuds-are-cheaper-than-ever-ahead-of-bla.png": {
+      "buffer_due_at_utc": "2026-11-27T11:19:55.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0962cde94385a8fd995827",
+      "caption_file": "output/2026-11-27/our-favorite-headphones-and-earbuds-are-cheaper-than-ever-ahead-of-bla.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-27T11:19:55.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0962cde94385a8fd995827",
+          "published_at_utc": "2026-11-27T11:00:29Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-27/our-favorite-headphones-and-earbuds-are-cheaper-than-ever-ahead-of-bla.png",
+      "metadata_file": "output/2026-11-27/our-favorite-headphones-and-earbuds-are-cheaper-than-ever-ahead-of-bla.json",
+      "published_at_utc": "2026-11-27T11:00:29Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-27/x-finally-gets-parental-controls-after-20-years-techcrunch.png": {
       "buffer_due_at_utc": "2026-11-27T03:16:54.000Z",
       "buffer_mode": "customScheduled",
