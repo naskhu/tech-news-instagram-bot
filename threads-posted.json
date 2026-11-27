@@ -119547,12 +119547,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-27/soon-whatsapp-will-sell-you-an-esim.png": {
-      "buffer_due_at_utc": "2026-11-27T11:38:50.000Z",
+      "buffer_due_at_utc": "2026-11-27T11:40:50.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0962da1fd46e62e7383576",
+      "buffer_post_id": "6b0962e0e94385a8fd997086",
       "caption_file": "output/2026-11-27/soon-whatsapp-will-sell-you-an-esim.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-27T11:40:50.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0962e0e94385a8fd997086",
+          "published_at_utc": "2026-11-27T11:00:48Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-27T11:38:50.000Z",
           "buffer_mode": "customScheduled",
@@ -119562,7 +119568,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-27/soon-whatsapp-will-sell-you-an-esim.png",
       "metadata_file": "output/2026-11-27/soon-whatsapp-will-sell-you-an-esim.json",
-      "published_at_utc": "2026-11-27T11:00:42Z",
+      "published_at_utc": "2026-11-27T11:00:48Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-27/x-finally-gets-parental-controls-after-20-years-techcrunch.png": {
