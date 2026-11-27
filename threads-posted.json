@@ -119445,6 +119445,25 @@
       "metadata_file": "output/2026-11-27/grand-theft-auto-vi-proves-why-efficiency-isn-t-a-virtue-techcrunch.json",
       "published_at_utc": "2026-11-26T19:19:57Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-27/is-alice-huang-a-spy-or-not-techcrunch.png": {
+      "buffer_due_at_utc": "2026-11-27T02:37:04.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b08e8418899c4e7790be1af",
+      "caption_file": "output/2026-11-27/is-alice-huang-a-spy-or-not-techcrunch.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-27T02:37:04.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b08e8418899c4e7790be1af",
+          "published_at_utc": "2026-11-27T02:17:37Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-27/is-alice-huang-a-spy-or-not-techcrunch.png",
+      "metadata_file": "output/2026-11-27/is-alice-huang-a-spy-or-not-techcrunch.json",
+      "published_at_utc": "2026-11-27T02:17:37Z",
+      "publisher": "buffer_threads"
     }
   }
 }
