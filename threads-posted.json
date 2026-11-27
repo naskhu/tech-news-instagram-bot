@@ -119620,6 +119620,25 @@
       "metadata_file": "output/2026-11-27/x-finally-gets-parental-controls-after-20-years-techcrunch.json",
       "published_at_utc": "2026-11-27T02:18:07Z",
       "publisher": "buffer_threads"
+    },
+    "output/2026-11-28/the-best-black-friday-deals-on-smart-home-gear.png": {
+      "buffer_due_at_utc": "2026-11-27T19:50:45.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b09dee92ea34800c28cba33",
+      "caption_file": "output/2026-11-28/the-best-black-friday-deals-on-smart-home-gear.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-27T19:50:45.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b09dee92ea34800c28cba33",
+          "published_at_utc": "2026-11-27T19:50:01Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/the-best-black-friday-deals-on-smart-home-gear.png",
+      "metadata_file": "output/2026-11-28/the-best-black-friday-deals-on-smart-home-gear.json",
+      "published_at_utc": "2026-11-27T19:50:01Z",
+      "publisher": "buffer_threads"
     }
   }
 }
