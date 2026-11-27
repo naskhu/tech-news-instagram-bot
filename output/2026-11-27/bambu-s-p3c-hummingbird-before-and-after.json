@@ -1,0 +1,23 @@
+{
+  "title": "Bambu’s P3C hummingbird, before and after.",
+  "summary": "Bambu now defaults to “mixed color sublayer,” which blends colors better. (See my before/after photos!) I’m also hearing a launch firmware update lets you do all the hand-loading of filament at once instead of waiting around for each nozzle to preheat.",
+  "source": "The Verge",
+  "url": "https://theverge.com/gadgets/1043657/bambus-p3c-hummingbird-before-and-after",
+  "published_utc": "2026-11-27T00:44:28+00:00",
+  "output_day": "2026-11-27",
+  "date_source": "meta",
+  "generated_utc": "2026-11-27T02:15:46.556745+00:00",
+  "maximum_news_age_hours": 24,
+  "hero_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/20261126_151912-EDIT-1.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+  "hero_image_used": true,
+  "fallback_image_used": false,
+  "current_run_download_only": true,
+  "image_candidates_checked": 12,
+  "theme_accent_rgb": [
+    226,
+    42,
+    166
+  ],
+  "image": "output/2026-11-27/bambu-s-p3c-hummingbird-before-and-after.png",
+  "caption": "output/2026-11-27/bambu-s-p3c-hummingbird-before-and-after.txt"
+}
