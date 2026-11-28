@@ -119671,6 +119671,25 @@
       "published_at_utc": "2026-11-27T19:50:07Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-28/the-best-black-friday-deals-you-can-still-get-on-airpods-macs-and-othe.png": {
+      "buffer_due_at_utc": "2026-11-28T02:48:52.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0a3c85eab081a3f517e4c4",
+      "caption_file": "output/2026-11-28/the-best-black-friday-deals-you-can-still-get-on-airpods-macs-and-othe.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-28T02:48:52.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0a3c85eab081a3f517e4c4",
+          "published_at_utc": "2026-11-28T02:29:25Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/the-best-black-friday-deals-you-can-still-get-on-airpods-macs-and-othe.png",
+      "metadata_file": "output/2026-11-28/the-best-black-friday-deals-you-can-still-get-on-airpods-macs-and-othe.json",
+      "published_at_utc": "2026-11-28T02:29:25Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-28/the-tech-products-we-enthusiastically-recommend-this-holiday-season-te.png": {
       "buffer_due_at_utc": "2026-11-27T20:11:40.000Z",
       "buffer_mode": "customScheduled",
