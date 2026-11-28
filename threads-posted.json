@@ -119722,12 +119722,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-28/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charg.png": {
-      "buffer_due_at_utc": "2026-11-28T03:07:47.000Z",
+      "buffer_due_at_utc": "2026-11-28T03:09:47.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0a3c9070e80ae8f1c646c5",
+      "buffer_post_id": "6b0a3c9641454797eae361a6",
       "caption_file": "output/2026-11-28/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charg.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-28T03:09:47.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0a3c9641454797eae361a6",
+          "published_at_utc": "2026-11-28T02:29:42Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-28T03:07:47.000Z",
           "buffer_mode": "customScheduled",
@@ -119737,7 +119743,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charg.png",
       "metadata_file": "output/2026-11-28/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charg.json",
-      "published_at_utc": "2026-11-28T02:29:36Z",
+      "published_at_utc": "2026-11-28T02:29:42Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-28/will-future-generations-shove-earbuds-into-their-mouths-to-avoid-the-e.png": {
