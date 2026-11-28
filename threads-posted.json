@@ -119746,6 +119746,25 @@
       "published_at_utc": "2026-11-28T02:29:42Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-28/we-found-60-odd-black-friday-deals-we-love-for-100-or-less.png": {
+      "buffer_due_at_utc": "2026-11-28T03:26:42.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0a3c9beada83daa6ba8f54",
+      "caption_file": "output/2026-11-28/we-found-60-odd-black-friday-deals-we-love-for-100-or-less.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-28T03:26:42.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0a3c9beada83daa6ba8f54",
+          "published_at_utc": "2026-11-28T02:29:47Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/we-found-60-odd-black-friday-deals-we-love-for-100-or-less.png",
+      "metadata_file": "output/2026-11-28/we-found-60-odd-black-friday-deals-we-love-for-100-or-less.json",
+      "published_at_utc": "2026-11-28T02:29:47Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-28/will-future-generations-shove-earbuds-into-their-mouths-to-avoid-the-e.png": {
       "buffer_due_at_utc": "2026-11-27T20:30:35.000Z",
       "buffer_mode": "customScheduled",
