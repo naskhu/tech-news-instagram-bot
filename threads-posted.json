@@ -119871,6 +119871,25 @@
       "published_at_utc": "2026-11-27T19:50:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-28/yooka-laylee-s-free-upgrade-is-skipping-xbox.png": {
+      "buffer_due_at_utc": "2026-11-28T11:52:00.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0ab30c0a3bd455b427833f",
+      "caption_file": "output/2026-11-28/yooka-laylee-s-free-upgrade-is-skipping-xbox.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-28T11:52:00.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0ab30c0a3bd455b427833f",
+          "published_at_utc": "2026-11-28T10:55:09Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/yooka-laylee-s-free-upgrade-is-skipping-xbox.png",
+      "metadata_file": "output/2026-11-28/yooka-laylee-s-free-upgrade-is-skipping-xbox.json",
+      "published_at_utc": "2026-11-28T10:55:09Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-28/you-might-lose-your-oura-health-data-if-you-re-still-using-an-old-andr.png": {
       "buffer_due_at_utc": "2026-11-27T20:49:30.000Z",
       "buffer_mode": "customScheduled",
