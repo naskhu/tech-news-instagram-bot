@@ -119772,12 +119772,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-28/they-shot-one-of-my-favorite-fuzz-pedals-with-a-shrink-ray.png": {
-      "buffer_due_at_utc": "2026-11-28T11:33:05.000Z",
+      "buffer_due_at_utc": "2026-11-28T11:35:05.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0ab300e126bb7597211d46",
+      "buffer_post_id": "6b0ab3060a3bd455b4277be0",
       "caption_file": "output/2026-11-28/they-shot-one-of-my-favorite-fuzz-pedals-with-a-shrink-ray.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-28T11:35:05.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0ab3060a3bd455b4277be0",
+          "published_at_utc": "2026-11-28T10:55:02Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-28T11:33:05.000Z",
           "buffer_mode": "customScheduled",
@@ -119787,7 +119793,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/they-shot-one-of-my-favorite-fuzz-pedals-with-a-shrink-ray.png",
       "metadata_file": "output/2026-11-28/they-shot-one-of-my-favorite-fuzz-pedals-with-a-shrink-ray.json",
-      "published_at_utc": "2026-11-28T10:54:56Z",
+      "published_at_utc": "2026-11-28T10:55:02Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-28/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charg.png": {
