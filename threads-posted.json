@@ -119622,12 +119622,18 @@
       "publisher": "buffer_threads"
     },
     "output/2026-11-28/sony-s-1000xm4c-headphones-are-a-black-friday-bargain-at-198.png": {
-      "buffer_due_at_utc": "2026-11-28T02:29:57.000Z",
+      "buffer_due_at_utc": "2026-11-28T02:31:57.000Z",
       "buffer_mode": "customScheduled",
-      "buffer_post_id": "6b0a3c7970e80ae8f1c640e7",
+      "buffer_post_id": "6b0a3c7f41454797eae35b7b",
       "caption_file": "output/2026-11-28/sony-s-1000xm4c-headphones-are-a-black-friday-bargain-at-198.txt",
-      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channel_id": "6a63a4c9e2638b94d7ca2b3f",
       "channels": {
+        "6a63a4c9e2638b94d7ca2b3f": {
+          "buffer_due_at_utc": "2026-11-28T02:31:57.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0a3c7f41454797eae35b7b",
+          "published_at_utc": "2026-11-28T02:29:19Z"
+        },
         "6a64c576e2638b94d7d25d01": {
           "buffer_due_at_utc": "2026-11-28T02:29:57.000Z",
           "buffer_mode": "customScheduled",
@@ -119637,7 +119643,7 @@
       },
       "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/sony-s-1000xm4c-headphones-are-a-black-friday-bargain-at-198.png",
       "metadata_file": "output/2026-11-28/sony-s-1000xm4c-headphones-are-a-black-friday-bargain-at-198.json",
-      "published_at_utc": "2026-11-28T02:29:13Z",
+      "published_at_utc": "2026-11-28T02:29:19Z",
       "publisher": "buffer_threads"
     },
     "output/2026-11-28/the-best-black-friday-deals-on-smart-home-gear.png": {
