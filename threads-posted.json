@@ -119696,6 +119696,25 @@
       "published_at_utc": "2026-11-28T02:29:31Z",
       "publisher": "buffer_threads"
     },
+    "output/2026-11-28/the-best-robot-vacuums-we-ve-tested-are-up-to-60-percent-off-for-black.png": {
+      "buffer_due_at_utc": "2026-11-28T10:55:15.000Z",
+      "buffer_mode": "customScheduled",
+      "buffer_post_id": "6b0ab2e70a3bd455b4276fef",
+      "caption_file": "output/2026-11-28/the-best-robot-vacuums-we-ve-tested-are-up-to-60-percent-off-for-black.txt",
+      "channel_id": "6a64c576e2638b94d7d25d01",
+      "channels": {
+        "6a64c576e2638b94d7d25d01": {
+          "buffer_due_at_utc": "2026-11-28T10:55:15.000Z",
+          "buffer_mode": "customScheduled",
+          "buffer_post_id": "6b0ab2e70a3bd455b4276fef",
+          "published_at_utc": "2026-11-28T10:54:31Z"
+        }
+      },
+      "image_url": "https://raw.githubusercontent.com/naskhu/tech-news-instagram-bot/main/output/2026-11-28/the-best-robot-vacuums-we-ve-tested-are-up-to-60-percent-off-for-black.png",
+      "metadata_file": "output/2026-11-28/the-best-robot-vacuums-we-ve-tested-are-up-to-60-percent-off-for-black.json",
+      "published_at_utc": "2026-11-28T10:54:31Z",
+      "publisher": "buffer_threads"
+    },
     "output/2026-11-28/the-tech-products-we-enthusiastically-recommend-this-holiday-season-te.png": {
       "buffer_due_at_utc": "2026-11-27T20:11:40.000Z",
       "buffer_mode": "customScheduled",
